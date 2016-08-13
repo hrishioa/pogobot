@@ -7311,3 +7311,13 @@
 [00:11:00] (INFO) Found 1 catchable Pokemon
 [00:11:01] (BERRY) ItemRazzBerry used, remaining: 49
 [00:11:02] (Wild Success) | Dodrio 215 V |  742 Cp | 66.22% | Lvl 15 | Chance: 0.15 | with a GreatBall and received XP 210
+[00:11:04] (INFO) Found 1 pokemon to transfer...
+[00:11:05] (TRANSFER) Dodrio 154 V |  476 Cp | 46.00% | Lvl 10 | Best: [Dodrio 215 V |  742 Cp | 66.22% | Lvl 15] | Candy: 25
+[00:11:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[00:11:10] (POKESTOP) UFO Stone Seats in 69.79 m distance
+[00:11:10] (NAVIGATION) Distance to target location: 69.79 meters. Will take 8.1 seconds driving at 31kmh
+[00:11:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:11:18] (POKESTOP) Rochester Mall Fountain in 73.68 m distance
+[00:11:18] (NAVIGATION) Distance to target location: 73.68 meters. Will take 9.15 seconds driving at 29kmh
+[00:11:19] (INFO) Found 1 catchable Pokemon
+[00:11:21] (Wild Success) | Bulbasaur 116 V |  196 Cp | 14.20% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
