@@ -20388,3 +20388,8 @@
 [07:28:41] (TRANSFER) Goldeen 163 V |  355 Cp | 65.14% | Lvl 14 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 178
 [07:28:42] (INFO) Found 1 catchable Pokemon
 [07:28:44] (Wild Success) | Pidgey 91 V |   10 Cp | 44.77% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[07:28:46] (INFO) Found 1 pokemon to transfer...
+[07:28:47] (TRANSFER) Pidgey 91 V |   10 Cp | 44.77% | Lvl 01 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 919
+[07:28:49] (INFO) Found 1 catchable Pokemon
+[07:28:49] (BERRY) ItemRazzBerry used, remaining: 49
+[07:28:51] (Wild Success) | Doduo 183 V |  485 Cp | 78.07% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
