@@ -16906,3 +16906,15 @@
 [05:35:20] (TRANSFER) Pidgey 91 V |   90 Cp | 26.79% | Lvl 06 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 756
 [05:35:21] (INFO) Found 1 catchable Pokemon
 [05:35:23] (Wild Success) | Goldeen 161 V |  422 Cp | 56.77% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[05:35:24] (INFO) Found 1 pokemon to transfer...
+[05:35:26] (TRANSFER) Goldeen 161 V |  422 Cp | 56.77% | Lvl 17 | Best: [Goldeen 173 V |  503 Cp | 61.48% | Lvl 20] | Candy: 154
+[05:35:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[05:35:29] (INFO) Found 3 Recyclable Items:
+[05:35:29] (RECYCLING) RazzBerry x 2
+[05:35:30] (RECYCLING) PokeBall x 6
+[05:35:31] (RECYCLING) SuperPotion x 2
+[05:35:34] (POKESTOP) Mythical Creature Mural in 51.46 m distance
+[05:35:34] (NAVIGATION) Distance to target location: 51.46 meters. Will take 6.39 seconds driving at 29kmh
+[05:35:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:35:39] (INFO) Found 1 catchable Pokemon
+[05:35:41] (Wild Success) | Rattata 128 V |  258 Cp | 37.18% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 310
