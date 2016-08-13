@@ -11784,3 +11784,7 @@
 [02:37:52] (INFO) Found 2 catchable Pokemon
 [02:37:53] (Wild Success) | Psyduck 163 V |  309 Cp | 46.89% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [02:37:54] (Wild Success) | Slowpoke 126 V |   15 Cp | 58.79% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[02:37:56] (INFO) Found 1 pokemon to transfer...
+[02:37:58] (TRANSFER) Slowpoke 126 V |   15 Cp | 58.79% | Lvl 01 | Best: [Slowpoke 164 V |  485 Cp | 66.23% | Lvl 15] | Candy: 34
+[02:37:59] (INFO) Found 2 catchable Pokemon
+[02:38:01] (Wild Success) | Pidgey 126 V |  265 Cp | 45.32% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
