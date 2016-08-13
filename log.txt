@@ -10350,3 +10350,8 @@
 [01:53:32] (INFO) Found 2 catchable Pokemon
 [01:53:33] (Wild Success) | Paras 151 V |  219 Cp | 74.08% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
 [01:53:35] (Wild Success) | Pidgey 141 V |  260 Cp | 60.27% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[01:53:37] (INFO) Found 2 pokemon to transfer...
+[01:53:38] (TRANSFER) Pidgey 136 V |  343 Cp | 57.07% | Lvl 20 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 456
+[01:53:41] (TRANSFER) Paras 151 V |  219 Cp | 74.08% | Lvl 09 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 60
+[01:53:42] (INFO) Found 1 catchable Pokemon
+[01:53:43] (Wild Success) | Zubat 120 V |   10 Cp | 69.26% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
