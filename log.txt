@@ -19449,3 +19449,4 @@
 [06:57:21] (NAVIGATION) Distance to target location: 74.97 meters. Will take 9.64 seconds driving at 28kmh
 [06:57:26] (INFO) Found 2 catchable Pokemon
 [06:57:28] (Wild Success) | Exeggcute 169 V |  431 Cp | 60.83% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[06:57:30] (Wild Success) | Krabby 146 V |  284 Cp | 60.70% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
