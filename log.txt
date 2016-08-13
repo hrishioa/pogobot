@@ -19393,3 +19393,5 @@
 [06:55:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
 [06:55:38] (INFO) Found 2 catchable Pokemon
 [06:55:40] (Wild Success) | Rattata 131 V |  283 Cp | 35.61% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[06:55:42] (BERRY) ItemRazzBerry used, remaining: 49
+[06:55:42] (Wild Success) | Horsea 163 V |  473 Cp | 63.63% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
