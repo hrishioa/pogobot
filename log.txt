@@ -21284,3 +21284,4 @@
 [07:55:54] (INFO) Found 3 catchable Pokemon
 [07:55:56] (Wild Success) | Spearow 84 V |  262 Cp | 20.71% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
 [07:55:57] (Wild Success) | Zubat 159 V |  302 Cp | 68.67% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[07:55:59] (Wild Success) | Zubat 125 V |  226 Cp | 56.55% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
