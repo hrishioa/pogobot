@@ -5037,3 +5037,5 @@
 [22:57:07] (NAVIGATION) Distance to target location: 52.07 meters. Will take 6.25 seconds driving at 30kmh
 [22:57:08] (INFO) Found 1 catchable Pokemon
 [22:57:11] (Wild Success) | Poliwag 102 V |   50 Cp | 38.26% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
+[22:57:14] (INFO) Found 1 catchable Pokemon
+[22:57:16] (Wild Success) | Weedle 57 V |   93 Cp | 15.75% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
