@@ -18407,3 +18407,9 @@
 [06:24:11] (RECYCLING) Revive x 2
 [06:24:14] (INFO) Found 1 catchable Pokemon
 [06:24:15] (Wild Success) | Poliwag 127 V |   53 Cp | 63.35% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[06:24:17] (INFO) Found 1 pokemon to transfer...
+[06:24:18] (TRANSFER) Poliwag 127 V |   53 Cp | 63.35% | Lvl 03 | Best: [Poliwag 169 V |  396 Cp | 66.69% | Lvl 19] | Candy: 154
+[06:24:19] (POKESTOP) The Mermaid Mural in 27.97 m distance
+[06:24:19] (NAVIGATION) Distance to target location: 27.97 meters. Will take 3.25 seconds driving at 31kmh
+[06:24:21] (INFO) Found 1 catchable Pokemon
+[06:24:23] (Wild Success) | Rattata 109 V |  134 Cp | 34.38% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
