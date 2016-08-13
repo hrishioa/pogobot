@@ -4367,3 +4367,16 @@
 [22:29:20] (NAVIGATION) Distance to target location: 164.41 meters. Will take 19.09 seconds driving at 31kmh
 [22:29:24] (INFO) Found 1 catchable Pokemon
 [22:29:25] (Wild Success) | Psyduck 82 V |   41 Cp | 25.67% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[22:29:27] (INFO) Found 1 pokemon to transfer...
+[22:29:28] (TRANSFER) Psyduck 82 V |   41 Cp | 25.67% | Lvl 02 | Best: [Psyduck 142 V |  304 Cp | 40.14% | Lvl 11] | Candy: 42
+[22:29:37] (INFO) Found 1 catchable Pokemon
+[22:29:38] (Wild Escape) | Zubat 148 V |  250 Cp | 67.62% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[22:29:39] (Wild Success Attempt #2) | Zubat 148 V |  250 Cp | 67.62% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[22:29:40] (INFO) Found 1 pokemon to transfer...
+[22:29:42] (TRANSFER) Zubat 148 V |  250 Cp | 67.62% | Lvl 15 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 330
+[22:29:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:29:44] (INFO) Found 32 Pokestops
+[22:29:45] (POKESTOP) Solaris in 395.31 m distance
+[22:29:45] (NAVIGATION) Distance to target location: 395.31 meters. Will take 20.33 seconds driving at 70kmh
+[22:29:57] (INFO) Found 1 catchable Pokemon
+[22:29:58] (Wild Success) | Staryu 89 V |   11 Cp | 35.72% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
