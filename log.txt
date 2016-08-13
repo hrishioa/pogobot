@@ -12788,3 +12788,7 @@
 [03:09:38] (NAVIGATION) Distance to target location: 93.83 meters. Will take 11.26 seconds driving at 30kmh
 [03:09:41] (INFO) Found 1 catchable Pokemon
 [03:09:42] (Wild Success) | Exeggcute 152 V |  313 Cp | 55.92% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[03:09:44] (INFO) Found 1 pokemon to transfer...
+[03:09:45] (TRANSFER) Exeggcute 152 V |  313 Cp | 55.92% | Lvl 11 | Best: [Exeggcute 180 V |  494 Cp | 65.57% | Lvl 17] | Candy: 38
+[03:09:47] (INFO) Found 1 catchable Pokemon
+[03:09:48] (Wild Success) | Pidgey 123 V |   45 Cp | 64.06% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
