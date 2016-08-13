@@ -651,3 +651,10 @@
 [20:22:51] (NAVIGATION) Distance to target location: 146.18 meters. Will take 16.45 seconds driving at 32kmh
 [20:22:53] (INFO) Found 1 catchable Pokemon
 [20:22:54] (Wild Success) | Zubat 120 V |   59 Cp | 58.93% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:22:56] (INFO) Found 1 pokemon to transfer...
+[20:22:57] (TRANSFER) Zubat 120 V |   59 Cp | 58.93% | Lvl 04 | Best: [Zubat 150 V |  146 Cp | 59.90% | Lvl 09] | Candy: 73
+[20:23:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[20:23:07] (POKESTOP) NUHS Tower Block in 96.73 m distance
+[20:23:07] (NAVIGATION) Distance to target location: 96.73 meters. Will take 12.44 seconds driving at 28kmh
+[20:23:13] (INFO) Found 1 catchable Pokemon
+[20:23:14] (Wild Success) | Pidgey 97 V |  130 Cp | 43.86% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
