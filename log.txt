@@ -19681,3 +19681,28 @@
 [07:04:44] (NAVIGATION) Distance to target location: 82.88 meters. Will take 10.29 seconds driving at 29kmh
 [07:04:50] (INFO) Found 1 catchable Pokemon
 [07:04:53] (Wild Success) | Rattata 116 V |   51 Cp | 46.15% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[07:04:54] (INFO) Found 1 pokemon to transfer...
+[07:04:55] (TRANSFER) Rattata 116 V |   51 Cp | 46.15% | Lvl 04 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 517
+[07:04:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:05:01] (POKESTOP) Marsh Garden in 84.98 m distance
+[07:05:01] (NAVIGATION) Distance to target location: 84.98 meters. Will take 9.87 seconds driving at 31kmh
+[07:05:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemSuperPotion
+[07:05:10] (POKESTOP) Chilling Area in 123.22 m distance
+[07:05:10] (NAVIGATION) Distance to target location: 123.22 meters. Will take 15.84 seconds driving at 28kmh
+[07:05:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:05:26] (POKESTOP) Jungle Walkpath in 45.62 m distance
+[07:05:26] (NAVIGATION) Distance to target location: 45.62 meters. Will take 5.3 seconds driving at 31kmh
+[07:05:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[07:05:31] (POKESTOP) Volleyball Arena in 148.1 m distance
+[07:05:31] (NAVIGATION) Distance to target location: 148.1 meters. Will take 17.77 seconds driving at 30kmh
+[07:05:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:05:48] (INFO) Found 4 Recyclable Items:
+[07:05:49] (RECYCLING) RazzBerry x 3
+[07:05:50] (RECYCLING) PokeBall x 10
+[07:05:51] (RECYCLING) SuperPotion x 1
+[07:05:51] (RECYCLING) Revive x 3
+[07:05:54] (POKESTOP) West Coast Park Amphitheatre in 178.79 m distance
+[07:05:54] (NAVIGATION) Distance to target location: 178.79 meters. Will take 19.5 seconds driving at 33kmh
+[07:06:00] (INFO) Found 1 catchable Pokemon
+[07:06:01] (BERRY) ItemRazzBerry used, remaining: 49
+[07:06:03] (Wild Success) | Bellsprout 142 V |  532 Cp | 24.25% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
