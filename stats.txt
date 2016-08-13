@@ -1,36 +1,36 @@
 Stats:
-[20:55:16] Name: toonistic2
-[20:55:16] Team: Neutral
-[20:55:16] Level: 12 (LvLUp in 0h 0m | 7940/10000 XP)
-[20:55:16] Pokemon: 53
-[20:55:16] Stardust: 18666
-[20:55:16] ====== Items (196) ======
-[20:55:16] IncubatorBasicUnlimited x 1
-[20:55:16] Revive x 25
-[20:55:16] RazzBerry x 50
-[20:55:16] PokeBall x 50
-[20:55:16] GreatBall x 20
-[20:55:16] IncenseOrdinary x 2
-[20:55:16] Potion x 30
-[20:55:16] SuperPotion x 18
+[21:30:07] Name: toonistic2
+[21:30:07] Team: Neutral
+[21:30:07] Level: 15 (LvLUp in 0h 0m | 620/20000 XP)
+[21:30:07] Pokemon: 69
+[21:30:07] Stardust: 27466
+[21:30:07] ====== Items (215) ======
+[21:30:07] IncubatorBasicUnlimited x 1
+[21:30:07] Revive x 25
+[21:30:07] RazzBerry x 50
+[21:30:07] PokeBall x 50
+[21:30:07] GreatBall x 30
+[21:30:07] IncenseOrdinary x 2
+[21:30:07] Potion x 30
+[21:30:07] SuperPotion x 27
 
-[21:25:28] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
-[21:25:28] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
-[21:25:28] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
-[21:25:28] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
-[21:25:28] Dodrio              154 True Value |  476 Cp | 46.00% Perfect | Lvl 10 | FeintAttack/AirCutter
-[21:25:28] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
-[21:25:28] Exeggcute           162 True Value |  373 Cp | 60.31% Perfect | Lvl 13 | Confusion/SeedBomb
-[21:25:28] Clefairy            159 True Value |  362 Cp | 41.21% Perfect | Lvl 12 | ZenHeadbutt/BodySlam
-[21:25:28] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
-[21:25:28] Exeggcute           149 True Value |  344 Cp | 59.62% Perfect | Lvl 12 | Confusion/AncientPower
-[21:25:28] Venonat             162 True Value |  333 Cp | 74.31% Perfect | Lvl 12 | BugBite/PoisonFang
-[21:25:28] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
-[21:25:28] Venonat             166 True Value |  330 Cp | 71.08% Perfect | Lvl 12 | Confusion/SignalBeam
-[21:25:28] Squirtle            146 True Value |  303 Cp | 45.65% Perfect | Lvl 12 | Tackle/AquaTail
-[21:25:28] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
-[21:25:28] Clefairy            141 True Value |  303 Cp | 44.25% Perfect | Lvl 10 | Pound/Moonblast
-[21:25:28] Goldeen             161 True Value |  283 Cp | 71.35% Perfect | Lvl 11 | Peck/AquaTail
-[21:25:28] Psyduck             126 True Value |  267 Cp | 26.58% Perfect | Lvl 10 | ZenHeadbutt/Psybeam
-[21:25:28] Tangela             144 True Value |  263 Cp | 51.39% Perfect | Lvl 06 | VineWhip/SludgeBomb
-[21:25:28] Jynx                144 True Value |  259 Cp | 50.77% Perfect | Lvl 06 | FrostBreath/IcePunch
+[21:30:08] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[21:30:08] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[21:30:08] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
+[21:30:08] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
+[21:30:08] Dodrio              154 True Value |  476 Cp | 46.00% Perfect | Lvl 10 | FeintAttack/AirCutter
+[21:30:08] Jynx                119 True Value |  422 Cp | 19.82% Perfect | Lvl 10 | Pound/IcePunch
+[21:30:08] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[21:30:08] Exeggcute           162 True Value |  373 Cp | 60.31% Perfect | Lvl 13 | Confusion/SeedBomb
+[21:30:08] Clefairy            159 True Value |  362 Cp | 41.21% Perfect | Lvl 12 | ZenHeadbutt/BodySlam
+[21:30:08] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[21:30:08] Exeggcute           149 True Value |  344 Cp | 59.62% Perfect | Lvl 12 | Confusion/AncientPower
+[21:30:08] Venonat             162 True Value |  333 Cp | 74.31% Perfect | Lvl 12 | BugBite/PoisonFang
+[21:30:08] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[21:30:08] Venonat             166 True Value |  330 Cp | 71.08% Perfect | Lvl 12 | Confusion/SignalBeam
+[21:30:08] Squirtle            146 True Value |  303 Cp | 45.65% Perfect | Lvl 12 | Tackle/AquaTail
+[21:30:08] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[21:30:08] Clefairy            141 True Value |  303 Cp | 44.25% Perfect | Lvl 10 | Pound/Moonblast
+[21:30:08] Goldeen             161 True Value |  283 Cp | 71.35% Perfect | Lvl 11 | Peck/AquaTail
+[21:30:08] Psyduck             126 True Value |  267 Cp | 26.58% Perfect | Lvl 10 | ZenHeadbutt/Psybeam
+[21:30:08] Tangela             144 True Value |  263 Cp | 51.39% Perfect | Lvl 06 | VineWhip/SludgeBomb
