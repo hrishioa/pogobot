@@ -20897,3 +20897,13 @@
 [07:42:48] (NAVIGATION) Distance to target location: 312.07 meters. Will take 19.71 seconds driving at 57kmh
 [07:43:08] (INFO) Found 1 catchable Pokemon
 [07:43:09] (Wild Success) | NidoranFemale 113 V |   98 Cp | 31.50% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[07:43:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[07:43:13] (POKESTOP) Veranda Sculpture in 50.31 m distance
+[07:43:13] (NAVIGATION) Distance to target location: 50.31 meters. Will take 5.84 seconds driving at 31kmh
+[07:43:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:43:18] (INFO) Found 1 Recyclable Item:
+[07:43:19] (RECYCLING) PokeBall x 14
+[07:43:22] (POKESTOP) Focusing Coils in 973.91 m distance
+[07:43:22] (NAVIGATION) Distance to target location: 973.91 meters. Will take 50.09 seconds driving at 70kmh
+[07:43:48] (INFO) Found 1 catchable Pokemon
+[07:43:50] (Wild Success) | Meowth 164 V |  300 Cp | 71.95% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
