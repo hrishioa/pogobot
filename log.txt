@@ -17776,3 +17776,19 @@
 [06:03:30] (NAVIGATION) Distance to target location: 88.84 meters. Will take 11.03 seconds driving at 29kmh
 [06:03:37] (INFO) Found 1 catchable Pokemon
 [06:03:38] (Wild Success) | Pidgey 93 V |   41 Cp | 34.25% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[06:03:40] (INFO) Found 1 pokemon to transfer...
+[06:03:41] (TRANSFER) Pidgey 93 V |   41 Cp | 34.25% | Lvl 03 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 784
+[06:03:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[06:03:46] (POKESTOP) Three Portals Make A Field in 83.27 m distance
+[06:03:46] (NAVIGATION) Distance to target location: 83.27 meters. Will take 10.34 seconds driving at 29kmh
+[06:03:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemPokeBall
+[06:03:56] (POKESTOP) Playground Between Block 709&712 in 68.25 m distance
+[06:03:56] (NAVIGATION) Distance to target location: 68.25 meters. Will take 8.19 seconds driving at 30kmh
+[06:04:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[06:04:05] (POKESTOP) Herbs Garden in 68.29 m distance
+[06:04:05] (NAVIGATION) Distance to target location: 68.29 meters. Will take 8.48 seconds driving at 29kmh
+[06:04:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:04:13] (POKESTOP) West Coast Mural Art in 80.98 m distance
+[06:04:13] (NAVIGATION) Distance to target location: 80.98 meters. Will take 10.41 seconds driving at 28kmh
+[06:04:19] (INFO) Found 1 catchable Pokemon
+[06:04:21] (Wild Success) | Rattata 144 V |  249 Cp | 59.44% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
