@@ -10402,3 +10402,4 @@
 [01:55:13] (RECYCLING) Revive x 1
 [01:55:16] (INFO) Found 2 catchable Pokemon
 [01:55:17] (Wild Success) | Mankey 134 V |  201 Cp | 57.20% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[01:55:19] (Wild Success) | Pidgey 94 V |  281 Cp | 11.33% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
