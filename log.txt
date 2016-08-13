@@ -2307,3 +2307,10 @@
 [21:21:03] (NAVIGATION) Distance to target location: 444.6 meters. Will take 22.87 seconds driving at 70kmh
 [21:21:26] (INFO) Found 1 catchable Pokemon
 [21:21:28] (Wild Success) | Bulbasaur 106 V |   38 Cp | 17.41% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 710
+[21:21:30] (INFO) Found 1 pokemon to transfer...
+[21:21:31] (TRANSFER) Bulbasaur 106 V |   38 Cp | 17.41% | Lvl 02 | Best: [NONE] | Candy: 4
+[21:21:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:21:33] (POKESTOP) Normanton Park in 1366.35 m distance
+[21:21:33] (NAVIGATION) Distance to target location: 1366.35 meters. Will take 1.17 minutes driving at 70kmh
+[21:21:39] (INFO) Found 1 catchable Pokemon
+[21:21:42] (Wild Success) | Magikarp 83 V |   53 Cp | 53.42% | Lvl 09 | Chance: 0.7 | with a PokeBall and received XP 210
