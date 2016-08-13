@@ -18750,3 +18750,17 @@
 [06:35:22] (NAVIGATION) Distance to target location: 689.3 meters. Will take 35.45 seconds driving at 70kmh
 [06:35:52] (INFO) Found 1 catchable Pokemon
 [06:35:54] (Wild Success) | Weedle 91 V |  222 Cp | 14.04% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[06:35:56] (INFO) Found 1 pokemon to transfer...
+[06:35:58] (TRANSFER) Weedle 91 V |  222 Cp | 14.04% | Lvl 24 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 381
+[06:36:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:36:02] (POKESTOP) Clementi Woods Park in 123 m distance
+[06:36:02] (NAVIGATION) Distance to target location: 123 meters. Will take 14.76 seconds driving at 30kmh
+[06:36:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:36:15] (INFO) Found 3 Recyclable Items:
+[06:36:16] (RECYCLING) RazzBerry x 4
+[06:36:17] (RECYCLING) PokeBall x 12
+[06:36:18] (RECYCLING) Potion x 1
+[06:36:20] (POKESTOP) West Coast Park Connector in 77.72 m distance
+[06:36:20] (NAVIGATION) Distance to target location: 77.72 meters. Will take 8.74 seconds driving at 32kmh
+[06:36:27] (INFO) Found 1 catchable Pokemon
+[06:36:28] (Wild Success) | Psyduck 179 V |  476 Cp | 46.12% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
