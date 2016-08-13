@@ -8529,3 +8529,9 @@
 [00:51:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
 [00:51:01] (INFO) Found 1 catchable Pokemon
 [00:51:02] (Wild Success) | Spearow 103 V |  274 Cp | 16.12% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[00:51:04] (INFO) Found 1 pokemon to transfer...
+[00:51:05] (TRANSFER) Spearow 103 V |  274 Cp | 16.12% | Lvl 18 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 151
+[00:51:06] (POKESTOP) èy Portrait  in 127.02 m distance
+[00:51:06] (NAVIGATION) Distance to target location: 127.02 meters. Will take 14.75 seconds driving at 31kmh
+[00:51:14] (INFO) Found 1 catchable Pokemon
+[00:51:16] (Wild Success) | Zubat 123 V |   72 Cp | 40.86% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
