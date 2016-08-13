@@ -21020,3 +21020,16 @@
 [07:49:01] (NAVIGATION) Distance to target location: 83.79 meters. Will take 9.43 seconds driving at 32kmh
 [07:49:04] (INFO) Found 1 catchable Pokemon
 [07:49:05] (Wild Success) | Zubat 161 V |  314 Cp | 64.54% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[07:49:07] (INFO) Found 1 pokemon to transfer...
+[07:49:09] (TRANSFER) Zubat 161 V |  349 Cp | 51.28% | Lvl 22 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 610
+[07:49:11] (INFO) Found 1 catchable Pokemon
+[07:49:12] (Wild Escape) | Rattata 133 V |  143 Cp | 53.58% | Lvl 10 | Chance: 0.47 | with a GreatBall 
+[07:49:13] (Wild Success Attempt #2) | Rattata 133 V |  143 Cp | 53.58% | Lvl 10 | Chance: 0.47 | with a GreatBall 
+[07:49:15] (INFO) Found 1 pokemon to transfer...
+[07:49:16] (TRANSFER) Rattata 133 V |  143 Cp | 53.58% | Lvl 10 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 597
+[07:49:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[07:49:19] (POKESTOP) NUS Graduate Pot in 60.54 m distance
+[07:49:19] (NAVIGATION) Distance to target location: 60.54 meters. Will take 7.78 seconds driving at 28kmh
+[07:49:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[07:49:25] (INFO) Found 1 catchable Pokemon
+[07:49:27] (Wild Success) | Zubat 100 V |   41 Cp | 50.67% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
