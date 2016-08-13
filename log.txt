@@ -20072,3 +20072,25 @@
 [07:17:19] (RECYCLING) Revive x 1
 [07:17:20] (INFO) Found 1 catchable Pokemon
 [07:17:21] (Wild Success) | Pidgey 92 V |  155 Cp | 25.83% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[07:17:23] (INFO) Found 1 pokemon to transfer...
+[07:17:25] (TRANSFER) Pidgey 92 V |  155 Cp | 25.83% | Lvl 10 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 900
+[07:17:26] (POKESTOP) Clementi West Green Alien Mural in 61.32 m distance
+[07:17:26] (NAVIGATION) Distance to target location: 61.32 meters. Will take 6.9 seconds driving at 32kmh
+[07:17:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:17:33] (POKESTOP) The Right Horn Sculpture in 118.76 m distance
+[07:17:33] (NAVIGATION) Distance to target location: 118.76 meters. Will take 14.74 seconds driving at 29kmh
+[07:17:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:17:55] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[07:17:55] (ATTENTION) Restarting the application due to error...
+[07:17:55] (INFO) Logging in via: Google
+[07:17:55] (INFO) Client logged in
+[07:17:56] (INFO) Found 51 Pokestops
+[07:17:56] (POKESTOP) West Coast Plaza Triple Fountain in 184.52 m distance
+[07:17:56] (NAVIGATION) Distance to target location: 184.52 meters. Will take 19.54 seconds driving at 34kmh
+[07:18:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall
+[07:18:15] (POKESTOP) Wu Tai Shan  in 66.27 m distance
+[07:18:15] (NAVIGATION) Distance to target location: 66.27 meters. Will take 7.7 seconds driving at 31kmh
+[07:18:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[07:18:22] (INFO) Found 2 catchable Pokemon
+[07:18:23] (BERRY) ItemRazzBerry used, remaining: 50
+[07:18:25] (Wild Success) | Zubat 160 V |  387 Cp | 56.40% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
