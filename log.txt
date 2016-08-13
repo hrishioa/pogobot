@@ -20059,3 +20059,4 @@
 [07:16:53] (TRANSFER) Ekans 118 V |  120 Cp | 54.42% | Lvl 06 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 177
 [07:16:55] (INFO) Found 2 catchable Pokemon
 [07:16:57] (Wild Success) | Weedle 94 V |   37 Cp | 34.72% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[07:16:59] (Wild Success) | Caterpie 102 V |  233 Cp | 28.76% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
