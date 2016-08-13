@@ -12318,3 +12318,4 @@
 [02:53:26] (NAVIGATION) Distance to target location: 87.08 meters. Will take 9.8 seconds driving at 32kmh
 [02:53:32] (INFO) Found 2 catchable Pokemon
 [02:53:33] (Wild Success) | Venonat 151 V |  373 Cp | 57.45% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:53:35] (Wild Success) | Rattata 157 V |  307 Cp | 59.44% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
