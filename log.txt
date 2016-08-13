@@ -6058,3 +6058,18 @@
 [23:30:58] (NAVIGATION) Distance to target location: 95.49 meters. Will take 11.85 seconds driving at 29kmh
 [23:31:07] (INFO) Found 1 catchable Pokemon
 [23:31:09] (Wild Success) | Pidgey 98 V |  246 Cp | 22.55% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[23:31:11] (INFO) Found 1 pokemon to transfer...
+[23:31:12] (TRANSFER) Pidgey 98 V |  246 Cp | 22.55% | Lvl 16 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 206
+[23:31:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[23:31:15] (POKESTOP) Lucy's Left Ear in 51.07 m distance
+[23:31:15] (NAVIGATION) Distance to target location: 51.07 meters. Will take 6.57 seconds driving at 28kmh
+[23:31:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:31:20] (INFO) Found 3 Recyclable Items:
+[23:31:21] (RECYCLING) RazzBerry x 2
+[23:31:22] (RECYCLING) PokeBall x 10
+[23:31:23] (RECYCLING) Revive x 4
+[23:31:25] (POKESTOP) Survival Mask in 73.54 m distance
+[23:31:25] (NAVIGATION) Distance to target location: 73.54 meters. Will take 9.46 seconds driving at 28kmh
+[23:31:31] (INFO) Found 1 catchable Pokemon
+[23:31:32] (BERRY) ItemRazzBerry used, remaining: 49
+[23:31:33] (Wild Success) | Golbat 198 V |  725 Cp | 66.01% | Lvl 14 | Chance: 0.16 | with a GreatBall and received XP 210
