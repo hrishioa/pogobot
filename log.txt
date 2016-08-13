@@ -5414,3 +5414,16 @@
 [23:09:35] (NAVIGATION) Distance to target location: 93.81 meters. Will take 11.26 seconds driving at 30kmh
 [23:09:37] (INFO) Found 1 catchable Pokemon
 [23:09:39] (Wild Success) | Rattata 116 V |  149 Cp | 36.32% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
+[23:09:41] (INFO) Found 1 pokemon to transfer...
+[23:09:42] (TRANSFER) Rattata 116 V |  149 Cp | 36.32% | Lvl 11 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 85
+[23:09:45] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:09:46] (POKESTOP) Commemorative Plaque in 145.67 m distance
+[23:09:47] (NAVIGATION) Distance to target location: 145.67 meters. Will take 18.08 seconds driving at 29kmh
+[23:10:02] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:10:04] (POKESTOP) Brains of Power in 45.03 m distance
+[23:10:04] (NAVIGATION) Distance to target location: 45.03 meters. Will take 5.59 seconds driving at 29kmh
+[23:10:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[23:10:10] (POKESTOP) Wooden Shell (Right) in 92.27 m distance
+[23:10:10] (NAVIGATION) Distance to target location: 92.27 meters. Will take 11.07 seconds driving at 30kmh
+[23:10:18] (INFO) Found 1 catchable Pokemon
+[23:10:20] (Wild Success) | NidoranFemale 99 V |  165 Cp | 30.72% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
