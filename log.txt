@@ -8754,3 +8754,17 @@
 [00:59:35] (Wild Success) | NidoranFemale 122 V |  100 Cp | 36.86% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [00:59:36] (BERRY) ItemRazzBerry used, remaining: 50
 [00:59:37] (Wild Success) | Golbat 188 V |  475 Cp | 80.24% | Lvl 09 | Chance: 0.2 | with a GreatBall and received XP 210
+[00:59:38] (INFO) Found 2 pokemon to transfer...
+[00:59:40] (TRANSFER) NidoranFemale 122 V |  100 Cp | 36.86% | Lvl 05 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 34
+[00:59:42] (TRANSFER) Golbat 188 V |  475 Cp | 80.24% | Lvl 09 | Best: [Golbat 216 V |  697 Cp | 85.92% | Lvl 13] | Candy: 493
+[00:59:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[00:59:48] (POKESTOP) Normanton Park in 425.9 m distance
+[00:59:48] (NAVIGATION) Distance to target location: 425.9 meters. Will take 21.9 seconds driving at 70kmh
+[01:00:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:00:11] (INFO) Found 2 Recyclable Items:
+[01:00:12] (RECYCLING) PokeBall x 4
+[01:00:13] (RECYCLING) Potion x 2
+[01:00:15] (POKESTOP) Arena Of Mobility in 313.66 m distance
+[01:00:15] (NAVIGATION) Distance to target location: 313.66 meters. Will take 19.81 seconds driving at 57kmh
+[01:00:17] (INFO) Found 1 catchable Pokemon
+[01:00:18] (Wild Success) | Growlithe 133 V |   89 Cp | 51.61% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
