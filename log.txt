@@ -19645,3 +19645,29 @@
 [07:02:58] (INFO) Found 2 catchable Pokemon
 [07:02:59] (Wild Success) | Weedle 64 V |   10 Cp | 30.73% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [07:03:01] (Wild Success) | Magikarp 83 V |   47 Cp | 53.42% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
+[07:03:03] (INFO) Found 2 pokemon to transfer...
+[07:03:05] (TRANSFER) Weedle 64 V |   10 Cp | 30.73% | Lvl 01 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 405
+[07:03:06] (TRANSFER) Magikarp 83 V |   47 Cp | 53.42% | Lvl 08 | Best: [Magikarp 107 V |   73 Cp | 74.82% | Lvl 11] | Candy: 150
+[07:03:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:03:09] (POKESTOP) Veranda Sculpture in 260.3 m distance
+[07:03:09] (NAVIGATION) Distance to target location: 260.3 meters. Will take 19.94 seconds driving at 47kmh
+[07:03:14] (INFO) Found 1 catchable Pokemon
+[07:03:15] (Wild Escape) | Slowpoke 141 V |  244 Cp | 46.75% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[07:03:16] (Wild Success Attempt #2) | Slowpoke 141 V |  244 Cp | 46.75% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[07:03:18] (INFO) Found 1 pokemon to transfer...
+[07:03:19] (TRANSFER) Slowpoke 141 V |  244 Cp | 46.75% | Lvl 08 | Best: [Slowpoke 172 V |  463 Cp | 75.88% | Lvl 14] | Candy: 42
+[07:03:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemRazzBerry
+[07:03:31] (POKESTOP) Ten Two Six in 64.48 m distance
+[07:03:31] (NAVIGATION) Distance to target location: 64.48 meters. Will take 7.74 seconds driving at 30kmh
+[07:03:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[07:03:39] (POKESTOP) Clementi Woods Fitness Corner in 291.68 m distance
+[07:03:39] (NAVIGATION) Distance to target location: 291.68 meters. Will take 19.81 seconds driving at 53kmh
+[07:03:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:03:59] (POKESTOP) Sun Moon Mural in 621.83 m distance
+[07:03:59] (NAVIGATION) Distance to target location: 621.83 meters. Will take 31.98 seconds driving at 70kmh
+[07:04:28] (INFO) Found 2 catchable Pokemon
+[07:04:29] (BERRY) ItemRazzBerry used, remaining: 51
+[07:04:30] (Wild Escape) | Venomoth 234 V |  784 Cp | 81.20% | Lvl 15 | Chance: 0.15 | with a GreatBall 
+[07:04:30] (BERRY) ItemRazzBerry used, remaining: 50
+[07:04:32] (Wild Success Attempt #2) | Venomoth 234 V |  784 Cp | 81.20% | Lvl 15 | Chance: 0.15 | with a GreatBall 
+[07:04:33] (Wild Success) | Kakuna 81 V |   77 Cp | 40.54% | Lvl 07 | Chance: 0.28 | with a GreatBall and received XP 210
