@@ -6589,3 +6589,33 @@
 [23:47:44] (Wild Escape) | Weedle 83 V |   55 Cp | 21.85% | Lvl 06 | Chance: 0.62 | with a PokeBall 
 [23:47:45] (Wild Success Attempt #2) | Weedle 83 V |   55 Cp | 21.85% | Lvl 06 | Chance: 0.62 | with a PokeBall 
 [23:47:46] (Wild Success) | Rattata 126 V |  193 Cp | 42.13% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[23:47:48] (INFO) Found 3 pokemon to transfer...
+[23:47:50] (TRANSFER) Rattata 126 V |  193 Cp | 42.13% | Lvl 14 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 113
+[23:47:52] (TRANSFER) Pidgey 99 V |  192 Cp | 34.57% | Lvl 12 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 229
+[23:47:54] (TRANSFER) Weedle 83 V |   55 Cp | 21.85% | Lvl 06 | Best: [Weedle 120 V |  130 Cp | 52.13% | Lvl 12] | Candy: 69
+[23:47:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:47:58] (POKESTOP) Aldersgate Chapel in 307 m distance
+[23:47:58] (NAVIGATION) Distance to target location: 307 meters. Will take 19.74 seconds driving at 56kmh
+[23:48:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:48:19] (POKESTOP) SUTD Monolith in 187.66 m distance
+[23:48:19] (NAVIGATION) Distance to target location: 187.66 meters. Will take 19.87 seconds driving at 34kmh
+[23:48:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[23:48:39] (POKESTOP) Let's Get Healthy Together Mural in 126.04 m distance
+[23:48:39] (NAVIGATION) Distance to target location: 126.04 meters. Will take 14.18 seconds driving at 32kmh
+[23:48:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[23:48:53] (INFO) Found 4 Recyclable Items:
+[23:48:53] (RECYCLING) RazzBerry x 3
+[23:48:55] (RECYCLING) PokeBall x 7
+[23:48:55] (RECYCLING) Potion x 1
+[23:48:57] (RECYCLING) Revive x 2
+[23:48:59] (POKESTOP) Brown Rice Lady in 50.98 m distance
+[23:48:59] (NAVIGATION) Distance to target location: 50.98 meters. Will take 5.74 seconds driving at 32kmh
+[23:49:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[23:49:05] (POKESTOP) Healthy Living Murals in 57.73 m distance
+[23:49:05] (NAVIGATION) Distance to target location: 57.73 meters. Will take 7.42 seconds driving at 28kmh
+[23:49:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[23:49:12] (POKESTOP) The Tree at Dover  in 131.3 m distance
+[23:49:12] (NAVIGATION) Distance to target location: 131.3 meters. Will take 16.88 seconds driving at 28kmh
+[23:49:14] (INFO) Found 1 catchable Pokemon
+[23:49:15] (BERRY) ItemRazzBerry used, remaining: 51
+[23:49:16] (Wild Success) | Pinsir 175 V |  566 Cp | 58.10% | Lvl 10 | Chance: 0.28 | with a GreatBall and received XP 210
