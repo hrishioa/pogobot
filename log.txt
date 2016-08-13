@@ -12450,3 +12450,7 @@
 [02:59:37] (NAVIGATION) Distance to target location: 270.06 meters. Will take 19.84 seconds driving at 49kmh
 [02:59:50] (INFO) Found 1 catchable Pokemon
 [02:59:51] (Wild Success) | Slowpoke 141 V |  284 Cp | 57.96% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[02:59:53] (INFO) Found 1 pokemon to transfer...
+[02:59:55] (TRANSFER) Slowpoke 131 V |  241 Cp | 41.64% | Lvl 08 | Best: [Slowpoke 164 V |  485 Cp | 66.23% | Lvl 15] | Candy: 38
+[02:59:56] (INFO) Found 1 catchable Pokemon
+[02:59:58] (Wild Success) | Magikarp 95 V |   94 Cp | 61.15% | Lvl 15 | Chance: 0.54 | with a PokeBall and received XP 210
