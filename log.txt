@@ -2026,3 +2026,25 @@
 [21:10:37] (TRANSFER) Clefairy 96 V |   75 Cp | 25.82% | Lvl 03 | Best: [Clefairy 141 V |  303 Cp | 44.25% | Lvl 10] | Candy: 10
 [21:10:38] (INFO) Found 1 catchable Pokemon
 [21:10:40] (Wild Success) | Krabby 127 V |  196 Cp | 48.44% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[21:10:42] (INFO) Found 1 pokemon to transfer...
+[21:10:43] (TRANSFER) Krabby 127 V |  196 Cp | 48.44% | Lvl 10 | Best: [Krabby 127 V |  118 Cp | 64.57% | Lvl 06] | Candy: 34
+[21:10:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:10:46] (ATTENTION) No locations in your area...
+[21:10:51] (INFO) Found 36 Pokestops
+[21:10:52] (POKESTOP) Templar Stained Glass Window in 400.12 m distance
+[21:10:52] (NAVIGATION) Distance to target location: 400.12 meters. Will take 20.58 seconds driving at 70kmh
+[21:11:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemPotion
+[21:11:15] (POKESTOP) Gears of War  in 127.12 m distance
+[21:11:15] (NAVIGATION) Distance to target location: 127.12 meters. Will take 14.3 seconds driving at 32kmh
+[21:11:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemGreatBall
+[21:11:28] (INFO) Found 3 Recyclable Items:
+[21:11:29] (RECYCLING) Revive x 2
+[21:11:30] (RECYCLING) PokeBall x 11
+[21:11:31] (RECYCLING) Potion x 3
+[21:11:33] (POKESTOP) The Grocer in 76.12 m distance
+[21:11:33] (NAVIGATION) Distance to target location: 76.12 meters. Will take 9.79 seconds driving at 28kmh
+[21:11:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:11:43] (POKESTOP) Cafe Colbar in 250.55 m distance
+[21:11:43] (NAVIGATION) Distance to target location: 250.55 meters. Will take 19.61 seconds driving at 46kmh
+[21:11:59] (INFO) Found 2 catchable Pokemon
+[21:12:00] (Wild Success) | Ekans 75 V |  212 Cp | 27.40% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
