@@ -21208,3 +21208,13 @@
 [07:53:03] (NAVIGATION) Distance to target location: 155.06 meters. Will take 19.94 seconds driving at 28kmh
 [07:53:12] (INFO) Found 1 catchable Pokemon
 [07:53:14] (Wild Success) | Pidgey 144 V |  330 Cp | 60.79% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[07:53:16] (INFO) Found 1 pokemon to transfer...
+[07:53:17] (TRANSFER) Pidgey 141 V |  374 Cp | 53.98% | Lvl 22 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 955
+[07:53:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemRevive
+[07:53:22] (POKESTOP) First the Dream Then the Nightmare in 73.84 m distance
+[07:53:22] (NAVIGATION) Distance to target location: 73.84 meters. Will take 9.17 seconds driving at 29kmh
+[07:53:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[07:53:31] (POKESTOP) Lucy's Left Ear in 46.42 m distance
+[07:53:31] (NAVIGATION) Distance to target location: 46.42 meters. Will take 5.39 seconds driving at 31kmh
+[07:53:33] (INFO) Found 1 catchable Pokemon
+[07:53:35] (Wild Success) | Ekans 148 V |  290 Cp | 51.64% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
