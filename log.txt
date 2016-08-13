@@ -19247,3 +19247,4 @@
 [06:49:36] (INFO) Found 2 catchable Pokemon
 [06:49:38] (BERRY) ItemRazzBerry used, remaining: 49
 [06:49:38] (Wild Success) | Pidgey 136 V |  394 Cp | 42.06% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[06:49:41] (Wild Success) | Bellsprout 90 V |  161 Cp | 44.65% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
