@@ -16594,3 +16594,22 @@
 [05:24:05] (NAVIGATION) Distance to target location: 383.87 meters. Will take 19.74 seconds driving at 70kmh
 [05:24:25] (INFO) Found 1 catchable Pokemon
 [05:24:26] (Wild Success) | Weedle 59 V |   15 Cp | 25.37% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[05:24:28] (INFO) Found 1 pokemon to transfer...
+[05:24:29] (TRANSFER) Weedle 59 V |   15 Cp | 25.37% | Lvl 02 | Best: [Weedle 97 V |  201 Cp | 22.24% | Lvl 21] | Candy: 306
+[05:24:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:24:32] (POKESTOP) Kids Flying Kite Mural at Clementi Heights in 126.27 m distance
+[05:24:32] (NAVIGATION) Distance to target location: 126.27 meters. Will take 14.66 seconds driving at 31kmh
+[05:24:46] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 4 x ItemPokeBall
+[05:24:47] (INFO) Found 2 Recyclable Items:
+[05:24:47] (RECYCLING) PokeBall x 8
+[05:24:48] (RECYCLING) Revive x 1
+[05:24:50] (POKESTOP) Clean and Green Plaque at Clementi  in 55.45 m distance
+[05:24:50] (NAVIGATION) Distance to target location: 55.45 meters. Will take 7.13 seconds driving at 28kmh
+[05:24:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:24:58] (POKESTOP) Art Friend at Clementi in 58.79 m distance
+[05:24:58] (NAVIGATION) Distance to target location: 58.79 meters. Will take 7.05 seconds driving at 30kmh
+[05:25:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemSuperPotion
+[05:25:05] (POKESTOP) Clementi Mall in 200.18 m distance
+[05:25:05] (NAVIGATION) Distance to target location: 200.18 meters. Will take 19.48 seconds driving at 37kmh
+[05:25:20] (INFO) Found 1 catchable Pokemon
+[05:25:21] (Wild Success) | Pidgey 109 V |  128 Cp | 40.60% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
