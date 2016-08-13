@@ -8272,3 +8272,13 @@
 [00:43:23] (Wild Success) | Psyduck 136 V |   43 Cp | 46.86% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [00:43:24] (Wild Success) | Magikarp 99 V |   58 Cp | 68.33% | Lvl 09 | Chance: 0.7 | with a PokeBall and received XP 210
 [00:43:26] (Wild Success) | Magikarp 108 V |   80 Cp | 75.16% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
+[00:43:27] (INFO) Found 4 pokemon to transfer...
+[00:43:29] (TRANSFER) Magikarp 106 V |   73 Cp | 73.96% | Lvl 11 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 144
+[00:43:31] (TRANSFER) Magikarp 99 V |   58 Cp | 68.33% | Lvl 09 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 145
+[00:43:34] (TRANSFER) Psyduck 129 V |  333 Cp | 10.78% | Lvl 13 | Best: [Psyduck 142 V |  304 Cp | 40.14% | Lvl 11] | Candy: 58
+[00:43:36] (TRANSFER) Psyduck 136 V |   43 Cp | 46.86% | Lvl 02 | Best: [Psyduck 142 V |  304 Cp | 40.14% | Lvl 11] | Candy: 59
+[00:43:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[00:43:40] (POKESTOP) Cut CO2 Emission By 180 Million Tons A Year in 172.36 m distance
+[00:43:40] (NAVIGATION) Distance to target location: 172.36 meters. Will take 19.39 seconds driving at 32kmh
+[00:43:56] (INFO) Found 2 catchable Pokemon
+[00:43:58] (Wild Success) | Slowpoke 121 V |   48 Cp | 46.13% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
