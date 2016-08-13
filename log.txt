@@ -18304,3 +18304,26 @@
 [06:19:37] (NAVIGATION) Distance to target location: 123.71 meters. Will take 14.84 seconds driving at 30kmh
 [06:19:41] (INFO) Found 1 catchable Pokemon
 [06:19:43] (Wild Success) | Bellsprout 116 V |  157 Cp | 33.08% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[06:19:44] (INFO) Found 1 pokemon to transfer...
+[06:19:46] (TRANSFER) Bellsprout 116 V |  157 Cp | 33.08% | Lvl 06 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 173
+[06:19:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:19:52] (POKESTOP) Retro Chess Table  in 73.91 m distance
+[06:19:52] (NAVIGATION) Distance to target location: 73.91 meters. Will take 8.87 seconds driving at 30kmh
+[06:19:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[06:20:00] (INFO) Found 3 Recyclable Items:
+[06:20:00] (RECYCLING) PokeBall x 7
+[06:20:01] (RECYCLING) SuperPotion x 1
+[06:20:02] (RECYCLING) Revive x 1
+[06:20:05] (POKESTOP) West Coast Park Sign in 86.29 m distance
+[06:20:05] (NAVIGATION) Distance to target location: 86.29 meters. Will take 10.35 seconds driving at 30kmh
+[06:20:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:20:15] (POKESTOP) West Coast Park Connector in 99.53 m distance
+[06:20:15] (NAVIGATION) Distance to target location: 99.53 meters. Will take 12.36 seconds driving at 29kmh
+[06:20:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:20:27] (POKESTOP) 4 Mega Zip Lines in 161.38 m distance
+[06:20:27] (NAVIGATION) Distance to target location: 161.38 meters. Will take 19.37 seconds driving at 30kmh
+[06:20:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[06:20:46] (POKESTOP) Focusing Coils in 457.15 m distance
+[06:20:46] (NAVIGATION) Distance to target location: 457.15 meters. Will take 23.51 seconds driving at 70kmh
+[06:21:03] (INFO) Found 1 catchable Pokemon
+[06:21:05] (Wild Success) | Bellsprout 141 V |  524 Cp | 60.33% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
