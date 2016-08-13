@@ -1823,3 +1823,11 @@
 [21:03:29] (NAVIGATION) Distance to target location: 142.42 meters. Will take 16.02 seconds driving at 32kmh
 [21:03:41] (INFO) Found 1 catchable Pokemon
 [21:03:43] (Wild Success) | Tangela 137 V |  213 Cp | 48.79% | Lvl 05 | Chance: 0.55 | with a PokeBall and received XP 210
+[21:03:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:03:47] (INFO) Found 2 Recyclable Items:
+[21:03:49] (RECYCLING) PokeBall x 8
+[21:03:49] (RECYCLING) Potion x 1
+[21:03:52] (POKESTOP) IPPT Firneaa Area Blk 160 in 194.89 m distance
+[21:03:52] (NAVIGATION) Distance to target location: 194.89 meters. Will take 19.49 seconds driving at 36kmh
+[21:04:04] (INFO) Found 1 catchable Pokemon
+[21:04:06] (Wild Success) | Pidgey 90 V |   41 Cp | 35.99% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
