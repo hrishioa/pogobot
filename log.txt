@@ -18501,3 +18501,9 @@
 [06:28:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
 [06:28:24] (INFO) Found 1 catchable Pokemon
 [06:28:25] (Wild Success) | Zubat 115 V |  127 Cp | 56.78% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[06:28:27] (INFO) Found 1 pokemon to transfer...
+[06:28:29] (TRANSFER) Zubat 115 V |  127 Cp | 56.78% | Lvl 08 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 538
+[06:28:30] (POKESTOP) Bronze Sculpture "Contentment" in 92.91 m distance
+[06:28:30] (NAVIGATION) Distance to target location: 92.91 meters. Will take 10.45 seconds driving at 32kmh
+[06:28:37] (INFO) Found 1 catchable Pokemon
+[06:28:39] (Wild Success) | Zubat 121 V |   10 Cp | 59.94% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
