@@ -19752,3 +19752,11 @@
 [07:07:26] (TRANSFER) Bellsprout 144 V |  198 Cp | 58.82% | Lvl 07 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 213
 [07:07:28] (INFO) Found 1 catchable Pokemon
 [07:07:30] (Wild Success) | Horsea 137 V |   97 Cp | 65.24% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[07:07:32] (INFO) Found 1 pokemon to transfer...
+[07:07:33] (TRANSFER) Horsea 137 V |   97 Cp | 65.24% | Lvl 05 | Best: [Horsea 163 V |  473 Cp | 63.63% | Lvl 23] | Candy: 74
+[07:07:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[07:07:37] (POKESTOP) West Coast Park Sign in 72.14 m distance
+[07:07:37] (NAVIGATION) Distance to target location: 72.14 meters. Will take 8.66 seconds driving at 30kmh
+[07:07:41] (INFO) Found 1 catchable Pokemon
+[07:07:41] (BERRY) ItemRazzBerry used, remaining: 49
+[07:07:43] (Wild Success) | Venonat 155 V |  489 Cp | 43.87% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
