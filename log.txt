@@ -6257,3 +6257,46 @@
 [23:35:18] (INFO) Found 1 catchable Pokemon
 [23:35:19] (BERRY) ItemRazzBerry used, remaining: 49
 [23:35:20] (Wild Success) | Pidgeot 136 V |  474 Cp | 28.91% | Lvl 09 | Chance: 0.12 | with a GreatBall and received XP 210
+[23:35:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[23:35:26] (POKESTOP) Runme Shaw CFA Studios in 132.69 m distance
+[23:35:26] (NAVIGATION) Distance to target location: 132.69 meters. Will take 15.92 seconds driving at 30kmh
+[23:35:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:35:43] (POKESTOP) Fire Painting  in 82.99 m distance
+[23:35:43] (NAVIGATION) Distance to target location: 82.99 meters. Will take 9.96 seconds driving at 30kmh
+[23:35:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[23:35:51] (INFO) Found 3 Recyclable Items:
+[23:35:53] (RECYCLING) PokeBall x 13
+[23:35:53] (RECYCLING) Potion x 1
+[23:35:54] (RECYCLING) Revive x 2
+[23:35:57] (POKESTOP) Locked in Tricked Out in 103.98 m distance
+[23:35:57] (NAVIGATION) Distance to target location: 103.98 meters. Will take 12.48 seconds driving at 30kmh
+[23:36:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:36:09] (POKESTOP) NUS Engineering in 55.24 m distance
+[23:36:09] (NAVIGATION) Distance to target location: 55.24 meters. Will take 7.1 seconds driving at 28kmh
+[23:36:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:36:15] (POKESTOP) Through this Jungle in 90.75 m distance
+[23:36:15] (NAVIGATION) Distance to target location: 90.75 meters. Will take 11.67 seconds driving at 28kmh
+[23:36:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[23:36:27] (POKESTOP) National Oxygen in 88.46 m distance
+[23:36:27] (NAVIGATION) Distance to target location: 88.46 meters. Will take 11.37 seconds driving at 28kmh
+[23:36:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:36:38] (POKESTOP) Feeding Chickens in 109.33 m distance
+[23:36:38] (NAVIGATION) Distance to target location: 109.33 meters. Will take 12.7 seconds driving at 31kmh
+[23:36:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:36:50] (INFO) Found 3 Recyclable Items:
+[23:36:51] (RECYCLING) RazzBerry x 2
+[23:36:51] (RECYCLING) PokeBall x 8
+[23:36:52] (RECYCLING) Potion x 3
+[23:36:55] (POKESTOP) Sayings by the Stairs in 101.51 m distance
+[23:36:55] (NAVIGATION) Distance to target location: 101.51 meters. Will take 12.18 seconds driving at 30kmh
+[23:37:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:37:06] (POKESTOP) Raffles Hall Art Piece (1984/85) in 92.88 m distance
+[23:37:06] (NAVIGATION) Distance to target location: 92.88 meters. Will take 11.94 seconds driving at 28kmh
+[23:37:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 4 x ItemPokeBall
+[23:37:16] (POKESTOP) The Deck at Arts Faculty in 599.09 m distance
+[23:37:16] (NAVIGATION) Distance to target location: 599.09 meters. Will take 30.81 seconds driving at 70kmh
+[23:37:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:37:49] (POKESTOP) Scientific Exhibit #1 at Level 6 in 963.69 m distance
+[23:37:50] (NAVIGATION) Distance to target location: 963.69 meters. Will take 49.56 seconds driving at 70kmh
+[23:38:29] (INFO) Found 3 catchable Pokemon
+[23:38:31] (Wild Success) | Jigglypuff 146 V |  350 Cp | 35.58% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
