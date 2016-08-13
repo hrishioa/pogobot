@@ -12614,3 +12614,10 @@
 [03:03:11] (INFO) Found 2 catchable Pokemon
 [03:03:11] (BERRY) ItemRazzBerry used, remaining: 49
 [03:03:13] (Wild Success) | Eevee 175 V |  431 Cp | 69.63% | Lvl 15 | Chance: 0.3 | with a GreatBall and received XP 210
+[03:03:14] (Wild Escape) | Pidgey 143 V |  262 Cp | 62.29% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[03:03:15] (Wild Success Attempt #2) | Pidgey 143 V |  262 Cp | 62.29% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[03:03:17] (INFO) Found 2 pokemon to transfer...
+[03:03:18] (TRANSFER) Pidgey 141 V |  260 Cp | 60.27% | Lvl 15 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 556
+[03:03:20] (TRANSFER) Eevee 175 V |  431 Cp | 69.63% | Lvl 15 | Best: [Eevee 184 V |  408 Cp | 76.28% | Lvl 14] | Candy: 78
+[03:03:22] (INFO) Found 2 catchable Pokemon
+[03:03:24] (Wild Success) | Caterpie 107 V |  182 Cp | 38.62% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
