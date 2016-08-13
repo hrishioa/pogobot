@@ -21320,3 +21320,10 @@
 [07:57:11] (TRANSFER) Zubat 102 V |   73 Cp | 44.78% | Lvl 05 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 650
 [07:57:12] (INFO) Found 1 catchable Pokemon
 [07:57:14] (Wild Success) | Zubat 163 V |  335 Cp | 68.65% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[07:57:16] (INFO) Found 1 pokemon to transfer...
+[07:57:17] (TRANSFER) Zubat 161 V |  314 Cp | 64.54% | Lvl 19 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 654
+[07:57:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[07:57:21] (POKESTOP) The Odyssey in 63.87 m distance
+[07:57:21] (NAVIGATION) Distance to target location: 63.87 meters. Will take 7.93 seconds driving at 29kmh
+[07:57:25] (INFO) Found 2 catchable Pokemon
+[07:57:26] (Wild Success) | Zubat 136 V |   97 Cp | 71.42% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
