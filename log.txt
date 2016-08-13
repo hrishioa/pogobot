@@ -20907,3 +20907,12 @@
 [07:43:22] (NAVIGATION) Distance to target location: 973.91 meters. Will take 50.09 seconds driving at 70kmh
 [07:43:48] (INFO) Found 1 catchable Pokemon
 [07:43:50] (Wild Success) | Meowth 164 V |  300 Cp | 71.95% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[07:43:52] (INFO) Found 1 pokemon to transfer...
+[07:43:53] (TRANSFER) Meowth 164 V |  300 Cp | 71.95% | Lvl 15 | Best: [Meowth 172 V |  231 Cp | 89.05% | Lvl 11] | Candy: 90
+[07:44:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[07:44:13] (ATTENTION) No locations in your area...
+[07:44:18] (INFO) Found 37 Pokestops
+[07:44:19] (POKESTOP) West Coast Park in 216.54 m distance
+[07:44:19] (NAVIGATION) Distance to target location: 216.54 meters. Will take 19.99 seconds driving at 39kmh
+[07:44:25] (INFO) Found 1 catchable Pokemon
+[07:44:26] (Wild Success) | Zubat 122 V |  298 Cp | 47.41% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
