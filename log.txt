@@ -1686,3 +1686,17 @@
 [20:58:07] (INFO) Found 2 catchable Pokemon
 [20:58:10] (Wild Success) | Caterpie 93 V |   36 Cp | 34.21% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [20:58:11] (Wild Success) | Goldeen 161 V |  283 Cp | 71.35% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[20:58:13] (INFO) Found 3 pokemon to transfer...
+[20:58:16] (TRANSFER) Caterpie 78 V |   91 Cp | 14.36% | Lvl 10 | Best: [Caterpie 94 V |   78 Cp | 35.71% | Lvl 08] | Candy: 30
+[20:58:18] (TRANSFER) Goldeen 155 V |  258 Cp | 71.97% | Lvl 10 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 34
+[20:58:21] (TRANSFER) Caterpie 93 V |   36 Cp | 34.21% | Lvl 04 | Best: [Caterpie 94 V |   78 Cp | 35.71% | Lvl 08] | Candy: 31
+[20:58:21] (POKESTOP) Tanglin Halt Playground  in 146.83 m distance
+[20:58:21] (NAVIGATION) Distance to target location: 146.83 meters. Will take 18.23 seconds driving at 29kmh
+[20:58:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall
+[20:58:39] (POKESTOP) Abraham Maslow in 158.47 m distance
+[20:58:39] (NAVIGATION) Distance to target location: 158.47 meters. Will take 17.83 seconds driving at 32kmh
+[20:58:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[20:58:57] (POKESTOP) Mother Teresa at Management Development Institute of Singapore in 26.21 m distance
+[20:58:57] (NAVIGATION) Distance to target location: 26.21 meters. Will take 3.37 seconds driving at 28kmh
+[20:58:59] (INFO) Found 2 catchable Pokemon
+[20:59:00] (Wild Success) | Pidgey 119 V |  152 Cp | 53.65% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
