@@ -1953,3 +1953,23 @@
 [21:05:46] (NAVIGATION) Distance to target location: 157.24 meters. Will take 17.69 seconds driving at 32kmh
 [21:06:01] (INFO) Found 1 catchable Pokemon
 [21:06:03] (Wild Success) | Exeggcute 162 V |  373 Cp | 60.31% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[21:06:05] (INFO) Found 1 pokemon to transfer...
+[21:06:06] (TRANSFER) Exeggcute 140 V |  194 Cp | 56.21% | Lvl 07 | Best: [Exeggcute 162 V |  373 Cp | 60.31% | Lvl 13] | Candy: 14
+[21:06:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:06:10] (POKESTOP) Queen's Close Playground in 212.09 m distance
+[21:06:10] (NAVIGATION) Distance to target location: 212.09 meters. Will take 19.58 seconds driving at 39kmh
+[21:06:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:06:30] (POKESTOP) Queens Close Safe House in 108.77 m distance
+[21:06:30] (NAVIGATION) Distance to target location: 108.77 meters. Will take 13.5 seconds driving at 29kmh
+[21:06:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 5 x ItemPokeBall
+[21:06:43] (POKESTOP) Global Graduate at MDIS in 262.25 m distance
+[21:06:43] (NAVIGATION) Distance to target location: 262.25 meters. Will take 19.67 seconds driving at 48kmh
+[21:07:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:07:03] (INFO) Found 3 Recyclable Items:
+[21:07:03] (RECYCLING) Revive x 1
+[21:07:04] (RECYCLING) RazzBerry x 1
+[21:07:05] (RECYCLING) PokeBall x 12
+[21:07:08] (POKESTOP) Pablo Picasso at Management Development Institute of Singapore in 102.41 m distance
+[21:07:08] (NAVIGATION) Distance to target location: 102.41 meters. Will take 11.89 seconds driving at 31kmh
+[21:07:14] (INFO) Found 1 catchable Pokemon
+[21:07:16] (Wild Success) | Rattata 142 V |   23 Cp | 72.65% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
