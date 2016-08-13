@@ -16478,3 +16478,14 @@
 [05:17:52] (NAVIGATION) Distance to target location: 57.55 meters. Will take 7.14 seconds driving at 29kmh
 [05:17:54] (INFO) Found 1 catchable Pokemon
 [05:17:56] (Wild Success) | Caterpie 96 V |  116 Cp | 28.68% | Lvl 12 | Chance: 0.43 | with a PokeBall and received XP 210
+[05:18:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[05:18:01] (POKESTOP) Ayer Rajah Food Centre and Market in 45.49 m distance
+[05:18:01] (NAVIGATION) Distance to target location: 45.49 meters. Will take 5.12 seconds driving at 32kmh
+[05:18:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:18:06] (INFO) Found 1 Recyclable Item:
+[05:18:06] (RECYCLING) Revive x 2
+[05:18:09] (POKESTOP) Cute Dinosaur Mural in 227.17 m distance
+[05:18:09] (NAVIGATION) Distance to target location: 227.17 meters. Will take 19.95 seconds driving at 41kmh
+[05:18:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[05:18:28] (INFO) Found 1 catchable Pokemon
+[05:18:30] (Wild Success) | Exeggcute 166 V |  450 Cp | 51.34% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
