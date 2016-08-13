@@ -11794,3 +11794,4 @@
 [02:38:08] (TRANSFER) Psyduck 142 V |  304 Cp | 40.14% | Lvl 11 | Best: [Psyduck 163 V |  309 Cp | 46.89% | Lvl 11] | Candy: 70
 [02:38:09] (INFO) Found 2 catchable Pokemon
 [02:38:11] (Wild Success) | Weedle 95 V |   58 Cp | 33.63% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[02:38:12] (Wild Success) | Pidgey 100 V |   10 Cp | 44.00% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
