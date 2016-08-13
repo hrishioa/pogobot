@@ -1078,3 +1078,7 @@
 [20:36:42] (INFO) Found 2 catchable Pokemon
 [20:36:44] (Wild Success) | Jigglypuff 99 V |  107 Cp | 47.70% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 710
 [20:36:46] (Wild Success) | NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 710
+[20:36:48] (POKESTOP) Eagle Statue in 521.93 m distance
+[20:36:48] (NAVIGATION) Distance to target location: 521.93 meters. Will take 26.84 seconds driving at 70kmh
+[20:37:15] (INFO) Found 1 catchable Pokemon
+[20:37:17] (Wild Success) | Magikarp 91 V |   49 Cp | 60.68% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
