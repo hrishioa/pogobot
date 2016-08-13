@@ -7588,3 +7588,4 @@
 [00:21:43] (Wild Escape) | Geodude 103 V |  135 Cp | 24.21% | Lvl 07 | Chance: 0.57 | with a PokeBall 
 [00:21:44] (Wild Success Attempt #2) | Geodude 103 V |  135 Cp | 24.21% | Lvl 07 | Chance: 0.57 | with a PokeBall 
 [00:21:46] (Wild Success) | Growlithe 108 V |   16 Cp | 34.05% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[00:21:47] (Wild Success) | Geodude 113 V |  347 Cp | 16.17% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
