@@ -1439,3 +1439,10 @@
 [20:51:10] (INFO) Found 2 catchable Pokemon
 [20:51:12] (Wild Success) | Ekans 68 V |   30 Cp | 38.27% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [20:51:13] (Wild Success) | Zubat 148 V |  171 Cp | 75.89% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
+[20:51:15] (INFO) Found 2 pokemon to transfer...
+[20:51:17] (TRANSFER) Ekans 68 V |   30 Cp | 38.27% | Lvl 02 | Best: [Ekans 143 V |  167 Cp | 59.48% | Lvl 08] | Candy: 30
+[20:51:19] (TRANSFER) Zubat 148 V |  171 Cp | 75.89% | Lvl 10 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 152
+[20:51:33] (INFO) Found 1 catchable Pokemon
+[20:51:35] (Wild Flee) | Zubat 104 V |  107 Cp | 47.86% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[20:51:40] (INFO) Found 2 catchable Pokemon
+[20:51:42] (Wild Success) | Goldeen 149 V |  309 Cp | 71.28% | Lvl 12 | Chance: 0.43 | with a PokeBall and received XP 210
