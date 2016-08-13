@@ -3644,3 +3644,20 @@
 [22:03:50] (NAVIGATION) Distance to target location: 52.63 meters. Will take 6.32 seconds driving at 30kmh
 [22:03:55] (INFO) Found 1 catchable Pokemon
 [22:03:56] (Wild Success) | Zubat 106 V |   74 Cp | 48.61% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[22:03:58] (INFO) Found 1 pokemon to transfer...
+[22:04:00] (TRANSFER) Zubat 106 V |   74 Cp | 48.61% | Lvl 05 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 250
+[22:04:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[22:04:01] (INFO) Found 3 Recyclable Items:
+[22:04:02] (RECYCLING) PokeBall x 8
+[22:04:03] (RECYCLING) Potion x 1
+[22:04:04] (RECYCLING) Revive x 2
+[22:04:06] (POKESTOP) Haw Par Villa Gate in 66.94 m distance
+[22:04:06] (NAVIGATION) Distance to target location: 66.94 meters. Will take 7.77 seconds driving at 31kmh
+[22:04:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[22:04:15] (POKESTOP) Ram and Snake in 75.74 m distance
+[22:04:15] (NAVIGATION) Distance to target location: 75.74 meters. Will take 9.74 seconds driving at 28kmh
+[22:04:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:04:24] (POKESTOP) The Pig and Rat Family in 152.95 m distance
+[22:04:24] (NAVIGATION) Distance to target location: 152.95 meters. Will take 18.35 seconds driving at 30kmh
+[22:04:39] (INFO) Found 1 catchable Pokemon
+[22:04:41] (Wild Success) | Zubat 131 V |  212 Cp | 59.91% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
