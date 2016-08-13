@@ -7069,3 +7069,18 @@
 [00:04:20] (NAVIGATION) Distance to target location: 89.84 meters. Will take 10.11 seconds driving at 32kmh
 [00:04:28] (INFO) Found 1 catchable Pokemon
 [00:04:30] (Wild Success) | Pidgey 105 V |   77 Cp | 41.71% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:04:31] (INFO) Found 1 pokemon to transfer...
+[00:04:33] (TRANSFER) Pidgey 105 V |   77 Cp | 41.71% | Lvl 05 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 261
+[00:04:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[00:04:36] (POKESTOP) Sojourner in 164.32 m distance
+[00:04:36] (NAVIGATION) Distance to target location: 164.32 meters. Will take 19.72 seconds driving at 30kmh
+[00:04:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[00:04:56] (POKESTOP) Centros in 56.23 m distance
+[00:04:56] (NAVIGATION) Distance to target location: 56.23 meters. Will take 6.98 seconds driving at 29kmh
+[00:05:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[00:05:02] (INFO) Found 3 Recyclable Items:
+[00:05:02] (RECYCLING) RazzBerry x 4
+[00:05:03] (RECYCLING) PokeBall x 7
+[00:05:03] (RECYCLING) Revive x 2
+[00:05:06] (INFO) Found 1 catchable Pokemon
+[00:05:08] (Wild Success) | Pidgey 82 V |   72 Cp | 20.04% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
