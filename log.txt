@@ -4734,3 +4734,4 @@
 [22:46:05] (NAVIGATION) Distance to target location: 182.38 meters. Will take 19.9 seconds driving at 33kmh
 [22:46:13] (INFO) Found 4 catchable Pokemon
 [22:46:14] (Wild Success) | Spearow 161 V |  309 Cp | 72.54% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 420
+[22:46:16] (Wild Success) | Rattata 106 V |  133 Cp | 32.94% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
