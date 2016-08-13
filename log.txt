@@ -7589,3 +7589,20 @@
 [00:21:44] (Wild Success Attempt #2) | Geodude 103 V |  135 Cp | 24.21% | Lvl 07 | Chance: 0.57 | with a PokeBall 
 [00:21:46] (Wild Success) | Growlithe 108 V |   16 Cp | 34.05% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [00:21:47] (Wild Success) | Geodude 113 V |  347 Cp | 16.17% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[00:21:49] (INFO) Found 3 pokemon to transfer...
+[00:21:50] (TRANSFER) Geodude 104 V |  238 Cp | 25.02% | Lvl 12 | Best: [Geodude 131 V |  372 Cp | 39.27% | Lvl 18] | Candy: 17
+[00:21:53] (TRANSFER) Geodude 103 V |  135 Cp | 24.21% | Lvl 07 | Best: [Geodude 131 V |  372 Cp | 39.27% | Lvl 18] | Candy: 18
+[00:21:55] (TRANSFER) Growlithe 108 V |   16 Cp | 34.05% | Lvl 01 | Best: [Growlithe 149 V |  200 Cp | 53.97% | Lvl 06] | Candy: 11
+[00:21:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[00:21:58] (POKESTOP) Rochester Park - North Buona Vista Entrance in 37.65 m distance
+[00:21:58] (NAVIGATION) Distance to target location: 37.65 meters. Will take 4.52 seconds driving at 30kmh
+[00:22:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 4 x ItemPokeBall
+[00:22:02] (POKESTOP) Mural at Rochester 3 in 82 m distance
+[00:22:02] (NAVIGATION) Distance to target location: 82 meters. Will take 10.54 seconds driving at 28kmh
+[00:22:10] (INFO) Found 2 catchable Pokemon
+[00:22:10] (BERRY) ItemRazzBerry used, remaining: 50
+[00:22:11] (Wild Escape) | Pinsir 189 V |  631 Cp | 66.46% | Lvl 11 | Chance: 0.27 | with a GreatBall 
+[00:22:12] (BERRY) ItemRazzBerry used, remaining: 49
+[00:22:13] (Wild Success Attempt #2) | Pinsir 189 V |  631 Cp | 66.46% | Lvl 11 | Chance: 0.27 | with a GreatBall 
+[00:22:14] (BERRY) ItemRazzBerry used, remaining: 48
+[00:22:15] (Wild Success) | Paras 161 V |  393 Cp | 51.63% | Lvl 17 | Chance: 0.29 | with a GreatBall and received XP 210
