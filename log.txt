@@ -19063,3 +19063,16 @@
 [06:45:57] (BERRY) ItemRazzBerry used, remaining: 48
 [06:45:58] (Wild Success Attempt #2) | Bulbasaur 176 V |  461 Cp | 47.88% | Lvl 17 | Chance: 0.14 | with a GreatBall 
 [06:45:59] (Wild Success) | Metapod 142 V |  288 Cp | 62.73% | Lvl 24 | Chance: 0.15 | with a GreatBall and received XP 210
+[06:46:01] (INFO) Found 2 pokemon to transfer...
+[06:46:02] (TRANSFER) Bulbasaur 171 V |  455 Cp | 42.91% | Lvl 17 | Best: [Bulbasaur 229 V |  609 Cp | 97.81% | Lvl 20] | Candy: 77
+[06:46:05] (TRANSFER) Metapod 80 V |  167 Cp | 13.37% | Lvl 17 | Best: [Metapod 142 V |  288 Cp | 62.73% | Lvl 24] | Candy: 119
+[06:46:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemUltraBall
+[06:46:08] (INFO) Found 4 Recyclable Items:
+[06:46:08] (RECYCLING) PokeBall x 6
+[06:46:10] (RECYCLING) Potion x 1
+[06:46:10] (RECYCLING) SuperPotion x 2
+[06:46:12] (RECYCLING) Revive x 2
+[06:46:14] (POKESTOP) Retro Chess Table  in 72.14 m distance
+[06:46:14] (NAVIGATION) Distance to target location: 72.14 meters. Will take 8.96 seconds driving at 29kmh
+[06:46:20] (INFO) Found 1 catchable Pokemon
+[06:46:21] (Wild Success) | Bellsprout 142 V |  457 Cp | 28.51% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
