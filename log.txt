@@ -7223,3 +7223,23 @@
 [00:06:53] (INFO) Found 1 catchable Pokemon
 [00:06:54] (BERRY) ItemRazzBerry used, remaining: 50
 [00:06:55] (Wild Success) | Pinsir 228 V |  880 Cp | 79.76% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 210
+[00:06:57] (INFO) Found 1 pokemon to transfer...
+[00:06:58] (TRANSFER) Pinsir 196 V |  584 Cp | 77.53% | Lvl 10 | Best: [Pinsir 228 V |  880 Cp | 79.76% | Lvl 15] | Candy: 22
+[00:06:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:07:01] (POKESTOP) Robot Hadoken in 123.89 m distance
+[00:07:01] (NAVIGATION) Distance to target location: 123.89 meters. Will take 15.93 seconds driving at 28kmh
+[00:07:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:07:16] (INFO) Found 3 Recyclable Items:
+[00:07:17] (RECYCLING) PokeBall x 6
+[00:07:17] (RECYCLING) Potion x 2
+[00:07:19] (RECYCLING) Revive x 1
+[00:07:22] (POKESTOP) ZNC Graffiti in 85.45 m distance
+[00:07:22] (NAVIGATION) Distance to target location: 85.45 meters. Will take 9.92 seconds driving at 31kmh
+[00:07:31] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemHyperPotion
+[00:07:32] (POKESTOP) Buona Vista MRT in 163.7 m distance
+[00:07:32] (NAVIGATION) Distance to target location: 163.7 meters. Will take 19.64 seconds driving at 30kmh
+[00:07:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:07:52] (POKESTOP) Star Fountain in 241.91 m distance
+[00:07:52] (NAVIGATION) Distance to target location: 241.91 meters. Will take 19.79 seconds driving at 44kmh
+[00:08:03] (INFO) Found 2 catchable Pokemon
+[00:08:04] (Wild Success) | Bulbasaur 152 V |  241 Cp | 46.21% | Lvl 09 | Chance: 0.2 | with a GreatBall and received XP 210
