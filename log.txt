@@ -18380,3 +18380,10 @@
 [06:23:20] (INFO) Found 1 catchable Pokemon
 [06:23:21] (BERRY) ItemRazzBerry used, remaining: 47
 [06:23:22] (Wild Success) | Pinsir 233 V | 1057 Cp | 80.41% | Lvl 18 | Chance: 0.21 | with a GreatBall and received XP 210
+[06:23:24] (INFO) Found 1 pokemon to transfer...
+[06:23:25] (TRANSFER) Pinsir 233 V | 1057 Cp | 80.41% | Lvl 18 | Best: [Pinsir 273 V | 1370 Cp | 88.98% | Lvl 23] | Candy: 48
+[06:23:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[06:23:28] (POKESTOP) Butterfly Mural in 74.44 m distance
+[06:23:28] (NAVIGATION) Distance to target location: 74.44 meters. Will take 8.37 seconds driving at 32kmh
+[06:23:33] (INFO) Found 1 catchable Pokemon
+[06:23:35] (Wild Success) | Oddish 200 V |  498 Cp | 76.23% | Lvl 16 | Chance: 0.44 | with a PokeBall and received XP 210
