@@ -10855,3 +10855,13 @@
 [02:05:45] (NAVIGATION) Distance to target location: 117.64 meters. Will take 15.13 seconds driving at 28kmh
 [02:05:52] (INFO) Found 1 catchable Pokemon
 [02:05:53] (Wild Success) | Zubat 156 V |  256 Cp | 75.09% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 420
+[02:05:55] (INFO) Found 1 pokemon to transfer...
+[02:05:56] (TRANSFER) Zubat 156 V |  256 Cp | 75.09% | Lvl 15 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 589
+[02:05:59] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[02:06:01] (INFO) Found 2 Recyclable Items:
+[02:06:01] (RECYCLING) PokeBall x 10
+[02:06:03] (RECYCLING) SuperPotion x 1
+[02:06:05] (POKESTOP) NUS Central Library in 149.2 m distance
+[02:06:05] (NAVIGATION) Distance to target location: 149.2 meters. Will take 17.33 seconds driving at 31kmh
+[02:06:11] (INFO) Found 2 catchable Pokemon
+[02:06:14] (Wild Success) | Weedle 104 V |  141 Cp | 34.95% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 420
