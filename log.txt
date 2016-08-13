@@ -16777,3 +16777,62 @@
 [05:28:36] (NAVIGATION) Distance to target location: 123.01 meters. Will take 14.76 seconds driving at 30kmh
 [05:28:42] (INFO) Found 1 catchable Pokemon
 [05:28:44] (Wild Success) | Rattata 109 V |   49 Cp | 36.73% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[05:28:46] (INFO) Found 1 pokemon to transfer...
+[05:28:47] (TRANSFER) Rattata 109 V |   49 Cp | 36.73% | Lvl 04 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 373
+[05:28:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[05:28:52] (POKESTOP) Badminton Court At 426 in 191.33 m distance
+[05:28:52] (NAVIGATION) Distance to target location: 191.33 meters. Will take 19.68 seconds driving at 35kmh
+[05:28:56] (INFO) Found 1 catchable Pokemon
+[05:28:57] (Wild Escape) | Bulbasaur 116 V |   39 Cp | 26.85% | Lvl 02 | Chance: 0.48 | with a PokeBall 
+[05:28:58] (Wild Success Attempt #2) | Bulbasaur 116 V |   39 Cp | 26.85% | Lvl 02 | Chance: 0.48 | with a PokeBall 
+[05:29:00] (INFO) Found 1 pokemon to transfer...
+[05:29:01] (TRANSFER) Bulbasaur 116 V |   39 Cp | 26.85% | Lvl 02 | Best: [Bulbasaur 229 V |  609 Cp | 97.81% | Lvl 20] | Candy: 65
+[05:29:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:29:12] (POKESTOP) Cobra Shelter in 490.78 m distance
+[05:29:12] (NAVIGATION) Distance to target location: 490.78 meters. Will take 25.24 seconds driving at 70kmh
+[05:29:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemHyperPotion, 1 x ItemRazzBerry, 1 x ItemRevive
+[05:29:39] (POKESTOP) Five  Marbles Sculpture in 75.56 m distance
+[05:29:39] (NAVIGATION) Distance to target location: 75.56 meters. Will take 9.38 seconds driving at 29kmh
+[05:29:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[05:29:48] (POKESTOP) Palm Trees Walk Park in 50.21 m distance
+[05:29:48] (NAVIGATION) Distance to target location: 50.21 meters. Will take 5.65 seconds driving at 32kmh
+[05:29:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 1 x ItemGreatBall, 4 x ItemPokeBall
+[05:29:53] (INFO) Found 3 Recyclable Items:
+[05:29:54] (RECYCLING) RazzBerry x 1
+[05:29:55] (RECYCLING) PokeBall x 9
+[05:29:57] (RECYCLING) Revive x 2
+[05:29:58] (POKESTOP) Circular Fountain in 80.38 m distance
+[05:29:58] (NAVIGATION) Distance to target location: 80.38 meters. Will take 9.33 seconds driving at 31kmh
+[05:30:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:30:07] (POKESTOP) Artistic Iron Dome Structure in 104.98 m distance
+[05:30:07] (NAVIGATION) Distance to target location: 104.98 meters. Will take 13.5 seconds driving at 28kmh
+[05:30:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[05:30:20] (POKESTOP) West Coast Place Playground in 86.42 m distance
+[05:30:20] (NAVIGATION) Distance to target location: 86.42 meters. Will take 11.11 seconds driving at 28kmh
+[05:30:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[05:30:32] (POKESTOP) Rainforest Resting (RR) in 73.09 m distance
+[05:30:32] (NAVIGATION) Distance to target location: 73.09 meters. Will take 8.49 seconds driving at 31kmh
+[05:30:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemPotion, 1 x ItemGreatBall
+[05:30:41] (POKESTOP) Space Cage in 138.9 m distance
+[05:30:41] (NAVIGATION) Distance to target location: 138.9 meters. Will take 16.67 seconds driving at 30kmh
+[05:30:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[05:30:57] (INFO) Found 2 Recyclable Items:
+[05:30:57] (RECYCLING) RazzBerry x 1
+[05:30:58] (RECYCLING) PokeBall x 9
+[05:31:00] (POKESTOP) Traditional Children Playground in 50.76 m distance
+[05:31:00] (NAVIGATION) Distance to target location: 50.76 meters. Will take 6.3 seconds driving at 29kmh
+[05:31:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[05:31:07] (POKESTOP) Shelter West Coast Way in 326.28 m distance
+[05:31:07] (NAVIGATION) Distance to target location: 326.28 meters. Will take 19.91 seconds driving at 59kmh
+[05:31:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[05:31:28] (POKESTOP) West Coast Gardens in 204.25 m distance
+[05:31:28] (NAVIGATION) Distance to target location: 204.25 meters. Will take 19.87 seconds driving at 37kmh
+[05:31:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:31:48] (POKESTOP) The Fishman in 818.02 m distance
+[05:31:48] (NAVIGATION) Distance to target location: 818.02 meters. Will take 42.07 seconds driving at 70kmh
+[05:32:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[05:32:32] (INFO) Found 50 Pokestops
+[05:32:33] (POKESTOP) West Coast Park Connector in 198.01 m distance
+[05:32:33] (NAVIGATION) Distance to target location: 198.01 meters. Will take 19.8 seconds driving at 36kmh
+[05:32:38] (INFO) Found 1 catchable Pokemon
+[05:32:39] (Wild Success) | Pidgey 94 V |  244 Cp | 19.83% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
