@@ -8154,3 +8154,5 @@
 [00:37:43] (TRANSFER) Staryu 139 V |  141 Cp | 64.71% | Lvl 06 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 86
 [00:37:45] (INFO) Found 3 catchable Pokemon
 [00:37:46] (Wild Success) | Eevee 164 V |  110 Cp | 92.52% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
+[00:37:47] (BERRY) ItemRazzBerry used, remaining: 50
+[00:37:48] (Wild Success) | Golbat 186 V |  620 Cp | 64.07% | Lvl 12 | Chance: 0.17 | with a UltraBall and received XP 210
