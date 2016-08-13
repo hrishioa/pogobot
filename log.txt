@@ -2729,3 +2729,37 @@
 [21:33:08] (NAVIGATION) Distance to target location: 71.42 meters. Will take 8.03 seconds driving at 32kmh
 [21:33:11] (INFO) Found 1 catchable Pokemon
 [21:33:13] (Wild Success) | Zubat 138 V |  237 Cp | 49.37% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[21:33:14] (INFO) Found 1 pokemon to transfer...
+[21:33:16] (TRANSFER) Zubat 138 V |  237 Cp | 49.37% | Lvl 15 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 204
+[21:33:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:33:20] (INFO) Found 3 Recyclable Items:
+[21:33:21] (RECYCLING) Revive x 3
+[21:33:22] (RECYCLING) RazzBerry x 1
+[21:33:22] (RECYCLING) PokeBall x 9
+[21:33:25] (POKESTOP) White Guardian and Buddha Statue in 31.94 m distance
+[21:33:25] (NAVIGATION) Distance to target location: 31.94 meters. Will take 3.83 seconds driving at 30kmh
+[21:33:27] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 3 x ItemPokeBall, 2 x ItemPotion, 1 x ItemRazzBerry
+[21:33:29] (POKESTOP) Waterfall Feature in 69.92 m distance
+[21:33:29] (NAVIGATION) Distance to target location: 69.92 meters. Will take 8.68 seconds driving at 29kmh
+[21:33:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[21:33:37] (POKESTOP) AS¿k»•… in 77.02 m distance
+[21:33:37] (NAVIGATION) Distance to target location: 77.02 meters. Will take 8.94 seconds driving at 31kmh
+[21:33:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[21:33:46] (POKESTOP) Fountain at the Peak in 97.46 m distance
+[21:33:46] (NAVIGATION) Distance to target location: 97.46 meters. Will take 11.32 seconds driving at 31kmh
+[21:33:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:33:57] (POKESTOP) øˆ7uSbÇ† in 154.49 m distance
+[21:33:57] (NAVIGATION) Distance to target location: 154.49 meters. Will take 19.18 seconds driving at 29kmh
+[21:34:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[21:34:15] (INFO) Found 4 Recyclable Items:
+[21:34:16] (RECYCLING) Revive x 1
+[21:34:17] (RECYCLING) RazzBerry x 1
+[21:34:18] (RECYCLING) PokeBall x 9
+[21:34:19] (RECYCLING) Potion x 4
+[21:34:21] (POKESTOP) Haw Par Villa Mrt in 176.27 m distance
+[21:34:21] (NAVIGATION) Distance to target location: 176.27 meters. Will take 19.83 seconds driving at 32kmh
+[21:34:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 4 x ItemPokeBall
+[21:34:40] (POKESTOP) Circle Line Art at HPV in 437.67 m distance
+[21:34:40] (NAVIGATION) Distance to target location: 437.67 meters. Will take 22.51 seconds driving at 70kmh
+[21:34:47] (INFO) Found 1 catchable Pokemon
+[21:34:49] (Wild Success) | Ekans 108 V |   10 Cp | 41.99% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
