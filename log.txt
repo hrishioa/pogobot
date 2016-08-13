@@ -18677,3 +18677,20 @@
 [06:31:57] (INFO) Found 2 catchable Pokemon
 [06:31:59] (Wild Success) | Pidgey 105 V |  280 Cp | 26.52% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
 [06:32:00] (Wild Success) | Pidgey 78 V |   24 Cp | 25.53% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[06:32:02] (INFO) Found 2 pokemon to transfer...
+[06:32:04] (TRANSFER) Pidgey 105 V |  280 Cp | 26.52% | Lvl 18 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 835
+[06:32:06] (TRANSFER) Pidgey 78 V |   24 Cp | 25.53% | Lvl 02 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 836
+[06:32:06] (POKESTOP) Runme Shaw CFA Studios in 132.3 m distance
+[06:32:06] (NAVIGATION) Distance to target location: 132.3 meters. Will take 17.01 seconds driving at 28kmh
+[06:32:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:32:22] (INFO) Found 3 Recyclable Items:
+[06:32:23] (RECYCLING) PokeBall x 8
+[06:32:23] (RECYCLING) Potion x 1
+[06:32:26] (RECYCLING) Revive x 1
+[06:32:28] (POKESTOP) National Oxygen in 144.69 m distance
+[06:32:28] (NAVIGATION) Distance to target location: 144.69 meters. Will take 17.96 seconds driving at 29kmh
+[06:32:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:32:46] (POKESTOP) Wall Of Innovations And Enterprise in 133.66 m distance
+[06:32:46] (NAVIGATION) Distance to target location: 133.66 meters. Will take 16.59 seconds driving at 29kmh
+[06:32:54] (INFO) Found 1 catchable Pokemon
+[06:32:56] (Wild Success) | Pidgey 99 V |   94 Cp | 40.22% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
