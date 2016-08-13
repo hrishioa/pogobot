@@ -5149,3 +5149,7 @@
 [23:01:20] (TRANSFER) Krabby 111 V |  152 Cp | 44.23% | Lvl 08 | Best: [Krabby 155 V |  169 Cp | 81.26% | Lvl 08] | Candy: 46
 [23:01:22] (INFO) Found 1 catchable Pokemon
 [23:01:23] (Wild Success) | Staryu 152 V |   94 Cp | 82.58% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 420
+[23:01:25] (INFO) Found 1 pokemon to transfer...
+[23:01:26] (TRANSFER) Staryu 152 V |  253 Cp | 77.42% | Lvl 10 | Best: [Staryu 152 V |  123 Cp | 90.20% | Lvl 05] | Candy: 42
+[23:01:28] (INFO) Found 1 catchable Pokemon
+[23:01:31] (Wild Success) | Bellsprout 165 V |  230 Cp | 61.60% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
