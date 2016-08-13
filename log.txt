@@ -10644,3 +10644,10 @@
 [02:01:42] (NAVIGATION) Distance to target location: 92.76 meters. Will take 10.77 seconds driving at 31kmh
 [02:01:50] (INFO) Found 1 catchable Pokemon
 [02:01:51] (Wild Success) | Meowth 148 V |   10 Cp | 91.64% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[02:01:53] (INFO) Found 1 pokemon to transfer...
+[02:01:55] (TRANSFER) Meowth 148 V |   10 Cp | 91.64% | Lvl 01 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 18
+[02:01:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:01:57] (POKESTOP) The Baroque Scroll in 65.13 m distance
+[02:01:57] (NAVIGATION) Distance to target location: 65.13 meters. Will take 7.56 seconds driving at 31kmh
+[02:02:02] (INFO) Found 1 catchable Pokemon
+[02:02:04] (Wild Success) | Rattata 117 V |  148 Cp | 35.21% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
