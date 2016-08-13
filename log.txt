@@ -12433,3 +12433,20 @@
 [02:58:39] (NAVIGATION) Distance to target location: 474.33 meters. Will take 24.39 seconds driving at 70kmh
 [02:58:48] (INFO) Found 1 catchable Pokemon
 [02:58:50] (Wild Success) | Zubat 90 V |   23 Cp | 32.77% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[02:58:51] (INFO) Found 1 pokemon to transfer...
+[02:58:53] (TRANSFER) Zubat 90 V |   23 Cp | 32.77% | Lvl 02 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 627
+[02:59:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 2 x ItemPotion
+[02:59:06] (POKESTOP) Ten Two Six in 294.55 m distance
+[02:59:06] (NAVIGATION) Distance to target location: 294.55 meters. Will take 19.64 seconds driving at 54kmh
+[02:59:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:59:25] (INFO) Found 3 Recyclable Items:
+[02:59:26] (RECYCLING) RazzBerry x 1
+[02:59:27] (RECYCLING) PokeBall x 8
+[02:59:29] (RECYCLING) Potion x 2
+[02:59:31] (POKESTOP) Veranda Sculpture in 51.34 m distance
+[02:59:31] (NAVIGATION) Distance to target location: 51.34 meters. Will take 5.96 seconds driving at 31kmh
+[02:59:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:59:37] (POKESTOP) Clementi West Street 1 Circle in 270.06 m distance
+[02:59:37] (NAVIGATION) Distance to target location: 270.06 meters. Will take 19.84 seconds driving at 49kmh
+[02:59:50] (INFO) Found 1 catchable Pokemon
+[02:59:51] (Wild Success) | Slowpoke 141 V |  284 Cp | 57.96% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
