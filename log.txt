@@ -20851,3 +20851,11 @@
 [07:40:51] (TRANSFER) Weedle 104 V |   60 Cp | 43.18% | Lvl 06 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 443
 [07:40:53] (INFO) Found 1 catchable Pokemon
 [07:40:54] (Wild Success) | Caterpie 88 V |   86 Cp | 28.68% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[07:40:56] (INFO) Found 1 pokemon to transfer...
+[07:40:57] (TRANSFER) Caterpie 76 V |   63 Cp | 20.07% | Lvl 07 | Best: [Caterpie 102 V |  233 Cp | 28.76% | Lvl 24] | Candy: 143
+[07:40:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall
+[07:40:59] (INFO) Found 2 Recyclable Items:
+[07:41:01] (RECYCLING) PokeBall x 10
+[07:41:01] (RECYCLING) Revive x 1
+[07:41:05] (INFO) Found 1 catchable Pokemon
+[07:41:05] (Wild Success) | Weedle 94 V |  217 Cp | 40.17% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
