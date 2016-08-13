@@ -16550,3 +16550,18 @@
 [05:21:52] (INFO) Found 2 catchable Pokemon
 [05:21:53] (ATTENTION) Encounter problem: EncounterClosed
 [05:21:54] (Wild Success) | Magikarp 107 V |   73 Cp | 74.82% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
+[05:22:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemRevive
+[05:22:03] (POKESTOP) Block 701 Mini Playground in 73.21 m distance
+[05:22:03] (NAVIGATION) Distance to target location: 73.21 meters. Will take 9.09 seconds driving at 29kmh
+[05:22:06] (INFO) Found 1 catchable Pokemon
+[05:22:07] (Wild Escape) | Pidgey 120 V |  135 Cp | 55.78% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[05:22:08] (Wild Success Attempt #2) | Pidgey 120 V |  135 Cp | 55.78% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[05:22:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:22:13] (POKESTOP) Huge Red Umbrella in 226.64 m distance
+[05:22:13] (NAVIGATION) Distance to target location: 226.64 meters. Will take 19.9 seconds driving at 41kmh
+[05:22:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[05:22:35] (POKESTOP) Clementi Stadium in 179.78 m distance
+[05:22:35] (NAVIGATION) Distance to target location: 179.78 meters. Will take 19.61 seconds driving at 33kmh
+[05:22:48] (INFO) Found 2 catchable Pokemon
+[05:22:48] (BERRY) ItemRazzBerry used, remaining: 48
+[05:22:50] (Wild Success) | Poliwag 128 V |  426 Cp | 26.37% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
