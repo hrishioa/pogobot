@@ -18729,3 +18729,24 @@
 [06:34:20] (NAVIGATION) Distance to target location: 132.3 meters. Will take 15.36 seconds driving at 31kmh
 [06:34:28] (INFO) Found 1 catchable Pokemon
 [06:34:30] (Wild Success) | Eevee 116 V |   43 Cp | 62.00% | Lvl 02 | Chance: 0.96 | with a PokeBall and received XP 210
+[06:34:32] (INFO) Found 1 pokemon to transfer...
+[06:34:34] (TRANSFER) Eevee 116 V |   43 Cp | 62.00% | Lvl 02 | Best: [Eevee 171 V |  234 Cp | 83.49% | Lvl 08] | Candy: 32
+[06:34:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:34:38] (INFO) Found 4 Recyclable Items:
+[06:34:38] (RECYCLING) RazzBerry x 1
+[06:34:40] (RECYCLING) PokeBall x 8
+[06:34:40] (RECYCLING) Potion x 1
+[06:34:42] (RECYCLING) Revive x 1
+[06:34:44] (POKESTOP) Metal Robot Structure in 103.64 m distance
+[06:34:44] (NAVIGATION) Distance to target location: 103.64 meters. Will take 13.33 seconds driving at 28kmh
+[06:34:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:34:56] (POKESTOP) SDE Mural in 110.75 m distance
+[06:34:56] (NAVIGATION) Distance to target location: 110.75 meters. Will take 13.75 seconds driving at 29kmh
+[06:35:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 5 x ItemPokeBall
+[06:35:10] (POKESTOP) Center for English Language Communication in 103.17 m distance
+[06:35:10] (NAVIGATION) Distance to target location: 103.17 meters. Will take 11.98 seconds driving at 31kmh
+[06:35:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:35:22] (POKESTOP) Clementi Woods Playground in 689.3 m distance
+[06:35:22] (NAVIGATION) Distance to target location: 689.3 meters. Will take 35.45 seconds driving at 70kmh
+[06:35:52] (INFO) Found 1 catchable Pokemon
+[06:35:54] (Wild Success) | Weedle 91 V |  222 Cp | 14.04% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
