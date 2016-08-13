@@ -10651,3 +10651,14 @@
 [02:01:57] (NAVIGATION) Distance to target location: 65.13 meters. Will take 7.56 seconds driving at 31kmh
 [02:02:02] (INFO) Found 1 catchable Pokemon
 [02:02:04] (Wild Success) | Rattata 117 V |  148 Cp | 35.21% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:02:06] (INFO) Found 1 pokemon to transfer...
+[02:02:07] (TRANSFER) Rattata 117 V |  148 Cp | 35.21% | Lvl 11 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 165
+[02:02:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:02:10] (INFO) Found 5 Recyclable Items:
+[02:02:10] (RECYCLING) RazzBerry x 1
+[02:02:11] (RECYCLING) PokeBall x 6
+[02:02:12] (RECYCLING) Potion x 1
+[02:02:13] (RECYCLING) SuperPotion x 1
+[02:02:15] (RECYCLING) Revive x 1
+[02:02:16] (INFO) Found 1 catchable Pokemon
+[02:02:18] (Wild Success) | Krabby 138 V |  360 Cp | 54.88% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
