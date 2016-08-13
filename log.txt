@@ -7606,3 +7606,24 @@
 [00:22:13] (Wild Success Attempt #2) | Pinsir 189 V |  631 Cp | 66.46% | Lvl 11 | Chance: 0.27 | with a GreatBall 
 [00:22:14] (BERRY) ItemRazzBerry used, remaining: 48
 [00:22:15] (Wild Success) | Paras 161 V |  393 Cp | 51.63% | Lvl 17 | Chance: 0.29 | with a GreatBall and received XP 210
+[00:22:16] (INFO) Found 2 pokemon to transfer...
+[00:22:19] (TRANSFER) Pinsir 189 V |  631 Cp | 66.46% | Lvl 11 | Best: [Pinsir 228 V |  880 Cp | 79.76% | Lvl 15] | Candy: 30
+[00:22:20] (TRANSFER) Paras 151 V |  141 Cp | 71.61% | Lvl 06 | Best: [Paras 161 V |  393 Cp | 51.63% | Lvl 17] | Candy: 21
+[00:22:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:22:24] (POKESTOP) NTU Alumni Club in 278.87 m distance
+[00:22:24] (NAVIGATION) Distance to target location: 278.87 meters. Will take 19.68 seconds driving at 51kmh
+[00:22:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[00:22:43] (INFO) Found 3 Recyclable Items:
+[00:22:44] (RECYCLING) PokeBall x 8
+[00:22:44] (RECYCLING) Potion x 1
+[00:22:45] (RECYCLING) Revive x 1
+[00:22:48] (POKESTOP) One North Reflecting Pool in 153.91 m distance
+[00:22:48] (NAVIGATION) Distance to target location: 153.91 meters. Will take 17.31 seconds driving at 32kmh
+[00:23:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemPotion, 1 x ItemGreatBall
+[00:23:05] (POKESTOP) Jimmy Monkey Restaurant in 103.69 m distance
+[00:23:05] (NAVIGATION) Distance to target location: 103.69 meters. Will take 12.87 seconds driving at 29kmh
+[00:23:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[00:23:18] (POKESTOP) Parabolic Dish in 186.58 m distance
+[00:23:18] (NAVIGATION) Distance to target location: 186.58 meters. Will take 19.76 seconds driving at 34kmh
+[00:23:35] (INFO) Found 2 catchable Pokemon
+[00:23:37] (Wild Success) | Poliwag 122 V |  190 Cp | 34.01% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
