@@ -18981,3 +18981,24 @@
 [06:41:43] (NAVIGATION) Distance to target location: 74.93 meters. Will take 8.7 seconds driving at 31kmh
 [06:41:46] (INFO) Found 1 catchable Pokemon
 [06:41:47] (Wild Success) | Pidgey 92 V |  137 Cp | 22.87% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[06:41:49] (INFO) Found 1 pokemon to transfer...
+[06:41:50] (TRANSFER) Pidgey 92 V |  137 Cp | 22.87% | Lvl 09 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 848
+[06:41:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[06:41:55] (POKESTOP) Central Park at SRC in 74.7 m distance
+[06:41:55] (NAVIGATION) Distance to target location: 74.7 meters. Will take 8.4 seconds driving at 32kmh
+[06:42:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:42:04] (INFO) Found 4 Recyclable Items:
+[06:42:04] (RECYCLING) PokeBall x 9
+[06:42:05] (RECYCLING) Potion x 1
+[06:42:06] (RECYCLING) SuperPotion x 1
+[06:42:07] (RECYCLING) Revive x 2
+[06:42:10] (POKESTOP) Create in 96.44 m distance
+[06:42:10] (NAVIGATION) Distance to target location: 96.44 meters. Will take 11.2 seconds driving at 31kmh
+[06:42:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemPokeBall
+[06:42:21] (POKESTOP) UT Auditorium 2 in 96.11 m distance
+[06:42:21] (NAVIGATION) Distance to target location: 96.11 meters. Will take 11.93 seconds driving at 29kmh
+[06:42:32] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemGreatBall, 3 x ItemPokeBall
+[06:42:33] (POKESTOP) CREATE: Campus for Research Ex in 156.05 m distance
+[06:42:33] (NAVIGATION) Distance to target location: 156.05 meters. Will take 18.73 seconds driving at 30kmh
+[06:42:43] (INFO) Found 1 catchable Pokemon
+[06:42:44] (Wild Success) | Zubat 144 V |   44 Cp | 75.33% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
