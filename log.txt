@@ -809,3 +809,13 @@
 [20:26:13] (INFO) Found 2 catchable Pokemon
 [20:26:15] (Wild Success) | Growlithe 149 V |  200 Cp | 53.97% | Lvl 06 | Chance: 0.37 | with a PokeBall and received XP 210
 [20:26:17] (Wild Success) | Zubat 114 V |   10 Cp | 47.80% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[20:26:19] (INFO) Found 1 pokemon to transfer...
+[20:26:20] (TRANSFER) Zubat 114 V |   10 Cp | 47.80% | Lvl 01 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 81
+[20:26:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:26:25] (POKESTOP) Salvation Army Sign in 212.23 m distance
+[20:26:25] (NAVIGATION) Distance to target location: 212.23 meters. Will take 19.59 seconds driving at 39kmh
+[20:26:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:26:45] (POKESTOP) The Aries Spire in 853.51 m distance
+[20:26:45] (NAVIGATION) Distance to target location: 853.51 meters. Will take 43.89 seconds driving at 70kmh
+[20:26:48] (INFO) Found 1 catchable Pokemon
+[20:26:50] (Wild Success) | Pidgey 70 V |   40 Cp | 25.66% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
