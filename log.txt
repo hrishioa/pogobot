@@ -5463,3 +5463,4 @@
 [23:11:54] (Wild Escape) | Golbat 154 V |  193 Cp | 75.46% | Lvl 04 | Chance: 0.31 | with a GreatBall 
 [23:11:55] (Wild Success Attempt #2) | Golbat 154 V |  193 Cp | 75.46% | Lvl 04 | Chance: 0.31 | with a GreatBall 
 [23:11:56] (Wild Success) | Pidgey 111 V |   97 Cp | 50.69% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
+[23:11:58] (Wild Success) | Zubat 142 V |  277 Cp | 59.24% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 420
