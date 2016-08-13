@@ -18804,3 +18804,20 @@
 [06:37:41] (NAVIGATION) Distance to target location: 95.61 meters. Will take 11.1 seconds driving at 31kmh
 [06:37:49] (INFO) Found 1 catchable Pokemon
 [06:37:51] (Wild Success) | Paras 144 V |  284 Cp | 60.52% | Lvl 12 | Chance: 0.34 | with a GreatBall and received XP 210
+[06:37:53] (INFO) Found 1 pokemon to transfer...
+[06:37:54] (TRANSFER) Paras 144 V |  284 Cp | 60.52% | Lvl 12 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 91
+[06:37:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:37:57] (POKESTOP) Clementi West Green Alien Mural in 44.6 m distance
+[06:37:57] (NAVIGATION) Distance to target location: 44.6 meters. Will take 5.73 seconds driving at 28kmh
+[06:38:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[06:38:01] (INFO) Found 3 Recyclable Items:
+[06:38:02] (RECYCLING) PokeBall x 12
+[06:38:02] (RECYCLING) Potion x 2
+[06:38:04] (RECYCLING) Revive x 3
+[06:38:07] (POKESTOP) West Coast Market in 100.44 m distance
+[06:38:07] (NAVIGATION) Distance to target location: 100.44 meters. Will take 11.66 seconds driving at 31kmh
+[06:38:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:38:19] (POKESTOP) Happy Sunshine Mural in 83.35 m distance
+[06:38:19] (NAVIGATION) Distance to target location: 83.35 meters. Will take 9.38 seconds driving at 32kmh
+[06:38:20] (INFO) Found 1 catchable Pokemon
+[06:38:22] (Wild Success) | Weedle 100 V |  230 Cp | 22.13% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
