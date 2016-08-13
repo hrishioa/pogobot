@@ -871,3 +871,8 @@
 [20:29:40] (INFO) Found 2 catchable Pokemon
 [20:29:41] (Wild Success) | Golbat 106 V |   24 Cp | 49.39% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 210
 [20:29:43] (Wild Success) | Zubat 109 V |   59 Cp | 58.33% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:29:45] (INFO) Found 2 pokemon to transfer...
+[20:29:47] (TRANSFER) Zubat 109 V |   59 Cp | 58.33% | Lvl 04 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 92
+[20:29:48] (TRANSFER) Golbat 106 V |   24 Cp | 49.39% | Lvl 01 | Best: [Golbat 164 V |  303 Cp | 74.37% | Lvl 06] | Candy: 93
+[20:29:50] (INFO) Found 1 catchable Pokemon
+[20:29:51] (Wild Success) | Weedle 57 V |   10 Cp | 24.16% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
