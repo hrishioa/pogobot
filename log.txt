@@ -7356,3 +7356,8 @@
 [00:14:59] (INFO) Found 2 catchable Pokemon
 [00:15:01] (Wild Success) | Magikarp 96 V |   76 Cp | 63.06% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
 [00:15:02] (Wild Success) | Magikarp 97 V |   70 Cp | 64.71% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
+[00:15:04] (INFO) Found 2 pokemon to transfer...
+[00:15:05] (TRANSFER) Magikarp 97 V |   70 Cp | 64.71% | Lvl 11 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 128
+[00:15:08] (TRANSFER) Magikarp 96 V |   76 Cp | 63.06% | Lvl 12 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 129
+[00:15:09] (INFO) Found 1 catchable Pokemon
+[00:15:11] (Wild Success) | Psyduck 129 V |  333 Cp | 10.78% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
