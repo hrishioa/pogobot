@@ -17478,3 +17478,10 @@
 [05:54:10] (TRANSFER) Poliwag 128 V |  426 Cp | 26.37% | Lvl 23 | Best: [Poliwag 169 V |  396 Cp | 66.69% | Lvl 19] | Candy: 146
 [05:54:12] (INFO) Found 1 catchable Pokemon
 [05:54:13] (Wild Success) | Bellsprout 146 V |   78 Cp | 71.47% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[05:54:15] (INFO) Found 1 pokemon to transfer...
+[05:54:16] (TRANSFER) Bellsprout 146 V |   78 Cp | 71.47% | Lvl 03 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 137
+[05:54:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[05:54:20] (POKESTOP) West Coast Recreation Centre in 119.79 m distance
+[05:54:20] (NAVIGATION) Distance to target location: 119.79 meters. Will take 15.4 seconds driving at 28kmh
+[05:54:25] (INFO) Found 1 catchable Pokemon
+[05:54:27] (Wild Success) | Weedle 120 V |  190 Cp | 46.35% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
