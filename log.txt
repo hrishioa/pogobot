@@ -9924,3 +9924,7 @@
 [01:39:08] (NAVIGATION) Distance to target location: 104.45 meters. Will take 12.13 seconds driving at 31kmh
 [01:39:09] (INFO) Found 1 catchable Pokemon
 [01:39:11] (Wild Success) | Caterpie 106 V |  141 Cp | 37.38% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[01:39:12] (INFO) Found 1 pokemon to transfer...
+[01:39:15] (TRANSFER) Caterpie 100 V |  128 Cp | 32.28% | Lvl 13 | Best: [Caterpie 106 V |  141 Cp | 37.38% | Lvl 14] | Candy: 94
+[01:39:16] (INFO) Found 1 catchable Pokemon
+[01:39:18] (Wild Success) | Zubat 155 V |  333 Cp | 66.87% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
