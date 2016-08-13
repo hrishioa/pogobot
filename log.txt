@@ -17466,3 +17466,11 @@
 [05:53:26] (NAVIGATION) Distance to target location: 356.56 meters. Will take 19.75 seconds driving at 65kmh
 [05:53:45] (INFO) Found 1 catchable Pokemon
 [05:53:47] (Wild Success) | Goldeen 141 V |  121 Cp | 70.10% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[05:53:48] (INFO) Found 1 pokemon to transfer...
+[05:53:50] (TRANSFER) Goldeen 141 V |  121 Cp | 70.10% | Lvl 05 | Best: [Goldeen 173 V |  503 Cp | 61.48% | Lvl 20] | Candy: 162
+[05:53:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[05:53:52] (POKESTOP) Clementi Stadium in 178.15 m distance
+[05:53:52] (NAVIGATION) Distance to target location: 178.15 meters. Will take 19.43 seconds driving at 33kmh
+[05:54:05] (INFO) Found 1 catchable Pokemon
+[05:54:07] (BERRY) ItemRazzBerry used, remaining: 49
+[05:54:07] (Wild Success) | Poliwag 169 V |  396 Cp | 66.69% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
