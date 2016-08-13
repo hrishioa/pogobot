@@ -20921,3 +20921,7 @@
 [07:44:31] (INFO) Found 1 catchable Pokemon
 [07:44:32] (BERRY) ItemRazzBerry used, remaining: 49
 [07:44:33] (Wild Success) | NidoranMale 175 V |  499 Cp | 76.41% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[07:44:35] (INFO) Found 1 pokemon to transfer...
+[07:44:36] (TRANSFER) NidoranMale 114 V |  253 Cp | 49.74% | Lvl 12 | Best: [NidoranMale 175 V |  499 Cp | 76.41% | Lvl 22] | Candy: 16
+[07:44:38] (INFO) Found 1 catchable Pokemon
+[07:44:39] (Wild Success) | Weedle 101 V |  186 Cp | 27.38% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
