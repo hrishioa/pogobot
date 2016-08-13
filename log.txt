@@ -19019,3 +19019,10 @@
 [06:43:12] (INFO) Found 2 catchable Pokemon
 [06:43:14] (Wild Success) | Pidgey 120 V |  199 Cp | 45.29% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [06:43:15] (Wild Success) | Rattata 140 V |  281 Cp | 47.09% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[06:43:17] (INFO) Found 2 pokemon to transfer...
+[06:43:19] (TRANSFER) Pidgey 120 V |  199 Cp | 45.29% | Lvl 12 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 852
+[06:43:21] (TRANSFER) Rattata 140 V |  281 Cp | 47.09% | Lvl 20 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 489
+[06:43:21] (POKESTOP) Clementi Woods Fitness Corner in 876.39 m distance
+[06:43:21] (NAVIGATION) Distance to target location: 876.39 meters. Will take 45.07 seconds driving at 70kmh
+[06:43:42] (INFO) Found 1 catchable Pokemon
+[06:43:44] (Wild Success) | Poliwag 125 V |  250 Cp | 38.28% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
