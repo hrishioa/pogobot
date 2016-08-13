@@ -19253,3 +19253,16 @@
 [06:49:46] (TRANSFER) Bellsprout 90 V |  161 Cp | 44.65% | Lvl 06 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 193
 [06:49:48] (INFO) Found 1 catchable Pokemon
 [06:49:49] (Wild Success) | Zubat 119 V |  141 Cp | 49.83% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[06:49:51] (INFO) Found 1 pokemon to transfer...
+[06:49:52] (TRANSFER) Zubat 119 V |  141 Cp | 49.83% | Lvl 09 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 566
+[06:49:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall, 3 x ItemPokeBall
+[06:49:57] (POKESTOP) Pendulum White Shelter in 87.85 m distance
+[06:49:57] (NAVIGATION) Distance to target location: 87.85 meters. Will take 10.2 seconds driving at 31kmh
+[06:50:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[06:50:07] (POKESTOP) Safety English Chess Table in 86.88 m distance
+[06:50:07] (NAVIGATION) Distance to target location: 86.88 meters. Will take 11.17 seconds driving at 28kmh
+[06:50:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[06:50:17] (POKESTOP) Republic of Singapore Yacht Club Entrance in 350.83 m distance
+[06:50:17] (NAVIGATION) Distance to target location: 350.83 meters. Will take 19.73 seconds driving at 64kmh
+[06:50:21] (INFO) Found 3 catchable Pokemon
+[06:50:23] (Wild Success) | Zubat 133 V |   94 Cp | 59.29% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
