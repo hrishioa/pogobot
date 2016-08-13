@@ -20719,3 +20719,32 @@
 [07:38:57] (NAVIGATION) Distance to target location: 67.22 meters. Will take 7.81 seconds driving at 31kmh
 [07:39:02] (INFO) Found 2 catchable Pokemon
 [07:39:04] (Wild Success) | Rattata 115 V |  175 Cp | 35.01% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[07:39:05] (Wild Flee) | Paras 166 V |  270 Cp | 74.01% | Lvl 11 | Chance: 0.36 | with a GreatBall 
+[07:39:07] (INFO) Found 1 pokemon to transfer...
+[07:39:09] (TRANSFER) Rattata 115 V |  175 Cp | 35.01% | Lvl 13 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 589
+[07:39:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:39:11] (POKESTOP) Happy Sunshine Mural in 118.59 m distance
+[07:39:11] (NAVIGATION) Distance to target location: 118.59 meters. Will take 14.23 seconds driving at 30kmh
+[07:39:22] (INFO) Found 1 catchable Pokemon
+[07:39:24] (Wild Flee) | Rattata 130 V |  299 Cp | 38.06% | Lvl 22 | Chance: 0.31 | with a UltraBall 
+[07:39:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[07:39:27] (POKESTOP) West Coast Market in 86.58 m distance
+[07:39:27] (NAVIGATION) Distance to target location: 86.58 meters. Will take 11.13 seconds driving at 28kmh
+[07:39:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[07:39:38] (POKESTOP) Wu Tai Shan  in 86.3 m distance
+[07:39:38] (NAVIGATION) Distance to target location: 86.3 meters. Will take 11.1 seconds driving at 28kmh
+[07:39:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:39:48] (INFO) Found 3 Recyclable Items:
+[07:39:48] (RECYCLING) PokeBall x 7
+[07:39:50] (RECYCLING) SuperPotion x 1
+[07:39:51] (RECYCLING) Revive x 2
+[07:39:52] (POKESTOP) West Coast Plaza Triple Fountain in 73.43 m distance
+[07:39:52] (NAVIGATION) Distance to target location: 73.43 meters. Will take 9.11 seconds driving at 29kmh
+[07:39:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:40:01] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 46.13 m distance
+[07:40:01] (NAVIGATION) Distance to target location: 46.13 meters. Will take 5.36 seconds driving at 31kmh
+[07:40:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:40:07] (POKESTOP) Wall Water Fountain in 55.56 m distance
+[07:40:07] (NAVIGATION) Distance to target location: 55.56 meters. Will take 6.45 seconds driving at 31kmh
+[07:40:11] (INFO) Found 1 catchable Pokemon
+[07:40:13] (Wild Success) | Magikarp 123 V |  146 Cp | 82.57% | Lvl 21 | Chance: 0.45 | with a PokeBall and received XP 210
