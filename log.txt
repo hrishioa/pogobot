@@ -7292,3 +7292,22 @@
 [00:09:59] (NAVIGATION) Distance to target location: 45.1 meters. Will take 5.41 seconds driving at 30kmh
 [00:10:01] (INFO) Found 1 catchable Pokemon
 [00:10:02] (Wild Success) | Weedle 122 V |  120 Cp | 55.42% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[00:10:04] (INFO) Found 1 pokemon to transfer...
+[00:10:05] (TRANSFER) Weedle 118 V |  151 Cp | 70.85% | Lvl 13 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 89
+[00:10:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[00:10:10] (POKESTOP) The Rain Garden in 150.59 m distance
+[00:10:10] (NAVIGATION) Distance to target location: 150.59 meters. Will take 19.36 seconds driving at 28kmh
+[00:10:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:10:30] (POKESTOP) Rochester Park in 141.95 m distance
+[00:10:30] (NAVIGATION) Distance to target location: 141.95 meters. Will take 18.25 seconds driving at 28kmh
+[00:10:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 2 x ItemPokeBall
+[00:10:47] (INFO) Found 4 Recyclable Items:
+[00:10:48] (RECYCLING) RazzBerry x 1
+[00:10:48] (RECYCLING) PokeBall x 8
+[00:10:50] (RECYCLING) Potion x 1
+[00:10:51] (RECYCLING) Revive x 2
+[00:10:54] (POKESTOP) Rochester Park in 87.96 m distance
+[00:10:54] (NAVIGATION) Distance to target location: 87.96 meters. Will take 11.31 seconds driving at 28kmh
+[00:11:00] (INFO) Found 1 catchable Pokemon
+[00:11:01] (BERRY) ItemRazzBerry used, remaining: 49
+[00:11:02] (Wild Success) | Dodrio 215 V |  742 Cp | 66.22% | Lvl 15 | Chance: 0.15 | with a GreatBall and received XP 210
