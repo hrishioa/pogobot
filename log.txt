@@ -1468,3 +1468,24 @@
 [20:52:41] (NAVIGATION) Distance to target location: 168.95 meters. Will take 19.62 seconds driving at 31kmh
 [20:52:54] (INFO) Found 1 catchable Pokemon
 [20:52:56] (Wild Success) | NidoranFemale 82 V |   32 Cp | 30.20% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[20:52:57] (INFO) Found 1 pokemon to transfer...
+[20:52:59] (TRANSFER) NidoranFemale 82 V |   32 Cp | 30.20% | Lvl 02 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 7
+[20:53:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[20:53:03] (POKESTOP) Old Water Tank in 151.35 m distance
+[20:53:03] (NAVIGATION) Distance to target location: 151.35 meters. Will take 17.03 seconds driving at 32kmh
+[20:53:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[20:53:19] (POKESTOP) Hang Up Bar Fitness Station in 180.33 m distance
+[20:53:19] (NAVIGATION) Distance to target location: 180.33 meters. Will take 19.67 seconds driving at 33kmh
+[20:53:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemGreatBall
+[20:53:39] (INFO) Found 4 Recyclable Items:
+[20:53:39] (RECYCLING) Revive x 2
+[20:53:41] (RECYCLING) RazzBerry x 2
+[20:53:41] (RECYCLING) PokeBall x 7
+[20:53:42] (RECYCLING) Potion x 2
+[20:53:44] (POKESTOP) Bougainvillea Walkway in 67.6 m distance
+[20:53:44] (NAVIGATION) Distance to target location: 67.6 meters. Will take 8.39 seconds driving at 29kmh
+[20:53:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[20:53:53] (POKESTOP) Playground At Blk56 in 124.29 m distance
+[20:53:53] (NAVIGATION) Distance to target location: 124.29 meters. Will take 14.92 seconds driving at 30kmh
+[20:54:04] (INFO) Found 1 catchable Pokemon
+[20:54:05] (Wild Success) | Dodrio 145 V |  231 Cp | 62.37% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 210
