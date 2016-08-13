@@ -11449,3 +11449,33 @@
 [02:25:47] (NAVIGATION) Distance to target location: 61.91 meters. Will take 7.69 seconds driving at 29kmh
 [02:25:52] (INFO) Found 1 catchable Pokemon
 [02:25:54] (Wild Success) | Paras 127 V |   11 Cp | 56.49% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
+[02:25:56] (INFO) Found 1 pokemon to transfer...
+[02:25:57] (TRANSFER) Paras 127 V |   11 Cp | 56.49% | Lvl 01 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 72
+[02:25:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemSuperPotion
+[02:26:01] (POKESTOP) Kent Ridge Hall in 54.04 m distance
+[02:26:01] (NAVIGATION) Distance to target location: 54.04 meters. Will take 6.08 seconds driving at 32kmh
+[02:26:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:26:07] (POKESTOP) Waterfall Fountain in 76.61 m distance
+[02:26:07] (NAVIGATION) Distance to target location: 76.61 meters. Will take 8.9 seconds driving at 31kmh
+[02:26:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:26:15] (POKESTOP) NUS Business School in 99.21 m distance
+[02:26:15] (NAVIGATION) Distance to target location: 99.21 meters. Will take 11.16 seconds driving at 32kmh
+[02:26:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:26:26] (INFO) Found 4 Recyclable Items:
+[02:26:27] (RECYCLING) RazzBerry x 1
+[02:26:28] (RECYCLING) PokeBall x 2
+[02:26:29] (RECYCLING) SuperPotion x 1
+[02:26:30] (RECYCLING) Revive x 2
+[02:26:33] (POKESTOP) The Baroque Scroll in 171.92 m distance
+[02:26:33] (NAVIGATION) Distance to target location: 171.92 meters. Will take 19.96 seconds driving at 31kmh
+[02:26:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:26:52] (POKESTOP) Integration in 46.76 m distance
+[02:26:52] (NAVIGATION) Distance to target location: 46.76 meters. Will take 5.61 seconds driving at 30kmh
+[02:26:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemGreatBall
+[02:26:59] (POKESTOP) NUS Graduate Pot in 90.88 m distance
+[02:26:59] (NAVIGATION) Distance to target location: 90.88 meters. Will take 10.91 seconds driving at 30kmh
+[02:27:07] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:27:09] (POKESTOP) NUS 1962-1980 in 86.84 m distance
+[02:27:09] (NAVIGATION) Distance to target location: 86.84 meters. Will take 9.77 seconds driving at 32kmh
+[02:27:14] (INFO) Found 1 catchable Pokemon
+[02:27:16] (Wild Success) | Paras 124 V |   84 Cp | 51.31% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 420
