@@ -8290,3 +8290,10 @@
 [00:44:08] (TRANSFER) Slowpoke 121 V |   48 Cp | 46.13% | Lvl 02 | Best: [Slowpoke 131 V |  241 Cp | 41.64% | Lvl 08] | Candy: 27
 [00:44:09] (INFO) Found 1 catchable Pokemon
 [00:44:11] (Wild Success) | Zubat 130 V |   79 Cp | 71.61% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:44:12] (INFO) Found 1 pokemon to transfer...
+[00:44:14] (TRANSFER) Zubat 130 V |   79 Cp | 71.61% | Lvl 05 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 433
+[00:44:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[00:44:16] (POKESTOP) Science And Technology Water Statue in 368.73 m distance
+[00:44:16] (NAVIGATION) Distance to target location: 368.73 meters. Will take 19.81 seconds driving at 67kmh
+[00:44:23] (INFO) Found 1 catchable Pokemon
+[00:44:24] (Wild Success) | Zubat 109 V |  286 Cp | 34.73% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
