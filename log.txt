@@ -7275,3 +7275,20 @@
 [00:09:24] (NAVIGATION) Distance to target location: 80.74 meters. Will take 10.02 seconds driving at 29kmh
 [00:09:27] (INFO) Found 1 catchable Pokemon
 [00:09:29] (Wild Success) | Krabby 152 V |  272 Cp | 70.75% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[00:09:30] (INFO) Found 1 pokemon to transfer...
+[00:09:32] (TRANSFER) Krabby 152 V |  272 Cp | 70.75% | Lvl 13 | Best: [Krabby 163 V |  345 Cp | 82.06% | Lvl 16] | Candy: 74
+[00:09:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:09:36] (INFO) Found 3 Recyclable Items:
+[00:09:36] (RECYCLING) RazzBerry x 1
+[00:09:37] (RECYCLING) PokeBall x 7
+[00:09:38] (RECYCLING) Revive x 2
+[00:09:41] (POKESTOP) Da Paolo Bistro Bar in 65.84 m distance
+[00:09:41] (NAVIGATION) Distance to target location: 65.84 meters. Will take 8.17 seconds driving at 29kmh
+[00:09:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:09:49] (POKESTOP) Min Jiang in 73.03 m distance
+[00:09:49] (NAVIGATION) Distance to target location: 73.03 meters. Will take 9.39 seconds driving at 28kmh
+[00:09:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemHyperPotion
+[00:09:59] (POKESTOP) Rochester Park Entrance in 45.1 m distance
+[00:09:59] (NAVIGATION) Distance to target location: 45.1 meters. Will take 5.41 seconds driving at 30kmh
+[00:10:01] (INFO) Found 1 catchable Pokemon
+[00:10:02] (Wild Success) | Weedle 122 V |  120 Cp | 55.42% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
