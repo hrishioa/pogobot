@@ -5773,3 +5773,13 @@
 [23:21:12] (INFO) Found 2 catchable Pokemon
 [23:21:15] (Wild Success) | Psyduck 118 V |   75 Cp | 58.42% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [23:21:16] (Wild Success) | Pidgey 86 V |   91 Cp | 31.92% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[23:21:18] (INFO) Found 1 pokemon to transfer...
+[23:21:19] (TRANSFER) Pidgey 86 V |   91 Cp | 31.92% | Lvl 06 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 191
+[23:21:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[23:21:24] (POKESTOP) Singapore Science Park I in 157.12 m distance
+[23:21:24] (NAVIGATION) Distance to target location: 157.12 meters. Will take 17.68 seconds driving at 32kmh
+[23:21:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:21:42] (POKESTOP) NUHS Tower Block in 112.34 m distance
+[23:21:42] (NAVIGATION) Distance to target location: 112.34 meters. Will take 12.64 seconds driving at 32kmh
+[23:21:53] (INFO) Found 1 catchable Pokemon
+[23:21:54] (Wild Success) | Zubat 124 V |   25 Cp | 56.66% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
