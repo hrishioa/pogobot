@@ -1077,3 +1077,4 @@
 [20:36:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
 [20:36:42] (INFO) Found 2 catchable Pokemon
 [20:36:44] (Wild Success) | Jigglypuff 99 V |  107 Cp | 47.70% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 710
+[20:36:46] (Wild Success) | NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 710
