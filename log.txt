@@ -3232,3 +3232,16 @@
 [21:46:38] (NAVIGATION) Distance to target location: 39.05 meters. Will take 4.85 seconds driving at 29kmh
 [21:46:40] (INFO) Found 1 catchable Pokemon
 [21:46:43] (Wild Success) | Goldeen 87 V |  245 Cp | 16.34% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[21:46:44] (INFO) Found 1 pokemon to transfer...
+[21:46:46] (TRANSFER) Goldeen 87 V |  245 Cp | 16.34% | Lvl 11 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 54
+[21:46:48] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 5 x ItemPokeBall
+[21:46:49] (POKESTOP) Serpent Statue in 52.41 m distance
+[21:46:49] (NAVIGATION) Distance to target location: 52.41 meters. Will take 6.29 seconds driving at 30kmh
+[21:46:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:46:55] (POKESTOP) White Guardian and Buddha Statue in 34.83 m distance
+[21:46:55] (NAVIGATION) Distance to target location: 34.83 meters. Will take 4.48 seconds driving at 28kmh
+[21:46:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[21:47:00] (POKESTOP) Waterfall Feature in 82.36 m distance
+[21:47:00] (NAVIGATION) Distance to target location: 82.36 meters. Will take 9.56 seconds driving at 31kmh
+[21:47:08] (INFO) Found 1 catchable Pokemon
+[21:47:09] (Wild Success) | Pidgey 111 V |   95 Cp | 45.62% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
