@@ -1211,3 +1211,4 @@
 [20:43:45] (Wild Success) | Zubat 109 V |   38 Cp | 30.17% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [20:43:47] (Wild Success) | Zubat 104 V |   10 Cp | 48.20% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [20:43:49] (Wild Success) | Zubat 95 V |   39 Cp | 35.94% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[20:43:50] (Wild Success) | Goldeen 155 V |  258 Cp | 71.97% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
