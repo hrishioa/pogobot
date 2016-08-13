@@ -6701,3 +6701,12 @@
 [23:52:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
 [23:52:27] (INFO) Found 1 catchable Pokemon
 [23:52:28] (Wild Success) | Squirtle 92 V |  346 Cp | 12.15% | Lvl 15 | Chance: 0.15 | with a GreatBall and received XP 210
+[23:52:29] (INFO) Found 1 pokemon to transfer...
+[23:52:31] (TRANSFER) Squirtle 86 V |  108 Cp | 9.66% | Lvl 05 | Best: [Squirtle 146 V |  303 Cp | 45.65% | Lvl 12] | Candy: 10
+[23:52:32] (POKESTOP) Min Jiang in 59.94 m distance
+[23:52:32] (NAVIGATION) Distance to target location: 59.94 meters. Will take 7.71 seconds driving at 28kmh
+[23:52:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:52:39] (POKESTOP) Da Paolo Bistro Bar in 56.51 m distance
+[23:52:39] (NAVIGATION) Distance to target location: 56.51 meters. Will take 6.36 seconds driving at 32kmh
+[23:52:40] (INFO) Found 2 catchable Pokemon
+[23:52:43] (Wild Success) | Bulbasaur 167 V |  277 Cp | 56.95% | Lvl 10 | Chance: 0.18 | with a GreatBall and received XP 210
