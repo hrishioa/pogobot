@@ -9595,3 +9595,29 @@
 [01:28:11] (Wild Success) | Pidgey 91 V |   75 Cp | 33.47% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [01:28:13] (Wild Success) | Zubat 80 V |   10 Cp | 33.75% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [01:28:14] (Wild Success) | Zubat 152 V |  240 Cp | 53.39% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[01:28:16] (INFO) Found 3 pokemon to transfer...
+[01:28:17] (TRANSFER) Zubat 152 V |  240 Cp | 53.39% | Lvl 15 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 536
+[01:28:20] (TRANSFER) Zubat 80 V |   10 Cp | 33.75% | Lvl 01 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 537
+[01:28:22] (TRANSFER) Pidgey 91 V |   75 Cp | 33.47% | Lvl 05 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 396
+[01:28:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemGreatBall
+[01:28:27] (POKESTOP) NUSSU Sign in 40.5 m distance
+[01:28:27] (NAVIGATION) Distance to target location: 40.5 meters. Will take 5.21 seconds driving at 28kmh
+[01:28:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[01:28:34] (POKESTOP) Fire Painting  in 114.09 m distance
+[01:28:34] (NAVIGATION) Distance to target location: 114.09 meters. Will take 13.69 seconds driving at 30kmh
+[01:28:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:28:47] (POKESTOP) Locked in Tricked Out in 94.37 m distance
+[01:28:47] (NAVIGATION) Distance to target location: 94.37 meters. Will take 12.13 seconds driving at 28kmh
+[01:28:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:28:59] (POKESTOP) NUS Engineering in 58.07 m distance
+[01:28:59] (NAVIGATION) Distance to target location: 58.07 meters. Will take 7.47 seconds driving at 28kmh
+[01:29:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:29:06] (INFO) Found 1 Recyclable Item:
+[01:29:06] (RECYCLING) Revive x 1
+[01:29:09] (POKESTOP) Through this Jungle in 89.41 m distance
+[01:29:09] (NAVIGATION) Distance to target location: 89.41 meters. Will take 10.73 seconds driving at 30kmh
+[01:29:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:29:19] (POKESTOP) Kent Ridge Heritage Trail in 154.03 m distance
+[01:29:19] (NAVIGATION) Distance to target location: 154.03 meters. Will take 18.48 seconds driving at 30kmh
+[01:29:32] (INFO) Found 1 catchable Pokemon
+[01:29:34] (Wild Success) | Caterpie 81 V |  118 Cp | 14.23% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
