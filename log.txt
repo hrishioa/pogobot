@@ -20221,3 +20221,7 @@
 [07:20:27] (NAVIGATION) Distance to target location: 206.11 meters. Will take 19.53 seconds driving at 38kmh
 [07:20:30] (INFO) Found 1 catchable Pokemon
 [07:20:32] (Wild Success) | Ekans 91 V |  287 Cp | 48.29% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[07:20:33] (INFO) Found 1 pokemon to transfer...
+[07:20:35] (TRANSFER) Ekans 91 V |  287 Cp | 48.29% | Lvl 14 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 181
+[07:20:44] (INFO) Found 1 catchable Pokemon
+[07:20:46] (Wild Success) | Pidgey 81 V |  153 Cp | 21.18% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
