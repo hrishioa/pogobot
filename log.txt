@@ -7361,3 +7361,8 @@
 [00:15:08] (TRANSFER) Magikarp 96 V |   76 Cp | 63.06% | Lvl 12 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 129
 [00:15:09] (INFO) Found 1 catchable Pokemon
 [00:15:11] (Wild Success) | Psyduck 129 V |  333 Cp | 10.78% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[00:15:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 2 x ItemPotion
+[00:15:15] (POKESTOP) Cut CO2 Emission By 180 Million Tons A Year in 172.36 m distance
+[00:15:16] (NAVIGATION) Distance to target location: 172.36 meters. Will take 19.39 seconds driving at 32kmh
+[00:15:24] (INFO) Found 1 catchable Pokemon
+[00:15:25] (Wild Success) | Magikarp 92 V |  121 Cp | 54.70% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
