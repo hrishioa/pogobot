@@ -17448,3 +17448,21 @@
 [05:52:27] (NAVIGATION) Distance to target location: 98.83 meters. Will take 11.12 seconds driving at 32kmh
 [05:52:28] (INFO) Found 1 catchable Pokemon
 [05:52:30] (Wild Success) | Rattata 125 V |  280 Cp | 32.13% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[05:52:32] (INFO) Found 1 pokemon to transfer...
+[05:52:34] (TRANSFER) Rattata 125 V |  280 Cp | 32.13% | Lvl 21 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 409
+[05:52:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[05:52:38] (INFO) Found 4 Recyclable Items:
+[05:52:38] (RECYCLING) RazzBerry x 3
+[05:52:39] (RECYCLING) PokeBall x 9
+[05:52:40] (RECYCLING) Potion x 1
+[05:52:41] (RECYCLING) SuperPotion x 1
+[05:52:44] (POKESTOP) Ayer Rajah Food Centre &  Market in 195.15 m distance
+[05:52:44] (NAVIGATION) Distance to target location: 195.15 meters. Will take 19.51 seconds driving at 36kmh
+[05:53:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[05:53:04] (POKESTOP) The Fishman in 258.27 m distance
+[05:53:04] (NAVIGATION) Distance to target location: 258.27 meters. Will take 19.78 seconds driving at 47kmh
+[05:53:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[05:53:26] (POKESTOP) Huge Red Umbrella in 356.56 m distance
+[05:53:26] (NAVIGATION) Distance to target location: 356.56 meters. Will take 19.75 seconds driving at 65kmh
+[05:53:45] (INFO) Found 1 catchable Pokemon
+[05:53:47] (Wild Success) | Goldeen 141 V |  121 Cp | 70.10% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
