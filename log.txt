@@ -17080,3 +17080,16 @@
 [05:38:45] (TRANSFER) Rattata 118 V |   80 Cp | 44.58% | Lvl 06 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 393
 [05:38:47] (INFO) Found 1 catchable Pokemon
 [05:38:48] (Wild Success) | Horsea 95 V |   29 Cp | 40.02% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[05:38:50] (INFO) Found 1 pokemon to transfer...
+[05:38:52] (TRANSFER) Horsea 95 V |   29 Cp | 40.02% | Lvl 02 | Best: [NONE] | Candy: 60
+[05:38:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[05:38:53] (INFO) Found 2 Recyclable Items:
+[05:38:54] (RECYCLING) PokeBall x 4
+[05:38:55] (RECYCLING) Revive x 1
+[05:38:58] (POKESTOP) Lion Gate in 45.55 m distance
+[05:38:58] (NAVIGATION) Distance to target location: 45.55 meters. Will take 5.86 seconds driving at 28kmh
+[05:39:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[05:39:04] (POKESTOP) Clean And Green Week 1998 in 88.93 m distance
+[05:39:04] (NAVIGATION) Distance to target location: 88.93 meters. Will take 11.04 seconds driving at 29kmh
+[05:39:10] (INFO) Found 2 catchable Pokemon
+[05:39:11] (Wild Success) | Paras 141 V |  229 Cp | 48.13% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
