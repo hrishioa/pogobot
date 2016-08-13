@@ -10248,3 +10248,59 @@
 [01:48:58] (INFO) Found 2 catchable Pokemon
 [01:49:00] (Wild Success) | Spearow 140 V |  193 Cp | 61.42% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [01:49:01] (Wild Success) | Pidgey 116 V |  256 Cp | 35.02% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[01:49:03] (INFO) Found 2 pokemon to transfer...
+[01:49:05] (TRANSFER) Pidgey 116 V |  256 Cp | 35.02% | Lvl 16 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 448
+[01:49:07] (TRANSFER) Spearow 140 V |  193 Cp | 61.42% | Lvl 11 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 183
+[01:49:07] (POKESTOP) Keio Cute Center in 81.25 m distance
+[01:49:07] (NAVIGATION) Distance to target location: 81.25 meters. Will take 9.43 seconds driving at 31kmh
+[01:49:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemSuperPotion
+[01:49:16] (INFO) Found 1 catchable Pokemon
+[01:49:17] (BERRY) ItemRazzBerry used, remaining: 46
+[01:49:19] (Wild Escape) | Golbat 217 V |  930 Cp | 64.22% | Lvl 18 | Chance: 0.14 | with a UltraBall 
+[01:49:19] (BERRY) ItemRazzBerry used, remaining: 45
+[01:49:20] (Wild Success Attempt #2) | Golbat 217 V |  930 Cp | 64.22% | Lvl 18 | Chance: 0.14 | with a UltraBall 
+[01:49:22] (INFO) Found 1 pokemon to transfer...
+[01:49:23] (TRANSFER) Golbat 216 V |  697 Cp | 85.92% | Lvl 13 | Best: [Golbat 219 V |  977 Cp | 61.50% | Lvl 19] | Candy: 561
+[01:49:24] (POKESTOP) NUS Business School in 52.45 m distance
+[01:49:24] (NAVIGATION) Distance to target location: 52.45 meters. Will take 5.9 seconds driving at 32kmh
+[01:49:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:49:30] (POKESTOP) IMRE in 112.97 m distance
+[01:49:30] (NAVIGATION) Distance to target location: 112.97 meters. Will take 12.71 seconds driving at 32kmh
+[01:49:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemPotion
+[01:49:43] (POKESTOP) Temasek Lifesciences Laboratory in 170.96 m distance
+[01:49:43] (NAVIGATION) Distance to target location: 170.96 meters. Will take 19.85 seconds driving at 31kmh
+[01:50:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemGreatBall
+[01:50:03] (INFO) Found 4 Recyclable Items:
+[01:50:03] (RECYCLING) PokeBall x 6
+[01:50:04] (RECYCLING) Potion x 2
+[01:50:06] (RECYCLING) SuperPotion x 1
+[01:50:07] (RECYCLING) Revive x 2
+[01:50:09] (POKESTOP) Water Tank in 158.6 m distance
+[01:50:09] (NAVIGATION) Distance to target location: 158.6 meters. Will take 19.69 seconds driving at 29kmh
+[01:50:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[01:50:29] (POKESTOP) S1A Garden in 153.13 m distance
+[01:50:29] (NAVIGATION) Distance to target location: 153.13 meters. Will take 17.23 seconds driving at 32kmh
+[01:50:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemUltraBall
+[01:50:46] (POKESTOP) Central Lagoon in 98.71 m distance
+[01:50:46] (NAVIGATION) Distance to target location: 98.71 meters. Will take 11.11 seconds driving at 32kmh
+[01:50:56] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[01:50:58] (POKESTOP) CMMAC in 96.28 m distance
+[01:50:58] (NAVIGATION) Distance to target location: 96.28 meters. Will take 12.38 seconds driving at 28kmh
+[01:51:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:51:10] (POKESTOP) The War And Peace Nebula in 104.79 m distance
+[01:51:10] (NAVIGATION) Distance to target location: 104.79 meters. Will take 13.01 seconds driving at 29kmh
+[01:51:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:51:22] (INFO) Found 3 Recyclable Items:
+[01:51:23] (RECYCLING) PokeBall x 7
+[01:51:24] (RECYCLING) Potion x 1
+[01:51:25] (RECYCLING) Revive x 1
+[01:51:27] (POKESTOP) M7 In Scorpius in 78.33 m distance
+[01:51:27] (NAVIGATION) Distance to target location: 78.33 meters. Will take 9.1 seconds driving at 31kmh
+[01:51:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[01:51:36] (POKESTOP) Tree of the Elements in 54.78 m distance
+[01:51:36] (NAVIGATION) Distance to target location: 54.78 meters. Will take 6.16 seconds driving at 32kmh
+[01:51:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:51:42] (POKESTOP) Scientific Exhibit #1 at Level 6 in 133.1 m distance
+[01:51:42] (NAVIGATION) Distance to target location: 133.1 meters. Will take 16.52 seconds driving at 29kmh
+[01:51:46] (INFO) Found 1 catchable Pokemon
+[01:51:48] (Wild Success) | Spearow 112 V |  167 Cp | 44.76% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
