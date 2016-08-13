@@ -11408,3 +11408,13 @@
 [02:24:14] (NAVIGATION) Distance to target location: 69.87 meters. Will take 7.86 seconds driving at 32kmh
 [02:24:17] (INFO) Found 1 catchable Pokemon
 [02:24:18] (Wild Success) | Zubat 140 V |  165 Cp | 63.66% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
+[02:24:20] (INFO) Found 1 pokemon to transfer...
+[02:24:22] (TRANSFER) Zubat 140 V |  165 Cp | 63.66% | Lvl 10 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 615
+[02:24:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[02:24:26] (POKESTOP) First the Dream Then the Nightmare in 32.58 m distance
+[02:24:26] (NAVIGATION) Distance to target location: 32.58 meters. Will take 3.78 seconds driving at 31kmh
+[02:24:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:24:30] (POKESTOP) Compounds of Five Cubes in 87.88 m distance
+[02:24:30] (NAVIGATION) Distance to target location: 87.88 meters. Will take 11.3 seconds driving at 28kmh
+[02:24:37] (INFO) Found 1 catchable Pokemon
+[02:24:38] (Wild Success) | Eevee 151 V |  201 Cp | 81.22% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 420
