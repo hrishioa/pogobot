@@ -9055,3 +9055,5 @@
 [01:11:16] (NAVIGATION) Distance to target location: 1375.57 meters. Will take 1.18 minutes driving at 70kmh
 [01:11:54] (INFO) Found 2 catchable Pokemon
 [01:11:57] (Wild Success) | Onix 162 V |  112 Cp | 89.31% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 710
+[01:11:58] (BERRY) ItemRazzBerry used, remaining: 48
+[01:11:59] (Wild Success) | Krabby 123 V |  363 Cp | 40.22% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
