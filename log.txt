@@ -7839,3 +7839,13 @@
 [00:28:50] (NAVIGATION) Distance to target location: 152.33 meters. Will take 17.69 seconds driving at 31kmh
 [00:28:52] (INFO) Found 1 catchable Pokemon
 [00:28:53] (Wild Success) | Rattata 129 V |  208 Cp | 43.26% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[00:28:55] (INFO) Found 1 pokemon to transfer...
+[00:28:57] (TRANSFER) Rattata 129 V |  208 Cp | 43.26% | Lvl 15 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 145
+[00:29:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[00:29:08] (POKESTOP) Brains of Power in 41.4 m distance
+[00:29:08] (NAVIGATION) Distance to target location: 41.4 meters. Will take 5.14 seconds driving at 29kmh
+[00:29:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 2 x ItemPotion
+[00:29:13] (POKESTOP) Faculty of Dentistry in 293.16 m distance
+[00:29:13] (NAVIGATION) Distance to target location: 293.16 meters. Will take 19.91 seconds driving at 53kmh
+[00:29:32] (INFO) Found 1 catchable Pokemon
+[00:29:33] (Wild Success) | Poliwag 143 V |  326 Cp | 58.31% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
