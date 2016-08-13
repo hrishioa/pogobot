@@ -12081,3 +12081,10 @@
 [02:47:53] (INFO) Found 1 catchable Pokemon
 [02:47:54] (BERRY) ItemRazzBerry used, remaining: 49
 [02:47:55] (Wild Success) | Dodrio 146 V |  420 Cp | 38.68% | Lvl 09 | Chance: 0.2 | with a GreatBall and received XP 210
+[02:47:57] (INFO) Found 1 pokemon to transfer...
+[02:47:58] (TRANSFER) Dodrio 146 V |  420 Cp | 38.68% | Lvl 09 | Best: [Dodrio 215 V |  742 Cp | 66.22% | Lvl 15] | Candy: 41
+[02:47:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:48:01] (POKESTOP) Clementi West White Orchid Mural in 89.64 m distance
+[02:48:01] (NAVIGATION) Distance to target location: 89.64 meters. Will take 11.13 seconds driving at 29kmh
+[02:48:06] (INFO) Found 1 catchable Pokemon
+[02:48:07] (Wild Success) | Exeggcute 179 V |  383 Cp | 70.95% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
