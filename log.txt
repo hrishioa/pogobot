@@ -2777,3 +2777,19 @@
 [21:35:10] (Wild Success) | Eevee 139 V |  196 Cp | 69.16% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 210
 [21:35:12] (BERRY) ItemRazzBerry used, remaining: 49
 [21:35:12] (Wild Success) | Dratini 158 V |  367 Cp | 71.10% | Lvl 14 | Chance: 0.32 | with a GreatBall and received XP 710
+[21:35:14] (INFO) Found 1 pokemon to transfer...
+[21:35:15] (TRANSFER) Eevee 129 V |  215 Cp | 46.90% | Lvl 08 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 14
+[21:35:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[21:35:19] (POKESTOP) Norwegian Church in 202.28 m distance
+[21:35:19] (NAVIGATION) Distance to target location: 202.28 meters. Will take 19.68 seconds driving at 37kmh
+[21:35:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 3 x ItemGreatBall, 1 x ItemHyperPotion
+[21:35:40] (POKESTOP) Fujitsu Telepark in 269.14 m distance
+[21:35:40] (NAVIGATION) Distance to target location: 269.14 meters. Will take 19.77 seconds driving at 49kmh
+[21:35:50] (INFO) Found 1 catchable Pokemon
+[21:35:50] (Wild Escape) | Oddish 144 V |  173 Cp | 59.55% | Lvl 06 | Chance: 0.74 | with a PokeBall 
+[21:35:52] (Wild Success Attempt #2) | Oddish 144 V |  173 Cp | 59.55% | Lvl 06 | Chance: 0.74 | with a PokeBall 
+[21:36:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:36:01] (POKESTOP) èy Portrait  in 215.26 m distance
+[21:36:01] (NAVIGATION) Distance to target location: 215.26 meters. Will take 19.87 seconds driving at 39kmh
+[21:36:03] (INFO) Found 1 catchable Pokemon
+[21:36:05] (Wild Success) | Zubat 126 V |   73 Cp | 44.40% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
