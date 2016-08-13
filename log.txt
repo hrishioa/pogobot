@@ -10315,3 +10315,10 @@
 [01:52:02] (TRANSFER) Spearow 108 V |  204 Cp | 50.62% | Lvl 12 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 191
 [01:52:03] (INFO) Found 1 catchable Pokemon
 [01:52:04] (Wild Success) | Pidgey 87 V |   42 Cp | 42.50% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[01:52:06] (INFO) Found 1 pokemon to transfer...
+[01:52:08] (TRANSFER) Pidgey 87 V |   42 Cp | 42.50% | Lvl 03 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 452
+[01:52:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[01:52:11] (POKESTOP) Sagittarius Jewels in 185.28 m distance
+[01:52:11] (NAVIGATION) Distance to target location: 185.28 meters. Will take 19.62 seconds driving at 34kmh
+[01:52:22] (INFO) Found 1 catchable Pokemon
+[01:52:24] (Wild Success) | Weedle 56 V |  136 Cp | 10.38% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
