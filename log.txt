@@ -6724,3 +6724,11 @@
 [23:53:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemUltraBall
 [23:53:06] (INFO) Found 1 catchable Pokemon
 [23:53:07] (Wild Success) | Pidgey 118 V |   10 Cp | 66.98% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:53:09] (INFO) Found 2 pokemon to transfer...
+[23:53:11] (TRANSFER) Pidgey 118 V |  168 Cp | 50.78% | Lvl 10 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 237
+[23:53:13] (TRANSFER) Pidgey 118 V |   10 Cp | 66.98% | Lvl 01 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 238
+[23:53:14] (POKESTOP) B @ Rochester Park in 77.28 m distance
+[23:53:14] (NAVIGATION) Distance to target location: 77.28 meters. Will take 8.97 seconds driving at 31kmh
+[23:53:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:53:23] (INFO) Found 1 catchable Pokemon
+[23:53:25] (Wild Success) | Weedle 86 V |   10 Cp | 53.27% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
