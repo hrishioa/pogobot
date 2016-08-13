@@ -19248,3 +19248,8 @@
 [06:49:38] (BERRY) ItemRazzBerry used, remaining: 49
 [06:49:38] (Wild Success) | Pidgey 136 V |  394 Cp | 42.06% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
 [06:49:41] (Wild Success) | Bellsprout 90 V |  161 Cp | 44.65% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[06:49:42] (INFO) Found 2 pokemon to transfer...
+[06:49:44] (TRANSFER) Pidgey 132 V |  254 Cp | 52.34% | Lvl 15 | Best: [Pidgey 136 V |  394 Cp | 42.06% | Lvl 24] | Candy: 864
+[06:49:46] (TRANSFER) Bellsprout 90 V |  161 Cp | 44.65% | Lvl 06 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 193
+[06:49:48] (INFO) Found 1 catchable Pokemon
+[06:49:49] (Wild Success) | Zubat 119 V |  141 Cp | 49.83% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
