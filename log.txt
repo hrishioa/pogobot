@@ -4764,3 +4764,5 @@
 [22:47:22] (INFO) Found 2 catchable Pokemon
 [22:47:23] (Wild Success) | Pidgey 68 V |  188 Cp | 4.45% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
 [22:47:25] (Wild Success) | Zubat 147 V |  243 Cp | 58.10% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 420
+[22:47:28] (INFO) Found 1 catchable Pokemon
+[22:47:28] (Wild Success) | Zubat 121 V |  163 Cp | 59.83% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
