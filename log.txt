@@ -1655,3 +1655,9 @@
 [20:56:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
 [20:56:49] (INFO) Found 1 catchable Pokemon
 [20:56:51] (Wild Success) | Pidgey 91 V |   58 Cp | 34.82% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:56:53] (INFO) Found 1 pokemon to transfer...
+[20:56:55] (TRANSFER) Pidgey 91 V |   58 Cp | 34.82% | Lvl 04 | Best: [Pidgey 118 V |  118 Cp | 61.06% | Lvl 07] | Candy: 108
+[20:56:56] (POKESTOP) Queenstown Heritage Plaque in 95.45 m distance
+[20:56:56] (NAVIGATION) Distance to target location: 95.45 meters. Will take 11.45 seconds driving at 30kmh
+[20:57:04] (INFO) Found 2 catchable Pokemon
+[20:57:06] (Wild Success) | Bellsprout 85 V |  103 Cp | 48.23% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 710
