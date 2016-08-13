@@ -7763,3 +7763,7 @@
 [00:26:07] (INFO) Found 1 catchable Pokemon
 [00:26:07] (BERRY) ItemRazzBerry used, remaining: 51
 [00:26:09] (Wild Success) | Spearow 171 V |  368 Cp | 76.85% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[00:26:11] (INFO) Found 1 pokemon to transfer...
+[00:26:12] (TRANSFER) Spearow 161 V |  309 Cp | 72.54% | Lvl 17 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 131
+[00:26:13] (INFO) Found 1 catchable Pokemon
+[00:26:15] (Wild Success) | Ekans 90 V |  331 Cp | 30.39% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
