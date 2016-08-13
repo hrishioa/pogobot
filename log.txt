@@ -4323,3 +4323,5 @@
 [22:27:43] (INFO) Found 5 catchable Pokemon
 [22:27:44] (BERRY) ItemRazzBerry used, remaining: 49
 [22:27:45] (Wild Success) | Electabuzz 238 V |  873 Cp | 76.11% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 710
+[22:27:46] (BERRY) ItemRazzBerry used, remaining: 48
+[22:27:47] (Wild Success) | Golbat 173 V |  413 Cp | 72.30% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
