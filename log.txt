@@ -5823,3 +5823,12 @@
 [23:23:23] (Wild Success) | Poliwag 145 V |  376 Cp | 48.46% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
 [23:23:25] (Wild Success) | Goldeen 121 V |  119 Cp | 62.44% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [23:23:27] (Wild Success) | Magikarp 87 V |   73 Cp | 55.16% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
+[23:23:28] (INFO) Found 3 pokemon to transfer...
+[23:23:30] (TRANSFER) Magikarp 87 V |   73 Cp | 55.16% | Lvl 12 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 86
+[23:23:32] (TRANSFER) Goldeen 121 V |  119 Cp | 62.44% | Lvl 05 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 94
+[23:23:34] (TRANSFER) Poliwag 145 V |  376 Cp | 48.46% | Lvl 19 | Best: [Poliwag 147 V |  359 Cp | 51.63% | Lvl 18] | Candy: 41
+[23:23:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:23:36] (POKESTOP) Eagle Statue in 172.36 m distance
+[23:23:36] (NAVIGATION) Distance to target location: 172.36 meters. Will take 19.39 seconds driving at 32kmh
+[23:23:48] (INFO) Found 1 catchable Pokemon
+[23:23:50] (Wild Success) | Slowpoke 108 V |  109 Cp | 31.61% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
