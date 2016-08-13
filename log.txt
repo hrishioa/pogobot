@@ -16644,3 +16644,7 @@
 [05:26:43] (INFO) Found 2 catchable Pokemon
 [05:26:44] (Wild Success) | Spearow 122 V |   65 Cp | 68.83% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [05:26:46] (Wild Success) | Pidgeotto 88 V |   14 Cp | 26.99% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[05:26:48] (INFO) Found 1 pokemon to transfer...
+[05:26:49] (TRANSFER) Pidgeotto 88 V |   14 Cp | 26.99% | Lvl 01 | Best: [NONE] | Candy: 737
+[05:26:50] (INFO) Found 3 catchable Pokemon
+[05:26:52] (Wild Success) | Weedle 92 V |  135 Cp | 23.21% | Lvl 14 | Chance: 0.4 | with a PokeBall and received XP 210
