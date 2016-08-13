@@ -18420,3 +18420,13 @@
 [06:24:28] (NAVIGATION) Distance to target location: 163.65 meters. Will take 19.64 seconds driving at 30kmh
 [06:24:41] (INFO) Found 1 catchable Pokemon
 [06:24:42] (Wild Success) | Pidgey 106 V |  191 Cp | 32.41% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[06:24:44] (INFO) Found 1 pokemon to transfer...
+[06:24:46] (TRANSFER) Pidgey 106 V |  191 Cp | 32.41% | Lvl 12 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 812
+[06:24:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemGreatBall
+[06:24:50] (POKESTOP) Playground Between Block 709&712 in 49.34 m distance
+[06:24:50] (NAVIGATION) Distance to target location: 49.34 meters. Will take 6.12 seconds driving at 29kmh
+[06:24:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:24:57] (POKESTOP) Herbs Garden in 65.29 m distance
+[06:24:57] (NAVIGATION) Distance to target location: 65.29 meters. Will take 8.11 seconds driving at 29kmh
+[06:25:01] (INFO) Found 1 catchable Pokemon
+[06:25:02] (Wild Success) | Pidgey 86 V |  199 Cp | 21.37% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
