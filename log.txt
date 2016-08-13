@@ -12319,3 +12319,17 @@
 [02:53:32] (INFO) Found 2 catchable Pokemon
 [02:53:33] (Wild Success) | Venonat 151 V |  373 Cp | 57.45% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [02:53:35] (Wild Success) | Rattata 157 V |  307 Cp | 59.44% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[02:53:37] (INFO) Found 2 pokemon to transfer...
+[02:53:38] (TRANSFER) Rattata 152 V |  276 Cp | 57.18% | Lvl 19 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 220
+[02:53:41] (TRANSFER) Venonat 151 V |  373 Cp | 57.45% | Lvl 14 | Best: [Venonat 189 V |  582 Cp | 74.06% | Lvl 21] | Candy: 62
+[02:53:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemUltraBall
+[02:53:45] (POKESTOP) Hidden Buddha Statue  in 71.06 m distance
+[02:53:45] (NAVIGATION) Distance to target location: 71.06 meters. Will take 8.53 seconds driving at 30kmh
+[02:53:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPotion
+[02:53:54] (POKESTOP) Pasir Panjang Gardens in 90.18 m distance
+[02:53:54] (NAVIGATION) Distance to target location: 90.18 meters. Will take 10.15 seconds driving at 32kmh
+[02:54:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemSuperPotion
+[02:54:03] (POKESTOP) Statue of Family in 95.26 m distance
+[02:54:03] (NAVIGATION) Distance to target location: 95.26 meters. Will take 10.72 seconds driving at 32kmh
+[02:54:08] (INFO) Found 1 catchable Pokemon
+[02:54:10] (Wild Success) | Pidgey 112 V |   10 Cp | 55.51% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
