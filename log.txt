@@ -18141,3 +18141,36 @@
 [06:16:21] (INFO) Found 1 catchable Pokemon
 [06:16:22] (BERRY) ItemRazzBerry used, remaining: 46
 [06:16:24] (Wild Success) | Paras 200 V |  431 Cp | 86.95% | Lvl 17 | Chance: 0.29 | with a GreatBall and received XP 210
+[06:16:25] (INFO) Found 1 pokemon to transfer...
+[06:16:27] (TRANSFER) Paras 141 V |  229 Cp | 48.13% | Lvl 10 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 87
+[06:16:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[06:16:29] (POKESTOP) Gantry Entrance in 82.88 m distance
+[06:16:29] (NAVIGATION) Distance to target location: 82.88 meters. Will take 9.95 seconds driving at 30kmh
+[06:16:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemPokeBall
+[06:16:37] (INFO) Found 4 Recyclable Items:
+[06:16:39] (RECYCLING) PokeBall x 11
+[06:16:40] (RECYCLING) Potion x 2
+[06:16:41] (RECYCLING) SuperPotion x 2
+[06:16:42] (RECYCLING) Revive x 1
+[06:16:44] (POKESTOP) Marsh Garden in 87.32 m distance
+[06:16:44] (NAVIGATION) Distance to target location: 87.32 meters. Will take 11.23 seconds driving at 28kmh
+[06:16:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemGreatBall
+[06:16:55] (POKESTOP) Jungle Walkpath in 141.98 m distance
+[06:16:55] (NAVIGATION) Distance to target location: 141.98 meters. Will take 18.25 seconds driving at 28kmh
+[06:17:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:17:13] (POKESTOP) West Coast Park Connector in 371.59 m distance
+[06:17:13] (NAVIGATION) Distance to target location: 371.59 meters. Will take 19.97 seconds driving at 67kmh
+[06:17:24] (INFO) Found 1 catchable Pokemon
+[06:17:34] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[06:17:34] (ATTENTION) Restarting the application due to error...
+[06:17:34] (INFO) Logging in via: Google
+[06:17:35] (INFO) Client logged in
+[06:17:36] (INFO) Found 35 Pokestops
+[06:17:36] (POKESTOP) Chilling Area in 197.78 m distance
+[06:17:36] (NAVIGATION) Distance to target location: 197.78 meters. Will take 19.78 seconds driving at 36kmh
+[06:17:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:17:57] (POKESTOP) Volleyball Arena in 137.1 m distance
+[06:17:57] (NAVIGATION) Distance to target location: 137.1 meters. Will take 17.63 seconds driving at 28kmh
+[06:18:09] (INFO) Found 1 catchable Pokemon
+[06:18:10] (BERRY) ItemRazzBerry used, remaining: 46
+[06:18:11] (Wild Success) | Exeggcute 231 V |  681 Cp | 93.48% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
