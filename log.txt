@@ -9068,3 +9068,4 @@
 [01:12:29] (TRANSFER) Pidgeot 119 V |  252 Cp | 33.94% | Lvl 05 | Best: [Pidgeot 213 V |  894 Cp | 58.97% | Lvl 16] | Candy: 349
 [01:12:30] (INFO) Found 2 catchable Pokemon
 [01:12:32] (Wild Success) | Pidgey 88 V |   24 Cp | 35.62% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[01:12:33] (Wild Success) | Eevee 171 V |  203 Cp | 84.23% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 210
