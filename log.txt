@@ -1120,3 +1120,16 @@
 [20:39:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion, 2 x ItemRazzBerry
 [20:39:17] (INFO) Found 1 catchable Pokemon
 [20:39:19] (Wild Success) | Doduo 111 V |  167 Cp | 47.37% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 710
+[20:39:21] (POKESTOP) Old Water Tank in 173.06 m distance
+[20:39:21] (NAVIGATION) Distance to target location: 173.06 meters. Will take 19.47 seconds driving at 32kmh
+[20:39:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:39:40] (INFO) Found 3 Recyclable Items:
+[20:39:41] (RECYCLING) Revive x 3
+[20:39:41] (RECYCLING) PokeBall x 7
+[20:39:42] (RECYCLING) Potion x 3
+[20:39:45] (POKESTOP) Hang Up Bar Fitness Station in 176.65 m distance
+[20:39:45] (NAVIGATION) Distance to target location: 176.65 meters. Will take 19.87 seconds driving at 32kmh
+[20:40:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:40:04] (INFO) Found 1 catchable Pokemon
+[20:40:06] (BERRY) ItemRazzBerry used, remaining: 47
+[20:40:06] (Wild Success) | Dodrio 150 V |  513 Cp | 34.41% | Lvl 11 | Chance: 0.18 | with a PokeBall and received XP 710
