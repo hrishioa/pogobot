@@ -1811,3 +1811,4 @@
 [21:02:51] (NAVIGATION) Distance to target location: 80.15 meters. Will take 9.31 seconds driving at 31kmh
 [21:02:57] (INFO) Found 2 catchable Pokemon
 [21:02:59] (Wild Success) | Krabby 127 V |  140 Cp | 63.38% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:03:00] (Wild Success) | Pidgey 103 V |   26 Cp | 49.79% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
