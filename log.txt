@@ -5492,3 +5492,26 @@
 [23:13:07] (TRANSFER) Bulbasaur 125 V |  184 Cp | 44.86% | Lvl 07 | Best: [Bulbasaur 169 V |  302 Cp | 53.73% | Lvl 11] | Candy: 18
 [23:13:09] (INFO) Found 1 catchable Pokemon
 [23:13:10] (Wild Success) | Staryu 128 V |  296 Cp | 38.37% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[23:13:12] (INFO) Found 1 pokemon to transfer...
+[23:13:14] (TRANSFER) Staryu 128 V |  296 Cp | 38.37% | Lvl 13 | Best: [Staryu 152 V |  123 Cp | 90.20% | Lvl 05] | Candy: 50
+[23:13:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:13:17] (POKESTOP) NSI Ventures Mural  in 62.97 m distance
+[23:13:17] (NAVIGATION) Distance to target location: 62.97 meters. Will take 7.56 seconds driving at 30kmh
+[23:13:32] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[23:13:32] (ATTENTION) Restarting the application due to error...
+[23:13:32] (INFO) Logging in via: Google
+[23:13:33] (INFO) Client logged in
+[23:13:33] (INFO) Found 49 Pokestops
+[23:13:34] (POKESTOP) NSI Ventures Mural  in 23.69 m distance
+[23:13:34] (NAVIGATION) Distance to target location: 23.69 meters. Will take 3.05 seconds driving at 28kmh
+[23:13:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:13:37] (POKESTOP) Startups' Street Soccer in 83.42 m distance
+[23:13:37] (NAVIGATION) Distance to target location: 83.42 meters. Will take 9.69 seconds driving at 31kmh
+[23:13:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[23:13:45] (POKESTOP) The Future Starts Here Mural in 80.82 m distance
+[23:13:45] (NAVIGATION) Distance to target location: 80.82 meters. Will take 9.09 seconds driving at 32kmh
+[23:13:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:13:55] (POKESTOP) Fractals - Metamorphosis in 103.88 m distance
+[23:13:55] (NAVIGATION) Distance to target location: 103.88 meters. Will take 13.36 seconds driving at 28kmh
+[23:14:01] (INFO) Found 3 catchable Pokemon
+[23:14:02] (Wild Success) | Weedle 120 V |  130 Cp | 52.13% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
