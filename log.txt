@@ -9265,3 +9265,16 @@
 [01:16:55] (NAVIGATION) Distance to target location: 63.87 meters. Will take 7.93 seconds driving at 29kmh
 [01:17:01] (INFO) Found 1 catchable Pokemon
 [01:17:03] (Wild Success) | Pidgey 121 V |  234 Cp | 47.78% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[01:17:05] (INFO) Found 1 pokemon to transfer...
+[01:17:06] (TRANSFER) Pidgey 119 V |  304 Cp | 34.04% | Lvl 19 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 357
+[01:17:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 3 x ItemPokeBall
+[01:17:08] (POKESTOP) The Seagull Nebula in 95.9 m distance
+[01:17:08] (NAVIGATION) Distance to target location: 95.9 meters. Will take 11.51 seconds driving at 30kmh
+[01:17:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemGreatBall
+[01:17:18] (POKESTOP) Waves and Particles - NUS Science Faculty in 144.06 m distance
+[01:17:18] (NAVIGATION) Distance to target location: 144.06 meters. Will take 16.73 seconds driving at 31kmh
+[01:17:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[01:17:35] (POKESTOP) Scientific Exhibit #1 at Level 6 in 245.47 m distance
+[01:17:35] (NAVIGATION) Distance to target location: 245.47 meters. Will take 19.64 seconds driving at 45kmh
+[01:17:44] (INFO) Found 1 catchable Pokemon
+[01:17:45] (Wild Success) | Spearow 126 V |  262 Cp | 60.02% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
