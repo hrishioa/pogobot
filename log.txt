@@ -1947,3 +1947,9 @@
 [21:05:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
 [21:05:41] (INFO) Found 1 catchable Pokemon
 [21:05:42] (Wild Success) | Weedle 105 V |   92 Cp | 40.61% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[21:05:44] (INFO) Found 1 pokemon to transfer...
+[21:05:45] (TRANSFER) Weedle 105 V |   92 Cp | 40.61% | Lvl 09 | Best: [Weedle 114 V |  137 Cp | 44.94% | Lvl 13] | Candy: 58
+[21:05:46] (POKESTOP) Rangoli at Temple in 157.24 m distance
+[21:05:46] (NAVIGATION) Distance to target location: 157.24 meters. Will take 17.69 seconds driving at 32kmh
+[21:06:01] (INFO) Found 1 catchable Pokemon
+[21:06:03] (Wild Success) | Exeggcute 162 V |  373 Cp | 60.31% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
