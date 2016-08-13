@@ -1,34 +1,36 @@
 Stats:
-[20:15:10] Name: toonistic2
-[20:15:10] Team: Neutral
-[20:15:10] Level: 9 (LvLUp in 0h 0m | 3255/9000 XP)
-[20:15:10] Pokemon: 23
-[20:15:10] Stardust: 7900
-[20:15:10] ====== Items (133) ======
-[20:15:10] RazzBerry x 21
-[20:15:10] IncubatorBasicUnlimited x 1
-[20:15:10] PokeBall x 52
-[20:15:10] Revive x 25
-[20:15:10] IncenseOrdinary x 2
-[20:15:10] Potion x 32
+[20:55:16] Name: toonistic2
+[20:55:16] Team: Neutral
+[20:55:16] Level: 12 (LvLUp in 0h 0m | 7940/10000 XP)
+[20:55:16] Pokemon: 53
+[20:55:16] Stardust: 18666
+[20:55:16] ====== Items (196) ======
+[20:55:16] IncubatorBasicUnlimited x 1
+[20:55:16] Revive x 25
+[20:55:16] RazzBerry x 50
+[20:55:16] PokeBall x 50
+[20:55:16] GreatBall x 20
+[20:55:16] IncenseOrdinary x 2
+[20:55:16] Potion x 30
+[20:55:16] SuperPotion x 18
 
-[20:45:47] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
-[20:45:47] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
-[20:45:47] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
-[20:45:47] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
-[20:45:47] Psyduck             126 True Value |  267 Cp | 26.58% Perfect | Lvl 10 | ZenHeadbutt/Psybeam
-[20:45:47] Goldeen             155 True Value |  258 Cp | 71.97% Perfect | Lvl 10 | MudShot/WaterPulse
-[20:45:47] Psyduck             133 True Value |  245 Cp | 37.01% Perfect | Lvl 09 | ZenHeadbutt/Psybeam
-[20:45:47] Slowpoke            131 True Value |  241 Cp | 41.64% Perfect | Lvl 08 | Confusion/Psyshock
-[20:45:47] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
-[20:45:47] Eevee               129 True Value |  215 Cp | 46.90% Perfect | Lvl 08 | QuickAttack/Dig
-[20:45:47] Growlithe           149 True Value |  200 Cp | 53.97% Perfect | Lvl 06 | Bite/Flamethrower
-[20:45:47] Poliwag             109 True Value |  192 Cp | 37.51% Perfect | Lvl 10 | Bubble/BubbleBeam
-[20:45:47] Ekans               125 True Value |  180 Cp | 42.19% Perfect | Lvl 09 | Acid/SludgeBomb
-[20:45:47] Tentacool           99 True Value |  176 Cp | 43.51% Perfect | Lvl 08 | PoisonSting/WaterPulse
-[20:45:47] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
-[20:45:47] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
-[20:45:47] Doduo               111 True Value |  167 Cp | 47.37% Perfect | Lvl 08 | Peck/AerialAce
-[20:45:47] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
-[20:45:47] Mankey              141 True Value |  158 Cp | 67.79% Perfect | Lvl 07 | Scratch/BrickBreak
-[20:45:47] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:55:17] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
+[20:55:17] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[20:55:17] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:55:17] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[20:55:17] Psyduck             126 True Value |  267 Cp | 26.58% Perfect | Lvl 10 | ZenHeadbutt/Psybeam
+[20:55:17] Goldeen             155 True Value |  258 Cp | 71.97% Perfect | Lvl 10 | MudShot/WaterPulse
+[20:55:17] Staryu              152 True Value |  253 Cp | 77.42% Perfect | Lvl 10 | WaterGun/Swift
+[20:55:17] Psyduck             133 True Value |  245 Cp | 37.01% Perfect | Lvl 09 | ZenHeadbutt/Psybeam
+[20:55:17] Slowpoke            131 True Value |  241 Cp | 41.64% Perfect | Lvl 08 | Confusion/Psyshock
+[20:55:17] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[20:55:17] Dodrio              145 True Value |  231 Cp | 62.37% Perfect | Lvl 05 | FeintAttack/AerialAce
+[20:55:17] Eevee               129 True Value |  215 Cp | 46.90% Perfect | Lvl 08 | QuickAttack/Dig
+[20:55:17] Jynx                111 True Value |  205 Cp | 34.20% Perfect | Lvl 05 | Pound/IcePunch
+[20:55:17] Growlithe           149 True Value |  200 Cp | 53.97% Perfect | Lvl 06 | Bite/Flamethrower
+[20:55:17] Poliwag             109 True Value |  192 Cp | 37.51% Perfect | Lvl 10 | Bubble/BubbleBeam
+[20:55:17] Pidgey              110 True Value |  183 Cp | 46.98% Perfect | Lvl 11 | Tackle/Twister
+[20:55:17] Ekans               125 True Value |  180 Cp | 42.19% Perfect | Lvl 09 | Acid/SludgeBomb
+[20:55:17] Tentacool           99 True Value |  176 Cp | 43.51% Perfect | Lvl 08 | PoisonSting/WaterPulse
+[20:55:17] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[20:55:17] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
