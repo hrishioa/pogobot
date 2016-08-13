@@ -12402,3 +12402,15 @@
 [02:57:28] (NAVIGATION) Distance to target location: 58.85 meters. Will take 7.06 seconds driving at 30kmh
 [02:57:29] (INFO) Found 1 catchable Pokemon
 [02:57:32] (Wild Success) | Pidgey 80 V |   10 Cp | 33.78% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[02:57:33] (INFO) Found 1 pokemon to transfer...
+[02:57:34] (TRANSFER) Pidgey 80 V |   10 Cp | 33.78% | Lvl 01 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 536
+[02:57:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:57:39] (INFO) Found 4 Recyclable Items:
+[02:57:40] (RECYCLING) RazzBerry x 1
+[02:57:40] (RECYCLING) PokeBall x 7
+[02:57:42] (RECYCLING) HyperPotion x 1
+[02:57:43] (RECYCLING) Revive x 2
+[02:57:45] (POKESTOP) The Right Horn Sculpture in 189.63 m distance
+[02:57:45] (NAVIGATION) Distance to target location: 189.63 meters. Will take 19.51 seconds driving at 35kmh
+[02:57:58] (INFO) Found 1 catchable Pokemon
+[02:57:59] (Wild Success) | Krabby 124 V |   10 Cp | 73.16% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
