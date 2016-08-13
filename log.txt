@@ -10673,3 +10673,12 @@
 [02:02:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [02:02:43] (INFO) Found 1 catchable Pokemon
 [02:02:44] (Wild Success) | Pidgey 111 V |  272 Cp | 34.25% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[02:02:46] (INFO) Found 1 pokemon to transfer...
+[02:02:47] (TRANSFER) Pidgey 111 V |  272 Cp | 34.25% | Lvl 17 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 472
+[02:02:48] (POKESTOP) Park Gazebos in 44.06 m distance
+[02:02:48] (NAVIGATION) Distance to target location: 44.06 meters. Will take 5.47 seconds driving at 29kmh
+[02:02:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemUltraBall, 1 x ItemSuperPotion
+[02:02:53] (POKESTOP) Footprint Bench in 167.53 m distance
+[02:02:53] (NAVIGATION) Distance to target location: 167.53 meters. Will take 19.46 seconds driving at 31kmh
+[02:03:10] (INFO) Found 1 catchable Pokemon
+[02:03:12] (Wild Success) | Weedle 91 V |   36 Cp | 32.37% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
