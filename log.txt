@@ -2962,3 +2962,4 @@
 [21:38:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
 [21:38:53] (INFO) Found 2 catchable Pokemon
 [21:38:55] (Wild Success) | Ekans 148 V |  148 Cp | 68.05% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:38:56] (Wild Success) | Zubat 112 V |   24 Cp | 49.90% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
