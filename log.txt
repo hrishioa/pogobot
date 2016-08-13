@@ -5198,3 +5198,14 @@
 [23:02:58] (NAVIGATION) Distance to target location: 73.23 meters. Will take 8.5 seconds driving at 31kmh
 [23:03:00] (INFO) Found 1 catchable Pokemon
 [23:03:01] (Wild Success) | Krabby 147 V |  190 Cp | 76.06% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
+[23:03:03] (INFO) Found 1 pokemon to transfer...
+[23:03:05] (TRANSFER) Krabby 147 V |  212 Cp | 75.67% | Lvl 10 | Best: [Krabby 155 V |  169 Cp | 81.26% | Lvl 08] | Candy: 50
+[23:03:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:03:10] (POKESTOP) Star Cascade in 99.77 m distance
+[23:03:10] (NAVIGATION) Distance to target location: 99.77 meters. Will take 11.59 seconds driving at 31kmh
+[23:03:19] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:03:21] (POKESTOP) Star Fountain in 44.31 m distance
+[23:03:21] (NAVIGATION) Distance to target location: 44.31 meters. Will take 5.15 seconds driving at 31kmh
+[23:03:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:03:26] (INFO) Found 1 catchable Pokemon
+[23:03:28] (Wild Success) | Spearow 162 V |  240 Cp | 78.46% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
