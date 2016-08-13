@@ -6341,3 +6341,17 @@
 [23:39:40] (NAVIGATION) Distance to target location: 86.99 meters. Will take 9.79 seconds driving at 32kmh
 [23:39:48] (INFO) Found 1 catchable Pokemon
 [23:39:49] (Wild Success) | Sandshrew 109 V |   92 Cp | 43.06% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[23:39:51] (INFO) Found 1 pokemon to transfer...
+[23:39:53] (TRANSFER) Sandshrew 109 V |   92 Cp | 43.06% | Lvl 05 | Best: [Sandshrew 133 V |  270 Cp | 38.77% | Lvl 14] | Candy: 14
+[23:39:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:39:55] (INFO) Found 3 Recyclable Items:
+[23:39:55] (RECYCLING) RazzBerry x 1
+[23:39:56] (RECYCLING) PokeBall x 10
+[23:39:57] (RECYCLING) Revive x 1
+[23:39:59] (POKESTOP) Level 6 Art in 86.64 m distance
+[23:39:59] (NAVIGATION) Distance to target location: 86.64 meters. Will take 9.75 seconds driving at 32kmh
+[23:40:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:40:09] (POKESTOP) Portrait of Yong Loo Lin in 120.41 m distance
+[23:40:09] (NAVIGATION) Distance to target location: 120.41 meters. Will take 14.95 seconds driving at 29kmh
+[23:40:19] (INFO) Found 2 catchable Pokemon
+[23:40:21] (Wild Success) | Rattata 96 V |   10 Cp | 27.90% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
