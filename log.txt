@@ -9284,3 +9284,24 @@
 [01:17:53] (Wild Success) | Spearow 75 V |   75 Cp | 29.57% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [01:17:54] (Wild Success) | Growlithe 173 V |  327 Cp | 79.93% | Lvl 09 | Chance: 0.3 | with a UltraBall and received XP 210
 [01:17:56] (Wild Success) | Zubat 175 V |  347 Cp | 80.46% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[01:17:58] (INFO) Found 3 pokemon to transfer...
+[01:17:59] (TRANSFER) Spearow 75 V |   75 Cp | 29.57% | Lvl 05 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 171
+[01:18:01] (TRANSFER) Zubat 163 V |  152 Cp | 73.22% | Lvl 09 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 513
+[01:18:04] (TRANSFER) Growlithe 133 V |   89 Cp | 51.61% | Lvl 03 | Best: [Growlithe 173 V |  327 Cp | 79.93% | Lvl 09] | Candy: 21
+[01:18:05] (INFO) Found 1 catchable Pokemon
+[01:18:06] (Wild Escape) | Pidgey 114 V |  198 Cp | 43.61% | Lvl 12 | Chance: 0.43 | with a GreatBall 
+[01:18:07] (Wild Success Attempt #2) | Pidgey 114 V |  198 Cp | 43.61% | Lvl 12 | Chance: 0.43 | with a GreatBall 
+[01:18:09] (INFO) Found 1 pokemon to transfer...
+[01:18:10] (TRANSFER) Pidgey 114 V |  198 Cp | 43.61% | Lvl 12 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 361
+[01:18:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[01:18:14] (POKESTOP) Level 6 Art in 331.68 m distance
+[01:18:14] (NAVIGATION) Distance to target location: 331.68 meters. Will take 19.9 seconds driving at 60kmh
+[01:18:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 2 x ItemPotion
+[01:18:35] (INFO) Found 3 Recyclable Items:
+[01:18:36] (RECYCLING) PokeBall x 7
+[01:18:37] (RECYCLING) Potion x 2
+[01:18:38] (RECYCLING) Revive x 4
+[01:18:41] (POKESTOP) I Carry Your Heart in 362.87 m distance
+[01:18:41] (NAVIGATION) Distance to target location: 362.87 meters. Will take 19.79 seconds driving at 66kmh
+[01:18:53] (INFO) Found 1 catchable Pokemon
+[01:18:55] (Wild Success) | Zubat 123 V |  154 Cp | 43.06% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
