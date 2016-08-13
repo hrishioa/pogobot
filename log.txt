@@ -9721,3 +9721,17 @@
 [01:33:48] (NAVIGATION) Distance to target location: 334.77 meters. Will take 19.76 seconds driving at 61kmh
 [01:34:05] (INFO) Found 1 catchable Pokemon
 [01:34:06] (Wild Success) | Zubat 116 V |   42 Cp | 61.91% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[01:34:08] (INFO) Found 1 pokemon to transfer...
+[01:34:09] (TRANSFER) Zubat 116 V |   42 Cp | 61.91% | Lvl 03 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 549
+[01:34:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:34:14] (POKESTOP) Mural at Block 71 in 96.93 m distance
+[01:34:14] (NAVIGATION) Distance to target location: 96.93 meters. Will take 11.26 seconds driving at 31kmh
+[01:34:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:34:25] (POKESTOP) SUTD Hostel Main Mural in 456.85 m distance
+[01:34:25] (NAVIGATION) Distance to target location: 456.85 meters. Will take 23.5 seconds driving at 70kmh
+[01:34:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:34:50] (INFO) Found 2 Recyclable Items:
+[01:34:51] (RECYCLING) PokeBall x 1
+[01:34:52] (RECYCLING) Revive x 2
+[01:34:53] (INFO) Found 1 catchable Pokemon
+[01:34:55] (Wild Success) | Rattata 133 V |  200 Cp | 52.72% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
