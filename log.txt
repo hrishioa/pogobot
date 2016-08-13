@@ -1800,3 +1800,7 @@
 [21:02:33] (NAVIGATION) Distance to target location: 90.41 meters. Will take 10.17 seconds driving at 32kmh
 [21:02:37] (INFO) Found 1 catchable Pokemon
 [21:02:39] (Wild Success) | Krabby 119 V |  215 Cp | 47.03% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[21:02:41] (INFO) Found 1 pokemon to transfer...
+[21:02:42] (TRANSFER) Krabby 119 V |  215 Cp | 47.03% | Lvl 11 | Best: [Krabby 127 V |  118 Cp | 64.57% | Lvl 06] | Candy: 26
+[21:02:45] (INFO) Found 1 catchable Pokemon
+[21:02:47] (Wild Success) | Venonat 162 V |  333 Cp | 74.31% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
