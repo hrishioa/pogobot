@@ -20010,3 +20010,48 @@
 [07:14:40] (TRANSFER) Zubat 139 V |  366 Cp | 51.57% | Lvl 23 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 590
 [07:14:42] (INFO) Found 1 catchable Pokemon
 [07:14:43] (Wild Success) | Venonat 153 V |  424 Cp | 55.55% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[07:14:45] (INFO) Found 1 pokemon to transfer...
+[07:14:47] (TRANSFER) Venonat 153 V |  424 Cp | 55.55% | Lvl 16 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 130
+[07:14:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:14:49] (POKESTOP) Herbs Garden in 51.75 m distance
+[07:14:49] (NAVIGATION) Distance to target location: 51.75 meters. Will take 6.42 seconds driving at 29kmh
+[07:14:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:14:55] (POKESTOP) West Coast Mural Art in 84.73 m distance
+[07:14:55] (NAVIGATION) Distance to target location: 84.73 meters. Will take 9.84 seconds driving at 31kmh
+[07:15:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[07:15:04] (INFO) Found 2 Recyclable Items:
+[07:15:04] (RECYCLING) PokeBall x 7
+[07:15:05] (RECYCLING) Potion x 1
+[07:15:08] (POKESTOP) Mythical Creature Mural in 82.41 m distance
+[07:15:08] (NAVIGATION) Distance to target location: 82.41 meters. Will take 9.57 seconds driving at 31kmh
+[07:15:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:15:18] (POKESTOP) West Coast Playground in 72.62 m distance
+[07:15:18] (NAVIGATION) Distance to target location: 72.62 meters. Will take 8.17 seconds driving at 32kmh
+[07:15:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemPokeBall
+[07:15:27] (POKESTOP) West Coast Fitness Corner in 76.89 m distance
+[07:15:27] (NAVIGATION) Distance to target location: 76.89 meters. Will take 9.55 seconds driving at 29kmh
+[07:15:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:15:36] (POKESTOP) Flag Gathering Area in 97.06 m distance
+[07:15:36] (NAVIGATION) Distance to target location: 97.06 meters. Will take 12.48 seconds driving at 28kmh
+[07:15:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:15:48] (POKESTOP) Happy Sunshine Mural in 141.09 m distance
+[07:15:48] (NAVIGATION) Distance to target location: 141.09 meters. Will take 16.38 seconds driving at 31kmh
+[07:16:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[07:16:04] (INFO) Found 4 Recyclable Items:
+[07:16:05] (RECYCLING) RazzBerry x 1
+[07:16:06] (RECYCLING) PokeBall x 11
+[07:16:06] (RECYCLING) Potion x 1
+[07:16:08] (RECYCLING) Revive x 2
+[07:16:10] (POKESTOP) West Coast Market in 82.75 m distance
+[07:16:10] (NAVIGATION) Distance to target location: 82.75 meters. Will take 9.31 seconds driving at 32kmh
+[07:16:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:16:20] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 135.49 m distance
+[07:16:20] (NAVIGATION) Distance to target location: 135.49 meters. Will take 16.26 seconds driving at 30kmh
+[07:16:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:16:36] (POKESTOP) Wall Water Fountain in 56.19 m distance
+[07:16:36] (NAVIGATION) Distance to target location: 56.19 meters. Will take 6.74 seconds driving at 30kmh
+[07:16:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:16:43] (POKESTOP) Health Mural in 78.09 m distance
+[07:16:43] (NAVIGATION) Distance to target location: 78.09 meters. Will take 9.07 seconds driving at 31kmh
+[07:16:48] (INFO) Found 1 catchable Pokemon
+[07:16:50] (Wild Success) | Ekans 155 V |  247 Cp | 49.79% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
