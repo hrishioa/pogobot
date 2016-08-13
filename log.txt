@@ -4814,3 +4814,19 @@
 [22:49:06] (RECYCLING) PokeBall x 6
 [22:49:08] (INFO) Found 1 catchable Pokemon
 [22:49:09] (Wild Success) | NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
+[22:49:11] (POKESTOP) I Carry Your Heart in 127.6 m distance
+[22:49:11] (NAVIGATION) Distance to target location: 127.6 meters. Will take 15.31 seconds driving at 30kmh
+[22:49:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:49:26] (POKESTOP) Kopitiam - On the Ridge in 102.9 m distance
+[22:49:26] (NAVIGATION) Distance to target location: 102.9 meters. Will take 12.35 seconds driving at 30kmh
+[22:49:37] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:49:39] (POKESTOP) Cornflakes Man in 49.61 m distance
+[22:49:39] (NAVIGATION) Distance to target location: 49.61 meters. Will take 6.16 seconds driving at 29kmh
+[22:49:43] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemHyperPotion
+[22:49:45] (POKESTOP) National University Hospital Main Building in 96.49 m distance
+[22:49:45] (NAVIGATION) Distance to target location: 96.49 meters. Will take 11.2 seconds driving at 31kmh
+[22:49:54] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:49:56] (POKESTOP) Singapore Science Park I in 160.41 m distance
+[22:49:56] (NAVIGATION) Distance to target location: 160.41 meters. Will take 19.91 seconds driving at 29kmh
+[22:50:03] (INFO) Found 1 catchable Pokemon
+[22:50:04] (Wild Success) | Goldeen 117 V |   12 Cp | 57.29% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
