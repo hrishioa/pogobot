@@ -10947,3 +10947,10 @@
 [02:09:23] (NAVIGATION) Distance to target location: 101.07 meters. Will take 12.13 seconds driving at 30kmh
 [02:09:30] (INFO) Found 1 catchable Pokemon
 [02:09:32] (Wild Success) | Weedle 60 V |  112 Cp | 16.94% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 420
+[02:09:34] (INFO) Found 1 pokemon to transfer...
+[02:09:35] (TRANSFER) Weedle 60 V |  112 Cp | 16.94% | Lvl 12 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 160
+[02:09:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:09:40] (POKESTOP) Moai Statue at APEC Secretariat in 83.12 m distance
+[02:09:40] (NAVIGATION) Distance to target location: 83.12 meters. Will take 9.35 seconds driving at 32kmh
+[02:09:44] (INFO) Found 1 catchable Pokemon
+[02:09:46] (Wild Success) | Caterpie 95 V |  201 Cp | 25.26% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
