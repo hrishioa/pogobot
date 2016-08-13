@@ -8157,3 +8157,40 @@
 [00:37:47] (BERRY) ItemRazzBerry used, remaining: 50
 [00:37:48] (Wild Success) | Golbat 186 V |  620 Cp | 64.07% | Lvl 12 | Chance: 0.17 | with a UltraBall and received XP 210
 [00:37:50] (Wild Success) | Zubat 114 V |  169 Cp | 41.67% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[00:37:52] (INFO) Found 3 pokemon to transfer...
+[00:37:53] (TRANSFER) Zubat 114 V |  169 Cp | 41.67% | Lvl 11 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 428
+[00:37:55] (TRANSFER) Eevee 164 V |  110 Cp | 92.52% | Lvl 04 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 46
+[00:37:58] (TRANSFER) Golbat 186 V |  620 Cp | 64.07% | Lvl 12 | Best: [Golbat 216 V |  697 Cp | 85.92% | Lvl 13] | Candy: 429
+[00:38:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[00:38:01] (INFO) Found 2 Recyclable Items:
+[00:38:01] (RECYCLING) PokeBall x 5
+[00:38:02] (RECYCLING) Potion x 2
+[00:38:05] (POKESTOP) Portrait of Yong Loo Lin in 58.95 m distance
+[00:38:05] (NAVIGATION) Distance to target location: 58.95 meters. Will take 7.58 seconds driving at 28kmh
+[00:38:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemGreatBall
+[00:38:11] (POKESTOP) Hope Sculpture in 135.89 m distance
+[00:38:11] (NAVIGATION) Distance to target location: 135.89 meters. Will take 15.78 seconds driving at 31kmh
+[00:38:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 2 x ItemGreatBall, 1 x ItemSuperPotion
+[00:38:27] (POKESTOP) Mural at Block 71 in 424.23 m distance
+[00:38:27] (NAVIGATION) Distance to target location: 424.23 meters. Will take 21.82 seconds driving at 70kmh
+[00:38:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[00:38:51] (POKESTOP) JFDI the Frog in 110.57 m distance
+[00:38:51] (NAVIGATION) Distance to target location: 110.57 meters. Will take 14.22 seconds driving at 28kmh
+[00:39:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[00:39:04] (POKESTOP) NSI Ventures Mural  in 68.71 m distance
+[00:39:04] (NAVIGATION) Distance to target location: 68.71 meters. Will take 7.98 seconds driving at 31kmh
+[00:39:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[00:39:10] (INFO) Found 3 Recyclable Items:
+[00:39:12] (RECYCLING) RazzBerry x 3
+[00:39:13] (RECYCLING) PokeBall x 10
+[00:39:13] (RECYCLING) Revive x 1
+[00:39:16] (POKESTOP) Startups' Street Soccer in 91.25 m distance
+[00:39:16] (NAVIGATION) Distance to target location: 91.25 meters. Will take 10.6 seconds driving at 31kmh
+[00:39:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry
+[00:39:27] (POKESTOP) The Future Starts Here Mural in 75.95 m distance
+[00:39:27] (NAVIGATION) Distance to target location: 75.95 meters. Will take 9.43 seconds driving at 29kmh
+[00:39:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[00:39:37] (POKESTOP) Fractals - Metamorphosis in 110.52 m distance
+[00:39:37] (NAVIGATION) Distance to target location: 110.52 meters. Will take 13.72 seconds driving at 29kmh
+[00:39:43] (INFO) Found 3 catchable Pokemon
+[00:39:44] (Wild Success) | NidoranFemale 126 V |  220 Cp | 49.27% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
