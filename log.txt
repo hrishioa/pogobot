@@ -8132,3 +8132,7 @@
 [00:37:01] (NAVIGATION) Distance to target location: 165.61 meters. Will take 19.87 seconds driving at 30kmh
 [00:37:04] (INFO) Found 1 catchable Pokemon
 [00:37:05] (Wild Success) | Spearow 134 V |  157 Cp | 60.75% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:37:07] (INFO) Found 1 pokemon to transfer...
+[00:37:09] (TRANSFER) Spearow 134 V |  157 Cp | 60.75% | Lvl 09 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 147
+[00:37:10] (INFO) Found 1 catchable Pokemon
+[00:37:12] (Wild Success) | Pidgey 93 V |  156 Cp | 26.74% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
