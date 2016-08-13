@@ -1792,3 +1792,11 @@
 [21:02:21] (INFO) Found 2 catchable Pokemon
 [21:02:23] (Wild Success) | Rattata 114 V |   21 Cp | 47.25% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [21:02:25] (Wild Success) | Rattata 109 V |   35 Cp | 40.12% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[21:02:26] (INFO) Found 2 pokemon to transfer...
+[21:02:27] (TRANSFER) Rattata 114 V |   21 Cp | 47.25% | Lvl 02 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 37
+[21:02:30] (TRANSFER) Rattata 109 V |   35 Cp | 40.12% | Lvl 03 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 38
+[21:02:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[21:02:33] (POKESTOP) Queen's Court in 90.41 m distance
+[21:02:33] (NAVIGATION) Distance to target location: 90.41 meters. Will take 10.17 seconds driving at 32kmh
+[21:02:37] (INFO) Found 1 catchable Pokemon
+[21:02:39] (Wild Success) | Krabby 119 V |  215 Cp | 47.03% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
