@@ -9758,3 +9758,40 @@
 [01:35:39] (NAVIGATION) Distance to target location: 41.44 meters. Will take 4.66 seconds driving at 32kmh
 [01:35:40] (INFO) Found 1 catchable Pokemon
 [01:35:42] (Wild Success) | Pidgey 86 V |  155 Cp | 24.81% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[01:35:43] (INFO) Found 1 pokemon to transfer...
+[01:35:45] (TRANSFER) Pidgey 86 V |  155 Cp | 24.81% | Lvl 10 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 420
+[01:35:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:35:50] (POKESTOP) Wooden Shell (Right) in 75.76 m distance
+[01:35:50] (NAVIGATION) Distance to target location: 75.76 meters. Will take 8.52 seconds driving at 32kmh
+[01:35:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:35:58] (INFO) Found 3 Recyclable Items:
+[01:35:58] (RECYCLING) RazzBerry x 1
+[01:36:00] (RECYCLING) PokeBall x 7
+[01:36:00] (RECYCLING) Revive x 1
+[01:36:03] (POKESTOP) Root II by Min Chen in 60.76 m distance
+[01:36:03] (NAVIGATION) Distance to target location: 60.76 meters. Will take 7.54 seconds driving at 29kmh
+[01:36:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemPotion, 1 x ItemGreatBall
+[01:36:11] (POKESTOP) Mosaic Mural at ITE in 64.98 m distance
+[01:36:11] (NAVIGATION) Distance to target location: 64.98 meters. Will take 8.35 seconds driving at 28kmh
+[01:36:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemGreatBall
+[01:36:20] (POKESTOP) Shark Mural in 65.87 m distance
+[01:36:20] (NAVIGATION) Distance to target location: 65.87 meters. Will take 7.65 seconds driving at 31kmh
+[01:36:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:36:28] (POKESTOP) Metal Workshop in 59.62 m distance
+[01:36:28] (NAVIGATION) Distance to target location: 59.62 meters. Will take 7.67 seconds driving at 28kmh
+[01:36:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:36:35] (POKESTOP) Fab Lab 2 in 53.44 m distance
+[01:36:35] (NAVIGATION) Distance to target location: 53.44 meters. Will take 6.01 seconds driving at 32kmh
+[01:36:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:36:40] (INFO) Found 3 Recyclable Items:
+[01:36:41] (RECYCLING) PokeBall x 1
+[01:36:41] (RECYCLING) Potion x 1
+[01:36:42] (RECYCLING) Revive x 1
+[01:36:45] (POKESTOP) Shield Art in 111.24 m distance
+[01:36:45] (NAVIGATION) Distance to target location: 111.24 meters. Will take 13.35 seconds driving at 30kmh
+[01:36:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[01:36:58] (POKESTOP) CRISP & TMSI in 623.77 m distance
+[01:36:58] (NAVIGATION) Distance to target location: 623.77 meters. Will take 32.08 seconds driving at 70kmh
+[01:37:00] (INFO) Found 1 catchable Pokemon
+[01:37:01] (BERRY) ItemRazzBerry used, remaining: 49
+[01:37:02] (Wild Success) | Staryu 150 V |  451 Cp | 52.74% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
