@@ -5039,3 +5039,14 @@
 [22:57:11] (Wild Success) | Poliwag 102 V |   50 Cp | 38.26% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
 [22:57:14] (INFO) Found 1 catchable Pokemon
 [22:57:16] (Wild Success) | Weedle 57 V |   93 Cp | 15.75% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
+[22:57:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:57:19] (POKESTOP) The Tree at Dover  in 106.31 m distance
+[22:57:19] (NAVIGATION) Distance to target location: 106.31 meters. Will take 12.35 seconds driving at 31kmh
+[22:57:30] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[22:57:30] (INFO) Found 2 Recyclable Items:
+[22:57:31] (RECYCLING) RazzBerry x 2
+[22:57:31] (RECYCLING) PokeBall x 6
+[22:57:34] (POKESTOP) Dover Community Centre in 87.95 m distance
+[22:57:34] (NAVIGATION) Distance to target location: 87.95 meters. Will take 10.55 seconds driving at 30kmh
+[22:57:36] (INFO) Found 1 catchable Pokemon
+[22:57:37] (Wild Success) | Rattata 108 V |  121 Cp | 36.16% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
