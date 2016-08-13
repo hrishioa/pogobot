@@ -1415,3 +1415,26 @@
 [20:49:35] (NAVIGATION) Distance to target location: 37.42 meters. Will take 4.21 seconds driving at 32kmh
 [20:49:37] (INFO) Found 1 catchable Pokemon
 [20:49:38] (Wild Success) | Zubat 122 V |   75 Cp | 53.73% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[20:49:40] (INFO) Found 1 pokemon to transfer...
+[20:49:42] (TRANSFER) Zubat 122 V |   75 Cp | 53.73% | Lvl 05 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 148
+[20:49:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[20:49:43] (INFO) Found 3 Recyclable Items:
+[20:49:44] (RECYCLING) Revive x 1
+[20:49:45] (RECYCLING) RazzBerry x 2
+[20:49:46] (RECYCLING) Potion x 1
+[20:49:48] (POKESTOP) Artillery Display at Kent Ridge Park in 410.07 m distance
+[20:49:48] (NAVIGATION) Distance to target location: 410.07 meters. Will take 21.09 seconds driving at 70kmh
+[20:50:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemGreatBall
+[20:50:10] (POKESTOP) Kent Ridge Park Nature Trail in 113.21 m distance
+[20:50:10] (NAVIGATION) Distance to target location: 113.21 meters. Will take 14.56 seconds driving at 28kmh
+[20:50:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:50:24] (POKESTOP) National Community Leadership Institute   in 195.74 m distance
+[20:50:24] (NAVIGATION) Distance to target location: 195.74 meters. Will take 19.57 seconds driving at 36kmh
+[20:50:43] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 3 x ItemPokeBall, 1 x ItemRazzBerry
+[20:50:45] (POKESTOP) Cassia Fistula in 427.64 m distance
+[20:50:45] (NAVIGATION) Distance to target location: 427.64 meters. Will take 21.99 seconds driving at 70kmh
+[20:51:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 2 x ItemPotion, 1 x ItemRazzBerry
+[20:51:09] (POKESTOP) The Grocer in 1089.19 m distance
+[20:51:09] (NAVIGATION) Distance to target location: 1089.19 meters. Will take 56.02 seconds driving at 70kmh
+[20:51:10] (INFO) Found 2 catchable Pokemon
+[20:51:12] (Wild Success) | Ekans 68 V |   30 Cp | 38.27% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
