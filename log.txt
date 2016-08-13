@@ -8002,3 +8002,11 @@
 [00:35:00] (NAVIGATION) Distance to target location: 62.97 meters. Will take 8.1 seconds driving at 28kmh
 [00:35:06] (INFO) Found 1 catchable Pokemon
 [00:35:07] (Wild Success) | Zubat 163 V |  152 Cp | 73.22% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:35:09] (INFO) Found 1 pokemon to transfer...
+[00:35:11] (TRANSFER) Zubat 161 V |  287 Cp | 71.65% | Lvl 17 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 417
+[00:35:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[00:35:13] (POKESTOP) The War And Peace Nebula in 60.91 m distance
+[00:35:13] (NAVIGATION) Distance to target location: 60.91 meters. Will take 7.56 seconds driving at 29kmh
+[00:35:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:35:19] (INFO) Found 1 catchable Pokemon
+[00:35:22] (Wild Success) | Spearow 124 V |  261 Cp | 58.38% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
