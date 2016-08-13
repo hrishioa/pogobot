@@ -5397,3 +5397,4 @@
 [23:09:10] (Wild Escape) | Spearow 128 V |  226 Cp | 58.33% | Lvl 13 | Chance: 0.41 | with a GreatBall 
 [23:09:11] (Wild Success Attempt #2) | Spearow 128 V |  226 Cp | 58.33% | Lvl 13 | Chance: 0.41 | with a GreatBall 
 [23:09:12] (Wild Success) | Rattata 123 V |  164 Cp | 39.79% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 420
+[23:09:14] (Wild Success) | Rattata 138 V |  227 Cp | 49.97% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
