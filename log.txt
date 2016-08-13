@@ -18488,3 +18488,16 @@
 [06:26:57] (NAVIGATION) Distance to target location: 1030.78 meters. Will take 53.01 seconds driving at 70kmh
 [06:27:15] (INFO) Found 1 catchable Pokemon
 [06:27:17] (Wild Success) | Zubat 177 V |  349 Cp | 82.14% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[06:27:18] (INFO) Found 1 pokemon to transfer...
+[06:27:20] (TRANSFER) Zubat 139 V |  271 Cp | 52.10% | Lvl 17 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 534
+[06:27:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:27:53] (POKESTOP) Veranda Sculpture in 45.8 m distance
+[06:27:53] (NAVIGATION) Distance to target location: 45.8 meters. Will take 5.69 seconds driving at 29kmh
+[06:27:58] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 3 x ItemGreatBall, 2 x ItemPokeBall
+[06:27:58] (ATTENTION) No locations in your area...
+[06:28:03] (INFO) Found 67 Pokestops
+[06:28:04] (POKESTOP) University Cultural Centre in 204.18 m distance
+[06:28:04] (NAVIGATION) Distance to target location: 204.18 meters. Will take 19.87 seconds driving at 37kmh
+[06:28:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:28:24] (INFO) Found 1 catchable Pokemon
+[06:28:25] (Wild Success) | Zubat 115 V |  127 Cp | 56.78% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
