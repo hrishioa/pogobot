@@ -8115,3 +8115,10 @@
 [00:36:20] (INFO) Found 2 catchable Pokemon
 [00:36:21] (Wild Success) | Venonat 123 V |  125 Cp | 55.83% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [00:36:23] (Wild Success) | Pidgey 102 V |  142 Cp | 33.08% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:36:25] (INFO) Found 2 pokemon to transfer...
+[00:36:26] (TRANSFER) Venonat 123 V |  125 Cp | 55.83% | Lvl 05 | Best: [Venonat 162 V |  333 Cp | 74.31% | Lvl 12] | Candy: 30
+[00:36:29] (TRANSFER) Pidgey 102 V |  142 Cp | 33.08% | Lvl 09 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 297
+[00:36:29] (POKESTOP) Reaching Out in 102.86 m distance
+[00:36:29] (NAVIGATION) Distance to target location: 102.86 meters. Will take 11.57 seconds driving at 32kmh
+[00:36:31] (INFO) Found 1 catchable Pokemon
+[00:36:32] (Wild Success) | Krabby 129 V |   53 Cp | 66.52% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
