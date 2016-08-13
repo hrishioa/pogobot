@@ -2980,3 +2980,13 @@
 [21:39:36] (NAVIGATION) Distance to target location: 91.32 meters. Will take 11.34 seconds driving at 29kmh
 [21:39:44] (INFO) Found 1 catchable Pokemon
 [21:39:46] (Wild Success) | Pidgey 133 V |  206 Cp | 56.90% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[21:39:48] (INFO) Found 1 pokemon to transfer...
+[21:39:49] (TRANSFER) Pidgey 118 V |  118 Cp | 61.06% | Lvl 07 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 140
+[21:39:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 5 x ItemPokeBall, 1 x ItemPotion
+[21:39:53] (POKESTOP) Kent Ridge Monument in 65.02 m distance
+[21:39:53] (NAVIGATION) Distance to target location: 65.02 meters. Will take 7.31 seconds driving at 32kmh
+[21:39:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[21:40:00] (POKESTOP) Singapore Science Park I in 95.16 m distance
+[21:40:00] (NAVIGATION) Distance to target location: 95.16 meters. Will take 11.42 seconds driving at 30kmh
+[21:40:07] (INFO) Found 1 catchable Pokemon
+[21:40:08] (Wild Success) | Pidgey 130 V |  188 Cp | 55.51% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
