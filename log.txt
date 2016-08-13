@@ -11524,3 +11524,23 @@
 [02:29:16] (NAVIGATION) Distance to target location: 218.59 meters. Will take 19.67 seconds driving at 40kmh
 [02:29:23] (INFO) Found 1 catchable Pokemon
 [02:29:25] (Wild Success) | Meowth 145 V |  215 Cp | 62.75% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
+[02:29:26] (INFO) Found 1 pokemon to transfer...
+[02:29:28] (TRANSFER) Meowth 145 V |  215 Cp | 62.75% | Lvl 11 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 22
+[02:29:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:29:36] (POKESTOP) Nazareth Bible-Presbyterian Church in 286.42 m distance
+[02:29:36] (NAVIGATION) Distance to target location: 286.42 meters. Will take 19.83 seconds driving at 52kmh
+[02:29:49] (INFO) Found 1 catchable Pokemon
+[02:29:51] (Wild Escape) | Zubat 137 V |   92 Cp | 52.63% | Lvl 06 | Chance: 0.62 | with a PokeBall 
+[02:29:52] (Wild Success Attempt #2) | Zubat 137 V |   92 Cp | 52.63% | Lvl 06 | Chance: 0.62 | with a PokeBall 
+[02:29:53] (INFO) Found 1 pokemon to transfer...
+[02:29:55] (TRANSFER) Zubat 137 V |   92 Cp | 52.63% | Lvl 06 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 619
+[02:29:58] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemGreatBall
+[02:29:59] (INFO) Found 1 Recyclable Item:
+[02:30:00] (RECYCLING) Revive x 1
+[02:30:01] (POKESTOP) Gold Coast Fountain of Wealth in 73.24 m distance
+[02:30:01] (NAVIGATION) Distance to target location: 73.24 meters. Will take 9.42 seconds driving at 28kmh
+[02:30:10] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:30:11] (POKESTOP) RSYC Childrens Playground in 1388.06 m distance
+[02:30:11] (NAVIGATION) Distance to target location: 1388.06 meters. Will take 1.19 minutes driving at 70kmh
+[02:30:57] (INFO) Found 1 catchable Pokemon
+[02:30:59] (Wild Success) | Pidgey 108 V |  258 Cp | 36.66% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
