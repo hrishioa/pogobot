@@ -9326,3 +9326,12 @@
 [01:19:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
 [01:19:32] (INFO) Found 1 catchable Pokemon
 [01:19:34] (Wild Success) | Zubat 115 V |  104 Cp | 39.65% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[01:19:36] (INFO) Found 1 pokemon to transfer...
+[01:19:37] (TRANSFER) Zubat 115 V |  104 Cp | 39.65% | Lvl 07 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 525
+[01:19:38] (POKESTOP) Kopitiam - On the Ridge in 31.87 m distance
+[01:19:38] (NAVIGATION) Distance to target location: 31.87 meters. Will take 4.1 seconds driving at 28kmh
+[01:19:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[01:19:42] (POKESTOP) National University Hospital Main Building in 96.92 m distance
+[01:19:42] (NAVIGATION) Distance to target location: 96.92 meters. Will take 10.9 seconds driving at 32kmh
+[01:19:46] (INFO) Found 1 catchable Pokemon
+[01:19:47] (Wild Success) | Pidgey 92 V |  292 Cp | 7.72% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 310
