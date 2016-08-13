@@ -12088,3 +12088,24 @@
 [02:48:01] (NAVIGATION) Distance to target location: 89.64 meters. Will take 11.13 seconds driving at 29kmh
 [02:48:06] (INFO) Found 1 catchable Pokemon
 [02:48:07] (Wild Success) | Exeggcute 179 V |  383 Cp | 70.95% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[02:48:09] (INFO) Found 1 pokemon to transfer...
+[02:48:11] (TRANSFER) Exeggcute 162 V |  373 Cp | 60.31% | Lvl 13 | Best: [Exeggcute 180 V |  494 Cp | 65.57% | Lvl 17] | Candy: 34
+[02:48:13] (INFO) Found 1 catchable Pokemon
+[02:48:14] (BERRY) ItemRazzBerry used, remaining: 48
+[02:48:15] (Wild Escape) | Bulbasaur 138 V |  525 Cp | 15.93% | Lvl 21 | Chance: 0.13 | with a GreatBall 
+[02:48:15] (BERRY) ItemRazzBerry used, remaining: 47
+[02:48:16] (Wild Success Attempt #2) | Bulbasaur 138 V |  525 Cp | 15.93% | Lvl 21 | Chance: 0.13 | with a GreatBall 
+[02:48:18] (INFO) Found 1 pokemon to transfer...
+[02:48:20] (TRANSFER) Bulbasaur 138 V |  525 Cp | 15.93% | Lvl 21 | Best: [Bulbasaur 174 V |  480 Cp | 40.91% | Lvl 18] | Candy: 54
+[02:48:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:48:22] (POKESTOP) Clementi West Green Alien Mural in 40.77 m distance
+[02:48:22] (NAVIGATION) Distance to target location: 40.77 meters. Will take 5.06 seconds driving at 29kmh
+[02:48:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:48:28] (INFO) Found 3 Recyclable Items:
+[02:48:28] (RECYCLING) PokeBall x 10
+[02:48:29] (RECYCLING) Potion x 2
+[02:48:30] (RECYCLING) Revive x 1
+[02:48:33] (POKESTOP) West Coast Market in 97.39 m distance
+[02:48:33] (NAVIGATION) Distance to target location: 97.39 meters. Will take 10.96 seconds driving at 32kmh
+[02:48:39] (INFO) Found 1 catchable Pokemon
+[02:48:40] (Wild Success) | Pidgey 109 V |  251 Cp | 28.53% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
