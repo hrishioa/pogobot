@@ -6874,3 +6874,27 @@
 [23:55:59] (INFO) Found 2 catchable Pokemon
 [23:56:01] (Wild Success) | Rattata 119 V |   81 Cp | 49.05% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [23:56:03] (Wild Success) | Pidgey 101 V |  216 Cp | 24.29% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[23:56:04] (INFO) Found 2 pokemon to transfer...
+[23:56:06] (TRANSFER) Pidgey 101 V |  216 Cp | 24.29% | Lvl 14 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 245
+[23:56:08] (TRANSFER) Rattata 119 V |   81 Cp | 49.05% | Lvl 06 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 125
+[23:56:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:56:11] (POKESTOP) SUTD Hostel Main Mural in 24.67 m distance
+[23:56:11] (NAVIGATION) Distance to target location: 24.67 meters. Will take 3.06 seconds driving at 29kmh
+[23:56:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:56:15] (POKESTOP) SUTD Building in 93.64 m distance
+[23:56:15] (NAVIGATION) Distance to target location: 93.64 meters. Will take 11.24 seconds driving at 30kmh
+[23:56:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[23:56:27] (POKESTOP) Commemorative Plaque in 149.74 m distance
+[23:56:27] (NAVIGATION) Distance to target location: 149.74 meters. Will take 18.59 seconds driving at 29kmh
+[23:56:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:56:45] (INFO) Found 2 Recyclable Items:
+[23:56:46] (RECYCLING) PokeBall x 13
+[23:56:46] (RECYCLING) Potion x 2
+[23:56:49] (POKESTOP) Brains of Power in 36.85 m distance
+[23:56:49] (NAVIGATION) Distance to target location: 36.85 meters. Will take 4.28 seconds driving at 31kmh
+[23:56:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemPotion
+[23:56:53] (POKESTOP) Wooden Shell (Right) in 99.99 m distance
+[23:56:53] (NAVIGATION) Distance to target location: 99.99 meters. Will take 12 seconds driving at 30kmh
+[23:57:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:57:04] (INFO) Found 1 catchable Pokemon
+[23:57:06] (Wild Success) | Clefairy 111 V |   78 Cp | 42.67% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
