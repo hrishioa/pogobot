@@ -1346,3 +1346,16 @@
 [20:46:28] (NAVIGATION) Distance to target location: 88.63 meters. Will take 10.64 seconds driving at 30kmh
 [20:46:31] (INFO) Found 1 catchable Pokemon
 [20:46:33] (Wild Success) | Pidgey 108 V |   78 Cp | 44.92% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[20:46:34] (INFO) Found 1 pokemon to transfer...
+[20:46:35] (TRANSFER) Pidgey 104 V |   94 Cp | 40.24% | Lvl 06 | Best: [Pidgey 118 V |  118 Cp | 61.06% | Lvl 07] | Candy: 92
+[20:46:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:46:39] (INFO) Found 2 Recyclable Items:
+[20:46:40] (RECYCLING) RazzBerry x 1
+[20:46:41] (RECYCLING) PokeBall x 10
+[20:46:44] (POKESTOP) Southern Ridges in 101.29 m distance
+[20:46:44] (NAVIGATION) Distance to target location: 101.29 meters. Will take 13.02 seconds driving at 28kmh
+[20:46:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[20:46:57] (POKESTOP) Pavillion Hiltop in 101.61 m distance
+[20:46:57] (NAVIGATION) Distance to target location: 101.61 meters. Will take 11.8 seconds driving at 31kmh
+[20:47:04] (INFO) Found 1 catchable Pokemon
+[20:47:05] (Wild Success) | Jynx 111 V |  205 Cp | 34.20% | Lvl 05 | Chance: 0.41 | with a PokeBall and received XP 210
