@@ -3851,3 +3851,13 @@
 [22:09:27] (TRANSFER) Goldeen 161 V |  283 Cp | 71.35% | Lvl 11 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 70
 [22:09:29] (INFO) Found 1 catchable Pokemon
 [22:09:31] (Wild Success) | Spearow 106 V |   43 Cp | 45.20% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[22:09:33] (INFO) Found 1 pokemon to transfer...
+[22:09:34] (TRANSFER) Spearow 106 V |   43 Cp | 45.20% | Lvl 03 | Best: [Spearow 143 V |  267 Cp | 66.19% | Lvl 15] | Candy: 91
+[22:09:56] (INFO) Found 1 catchable Pokemon
+[22:09:57] (Wild Escape) | Zubat 148 V |  201 Cp | 68.42% | Lvl 12 | Chance: 0.43 | with a GreatBall 
+[22:09:58] (Wild Success Attempt #2) | Zubat 148 V |  201 Cp | 68.42% | Lvl 12 | Chance: 0.43 | with a GreatBall 
+[22:10:00] (INFO) Found 1 pokemon to transfer...
+[22:10:01] (TRANSFER) Zubat 148 V |  201 Cp | 68.42% | Lvl 12 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 278
+[22:10:02] (INFO) Found 2 catchable Pokemon
+[22:10:04] (BERRY) ItemRazzBerry used, remaining: 49
+[22:10:04] (Wild Success) | Pinsir 196 V |  584 Cp | 77.53% | Lvl 10 | Chance: 0.28 | with a GreatBall and received XP 210
