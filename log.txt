@@ -17836,3 +17836,4 @@
 [06:05:53] (INFO) Found 2 catchable Pokemon
 [06:05:54] (BERRY) ItemRazzBerry used, remaining: 49
 [06:05:55] (Wild Success) | NidoranMale 132 V |  446 Cp | 35.17% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:05:57] (Wild Success) | Bellsprout 117 V |  158 Cp | 35.99% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
