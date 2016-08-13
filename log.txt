@@ -2379,3 +2379,5 @@
 [21:25:03] (NAVIGATION) Distance to target location: 187.47 meters. Will take 19.85 seconds driving at 34kmh
 [21:25:05] (INFO) Found 1 catchable Pokemon
 [21:25:06] (Wild Success) | Squirtle 146 V |  303 Cp | 45.65% | Lvl 12 | Chance: 0.17 | with a GreatBall and received XP 710
+[21:25:11] (INFO) Found 1 catchable Pokemon
+[21:25:12] (Wild Success) | Jynx 144 V |  259 Cp | 50.77% | Lvl 06 | Chance: 0.37 | with a GreatBall and received XP 210
