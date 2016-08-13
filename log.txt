@@ -1842,3 +1842,8 @@
 [21:04:19] (NAVIGATION) Distance to target location: 274.21 meters. Will take 19.74 seconds driving at 50kmh
 [21:04:31] (INFO) Found 1 catchable Pokemon
 [21:04:34] (Wild Success) | Tentacool 88 V |   56 Cp | 31.84% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[21:04:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[21:04:39] (POKESTOP) playground in 74.49 m distance
+[21:04:39] (NAVIGATION) Distance to target location: 74.49 meters. Will take 9.58 seconds driving at 28kmh
+[21:04:45] (INFO) Found 1 catchable Pokemon
+[21:04:47] (Wild Success) | Goldeen 145 V |  200 Cp | 65.91% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
