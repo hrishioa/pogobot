@@ -8772,3 +8772,10 @@
 [01:00:26] (Wild Success) | Zubat 129 V |  237 Cp | 30.09% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
 [01:00:28] (Wild Success) | Venonat 124 V |   96 Cp | 52.45% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [01:00:29] (Wild Success) | Poliwag 156 V |  170 Cp | 79.95% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[01:00:31] (INFO) Found 3 pokemon to transfer...
+[01:00:32] (TRANSFER) Poliwag 155 V |  358 Cp | 49.81% | Lvl 18 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 73
+[01:00:35] (TRANSFER) Zubat 129 V |  237 Cp | 30.09% | Lvl 16 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 497
+[01:00:36] (TRANSFER) Venonat 124 V |   96 Cp | 52.45% | Lvl 04 | Best: [Venonat 162 V |  333 Cp | 74.31% | Lvl 12] | Candy: 34
+[01:00:38] (INFO) Found 1 catchable Pokemon
+[01:00:39] (BERRY) ItemRazzBerry used, remaining: 49
+[01:00:40] (Wild Success) | Parasect 193 V |  416 Cp | 61.02% | Lvl 09 | Chance: 0.2 | with a GreatBall and received XP 210
