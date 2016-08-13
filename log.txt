@@ -9069,3 +9069,14 @@
 [01:12:30] (INFO) Found 2 catchable Pokemon
 [01:12:32] (Wild Success) | Pidgey 88 V |   24 Cp | 35.62% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [01:12:33] (Wild Success) | Eevee 171 V |  203 Cp | 84.23% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:12:35] (INFO) Found 2 pokemon to transfer...
+[01:12:36] (TRANSFER) Eevee 171 V |  203 Cp | 84.23% | Lvl 07 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 54
+[01:12:39] (TRANSFER) Pidgey 88 V |   24 Cp | 35.62% | Lvl 02 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 353
+[01:12:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:12:43] (POKESTOP) Medical Abstracts in 104.02 m distance
+[01:12:43] (NAVIGATION) Distance to target location: 104.02 meters. Will take 11.7 seconds driving at 32kmh
+[01:12:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[01:12:54] (POKESTOP) Portrait of Yong Loo Lin in 85.09 m distance
+[01:12:54] (NAVIGATION) Distance to target location: 85.09 meters. Will take 10.21 seconds driving at 30kmh
+[01:13:00] (INFO) Found 1 catchable Pokemon
+[01:13:01] (Wild Success) | Paras 139 V |   89 Cp | 70.48% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
