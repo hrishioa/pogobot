@@ -6663,3 +6663,8 @@
 [23:50:46] (INFO) Found 2 catchable Pokemon
 [23:50:48] (Wild Success) | Doduo 87 V |   10 Cp | 39.27% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [23:50:49] (Wild Success) | Staryu 153 V |  301 Cp | 73.46% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:50:51] (INFO) Found 2 pokemon to transfer...
+[23:50:53] (TRANSFER) Staryu 152 V |   94 Cp | 82.58% | Lvl 04 | Best: [Staryu 158 V |  255 Cp | 80.25% | Lvl 10] | Candy: 62
+[23:50:55] (TRANSFER) Doduo 87 V |   10 Cp | 39.27% | Lvl 01 | Best: [Doduo 111 V |  167 Cp | 47.37% | Lvl 08] | Candy: 21
+[23:50:56] (INFO) Found 1 catchable Pokemon
+[23:50:58] (Wild Success) | Staryu 116 V |   12 Cp | 63.50% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
