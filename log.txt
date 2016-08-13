@@ -681,3 +681,7 @@
 [20:24:12] (Wild Success) | Venonat 134 V |   98 Cp | 61.85% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [20:24:14] (Wild Success) | Sandshrew 126 V |  155 Cp | 45.88% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 710
 [20:24:15] (Wild Success) | Poliwag 147 V |  169 Cp | 78.21% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[20:24:17] (INFO) Found 1 pokemon to transfer...
+[20:24:18] (TRANSFER) Venonat 134 V |   98 Cp | 61.85% | Lvl 04 | Best: [Venonat 142 V |  156 Cp | 63.59% | Lvl 06] | Candy: 10
+[20:24:19] (INFO) Found 2 catchable Pokemon
+[20:24:21] (Wild Success) | Zubat 164 V |  152 Cp | 73.82% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
