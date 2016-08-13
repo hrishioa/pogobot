@@ -17385,3 +17385,4 @@
 [05:49:50] (INFO) Found 3 catchable Pokemon
 [05:49:52] (Wild Success) | Pidgey 97 V |   42 Cp | 38.45% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [05:49:54] (Wild Success) | Caterpie 77 V |  107 Cp | 11.18% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[05:49:56] (Wild Success) | Goldeen 120 V |   39 Cp | 66.61% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
