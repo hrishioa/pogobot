@@ -10349,3 +10349,4 @@
 [01:53:30] (NAVIGATION) Distance to target location: 99.31 meters. Will take 11.92 seconds driving at 30kmh
 [01:53:32] (INFO) Found 2 catchable Pokemon
 [01:53:33] (Wild Success) | Paras 151 V |  219 Cp | 74.08% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
+[01:53:35] (Wild Success) | Pidgey 141 V |  260 Cp | 60.27% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
