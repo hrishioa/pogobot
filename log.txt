@@ -11230,3 +11230,8 @@
 [02:20:03] (BERRY) ItemRazzBerry used, remaining: 49
 [02:20:04] (Wild Flee) | Golbat 177 V |  569 Cp | 64.98% | Lvl 11 | Chance: 0.18 | with a GreatBall 
 [02:20:05] (Wild Success) | Pidgey 102 V |  227 Cp | 38.95% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 420
+[02:20:07] (INFO) Found 1 pokemon to transfer...
+[02:20:08] (TRANSFER) Pidgey 102 V |  227 Cp | 38.95% | Lvl 14 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 496
+[02:20:10] (INFO) Found 1 catchable Pokemon
+[02:20:11] (BERRY) ItemRazzBerry used, remaining: 48
+[02:20:13] (Wild Success) | Venonat 189 V |  582 Cp | 74.06% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 420
