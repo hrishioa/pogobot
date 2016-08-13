@@ -12333,3 +12333,25 @@
 [02:54:03] (NAVIGATION) Distance to target location: 95.26 meters. Will take 10.72 seconds driving at 32kmh
 [02:54:08] (INFO) Found 1 catchable Pokemon
 [02:54:10] (Wild Success) | Pidgey 112 V |   10 Cp | 55.51% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[02:54:11] (INFO) Found 1 pokemon to transfer...
+[02:54:13] (TRANSFER) Pidgey 112 V |   10 Cp | 55.51% | Lvl 01 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 532
+[02:54:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[02:54:18] (POKESTOP) Ayer Rajah Food Centre &  Market in 181.16 m distance
+[02:54:18] (NAVIGATION) Distance to target location: 181.16 meters. Will take 19.76 seconds driving at 33kmh
+[02:54:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:54:38] (INFO) Found 5 Recyclable Items:
+[02:54:38] (RECYCLING) RazzBerry x 2
+[02:54:39] (RECYCLING) PokeBall x 5
+[02:54:40] (RECYCLING) Potion x 2
+[02:54:41] (RECYCLING) SuperPotion x 3
+[02:54:42] (RECYCLING) Revive x 1
+[02:54:45] (POKESTOP) The Fishman in 257.89 m distance
+[02:54:45] (NAVIGATION) Distance to target location: 257.89 meters. Will take 19.75 seconds driving at 47kmh
+[02:55:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[02:55:07] (POKESTOP) Huge Red Umbrella in 365.74 m distance
+[02:55:07] (NAVIGATION) Distance to target location: 365.74 meters. Will take 19.95 seconds driving at 66kmh
+[02:55:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:55:28] (POKESTOP) Clementi Stadium in 178.38 m distance
+[02:55:28] (NAVIGATION) Distance to target location: 178.38 meters. Will take 19.46 seconds driving at 33kmh
+[02:55:30] (INFO) Found 1 catchable Pokemon
+[02:55:32] (Wild Success) | Weedle 63 V |  166 Cp | 14.00% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
