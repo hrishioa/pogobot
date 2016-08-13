@@ -3227,3 +3227,8 @@
 [21:46:30] (Wild Success) | Dratini 137 V |  230 Cp | 63.83% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
 [21:46:33] (INFO) Found 1 catchable Pokemon
 [21:46:35] (Wild Success) | Bulbasaur 169 V |  302 Cp | 53.73% | Lvl 11 | Chance: 0.18 | with a GreatBall and received XP 210
+[21:46:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:46:38] (POKESTOP) Animal Fighting Ring in 39.05 m distance
+[21:46:38] (NAVIGATION) Distance to target location: 39.05 meters. Will take 4.85 seconds driving at 29kmh
+[21:46:40] (INFO) Found 1 catchable Pokemon
+[21:46:43] (Wild Success) | Goldeen 87 V |  245 Cp | 16.34% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
