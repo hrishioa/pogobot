@@ -17059,3 +17059,16 @@
 [05:38:01] (NAVIGATION) Distance to target location: 82.47 meters. Will take 10.6 seconds driving at 28kmh
 [05:38:06] (INFO) Found 1 catchable Pokemon
 [05:38:08] (Wild Success) | Weedle 76 V |   82 Cp | 12.79% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[05:38:10] (INFO) Found 1 pokemon to transfer...
+[05:38:11] (TRANSFER) Weedle 76 V |   82 Cp | 12.79% | Lvl 09 | Best: [Weedle 97 V |  201 Cp | 22.24% | Lvl 21] | Candy: 325
+[05:38:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall
+[05:38:16] (POKESTOP) Ayer Rajah Food Centre and Market in 122.7 m distance
+[05:38:16] (NAVIGATION) Distance to target location: 122.7 meters. Will take 13.8 seconds driving at 32kmh
+[05:38:27] (INFO) Found 1 catchable Pokemon
+[05:38:28] (Wild Escape) | Krabby 138 V |  302 Cp | 57.59% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[05:38:29] (Wild Success Attempt #2) | Krabby 138 V |  302 Cp | 57.59% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[05:38:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 3 x ItemPokeBall
+[05:38:32] (POKESTOP) Buddha Pagoda in 54.65 m distance
+[05:38:32] (NAVIGATION) Distance to target location: 54.65 meters. Will take 6.35 seconds driving at 31kmh
+[05:38:34] (INFO) Found 1 catchable Pokemon
+[05:38:36] (Wild Success) | Staryu 121 V |   37 Cp | 56.72% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
