@@ -8332,3 +8332,4 @@
 [00:45:49] (INFO) Found 3 catchable Pokemon
 [00:45:51] (Wild Success) | Zubat 152 V |  276 Cp | 78.62% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
 [00:45:53] (Wild Success) | Zubat 126 V |  311 Cp | 44.83% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[00:45:55] (Wild Success) | Zubat 109 V |   10 Cp | 42.99% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
