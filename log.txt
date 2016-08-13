@@ -1094,3 +1094,14 @@
 [20:37:41] (INFO) Found 2 catchable Pokemon
 [20:37:42] (Wild Success) | Psyduck 115 V |  147 Cp | 9.81% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [20:37:44] (Wild Success) | Caterpie 94 V |   78 Cp | 35.71% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[20:37:46] (INFO) Found 1 pokemon to transfer...
+[20:37:47] (TRANSFER) Psyduck 115 V |  147 Cp | 9.81% | Lvl 06 | Best: [Psyduck 133 V |  245 Cp | 37.01% | Lvl 09] | Candy: 18
+[20:37:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:37:49] (INFO) Found 3 Recyclable Items:
+[20:37:50] (RECYCLING) Revive x 2
+[20:37:51] (RECYCLING) PokeBall x 4
+[20:37:52] (RECYCLING) Potion x 1
+[20:37:55] (POKESTOP) The Grocer in 773.4 m distance
+[20:37:55] (NAVIGATION) Distance to target location: 773.4 meters. Will take 39.77 seconds driving at 70kmh
+[20:38:17] (INFO) Found 1 catchable Pokemon
+[20:38:18] (Wild Success) | Zubat 112 V |   77 Cp | 59.34% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
