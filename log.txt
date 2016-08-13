@@ -6090,3 +6090,10 @@
 [23:31:56] (NAVIGATION) Distance to target location: 88.39 meters. Will take 11.36 seconds driving at 28kmh
 [23:32:05] (INFO) Found 1 catchable Pokemon
 [23:32:06] (Wild Success) | Pidgey 99 V |   94 Cp | 39.82% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[23:32:08] (INFO) Found 1 pokemon to transfer...
+[23:32:09] (TRANSFER) Pidgey 99 V |   94 Cp | 39.82% | Lvl 06 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 214
+[23:32:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[23:32:12] (POKESTOP) Chinese Scholar Painting in 78.24 m distance
+[23:32:12] (NAVIGATION) Distance to target location: 78.24 meters. Will take 9.71 seconds driving at 29kmh
+[23:32:18] (INFO) Found 1 catchable Pokemon
+[23:32:20] (Wild Success) | Eevee 161 V |  287 Cp | 70.05% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
