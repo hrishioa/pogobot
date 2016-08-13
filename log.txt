@@ -21161,3 +21161,4 @@
 [07:51:01] (Wild Success) | Zubat 149 V |  291 Cp | 75.45% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
 [07:51:03] (BERRY) ItemRazzBerry used, remaining: 49
 [07:51:03] (Wild Success) | Golbat 171 V |  650 Cp | 45.95% | Lvl 13 | Chance: 0.16 | with a GreatBall and received XP 210
+[07:51:05] (Wild Success) | Ekans 94 V |   55 Cp | 61.38% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
