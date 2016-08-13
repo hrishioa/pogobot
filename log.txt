@@ -9941,3 +9941,27 @@
 [01:39:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [01:39:37] (INFO) Found 1 catchable Pokemon
 [01:39:38] (Wild Success) | Weedle 62 V |   75 Cp | 21.98% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[01:39:40] (INFO) Found 1 pokemon to transfer...
+[01:39:41] (TRANSFER) Weedle 62 V |   75 Cp | 21.98% | Lvl 08 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 124
+[01:39:42] (POKESTOP) Yong Siew Toh Conservatory of Music in 88.11 m distance
+[01:39:42] (NAVIGATION) Distance to target location: 88.11 meters. Will take 10.94 seconds driving at 29kmh
+[01:39:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[01:39:53] (POKESTOP) Proverb in a Corner in 71.71 m distance
+[01:39:53] (NAVIGATION) Distance to target location: 71.71 meters. Will take 9.22 seconds driving at 28kmh
+[01:40:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:40:01] (POKESTOP) Together Again in 75.26 m distance
+[01:40:01] (NAVIGATION) Distance to target location: 75.26 meters. Will take 9.68 seconds driving at 28kmh
+[01:40:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:40:10] (POKESTOP) Inverted Torsos in 84.6 m distance
+[01:40:10] (NAVIGATION) Distance to target location: 84.6 meters. Will take 10.88 seconds driving at 28kmh
+[01:40:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:40:20] (INFO) Found 2 Recyclable Items:
+[01:40:21] (RECYCLING) PokeBall x 4
+[01:40:22] (RECYCLING) Revive x 1
+[01:40:24] (POKESTOP) Earth Mural in 51.88 m distance
+[01:40:24] (NAVIGATION) Distance to target location: 51.88 meters. Will take 5.84 seconds driving at 32kmh
+[01:40:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemSuperPotion
+[01:40:31] (POKESTOP) University Cultural Center in 75.38 m distance
+[01:40:31] (NAVIGATION) Distance to target location: 75.38 meters. Will take 9.69 seconds driving at 28kmh
+[01:40:32] (INFO) Found 1 catchable Pokemon
+[01:40:34] (Wild Success) | Pidgey 104 V |  204 Cp | 28.93% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
