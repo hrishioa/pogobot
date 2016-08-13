@@ -10087,3 +10087,25 @@
 [01:45:29] (NAVIGATION) Distance to target location: 72.44 meters. Will take 8.69 seconds driving at 30kmh
 [01:45:30] (INFO) Found 1 catchable Pokemon
 [01:45:32] (Wild Success) | Poliwag 163 V |  255 Cp | 74.72% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:45:34] (INFO) Found 1 pokemon to transfer...
+[01:45:35] (TRANSFER) Poliwag 156 V |  170 Cp | 79.95% | Lvl 08 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 77
+[01:45:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:45:40] (POKESTOP) Mochtar Riady Building in 59.96 m distance
+[01:45:40] (NAVIGATION) Distance to target location: 59.96 meters. Will take 6.96 seconds driving at 31kmh
+[01:45:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:45:45] (INFO) Found 2 Recyclable Items:
+[01:45:47] (RECYCLING) RazzBerry x 1
+[01:45:47] (RECYCLING) PokeBall x 5
+[01:45:50] (POKESTOP) SeSaMe Center in 69.92 m distance
+[01:45:50] (NAVIGATION) Distance to target location: 69.92 meters. Will take 8.39 seconds driving at 30kmh
+[01:45:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:45:59] (POKESTOP) Kent Ridge Hall in 62.07 m distance
+[01:45:59] (NAVIGATION) Distance to target location: 62.07 meters. Will take 6.98 seconds driving at 32kmh
+[01:46:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 2 x ItemSuperPotion, 1 x ItemGreatBall
+[01:46:05] (POKESTOP) Benjamin Henry Sheares in 109.42 m distance
+[01:46:05] (NAVIGATION) Distance to target location: 109.42 meters. Will take 14.07 seconds driving at 28kmh
+[01:46:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:46:19] (POKESTOP) Institute of Systems Science in 132.33 m distance
+[01:46:19] (NAVIGATION) Distance to target location: 132.33 meters. Will take 16.43 seconds driving at 29kmh
+[01:46:23] (INFO) Found 1 catchable Pokemon
+[01:46:25] (Wild Success) | Pidgey 94 V |  197 Cp | 18.55% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
