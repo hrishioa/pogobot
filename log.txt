@@ -5427,3 +5427,39 @@
 [23:10:10] (NAVIGATION) Distance to target location: 92.27 meters. Will take 11.07 seconds driving at 30kmh
 [23:10:18] (INFO) Found 1 catchable Pokemon
 [23:10:20] (Wild Success) | NidoranFemale 99 V |  165 Cp | 30.72% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
+[23:10:21] (INFO) Found 1 pokemon to transfer...
+[23:10:24] (TRANSFER) NidoranFemale 97 V |  100 Cp | 38.49% | Lvl 05 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 18
+[23:10:25] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 5 x ItemPokeBall
+[23:10:25] (INFO) Found 2 Recyclable Items:
+[23:10:26] (RECYCLING) PokeBall x 15
+[23:10:27] (RECYCLING) Potion x 1
+[23:10:30] (POKESTOP) Root II by Min Chen in 61.07 m distance
+[23:10:30] (NAVIGATION) Distance to target location: 61.07 meters. Will take 6.87 seconds driving at 32kmh
+[23:10:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:10:37] (POKESTOP) Mosaic Mural at ITE in 68.34 m distance
+[23:10:37] (NAVIGATION) Distance to target location: 68.34 meters. Will take 7.94 seconds driving at 31kmh
+[23:10:44] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[23:10:45] (POKESTOP) SiT main building  in 59.48 m distance
+[23:10:45] (NAVIGATION) Distance to target location: 59.48 meters. Will take 7.65 seconds driving at 28kmh
+[23:10:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[23:10:52] (POKESTOP) Shark Mural in 88.78 m distance
+[23:10:52] (NAVIGATION) Distance to target location: 88.78 meters. Will take 11.02 seconds driving at 29kmh
+[23:11:01] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:11:02] (POKESTOP) Metal Workshop in 61.06 m distance
+[23:11:02] (NAVIGATION) Distance to target location: 61.06 meters. Will take 7.85 seconds driving at 28kmh
+[23:11:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:11:08] (INFO) Found 2 Recyclable Items:
+[23:11:10] (RECYCLING) PokeBall x 10
+[23:11:11] (RECYCLING) Potion x 2
+[23:11:13] (POKESTOP) Fab Lab 2 in 48.22 m distance
+[23:11:13] (NAVIGATION) Distance to target location: 48.22 meters. Will take 6.2 seconds driving at 28kmh
+[23:11:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:11:19] (POKESTOP) Shield Art in 108.37 m distance
+[23:11:19] (NAVIGATION) Distance to target location: 108.37 meters. Will take 13.45 seconds driving at 29kmh
+[23:11:32] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:11:33] (POKESTOP) Faculty of Dentistry in 400.49 m distance
+[23:11:33] (NAVIGATION) Distance to target location: 400.49 meters. Will take 20.6 seconds driving at 70kmh
+[23:11:52] (INFO) Found 3 catchable Pokemon
+[23:11:54] (Wild Escape) | Golbat 154 V |  193 Cp | 75.46% | Lvl 04 | Chance: 0.31 | with a GreatBall 
+[23:11:55] (Wild Success Attempt #2) | Golbat 154 V |  193 Cp | 75.46% | Lvl 04 | Chance: 0.31 | with a GreatBall 
+[23:11:56] (Wild Success) | Pidgey 111 V |   97 Cp | 50.69% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
