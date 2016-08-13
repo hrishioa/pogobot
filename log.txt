@@ -9735,3 +9735,9 @@
 [01:34:52] (RECYCLING) Revive x 2
 [01:34:53] (INFO) Found 1 catchable Pokemon
 [01:34:55] (Wild Success) | Rattata 133 V |  200 Cp | 52.72% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[01:34:57] (INFO) Found 1 pokemon to transfer...
+[01:34:59] (TRANSFER) Rattata 133 V |  200 Cp | 52.72% | Lvl 14 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 157
+[01:34:59] (POKESTOP) SUTD Blue Wall Mural in 35.85 m distance
+[01:34:59] (NAVIGATION) Distance to target location: 35.85 meters. Will take 4.16 seconds driving at 31kmh
+[01:35:01] (INFO) Found 1 catchable Pokemon
+[01:35:02] (Wild Success) | Pidgey 119 V |  318 Cp | 32.34% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
