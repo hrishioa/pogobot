@@ -12712,3 +12712,13 @@
 [03:07:02] (NAVIGATION) Distance to target location: 80.66 meters. Will take 10.37 seconds driving at 28kmh
 [03:07:08] (INFO) Found 1 catchable Pokemon
 [03:07:09] (Wild Success) | Rattata 137 V |  306 Cp | 44.20% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
+[03:07:12] (INFO) Found 1 pokemon to transfer...
+[03:07:13] (TRANSFER) Rattata 137 V |  306 Cp | 44.20% | Lvl 22 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 248
+[03:07:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[03:07:18] (POKESTOP) Mythical Creature Mural in 60.97 m distance
+[03:07:18] (NAVIGATION) Distance to target location: 60.97 meters. Will take 7.57 seconds driving at 29kmh
+[03:07:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[03:07:26] (POKESTOP) Tower Playground in 230.6 m distance
+[03:07:26] (NAVIGATION) Distance to target location: 230.6 meters. Will take 19.77 seconds driving at 42kmh
+[03:07:42] (INFO) Found 1 catchable Pokemon
+[03:07:43] (Wild Success) | Eevee 142 V |  163 Cp | 63.85% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
