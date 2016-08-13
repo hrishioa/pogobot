@@ -12496,3 +12496,14 @@
 [03:01:29] (Wild Success) | Rattata 123 V |   10 Cp | 57.37% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [03:01:31] (Wild Success) | Pidgey 63 V |   53 Cp | 7.58% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [03:01:32] (Wild Success) | Pidgey 103 V |  225 Cp | 35.62% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[03:01:34] (INFO) Found 3 pokemon to transfer...
+[03:01:35] (TRANSFER) Pidgey 103 V |  225 Cp | 35.62% | Lvl 14 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 547
+[03:01:38] (TRANSFER) Pidgey 63 V |   53 Cp | 7.58% | Lvl 04 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 548
+[03:01:40] (TRANSFER) Rattata 123 V |   10 Cp | 57.37% | Lvl 01 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 240
+[03:01:42] (INFO) Found 2 catchable Pokemon
+[03:01:42] (Wild Flee) | Rattata 132 V |  195 Cp | 44.79% | Lvl 14 | Chance: 0.4 | with a GreatBall 
+[03:01:44] (Wild Flee) | Bellsprout 110 V |   42 Cp | 38.66% | Lvl 02 | Chance: 1 | with a PokeBall 
+[03:01:49] (POKESTOP) Gantry Entrance in 82.88 m distance
+[03:01:49] (NAVIGATION) Distance to target location: 82.88 meters. Will take 9.95 seconds driving at 30kmh
+[03:01:55] (INFO) Found 1 catchable Pokemon
+[03:01:56] (Wild Success) | Pidgey 130 V |  139 Cp | 65.75% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
