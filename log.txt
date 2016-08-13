@@ -20650,3 +20650,21 @@
 [07:36:50] (INFO) Found 2 catchable Pokemon
 [07:36:51] (Wild Success) | Paras 128 V |  199 Cp | 38.21% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
 [07:36:53] (Wild Success) | Rattata 89 V |   10 Cp | 27.81% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[07:36:54] (INFO) Found 2 pokemon to transfer...
+[07:36:56] (TRANSFER) Rattata 89 V |   10 Cp | 27.81% | Lvl 01 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 577
+[07:36:58] (TRANSFER) Paras 128 V |  199 Cp | 38.21% | Lvl 09 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 99
+[07:37:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:37:03] (POKESTOP) Playground Between Block 709&712 in 49.34 m distance
+[07:37:03] (NAVIGATION) Distance to target location: 49.34 meters. Will take 6.12 seconds driving at 29kmh
+[07:37:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:37:09] (POKESTOP) Herbs Garden in 68.16 m distance
+[07:37:09] (NAVIGATION) Distance to target location: 68.16 meters. Will take 7.67 seconds driving at 32kmh
+[07:37:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[07:37:15] (INFO) Found 3 Recyclable Items:
+[07:37:16] (RECYCLING) RazzBerry x 2
+[07:37:17] (RECYCLING) PokeBall x 10
+[07:37:18] (RECYCLING) Revive x 1
+[07:37:21] (POKESTOP) West Coast Mural Art in 79.84 m distance
+[07:37:21] (NAVIGATION) Distance to target location: 79.84 meters. Will take 9.91 seconds driving at 29kmh
+[07:37:27] (INFO) Found 1 catchable Pokemon
+[07:37:28] (Wild Success) | Weedle 77 V |  230 Cp | 22.06% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
