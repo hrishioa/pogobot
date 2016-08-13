@@ -5686,3 +5686,4 @@
 [23:18:05] (NAVIGATION) Distance to target location: 160.8 meters. Will take 18.67 seconds driving at 31kmh
 [23:18:07] (INFO) Found 2 catchable Pokemon
 [23:18:08] (Wild Success) | Staryu 158 V |  255 Cp | 80.25% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[23:18:11] (Wild Success) | Spearow 93 V |  114 Cp | 44.59% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
