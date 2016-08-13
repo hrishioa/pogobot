@@ -2225,3 +2225,18 @@
 [21:17:19] (TRANSFER) Rattata 129 V |   22 Cp | 61.52% | Lvl 02 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 51
 [21:17:21] (INFO) Found 1 catchable Pokemon
 [21:17:22] (Wild Success) | Bellsprout 83 V |  131 Cp | 40.81% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[21:17:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[21:17:26] (INFO) Found 3 Recyclable Items:
+[21:17:27] (RECYCLING) RazzBerry x 3
+[21:17:28] (RECYCLING) PokeBall x 5
+[21:17:28] (RECYCLING) Potion x 2
+[21:17:31] (POKESTOP) Happy Children Mural in 84.02 m distance
+[21:17:31] (NAVIGATION) Distance to target location: 84.02 meters. Will take 9.45 seconds driving at 32kmh
+[21:17:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemRevive
+[21:17:41] (POKESTOP) Guardian Lion At Alexandra Village in 106.86 m distance
+[21:17:41] (NAVIGATION) Distance to target location: 106.86 meters. Will take 12.82 seconds driving at 30kmh
+[21:17:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:17:53] (POKESTOP) Butterfly Information Corner in 92.51 m distance
+[21:17:53] (NAVIGATION) Distance to target location: 92.51 meters. Will take 10.41 seconds driving at 32kmh
+[21:17:57] (INFO) Found 1 catchable Pokemon
+[21:17:59] (Wild Success) | Rattata 129 V |   10 Cp | 61.34% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
