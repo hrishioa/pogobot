@@ -9629,3 +9629,7 @@
 [01:29:45] (INFO) Found 1 catchable Pokemon
 [01:29:47] (BERRY) ItemRazzBerry used, remaining: 49
 [01:29:47] (Wild Success) | Squirtle 111 V |  362 Cp | 5.12% | Lvl 16 | Chance: 0.14 | with a UltraBall and received XP 210
+[01:29:49] (INFO) Found 1 pokemon to transfer...
+[01:29:51] (TRANSFER) Squirtle 111 V |  362 Cp | 5.12% | Lvl 16 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 22
+[01:29:52] (INFO) Found 1 catchable Pokemon
+[01:29:54] (Wild Success) | Squirtle 84 V |  186 Cp | 20.35% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
