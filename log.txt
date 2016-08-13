@@ -10373,3 +10373,10 @@
 [01:54:05] (NAVIGATION) Distance to target location: 87.4 meters. Will take 10.85 seconds driving at 29kmh
 [01:54:14] (INFO) Found 1 catchable Pokemon
 [01:54:15] (Wild Success) | Meowth 164 V |  356 Cp | 67.55% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[01:54:17] (INFO) Found 1 pokemon to transfer...
+[01:54:18] (TRANSFER) Meowth 140 V |  252 Cp | 60.02% | Lvl 13 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 14
+[01:54:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry
+[01:54:21] (POKESTOP) The Seagull Nebula in 98.56 m distance
+[01:54:21] (NAVIGATION) Distance to target location: 98.56 meters. Will take 12.67 seconds driving at 28kmh
+[01:54:27] (INFO) Found 2 catchable Pokemon
+[01:54:29] (Wild Success) | Zubat 115 V |  142 Cp | 50.68% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
