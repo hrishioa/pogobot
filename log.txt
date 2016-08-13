@@ -18597,3 +18597,27 @@
 [06:28:46] (NAVIGATION) Distance to target location: 80.2 meters. Will take 9.31 seconds driving at 31kmh
 [06:28:52] (INFO) Found 1 catchable Pokemon
 [06:28:54] (Wild Success) | Zubat 161 V |  349 Cp | 51.28% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:28:55] (INFO) Found 1 pokemon to transfer...
+[06:28:57] (TRANSFER) Zubat 151 V |  379 Cp | 63.32% | Lvl 23 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 546
+[06:29:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:29:00] (INFO) Found 3 Recyclable Items:
+[06:29:01] (RECYCLING) PokeBall x 9
+[06:29:02] (RECYCLING) Potion x 1
+[06:29:03] (RECYCLING) Revive x 1
+[06:29:07] (POKESTOP) Earth Mural in 61.21 m distance
+[06:29:07] (NAVIGATION) Distance to target location: 61.21 meters. Will take 7.35 seconds driving at 30kmh
+[06:29:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemPotion, 2 x ItemPokeBall
+[06:29:13] (POKESTOP) Inverted Torsos in 73.43 m distance
+[06:29:13] (NAVIGATION) Distance to target location: 73.43 meters. Will take 9.12 seconds driving at 29kmh
+[06:29:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[06:29:22] (POKESTOP) Frustration of a Loner on a Rock in 65.07 m distance
+[06:29:22] (NAVIGATION) Distance to target location: 65.07 meters. Will take 7.81 seconds driving at 30kmh
+[06:29:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:29:30] (POKESTOP) Together Again in 114.28 m distance
+[06:29:30] (NAVIGATION) Distance to target location: 114.28 meters. Will take 14.69 seconds driving at 28kmh
+[06:29:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:29:44] (POKESTOP) Proverb in a Corner in 90.13 m distance
+[06:29:44] (NAVIGATION) Distance to target location: 90.13 meters. Will take 10.47 seconds driving at 31kmh
+[06:29:46] (INFO) Found 1 catchable Pokemon
+[06:29:47] (BERRY) ItemRazzBerry used, remaining: 47
+[06:29:48] (Wild Success) | Krabby 176 V |  430 Cp | 80.53% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
