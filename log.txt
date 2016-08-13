@@ -9309,3 +9309,10 @@
 [01:18:59] (TRANSFER) Zubat 123 V |  154 Cp | 43.06% | Lvl 10 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 517
 [01:19:00] (INFO) Found 1 catchable Pokemon
 [01:19:01] (Wild Success) | Zubat 128 V |  110 Cp | 56.78% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[01:19:03] (INFO) Found 1 pokemon to transfer...
+[01:19:05] (TRANSFER) Zubat 128 V |  110 Cp | 56.78% | Lvl 07 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 521
+[01:19:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:19:08] (POKESTOP) The Well-Wishing Wishing Well in 79.35 m distance
+[01:19:08] (NAVIGATION) Distance to target location: 79.35 meters. Will take 9.85 seconds driving at 29kmh
+[01:19:15] (INFO) Found 2 catchable Pokemon
+[01:19:16] (Wild Success) | Pidgey 100 V |  141 Cp | 30.52% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
