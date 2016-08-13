@@ -5340,3 +5340,50 @@
 [23:05:55] (NAVIGATION) Distance to target location: 63.86 meters. Will take 8.21 seconds driving at 28kmh
 [23:05:57] (INFO) Found 1 catchable Pokemon
 [23:05:59] (Wild Success) | Poliwag 146 V |  271 Cp | 67.50% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
+[23:06:01] (INFO) Found 1 pokemon to transfer...
+[23:06:02] (TRANSFER) Poliwag 123 V |  136 Cp | 49.98% | Lvl 07 | Best: [Poliwag 146 V |  271 Cp | 67.50% | Lvl 13] | Candy: 29
+[23:06:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[23:06:06] (POKESTOP) Fractals - Metamorphosis in 768.44 m distance
+[23:06:06] (NAVIGATION) Distance to target location: 768.44 meters. Will take 39.52 seconds driving at 70kmh
+[23:06:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:06:48] (POKESTOP) A Visual Narrative Of Pandemonic Rhythmic Movement in 72.47 m distance
+[23:06:48] (NAVIGATION) Distance to target location: 72.47 meters. Will take 9.32 seconds driving at 28kmh
+[23:06:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:06:55] (INFO) Found 3 Recyclable Items:
+[23:06:56] (RECYCLING) RazzBerry x 2
+[23:06:57] (RECYCLING) PokeBall x 7
+[23:06:58] (RECYCLING) GreatBall x 2
+[23:07:00] (EGG) Hatched egg! Spearow             142 True Value |   49 Cp | 90.02% Perfect | Lvl 03 | Peck/AerialAce
+[23:07:01] (EGG) Added 2km egg to incubator
+[23:07:02] (POKESTOP) Paper Dinobot in 70.59 m distance
+[23:07:02] (NAVIGATION) Distance to target location: 70.59 meters. Will take 8.2 seconds driving at 31kmh
+[23:07:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:07:10] (POKESTOP) Sheltered Mural in 99.43 m distance
+[23:07:10] (NAVIGATION) Distance to target location: 99.43 meters. Will take 11.55 seconds driving at 31kmh
+[23:07:20] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:07:21] (POKESTOP) Frog on Lily in 167.31 m distance
+[23:07:21] (NAVIGATION) Distance to target location: 167.31 meters. Will take 19.43 seconds driving at 31kmh
+[23:07:39] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[23:07:41] (POKESTOP) Circle of Life Statue in 71.97 m distance
+[23:07:41] (NAVIGATION) Distance to target location: 71.97 meters. Will take 8.93 seconds driving at 29kmh
+[23:07:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[23:07:50] (POKESTOP) Education in 56.14 m distance
+[23:07:50] (NAVIGATION) Distance to target location: 56.14 meters. Will take 6.52 seconds driving at 31kmh
+[23:07:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall
+[23:07:56] (INFO) Found 2 Recyclable Items:
+[23:07:57] (RECYCLING) PokeBall x 16
+[23:07:58] (RECYCLING) GreatBall x 1
+[23:08:00] (POKESTOP) Ayer Rajah Industrial Estate in 83.56 m distance
+[23:08:00] (NAVIGATION) Distance to target location: 83.56 meters. Will take 10.37 seconds driving at 29kmh
+[23:08:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:08:11] (POKESTOP) Insead in 71.68 m distance
+[23:08:11] (NAVIGATION) Distance to target location: 71.68 meters. Will take 8.06 seconds driving at 32kmh
+[23:08:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 1, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:08:18] (POKESTOP) Aldersgate Chapel in 152.39 m distance
+[23:08:18] (NAVIGATION) Distance to target location: 152.39 meters. Will take 17.14 seconds driving at 32kmh
+[23:08:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 2 x ItemPotion
+[23:08:35] (POKESTOP) SUTD Monolith in 201.09 m distance
+[23:08:35] (NAVIGATION) Distance to target location: 201.09 meters. Will take 19.57 seconds driving at 37kmh
+[23:08:47] (INFO) Found 1 catchable Pokemon
+[23:08:48] (BERRY) ItemRazzBerry used, remaining: 50
+[23:08:49] (Wild Success) | Golbat 196 V |  728 Cp | 67.97% | Lvl 14 | Chance: 0.16 | with a GreatBall and received XP 420
