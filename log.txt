@@ -1758,3 +1758,11 @@
 [21:00:57] (Wild Success) | Magikarp 84 V |   77 Cp | 50.56% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
 [21:00:59] (Wild Success) | Goldeen 128 V |   39 Cp | 65.05% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [21:01:00] (Wild Success) | Poliwag 122 V |  134 Cp | 46.89% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:01:02] (INFO) Found 2 pokemon to transfer...
+[21:01:04] (TRANSFER) Poliwag 122 V |  225 Cp | 30.72% | Lvl 12 | Best: [Poliwag 147 V |  169 Cp | 78.21% | Lvl 08] | Candy: 22
+[21:01:06] (TRANSFER) Goldeen 128 V |   39 Cp | 65.05% | Lvl 02 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 38
+[21:01:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[21:01:09] (POKESTOP) From Swampland To Satellite Town in 236.23 m distance
+[21:01:09] (NAVIGATION) Distance to target location: 236.23 meters. Will take 19.78 seconds driving at 43kmh
+[21:01:13] (INFO) Found 1 catchable Pokemon
+[21:01:15] (Wild Success) | Spearow 110 V |  116 Cp | 50.58% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
