@@ -8425,3 +8425,4 @@
 [00:46:13] (NAVIGATION) Distance to target location: 432.16 meters. Will take 22.23 seconds driving at 70kmh
 [00:46:19] (INFO) Found 2 catchable Pokemon
 [00:46:21] (Wild Success) | NidoranFemale 75 V |  115 Cp | 13.93% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[00:46:22] (Wild Success) | Zubat 120 V |  214 Cp | 39.04% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
