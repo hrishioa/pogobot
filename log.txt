@@ -18954,3 +18954,30 @@
 [06:40:08] (TRANSFER) Magikarp 84 V |   94 Cp | 49.89% | Lvl 16 | Best: [Magikarp 107 V |   73 Cp | 74.82% | Lvl 11] | Candy: 146
 [06:40:10] (INFO) Found 1 catchable Pokemon
 [06:40:12] (Wild Success) | Psyduck 122 V |  404 Cp | 30.06% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[06:40:13] (INFO) Found 1 pokemon to transfer...
+[06:40:15] (TRANSFER) Psyduck 122 V |  404 Cp | 30.06% | Lvl 15 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 66
+[06:40:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemGreatBall, 1 x ItemPokeBall
+[06:40:20] (POKESTOP) Scientists College in 229.88 m distance
+[06:40:20] (NAVIGATION) Distance to target location: 229.88 meters. Will take 19.7 seconds driving at 42kmh
+[06:40:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:40:39] (POKESTOP) Church of the Holy Cross in 174.22 m distance
+[06:40:39] (NAVIGATION) Distance to target location: 174.22 meters. Will take 19.6 seconds driving at 32kmh
+[06:40:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:40:59] (INFO) Found 4 Recyclable Items:
+[06:41:00] (RECYCLING) RazzBerry x 2
+[06:41:00] (RECYCLING) PokeBall x 9
+[06:41:01] (RECYCLING) Potion x 1
+[06:41:03] (RECYCLING) Revive x 1
+[06:41:06] (POKESTOP) Fountain of The Virgin Mary in 92.6 m distance
+[06:41:06] (NAVIGATION) Distance to target location: 92.6 meters. Will take 11.49 seconds driving at 29kmh
+[06:41:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:41:17] (POKESTOP) ERC UTown Benefactors in 319.19 m distance
+[06:41:17] (NAVIGATION) Distance to target location: 319.19 meters. Will take 19.81 seconds driving at 58kmh
+[06:41:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:41:38] (POKESTOP) Swimming Pool @ Utown in 41.22 m distance
+[06:41:38] (NAVIGATION) Distance to target location: 41.22 meters. Will take 4.64 seconds driving at 32kmh
+[06:41:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:41:43] (POKESTOP) Education Resource Centre in 74.93 m distance
+[06:41:43] (NAVIGATION) Distance to target location: 74.93 meters. Will take 8.7 seconds driving at 31kmh
+[06:41:46] (INFO) Found 1 catchable Pokemon
+[06:41:47] (Wild Success) | Pidgey 92 V |  137 Cp | 22.87% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
