@@ -7922,3 +7922,19 @@
 [00:31:59] (NAVIGATION) Distance to target location: 114.45 meters. Will take 13.29 seconds driving at 31kmh
 [00:32:01] (INFO) Found 1 catchable Pokemon
 [00:32:02] (Wild Success) | Meowth 155 V |   74 Cp | 75.53% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[00:32:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[00:32:12] (POKESTOP) NUHS Tower Block in 62.47 m distance
+[00:32:12] (NAVIGATION) Distance to target location: 62.47 meters. Will take 7.26 seconds driving at 31kmh
+[00:32:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemGreatBall
+[00:32:18] (INFO) Found 4 Recyclable Items:
+[00:32:20] (RECYCLING) RazzBerry x 2
+[00:32:20] (RECYCLING) PokeBall x 9
+[00:32:22] (RECYCLING) Potion x 2
+[00:32:22] (RECYCLING) Revive x 2
+[00:32:25] (POKESTOP) Kent Ridge Heritage Trail Pgp Entrance  in 80.83 m distance
+[00:32:25] (NAVIGATION) Distance to target location: 80.83 meters. Will take 9.09 seconds driving at 32kmh
+[00:32:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:32:35] (POKESTOP) Pgp eCanteen in 144.03 m distance
+[00:32:35] (NAVIGATION) Distance to target location: 144.03 meters. Will take 17.88 seconds driving at 29kmh
+[00:32:45] (INFO) Found 1 catchable Pokemon
+[00:32:47] (Wild Success) | Weedle 98 V |   48 Cp | 38.47% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
