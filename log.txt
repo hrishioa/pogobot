@@ -8556,3 +8556,10 @@
 [00:51:58] (NAVIGATION) Distance to target location: 754.03 meters. Will take 38.78 seconds driving at 70kmh
 [00:52:34] (INFO) Found 1 catchable Pokemon
 [00:52:37] (Wild Success) | Zubat 130 V |  256 Cp | 54.20% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:52:38] (INFO) Found 1 pokemon to transfer...
+[00:52:40] (TRANSFER) Zubat 130 V |  256 Cp | 54.20% | Lvl 16 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 481
+[00:52:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:52:45] (POKESTOP) Cornflakes Man in 80.09 m distance
+[00:52:45] (NAVIGATION) Distance to target location: 80.09 meters. Will take 9.61 seconds driving at 30kmh
+[00:52:54] (INFO) Found 1 catchable Pokemon
+[00:52:55] (Wild Success) | Pidgey 92 V |   74 Cp | 29.58% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
