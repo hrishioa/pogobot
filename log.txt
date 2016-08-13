@@ -3551,3 +3551,13 @@
 [21:59:38] (NAVIGATION) Distance to target location: 96.11 meters. Will take 11.93 seconds driving at 29kmh
 [21:59:46] (INFO) Found 1 catchable Pokemon
 [21:59:47] (Wild Success) | Pidgey 96 V |  146 Cp | 41.32% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[21:59:49] (INFO) Found 1 pokemon to transfer...
+[21:59:50] (TRANSFER) Pidgey 96 V |  146 Cp | 41.32% | Lvl 09 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 168
+[21:59:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[21:59:55] (POKESTOP) Kent Ridge Heritage Trail in 196.1 m distance
+[21:59:55] (NAVIGATION) Distance to target location: 196.1 meters. Will take 19.61 seconds driving at 36kmh
+[22:00:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[22:00:14] (POKESTOP) Kent Ridge Park in 128.17 m distance
+[22:00:14] (NAVIGATION) Distance to target location: 128.17 meters. Will take 14.42 seconds driving at 32kmh
+[22:00:27] (INFO) Found 1 catchable Pokemon
+[22:00:28] (Wild Success) | NidoranFemale 97 V |  100 Cp | 38.49% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
