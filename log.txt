@@ -12464,3 +12464,18 @@
 [03:00:14] (NAVIGATION) Distance to target location: 97.44 meters. Will take 10.96 seconds driving at 32kmh
 [03:00:17] (INFO) Found 1 catchable Pokemon
 [03:00:19] (Wild Success) | Goldeen 111 V |   64 Cp | 57.62% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[03:00:20] (INFO) Found 1 pokemon to transfer...
+[03:00:22] (TRANSFER) Goldeen 111 V |   64 Cp | 57.62% | Lvl 03 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 130
+[03:00:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 2 x ItemRevive, 1 x ItemPotion
+[03:00:27] (POKESTOP) Lion Head Fountain in 76.54 m distance
+[03:00:27] (NAVIGATION) Distance to target location: 76.54 meters. Will take 8.89 seconds driving at 31kmh
+[03:00:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[03:00:34] (INFO) Found 4 Recyclable Items:
+[03:00:35] (RECYCLING) RazzBerry x 1
+[03:00:35] (RECYCLING) PokeBall x 5
+[03:00:36] (RECYCLING) Potion x 3
+[03:00:37] (RECYCLING) Revive x 3
+[03:00:41] (POKESTOP) Flag Gathering Area in 573.02 m distance
+[03:00:41] (NAVIGATION) Distance to target location: 573.02 meters. Will take 29.47 seconds driving at 70kmh
+[03:00:53] (INFO) Found 1 catchable Pokemon
+[03:00:55] (Wild Success) | Magikarp 103 V |  104 Cp | 68.45% | Lvl 16 | Chance: 0.52 | with a PokeBall and received XP 210
