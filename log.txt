@@ -19422,3 +19422,17 @@
 [06:56:28] (INFO) Found 2 catchable Pokemon
 [06:56:30] (Wild Success) | Rattata 161 V |  186 Cp | 77.34% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [06:56:32] (Wild Success) | Pidgey 83 V |   24 Cp | 25.82% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[06:56:33] (INFO) Found 2 pokemon to transfer...
+[06:56:35] (TRANSFER) Rattata 159 V |  241 Cp | 67.81% | Lvl 16 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 509
+[06:56:37] (TRANSFER) Pidgey 83 V |   24 Cp | 25.82% | Lvl 02 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 880
+[06:56:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[06:56:41] (POKESTOP) West Coast Market in 63.85 m distance
+[06:56:41] (NAVIGATION) Distance to target location: 63.85 meters. Will take 7.42 seconds driving at 31kmh
+[06:56:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[06:56:48] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 134.24 m distance
+[06:56:48] (NAVIGATION) Distance to target location: 134.24 meters. Will take 16.11 seconds driving at 30kmh
+[06:57:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:57:04] (POKESTOP) Wall Water Fountain in 55.37 m distance
+[06:57:04] (NAVIGATION) Distance to target location: 55.37 meters. Will take 6.23 seconds driving at 32kmh
+[06:57:06] (INFO) Found 1 catchable Pokemon
+[06:57:07] (Wild Success) | Rattata 117 V |   10 Cp | 49.05% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
