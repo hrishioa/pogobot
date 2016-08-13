@@ -11978,3 +11978,25 @@
 [02:43:15] (NAVIGATION) Distance to target location: 80.72 meters. Will take 9.08 seconds driving at 32kmh
 [02:43:16] (INFO) Found 1 catchable Pokemon
 [02:43:18] (Wild Success) | Venonat 138 V |  242 Cp | 63.73% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[02:43:20] (INFO) Found 1 pokemon to transfer...
+[02:43:21] (TRANSFER) Venonat 138 V |  242 Cp | 63.73% | Lvl 09 | Best: [Venonat 189 V |  582 Cp | 74.06% | Lvl 21] | Candy: 58
+[02:43:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[02:43:26] (POKESTOP) West Coast Park Sign in 74.27 m distance
+[02:43:26] (NAVIGATION) Distance to target location: 74.27 meters. Will take 9.55 seconds driving at 28kmh
+[02:43:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:43:35] (INFO) Found 4 Recyclable Items:
+[02:43:35] (RECYCLING) PokeBall x 4
+[02:43:36] (RECYCLING) Potion x 1
+[02:43:37] (RECYCLING) SuperPotion x 1
+[02:43:37] (RECYCLING) Revive x 1
+[02:43:41] (POKESTOP) West Coast Park Connector in 97.56 m distance
+[02:43:41] (NAVIGATION) Distance to target location: 97.56 meters. Will take 12.11 seconds driving at 29kmh
+[02:43:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemSuperPotion
+[02:43:53] (POKESTOP) Sun Moon Mural in 154.19 m distance
+[02:43:53] (NAVIGATION) Distance to target location: 154.19 meters. Will take 17.91 seconds driving at 31kmh
+[02:44:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:44:10] (POKESTOP) Gantry Entrance in 97.16 m distance
+[02:44:10] (NAVIGATION) Distance to target location: 97.16 meters. Will take 11.66 seconds driving at 30kmh
+[02:44:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:44:21] (INFO) Found 1 catchable Pokemon
+[02:44:22] (Wild Success) | Rattata 121 V |   10 Cp | 59.71% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
