@@ -19495,3 +19495,5 @@
 [06:59:18] (TRANSFER) Weedle 68 V |  152 Cp | 21.18% | Lvl 16 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 401
 [06:59:20] (INFO) Found 2 catchable Pokemon
 [06:59:21] (Wild Success) | Pidgey 107 V |  348 Cp | 17.30% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:59:23] (BERRY) ItemRazzBerry used, remaining: 49
+[06:59:23] (Wild Success) | Exeggcute 208 V |  616 Cp | 91.38% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
