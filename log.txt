@@ -18457,3 +18457,7 @@
 [06:25:50] (NAVIGATION) Distance to target location: 77.8 meters. Will take 9.66 seconds driving at 29kmh
 [06:25:54] (INFO) Found 1 catchable Pokemon
 [06:25:55] (Wild Success) | Rattata 135 V |  202 Cp | 54.60% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[06:25:57] (INFO) Found 1 pokemon to transfer...
+[06:25:59] (TRANSFER) Rattata 135 V |  202 Cp | 54.60% | Lvl 14 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 481
+[06:26:00] (INFO) Found 1 catchable Pokemon
+[06:26:02] (Wild Success) | Pidgey 103 V |   79 Cp | 50.09% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
