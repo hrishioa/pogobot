@@ -11418,3 +11418,34 @@
 [02:24:30] (NAVIGATION) Distance to target location: 87.88 meters. Will take 11.3 seconds driving at 28kmh
 [02:24:37] (INFO) Found 1 catchable Pokemon
 [02:24:38] (Wild Success) | Eevee 151 V |  201 Cp | 81.22% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 420
+[02:24:40] (INFO) Found 1 pokemon to transfer...
+[02:24:41] (TRANSFER) Eevee 151 V |  201 Cp | 81.22% | Lvl 07 | Best: [Eevee 181 V |  590 Cp | 59.89% | Lvl 21] | Candy: 62
+[02:24:44] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:24:45] (INFO) Found 2 Recyclable Items:
+[02:24:46] (RECYCLING) PokeBall x 4
+[02:24:46] (RECYCLING) Revive x 2
+[02:24:49] (POKESTOP) Synergy in Motion in 122.57 m distance
+[02:24:49] (NAVIGATION) Distance to target location: 122.57 meters. Will take 13.79 seconds driving at 32kmh
+[02:25:02] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemGreatBall
+[02:25:03] (POKESTOP) Sage In Shaw in 41.15 m distance
+[02:25:03] (NAVIGATION) Distance to target location: 41.15 meters. Will take 4.94 seconds driving at 30kmh
+[02:25:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:25:09] (POKESTOP) Biological Atom in 56.34 m distance
+[02:25:09] (NAVIGATION) Distance to target location: 56.34 meters. Will take 6.76 seconds driving at 30kmh
+[02:25:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:25:17] (POKESTOP) NUS Historial Plaques in 91.72 m distance
+[02:25:17] (NAVIGATION) Distance to target location: 91.72 meters. Will take 11.01 seconds driving at 30kmh
+[02:25:27] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:25:28] (POKESTOP) Tree of Benevolence in 74.25 m distance
+[02:25:28] (NAVIGATION) Distance to target location: 74.25 meters. Will take 8.35 seconds driving at 32kmh
+[02:25:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:25:35] (INFO) Found 2 Recyclable Items:
+[02:25:36] (RECYCLING) PokeBall x 4
+[02:25:36] (RECYCLING) Revive x 1
+[02:25:40] (POKESTOP) Mochtar Riady Building in 70.31 m distance
+[02:25:40] (NAVIGATION) Distance to target location: 70.31 meters. Will take 7.91 seconds driving at 32kmh
+[02:25:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[02:25:47] (POKESTOP) SeSaMe Center in 61.91 m distance
+[02:25:47] (NAVIGATION) Distance to target location: 61.91 meters. Will take 7.69 seconds driving at 29kmh
+[02:25:52] (INFO) Found 1 catchable Pokemon
+[02:25:54] (Wild Success) | Paras 127 V |   11 Cp | 56.49% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
