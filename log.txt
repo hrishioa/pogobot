@@ -6331,3 +6331,13 @@
 [23:39:24] (NAVIGATION) Distance to target location: 74.32 meters. Will take 8.92 seconds driving at 30kmh
 [23:39:27] (INFO) Found 1 catchable Pokemon
 [23:39:28] (Wild Success) | Zubat 125 V |  158 Cp | 49.41% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[23:39:30] (INFO) Found 1 pokemon to transfer...
+[23:39:31] (TRANSFER) Zubat 125 V |  158 Cp | 49.41% | Lvl 10 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 373
+[23:39:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:39:36] (POKESTOP) The Tarantula Nebula in 38.12 m distance
+[23:39:36] (NAVIGATION) Distance to target location: 38.12 meters. Will take 4.43 seconds driving at 31kmh
+[23:39:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[23:39:40] (POKESTOP) Raffles Museum in 86.99 m distance
+[23:39:40] (NAVIGATION) Distance to target location: 86.99 meters. Will take 9.79 seconds driving at 32kmh
+[23:39:48] (INFO) Found 1 catchable Pokemon
+[23:39:49] (Wild Success) | Sandshrew 109 V |   92 Cp | 43.06% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
