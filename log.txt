@@ -11818,3 +11818,8 @@
 [02:38:53] (NAVIGATION) Distance to target location: 1114.37 meters. Will take 57.31 seconds driving at 70kmh
 [02:39:01] (INFO) Found 1 catchable Pokemon
 [02:39:03] (Wild Success) | Magikarp 96 V |   23 Cp | 69.31% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
+[02:39:04] (INFO) Found 1 pokemon to transfer...
+[02:39:06] (TRANSFER) Magikarp 96 V |   23 Cp | 69.31% | Lvl 04 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 157
+[02:39:08] (INFO) Found 1 catchable Pokemon
+[02:39:08] (BERRY) ItemRazzBerry used, remaining: 49
+[02:39:10] (Wild Success) | Tentacool 142 V |  505 Cp | 52.65% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
