@@ -6619,3 +6619,10 @@
 [23:49:14] (INFO) Found 1 catchable Pokemon
 [23:49:15] (BERRY) ItemRazzBerry used, remaining: 51
 [23:49:16] (Wild Success) | Pinsir 175 V |  566 Cp | 58.10% | Lvl 10 | Chance: 0.28 | with a GreatBall and received XP 210
+[23:49:17] (INFO) Found 1 pokemon to transfer...
+[23:49:20] (TRANSFER) Pinsir 175 V |  566 Cp | 58.10% | Lvl 10 | Best: [Pinsir 211 V |  705 Cp | 81.05% | Lvl 12] | Candy: 18
+[23:49:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemHyperPotion
+[23:49:29] (POKESTOP) Dover Community Centre in 77.89 m distance
+[23:49:29] (NAVIGATION) Distance to target location: 77.89 meters. Will take 9.05 seconds driving at 31kmh
+[23:49:34] (INFO) Found 1 catchable Pokemon
+[23:49:35] (Wild Success) | Pidgey 101 V |  205 Cp | 30.67% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
