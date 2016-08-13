@@ -2266,3 +2266,4 @@
 [21:19:19] (INFO) Found 2 catchable Pokemon
 [21:19:20] (BERRY) ItemRazzBerry used, remaining: 49
 [21:19:21] (Wild Success) | Tangela 198 V |  570 Cp | 74.37% | Lvl 12 | Chance: 0.34 | with a GreatBall and received XP 210
+[21:19:23] (Wild Success) | Weedle 58 V |   45 Cp | 22.24% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
