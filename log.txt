@@ -5957,3 +5957,19 @@
 [23:25:32] (TRANSFER) Pidgey 89 V |  107 Cp | 27.57% | Lvl 07 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 198
 [23:26:00] (INFO) Found 1 catchable Pokemon
 [23:26:01] (Wild Success) | Zubat 144 V |  211 Cp | 57.73% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[23:26:03] (INFO) Found 1 pokemon to transfer...
+[23:26:04] (TRANSFER) Zubat 144 V |  211 Cp | 57.73% | Lvl 13 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 345
+[23:26:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[23:26:10] (POKESTOP) Tree of the Elements in 55.86 m distance
+[23:26:10] (NAVIGATION) Distance to target location: 55.86 meters. Will take 7.18 seconds driving at 28kmh
+[23:26:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:26:15] (INFO) Found 2 Recyclable Items:
+[23:26:17] (RECYCLING) PokeBall x 13
+[23:26:17] (RECYCLING) Revive x 1
+[23:26:20] (POKESTOP) The War And Peace Nebula in 59.46 m distance
+[23:26:20] (NAVIGATION) Distance to target location: 59.46 meters. Will take 6.9 seconds driving at 31kmh
+[23:26:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemHyperPotion
+[23:26:26] (POKESTOP) CMMAC in 111.24 m distance
+[23:26:26] (NAVIGATION) Distance to target location: 111.24 meters. Will take 12.51 seconds driving at 32kmh
+[23:26:28] (INFO) Found 1 catchable Pokemon
+[23:26:29] (Wild Success) | Zubat 139 V |  211 Cp | 58.46% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
