@@ -10419,3 +10419,21 @@
 [01:55:41] (NAVIGATION) Distance to target location: 61.77 meters. Will take 7.67 seconds driving at 29kmh
 [01:55:44] (INFO) Found 1 catchable Pokemon
 [01:55:45] (Wild Success) | Weedle 59 V |  112 Cp | 16.14% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:55:47] (INFO) Found 1 pokemon to transfer...
+[01:55:49] (TRANSFER) Weedle 59 V |  112 Cp | 16.14% | Lvl 12 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 136
+[01:55:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[01:55:53] (POKESTOP) NUS Sports and Recreation Centre in 78.71 m distance
+[01:55:53] (NAVIGATION) Distance to target location: 78.71 meters. Will take 9.45 seconds driving at 30kmh
+[01:56:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[01:56:03] (POKESTOP) Tree of Light Bulbs in 71.81 m distance
+[01:56:03] (NAVIGATION) Distance to target location: 71.81 meters. Will take 8.62 seconds driving at 30kmh
+[01:56:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:56:12] (INFO) Found 3 Recyclable Items:
+[01:56:12] (RECYCLING) RazzBerry x 1
+[01:56:13] (RECYCLING) PokeBall x 11
+[01:56:13] (RECYCLING) Revive x 1
+[01:56:17] (POKESTOP) Student Service Centre in 63.79 m distance
+[01:56:17] (NAVIGATION) Distance to target location: 63.79 meters. Will take 8.2 seconds driving at 28kmh
+[01:56:22] (INFO) Found 1 catchable Pokemon
+[01:56:23] (BERRY) ItemRazzBerry used, remaining: 49
+[01:56:24] (Wild Success) | Jigglypuff 140 V |  433 Cp | 32.28% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
