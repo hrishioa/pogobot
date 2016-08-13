@@ -8735,3 +8735,20 @@
 [00:58:08] (NAVIGATION) Distance to target location: 208.32 meters. Will take 19.74 seconds driving at 38kmh
 [00:58:20] (INFO) Found 1 catchable Pokemon
 [00:58:21] (Wild Success) | Kakuna 90 V |  211 Cp | 37.17% | Lvl 19 | Chance: 0.17 | with a GreatBall and received XP 210
+[00:58:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:58:28] (INFO) Found 2 Recyclable Items:
+[00:58:28] (RECYCLING) PokeBall x 7
+[00:58:29] (RECYCLING) SuperPotion x 2
+[00:58:31] (POKESTOP) Farm Animals Mural in 130.24 m distance
+[00:58:31] (NAVIGATION) Distance to target location: 130.24 meters. Will take 15.12 seconds driving at 31kmh
+[00:58:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion, 1 x ItemGreatBall
+[00:58:46] (POKESTOP) GIIS Mural in 165.56 m distance
+[00:58:46] (NAVIGATION) Distance to target location: 165.56 meters. Will take 19.23 seconds driving at 31kmh
+[00:59:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:59:06] (POKESTOP) Masjid Hang Jebat in 330.34 m distance
+[00:59:06] (NAVIGATION) Distance to target location: 330.34 meters. Will take 19.82 seconds driving at 60kmh
+[00:59:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:59:27] (POKESTOP) Heritage Tree - Rain Tree (Samanea Saman) in 226.72 m distance
+[00:59:27] (NAVIGATION) Distance to target location: 226.72 meters. Will take 19.91 seconds driving at 41kmh
+[00:59:33] (INFO) Found 2 catchable Pokemon
+[00:59:35] (Wild Success) | NidoranFemale 122 V |  100 Cp | 36.86% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
