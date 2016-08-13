@@ -2195,3 +2195,7 @@
 [21:16:11] (INFO) Found 2 catchable Pokemon
 [21:16:13] (Wild Success) | Magikarp 80 V |   75 Cp | 47.13% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
 [21:16:15] (Wild Success) | Spearow 139 V |  250 Cp | 67.47% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[21:16:16] (INFO) Found 1 pokemon to transfer...
+[21:16:18] (TRANSFER) Spearow 126 V |  224 Cp | 54.49% | Lvl 13 | Best: [Spearow 139 V |  250 Cp | 67.47% | Lvl 14] | Candy: 67
+[21:16:19] (INFO) Found 1 catchable Pokemon
+[21:16:21] (Wild Success) | Venonat 166 V |  330 Cp | 71.08% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
