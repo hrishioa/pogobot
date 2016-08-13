@@ -6637,3 +6637,24 @@
 [23:49:48] (NAVIGATION) Distance to target location: 64.42 meters. Will take 8 seconds driving at 29kmh
 [23:49:54] (INFO) Found 1 catchable Pokemon
 [23:49:56] (Wild Success) | Spearow 139 V |  211 Cp | 61.21% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:49:57] (INFO) Found 1 pokemon to transfer...
+[23:49:59] (TRANSFER) Spearow 139 V |  211 Cp | 61.21% | Lvl 12 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 107
+[23:50:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:50:01] (INFO) Found 4 Recyclable Items:
+[23:50:01] (RECYCLING) RazzBerry x 2
+[23:50:02] (RECYCLING) PokeBall x 7
+[23:50:03] (RECYCLING) Potion x 1
+[23:50:03] (RECYCLING) Revive x 1
+[23:50:07] (POKESTOP) Golden Penda 2010 in 65.22 m distance
+[23:50:07] (NAVIGATION) Distance to target location: 65.22 meters. Will take 8.1 seconds driving at 29kmh
+[23:50:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 3 x ItemPotion
+[23:50:15] (POKESTOP) Sheltered Court in 72.03 m distance
+[23:50:15] (NAVIGATION) Distance to target location: 72.03 meters. Will take 8.64 seconds driving at 30kmh
+[23:50:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:50:23] (POKESTOP) Dover Playground at Block 3 and 4 in 64.27 m distance
+[23:50:23] (NAVIGATION) Distance to target location: 64.27 meters. Will take 7.71 seconds driving at 30kmh
+[23:50:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:50:31] (POKESTOP) Cat Playground in 136.38 m distance
+[23:50:31] (NAVIGATION) Distance to target location: 136.38 meters. Will take 17.53 seconds driving at 28kmh
+[23:50:40] (INFO) Found 1 catchable Pokemon
+[23:50:42] (Wild Success) | Rattata 119 V |  265 Cp | 30.97% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
