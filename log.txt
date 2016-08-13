@@ -7789,3 +7789,8 @@
 [00:27:00] (NAVIGATION) Distance to target location: 721.52 meters. Will take 37.11 seconds driving at 70kmh
 [00:27:02] (INFO) Found 1 catchable Pokemon
 [00:27:04] (Wild Success) | Spearow 128 V |  139 Cp | 64.01% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:27:05] (INFO) Found 1 pokemon to transfer...
+[00:27:07] (TRANSFER) Spearow 128 V |  139 Cp | 64.01% | Lvl 08 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 135
+[00:27:08] (INFO) Found 2 catchable Pokemon
+[00:27:09] (BERRY) ItemRazzBerry used, remaining: 50
+[00:27:10] (Wild Success) | Bulbasaur 118 V |  417 Cp | 9.16% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
