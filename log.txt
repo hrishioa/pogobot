@@ -5936,3 +5936,14 @@
 [23:24:30] (NAVIGATION) Distance to target location: 203.33 meters. Will take 19.78 seconds driving at 37kmh
 [23:24:42] (INFO) Found 1 catchable Pokemon
 [23:24:44] (Wild Success) | Pidgeotto 124 V |  242 Cp | 40.36% | Lvl 08 | Chance: 0.26 | with a GreatBall and received XP 210
+[23:24:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:24:50] (POKESTOP) Yoda Pond in 82.19 m distance
+[23:24:50] (NAVIGATION) Distance to target location: 82.19 meters. Will take 10.57 seconds driving at 28kmh
+[23:24:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 5 x ItemPokeBall
+[23:25:01] (POKESTOP) Mini Water Fall in 63.09 m distance
+[23:25:01] (NAVIGATION) Distance to target location: 63.09 meters. Will take 8.11 seconds driving at 28kmh
+[23:25:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:25:08] (POKESTOP) M7 In Scorpius in 1078.96 m distance
+[23:25:08] (NAVIGATION) Distance to target location: 1078.96 meters. Will take 55.49 seconds driving at 70kmh
+[23:25:16] (INFO) Found 1 catchable Pokemon
+[23:25:18] (Wild Success) | Krabby 109 V |  316 Cp | 30.44% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
