@@ -674,3 +674,8 @@
 [20:23:44] (NAVIGATION) Distance to target location: 174.14 meters. Will take 19.59 seconds driving at 32kmh
 [20:23:57] (INFO) Found 1 catchable Pokemon
 [20:23:58] (Wild Success) | Spearow 111 V |  113 Cp | 43.22% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[20:24:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[20:24:04] (POKESTOP) Cornflakes Man in 78.52 m distance
+[20:24:04] (NAVIGATION) Distance to target location: 78.52 meters. Will take 10.1 seconds driving at 28kmh
+[20:24:10] (INFO) Found 3 catchable Pokemon
+[20:24:12] (Wild Success) | Venonat 134 V |   98 Cp | 61.85% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
