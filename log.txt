@@ -8311,3 +8311,19 @@
 [00:45:04] (INFO) Found 2 catchable Pokemon
 [00:45:06] (Wild Success) | Zubat 131 V |   10 Cp | 75.14% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [00:45:08] (Wild Success) | Pidgey 95 V |  198 Cp | 19.84% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[00:45:10] (INFO) Found 2 pokemon to transfer...
+[00:45:12] (TRANSFER) Zubat 131 V |   10 Cp | 75.14% | Lvl 01 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 441
+[00:45:13] (TRANSFER) Pidgey 95 V |  198 Cp | 19.84% | Lvl 13 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 317
+[00:45:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[00:45:18] (POKESTOP) Arena Of Mobility in 96.11 m distance
+[00:45:18] (NAVIGATION) Distance to target location: 96.11 meters. Will take 11.93 seconds driving at 29kmh
+[00:45:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry
+[00:45:29] (INFO) Found 4 Recyclable Items:
+[00:45:30] (RECYCLING) RazzBerry x 1
+[00:45:31] (RECYCLING) PokeBall x 8
+[00:45:32] (RECYCLING) Potion x 1
+[00:45:33] (RECYCLING) Revive x 2
+[00:45:36] (POKESTOP) Normanton Park in 322.81 m distance
+[00:45:36] (NAVIGATION) Distance to target location: 322.81 meters. Will take 19.7 seconds driving at 59kmh
+[00:45:42] (INFO) Found 1 catchable Pokemon
+[00:45:44] (Wild Success) | Zubat 123 V |  218 Cp | 45.80% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
