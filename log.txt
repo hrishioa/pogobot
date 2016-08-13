@@ -686,3 +686,9 @@
 [20:24:19] (INFO) Found 2 catchable Pokemon
 [20:24:21] (Wild Success) | Zubat 164 V |  152 Cp | 73.82% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [20:24:23] (Wild Success) | Krabby 108 V |   70 Cp | 41.74% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:24:25] (INFO) Found 2 pokemon to transfer...
+[20:24:26] (TRANSFER) Zubat 146 V |   94 Cp | 61.53% | Lvl 06 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 77
+[20:24:28] (TRANSFER) Krabby 108 V |   70 Cp | 41.74% | Lvl 04 | Best: [Krabby 121 V |   75 Cp | 66.16% | Lvl 04] | Candy: 14
+[20:24:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[20:24:31] (INFO) Found 1 catchable Pokemon
+[20:24:32] (Wild Success) | Spearow 97 V |  144 Cp | 33.10% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
