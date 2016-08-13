@@ -20564,3 +20564,15 @@
 [07:33:14] (INFO) Found 2 catchable Pokemon
 [07:33:16] (Wild Success) | Pidgey 128 V |  102 Cp | 68.00% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [07:33:17] (Wild Success) | Pidgey 102 V |   26 Cp | 59.21% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[07:33:19] (INFO) Found 2 pokemon to transfer...
+[07:33:21] (TRANSFER) Pidgey 128 V |  102 Cp | 68.00% | Lvl 06 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 934
+[07:33:23] (TRANSFER) Pidgey 102 V |   26 Cp | 59.21% | Lvl 02 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 935
+[07:33:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:33:27] (INFO) Found 5 Recyclable Items:
+[07:33:27] (RECYCLING) RazzBerry x 1
+[07:33:28] (RECYCLING) PokeBall x 6
+[07:33:29] (RECYCLING) Potion x 2
+[07:33:30] (RECYCLING) SuperPotion x 1
+[07:33:32] (RECYCLING) Revive x 3
+[07:33:33] (INFO) Found 1 catchable Pokemon
+[07:33:35] (Wild Success) | Rattata 133 V |  129 Cp | 55.00% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
