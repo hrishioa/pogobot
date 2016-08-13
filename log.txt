@@ -3781,3 +3781,28 @@
 [22:05:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
 [22:05:52] (INFO) Found 1 catchable Pokemon
 [22:05:55] (Wild Success) | Golbat 116 V |   78 Cp | 53.10% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
+[22:05:56] (INFO) Found 1 pokemon to transfer...
+[22:05:58] (TRANSFER) Golbat 116 V |   78 Cp | 53.10% | Lvl 02 | Best: [Golbat 172 V |  360 Cp | 75.74% | Lvl 07] | Candy: 266
+[22:05:58] (POKESTOP) The Angry Red Face in 55.65 m distance
+[22:05:58] (NAVIGATION) Distance to target location: 55.65 meters. Will take 6.46 seconds driving at 31kmh
+[22:06:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[22:06:04] (POKESTOP) Forgotten Shine in 189.81 m distance
+[22:06:04] (NAVIGATION) Distance to target location: 189.81 meters. Will take 19.52 seconds driving at 35kmh
+[22:06:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[22:06:24] (INFO) Found 3 Recyclable Items:
+[22:06:24] (RECYCLING) RazzBerry x 2
+[22:06:25] (RECYCLING) PokeBall x 7
+[22:06:26] (RECYCLING) Revive x 2
+[22:06:28] (POKESTOP) øˆ7uSbÇ† in 151.7 m distance
+[22:06:28] (NAVIGATION) Distance to target location: 151.7 meters. Will take 18.2 seconds driving at 30kmh
+[22:06:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[22:06:47] (POKESTOP) AS¿k»•… in 186.57 m distance
+[22:06:47] (NAVIGATION) Distance to target location: 186.57 meters. Will take 19.75 seconds driving at 34kmh
+[22:07:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion
+[22:07:07] (POKESTOP) Haw Par Villa Mrt in 166.82 m distance
+[22:07:07] (NAVIGATION) Distance to target location: 166.82 meters. Will take 19.37 seconds driving at 31kmh
+[22:07:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:07:27] (POKESTOP) Circle Line Art at HPV in 439.23 m distance
+[22:07:27] (NAVIGATION) Distance to target location: 439.23 meters. Will take 22.59 seconds driving at 70kmh
+[22:07:35] (INFO) Found 1 catchable Pokemon
+[22:07:37] (Wild Success) | Exeggcute 144 V |  225 Cp | 56.78% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
