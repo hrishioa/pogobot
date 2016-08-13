@@ -16918,3 +16918,25 @@
 [05:35:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
 [05:35:39] (INFO) Found 1 catchable Pokemon
 [05:35:41] (Wild Success) | Rattata 128 V |  258 Cp | 37.18% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 310
+[05:35:43] (INFO) Found 1 pokemon to transfer...
+[05:35:44] (TRANSFER) Rattata 128 V |  258 Cp | 37.18% | Lvl 19 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 389
+[05:35:45] (POKESTOP) West Coast Mural Art in 84.51 m distance
+[05:35:45] (NAVIGATION) Distance to target location: 84.51 meters. Will take 10.87 seconds driving at 28kmh
+[05:35:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[05:35:56] (POKESTOP) Cempaka 2004 in 90.82 m distance
+[05:35:56] (NAVIGATION) Distance to target location: 90.82 meters. Will take 10.9 seconds driving at 30kmh
+[05:36:00] (INFO) Found 1 catchable Pokemon
+[05:36:01] (BERRY) ItemRazzBerry used, remaining: 49
+[05:36:01] (Wild Flee) | Pidgeotto 153 V |  462 Cp | 41.81% | Lvl 15 | Chance: 0.19 | with a GreatBall 
+[05:36:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[05:36:07] (POKESTOP) West Coast Green Zone in 54.84 m distance
+[05:36:07] (NAVIGATION) Distance to target location: 54.84 meters. Will take 6.58 seconds driving at 30kmh
+[05:36:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:36:14] (POKESTOP) West Coast Road Sculpture in 47.99 m distance
+[05:36:14] (NAVIGATION) Distance to target location: 47.99 meters. Will take 6.17 seconds driving at 28kmh
+[05:36:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[05:36:20] (INFO) Found 2 Recyclable Items:
+[05:36:20] (RECYCLING) PokeBall x 10
+[05:36:21] (RECYCLING) Revive x 1
+[05:36:23] (INFO) Found 1 catchable Pokemon
+[05:36:25] (Wild Success) | Weedle 76 V |  148 Cp | 28.89% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
