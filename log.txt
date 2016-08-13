@@ -12422,3 +12422,4 @@
 [02:58:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [02:58:17] (INFO) Found 2 catchable Pokemon
 [02:58:19] (Wild Success) | Pidgey 99 V |  258 Cp | 18.20% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[02:58:20] (Wild Success) | Rattata 143 V |  149 Cp | 65.57% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
