@@ -17764,3 +17764,4 @@
 [06:03:12] (TRANSFER) Venonat 140 V |  128 Cp | 65.47% | Lvl 05 | Best: [Venonat 155 V |  353 Cp | 65.33% | Lvl 13] | Candy: 115
 [06:03:14] (INFO) Found 2 catchable Pokemon
 [06:03:16] (Wild Success) | Rattata 149 V |  275 Cp | 55.95% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[06:03:17] (Wild Success) | Pidgey 93 V |  197 Cp | 18.20% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
