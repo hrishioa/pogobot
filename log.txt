@@ -556,3 +556,14 @@
 [20:18:16] (NAVIGATION) Distance to target location: 74.85 meters. Will take 8.69 seconds driving at 31kmh
 [20:18:18] (INFO) Found 1 catchable Pokemon
 [20:18:19] (Wild Success) | Ekans 125 V |  180 Cp | 42.19% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:18:21] (INFO) Found 1 pokemon to transfer...
+[20:18:23] (TRANSFER) Ekans 116 V |   76 Cp | 56.24% | Lvl 04 | Best: [Ekans 143 V |  167 Cp | 59.48% | Lvl 08] | Candy: 26
+[20:18:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:18:26] (INFO) Found 3 Recyclable Items:
+[20:18:27] (RECYCLING) PokeBall x 14
+[20:18:28] (RECYCLING) Revive x 1
+[20:18:30] (RECYCLING) Potion x 1
+[20:18:32] (POKESTOP) Ram and Snake in 243.75 m distance
+[20:18:32] (NAVIGATION) Distance to target location: 243.75 meters. Will take 19.94 seconds driving at 44kmh
+[20:18:46] (INFO) Found 2 catchable Pokemon
+[20:18:48] (Wild Success) | Spearow 126 V |   10 Cp | 64.69% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
