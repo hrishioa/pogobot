@@ -1229,3 +1229,4 @@
 [20:44:27] (NAVIGATION) Distance to target location: 313.03 meters. Will take 19.77 seconds driving at 57kmh
 [20:44:36] (INFO) Found 2 catchable Pokemon
 [20:44:38] (Wild Success) | Mankey 141 V |  158 Cp | 67.79% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[20:44:39] (Wild Success) | Zubat 117 V |  176 Cp | 53.65% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
