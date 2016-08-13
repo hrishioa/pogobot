@@ -10437,3 +10437,12 @@
 [01:56:22] (INFO) Found 1 catchable Pokemon
 [01:56:23] (BERRY) ItemRazzBerry used, remaining: 49
 [01:56:24] (Wild Success) | Jigglypuff 140 V |  433 Cp | 32.28% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[01:56:26] (INFO) Found 1 pokemon to transfer...
+[01:56:27] (TRANSFER) Jigglypuff 116 V |  193 Cp | 31.71% | Lvl 09 | Best: [Jigglypuff 146 V |  350 Cp | 35.58% | Lvl 16] | Candy: 18
+[01:56:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[01:56:30] (POKESTOP) NUSSU Sign in 40.86 m distance
+[01:56:30] (NAVIGATION) Distance to target location: 40.86 meters. Will take 5.07 seconds driving at 29kmh
+[01:56:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[01:56:35] (INFO) Found 1 catchable Pokemon
+[01:56:36] (BERRY) ItemRazzBerry used, remaining: 48
+[01:56:37] (Wild Success) | Golbat 223 V |  800 Cp | 83.02% | Lvl 15 | Chance: 0.15 | with a GreatBall and received XP 210
