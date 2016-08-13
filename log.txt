@@ -934,3 +934,15 @@
 [20:32:33] (NAVIGATION) Distance to target location: 207.23 meters. Will take 19.63 seconds driving at 38kmh
 [20:32:50] (INFO) Found 1 catchable Pokemon
 [20:32:51] (Wild Success) | Eevee 129 V |  215 Cp | 46.90% | Lvl 08 | Chance: 0.42 | with a PokeBall and received XP 210
+[20:32:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:32:55] (INFO) Found 3 Recyclable Items:
+[20:32:56] (RECYCLING) Revive x 1
+[20:32:57] (RECYCLING) PokeBall x 5
+[20:32:57] (RECYCLING) Potion x 1
+[20:33:00] (POKESTOP) Kent Ridge Heritage Trail in 339.17 m distance
+[20:33:00] (NAVIGATION) Distance to target location: 339.17 meters. Will take 19.69 seconds driving at 62kmh
+[20:33:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[20:33:22] (POKESTOP) Singapore Science Park I in 795.87 m distance
+[20:33:22] (NAVIGATION) Distance to target location: 795.87 meters. Will take 40.93 seconds driving at 70kmh
+[20:33:39] (INFO) Found 1 catchable Pokemon
+[20:33:41] (Wild Success) | Tentacool 99 V |  176 Cp | 43.51% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 710
