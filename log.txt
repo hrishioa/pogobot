@@ -20521,3 +20521,11 @@
 [07:30:56] (INFO) Found 2 catchable Pokemon
 [07:30:58] (Wild Success) | Rattata 151 V |  167 Cp | 71.85% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [07:30:59] (Wild Success) | Spearow 143 V |  319 Cp | 64.15% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[07:31:01] (INFO) Found 2 pokemon to transfer...
+[07:31:03] (TRANSFER) Spearow 122 V |   65 Cp | 68.83% | Lvl 04 | Best: [Spearow 147 V |  311 Cp | 55.82% | Lvl 18] | Candy: 269
+[07:31:05] (TRANSFER) Rattata 151 V |  167 Cp | 71.85% | Lvl 11 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 561
+[07:31:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[07:31:09] (POKESTOP) Sun Moon Mural in 998.76 m distance
+[07:31:09] (NAVIGATION) Distance to target location: 998.76 meters. Will take 51.37 seconds driving at 70kmh
+[07:31:53] (INFO) Found 1 catchable Pokemon
+[07:31:55] (Wild Success) | Magikarp 106 V |  129 Cp | 67.96% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
