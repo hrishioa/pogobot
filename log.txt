@@ -19964,3 +19964,17 @@
 [07:13:15] (NAVIGATION) Distance to target location: 220.23 meters. Will take 19.82 seconds driving at 40kmh
 [07:13:32] (INFO) Found 1 catchable Pokemon
 [07:13:34] (Wild Success) | Rattata 134 V |  322 Cp | 34.50% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[07:13:36] (INFO) Found 1 pokemon to transfer...
+[07:13:37] (TRANSFER) Rattata 134 V |  322 Cp | 34.50% | Lvl 24 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 545
+[07:13:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[07:13:40] (ATTENTION) No locations in your area...
+[07:13:45] (INFO) Found 54 Pokestops
+[07:13:46] (POKESTOP) Playground at Block 714 in 49.6 m distance
+[07:13:46] (NAVIGATION) Distance to target location: 49.6 meters. Will take 6.16 seconds driving at 29kmh
+[07:13:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemGreatBall
+[07:13:51] (INFO) Found 3 Recyclable Items:
+[07:13:52] (RECYCLING) RazzBerry x 1
+[07:13:52] (RECYCLING) PokeBall x 8
+[07:13:53] (RECYCLING) Potion x 1
+[07:13:56] (INFO) Found 1 catchable Pokemon
+[07:13:58] (Wild Success) | Pidgey 96 V |   42 Cp | 41.98% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
