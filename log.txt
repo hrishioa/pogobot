@@ -19720,3 +19720,6 @@
 [07:06:28] (NAVIGATION) Distance to target location: 69.77 meters. Will take 8.37 seconds driving at 30kmh
 [07:06:33] (INFO) Found 3 catchable Pokemon
 [07:06:35] (Wild Success) | Weedle 138 V |  202 Cp | 62.54% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[07:06:36] (Wild Escape) | Rattata 130 V |  212 Cp | 48.88% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[07:06:37] (Wild Success Attempt #2) | Rattata 130 V |  212 Cp | 48.88% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[07:06:39] (Wild Success) | Rattata 124 V |  178 Cp | 40.69% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
