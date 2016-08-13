@@ -2917,3 +2917,10 @@
 [21:36:43] (NAVIGATION) Distance to target location: 119.41 meters. Will take 14.33 seconds driving at 30kmh
 [21:36:53] (INFO) Found 1 catchable Pokemon
 [21:36:54] (Wild Success) | Ekans 111 V |   97 Cp | 49.45% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[21:36:56] (INFO) Found 1 pokemon to transfer...
+[21:36:57] (TRANSFER) Ekans 111 V |   97 Cp | 49.45% | Lvl 05 | Best: [Ekans 143 V |  167 Cp | 59.48% | Lvl 08] | Candy: 50
+[21:37:01] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall, 2 x ItemPotion
+[21:37:03] (POKESTOP) Science Park 2 Pond in 256.89 m distance
+[21:37:03] (NAVIGATION) Distance to target location: 256.89 meters. Will take 19.68 seconds driving at 47kmh
+[21:37:21] (INFO) Found 1 catchable Pokemon
+[21:37:22] (Wild Success) | Magikarp 103 V |   24 Cp | 75.90% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
