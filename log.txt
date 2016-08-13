@@ -5952,3 +5952,8 @@
 [23:25:23] (INFO) Found 2 catchable Pokemon
 [23:25:24] (Wild Success) | Rattata 140 V |  116 Cp | 60.57% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [23:25:26] (Wild Success) | Pidgey 89 V |  107 Cp | 27.57% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:25:28] (INFO) Found 2 pokemon to transfer...
+[23:25:29] (TRANSFER) Rattata 138 V |  227 Cp | 49.97% | Lvl 16 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 97
+[23:25:32] (TRANSFER) Pidgey 89 V |  107 Cp | 27.57% | Lvl 07 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 198
+[23:26:00] (INFO) Found 1 catchable Pokemon
+[23:26:01] (Wild Success) | Zubat 144 V |  211 Cp | 57.73% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
