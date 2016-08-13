@@ -4316,3 +4316,10 @@
 [22:27:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
 [22:27:28] (INFO) Found 1 catchable Pokemon
 [22:27:30] (Wild Success) | Pidgey 90 V |  155 Cp | 24.46% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[22:27:32] (INFO) Found 1 pokemon to transfer...
+[22:27:33] (TRANSFER) Pidgey 90 V |  155 Cp | 24.46% | Lvl 10 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 180
+[22:27:34] (POKESTOP) Cornflakes Man in 88.37 m distance
+[22:27:34] (NAVIGATION) Distance to target location: 88.37 meters. Will take 10.6 seconds driving at 30kmh
+[22:27:43] (INFO) Found 5 catchable Pokemon
+[22:27:44] (BERRY) ItemRazzBerry used, remaining: 49
+[22:27:45] (Wild Success) | Electabuzz 238 V |  873 Cp | 76.11% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 710
