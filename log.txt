@@ -20600,3 +20600,16 @@
 [07:34:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
 [07:34:22] (INFO) Found 1 catchable Pokemon
 [07:34:24] (Wild Success) | Pidgey 142 V |  325 Cp | 55.46% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[07:34:25] (INFO) Found 1 pokemon to transfer...
+[07:34:27] (TRANSFER) Pidgey 136 V |  394 Cp | 42.06% | Lvl 24 | Best: [Pidgey 142 V |  325 Cp | 55.46% | Lvl 19] | Candy: 943
+[07:34:27] (POKESTOP) Campsite Area in 51.7 m distance
+[07:34:27] (NAVIGATION) Distance to target location: 51.7 meters. Will take 6.42 seconds driving at 29kmh
+[07:34:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:34:33] (INFO) Found 4 Recyclable Items:
+[07:34:33] (RECYCLING) RazzBerry x 1
+[07:34:34] (RECYCLING) PokeBall x 10
+[07:34:35] (RECYCLING) Potion x 2
+[07:34:36] (RECYCLING) Revive x 1
+[07:34:39] (INFO) Found 1 catchable Pokemon
+[07:34:40] (BERRY) ItemRazzBerry used, remaining: 49
+[07:34:41] (Wild Success) | Venonat 186 V |  590 Cp | 60.17% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
