@@ -8010,3 +8010,9 @@
 [00:35:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [00:35:19] (INFO) Found 1 catchable Pokemon
 [00:35:22] (Wild Success) | Spearow 124 V |  261 Cp | 58.38% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[00:35:23] (INFO) Found 1 pokemon to transfer...
+[00:35:25] (TRANSFER) Spearow 124 V |  261 Cp | 58.38% | Lvl 15 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 143
+[00:35:25] (POKESTOP) CMMAC in 110.04 m distance
+[00:35:25] (NAVIGATION) Distance to target location: 110.04 meters. Will take 14.15 seconds driving at 28kmh
+[00:35:34] (INFO) Found 1 catchable Pokemon
+[00:35:35] (Wild Success) | Paras 136 V |  134 Cp | 52.56% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
