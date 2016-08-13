@@ -6110,3 +6110,12 @@
 [23:32:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
 [23:32:39] (INFO) Found 1 catchable Pokemon
 [23:32:41] (Wild Success) | Spearow 158 V |  321 Cp | 66.33% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[23:32:42] (INFO) Found 1 pokemon to transfer...
+[23:32:44] (TRANSFER) Spearow 158 V |  321 Cp | 66.33% | Lvl 18 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 95
+[23:32:44] (POKESTOP) CRISP & TMSI in 103.94 m distance
+[23:32:44] (NAVIGATION) Distance to target location: 103.94 meters. Will take 11.69 seconds driving at 32kmh
+[23:32:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 4 x ItemPokeBall
+[23:32:56] (POKESTOP) Student Service Centre in 128.28 m distance
+[23:32:56] (NAVIGATION) Distance to target location: 128.28 meters. Will take 15.39 seconds driving at 30kmh
+[23:33:06] (INFO) Found 1 catchable Pokemon
+[23:33:07] (Wild Success) | Pidgey 87 V |  126 Cp | 34.23% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
