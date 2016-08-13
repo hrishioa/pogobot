@@ -17701,3 +17701,30 @@
 [06:00:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [06:00:51] (INFO) Found 1 catchable Pokemon
 [06:00:53] (Wild Success) | Weedle 104 V |  225 Cp | 27.22% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 310
+[06:00:55] (INFO) Found 1 pokemon to transfer...
+[06:00:57] (TRANSFER) Weedle 104 V |  225 Cp | 27.22% | Lvl 23 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 361
+[06:00:58] (POKESTOP) 4 Mega Zip Lines in 66.72 m distance
+[06:00:58] (NAVIGATION) Distance to target location: 66.72 meters. Will take 7.51 seconds driving at 32kmh
+[06:01:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:01:05] (POKESTOP) Red Fire Truck in 108.4 m distance
+[06:01:05] (NAVIGATION) Distance to target location: 108.4 meters. Will take 13.01 seconds driving at 30kmh
+[06:01:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:01:18] (POKESTOP) Blue Dragon Boat  in 51.99 m distance
+[06:01:18] (NAVIGATION) Distance to target location: 51.99 meters. Will take 6.45 seconds driving at 29kmh
+[06:01:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemPotion, 1 x ItemGreatBall
+[06:01:24] (POKESTOP) Campsite Area in 65.03 m distance
+[06:01:24] (NAVIGATION) Distance to target location: 65.03 meters. Will take 7.8 seconds driving at 30kmh
+[06:01:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[06:01:31] (INFO) Found 4 Recyclable Items:
+[06:01:32] (RECYCLING) PokeBall x 7
+[06:01:32] (RECYCLING) Potion x 1
+[06:01:34] (RECYCLING) SuperPotion x 2
+[06:01:35] (RECYCLING) Revive x 2
+[06:01:37] (POKESTOP) West Coast Park Amphitheatre in 105.32 m distance
+[06:01:37] (NAVIGATION) Distance to target location: 105.32 meters. Will take 12.23 seconds driving at 31kmh
+[06:01:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:01:49] (POKESTOP) Volleyball Arena in 190.25 m distance
+[06:01:49] (NAVIGATION) Distance to target location: 190.25 meters. Will take 19.57 seconds driving at 35kmh
+[06:01:51] (INFO) Found 1 catchable Pokemon
+[06:01:52] (BERRY) ItemRazzBerry used, remaining: 50
+[06:01:53] (Wild Success) | Bellsprout 132 V |  588 Cp | 44.22% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
