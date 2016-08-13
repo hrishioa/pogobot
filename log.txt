@@ -1489,3 +1489,14 @@
 [20:53:53] (NAVIGATION) Distance to target location: 124.29 meters. Will take 14.92 seconds driving at 30kmh
 [20:54:04] (INFO) Found 1 catchable Pokemon
 [20:54:05] (Wild Success) | Dodrio 145 V |  231 Cp | 62.37% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 210
+[20:54:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemGreatBall
+[20:54:11] (POKESTOP) Commonwealth Drive Badminton Court in 120.09 m distance
+[20:54:11] (NAVIGATION) Distance to target location: 120.09 meters. Will take 14.41 seconds driving at 30kmh
+[20:54:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:54:25] (POKESTOP) Commonwealth Park in 319.25 m distance
+[20:54:25] (NAVIGATION) Distance to target location: 319.25 meters. Will take 19.82 seconds driving at 58kmh
+[20:54:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:54:46] (POKESTOP) St Mary's Grotto at Blessed Sacrament in 84.37 m distance
+[20:54:46] (NAVIGATION) Distance to target location: 84.37 meters. Will take 10.85 seconds driving at 28kmh
+[20:54:51] (INFO) Found 1 catchable Pokemon
+[20:54:53] (Wild Success) | Caterpie 73 V |   72 Cp | 16.22% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
