@@ -12109,3 +12109,13 @@
 [02:48:33] (NAVIGATION) Distance to target location: 97.39 meters. Will take 10.96 seconds driving at 32kmh
 [02:48:39] (INFO) Found 1 catchable Pokemon
 [02:48:40] (Wild Success) | Pidgey 109 V |  251 Cp | 28.53% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
+[02:48:42] (INFO) Found 1 pokemon to transfer...
+[02:48:43] (TRANSFER) Pidgey 109 V |  251 Cp | 28.53% | Lvl 16 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 520
+[02:48:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[02:48:48] (POKESTOP) Happy Sunshine Mural in 63.85 m distance
+[02:48:48] (NAVIGATION) Distance to target location: 63.85 meters. Will take 8.21 seconds driving at 28kmh
+[02:48:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:48:57] (POKESTOP) Tower Playground in 109.2 m distance
+[02:48:57] (NAVIGATION) Distance to target location: 109.2 meters. Will take 12.29 seconds driving at 32kmh
+[02:49:06] (INFO) Found 1 catchable Pokemon
+[02:49:08] (Wild Success) | Pidgey 121 V |  116 Cp | 53.67% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
