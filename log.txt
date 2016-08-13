@@ -17147,3 +17147,7 @@
 [05:43:18] (TRANSFER) Rattata 110 V |   79 Cp | 40.02% | Lvl 06 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 397
 [05:43:19] (INFO) Found 1 catchable Pokemon
 [05:43:21] (Wild Success) | Weedle 65 V |  142 Cp | 18.93% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[05:43:22] (INFO) Found 1 pokemon to transfer...
+[05:43:24] (TRANSFER) Weedle 65 V |  142 Cp | 18.93% | Lvl 15 | Best: [Weedle 97 V |  201 Cp | 22.24% | Lvl 21] | Candy: 333
+[05:43:25] (INFO) Found 2 catchable Pokemon
+[05:43:27] (Wild Success) | Pidgey 109 V |  207 Cp | 32.71% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
