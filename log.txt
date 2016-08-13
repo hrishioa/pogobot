@@ -861,3 +861,12 @@
 [20:29:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPotion, 1 x ItemRazzBerry
 [20:29:13] (INFO) Found 1 catchable Pokemon
 [20:29:15] (Wild Success) | Magikarp 125 V |   34 Cp | 96.64% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
+[20:29:16] (INFO) Found 1 pokemon to transfer...
+[20:29:18] (TRANSFER) Magikarp 125 V |   34 Cp | 96.64% | Lvl 05 | Best: [NONE] | Candy: 8
+[20:29:19] (POKESTOP) Pavillion Hiltop in 155.15 m distance
+[20:29:19] (NAVIGATION) Distance to target location: 155.15 meters. Will take 19.95 seconds driving at 28kmh
+[20:29:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[20:29:38] (POKESTOP) Kent Ridge Park Nature Trail in 127.09 m distance
+[20:29:38] (NAVIGATION) Distance to target location: 127.09 meters. Will take 14.3 seconds driving at 32kmh
+[20:29:40] (INFO) Found 2 catchable Pokemon
+[20:29:41] (Wild Success) | Golbat 106 V |   24 Cp | 49.39% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 210
