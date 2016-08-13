@@ -7869,3 +7869,4 @@
 [00:30:16] (Wild Success) | Weedle 95 V |  182 Cp | 21.71% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
 [00:30:17] (Wild Success) | Spearow 125 V |  224 Cp | 55.57% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [00:30:19] (Wild Success) | Pidgey 91 V |   91 Cp | 31.92% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[00:30:20] (Wild Success) | Caterpie 93 V |   37 Cp | 38.92% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
