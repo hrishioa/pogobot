@@ -4155,3 +4155,13 @@
 [22:22:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
 [22:22:14] (INFO) Found 1 catchable Pokemon
 [22:22:15] (Wild Success) | Weedle 109 V |   61 Cp | 47.69% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[22:22:17] (INFO) Found 1 pokemon to transfer...
+[22:22:19] (TRANSFER) Weedle 109 V |   61 Cp | 47.69% | Lvl 06 | Best: [Weedle 121 V |   87 Cp | 57.43% | Lvl 08] | Candy: 90
+[22:22:20] (POKESTOP) Pavilion in Kent Ridge Park in 59.16 m distance
+[22:22:20] (NAVIGATION) Distance to target location: 59.16 meters. Will take 7.34 seconds driving at 29kmh
+[22:22:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:22:27] (POKESTOP) Kent Ridge Park Nature Trail in 186.12 m distance
+[22:22:27] (NAVIGATION) Distance to target location: 186.12 meters. Will take 19.71 seconds driving at 34kmh
+[22:22:28] (INFO) Found 1 catchable Pokemon
+[22:22:30] (BERRY) ItemRazzBerry used, remaining: 49
+[22:22:30] (Wild Success) | Jynx 157 V |  535 Cp | 47.85% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 210
