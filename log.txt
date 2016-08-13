@@ -12958,3 +12958,12 @@
 [03:13:39] (RECYCLING) Revive x 3
 [03:13:43] (INFO) Found 1 catchable Pokemon
 [03:13:44] (Wild Success) | Pidgey 88 V |  280 Cp | 10.31% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[03:13:45] (INFO) Found 1 pokemon to transfer...
+[03:13:47] (TRANSFER) Pidgey 88 V |  280 Cp | 10.31% | Lvl 19 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 572
+[03:13:48] (POKESTOP) Three Portals Make A Field in 70.06 m distance
+[03:13:48] (NAVIGATION) Distance to target location: 70.06 meters. Will take 8.14 seconds driving at 31kmh
+[03:13:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[03:13:56] (POKESTOP) West Coast Fitness Corner in 89.1 m distance
+[03:13:56] (NAVIGATION) Distance to target location: 89.1 meters. Will take 11.06 seconds driving at 29kmh
+[03:13:58] (INFO) Found 1 catchable Pokemon
+[03:13:59] (Wild Success) | Pidgey 89 V |  123 Cp | 26.74% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
