@@ -5330,3 +5330,13 @@
 [23:05:36] (NAVIGATION) Distance to target location: 73.72 meters. Will take 8.56 seconds driving at 31kmh
 [23:05:42] (INFO) Found 1 catchable Pokemon
 [23:05:44] (Wild Success) | Staryu 132 V |  256 Cp | 46.02% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
+[23:05:46] (INFO) Found 1 pokemon to transfer...
+[23:05:47] (TRANSFER) Staryu 132 V |  256 Cp | 46.02% | Lvl 11 | Best: [Staryu 152 V |  123 Cp | 90.20% | Lvl 05] | Candy: 46
+[23:05:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[23:05:51] (POKESTOP) Centros in 38.99 m distance
+[23:05:51] (NAVIGATION) Distance to target location: 38.99 meters. Will take 5.01 seconds driving at 28kmh
+[23:05:54] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 2 x ItemRazzBerry
+[23:05:55] (POKESTOP) Sojourner in 63.86 m distance
+[23:05:55] (NAVIGATION) Distance to target location: 63.86 meters. Will take 8.21 seconds driving at 28kmh
+[23:05:57] (INFO) Found 1 catchable Pokemon
+[23:05:59] (Wild Success) | Poliwag 146 V |  271 Cp | 67.50% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
