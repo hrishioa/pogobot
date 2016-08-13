@@ -18825,3 +18825,8 @@
 [06:38:25] (TRANSFER) Weedle 100 V |  230 Cp | 22.13% | Lvl 24 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 385
 [06:38:26] (INFO) Found 1 catchable Pokemon
 [06:38:28] (Wild Success) | NidoranMale 114 V |  253 Cp | 49.74% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[06:38:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 2 x ItemPokeBall
+[06:38:32] (POKESTOP) The Right Horn Sculpture in 130.71 m distance
+[06:38:32] (NAVIGATION) Distance to target location: 130.71 meters. Will take 16.23 seconds driving at 29kmh
+[06:38:40] (INFO) Found 1 catchable Pokemon
+[06:38:42] (Wild Success) | Pidgey 82 V |   57 Cp | 26.40% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
