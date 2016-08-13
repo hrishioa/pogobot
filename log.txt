@@ -19978,3 +19978,19 @@
 [07:13:53] (RECYCLING) Potion x 1
 [07:13:56] (INFO) Found 1 catchable Pokemon
 [07:13:58] (Wild Success) | Pidgey 96 V |   42 Cp | 41.98% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[07:13:59] (INFO) Found 1 pokemon to transfer...
+[07:14:01] (TRANSFER) Pidgey 96 V |   42 Cp | 41.98% | Lvl 03 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 892
+[07:14:01] (POKESTOP) The Mermaid Mural in 33.01 m distance
+[07:14:01] (NAVIGATION) Distance to target location: 33.01 meters. Will take 4.24 seconds driving at 28kmh
+[07:14:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:14:06] (POKESTOP) Three Portals Make A Field in 169.4 m distance
+[07:14:06] (NAVIGATION) Distance to target location: 169.4 meters. Will take 19.06 seconds driving at 32kmh
+[07:14:10] (INFO) Found 1 catchable Pokemon
+[07:14:11] (BERRY) ItemRazzBerry used, remaining: 50
+[07:14:11] (Wild Escape) | Pidgey 119 V |  360 Cp | 27.72% | Lvl 23 | Chance: 0.31 | with a UltraBall 
+[07:14:12] (BERRY) ItemRazzBerry used, remaining: 49
+[07:14:12] (Wild Success Attempt #2) | Pidgey 119 V |  360 Cp | 27.72% | Lvl 23 | Chance: 0.31 | with a UltraBall 
+[07:14:14] (INFO) Found 1 pokemon to transfer...
+[07:14:16] (TRANSFER) Pidgey 119 V |  360 Cp | 27.72% | Lvl 23 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 896
+[07:14:18] (INFO) Found 2 catchable Pokemon
+[07:14:19] (Wild Success) | Weedle 57 V |  154 Cp | 10.38% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
