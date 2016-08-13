@@ -21315,3 +21315,8 @@
 [07:57:02] (INFO) Found 2 catchable Pokemon
 [07:57:04] (Wild Success) | Zubat 102 V |   73 Cp | 44.78% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [07:57:06] (Wild Success) | Zubat 125 V |   93 Cp | 55.70% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[07:57:07] (INFO) Found 2 pokemon to transfer...
+[07:57:09] (TRANSFER) Zubat 125 V |   93 Cp | 55.70% | Lvl 06 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 649
+[07:57:11] (TRANSFER) Zubat 102 V |   73 Cp | 44.78% | Lvl 05 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 650
+[07:57:12] (INFO) Found 1 catchable Pokemon
+[07:57:14] (Wild Success) | Zubat 163 V |  335 Cp | 68.65% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
