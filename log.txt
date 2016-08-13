@@ -1742,3 +1742,17 @@
 [21:00:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemRazzBerry
 [21:00:16] (INFO) Found 1 catchable Pokemon
 [21:00:18] (Wild Success) | Exeggcute 149 V |  344 Cp | 59.62% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[21:00:20] (POKESTOP) Stirling Road Swimming Mural in 101.07 m distance
+[21:00:20] (NAVIGATION) Distance to target location: 101.07 meters. Will take 11.37 seconds driving at 32kmh
+[21:00:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:00:30] (INFO) Found 3 Recyclable Items:
+[21:00:31] (RECYCLING) Revive x 1
+[21:00:32] (RECYCLING) PokeBall x 8
+[21:00:32] (RECYCLING) Potion x 2
+[21:00:36] (POKESTOP) Queenstown Sports Complex in 64.34 m distance
+[21:00:36] (NAVIGATION) Distance to target location: 64.34 meters. Will take 7.72 seconds driving at 30kmh
+[21:00:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:00:44] (POKESTOP) Carpentaria Acuminata in 150.88 m distance
+[21:00:44] (NAVIGATION) Distance to target location: 150.88 meters. Will take 18.73 seconds driving at 29kmh
+[21:00:55] (INFO) Found 3 catchable Pokemon
+[21:00:57] (Wild Success) | Magikarp 84 V |   77 Cp | 50.56% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
