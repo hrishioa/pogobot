@@ -7803,3 +7803,8 @@
 [00:27:32] (INFO) Found 2 catchable Pokemon
 [00:27:33] (Wild Success) | Goldeen 167 V |  474 Cp | 58.47% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
 [00:27:36] (Wild Success) | Dodrio 111 V |   73 Cp | 39.48% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
+[00:27:37] (INFO) Found 2 pokemon to transfer...
+[00:27:39] (TRANSFER) Goldeen 167 V |  474 Cp | 58.47% | Lvl 19 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 110
+[00:27:41] (TRANSFER) Dodrio 111 V |   73 Cp | 39.48% | Lvl 02 | Best: [Dodrio 215 V |  742 Cp | 66.22% | Lvl 15] | Candy: 33
+[00:27:42] (INFO) Found 1 catchable Pokemon
+[00:27:44] (Wild Success) | Staryu 152 V |  434 Cp | 59.32% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
