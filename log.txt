@@ -5737,3 +5737,10 @@
 [23:20:00] (TRANSFER) Zubat 136 V |  280 Cp | 63.34% | Lvl 17 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 329
 [23:20:03] (INFO) Found 1 catchable Pokemon
 [23:20:04] (Wild Success) | Rattata 93 V |   10 Cp | 32.07% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:20:06] (INFO) Found 1 pokemon to transfer...
+[23:20:07] (TRANSFER) Rattata 93 V |   10 Cp | 32.07% | Lvl 01 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 93
+[23:20:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 2 x ItemPotion
+[23:20:12] (POKESTOP) I Carry Your Heart in 108.11 m distance
+[23:20:12] (NAVIGATION) Distance to target location: 108.11 meters. Will take 12.56 seconds driving at 31kmh
+[23:20:23] (INFO) Found 1 catchable Pokemon
+[23:20:24] (Wild Success) | Krabby 112 V |  133 Cp | 47.38% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
