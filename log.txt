@@ -10247,3 +10247,4 @@
 [01:48:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall, 1 x ItemGreatBall
 [01:48:58] (INFO) Found 2 catchable Pokemon
 [01:49:00] (Wild Success) | Spearow 140 V |  193 Cp | 61.42% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:49:01] (Wild Success) | Pidgey 116 V |  256 Cp | 35.02% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
