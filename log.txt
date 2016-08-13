@@ -5116,3 +5116,10 @@
 [23:00:08] (NAVIGATION) Distance to target location: 109.85 meters. Will take 12.76 seconds driving at 31kmh
 [23:00:16] (INFO) Found 1 catchable Pokemon
 [23:00:18] (Wild Success) | Poliwag 139 V |  217 Cp | 48.18% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
+[23:00:19] (INFO) Found 1 pokemon to transfer...
+[23:00:21] (TRANSFER) Poliwag 123 V |  344 Cp | 36.97% | Lvl 18 | Best: [Poliwag 139 V |  217 Cp | 48.18% | Lvl 11] | Candy: 25
+[23:00:24] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:00:25] (POKESTOP) Flower Mural in 46.76 m distance
+[23:00:25] (NAVIGATION) Distance to target location: 46.76 meters. Will take 6.01 seconds driving at 28kmh
+[23:00:28] (INFO) Found 1 catchable Pokemon
+[23:00:30] (Wild Success) | Pidgey 123 V |  262 Cp | 42.30% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
