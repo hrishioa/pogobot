@@ -19102,3 +19102,22 @@
 [06:47:10] (RECYCLING) Revive x 1
 [06:47:13] (INFO) Found 1 catchable Pokemon
 [06:47:15] (Wild Success) | Pidgey 110 V |   82 Cp | 61.98% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[06:47:16] (INFO) Found 1 pokemon to transfer...
+[06:47:18] (TRANSFER) Pidgey 110 V |   82 Cp | 61.98% | Lvl 05 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 860
+[06:47:18] (POKESTOP) Campsite Area in 66.12 m distance
+[06:47:18] (NAVIGATION) Distance to target location: 66.12 meters. Will take 8.21 seconds driving at 29kmh
+[06:47:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:47:26] (POKESTOP) West Coast Park Amphitheatre in 104.04 m distance
+[06:47:26] (NAVIGATION) Distance to target location: 104.04 meters. Will take 11.7 seconds driving at 32kmh
+[06:47:45] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[06:47:45] (ATTENTION) Restarting the application due to error...
+[06:47:45] (INFO) Logging in via: Google
+[06:47:46] (INFO) Client logged in
+[06:47:46] (INFO) Found 20 Pokestops
+[06:47:47] (POKESTOP) West Coast Park Amphitheatre in 24.78 m distance
+[06:47:47] (NAVIGATION) Distance to target location: 24.78 meters. Will take 2.97 seconds driving at 30kmh
+[06:47:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:47:50] (POKESTOP) Chilling Area in 257.78 m distance
+[06:47:50] (NAVIGATION) Distance to target location: 257.78 meters. Will take 19.75 seconds driving at 47kmh
+[06:48:06] (INFO) Found 1 catchable Pokemon
+[06:48:07] (Wild Success) | Rattata 128 V |   68 Cp | 55.77% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
