@@ -17051,3 +17051,6 @@
 [05:37:47] (INFO) Found 1 catchable Pokemon
 [05:37:48] (BERRY) ItemRazzBerry used, remaining: 49
 [05:37:50] (Wild Success) | Exeggcute 194 V |  677 Cp | 70.95% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[05:37:53] (INFO) Found 1 catchable Pokemon
+[05:37:54] (BERRY) ItemRazzBerry used, remaining: 48
+[05:37:55] (Wild Success) | Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
