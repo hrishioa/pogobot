@@ -796,3 +796,15 @@
 [20:25:24] (Wild Success) | Psyduck 103 V |  179 Cp | 19.51% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [20:25:25] (Wild Success) | Slowpoke 131 V |  241 Cp | 41.64% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [20:25:27] (Wild Success) | Goldeen 172 V |  238 Cp | 85.71% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:25:28] (INFO) Found 1 pokemon to transfer...
+[20:25:30] (TRANSFER) Psyduck 103 V |  179 Cp | 19.51% | Lvl 07 | Best: [Psyduck 117 V |  100 Cp | 37.49% | Lvl 04] | Candy: 10
+[20:25:38] (POKESTOP) Beacon of Hope in 97.94 m distance
+[20:25:38] (NAVIGATION) Distance to target location: 97.94 meters. Will take 11.37 seconds driving at 31kmh
+[20:25:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[20:25:50] (POKESTOP) Beautiful Waterfall in 96.08 m distance
+[20:25:50] (NAVIGATION) Distance to target location: 96.08 meters. Will take 11.93 seconds driving at 29kmh
+[20:26:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[20:26:01] (POKESTOP) Benjamin Henry Sheares in 226.15 m distance
+[20:26:01] (NAVIGATION) Distance to target location: 226.15 meters. Will take 19.86 seconds driving at 41kmh
+[20:26:13] (INFO) Found 2 catchable Pokemon
+[20:26:15] (Wild Success) | Growlithe 149 V |  200 Cp | 53.97% | Lvl 06 | Chance: 0.37 | with a PokeBall and received XP 210
