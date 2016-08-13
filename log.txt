@@ -16882,3 +16882,12 @@
 [05:34:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
 [05:34:34] (INFO) Found 1 catchable Pokemon
 [05:34:35] (Wild Success) | Weedle 92 V |  107 Cp | 26.28% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
+[05:34:37] (INFO) Found 1 pokemon to transfer...
+[05:34:38] (TRANSFER) Weedle 92 V |  135 Cp | 23.21% | Lvl 14 | Best: [Weedle 97 V |  201 Cp | 22.24% | Lvl 21] | Candy: 317
+[05:34:39] (POKESTOP) Three Portals Make A Field in 64.43 m distance
+[05:34:39] (NAVIGATION) Distance to target location: 64.43 meters. Will take 7.25 seconds driving at 32kmh
+[05:34:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[05:34:47] (POKESTOP) West Coast Fitness Corner in 89.61 m distance
+[05:34:47] (NAVIGATION) Distance to target location: 89.61 meters. Will take 11.52 seconds driving at 28kmh
+[05:34:55] (INFO) Found 1 catchable Pokemon
+[05:34:57] (Wild Success) | Rattata 132 V |  248 Cp | 42.03% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
