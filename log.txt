@@ -12119,3 +12119,10 @@
 [02:48:57] (NAVIGATION) Distance to target location: 109.2 meters. Will take 12.29 seconds driving at 32kmh
 [02:49:06] (INFO) Found 1 catchable Pokemon
 [02:49:08] (Wild Success) | Pidgey 121 V |  116 Cp | 53.67% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[02:49:09] (INFO) Found 1 pokemon to transfer...
+[02:49:11] (TRANSFER) Pidgey 121 V |  116 Cp | 53.67% | Lvl 07 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 524
+[02:49:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:49:14] (POKESTOP) Butterfly Mural in 71.28 m distance
+[02:49:14] (NAVIGATION) Distance to target location: 71.28 meters. Will take 8.85 seconds driving at 29kmh
+[02:49:19] (INFO) Found 1 catchable Pokemon
+[02:49:21] (Wild Success) | Rattata 117 V |   95 Cp | 46.66% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
