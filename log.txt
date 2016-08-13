@@ -8722,3 +8722,16 @@
 [00:57:21] (NAVIGATION) Distance to target location: 82.94 meters. Will take 9.63 seconds driving at 31kmh
 [00:57:25] (INFO) Found 1 catchable Pokemon
 [00:57:27] (Wild Success) | Dodrio 133 V |  177 Cp | 55.42% | Lvl 04 | Chance: 0.31 | with a GreatBall and received XP 210
+[00:57:29] (INFO) Found 1 pokemon to transfer...
+[00:57:30] (TRANSFER) Dodrio 133 V |  177 Cp | 55.42% | Lvl 04 | Best: [Dodrio 215 V |  742 Cp | 66.22% | Lvl 15] | Candy: 37
+[00:57:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemSuperPotion
+[00:57:35] (POKESTOP) Queens Close Safe House in 132.48 m distance
+[00:57:35] (NAVIGATION) Distance to target location: 132.48 meters. Will take 17.03 seconds driving at 28kmh
+[00:57:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 2 x ItemGreatBall
+[00:57:50] (POKESTOP) Queen's Close Playground in 139.58 m distance
+[00:57:50] (NAVIGATION) Distance to target location: 139.58 meters. Will take 17.33 seconds driving at 29kmh
+[00:58:07] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[00:58:08] (POKESTOP) Rangoli at Temple in 208.32 m distance
+[00:58:08] (NAVIGATION) Distance to target location: 208.32 meters. Will take 19.74 seconds driving at 38kmh
+[00:58:20] (INFO) Found 1 catchable Pokemon
+[00:58:21] (Wild Success) | Kakuna 90 V |  211 Cp | 37.17% | Lvl 19 | Chance: 0.17 | with a GreatBall and received XP 210
