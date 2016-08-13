@@ -7767,3 +7767,25 @@
 [00:26:12] (TRANSFER) Spearow 161 V |  309 Cp | 72.54% | Lvl 17 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 131
 [00:26:13] (INFO) Found 1 catchable Pokemon
 [00:26:15] (Wild Success) | Ekans 90 V |  331 Cp | 30.39% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[00:26:17] (INFO) Found 1 pokemon to transfer...
+[00:26:19] (TRANSFER) Ekans 90 V |  331 Cp | 30.39% | Lvl 17 | Best: [Ekans 160 V |  250 Cp | 54.56% | Lvl 12] | Candy: 74
+[00:26:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[00:26:23] (INFO) Found 3 Recyclable Items:
+[00:26:24] (RECYCLING) RazzBerry x 2
+[00:26:25] (RECYCLING) PokeBall x 5
+[00:26:26] (RECYCLING) Potion x 4
+[00:26:28] (POKESTOP) Death Metal Dandelion in 33.92 m distance
+[00:26:28] (NAVIGATION) Distance to target location: 33.92 meters. Will take 4.36 seconds driving at 28kmh
+[00:26:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemGreatBall
+[00:26:32] (POKESTOP) "Molding the Future of Our Nation" Statue in 119.88 m distance
+[00:26:32] (NAVIGATION) Distance to target location: 119.88 meters. Will take 14.39 seconds driving at 30kmh
+[00:26:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[00:26:46] (POKESTOP) Our Generation Oh Yeah! in 112.46 m distance
+[00:26:46] (NAVIGATION) Distance to target location: 112.46 meters. Will take 13.96 seconds driving at 29kmh
+[00:26:48] (INFO) Found 1 catchable Pokemon
+[00:26:49] (Wild Flee) | Pidgey 123 V |  262 Cp | 42.28% | Lvl 16 | Chance: 0.37 | with a GreatBall 
+[00:26:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemUltraBall
+[00:27:00] (POKESTOP) Blue-tiled Fountain - Dover Park View in 721.52 m distance
+[00:27:00] (NAVIGATION) Distance to target location: 721.52 meters. Will take 37.11 seconds driving at 70kmh
+[00:27:02] (INFO) Found 1 catchable Pokemon
+[00:27:04] (Wild Success) | Spearow 128 V |  139 Cp | 64.01% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
