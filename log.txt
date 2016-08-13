@@ -19995,3 +19995,18 @@
 [07:14:18] (INFO) Found 2 catchable Pokemon
 [07:14:19] (Wild Success) | Weedle 57 V |  154 Cp | 10.38% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
 [07:14:21] (Wild Success) | Staryu 151 V |  434 Cp | 58.47% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[07:14:22] (INFO) Found 2 pokemon to transfer...
+[07:14:24] (TRANSFER) Staryu 151 V |  434 Cp | 58.47% | Lvl 18 | Best: [Staryu 176 V |  524 Cp | 72.08% | Lvl 21] | Candy: 88
+[07:14:27] (TRANSFER) Weedle 57 V |  154 Cp | 10.38% | Lvl 17 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 424
+[07:14:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[07:14:30] (POKESTOP) Playground Between Block 709&712 in 49.34 m distance
+[07:14:30] (NAVIGATION) Distance to target location: 49.34 meters. Will take 5.55 seconds driving at 32kmh
+[07:14:34] (INFO) Found 1 catchable Pokemon
+[07:14:35] (BERRY) ItemRazzBerry used, remaining: 49
+[07:14:35] (Wild Escape) | Zubat 139 V |  366 Cp | 51.57% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[07:14:36] (BERRY) ItemRazzBerry used, remaining: 48
+[07:14:37] (Wild Success Attempt #2) | Zubat 139 V |  366 Cp | 51.57% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[07:14:38] (INFO) Found 1 pokemon to transfer...
+[07:14:40] (TRANSFER) Zubat 139 V |  366 Cp | 51.57% | Lvl 23 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 590
+[07:14:42] (INFO) Found 1 catchable Pokemon
+[07:14:43] (Wild Success) | Venonat 153 V |  424 Cp | 55.55% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
