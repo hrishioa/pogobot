@@ -6898,3 +6898,31 @@
 [23:57:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [23:57:04] (INFO) Found 1 catchable Pokemon
 [23:57:06] (Wild Success) | Clefairy 111 V |   78 Cp | 42.67% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
+[23:57:08] (INFO) Found 1 pokemon to transfer...
+[23:57:10] (TRANSFER) Clefairy 111 V |   78 Cp | 42.67% | Lvl 03 | Best: [Clefairy 159 V |  362 Cp | 41.21% | Lvl 12] | Candy: 42
+[23:57:11] (POKESTOP) Root II by Min Chen in 60.85 m distance
+[23:57:11] (NAVIGATION) Distance to target location: 60.85 meters. Will take 7.3 seconds driving at 30kmh
+[23:57:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:57:18] (POKESTOP) Mosaic Mural at ITE in 68.67 m distance
+[23:57:18] (NAVIGATION) Distance to target location: 68.67 meters. Will take 8.52 seconds driving at 29kmh
+[23:57:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:57:26] (POKESTOP) SiT main building  in 64.63 m distance
+[23:57:26] (NAVIGATION) Distance to target location: 64.63 meters. Will take 8.31 seconds driving at 28kmh
+[23:57:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:57:33] (INFO) Found 3 Recyclable Items:
+[23:57:34] (RECYCLING) RazzBerry x 1
+[23:57:35] (RECYCLING) PokeBall x 13
+[23:57:36] (RECYCLING) Potion x 1
+[23:57:39] (POKESTOP) Shark Mural in 87.17 m distance
+[23:57:39] (NAVIGATION) Distance to target location: 87.17 meters. Will take 10.46 seconds driving at 30kmh
+[23:57:48] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemHyperPotion, 1 x ItemUltraBall
+[23:57:49] (POKESTOP) Metal Workshop in 60.35 m distance
+[23:57:49] (NAVIGATION) Distance to target location: 60.35 meters. Will take 6.79 seconds driving at 32kmh
+[23:57:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[23:57:56] (POKESTOP) Fab Lab 2 in 46.7 m distance
+[23:57:56] (NAVIGATION) Distance to target location: 46.7 meters. Will take 5.25 seconds driving at 32kmh
+[23:58:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[23:58:01] (POKESTOP) Shield Art in 114.57 m distance
+[23:58:01] (NAVIGATION) Distance to target location: 114.57 meters. Will take 13.31 seconds driving at 31kmh
+[23:58:05] (INFO) Found 1 catchable Pokemon
+[23:58:07] (Wild Success) | Zubat 139 V |  157 Cp | 47.59% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
