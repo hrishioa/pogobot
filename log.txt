@@ -17093,3 +17093,4 @@
 [05:39:04] (NAVIGATION) Distance to target location: 88.93 meters. Will take 11.04 seconds driving at 29kmh
 [05:39:10] (INFO) Found 2 catchable Pokemon
 [05:39:11] (Wild Success) | Paras 141 V |  229 Cp | 48.13% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
+[05:39:13] (Wild Success) | Oddish 182 V |  549 Cp | 66.84% | Lvl 18 | Chance: 0.42 | with a GreatBall and received XP 210
