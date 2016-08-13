@@ -5314,3 +5314,19 @@
 [23:04:25] (NAVIGATION) Distance to target location: 259.83 meters. Will take 19.9 seconds driving at 47kmh
 [23:04:33] (INFO) Found 1 catchable Pokemon
 [23:04:35] (Wild Success) | Geodude 89 V |  210 Cp | 12.86% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 1420
+[23:04:45] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemPotion
+[23:04:46] (POKESTOP) NTU Alumni Club in 279.84 m distance
+[23:04:46] (NAVIGATION) Distance to target location: 279.84 meters. Will take 19.75 seconds driving at 51kmh
+[23:05:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPotion
+[23:05:07] (POKESTOP) Parabolic Dish in 193.35 m distance
+[23:05:07] (NAVIGATION) Distance to target location: 193.35 meters. Will take 19.89 seconds driving at 35kmh
+[23:05:26] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:05:27] (POKESTOP) One-North Park in 51.03 m distance
+[23:05:27] (NAVIGATION) Distance to target location: 51.03 meters. Will take 5.74 seconds driving at 32kmh
+[23:05:32] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:05:33] (INFO) Found 1 Recyclable Item:
+[23:05:33] (RECYCLING) PokeBall x 9
+[23:05:36] (POKESTOP) Anatomy of the Human Body  in 73.72 m distance
+[23:05:36] (NAVIGATION) Distance to target location: 73.72 meters. Will take 8.56 seconds driving at 31kmh
+[23:05:42] (INFO) Found 1 catchable Pokemon
+[23:05:44] (Wild Success) | Staryu 132 V |  256 Cp | 46.02% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
