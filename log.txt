@@ -3920,3 +3920,39 @@
 [22:12:27] (NAVIGATION) Distance to target location: 106.01 meters. Will take 11.93 seconds driving at 32kmh
 [22:12:37] (INFO) Found 1 catchable Pokemon
 [22:12:39] (Wild Success) | Jynx 89 V |   21 Cp | 26.86% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:12:41] (INFO) Found 1 pokemon to transfer...
+[22:12:42] (TRANSFER) Jynx 89 V |   21 Cp | 26.86% | Lvl 01 | Best: [Jynx 144 V |  259 Cp | 50.77% | Lvl 06] | Candy: 26
+[22:12:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:12:43] (POKESTOP) Kent Ridge Park in 52.15 m distance
+[22:12:43] (NAVIGATION) Distance to target location: 52.15 meters. Will take 6.06 seconds driving at 31kmh
+[22:12:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[22:12:48] (INFO) Found 3 Recyclable Items:
+[22:12:49] (RECYCLING) RazzBerry x 3
+[22:12:50] (RECYCLING) PokeBall x 6
+[22:12:51] (RECYCLING) Revive x 2
+[22:12:54] (POKESTOP) Kent Ridge Heritage Trail in 143.68 m distance
+[22:12:54] (NAVIGATION) Distance to target location: 143.68 meters. Will take 17.24 seconds driving at 30kmh
+[22:13:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 2 x ItemPokeBall
+[22:13:11] (POKESTOP) Giant Compass in 184.9 m distance
+[22:13:11] (NAVIGATION) Distance to target location: 184.9 meters. Will take 19.58 seconds driving at 34kmh
+[22:13:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemRazzBerry
+[22:13:30] (POKESTOP) Arena Of Mobility in 97.08 m distance
+[22:13:30] (NAVIGATION) Distance to target location: 97.08 meters. Will take 10.92 seconds driving at 32kmh
+[22:13:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[22:13:41] (POKESTOP) Normanton Park in 323.99 m distance
+[22:13:41] (NAVIGATION) Distance to target location: 323.99 meters. Will take 19.77 seconds driving at 59kmh
+[22:13:53] (INFO) Found 1 catchable Pokemon
+[22:13:54] (Wild Escape) | Clefairy 109 V |  229 Cp | 26.13% | Lvl 08 | Chance: 0.31 | with a GreatBall 
+[22:13:55] (Wild Success Attempt #2) | Clefairy 109 V |  229 Cp | 26.13% | Lvl 08 | Chance: 0.31 | with a GreatBall 
+[22:13:57] (INFO) Found 1 pokemon to transfer...
+[22:13:58] (TRANSFER) Clefairy 109 V |  229 Cp | 26.13% | Lvl 08 | Best: [Clefairy 159 V |  362 Cp | 41.21% | Lvl 12] | Candy: 30
+[22:14:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:14:11] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[22:14:11] (ATTENTION) Restarting the application due to error...
+[22:14:11] (INFO) Logging in via: Google
+[22:14:12] (INFO) Client logged in
+[22:14:12] (INFO) Found 11 Pokestops
+[22:14:13] (POKESTOP) Kent Ridge Park Nature Trail in 732.02 m distance
+[22:14:13] (NAVIGATION) Distance to target location: 732.02 meters. Will take 37.65 seconds driving at 70kmh
+[22:14:25] (INFO) Found 3 catchable Pokemon
+[22:14:27] (Wild Success) | Magikarp 106 V |   60 Cp | 75.39% | Lvl 09 | Chance: 0.7 | with a PokeBall and received XP 210
