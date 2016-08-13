@@ -5464,3 +5464,15 @@
 [23:11:55] (Wild Success Attempt #2) | Golbat 154 V |  193 Cp | 75.46% | Lvl 04 | Chance: 0.31 | with a GreatBall 
 [23:11:56] (Wild Success) | Pidgey 111 V |   97 Cp | 50.69% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
 [23:11:58] (Wild Success) | Zubat 142 V |  277 Cp | 59.24% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 420
+[23:12:00] (INFO) Found 3 pokemon to transfer...
+[23:12:02] (TRANSFER) Zubat 142 V |  277 Cp | 59.24% | Lvl 17 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 316
+[23:12:03] (TRANSFER) Pidgey 111 V |  129 Cp | 42.86% | Lvl 08 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 183
+[23:12:06] (TRANSFER) Golbat 154 V |  193 Cp | 75.46% | Lvl 04 | Best: [Golbat 216 V |  697 Cp | 85.92% | Lvl 13] | Candy: 317
+[23:12:07] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 2 x ItemRazzBerry
+[23:12:08] (POKESTOP) NUS Faculty of Dentistry in 98.39 m distance
+[23:12:08] (NAVIGATION) Distance to target location: 98.39 meters. Will take 11.81 seconds driving at 30kmh
+[23:12:19] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:12:20] (POKESTOP) Mural at Block 71 in 450.87 m distance
+[23:12:20] (NAVIGATION) Distance to target location: 450.87 meters. Will take 23.19 seconds driving at 70kmh
+[23:12:42] (INFO) Found 1 catchable Pokemon
+[23:12:43] (Wild Success) | Zubat 120 V |   90 Cp | 45.59% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
