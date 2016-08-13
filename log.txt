@@ -5123,3 +5123,12 @@
 [23:00:25] (NAVIGATION) Distance to target location: 46.76 meters. Will take 6.01 seconds driving at 28kmh
 [23:00:28] (INFO) Found 1 catchable Pokemon
 [23:00:30] (Wild Success) | Pidgey 123 V |  262 Cp | 42.30% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
+[23:00:32] (INFO) Found 1 pokemon to transfer...
+[23:00:33] (TRANSFER) Pidgey 105 V |  112 Cp | 44.14% | Lvl 07 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 179
+[23:00:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:00:36] (INFO) Found 1 Recyclable Item:
+[23:00:36] (RECYCLING) PokeBall x 11
+[23:00:39] (POKESTOP) Blue-tiled Fountain - Dover Park View in 155.51 m distance
+[23:00:39] (NAVIGATION) Distance to target location: 155.51 meters. Will take 19.99 seconds driving at 28kmh
+[23:00:52] (INFO) Found 2 catchable Pokemon
+[23:00:53] (Wild Success) | Bulbasaur 91 V |   12 Cp | 8.26% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 420
