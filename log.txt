@@ -6961,3 +6961,15 @@
 [23:59:36] (Wild Success) | Staryu 150 V |  201 Cp | 79.88% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [23:59:38] (Wild Success) | Zubat 132 V |   93 Cp | 58.33% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 310
 [23:59:39] (Wild Success) | Spearow 93 V |  204 Cp | 26.19% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[23:59:41] (INFO) Found 3 pokemon to transfer...
+[23:59:42] (TRANSFER) Zubat 132 V |   93 Cp | 58.33% | Lvl 06 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 393
+[23:59:45] (TRANSFER) Spearow 93 V |  204 Cp | 26.19% | Lvl 13 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 119
+[23:59:47] (TRANSFER) Staryu 150 V |  201 Cp | 79.88% | Lvl 08 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 78
+[23:59:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:59:50] (POKESTOP) Tree of the Elements in 59.89 m distance
+[23:59:50] (NAVIGATION) Distance to target location: 59.89 meters. Will take 6.95 seconds driving at 31kmh
+[23:59:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:59:57] (POKESTOP) Waves and Particles - NUS Science Faculty in 154.33 m distance
+[23:59:57] (NAVIGATION) Distance to target location: 154.33 meters. Will take 17.92 seconds driving at 31kmh
+[00:00:02] (INFO) Found 1 catchable Pokemon
+[00:00:04] (Wild Success) | Spearow 92 V |  187 Cp | 23.47% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
