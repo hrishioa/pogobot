@@ -10044,3 +10044,11 @@
 [01:43:55] (NAVIGATION) Distance to target location: 63.36 meters. Will take 7.87 seconds driving at 29kmh
 [01:43:57] (INFO) Found 1 catchable Pokemon
 [01:43:58] (Wild Success) | Caterpie 69 V |   33 Cp | 16.00% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[01:44:00] (INFO) Found 1 pokemon to transfer...
+[01:44:02] (TRANSFER) Caterpie 69 V |   33 Cp | 16.00% | Lvl 04 | Best: [Caterpie 106 V |  141 Cp | 37.38% | Lvl 14] | Candy: 98
+[01:44:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:44:06] (POKESTOP) Lucy's Left Ear in 49.77 m distance
+[01:44:06] (NAVIGATION) Distance to target location: 49.77 meters. Will take 5.6 seconds driving at 32kmh
+[01:44:09] (INFO) Found 1 catchable Pokemon
+[01:44:10] (BERRY) ItemRazzBerry used, remaining: 49
+[01:44:11] (Wild Success) | Paras 155 V |  380 Cp | 61.57% | Lvl 16 | Chance: 0.29 | with a UltraBall and received XP 210
