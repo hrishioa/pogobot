@@ -7815,3 +7815,4 @@
 [00:27:50] (NAVIGATION) Distance to target location: 660 meters. Will take 33.94 seconds driving at 70kmh
 [00:28:09] (INFO) Found 2 catchable Pokemon
 [00:28:11] (Wild Success) | Caterpie 100 V |  128 Cp | 32.28% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[00:28:12] (Wild Success) | Weedle 86 V |  105 Cp | 20.79% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
