@@ -12622,3 +12622,17 @@
 [03:03:22] (INFO) Found 2 catchable Pokemon
 [03:03:24] (Wild Success) | Caterpie 107 V |  182 Cp | 38.62% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
 [03:03:25] (Wild Success) | Bellsprout 85 V |  319 Cp | 24.47% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[03:03:27] (INFO) Found 2 pokemon to transfer...
+[03:03:28] (TRANSFER) Bellsprout 85 V |  319 Cp | 24.47% | Lvl 12 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 58
+[03:03:30] (TRANSFER) Caterpie 101 V |  128 Cp | 33.36% | Lvl 13 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 118
+[03:03:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[03:03:34] (POKESTOP) Pyramid Web with Slider in 59.93 m distance
+[03:03:34] (NAVIGATION) Distance to target location: 59.93 meters. Will take 7.44 seconds driving at 29kmh
+[03:03:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[03:03:40] (POKESTOP) 4 Mega Zip Lines in 73.97 m distance
+[03:03:40] (NAVIGATION) Distance to target location: 73.97 meters. Will take 8.59 seconds driving at 31kmh
+[03:03:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[03:03:49] (POKESTOP) Red Fire Truck in 106.31 m distance
+[03:03:49] (NAVIGATION) Distance to target location: 106.31 meters. Will take 12.76 seconds driving at 30kmh
+[03:03:51] (INFO) Found 1 catchable Pokemon
+[03:03:53] (Wild Success) | Rattata 121 V |  126 Cp | 48.09% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
