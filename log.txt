@@ -18295,3 +18295,12 @@
 [06:19:26] (TRANSFER) Pidgey 86 V |  157 Cp | 29.91% | Lvl 10 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 800
 [06:19:27] (INFO) Found 2 catchable Pokemon
 [06:19:29] (Wild Success) | Eevee 165 V |  287 Cp | 69.06% | Lvl 10 | Chance: 0.37 | with a UltraBall and received XP 210
+[06:19:30] (Wild Escape) | Metapod 142 V |  137 Cp | 73.19% | Lvl 11 | Chance: 0.22 | with a UltraBall 
+[06:19:31] (Wild Success Attempt #2) | Metapod 142 V |  137 Cp | 73.19% | Lvl 11 | Chance: 0.22 | with a UltraBall 
+[06:19:32] (INFO) Found 1 pokemon to transfer...
+[06:19:34] (TRANSFER) Eevee 137 V |  104 Cp | 67.11% | Lvl 04 | Best: [Eevee 171 V |  234 Cp | 83.49% | Lvl 08] | Candy: 24
+[06:19:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[06:19:37] (POKESTOP) Pyramid Web with Slider in 123.71 m distance
+[06:19:37] (NAVIGATION) Distance to target location: 123.71 meters. Will take 14.84 seconds driving at 30kmh
+[06:19:41] (INFO) Found 1 catchable Pokemon
+[06:19:43] (Wild Success) | Bellsprout 116 V |  157 Cp | 33.08% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
