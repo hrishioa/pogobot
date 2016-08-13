@@ -3812,3 +3812,10 @@
 [22:07:43] (Wild Flee) | Pidgey 106 V |  144 Cp | 37.30% | Lvl 09 | Chance: 0.5 | with a PokeBall 
 [22:07:48] (INFO) Found 1 catchable Pokemon
 [22:07:50] (Wild Success) | Eevee 165 V |  315 Cp | 67.92% | Lvl 11 | Chance: 0.36 | with a GreatBall and received XP 210
+[22:07:52] (INFO) Found 1 pokemon to transfer...
+[22:07:53] (TRANSFER) Eevee 139 V |  196 Cp | 69.16% | Lvl 07 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 22
+[22:07:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPotion, 1 x ItemRazzBerry
+[22:07:57] (POKESTOP) Norwegian Church in 202.28 m distance
+[22:07:57] (NAVIGATION) Distance to target location: 202.28 meters. Will take 19.68 seconds driving at 37kmh
+[22:08:09] (INFO) Found 1 catchable Pokemon
+[22:08:11] (Wild Success) | Zubat 98 V |  102 Cp | 33.30% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
