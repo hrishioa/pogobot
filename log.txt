@@ -6997,3 +6997,10 @@
 [00:00:37] (TRANSFER) Zubat 140 V |  275 Cp | 57.37% | Lvl 17 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 397
 [00:00:40] (INFO) Found 1 catchable Pokemon
 [00:00:41] (Wild Success) | Krabby 145 V |   56 Cp | 81.59% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[00:00:43] (INFO) Found 1 pokemon to transfer...
+[00:00:45] (TRANSFER) Krabby 145 V |   56 Cp | 81.59% | Lvl 03 | Best: [Krabby 163 V |  345 Cp | 82.06% | Lvl 16] | Candy: 70
+[00:00:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:00:47] (POKESTOP) One North Reflecting Pool in 1417.68 m distance
+[00:00:47] (NAVIGATION) Distance to target location: 1417.68 meters. Will take 1.22 minutes driving at 70kmh
+[00:01:20] (INFO) Found 2 catchable Pokemon
+[00:01:22] (Wild Success) | Pidgey 116 V |  181 Cp | 42.97% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
