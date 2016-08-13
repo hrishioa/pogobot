@@ -4100,3 +4100,21 @@
 [22:19:38] (TRANSFER) Zubat 102 V |   73 Cp | 45.25% | Lvl 05 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 298
 [22:20:00] (INFO) Found 1 catchable Pokemon
 [22:20:01] (Wild Success) | Spearow 98 V |  196 Cp | 38.18% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[22:20:03] (INFO) Found 1 pokemon to transfer...
+[22:20:04] (TRANSFER) Spearow 98 V |  196 Cp | 38.18% | Lvl 12 | Best: [Spearow 143 V |  267 Cp | 66.19% | Lvl 15] | Candy: 95
+[22:20:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:20:06] (INFO) Found 30 Pokestops
+[22:20:08] (POKESTOP) Giant Compass in 374.48 m distance
+[22:20:09] (NAVIGATION) Distance to target location: 374.48 meters. Will take 19.83 seconds driving at 68kmh
+[22:20:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[22:20:29] (INFO) Found 3 Recyclable Items:
+[22:20:30] (RECYCLING) RazzBerry x 1
+[22:20:30] (RECYCLING) PokeBall x 11
+[22:20:32] (RECYCLING) Revive x 1
+[22:20:35] (POKESTOP) Arena Of Mobility in 118 m distance
+[22:20:35] (NAVIGATION) Distance to target location: 118 meters. Will take 14.65 seconds driving at 29kmh
+[22:20:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:20:50] (POKESTOP) Normanton Park in 321.31 m distance
+[22:20:50] (NAVIGATION) Distance to target location: 321.31 meters. Will take 19.94 seconds driving at 58kmh
+[22:21:02] (INFO) Found 1 catchable Pokemon
+[22:21:03] (Wild Success) | Zubat 96 V |   87 Cp | 36.88% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
