@@ -12833,3 +12833,10 @@
 [03:11:12] (NAVIGATION) Distance to target location: 719.86 meters. Will take 37.02 seconds driving at 70kmh
 [03:11:24] (INFO) Found 1 catchable Pokemon
 [03:11:25] (Wild Success) | Ekans 144 V |  325 Cp | 44.90% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[03:11:27] (INFO) Found 3 pokemon to transfer...
+[03:11:28] (TRANSFER) Magikarp 108 V |   80 Cp | 75.16% | Lvl 12 | Best: [Magikarp 121 V |  138 Cp | 82.05% | Lvl 20] | Candy: 189
+[03:11:31] (TRANSFER) Sandshrew 131 V |   54 Cp | 66.46% | Lvl 03 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 34
+[03:11:33] (TRANSFER) Ekans 144 V |  325 Cp | 44.90% | Lvl 16 | Best: [Ekans 160 V |  250 Cp | 54.56% | Lvl 12] | Candy: 82
+[03:11:35] (INFO) Found 2 catchable Pokemon
+[03:11:35] (Wild Flee) | Spearow 88 V |   77 Cp | 40.04% | Lvl 05 | Chance: 0.68 | with a PokeBall 
+[03:11:37] (Wild Success) | Metapod 72 V |   10 Cp | 16.36% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
