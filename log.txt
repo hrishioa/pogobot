@@ -4351,3 +4351,4 @@
 [22:28:30] (TRANSFER) Goldeen 159 V |  232 Cp | 74.35% | Lvl 09 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 78
 [22:28:31] (INFO) Found 4 catchable Pokemon
 [22:28:33] (Wild Success) | Zubat 113 V |  186 Cp | 44.10% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[22:28:34] (Wild Success) | Weedle 78 V |   54 Cp | 17.65% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
