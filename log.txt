@@ -4785,3 +4785,4 @@
 [22:48:02] (NAVIGATION) Distance to target location: 92.25 meters. Will take 11.45 seconds driving at 29kmh
 [22:48:08] (INFO) Found 2 catchable Pokemon
 [22:48:09] (Wild Success) | Zubat 123 V |   62 Cp | 71.77% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 420
+[22:48:11] (Wild Success) | Staryu 149 V |  407 Cp | 56.17% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 420
