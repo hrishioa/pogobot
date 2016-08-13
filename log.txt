@@ -6097,3 +6097,16 @@
 [23:32:12] (NAVIGATION) Distance to target location: 78.24 meters. Will take 9.71 seconds driving at 29kmh
 [23:32:18] (INFO) Found 1 catchable Pokemon
 [23:32:20] (Wild Success) | Eevee 161 V |  287 Cp | 70.05% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
+[23:32:22] (INFO) Found 1 pokemon to transfer...
+[23:32:23] (TRANSFER) Eevee 161 V |  287 Cp | 70.05% | Lvl 10 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 34
+[23:32:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:32:26] (INFO) Found 4 Recyclable Items:
+[23:32:27] (RECYCLING) RazzBerry x 1
+[23:32:28] (RECYCLING) PokeBall x 5
+[23:32:29] (RECYCLING) Potion x 1
+[23:32:30] (RECYCLING) Revive x 3
+[23:32:32] (POKESTOP) Centre For Development Of Teaching And Learning in 60.39 m distance
+[23:32:32] (NAVIGATION) Distance to target location: 60.39 meters. Will take 7.76 seconds driving at 28kmh
+[23:32:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[23:32:39] (INFO) Found 1 catchable Pokemon
+[23:32:41] (Wild Success) | Spearow 158 V |  321 Cp | 66.33% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
