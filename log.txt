@@ -18434,3 +18434,10 @@
 [06:25:05] (TRANSFER) Pidgey 86 V |  199 Cp | 21.37% | Lvl 13 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 816
 [06:25:08] (INFO) Found 1 catchable Pokemon
 [06:25:10] (Wild Success) | Rattata 135 V |  130 Cp | 56.97% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[06:25:11] (INFO) Found 1 pokemon to transfer...
+[06:25:12] (TRANSFER) Rattata 135 V |  130 Cp | 56.97% | Lvl 09 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 477
+[06:25:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:25:15] (POKESTOP) West Coast Mural Art in 95.85 m distance
+[06:25:15] (NAVIGATION) Distance to target location: 95.85 meters. Will take 10.78 seconds driving at 32kmh
+[06:25:21] (INFO) Found 1 catchable Pokemon
+[06:25:23] (Wild Success) | Omanyte 164 V |  302 Cp | 75.03% | Lvl 10 | Chance: 0.37 | with a UltraBall and received XP 210
