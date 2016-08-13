@@ -6300,3 +6300,5 @@
 [23:37:50] (NAVIGATION) Distance to target location: 963.69 meters. Will take 49.56 seconds driving at 70kmh
 [23:38:29] (INFO) Found 3 catchable Pokemon
 [23:38:31] (Wild Success) | Jigglypuff 146 V |  350 Cp | 35.58% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[23:38:32] (Wild Flee) | Meowth 168 V |  352 Cp | 62.87% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[23:38:34] (Wild Success) | Spearow 144 V |  276 Cp | 55.82% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
