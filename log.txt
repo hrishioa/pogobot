@@ -2507,3 +2507,27 @@
 [21:26:52] (Wild Success) | Zubat 147 V |  168 Cp | 69.94% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [21:26:53] (BERRY) ItemRazzBerry used, remaining: 49
 [21:26:54] (Wild Success) | Jynx 119 V |  422 Cp | 19.82% | Lvl 10 | Chance: 0.28 | with a GreatBall and received XP 210
+[21:26:56] (INFO) Found 2 pokemon to transfer...
+[21:26:57] (TRANSFER) Jynx 111 V |  205 Cp | 34.20% | Lvl 05 | Best: [Jynx 144 V |  259 Cp | 50.77% | Lvl 06] | Candy: 22
+[21:26:59] (TRANSFER) Zubat 147 V |  168 Cp | 69.94% | Lvl 10 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 192
+[21:27:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
+[21:27:04] (POKESTOP) Araucaria Excelsa in 56.56 m distance
+[21:27:04] (NAVIGATION) Distance to target location: 56.56 meters. Will take 7.27 seconds driving at 28kmh
+[21:27:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[21:27:10] (POKESTOP) Cassia Fistula in 86.06 m distance
+[21:27:10] (NAVIGATION) Distance to target location: 86.06 meters. Will take 11.07 seconds driving at 28kmh
+[21:27:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[21:27:20] (INFO) Found 3 Recyclable Items:
+[21:27:21] (RECYCLING) Revive x 2
+[21:27:22] (RECYCLING) PokeBall x 6
+[21:27:23] (RECYCLING) Potion x 1
+[21:27:25] (POKESTOP) Vista Park Open Space  in 151.63 m distance
+[21:27:25] (NAVIGATION) Distance to target location: 151.63 meters. Will take 18.82 seconds driving at 29kmh
+[21:27:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemRazzBerry
+[21:27:43] (POKESTOP) Eugenia Spicata in 203.11 m distance
+[21:27:43] (NAVIGATION) Distance to target location: 203.11 meters. Will take 19.76 seconds driving at 37kmh
+[21:28:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:28:04] (POKESTOP) Winchester Tennis Arena in 543.48 m distance
+[21:28:04] (NAVIGATION) Distance to target location: 543.48 meters. Will take 27.95 seconds driving at 70kmh
+[21:28:06] (INFO) Found 1 catchable Pokemon
+[21:28:07] (Wild Success) | Zubat 111 V |  106 Cp | 45.14% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
