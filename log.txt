@@ -17224,3 +17224,8 @@
 [05:45:52] (INFO) Found 1 catchable Pokemon
 [05:45:52] (BERRY) ItemRazzBerry used, remaining: 48
 [05:45:54] (Wild Success) | Horsea 160 V |  440 Cp | 54.39% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[05:45:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall
+[05:45:58] (POKESTOP) Flag Gathering Area in 185.54 m distance
+[05:45:58] (NAVIGATION) Distance to target location: 185.54 meters. Will take 19.65 seconds driving at 34kmh
+[05:46:06] (INFO) Found 1 catchable Pokemon
+[05:46:08] (Wild Success) | Venonat 155 V |  353 Cp | 65.33% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
