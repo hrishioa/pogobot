@@ -9700,3 +9700,11 @@
 [01:32:57] (INFO) Found 2 catchable Pokemon
 [01:32:59] (Wild Success) | Pidgeotto 133 V |  181 Cp | 50.06% | Lvl 06 | Chance: 0.31 | with a UltraBall and received XP 210
 [01:33:01] (Wild Success) | Pidgey 111 V |  116 Cp | 53.72% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[01:33:03] (INFO) Found 2 pokemon to transfer...
+[01:33:04] (TRANSFER) Pidgeotto 124 V |  242 Cp | 40.36% | Lvl 08 | Best: [Pidgeotto 142 V |  595 Cp | 26.99% | Lvl 20] | Candy: 407
+[01:33:07] (TRANSFER) Pidgey 111 V |  116 Cp | 53.72% | Lvl 07 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 408
+[01:33:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[01:33:10] (POKESTOP) Fat Chicken Mural in 531.17 m distance
+[01:33:10] (NAVIGATION) Distance to target location: 531.17 meters. Will take 27.32 seconds driving at 70kmh
+[01:33:21] (INFO) Found 1 catchable Pokemon
+[01:33:22] (Wild Success) | Spearow 103 V |   10 Cp | 51.63% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
