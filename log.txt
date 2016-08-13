@@ -2299,3 +2299,11 @@
 [21:20:50] (INFO) Found 2 catchable Pokemon
 [21:20:51] (Wild Success) | Pidgey 88 V |  138 Cp | 24.34% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [21:20:53] (Wild Success) | Rattata 148 V |  119 Cp | 69.22% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[21:20:55] (INFO) Found 2 pokemon to transfer...
+[21:20:56] (TRANSFER) Rattata 135 V |  159 Cp | 56.59% | Lvl 11 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 62
+[21:20:58] (TRANSFER) Pidgey 88 V |  138 Cp | 24.34% | Lvl 09 | Best: [Pidgey 119 V |  152 Cp | 53.65% | Lvl 09] | Candy: 128
+[21:21:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[21:21:03] (POKESTOP) Carpentaria Acuminata in 444.6 m distance
+[21:21:03] (NAVIGATION) Distance to target location: 444.6 meters. Will take 22.87 seconds driving at 70kmh
+[21:21:26] (INFO) Found 1 catchable Pokemon
+[21:21:28] (Wild Success) | Bulbasaur 106 V |   38 Cp | 17.41% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 710
