@@ -3476,3 +3476,30 @@
 [21:55:47] (NAVIGATION) Distance to target location: 174.88 meters. Will take 19.67 seconds driving at 32kmh
 [21:56:04] (INFO) Found 1 catchable Pokemon
 [21:56:06] (Wild Success) | Koffing 149 V |  113 Cp | 72.96% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 710
+[21:56:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemPotion
+[21:56:09] (POKESTOP) Pipe Wall in 48.6 m distance
+[21:56:09] (NAVIGATION) Distance to target location: 48.6 meters. Will take 5.47 seconds driving at 32kmh
+[21:56:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[21:56:16] (ATTENTION) No locations in your area...
+[21:56:21] (INFO) Found 52 Pokestops
+[21:56:22] (POKESTOP) Fujitsu Telepark in 280.76 m distance
+[21:56:22] (NAVIGATION) Distance to target location: 280.76 meters. Will take 19.82 seconds driving at 51kmh
+[21:56:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[21:56:44] (POKESTOP) Science Park 2 Pond in 172.64 m distance
+[21:56:44] (NAVIGATION) Distance to target location: 172.64 meters. Will take 19.42 seconds driving at 32kmh
+[21:57:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[21:57:02] (INFO) Found 4 Recyclable Items:
+[21:57:03] (RECYCLING) RazzBerry x 1
+[21:57:04] (RECYCLING) PokeBall x 8
+[21:57:05] (RECYCLING) Potion x 2
+[21:57:06] (RECYCLING) Revive x 1
+[21:57:09] (POKESTOP) Dry Waterfall in 68.49 m distance
+[21:57:09] (NAVIGATION) Distance to target location: 68.49 meters. Will take 7.71 seconds driving at 32kmh
+[21:57:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[21:57:17] (POKESTOP) PhD Geyser in 133.63 m distance
+[21:57:17] (NAVIGATION) Distance to target location: 133.63 meters. Will take 15.52 seconds driving at 31kmh
+[21:57:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[21:57:32] (POKESTOP) The Clock in 188.16 m distance
+[21:57:32] (NAVIGATION) Distance to target location: 188.16 meters. Will take 19.92 seconds driving at 34kmh
+[21:57:49] (INFO) Found 2 catchable Pokemon
+[21:57:50] (Wild Success) | Psyduck 114 V |  323 Cp | 29.53% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
