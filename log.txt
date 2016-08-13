@@ -1438,3 +1438,4 @@
 [20:51:09] (NAVIGATION) Distance to target location: 1089.19 meters. Will take 56.02 seconds driving at 70kmh
 [20:51:10] (INFO) Found 2 catchable Pokemon
 [20:51:12] (Wild Success) | Ekans 68 V |   30 Cp | 38.27% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[20:51:13] (Wild Success) | Zubat 148 V |  171 Cp | 75.89% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
