@@ -8426,3 +8426,8 @@
 [00:46:19] (INFO) Found 2 catchable Pokemon
 [00:46:21] (Wild Success) | NidoranFemale 75 V |  115 Cp | 13.93% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [00:46:22] (Wild Success) | Zubat 120 V |  214 Cp | 39.04% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[00:46:24] (INFO) Found 2 pokemon to transfer...
+[00:46:25] (TRANSFER) NidoranFemale 75 V |  115 Cp | 13.93% | Lvl 06 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 30
+[00:46:28] (TRANSFER) Zubat 120 V |  214 Cp | 39.04% | Lvl 14 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 461
+[00:46:36] (INFO) Found 2 catchable Pokemon
+[00:46:37] (Wild Success) | Magikarp 74 V |   21 Cp | 46.90% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
