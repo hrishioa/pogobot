@@ -5783,3 +5783,18 @@
 [23:21:42] (NAVIGATION) Distance to target location: 112.34 meters. Will take 12.64 seconds driving at 32kmh
 [23:21:53] (INFO) Found 1 catchable Pokemon
 [23:21:54] (Wild Success) | Zubat 124 V |   25 Cp | 56.66% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[23:21:56] (INFO) Found 1 pokemon to transfer...
+[23:21:58] (TRANSFER) Zubat 124 V |   25 Cp | 56.66% | Lvl 02 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 333
+[23:21:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:21:59] (INFO) Found 4 Recyclable Items:
+[23:22:01] (RECYCLING) RazzBerry x 3
+[23:22:01] (RECYCLING) PokeBall x 5
+[23:22:02] (RECYCLING) Potion x 2
+[23:22:03] (RECYCLING) Revive x 4
+[23:22:06] (POKESTOP) Kent Ridge Heritage Trail Pgp Entrance  in 92.71 m distance
+[23:22:06] (NAVIGATION) Distance to target location: 92.71 meters. Will take 11.12 seconds driving at 30kmh
+[23:22:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:22:16] (POKESTOP) Fat Chicken Mural in 351.78 m distance
+[23:22:16] (NAVIGATION) Distance to target location: 351.78 meters. Will take 19.79 seconds driving at 64kmh
+[23:22:31] (INFO) Found 1 catchable Pokemon
+[23:22:33] (Wild Success) | Goldeen 151 V |   69 Cp | 82.33% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
