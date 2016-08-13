@@ -7891,3 +7891,20 @@
 [00:31:00] (TRANSFER) Pidgey 84 V |  152 Cp | 18.72% | Lvl 10 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 285
 [00:31:02] (INFO) Found 1 catchable Pokemon
 [00:31:04] (Wild Success) | Caterpie 80 V |   44 Cp | 20.93% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:31:06] (INFO) Found 1 pokemon to transfer...
+[00:31:08] (TRANSFER) Caterpie 80 V |   44 Cp | 20.93% | Lvl 05 | Best: [Caterpie 101 V |  128 Cp | 33.36% | Lvl 13] | Candy: 78
+[00:31:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemPotion
+[00:31:10] (POKESTOP) Cornflakes Man in 40.08 m distance
+[00:31:10] (NAVIGATION) Distance to target location: 40.08 meters. Will take 4.98 seconds driving at 29kmh
+[00:31:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[00:31:15] (INFO) Found 3 Recyclable Items:
+[00:31:16] (RECYCLING) PokeBall x 1
+[00:31:17] (RECYCLING) Potion x 5
+[00:31:18] (RECYCLING) Revive x 3
+[00:31:21] (POKESTOP) Kopitiam - On the Ridge in 30.14 m distance
+[00:31:21] (NAVIGATION) Distance to target location: 30.14 meters. Will take 3.5 seconds driving at 31kmh
+[00:31:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[00:31:23] (POKESTOP) National University Hospital Main Building in 92.5 m distance
+[00:31:23] (NAVIGATION) Distance to target location: 92.5 meters. Will take 10.74 seconds driving at 31kmh
+[00:31:26] (INFO) Found 1 catchable Pokemon
+[00:31:28] (Wild Success) | Eevee 175 V |  321 Cp | 76.02% | Lvl 11 | Chance: 0.36 | with a GreatBall and received XP 210
