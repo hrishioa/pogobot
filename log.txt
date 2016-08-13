@@ -8489,3 +8489,13 @@
 [00:49:31] (NAVIGATION) Distance to target location: 68.57 meters. Will take 8.82 seconds driving at 28kmh
 [00:49:35] (INFO) Found 1 catchable Pokemon
 [00:49:37] (Wild Success) | Staryu 145 V |  197 Cp | 72.98% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:49:39] (INFO) Found 1 pokemon to transfer...
+[00:49:40] (TRANSFER) Staryu 145 V |  197 Cp | 72.98% | Lvl 08 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 90
+[00:49:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[00:49:45] (POKESTOP) Kent Ridge Heritage Trail Pgp Entrance  in 73.13 m distance
+[00:49:45] (NAVIGATION) Distance to target location: 73.13 meters. Will take 8.23 seconds driving at 32kmh
+[00:49:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemSuperPotion
+[00:49:53] (POKESTOP) Pgp eCanteen in 147.75 m distance
+[00:49:53] (NAVIGATION) Distance to target location: 147.75 meters. Will take 17.16 seconds driving at 31kmh
+[00:49:55] (INFO) Found 1 catchable Pokemon
+[00:49:56] (Wild Success) | Zubat 109 V |  213 Cp | 38.22% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
