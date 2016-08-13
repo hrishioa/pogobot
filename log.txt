@@ -5192,3 +5192,9 @@
 [23:02:50] (RECYCLING) GreatBall x 3
 [23:02:53] (INFO) Found 1 catchable Pokemon
 [23:02:54] (Wild Success) | Rattata 137 V |  188 Cp | 56.11% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
+[23:02:56] (INFO) Found 1 pokemon to transfer...
+[23:02:57] (TRANSFER) Rattata 128 V |   69 Cp | 61.00% | Lvl 05 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 73
+[23:02:58] (POKESTOP) Rochester Mall Fountain in 73.23 m distance
+[23:02:58] (NAVIGATION) Distance to target location: 73.23 meters. Will take 8.5 seconds driving at 31kmh
+[23:03:00] (INFO) Found 1 catchable Pokemon
+[23:03:01] (Wild Success) | Krabby 147 V |  190 Cp | 76.06% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
