@@ -21162,3 +21162,26 @@
 [07:51:03] (BERRY) ItemRazzBerry used, remaining: 49
 [07:51:03] (Wild Success) | Golbat 171 V |  650 Cp | 45.95% | Lvl 13 | Chance: 0.16 | with a GreatBall and received XP 210
 [07:51:05] (Wild Success) | Ekans 94 V |   55 Cp | 61.38% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[07:51:07] (INFO) Found 3 pokemon to transfer...
+[07:51:09] (TRANSFER) Zubat 149 V |  291 Cp | 75.45% | Lvl 17 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 621
+[07:51:11] (TRANSFER) Ekans 94 V |   55 Cp | 61.38% | Lvl 03 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 189
+[07:51:13] (TRANSFER) Golbat 171 V |  650 Cp | 45.95% | Lvl 13 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 622
+[07:51:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[07:51:18] (POKESTOP) Waterfall Fountain in 72.65 m distance
+[07:51:18] (NAVIGATION) Distance to target location: 72.65 meters. Will take 9.02 seconds driving at 29kmh
+[07:51:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:51:28] (POKESTOP) SeSaMe Center in 79.59 m distance
+[07:51:28] (NAVIGATION) Distance to target location: 79.59 meters. Will take 10.23 seconds driving at 28kmh
+[07:51:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:51:37] (INFO) Found 1 Recyclable Item:
+[07:51:37] (RECYCLING) PokeBall x 12
+[07:51:39] (POKESTOP) Mochtar Riady Building in 48.94 m distance
+[07:51:39] (NAVIGATION) Distance to target location: 48.94 meters. Will take 6.08 seconds driving at 29kmh
+[07:51:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:51:45] (POKESTOP) Kent Ridge Hall in 80.22 m distance
+[07:51:45] (NAVIGATION) Distance to target location: 80.22 meters. Will take 9.96 seconds driving at 29kmh
+[07:51:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[07:51:55] (POKESTOP) NUS Model in 297.95 m distance
+[07:51:55] (NAVIGATION) Distance to target location: 297.95 meters. Will take 19.86 seconds driving at 54kmh
+[07:52:12] (INFO) Found 1 catchable Pokemon
+[07:52:14] (Wild Success) | Zubat 130 V |  150 Cp | 70.05% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
