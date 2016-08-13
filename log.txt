@@ -20393,3 +20393,17 @@
 [07:28:49] (INFO) Found 1 catchable Pokemon
 [07:28:49] (BERRY) ItemRazzBerry used, remaining: 49
 [07:28:51] (Wild Success) | Doduo 183 V |  485 Cp | 78.07% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[07:28:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:28:55] (INFO) Found 2 Recyclable Items:
+[07:28:56] (RECYCLING) PokeBall x 8
+[07:28:56] (RECYCLING) Potion x 1
+[07:28:59] (POKESTOP) West Coast Green Zone in 39.57 m distance
+[07:28:59] (NAVIGATION) Distance to target location: 39.57 meters. Will take 4.91 seconds driving at 29kmh
+[07:29:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:29:04] (POKESTOP) Cempaka 2004 in 54.62 m distance
+[07:29:04] (NAVIGATION) Distance to target location: 54.62 meters. Will take 6.14 seconds driving at 32kmh
+[07:29:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:29:10] (POKESTOP) West Coast Playground in 202.56 m distance
+[07:29:10] (NAVIGATION) Distance to target location: 202.56 meters. Will take 19.71 seconds driving at 37kmh
+[07:29:12] (INFO) Found 1 catchable Pokemon
+[07:29:13] (Wild Success) | Pidgey 85 V |   40 Cp | 25.61% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
