@@ -2480,3 +2480,15 @@
 [21:25:48] (NAVIGATION) Distance to target location: 95.59 meters. Will take 12.29 seconds driving at 28kmh
 [21:25:56] (INFO) Found 1 catchable Pokemon
 [21:25:58] (Wild Success) | Zubat 142 V |  143 Cp | 53.02% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[21:25:59] (INFO) Found 1 pokemon to transfer...
+[21:26:01] (TRANSFER) Zubat 142 V |  143 Cp | 53.02% | Lvl 09 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 188
+[21:26:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:26:04] (INFO) Found 3 Recyclable Items:
+[21:26:05] (RECYCLING) Revive x 1
+[21:26:06] (RECYCLING) RazzBerry x 4
+[21:26:07] (RECYCLING) PokeBall x 7
+[21:26:10] (POKESTOP) Kent Ridge Heritage Trail in 100.32 m distance
+[21:26:10] (NAVIGATION) Distance to target location: 100.32 meters. Will take 12.45 seconds driving at 29kmh
+[21:26:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[21:26:22] (INFO) Found 3 catchable Pokemon
+[21:26:23] (Wild Success) | Jynx 92 V |  111 Cp | 26.28% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
