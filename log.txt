@@ -6366,3 +6366,10 @@
 [23:40:31] (TRANSFER) Golbat 198 V |  725 Cp | 66.01% | Lvl 14 | Best: [Golbat 216 V |  697 Cp | 85.92% | Lvl 13] | Candy: 377
 [23:40:33] (INFO) Found 1 catchable Pokemon
 [23:40:34] (Wild Success) | Zubat 136 V |  264 Cp | 44.70% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[23:40:36] (INFO) Found 1 pokemon to transfer...
+[23:40:37] (TRANSFER) Zubat 136 V |  264 Cp | 44.70% | Lvl 17 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 381
+[23:40:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[23:40:41] (POKESTOP) Medical Abstracts in 58.94 m distance
+[23:40:41] (NAVIGATION) Distance to target location: 58.94 meters. Will take 7.58 seconds driving at 28kmh
+[23:40:45] (INFO) Found 1 catchable Pokemon
+[23:40:47] (Wild Success) | Zubat 108 V |  201 Cp | 43.17% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
