@@ -18940,3 +18940,13 @@
 [06:39:30] (NAVIGATION) Distance to target location: 99.95 meters. Will take 11.24 seconds driving at 32kmh
 [06:39:36] (INFO) Found 1 catchable Pokemon
 [06:39:39] (Wild Success) | Weedle 106 V |  196 Cp | 53.89% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[06:39:40] (INFO) Found 1 pokemon to transfer...
+[06:39:41] (TRANSFER) Weedle 106 V |  196 Cp | 53.89% | Lvl 18 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 389
+[06:39:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:39:46] (POKESTOP) Clementi West Street 1 Circle in 86.65 m distance
+[06:39:46] (NAVIGATION) Distance to target location: 86.65 meters. Will take 11.14 seconds driving at 28kmh
+[06:39:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 2 x ItemGreatBall, 3 x ItemPokeBall
+[06:39:57] (POKESTOP) West Coast Fan in 167.89 m distance
+[06:39:57] (NAVIGATION) Distance to target location: 167.89 meters. Will take 19.5 seconds driving at 31kmh
+[06:40:03] (INFO) Found 1 catchable Pokemon
+[06:40:04] (Wild Success) | Magikarp 84 V |   94 Cp | 49.89% | Lvl 16 | Chance: 0.52 | with a PokeBall and received XP 210
