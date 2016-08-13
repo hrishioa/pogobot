@@ -5398,3 +5398,19 @@
 [23:09:11] (Wild Success Attempt #2) | Spearow 128 V |  226 Cp | 58.33% | Lvl 13 | Chance: 0.41 | with a GreatBall 
 [23:09:12] (Wild Success) | Rattata 123 V |  164 Cp | 39.79% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 420
 [23:09:14] (Wild Success) | Rattata 138 V |  227 Cp | 49.97% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
+[23:09:16] (INFO) Found 3 pokemon to transfer...
+[23:09:18] (TRANSFER) Rattata 137 V |  188 Cp | 56.11% | Lvl 13 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 80
+[23:09:20] (TRANSFER) Rattata 123 V |  164 Cp | 39.79% | Lvl 12 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 81
+[23:09:22] (TRANSFER) Spearow 128 V |  226 Cp | 58.33% | Lvl 13 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 83
+[23:09:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[23:09:26] (INFO) Found 3 Recyclable Items:
+[23:09:27] (RECYCLING) RazzBerry x 2
+[23:09:28] (RECYCLING) PokeBall x 8
+[23:09:29] (RECYCLING) Potion x 2
+[23:09:32] (POKESTOP) SUTD Hostel Main Mural in 24.69 m distance
+[23:09:32] (NAVIGATION) Distance to target location: 24.69 meters. Will take 2.87 seconds driving at 31kmh
+[23:09:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:09:35] (POKESTOP) SUTD Building in 93.81 m distance
+[23:09:35] (NAVIGATION) Distance to target location: 93.81 meters. Will take 11.26 seconds driving at 30kmh
+[23:09:37] (INFO) Found 1 catchable Pokemon
+[23:09:39] (Wild Success) | Rattata 116 V |  149 Cp | 36.32% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
