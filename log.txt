@@ -588,3 +588,16 @@
 [20:19:33] (Wild Success) | Exeggcute 115 V |  102 Cp | 49.63% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 710
 [20:19:36] (INFO) Found 1 catchable Pokemon
 [20:19:37] (Wild Success) | Rattata 124 V |  127 Cp | 50.57% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:19:39] (INFO) Found 1 pokemon to transfer...
+[20:19:40] (TRANSFER) Rattata 95 V |   75 Cp | 26.87% | Lvl 06 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 18
+[20:19:42] (INFO) Found 1 catchable Pokemon
+[20:19:44] (Wild Flee) | Weedle 57 V |   10 Cp | 23.93% | Lvl 01 | Chance: 1 | with a PokeBall 
+[20:19:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:19:48] (INFO) Found 2 Recyclable Items:
+[20:19:49] (RECYCLING) PokeBall x 6
+[20:19:49] (RECYCLING) Revive x 1
+[20:19:52] (POKESTOP) Norwegian Church in 202.32 m distance
+[20:19:52] (NAVIGATION) Distance to target location: 202.32 meters. Will take 19.69 seconds driving at 37kmh
+[20:20:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:20:12] (INFO) Found 1 catchable Pokemon
+[20:20:13] (Wild Success) | Zubat 120 V |   93 Cp | 56.43% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
