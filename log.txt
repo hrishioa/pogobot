@@ -7270,3 +7270,8 @@
 [00:09:15] (NAVIGATION) Distance to target location: 54.23 meters. Will take 6.3 seconds driving at 31kmh
 [00:09:19] (INFO) Found 1 catchable Pokemon
 [00:09:20] (Wild Success) | Horsea 162 V |  194 Cp | 83.45% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:09:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[00:09:24] (POKESTOP) La Viva in 80.74 m distance
+[00:09:24] (NAVIGATION) Distance to target location: 80.74 meters. Will take 10.02 seconds driving at 29kmh
+[00:09:27] (INFO) Found 1 catchable Pokemon
+[00:09:29] (Wild Success) | Krabby 152 V |  272 Cp | 70.75% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
