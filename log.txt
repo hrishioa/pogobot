@@ -11720,3 +11720,10 @@
 [02:35:06] (INFO) Found 2 catchable Pokemon
 [02:35:08] (Wild Success) | Oddish 153 V |  268 Cp | 59.10% | Lvl 09 | Chance: 0.6 | with a PokeBall and received XP 210
 [02:35:09] (Wild Success) | Rattata 115 V |  136 Cp | 38.84% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:35:11] (INFO) Found 1 pokemon to transfer...
+[02:35:12] (TRANSFER) Rattata 115 V |  136 Cp | 38.84% | Lvl 10 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 185
+[02:35:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:35:17] (POKESTOP) Retro Chess Table  in 59.93 m distance
+[02:35:17] (NAVIGATION) Distance to target location: 59.93 meters. Will take 7.44 seconds driving at 29kmh
+[02:35:20] (INFO) Found 1 catchable Pokemon
+[02:35:21] (Wild Success) | Bellsprout 129 V |  398 Cp | 24.14% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
