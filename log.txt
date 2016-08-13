@@ -3255,3 +3255,17 @@
 [21:47:18] (NAVIGATION) Distance to target location: 93.62 meters. Will take 11.23 seconds driving at 30kmh
 [21:47:23] (INFO) Found 1 catchable Pokemon
 [21:47:25] (Wild Success) | Zubat 106 V |  124 Cp | 49.39% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[21:47:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemHyperPotion
+[21:47:30] (POKESTOP) øˆ7uSbÇ† in 115.8 m distance
+[21:47:30] (NAVIGATION) Distance to target location: 115.8 meters. Will take 14.37 seconds driving at 29kmh
+[21:47:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:47:44] (POKESTOP) The Dragon Wall in 191.06 m distance
+[21:47:44] (NAVIGATION) Distance to target location: 191.06 meters. Will take 19.65 seconds driving at 35kmh
+[21:48:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:48:04] (POKESTOP) The Angry Red Face in 74.15 m distance
+[21:48:04] (NAVIGATION) Distance to target location: 74.15 meters. Will take 9.53 seconds driving at 28kmh
+[21:48:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:48:13] (POKESTOP) Ram and Snake in 245.79 m distance
+[21:48:13] (NAVIGATION) Distance to target location: 245.79 meters. Will take 19.66 seconds driving at 45kmh
+[21:48:26] (INFO) Found 1 catchable Pokemon
+[21:48:28] (Wild Success) | Zubat 118 V |  201 Cp | 43.43% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
