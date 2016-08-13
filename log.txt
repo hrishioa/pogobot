@@ -5807,3 +5807,12 @@
 [23:22:43] (Wild Escape) | Squirtle 86 V |  108 Cp | 9.66% | Lvl 05 | Chance: 0.27 | with a GreatBall 
 [23:22:43] (Wild Success Attempt #2) | Squirtle 86 V |  108 Cp | 9.66% | Lvl 05 | Chance: 0.27 | with a GreatBall 
 [23:22:46] (Wild Success) | Zubat 114 V |  152 Cp | 38.80% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[23:22:47] (INFO) Found 3 pokemon to transfer...
+[23:22:49] (TRANSFER) Eevee 165 V |  315 Cp | 67.92% | Lvl 11 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 26
+[23:22:51] (TRANSFER) Zubat 123 V |   58 Cp | 51.65% | Lvl 04 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 340
+[23:22:53] (TRANSFER) Zubat 114 V |  152 Cp | 38.80% | Lvl 10 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 341
+[23:22:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:22:56] (POKESTOP) Cut CO2 Emission By 180 Million Tons A Year in 418.91 m distance
+[23:22:56] (NAVIGATION) Distance to target location: 418.91 meters. Will take 21.54 seconds driving at 70kmh
+[23:23:14] (INFO) Found 1 catchable Pokemon
+[23:23:15] (Wild Success) | Krabby 163 V |  345 Cp | 82.06% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
