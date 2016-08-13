@@ -16504,3 +16504,22 @@
 [05:19:37] (Wild Success) | Staryu 132 V |  307 Cp | 51.14% | Lvl 13 | Chance: 0.41 | with a PokeBall and received XP 210
 [05:19:41] (INFO) Found 1 catchable Pokemon
 [05:19:43] (Wild Success) | Goldeen 163 V |  355 Cp | 65.14% | Lvl 14 | Chance: 0.4 | with a PokeBall and received XP 210
+[05:19:46] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemRevive, 4 x ItemPokeBall
+[05:19:47] (INFO) Found 1 Recyclable Item:
+[05:19:48] (RECYCLING) Revive x 2
+[05:19:50] (POKESTOP) Hidden Buddha Statue  in 78.55 m distance
+[05:19:50] (NAVIGATION) Distance to target location: 78.55 meters. Will take 9.12 seconds driving at 31kmh
+[05:19:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[05:20:00] (POKESTOP) Metallic Windmill in 91.13 m distance
+[05:20:00] (NAVIGATION) Distance to target location: 91.13 meters. Will take 10.58 seconds driving at 31kmh
+[05:20:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:20:10] (POKESTOP) West Coast Public Stage in 111.02 m distance
+[05:20:10] (NAVIGATION) Distance to target location: 111.02 meters. Will take 14.27 seconds driving at 28kmh
+[05:20:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[05:20:24] (POKESTOP) Pasir Panjang Garden in 58.53 m distance
+[05:20:24] (NAVIGATION) Distance to target location: 58.53 meters. Will take 6.58 seconds driving at 32kmh
+[05:20:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[05:20:30] (POKESTOP) West Coast Road Sculpture in 109.44 m distance
+[05:20:30] (NAVIGATION) Distance to target location: 109.44 meters. Will take 12.71 seconds driving at 31kmh
+[05:20:36] (INFO) Found 1 catchable Pokemon
+[05:20:37] (Wild Success) | Venonat 129 V |  100 Cp | 69.09% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
