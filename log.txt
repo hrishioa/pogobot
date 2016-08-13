@@ -16613,3 +16613,13 @@
 [05:25:05] (NAVIGATION) Distance to target location: 200.18 meters. Will take 19.48 seconds driving at 37kmh
 [05:25:20] (INFO) Found 1 catchable Pokemon
 [05:25:21] (Wild Success) | Pidgey 109 V |  128 Cp | 40.60% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[05:25:23] (INFO) Found 1 pokemon to transfer...
+[05:25:25] (TRANSFER) Pidgey 109 V |  128 Cp | 40.60% | Lvl 08 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 733
+[05:25:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[05:25:30] (POKESTOP) Clementi Town Centre Gateway in 53.13 m distance
+[05:25:30] (NAVIGATION) Distance to target location: 53.13 meters. Will take 6.17 seconds driving at 31kmh
+[05:25:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:25:35] (POKESTOP) Clementi Town Centre in 47.38 m distance
+[05:25:35] (NAVIGATION) Distance to target location: 47.38 meters. Will take 5.88 seconds driving at 29kmh
+[05:25:40] (INFO) Found 1 catchable Pokemon
+[05:25:41] (Wild Success) | Weedle 83 V |  162 Cp | 35.32% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
