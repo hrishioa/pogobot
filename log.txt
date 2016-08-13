@@ -19994,3 +19994,4 @@
 [07:14:16] (TRANSFER) Pidgey 119 V |  360 Cp | 27.72% | Lvl 23 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 896
 [07:14:18] (INFO) Found 2 catchable Pokemon
 [07:14:19] (Wild Success) | Weedle 57 V |  154 Cp | 10.38% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[07:14:21] (Wild Success) | Staryu 151 V |  434 Cp | 58.47% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
