@@ -20265,3 +20265,10 @@
 [07:22:28] (NAVIGATION) Distance to target location: 105.47 meters. Will take 13.56 seconds driving at 28kmh
 [07:22:34] (INFO) Found 1 catchable Pokemon
 [07:22:36] (Wild Success) | Rattata 111 V |  197 Cp | 28.55% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[07:22:37] (INFO) Found 1 pokemon to transfer...
+[07:22:39] (TRANSFER) Rattata 111 V |  197 Cp | 28.55% | Lvl 15 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 549
+[07:22:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemHyperPotion, 2 x ItemPokeBall
+[07:22:43] (POKESTOP) The Kingdom City's Gate in 78.32 m distance
+[07:22:43] (NAVIGATION) Distance to target location: 78.32 meters. Will take 9.72 seconds driving at 29kmh
+[07:22:47] (INFO) Found 2 catchable Pokemon
+[07:22:49] (Wild Success) | Krabby 128 V |   98 Cp | 70.56% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
