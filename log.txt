@@ -8122,3 +8122,13 @@
 [00:36:29] (NAVIGATION) Distance to target location: 102.86 meters. Will take 11.57 seconds driving at 32kmh
 [00:36:31] (INFO) Found 1 catchable Pokemon
 [00:36:32] (Wild Success) | Krabby 129 V |   53 Cp | 66.52% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[00:36:34] (INFO) Found 1 pokemon to transfer...
+[00:36:36] (TRANSFER) Krabby 129 V |   53 Cp | 66.52% | Lvl 03 | Best: [Krabby 163 V |  345 Cp | 82.06% | Lvl 16] | Candy: 82
+[00:36:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemUltraBall
+[00:36:40] (POKESTOP) Scientific Exhibit #1 at Level 6 in 294.92 m distance
+[00:36:40] (NAVIGATION) Distance to target location: 294.92 meters. Will take 19.66 seconds driving at 54kmh
+[00:37:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[00:37:01] (POKESTOP) Owl Statue in 165.61 m distance
+[00:37:01] (NAVIGATION) Distance to target location: 165.61 meters. Will take 19.87 seconds driving at 30kmh
+[00:37:04] (INFO) Found 1 catchable Pokemon
+[00:37:05] (Wild Success) | Spearow 134 V |  157 Cp | 60.75% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
