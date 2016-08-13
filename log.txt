@@ -20302,3 +20302,9 @@
 [07:24:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
 [07:24:28] (INFO) Found 1 catchable Pokemon
 [07:24:30] (Wild Success) | Pidgey 104 V |  131 Cp | 45.83% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[07:24:32] (INFO) Found 1 pokemon to transfer...
+[07:24:33] (TRANSFER) Pidgey 104 V |  131 Cp | 45.83% | Lvl 08 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 915
+[07:24:34] (POKESTOP) Community Spirit Mural in 661.29 m distance
+[07:24:34] (NAVIGATION) Distance to target location: 661.29 meters. Will take 34.01 seconds driving at 70kmh
+[07:25:02] (INFO) Found 1 catchable Pokemon
+[07:25:04] (Wild Success) | Rattata 128 V |  112 Cp | 51.55% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
