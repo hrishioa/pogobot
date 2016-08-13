@@ -2492,3 +2492,4 @@
 [21:26:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
 [21:26:22] (INFO) Found 3 catchable Pokemon
 [21:26:23] (Wild Success) | Jynx 92 V |  111 Cp | 26.28% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
+[21:26:25] (Wild Success) | Jynx 107 V |  162 Cp | 46.19% | Lvl 04 | Chance: 0.46 | with a GreatBall and received XP 210
