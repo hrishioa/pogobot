@@ -19711,3 +19711,12 @@
 [07:06:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
 [07:06:13] (INFO) Found 1 catchable Pokemon
 [07:06:15] (Wild Success) | Rattata 134 V |  101 Cp | 63.61% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[07:06:16] (INFO) Found 1 pokemon to transfer...
+[07:06:18] (TRANSFER) Rattata 134 V |  101 Cp | 63.61% | Lvl 07 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 521
+[07:06:18] (POKESTOP) Red Fire Truck in 78.63 m distance
+[07:06:18] (NAVIGATION) Distance to target location: 78.63 meters. Will take 10.11 seconds driving at 28kmh
+[07:06:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:06:28] (POKESTOP) Blue Dragon Boat  in 69.77 m distance
+[07:06:28] (NAVIGATION) Distance to target location: 69.77 meters. Will take 8.37 seconds driving at 30kmh
+[07:06:33] (INFO) Found 3 catchable Pokemon
+[07:06:35] (Wild Success) | Weedle 138 V |  202 Cp | 62.54% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
