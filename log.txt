@@ -19928,3 +19928,4 @@
 [07:12:08] (TRANSFER) Weedle 80 V |   25 Cp | 22.96% | Lvl 03 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 420
 [07:12:10] (INFO) Found 2 catchable Pokemon
 [07:12:12] (Wild Success) | Bellsprout 145 V |  139 Cp | 66.32% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[07:12:13] (Wild Success) | Zubat 113 V |  166 Cp | 36.10% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
