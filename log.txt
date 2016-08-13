@@ -9317,3 +9317,12 @@
 [01:19:15] (INFO) Found 2 catchable Pokemon
 [01:19:16] (Wild Success) | Pidgey 100 V |  141 Cp | 30.52% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [01:19:18] (Wild Success) | Pidgey 88 V |   92 Cp | 34.32% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[01:19:19] (INFO) Found 2 pokemon to transfer...
+[01:19:22] (TRANSFER) Pidgey 100 V |  141 Cp | 30.52% | Lvl 09 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 368
+[01:19:24] (TRANSFER) Pidgey 88 V |   92 Cp | 34.32% | Lvl 06 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 369
+[01:19:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[01:19:28] (POKESTOP) Cornflakes Man in 40.07 m distance
+[01:19:28] (NAVIGATION) Distance to target location: 40.07 meters. Will take 5.15 seconds driving at 28kmh
+[01:19:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[01:19:32] (INFO) Found 1 catchable Pokemon
+[01:19:34] (Wild Success) | Zubat 115 V |  104 Cp | 39.65% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
