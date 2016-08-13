@@ -16666,3 +16666,4 @@
 [05:27:25] (Wild Success Attempt #2) | Meowth 172 V |  231 Cp | 89.05% | Lvl 11 | Chance: 0.45 | with a PokeBall 
 [05:27:28] (INFO) Found 2 catchable Pokemon
 [05:27:30] (Wild Success) | Pidgey 104 V |  269 Cp | 31.62% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[05:27:31] (Wild Success) | Caterpie 101 V |  169 Cp | 34.44% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
