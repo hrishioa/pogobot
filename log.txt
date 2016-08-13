@@ -6013,3 +6013,48 @@
 [23:27:45] (NAVIGATION) Distance to target location: 75.58 meters. Will take 9.07 seconds driving at 30kmh
 [23:27:48] (INFO) Found 1 catchable Pokemon
 [23:27:49] (Wild Success) | Pidgey 94 V |  172 Cp | 27.12% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[23:27:51] (INFO) Found 1 pokemon to transfer...
+[23:27:52] (TRANSFER) Pidgey 94 V |  172 Cp | 27.12% | Lvl 11 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 202
+[23:27:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:27:57] (POKESTOP) The Seagull Nebula in 112.38 m distance
+[23:27:57] (NAVIGATION) Distance to target location: 112.38 meters. Will take 13.49 seconds driving at 30kmh
+[23:28:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[23:28:10] (POKESTOP) S1A Garden in 227.8 m distance
+[23:28:10] (NAVIGATION) Distance to target location: 227.8 meters. Will take 19.53 seconds driving at 42kmh
+[23:28:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[23:28:30] (INFO) Found 4 Recyclable Items:
+[23:28:31] (RECYCLING) RazzBerry x 1
+[23:28:32] (RECYCLING) PokeBall x 11
+[23:28:33] (RECYCLING) Potion x 3
+[23:28:34] (RECYCLING) Revive x 2
+[23:28:37] (POKESTOP) Water Tank in 153.88 m distance
+[23:28:37] (NAVIGATION) Distance to target location: 153.88 meters. Will take 17.87 seconds driving at 31kmh
+[23:28:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[23:28:55] (POKESTOP) Temasek Lifesciences Laboratory in 163.95 m distance
+[23:28:55] (NAVIGATION) Distance to target location: 163.95 meters. Will take 19.67 seconds driving at 30kmh
+[23:29:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:29:14] (POKESTOP) IMRE in 156.53 m distance
+[23:29:14] (NAVIGATION) Distance to target location: 156.53 meters. Will take 18.18 seconds driving at 31kmh
+[23:29:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:29:33] (POKESTOP) Keio Cute Center in 126.94 m distance
+[23:29:33] (NAVIGATION) Distance to target location: 126.94 meters. Will take 15.76 seconds driving at 29kmh
+[23:29:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:29:49] (POKESTOP) Institute of Systems Science in 174.56 m distance
+[23:29:49] (NAVIGATION) Distance to target location: 174.56 meters. Will take 19.64 seconds driving at 32kmh
+[23:30:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:30:09] (INFO) Found 2 Recyclable Items:
+[23:30:09] (RECYCLING) PokeBall x 12
+[23:30:10] (RECYCLING) Revive x 2
+[23:30:14] (POKESTOP) Sage In Shaw in 345.48 m distance
+[23:30:14] (NAVIGATION) Distance to target location: 345.48 meters. Will take 19.74 seconds driving at 63kmh
+[23:30:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[23:30:35] (POKESTOP) Synergy in Motion in 53.06 m distance
+[23:30:35] (NAVIGATION) Distance to target location: 53.06 meters. Will take 5.97 seconds driving at 32kmh
+[23:30:39] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall, 2 x ItemRazzBerry
+[23:30:41] (POKESTOP) Compounds of Five Cubes in 130.68 m distance
+[23:30:41] (NAVIGATION) Distance to target location: 130.68 meters. Will take 16.8 seconds driving at 28kmh
+[23:30:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:30:58] (POKESTOP) First the Dream Then the Nightmare in 95.49 m distance
+[23:30:58] (NAVIGATION) Distance to target location: 95.49 meters. Will take 11.85 seconds driving at 29kmh
+[23:31:07] (INFO) Found 1 catchable Pokemon
+[23:31:09] (Wild Success) | Pidgey 98 V |  246 Cp | 22.55% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
