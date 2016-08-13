@@ -5387,3 +5387,13 @@
 [23:08:47] (INFO) Found 1 catchable Pokemon
 [23:08:48] (BERRY) ItemRazzBerry used, remaining: 50
 [23:08:49] (Wild Success) | Golbat 196 V |  728 Cp | 67.97% | Lvl 14 | Chance: 0.16 | with a GreatBall and received XP 420
+[23:08:50] (INFO) Found 2 pokemon to transfer...
+[23:08:52] (TRANSFER) Golbat 173 V |  413 Cp | 72.30% | Lvl 08 | Best: [Golbat 216 V |  697 Cp | 85.92% | Lvl 13] | Candy: 309
+[23:08:54] (TRANSFER) Spearow 142 V |   49 Cp | 90.02% | Lvl 03 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 79
+[23:08:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:08:59] (POKESTOP) SUTD Blue Wall Mural in 141.28 m distance
+[23:08:59] (NAVIGATION) Distance to target location: 141.28 meters. Will take 18.16 seconds driving at 28kmh
+[23:09:09] (INFO) Found 3 catchable Pokemon
+[23:09:10] (Wild Escape) | Spearow 128 V |  226 Cp | 58.33% | Lvl 13 | Chance: 0.41 | with a GreatBall 
+[23:09:11] (Wild Success Attempt #2) | Spearow 128 V |  226 Cp | 58.33% | Lvl 13 | Chance: 0.41 | with a GreatBall 
+[23:09:12] (Wild Success) | Rattata 123 V |  164 Cp | 39.79% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 420
