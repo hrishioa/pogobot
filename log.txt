@@ -7461,3 +7461,15 @@
 [00:15:56] (INFO) Found 2 catchable Pokemon
 [00:15:59] (Wild Success) | Poliwag 112 V |   52 Cp | 55.10% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [00:16:00] (Wild Success) | Bulbasaur 84 V |   38 Cp | 9.83% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
+[00:16:02] (INFO) Found 2 pokemon to transfer...
+[00:16:03] (TRANSFER) Bulbasaur 84 V |   38 Cp | 9.83% | Lvl 02 | Best: [Bulbasaur 169 V |  302 Cp | 53.73% | Lvl 11] | Candy: 38
+[00:16:06] (TRANSFER) Poliwag 112 V |   52 Cp | 55.10% | Lvl 03 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 61
+[00:16:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemGreatBall
+[00:16:10] (INFO) Found 3 Recyclable Items:
+[00:16:11] (RECYCLING) PokeBall x 8
+[00:16:12] (RECYCLING) Potion x 2
+[00:16:13] (RECYCLING) Revive x 1
+[00:16:15] (POKESTOP) Mural at Block 71 in 96.93 m distance
+[00:16:15] (NAVIGATION) Distance to target location: 96.93 meters. Will take 10.9 seconds driving at 32kmh
+[00:16:21] (INFO) Found 1 catchable Pokemon
+[00:16:24] (Wild Success) | Zubat 111 V |   85 Cp | 27.81% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
