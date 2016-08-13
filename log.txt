@@ -9804,3 +9804,4 @@
 [01:37:18] (TRANSFER) Bulbasaur 167 V |  277 Cp | 56.95% | Lvl 10 | Best: [Bulbasaur 174 V |  480 Cp | 40.91% | Lvl 18] | Candy: 46
 [01:37:20] (INFO) Found 3 catchable Pokemon
 [01:37:21] (Wild Success) | Ekans 67 V |   74 Cp | 46.31% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[01:37:23] (Wild Success) | Staryu 181 V |  415 Cp | 86.75% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
