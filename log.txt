@@ -12143,3 +12143,23 @@
 [02:49:47] (INFO) Found 1 catchable Pokemon
 [02:49:48] (BERRY) ItemRazzBerry used, remaining: 46
 [02:49:49] (Wild Success) | Pidgey 125 V |  358 Cp | 39.29% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[02:49:51] (INFO) Found 1 pokemon to transfer...
+[02:49:52] (TRANSFER) Pidgey 125 V |  358 Cp | 39.29% | Lvl 22 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 528
+[02:49:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[02:49:54] (INFO) Found 3 Recyclable Items:
+[02:49:55] (RECYCLING) PokeBall x 8
+[02:49:55] (RECYCLING) Potion x 2
+[02:49:56] (RECYCLING) Revive x 2
+[02:50:00] (POKESTOP) Playground at Block 714 in 61.63 m distance
+[02:50:00] (NAVIGATION) Distance to target location: 61.63 meters. Will take 7.16 seconds driving at 31kmh
+[02:50:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[02:50:06] (POKESTOP) The Mermaid Mural in 31.85 m distance
+[02:50:06] (NAVIGATION) Distance to target location: 31.85 meters. Will take 3.82 seconds driving at 30kmh
+[02:50:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:50:11] (POKESTOP) Three Portals Make A Field in 167.17 m distance
+[02:50:11] (NAVIGATION) Distance to target location: 167.17 meters. Will take 19.41 seconds driving at 31kmh
+[02:50:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[02:50:30] (POKESTOP) Playground Between Block 709&712 in 54.98 m distance
+[02:50:30] (NAVIGATION) Distance to target location: 54.98 meters. Will take 6.83 seconds driving at 29kmh
+[02:50:32] (INFO) Found 1 catchable Pokemon
+[02:50:34] (Wild Success) | Rattata 130 V |  224 Cp | 45.86% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
