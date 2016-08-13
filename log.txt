@@ -8202,3 +8202,9 @@
 [00:39:55] (TRANSFER) Krabby 105 V |  186 Cp | 32.19% | Lvl 10 | Best: [Krabby 163 V |  345 Cp | 82.06% | Lvl 16] | Candy: 86
 [00:39:57] (INFO) Found 1 catchable Pokemon
 [00:39:58] (Wild Success) | Gastly 140 V |  118 Cp | 58.10% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
+[00:40:01] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 3 x ItemPokeBall, 2 x ItemPotion, 1 x ItemGreatBall
+[00:40:02] (POKESTOP) A Visual Narrative Of Pandemonic Rhythmic Movement in 80.68 m distance
+[00:40:02] (NAVIGATION) Distance to target location: 80.68 meters. Will take 10.37 seconds driving at 28kmh
+[00:40:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[00:40:11] (INFO) Found 1 catchable Pokemon
+[00:40:13] (Wild Success) | Pidgey 97 V |  242 Cp | 18.08% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
