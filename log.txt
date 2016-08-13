@@ -7244,3 +7244,29 @@
 [00:08:03] (INFO) Found 2 catchable Pokemon
 [00:08:04] (Wild Success) | Bulbasaur 152 V |  241 Cp | 46.21% | Lvl 09 | Chance: 0.2 | with a GreatBall and received XP 210
 [00:08:06] (Wild Success) | Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[00:08:07] (INFO) Found 2 pokemon to transfer...
+[00:08:09] (TRANSFER) Bellsprout 165 V |  230 Cp | 61.60% | Lvl 08 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 22
+[00:08:11] (TRANSFER) Bulbasaur 152 V |  241 Cp | 46.21% | Lvl 09 | Best: [Bulbasaur 169 V |  302 Cp | 53.73% | Lvl 11] | Candy: 30
+[00:08:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:08:15] (POKESTOP) Star Cascade in 21.23 m distance
+[00:08:15] (NAVIGATION) Distance to target location: 21.23 meters. Will take 2.39 seconds driving at 32kmh
+[00:08:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[00:08:19] (POKESTOP) Star Vista in 74.63 m distance
+[00:08:19] (NAVIGATION) Distance to target location: 74.63 meters. Will take 9.6 seconds driving at 28kmh
+[00:08:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:08:28] (INFO) Found 2 Recyclable Items:
+[00:08:29] (RECYCLING) RazzBerry x 2
+[00:08:30] (RECYCLING) PokeBall x 10
+[00:08:33] (POKESTOP) The Official Opening Of Star in 92.49 m distance
+[00:08:33] (NAVIGATION) Distance to target location: 92.49 meters. Will take 11.48 seconds driving at 29kmh
+[00:08:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[00:08:44] (POKESTOP) Mural at Rochester 3 in 188.39 m distance
+[00:08:44] (NAVIGATION) Distance to target location: 188.39 meters. Will take 19.95 seconds driving at 34kmh
+[00:09:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:09:05] (POKESTOP) Rochester Park - North Buona Vista Entrance in 84.98 m distance
+[00:09:05] (NAVIGATION) Distance to target location: 84.98 meters. Will take 10.55 seconds driving at 29kmh
+[00:09:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[00:09:15] (POKESTOP) B @ Rochester Park in 54.23 m distance
+[00:09:15] (NAVIGATION) Distance to target location: 54.23 meters. Will take 6.3 seconds driving at 31kmh
+[00:09:19] (INFO) Found 1 catchable Pokemon
+[00:09:20] (Wild Success) | Horsea 162 V |  194 Cp | 83.45% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
