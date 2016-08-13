@@ -2267,3 +2267,11 @@
 [21:19:20] (BERRY) ItemRazzBerry used, remaining: 49
 [21:19:21] (Wild Success) | Tangela 198 V |  570 Cp | 74.37% | Lvl 12 | Chance: 0.34 | with a GreatBall and received XP 210
 [21:19:23] (Wild Success) | Weedle 58 V |   45 Cp | 22.24% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[21:19:24] (INFO) Found 2 pokemon to transfer...
+[21:19:26] (TRANSFER) Tangela 137 V |  213 Cp | 48.79% | Lvl 05 | Best: [Tangela 198 V |  570 Cp | 74.37% | Lvl 12] | Candy: 10
+[21:19:28] (TRANSFER) Weedle 58 V |   45 Cp | 22.24% | Lvl 05 | Best: [Weedle 114 V |  137 Cp | 44.94% | Lvl 13] | Candy: 70
+[21:19:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[21:19:33] (POKESTOP) Red Top Pavilion And Gathering Ground in 129.05 m distance
+[21:19:33] (NAVIGATION) Distance to target location: 129.05 meters. Will take 14.52 seconds driving at 32kmh
+[21:19:42] (INFO) Found 1 catchable Pokemon
+[21:19:44] (Wild Success) | Rattata 135 V |  159 Cp | 56.59% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
