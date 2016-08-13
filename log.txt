@@ -7870,3 +7870,20 @@
 [00:30:17] (Wild Success) | Spearow 125 V |  224 Cp | 55.57% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [00:30:19] (Wild Success) | Pidgey 91 V |   91 Cp | 31.92% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [00:30:20] (Wild Success) | Caterpie 93 V |   37 Cp | 38.92% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[00:30:22] (Wild Escape) | Pidgey 88 V |  140 Cp | 29.07% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[00:30:23] (Wild Success Attempt #2) | Pidgey 88 V |  140 Cp | 29.07% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[00:30:24] (INFO) Found 5 pokemon to transfer...
+[00:30:26] (TRANSFER) Caterpie 93 V |   37 Cp | 38.92% | Lvl 04 | Best: [Caterpie 101 V |  128 Cp | 33.36% | Lvl 13] | Candy: 74
+[00:30:28] (TRANSFER) Pidgey 91 V |   91 Cp | 31.92% | Lvl 06 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 280
+[00:30:31] (TRANSFER) Pidgey 88 V |  140 Cp | 29.07% | Lvl 09 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 281
+[00:30:33] (TRANSFER) Spearow 125 V |  224 Cp | 55.57% | Lvl 13 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 139
+[00:30:35] (TRANSFER) Weedle 95 V |  182 Cp | 21.71% | Lvl 19 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 105
+[00:30:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[00:30:36] (INFO) Found 51 Pokestops
+[00:30:39] (POKESTOP) I Carry Your Heart in 108 m distance
+[00:30:39] (NAVIGATION) Distance to target location: 108 meters. Will take 12.54 seconds driving at 31kmh
+[00:30:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[00:30:51] (POKESTOP) The Well-Wishing Wishing Well in 85.38 m distance
+[00:30:51] (NAVIGATION) Distance to target location: 85.38 meters. Will take 10.25 seconds driving at 30kmh
+[00:30:55] (INFO) Found 1 catchable Pokemon
+[00:30:57] (Wild Success) | Pidgey 84 V |  152 Cp | 18.72% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
