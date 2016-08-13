@@ -7201,3 +7201,10 @@
 [00:05:59] (NAVIGATION) Distance to target location: 118.99 meters. Will take 13.82 seconds driving at 31kmh
 [00:06:05] (INFO) Found 1 catchable Pokemon
 [00:06:07] (Wild Success) | Goldeen 175 V |  367 Cp | 79.34% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[00:06:09] (INFO) Found 1 pokemon to transfer...
+[00:06:10] (TRANSFER) Goldeen 172 V |  238 Cp | 85.71% | Lvl 09 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 102
+[00:06:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[00:06:15] (POKESTOP) Our Generation Oh Yeah! in 115.09 m distance
+[00:06:15] (NAVIGATION) Distance to target location: 115.09 meters. Will take 13.37 seconds driving at 31kmh
+[00:06:26] (INFO) Found 1 catchable Pokemon
+[00:06:28] (Wild Success) | Bulbasaur 125 V |   13 Cp | 41.87% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 210
