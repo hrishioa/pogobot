@@ -8839,3 +8839,4 @@
 [01:03:53] (INFO) Found 2 catchable Pokemon
 [01:03:54] (BERRY) ItemRazzBerry used, remaining: 48
 [01:03:55] (Wild Success) | Golbat 213 V |  880 Cp | 65.39% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
+[01:03:57] (Wild Success) | Venonat 127 V |  329 Cp | 36.70% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
