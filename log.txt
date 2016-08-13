@@ -4083,3 +4083,16 @@
 [22:17:49] (TRANSFER) Zubat 152 V |  250 Cp | 66.72% | Lvl 15 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 294
 [22:17:50] (INFO) Found 1 catchable Pokemon
 [22:17:52] (Wild Success) | Weedle 70 V |   15 Cp | 35.54% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[22:17:54] (INFO) Found 1 pokemon to transfer...
+[22:17:55] (TRANSFER) Weedle 70 V |   15 Cp | 35.54% | Lvl 02 | Best: [Weedle 121 V |   87 Cp | 57.43% | Lvl 08] | Candy: 86
+[22:17:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:17:58] (POKESTOP) GIIS Mural in 337.05 m distance
+[22:17:58] (NAVIGATION) Distance to target location: 337.05 meters. Will take 19.89 seconds driving at 61kmh
+[22:18:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 5 x ItemPokeBall
+[22:18:20] (POKESTOP) De-stress Corner of Alexander Hospital  in 458.38 m distance
+[22:18:20] (NAVIGATION) Distance to target location: 458.38 meters. Will take 23.57 seconds driving at 70kmh
+[22:18:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:18:44] (POKESTOP) Science And Technology Water Statue in 1479.42 m distance
+[22:18:44] (NAVIGATION) Distance to target location: 1479.42 meters. Will take 1.27 minutes driving at 70kmh
+[22:19:33] (INFO) Found 1 catchable Pokemon
+[22:19:35] (Wild Success) | Zubat 102 V |   73 Cp | 45.25% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
