@@ -18772,3 +18772,29 @@
 [06:36:38] (NAVIGATION) Distance to target location: 71.73 meters. Will take 8.07 seconds driving at 32kmh
 [06:36:40] (INFO) Found 1 catchable Pokemon
 [06:36:41] (Wild Success) | Magikarp 97 V |   10 Cp | 70.55% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[06:36:43] (INFO) Found 1 pokemon to transfer...
+[06:36:44] (TRANSFER) Magikarp 97 V |   10 Cp | 70.55% | Lvl 02 | Best: [Magikarp 107 V |   73 Cp | 74.82% | Lvl 11] | Candy: 142
+[06:36:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:36:49] (POKESTOP) Wu Tai Shan  in 85.5 m distance
+[06:36:49] (NAVIGATION) Distance to target location: 85.5 meters. Will take 9.62 seconds driving at 32kmh
+[06:36:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:37:00] (POKESTOP) West Coast Plaza Triple Fountain in 70.64 m distance
+[06:37:00] (NAVIGATION) Distance to target location: 70.64 meters. Will take 8.48 seconds driving at 30kmh
+[06:37:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[06:37:08] (INFO) Found 4 Recyclable Items:
+[06:37:09] (RECYCLING) PokeBall x 11
+[06:37:10] (RECYCLING) Potion x 1
+[06:37:11] (RECYCLING) SuperPotion x 1
+[06:37:12] (RECYCLING) Revive x 1
+[06:37:15] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 34.03 m distance
+[06:37:15] (NAVIGATION) Distance to target location: 34.03 meters. Will take 4.37 seconds driving at 28kmh
+[06:37:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[06:37:18] (POKESTOP) Wall Water Fountain in 61.53 m distance
+[06:37:18] (NAVIGATION) Distance to target location: 61.53 meters. Will take 7.38 seconds driving at 30kmh
+[06:37:24] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemUltraBall, 3 x ItemPokeBall
+[06:37:26] (POKESTOP) Health Mural in 82.58 m distance
+[06:37:26] (NAVIGATION) Distance to target location: 82.58 meters. Will take 9.59 seconds driving at 31kmh
+[06:37:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:37:34] (INFO) Found 1 catchable Pokemon
+[06:37:36] (BERRY) ItemRazzBerry used, remaining: 50
+[06:37:37] (Wild Success) | Bulbasaur 171 V |  455 Cp | 42.91% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
