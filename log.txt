@@ -19026,3 +19026,17 @@
 [06:43:21] (NAVIGATION) Distance to target location: 876.39 meters. Will take 45.07 seconds driving at 70kmh
 [06:43:42] (INFO) Found 1 catchable Pokemon
 [06:43:44] (Wild Success) | Poliwag 125 V |  250 Cp | 38.28% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[06:43:45] (INFO) Found 1 pokemon to transfer...
+[06:43:47] (TRANSFER) Poliwag 125 V |  250 Cp | 38.28% | Lvl 13 | Best: [Poliwag 169 V |  492 Cp | 60.84% | Lvl 24] | Candy: 162
+[06:44:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:44:08] (INFO) Found 3 Recyclable Items:
+[06:44:09] (RECYCLING) PokeBall x 9
+[06:44:09] (RECYCLING) Potion x 1
+[06:44:10] (RECYCLING) Revive x 2
+[06:44:13] (POKESTOP) West Coast Park Connector in 509.74 m distance
+[06:44:13] (NAVIGATION) Distance to target location: 509.74 meters. Will take 26.21 seconds driving at 70kmh
+[06:44:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[06:44:41] (POKESTOP) Sun Moon Mural in 180.21 m distance
+[06:44:41] (NAVIGATION) Distance to target location: 180.21 meters. Will take 19.66 seconds driving at 33kmh
+[06:44:47] (INFO) Found 1 catchable Pokemon
+[06:44:49] (Wild Success) | Bellsprout 135 V |  405 Cp | 30.31% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
