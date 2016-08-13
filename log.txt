@@ -4691,3 +4691,10 @@
 [22:44:06] (Wild Success) | Staryu 122 V |   63 Cp | 63.54% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
 [22:44:09] (INFO) Found 1 catchable Pokemon
 [22:44:10] (Wild Success) | Rattata 113 V |  175 Cp | 34.71% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
+[22:44:12] (INFO) Found 1 pokemon to transfer...
+[22:44:14] (TRANSFER) Rattata 113 V |  175 Cp | 34.71% | Lvl 13 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 57
+[22:44:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[22:44:17] (POKESTOP) A Visual Narrative Of Pandemonic Rhythmic Movement in 80.68 m distance
+[22:44:17] (NAVIGATION) Distance to target location: 80.68 meters. Will take 9.68 seconds driving at 30kmh
+[22:44:22] (INFO) Found 1 catchable Pokemon
+[22:44:22] (Wild Success) | Zubat 161 V |  287 Cp | 71.65% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 420
