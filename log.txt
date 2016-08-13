@@ -17872,3 +17872,10 @@
 [06:07:16] (TRANSFER) Rattata 132 V |  225 Cp | 48.23% | Lvl 16 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 437
 [06:07:18] (INFO) Found 1 catchable Pokemon
 [06:07:20] (Wild Success) | Eevee 137 V |  104 Cp | 67.11% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
+[06:07:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:07:29] (ATTENTION) No locations in your area...
+[06:07:35] (INFO) Found 42 Pokestops
+[06:07:35] (POKESTOP) West Coast Playground in 96.03 m distance
+[06:07:35] (NAVIGATION) Distance to target location: 96.03 meters. Will take 10.8 seconds driving at 32kmh
+[06:07:40] (INFO) Found 1 catchable Pokemon
+[06:07:42] (Wild Success) | Rattata 131 V |  113 Cp | 54.70% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
