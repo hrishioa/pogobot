@@ -3585,3 +3585,39 @@
 [22:01:21] (INFO) Found 2 catchable Pokemon
 [22:01:22] (Wild Success) | Zubat 166 V |  153 Cp | 75.89% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [22:01:24] (Wild Success) | Pidgey 86 V |   42 Cp | 41.59% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[22:01:26] (INFO) Found 2 pokemon to transfer...
+[22:01:27] (TRANSFER) Zubat 118 V |  201 Cp | 43.43% | Lvl 13 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 242
+[22:01:29] (TRANSFER) Pidgey 86 V |   42 Cp | 41.59% | Lvl 03 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 172
+[22:01:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:01:36] (INFO) Found 3 Recyclable Items:
+[22:01:38] (RECYCLING) RazzBerry x 1
+[22:01:38] (RECYCLING) PokeBall x 9
+[22:01:39] (RECYCLING) Potion x 1
+[22:01:41] (POKESTOP) Artillery Display at Kent Ridge Park in 109.56 m distance
+[22:01:41] (NAVIGATION) Distance to target location: 109.56 meters. Will take 13.15 seconds driving at 30kmh
+[22:01:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[22:01:55] (POKESTOP) National Community Leadership Institute   in 180.01 m distance
+[22:01:55] (NAVIGATION) Distance to target location: 180.01 meters. Will take 19.64 seconds driving at 33kmh
+[22:02:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[22:02:15] (POKESTOP) Fountain at the Peak in 488.81 m distance
+[22:02:15] (NAVIGATION) Distance to target location: 488.81 meters. Will take 25.14 seconds driving at 70kmh
+[22:02:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:02:41] (POKESTOP) Triplets Golden Art Piece in 46.61 m distance
+[22:02:41] (NAVIGATION) Distance to target location: 46.61 meters. Will take 5.79 seconds driving at 29kmh
+[22:02:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[22:02:47] (POKESTOP) Waterfall Feature in 83.67 m distance
+[22:02:47] (NAVIGATION) Distance to target location: 83.67 meters. Will take 10.39 seconds driving at 29kmh
+[22:02:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:02:56] (INFO) Found 4 Recyclable Items:
+[22:02:57] (RECYCLING) RazzBerry x 2
+[22:02:58] (RECYCLING) PokeBall x 9
+[22:02:59] (RECYCLING) Potion x 1
+[22:03:00] (RECYCLING) Revive x 1
+[22:03:04] (POKESTOP) White Guardian and Buddha Statue in 85.8 m distance
+[22:03:04] (NAVIGATION) Distance to target location: 85.8 meters. Will take 9.96 seconds driving at 31kmh
+[22:03:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:03:14] (POKESTOP) Serpent Statue in 37.18 m distance
+[22:03:14] (NAVIGATION) Distance to target location: 37.18 meters. Will take 4.78 seconds driving at 28kmh
+[22:03:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:03:17] (INFO) Found 1 catchable Pokemon
+[22:03:19] (Wild Success) | Goldeen 123 V |  334 Cp | 41.33% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
