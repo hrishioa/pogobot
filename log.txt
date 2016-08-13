@@ -19011,3 +19011,10 @@
 [06:42:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 3 x ItemPokeBall
 [06:42:57] (INFO) Found 1 catchable Pokemon
 [06:42:59] (Wild Success) | Rattata 136 V |  132 Cp | 62.79% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[06:43:01] (INFO) Found 1 pokemon to transfer...
+[06:43:02] (TRANSFER) Rattata 136 V |  132 Cp | 62.79% | Lvl 09 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 485
+[06:43:03] (POKESTOP) You Hold The Key in 84.18 m distance
+[06:43:03] (NAVIGATION) Distance to target location: 84.18 meters. Will take 9.78 seconds driving at 31kmh
+[06:43:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[06:43:12] (INFO) Found 2 catchable Pokemon
+[06:43:14] (Wild Success) | Pidgey 120 V |  199 Cp | 45.29% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
