@@ -18103,3 +18103,18 @@
 [06:14:30] (NAVIGATION) Distance to target location: 82.85 meters. Will take 10.65 seconds driving at 28kmh
 [06:14:38] (INFO) Found 1 catchable Pokemon
 [06:14:39] (Wild Success) | Rattata 134 V |   10 Cp | 72.67% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[06:14:41] (INFO) Found 1 pokemon to transfer...
+[06:14:43] (TRANSFER) Rattata 134 V |   10 Cp | 72.67% | Lvl 01 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 457
+[06:14:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[06:14:46] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 36.9 m distance
+[06:14:46] (NAVIGATION) Distance to target location: 36.9 meters. Will take 4.15 seconds driving at 32kmh
+[06:14:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:14:49] (INFO) Found 4 Recyclable Items:
+[06:14:50] (RECYCLING) PokeBall x 8
+[06:14:51] (RECYCLING) Potion x 1
+[06:14:52] (RECYCLING) SuperPotion x 1
+[06:14:53] (RECYCLING) Revive x 2
+[06:14:56] (POKESTOP) Clementi Woods Fitness Corner in 148.26 m distance
+[06:14:56] (NAVIGATION) Distance to target location: 148.26 meters. Will take 16.68 seconds driving at 32kmh
+[06:15:07] (INFO) Found 1 catchable Pokemon
+[06:15:09] (Wild Success) | Poliwag 110 V |  134 Cp | 45.35% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
