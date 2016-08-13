@@ -5835,3 +5835,10 @@
 [23:23:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
 [23:23:55] (INFO) Found 1 catchable Pokemon
 [23:23:57] (Wild Success) | Psyduck 123 V |   43 Cp | 49.23% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[23:23:59] (INFO) Found 2 pokemon to transfer...
+[23:24:00] (TRANSFER) Psyduck 118 V |   75 Cp | 58.42% | Lvl 03 | Best: [Psyduck 142 V |  304 Cp | 40.14% | Lvl 11] | Candy: 50
+[23:24:03] (TRANSFER) Psyduck 123 V |   43 Cp | 49.23% | Lvl 02 | Best: [Psyduck 142 V |  304 Cp | 40.14% | Lvl 11] | Candy: 51
+[23:24:03] (POKESTOP) Solaris in 261.71 m distance
+[23:24:03] (NAVIGATION) Distance to target location: 261.71 meters. Will take 19.63 seconds driving at 48kmh
+[23:24:12] (INFO) Found 2 catchable Pokemon
+[23:24:13] (Wild Success) | Magikarp 106 V |   60 Cp | 75.48% | Lvl 09 | Chance: 0.7 | with a PokeBall and received XP 210
