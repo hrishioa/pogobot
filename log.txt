@@ -3840,3 +3840,10 @@
 [22:08:53] (TRANSFER) Zubat 147 V |  258 Cp | 56.43% | Lvl 16 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 274
 [22:08:56] (INFO) Found 1 catchable Pokemon
 [22:08:58] (Wild Success) | Magikarp 62 V |   10 Cp | 36.19% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:09:00] (INFO) Found 1 pokemon to transfer...
+[22:09:01] (TRANSFER) Magikarp 62 V |   10 Cp | 36.19% | Lvl 01 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 66
+[22:09:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:09:03] (POKESTOP) Pavillion Hiltop in 1261.16 m distance
+[22:09:03] (NAVIGATION) Distance to target location: 1261.16 meters. Will take 1.08 minutes driving at 70kmh
+[22:09:22] (INFO) Found 1 catchable Pokemon
+[22:09:24] (Wild Success) | Goldeen 168 V |  205 Cp | 76.03% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
