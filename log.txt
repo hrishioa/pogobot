@@ -4380,3 +4380,13 @@
 [22:29:45] (NAVIGATION) Distance to target location: 395.31 meters. Will take 20.33 seconds driving at 70kmh
 [22:29:57] (INFO) Found 1 catchable Pokemon
 [22:29:58] (Wild Success) | Staryu 89 V |   11 Cp | 35.72% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:30:00] (INFO) Found 1 pokemon to transfer...
+[22:30:01] (TRANSFER) Staryu 89 V |   11 Cp | 35.72% | Lvl 01 | Best: [Staryu 153 V |  123 Cp | 91.21% | Lvl 05] | Candy: 26
+[22:30:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemGreatBall
+[22:30:06] (INFO) Found 2 Recyclable Items:
+[22:30:06] (RECYCLING) PokeBall x 4
+[22:30:09] (RECYCLING) Potion x 2
+[22:30:11] (POKESTOP) Ridged Wood Sculpture in 222.15 m distance
+[22:30:11] (NAVIGATION) Distance to target location: 222.15 meters. Will take 19.99 seconds driving at 40kmh
+[22:30:25] (INFO) Found 1 catchable Pokemon
+[22:30:26] (Wild Success) | Pidgey 90 V |   57 Cp | 28.83% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
