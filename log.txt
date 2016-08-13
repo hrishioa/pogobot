@@ -6310,3 +6310,17 @@
 [23:38:44] (NAVIGATION) Distance to target location: 80.21 meters. Will take 9.31 seconds driving at 31kmh
 [23:38:47] (INFO) Found 1 catchable Pokemon
 [23:38:48] (Wild Success) | Zubat 173 V |  238 Cp | 73.93% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[23:38:50] (INFO) Found 1 pokemon to transfer...
+[23:38:52] (TRANSFER) Zubat 154 V |  264 Cp | 63.24% | Lvl 16 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 369
+[23:38:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:38:55] (INFO) Found 3 Recyclable Items:
+[23:38:57] (RECYCLING) RazzBerry x 2
+[23:38:57] (RECYCLING) PokeBall x 14
+[23:38:58] (RECYCLING) Revive x 1
+[23:39:01] (POKESTOP) NUS Faculty of Dentistry in 73.91 m distance
+[23:39:01] (NAVIGATION) Distance to target location: 73.91 meters. Will take 9.17 seconds driving at 29kmh
+[23:39:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:39:10] (POKESTOP) Owl Statue in 88.18 m distance
+[23:39:10] (NAVIGATION) Distance to target location: 88.18 meters. Will take 11.34 seconds driving at 28kmh
+[23:39:14] (INFO) Found 1 catchable Pokemon
+[23:39:16] (Wild Success) | Spearow 98 V |   61 Cp | 44.77% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
