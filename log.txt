@@ -9991,3 +9991,13 @@
 [01:41:32] (INFO) Found 1 catchable Pokemon
 [01:41:34] (BERRY) ItemRazzBerry used, remaining: 47
 [01:41:35] (Wild Success) | Paras 162 V |  477 Cp | 44.38% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
+[01:41:37] (INFO) Found 1 pokemon to transfer...
+[01:41:38] (TRANSFER) Paras 162 V |  477 Cp | 44.38% | Lvl 21 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 52
+[01:41:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:41:41] (POKESTOP) Race to the Future Car at FOE in 36.49 m distance
+[01:41:41] (NAVIGATION) Distance to target location: 36.49 meters. Will take 4.53 seconds driving at 29kmh
+[01:41:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[01:41:45] (POKESTOP) Pavilion at Engineering in 81.13 m distance
+[01:41:45] (NAVIGATION) Distance to target location: 81.13 meters. Will take 9.13 seconds driving at 32kmh
+[01:41:46] (INFO) Found 1 catchable Pokemon
+[01:41:48] (Wild Success) | Pidgey 136 V |  343 Cp | 57.07% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
