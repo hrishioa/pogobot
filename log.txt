@@ -1716,3 +1716,8 @@
 [20:59:22] (BERRY) ItemRazzBerry used, remaining: 48
 [20:59:23] (Wild Success) | Eevee 178 V |  382 Cp | 79.86% | Lvl 13 | Chance: 0.33 | with a GreatBall and received XP 210
 [20:59:25] (Wild Success) | Ekans 101 V |   78 Cp | 65.67% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:59:26] (INFO) Found 2 pokemon to transfer...
+[20:59:28] (TRANSFER) Spearow 123 V |  116 Cp | 50.58% | Lvl 07 | Best: [Spearow 133 V |  121 Cp | 63.82% | Lvl 07] | Candy: 59
+[20:59:30] (TRANSFER) Ekans 101 V |   78 Cp | 65.67% | Lvl 04 | Best: [Ekans 143 V |  167 Cp | 59.48% | Lvl 08] | Candy: 34
+[20:59:31] (INFO) Found 2 catchable Pokemon
+[20:59:33] (Wild Success) | Pidgey 69 V |   40 Cp | 25.37% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
