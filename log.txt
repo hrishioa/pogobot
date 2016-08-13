@@ -17837,3 +17837,13 @@
 [06:05:54] (BERRY) ItemRazzBerry used, remaining: 49
 [06:05:55] (Wild Success) | NidoranMale 132 V |  446 Cp | 35.17% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
 [06:05:57] (Wild Success) | Bellsprout 117 V |  158 Cp | 35.99% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[06:05:59] (INFO) Found 1 pokemon to transfer...
+[06:06:00] (TRANSFER) Bellsprout 117 V |  158 Cp | 35.99% | Lvl 06 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 161
+[06:06:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:06:03] (POKESTOP) West Coast Plaza Triple Fountain in 78.46 m distance
+[06:06:03] (NAVIGATION) Distance to target location: 78.46 meters. Will take 10.09 seconds driving at 28kmh
+[06:06:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:06:12] (POKESTOP) West Coast Community Centre in 106.94 m distance
+[06:06:12] (NAVIGATION) Distance to target location: 106.94 meters. Will take 12.03 seconds driving at 32kmh
+[06:06:21] (INFO) Found 1 catchable Pokemon
+[06:06:23] (Wild Success) | Zubat 126 V |  279 Cp | 43.43% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
