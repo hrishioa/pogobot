@@ -4165,3 +4165,7 @@
 [22:22:28] (INFO) Found 1 catchable Pokemon
 [22:22:30] (BERRY) ItemRazzBerry used, remaining: 49
 [22:22:30] (Wild Success) | Jynx 157 V |  535 Cp | 47.85% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 210
+[22:22:32] (INFO) Found 1 pokemon to transfer...
+[22:22:34] (TRANSFER) Jynx 140 V |  480 Cp | 37.47% | Lvl 11 | Best: [Jynx 157 V |  535 Cp | 47.85% | Lvl 12] | Candy: 34
+[22:22:36] (INFO) Found 1 catchable Pokemon
+[22:22:37] (Wild Success) | Zubat 103 V |  178 Cp | 30.09% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
