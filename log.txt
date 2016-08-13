@@ -16895,3 +16895,10 @@
 [05:35:00] (TRANSFER) Rattata 132 V |  248 Cp | 42.03% | Lvl 18 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 385
 [05:35:02] (INFO) Found 1 catchable Pokemon
 [05:35:03] (Wild Success) | Pidgey 132 V |  254 Cp | 52.34% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[05:35:05] (INFO) Found 1 pokemon to transfer...
+[05:35:06] (TRANSFER) Pidgey 120 V |  135 Cp | 55.78% | Lvl 08 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 752
+[05:35:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[05:35:09] (POKESTOP) West Coast Playground in 83.62 m distance
+[05:35:09] (NAVIGATION) Distance to target location: 83.62 meters. Will take 10.38 seconds driving at 29kmh
+[05:35:15] (INFO) Found 1 catchable Pokemon
+[05:35:17] (Wild Success) | Pidgey 91 V |   90 Cp | 26.79% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
