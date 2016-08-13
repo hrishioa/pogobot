@@ -3245,3 +3245,13 @@
 [21:47:00] (NAVIGATION) Distance to target location: 82.36 meters. Will take 9.56 seconds driving at 31kmh
 [21:47:08] (INFO) Found 1 catchable Pokemon
 [21:47:09] (Wild Success) | Pidgey 111 V |   95 Cp | 45.62% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[21:47:11] (INFO) Found 1 pokemon to transfer...
+[21:47:13] (TRANSFER) Pidgey 111 V |   95 Cp | 45.62% | Lvl 06 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 152
+[21:47:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:47:14] (INFO) Found 2 Recyclable Items:
+[21:47:15] (RECYCLING) PokeBall x 14
+[21:47:16] (RECYCLING) Revive x 1
+[21:47:18] (POKESTOP) Triplets Golden Art Piece in 93.62 m distance
+[21:47:18] (NAVIGATION) Distance to target location: 93.62 meters. Will take 11.23 seconds driving at 30kmh
+[21:47:23] (INFO) Found 1 catchable Pokemon
+[21:47:25] (Wild Success) | Zubat 106 V |  124 Cp | 49.39% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
