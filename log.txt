@@ -10322,3 +10322,17 @@
 [01:52:11] (NAVIGATION) Distance to target location: 185.28 meters. Will take 19.62 seconds driving at 34kmh
 [01:52:22] (INFO) Found 1 catchable Pokemon
 [01:52:24] (Wild Success) | Weedle 56 V |  136 Cp | 10.38% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[01:52:25] (INFO) Found 1 pokemon to transfer...
+[01:52:27] (TRANSFER) Weedle 56 V |  136 Cp | 10.38% | Lvl 15 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 132
+[01:52:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemSuperPotion
+[01:52:33] (POKESTOP) The Tarantula Nebula in 54.29 m distance
+[01:52:33] (NAVIGATION) Distance to target location: 54.29 meters. Will take 6.98 seconds driving at 28kmh
+[01:52:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:52:40] (INFO) Found 3 Recyclable Items:
+[01:52:40] (RECYCLING) PokeBall x 5
+[01:52:41] (RECYCLING) Potion x 1
+[01:52:42] (RECYCLING) SuperPotion x 1
+[01:52:45] (POKESTOP) Raffles Museum in 84.08 m distance
+[01:52:45] (NAVIGATION) Distance to target location: 84.08 meters. Will take 10.81 seconds driving at 28kmh
+[01:52:51] (INFO) Found 1 catchable Pokemon
+[01:52:52] (Wild Success) | Meowth 140 V |  252 Cp | 60.02% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
