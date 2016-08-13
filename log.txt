@@ -11146,3 +11146,18 @@
 [02:16:15] (Wild Success) | Goldeen 146 V |  170 Cp | 57.47% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
 [02:16:16] (BERRY) ItemRazzBerry used, remaining: 49
 [02:16:17] (Wild Success) | Clefairy 188 V |  499 Cp | 56.46% | Lvl 16 | Chance: 0.22 | with a GreatBall and received XP 420
+[02:16:18] (INFO) Found 3 pokemon to transfer...
+[02:16:20] (TRANSFER) Zubat 161 V |  347 Cp | 80.84% | Lvl 20 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 599
+[02:16:22] (TRANSFER) Clefairy 152 V |  589 Cp | 53.39% | Lvl 19 | Best: [Clefairy 188 V |  499 Cp | 56.46% | Lvl 16] | Candy: 54
+[02:16:24] (TRANSFER) Goldeen 146 V |  170 Cp | 57.47% | Lvl 07 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 126
+[02:16:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPotion, 1 x ItemSuperPotion
+[02:16:29] (POKESTOP) Pavillion Fountain in 69.65 m distance
+[02:16:29] (NAVIGATION) Distance to target location: 69.65 meters. Will take 7.84 seconds driving at 32kmh
+[02:16:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemPotion
+[02:16:37] (POKESTOP) Pavillion Area 1  in 94.08 m distance
+[02:16:37] (NAVIGATION) Distance to target location: 94.08 meters. Will take 11.29 seconds driving at 30kmh
+[02:16:46] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:16:48] (POKESTOP) West Coast Park Dog Run  in 301.57 m distance
+[02:16:48] (NAVIGATION) Distance to target location: 301.57 meters. Will take 19.74 seconds driving at 55kmh
+[02:16:52] (INFO) Found 1 catchable Pokemon
+[02:16:54] (Wild Success) | Rattata 152 V |  276 Cp | 57.18% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 420
