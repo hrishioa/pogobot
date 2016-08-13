@@ -19450,3 +19450,21 @@
 [06:57:26] (INFO) Found 2 catchable Pokemon
 [06:57:28] (Wild Success) | Exeggcute 169 V |  431 Cp | 60.83% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [06:57:30] (Wild Success) | Krabby 146 V |  284 Cp | 60.70% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[06:57:31] (INFO) Found 2 pokemon to transfer...
+[06:57:33] (TRANSFER) Krabby 146 V |  284 Cp | 60.70% | Lvl 14 | Best: [Krabby 176 V |  430 Cp | 80.53% | Lvl 20] | Candy: 149
+[06:57:36] (TRANSFER) Exeggcute 169 V |  431 Cp | 60.83% | Lvl 15 | Best: [Exeggcute 231 V |  681 Cp | 93.48% | Lvl 22] | Candy: 41
+[06:57:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemPokeBall
+[06:57:39] (POKESTOP) Clementi West White Orchid Mural in 87.41 m distance
+[06:57:39] (NAVIGATION) Distance to target location: 87.41 meters. Will take 9.83 seconds driving at 32kmh
+[06:57:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:57:48] (POKESTOP) Clementi West Green Alien Mural in 66.75 m distance
+[06:57:48] (NAVIGATION) Distance to target location: 66.75 meters. Will take 7.75 seconds driving at 31kmh
+[06:57:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:57:56] (POKESTOP) The Right Horn Sculpture in 123.83 m distance
+[06:57:56] (NAVIGATION) Distance to target location: 123.83 meters. Will take 15.37 seconds driving at 29kmh
+[06:58:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:58:10] (POKESTOP) Cempaka 2004 in 210.42 m distance
+[06:58:10] (NAVIGATION) Distance to target location: 210.42 meters. Will take 19.93 seconds driving at 38kmh
+[06:58:24] (INFO) Found 1 catchable Pokemon
+[06:58:25] (BERRY) ItemRazzBerry used, remaining: 51
+[06:58:26] (Wild Success) | Venonat 188 V |  598 Cp | 65.68% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
