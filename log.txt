@@ -19269,3 +19269,19 @@
 [06:50:25] (Wild Success) | Weedle 96 V |  209 Cp | 19.89% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
 [06:50:26] (BERRY) ItemRazzBerry used, remaining: 50
 [06:50:27] (Wild Success) | Bellsprout 108 V |  513 Cp | 29.91% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[06:50:28] (INFO) Found 3 pokemon to transfer...
+[06:50:30] (TRANSFER) Weedle 96 V |  209 Cp | 19.89% | Lvl 22 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 397
+[06:50:33] (TRANSFER) Zubat 133 V |   94 Cp | 59.29% | Lvl 06 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 570
+[06:50:35] (TRANSFER) Bellsprout 108 V |  513 Cp | 29.91% | Lvl 19 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 197
+[06:50:36] (INFO) Found 1 catchable Pokemon
+[06:50:37] (Wild Flee) | Rattata 133 V |  145 Cp | 57.39% | Lvl 10 | Chance: 0.47 | with a GreatBall 
+[06:50:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:50:41] (INFO) Found 4 Recyclable Items:
+[06:50:42] (RECYCLING) PokeBall x 3
+[06:50:43] (RECYCLING) Potion x 2
+[06:50:44] (RECYCLING) SuperPotion x 1
+[06:50:45] (RECYCLING) Revive x 1
+[06:50:47] (POKESTOP) RSYC Childrens Playground in 97.23 m distance
+[06:50:47] (NAVIGATION) Distance to target location: 97.23 meters. Will take 11.29 seconds driving at 31kmh
+[06:50:53] (INFO) Found 1 catchable Pokemon
+[06:50:55] (Wild Success) | Dratini 145 V |  208 Cp | 73.73% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 210
