@@ -5667,3 +5667,8 @@
 [23:17:10] (BERRY) ItemRazzBerry used, remaining: 48
 [23:17:12] (Wild Success Attempt #2) | Pinsir 185 V |  891 Cp | 48.83% | Lvl 16 | Chance: 0.22 | with a GreatBall 
 [23:17:13] (Wild Success) | Krabby 134 V |  139 Cp | 60.70% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:17:15] (INFO) Found 2 pokemon to transfer...
+[23:17:17] (TRANSFER) Krabby 134 V |  139 Cp | 60.70% | Lvl 07 | Best: [Krabby 155 V |  169 Cp | 81.26% | Lvl 08] | Candy: 54
+[23:17:19] (TRANSFER) Pinsir 185 V |  891 Cp | 48.83% | Lvl 16 | Best: [Pinsir 211 V |  705 Cp | 81.05% | Lvl 12] | Candy: 14
+[23:17:20] (INFO) Found 1 catchable Pokemon
+[23:17:22] (Wild Success) | Poliwag 109 V |  113 Cp | 45.51% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
