@@ -10109,3 +10109,25 @@
 [01:46:19] (NAVIGATION) Distance to target location: 132.33 meters. Will take 16.43 seconds driving at 29kmh
 [01:46:23] (INFO) Found 1 catchable Pokemon
 [01:46:25] (Wild Success) | Pidgey 94 V |  197 Cp | 18.55% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[01:46:26] (INFO) Found 1 pokemon to transfer...
+[01:46:28] (TRANSFER) Pidgey 94 V |  197 Cp | 18.55% | Lvl 13 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 444
+[01:46:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:46:34] (POKESTOP) Beautiful Waterfall in 131.6 m distance
+[01:46:34] (NAVIGATION) Distance to target location: 131.6 meters. Will take 15.79 seconds driving at 30kmh
+[01:46:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:46:50] (INFO) Found 2 Recyclable Items:
+[01:46:51] (RECYCLING) PokeBall x 5
+[01:46:51] (RECYCLING) SuperPotion x 2
+[01:46:54] (POKESTOP) Beacon of Hope in 98.29 m distance
+[01:46:54] (NAVIGATION) Distance to target location: 98.29 meters. Will take 11.79 seconds driving at 30kmh
+[01:47:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemGreatBall
+[01:47:06] (POKESTOP) Moai Statue at APEC Secretariat in 90.61 m distance
+[01:47:06] (NAVIGATION) Distance to target location: 90.61 meters. Will take 11.65 seconds driving at 28kmh
+[01:47:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:47:17] (POKESTOP) Salvation Army Sign in 275.76 m distance
+[01:47:17] (NAVIGATION) Distance to target location: 275.76 meters. Will take 19.85 seconds driving at 50kmh
+[01:47:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:47:39] (POKESTOP) Gold Coast Fountain of Wealth in 147.54 m distance
+[01:47:39] (NAVIGATION) Distance to target location: 147.54 meters. Will take 16.6 seconds driving at 32kmh
+[01:47:41] (INFO) Found 1 catchable Pokemon
+[01:47:42] (Wild Success) | Zubat 182 V |  349 Cp | 82.29% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
