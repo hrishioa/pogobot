@@ -8503,3 +8503,22 @@
 [00:49:59] (TRANSFER) Zubat 109 V |  213 Cp | 38.22% | Lvl 14 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 469
 [00:50:01] (INFO) Found 1 catchable Pokemon
 [00:50:04] (Wild Success) | Pidgey 104 V |  308 Cp | 22.75% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[00:50:05] (INFO) Found 1 pokemon to transfer...
+[00:50:07] (TRANSFER) Pidgey 104 V |  308 Cp | 22.75% | Lvl 20 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 321
+[00:50:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:50:11] (INFO) Found 5 Recyclable Items:
+[00:50:11] (RECYCLING) RazzBerry x 3
+[00:50:12] (RECYCLING) PokeBall x 4
+[00:50:13] (RECYCLING) Potion x 1
+[00:50:14] (RECYCLING) SuperPotion x 2
+[00:50:16] (RECYCLING) Revive x 1
+[00:50:18] (POKESTOP) Memorial at PGPR in 100.25 m distance
+[00:50:18] (NAVIGATION) Distance to target location: 100.25 meters. Will take 11.64 seconds driving at 31kmh
+[00:50:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:50:30] (POKESTOP) The Clock in 78.08 m distance
+[00:50:30] (NAVIGATION) Distance to target location: 78.08 meters. Will take 9.69 seconds driving at 29kmh
+[00:50:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[00:50:39] (POKESTOP) The Aries Spire in 309.38 m distance
+[00:50:39] (NAVIGATION) Distance to target location: 309.38 meters. Will take 19.89 seconds driving at 56kmh
+[00:50:44] (INFO) Found 2 catchable Pokemon
+[00:50:46] (Wild Success) | Pidgey 114 V |  182 Cp | 45.55% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
