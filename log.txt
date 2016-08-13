@@ -3503,3 +3503,4 @@
 [21:57:32] (NAVIGATION) Distance to target location: 188.16 meters. Will take 19.92 seconds driving at 34kmh
 [21:57:49] (INFO) Found 2 catchable Pokemon
 [21:57:50] (Wild Success) | Psyduck 114 V |  323 Cp | 29.53% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[21:57:52] (Wild Success) | Eevee 95 V |  173 Cp | 18.22% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 210
