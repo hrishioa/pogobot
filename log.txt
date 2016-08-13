@@ -9057,3 +9057,14 @@
 [01:11:57] (Wild Success) | Onix 162 V |  112 Cp | 89.31% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 710
 [01:11:58] (BERRY) ItemRazzBerry used, remaining: 48
 [01:11:59] (Wild Success) | Krabby 123 V |  363 Cp | 40.22% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[01:12:00] (INFO) Found 1 pokemon to transfer...
+[01:12:02] (TRANSFER) Krabby 123 V |  363 Cp | 40.22% | Lvl 19 | Best: [Krabby 163 V |  345 Cp | 82.06% | Lvl 16] | Candy: 90
+[01:12:17] (INFO) Found 1 catchable Pokemon
+[01:12:17] (Wild Flee) | Poliwag 140 V |   55 Cp | 71.66% | Lvl 03 | Chance: 0.92 | with a PokeBall 
+[01:12:23] (INFO) Found 1 catchable Pokemon
+[01:12:24] (Wild Escape) | Pidgeot 213 V |  894 Cp | 58.97% | Lvl 16 | Chance: 0.09 | with a GreatBall 
+[01:12:25] (Wild Success Attempt #2) | Pidgeot 213 V |  894 Cp | 58.97% | Lvl 16 | Chance: 0.09 | with a GreatBall 
+[01:12:27] (INFO) Found 1 pokemon to transfer...
+[01:12:29] (TRANSFER) Pidgeot 119 V |  252 Cp | 33.94% | Lvl 05 | Best: [Pidgeot 213 V |  894 Cp | 58.97% | Lvl 16] | Candy: 349
+[01:12:30] (INFO) Found 2 catchable Pokemon
+[01:12:32] (Wild Success) | Pidgey 88 V |   24 Cp | 35.62% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
