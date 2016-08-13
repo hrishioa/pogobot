@@ -6751,3 +6751,12 @@
 [23:53:53] (NAVIGATION) Distance to target location: 84.6 meters. Will take 10.15 seconds driving at 30kmh
 [23:53:59] (INFO) Found 1 catchable Pokemon
 [23:54:01] (Wild Success) | Pidgey 119 V |  304 Cp | 34.04% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[23:54:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:54:06] (POKESTOP) Rochester Mall Fountain in 49.69 m distance
+[23:54:06] (NAVIGATION) Distance to target location: 49.69 meters. Will take 6.17 seconds driving at 29kmh
+[23:54:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:54:12] (POKESTOP) Mural at Rochester 3 in 117.06 m distance
+[23:54:12] (NAVIGATION) Distance to target location: 117.06 meters. Will take 15.05 seconds driving at 28kmh
+[23:54:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[23:54:27] (INFO) Found 1 catchable Pokemon
+[23:54:28] (Wild Success) | Geodude 104 V |  238 Cp | 25.02% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
