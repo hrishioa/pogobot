@@ -10964,3 +10964,15 @@
 [02:10:15] (NAVIGATION) Distance to target location: 145.08 meters. Will take 16.32 seconds driving at 32kmh
 [02:10:24] (INFO) Found 1 catchable Pokemon
 [02:10:25] (Wild Success) | Weedle 95 V |   26 Cp | 36.57% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
+[02:10:27] (INFO) Found 1 pokemon to transfer...
+[02:10:28] (TRANSFER) Weedle 95 V |   26 Cp | 36.57% | Lvl 03 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 164
+[02:10:32] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[02:10:33] (INFO) Found 4 Recyclable Items:
+[02:10:34] (RECYCLING) RazzBerry x 1
+[02:10:34] (RECYCLING) PokeBall x 6
+[02:10:36] (RECYCLING) Potion x 2
+[02:10:36] (RECYCLING) SuperPotion x 1
+[02:10:38] (POKESTOP) Nazareth Bible-Presbyterian Church in 74.84 m distance
+[02:10:38] (NAVIGATION) Distance to target location: 74.84 meters. Will take 9.62 seconds driving at 28kmh
+[02:10:45] (INFO) Found 1 catchable Pokemon
+[02:10:47] (Wild Success) | Zubat 97 V |  115 Cp | 25.12% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
