@@ -12055,3 +12055,17 @@
 [02:47:12] (INFO) Found 1 catchable Pokemon
 [02:47:14] (BERRY) ItemRazzBerry used, remaining: 50
 [02:47:15] (Wild Success) | Poliwag 161 V |  435 Cp | 64.66% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[02:47:16] (INFO) Found 1 pokemon to transfer...
+[02:47:18] (TRANSFER) Poliwag 161 V |  435 Cp | 64.66% | Lvl 21 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 89
+[02:47:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:47:21] (INFO) Found 2 Recyclable Items:
+[02:47:22] (RECYCLING) PokeBall x 2
+[02:47:23] (RECYCLING) Potion x 2
+[02:47:25] (INFO) Found 55 Pokestops
+[02:47:26] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 21.43 m distance
+[02:47:26] (NAVIGATION) Distance to target location: 21.43 meters. Will take 2.41 seconds driving at 32kmh
+[02:47:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRevive
+[02:47:30] (POKESTOP) Wall Water Fountain in 46.74 m distance
+[02:47:30] (NAVIGATION) Distance to target location: 46.74 meters. Will take 5.43 seconds driving at 31kmh
+[02:47:33] (INFO) Found 1 catchable Pokemon
+[02:47:35] (Wild Success) | Magikarp 84 V |   71 Cp | 52.05% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
