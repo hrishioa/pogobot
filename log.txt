@@ -20712,3 +20712,10 @@
 [07:38:47] (TRANSFER) Tentacool 87 V |  302 Cp | 30.44% | Lvl 14 | Best: [Tentacool 136 V |  463 Cp | 38.41% | Lvl 21] | Candy: 18
 [07:38:49] (INFO) Found 1 catchable Pokemon
 [07:38:50] (Wild Success) | Zubat 127 V |   10 Cp | 66.32% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[07:38:52] (INFO) Found 1 pokemon to transfer...
+[07:38:53] (TRANSFER) Zubat 127 V |   10 Cp | 66.32% | Lvl 01 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 602
+[07:38:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[07:38:57] (POKESTOP) Butterfly Mural in 67.22 m distance
+[07:38:57] (NAVIGATION) Distance to target location: 67.22 meters. Will take 7.81 seconds driving at 31kmh
+[07:39:02] (INFO) Found 2 catchable Pokemon
+[07:39:04] (Wild Success) | Rattata 115 V |  175 Cp | 35.01% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
