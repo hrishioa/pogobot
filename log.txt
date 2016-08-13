@@ -21033,3 +21033,17 @@
 [07:49:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
 [07:49:25] (INFO) Found 1 catchable Pokemon
 [07:49:27] (Wild Success) | Zubat 100 V |   41 Cp | 50.67% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[07:49:29] (INFO) Found 1 pokemon to transfer...
+[07:49:30] (TRANSFER) Zubat 100 V |   41 Cp | 50.67% | Lvl 03 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 614
+[07:49:31] (POKESTOP) Blueprints Embedded On Stone in 74.12 m distance
+[07:49:31] (NAVIGATION) Distance to target location: 74.12 meters. Will take 9.2 seconds driving at 29kmh
+[07:49:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[07:49:39] (INFO) Found 4 Recyclable Items:
+[07:49:40] (RECYCLING) PokeBall x 11
+[07:49:40] (RECYCLING) Potion x 1
+[07:49:41] (RECYCLING) SuperPotion x 1
+[07:49:42] (RECYCLING) Revive x 3
+[07:49:45] (POKESTOP) Tree of Benevolence in 102.08 m distance
+[07:49:45] (NAVIGATION) Distance to target location: 102.08 meters. Will take 11.48 seconds driving at 32kmh
+[07:49:51] (INFO) Found 1 catchable Pokemon
+[07:49:53] (Wild Success) | Spearow 88 V |   10 Cp | 29.86% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
