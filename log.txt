@@ -3333,3 +3333,13 @@
 [21:51:23] (NAVIGATION) Distance to target location: 534.27 meters. Will take 27.48 seconds driving at 70kmh
 [21:51:26] (INFO) Found 1 catchable Pokemon
 [21:51:28] (Wild Success) | Magikarp 97 V |   51 Cp | 67.44% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
+[21:51:29] (INFO) Found 1 pokemon to transfer...
+[21:51:31] (TRANSFER) Magikarp 97 V |   51 Cp | 67.44% | Lvl 08 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 62
+[21:51:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:51:52] (POKESTOP) Keio Cute Center in 186.75 m distance
+[21:51:52] (NAVIGATION) Distance to target location: 186.75 meters. Will take 19.77 seconds driving at 34kmh
+[21:52:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPotion, 1 x ItemRazzBerry
+[21:52:13] (POKESTOP) IMRE in 122.44 m distance
+[21:52:13] (NAVIGATION) Distance to target location: 122.44 meters. Will take 14.69 seconds driving at 30kmh
+[21:52:14] (INFO) Found 1 catchable Pokemon
+[21:52:16] (Wild Success) | Rattata 116 V |  108 Cp | 40.33% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
