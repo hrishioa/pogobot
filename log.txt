@@ -19436,3 +19436,16 @@
 [06:57:04] (NAVIGATION) Distance to target location: 55.37 meters. Will take 6.23 seconds driving at 32kmh
 [06:57:06] (INFO) Found 1 catchable Pokemon
 [06:57:07] (Wild Success) | Rattata 117 V |   10 Cp | 49.05% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[06:57:09] (INFO) Found 1 pokemon to transfer...
+[06:57:10] (TRANSFER) Rattata 117 V |   10 Cp | 49.05% | Lvl 01 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 513
+[06:57:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:57:14] (INFO) Found 5 Recyclable Items:
+[06:57:15] (RECYCLING) RazzBerry x 2
+[06:57:16] (RECYCLING) PokeBall x 4
+[06:57:17] (RECYCLING) Potion x 1
+[06:57:17] (RECYCLING) SuperPotion x 1
+[06:57:18] (RECYCLING) Revive x 2
+[06:57:21] (POKESTOP) Health Mural in 74.97 m distance
+[06:57:21] (NAVIGATION) Distance to target location: 74.97 meters. Will take 9.64 seconds driving at 28kmh
+[06:57:26] (INFO) Found 2 catchable Pokemon
+[06:57:28] (Wild Success) | Exeggcute 169 V |  431 Cp | 60.83% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
