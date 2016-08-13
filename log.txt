@@ -7515,3 +7515,48 @@
 [00:17:58] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, 2 x ItemPotion, 1 x ItemSuperPotion, 1 x ItemGreatBall
 [00:17:59] (INFO) Found 1 catchable Pokemon
 [00:18:01] (Wild Success) | Weedle 92 V |  167 Cp | 43.02% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:18:02] (INFO) Found 1 pokemon to transfer...
+[00:18:04] (TRANSFER) Weedle 92 V |  167 Cp | 43.02% | Lvl 16 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 93
+[00:18:05] (POKESTOP) Frog on Lily in 169.46 m distance
+[00:18:05] (NAVIGATION) Distance to target location: 169.46 meters. Will take 19.68 seconds driving at 31kmh
+[00:18:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:18:24] (POKESTOP) Circle of Life Statue in 71.23 m distance
+[00:18:24] (NAVIGATION) Distance to target location: 71.23 meters. Will take 8.01 seconds driving at 32kmh
+[00:18:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[00:18:33] (INFO) Found 3 Recyclable Items:
+[00:18:33] (RECYCLING) RazzBerry x 1
+[00:18:34] (RECYCLING) PokeBall x 11
+[00:18:35] (RECYCLING) Potion x 2
+[00:18:38] (POKESTOP) Education in 55.46 m distance
+[00:18:38] (NAVIGATION) Distance to target location: 55.46 meters. Will take 7.13 seconds driving at 28kmh
+[00:18:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[00:18:45] (POKESTOP) Ayer Rajah Industrial Estate in 84.06 m distance
+[00:18:45] (NAVIGATION) Distance to target location: 84.06 meters. Will take 9.46 seconds driving at 32kmh
+[00:18:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[00:18:54] (POKESTOP) Insead in 70.16 m distance
+[00:18:54] (NAVIGATION) Distance to target location: 70.16 meters. Will take 8.15 seconds driving at 31kmh
+[00:19:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[00:19:02] (POKESTOP) Aldersgate Chapel in 155.05 m distance
+[00:19:02] (NAVIGATION) Distance to target location: 155.05 meters. Will take 18.01 seconds driving at 31kmh
+[00:19:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:19:19] (POKESTOP) SUTD Monolith in 195.87 m distance
+[00:19:19] (NAVIGATION) Distance to target location: 195.87 meters. Will take 19.59 seconds driving at 36kmh
+[00:19:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry
+[00:19:40] (INFO) Found 4 Recyclable Items:
+[00:19:41] (RECYCLING) RazzBerry x 1
+[00:19:41] (RECYCLING) PokeBall x 9
+[00:19:43] (RECYCLING) Potion x 1
+[00:19:43] (RECYCLING) Revive x 2
+[00:19:47] (POKESTOP) Let's Get Healthy Together Mural in 121.98 m distance
+[00:19:47] (NAVIGATION) Distance to target location: 121.98 meters. Will take 14.16 seconds driving at 31kmh
+[00:20:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[00:20:02] (POKESTOP) Brown Rice Lady in 44.84 m distance
+[00:20:02] (NAVIGATION) Distance to target location: 44.84 meters. Will take 5.76 seconds driving at 28kmh
+[00:20:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[00:20:08] (POKESTOP) Healthy Living Murals in 52.8 m distance
+[00:20:08] (NAVIGATION) Distance to target location: 52.8 meters. Will take 5.94 seconds driving at 32kmh
+[00:20:13] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion, 2 x ItemGreatBall
+[00:20:14] (POKESTOP) The Tree at Dover  in 128.97 m distance
+[00:20:14] (NAVIGATION) Distance to target location: 128.97 meters. Will take 16.01 seconds driving at 29kmh
+[00:20:28] (INFO) Found 1 catchable Pokemon
+[00:20:29] (Wild Success) | Dodrio 141 V |   75 Cp | 58.31% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
