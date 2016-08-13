@@ -2089,3 +2089,106 @@
 [21:14:34] (NAVIGATION) Distance to target location: 90.39 meters. Will take 10.17 seconds driving at 32kmh
 [21:14:40] (INFO) Found 1 catchable Pokemon
 [21:14:42] (Wild Success) | Rattata 113 V |  108 Cp | 39.64% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[21:14:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry
+[21:14:48] (POKESTOP) My Queenstown Heritage Trail Marker in 227 m distance
+[21:14:48] (NAVIGATION) Distance to target location: 227 meters. Will take 19.93 seconds driving at 41kmh
+[21:15:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:15:08] (POKESTOP) Queensway Shopping Centre in 151.12 m distance
+[21:15:08] (NAVIGATION) Distance to target location: 151.12 meters. Will take 17 seconds driving at 32kmh
+[21:15:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[21:15:24] ====== User Info ======
+[21:15:24] Name: toonistic2
+[21:15:24] Team: Neutral
+[21:15:24] Level: 14 (LvLUp in 0h 13m | 4260/15000 XP)
+[21:15:24] Pokemon: 65
+[21:15:24] Stardust: 23866
+[21:15:24] ====== Items (213) ======
+[21:15:24] IncubatorBasicUnlimited x 1
+[21:15:24] Revive x 26
+[21:15:24] RazzBerry x 52
+[21:15:24] PokeBall x 53
+[21:15:24] GreatBall x 25
+[21:15:24] IncenseOrdinary x 2
+[21:15:24] Potion x 31
+[21:15:24] SuperPotion x 23
+[21:15:24] ====== Most Valuable ======
+[21:15:25] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[21:15:25] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[21:15:25] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[21:15:25] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[21:15:25] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[21:15:25] Zubat               171 True Value |  197 Cp | 91.11% Perfect | Lvl 11 | Bite/AirCutter
+[21:15:25] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[21:15:25] Zubat               164 True Value |  152 Cp | 73.82% Perfect | Lvl 09 | Bite/SludgeBomb
+[21:15:25] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[21:15:25] Venonat             162 True Value |  333 Cp | 74.31% Perfect | Lvl 12 | BugBite/PoisonFang
+[21:15:25] Exeggcute           162 True Value |  373 Cp | 60.31% Perfect | Lvl 13 | Confusion/SeedBomb
+[21:15:25] Goldeen             161 True Value |  283 Cp | 71.35% Perfect | Lvl 11 | Peck/AquaTail
+[21:15:25] Dodrio              154 True Value |  476 Cp | 46.00% Perfect | Lvl 10 | FeintAttack/AirCutter
+[21:15:25] Staryu              153 True Value |  123 Cp | 91.21% Perfect | Lvl 05 | WaterGun/Swift
+[21:15:25] Staryu              152 True Value |  253 Cp | 77.42% Perfect | Lvl 10 | WaterGun/Swift
+[21:15:25] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[21:15:25] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
+[21:15:25] Rattata             149 True Value |  135 Cp | 69.99% Perfect | Lvl 09 | Tackle/HyperFang
+[21:15:25] Growlithe           149 True Value |  200 Cp | 53.97% Perfect | Lvl 06 | Bite/Flamethrower
+[21:15:25] Exeggcute           149 True Value |  344 Cp | 59.62% Perfect | Lvl 12 | Confusion/AncientPower
+[21:15:25] ====== Highest CP ======
+[21:15:25] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[21:15:25] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
+[21:15:25] Dodrio              154 True Value |  476 Cp | 46.00% Perfect | Lvl 10 | FeintAttack/AirCutter
+[21:15:25] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[21:15:25] Exeggcute           162 True Value |  373 Cp | 60.31% Perfect | Lvl 13 | Confusion/SeedBomb
+[21:15:25] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[21:15:25] Exeggcute           149 True Value |  344 Cp | 59.62% Perfect | Lvl 12 | Confusion/AncientPower
+[21:15:25] Venonat             162 True Value |  333 Cp | 74.31% Perfect | Lvl 12 | BugBite/PoisonFang
+[21:15:25] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[21:15:25] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[21:15:25] Clefairy            141 True Value |  303 Cp | 44.25% Perfect | Lvl 10 | Pound/Moonblast
+[21:15:25] Goldeen             161 True Value |  283 Cp | 71.35% Perfect | Lvl 11 | Peck/AquaTail
+[21:15:25] Psyduck             126 True Value |  267 Cp | 26.58% Perfect | Lvl 10 | ZenHeadbutt/Psybeam
+[21:15:25] Tangela             144 True Value |  263 Cp | 51.39% Perfect | Lvl 06 | VineWhip/SludgeBomb
+[21:15:25] Staryu              152 True Value |  253 Cp | 77.42% Perfect | Lvl 10 | WaterGun/Swift
+[21:15:25] Psyduck             133 True Value |  245 Cp | 37.01% Perfect | Lvl 09 | ZenHeadbutt/Psybeam
+[21:15:25] Slowpoke            131 True Value |  241 Cp | 41.64% Perfect | Lvl 08 | Confusion/Psyshock
+[21:15:25] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[21:15:25] Spearow             126 True Value |  224 Cp | 54.49% Perfect | Lvl 13 | QuickAttack/AerialAce
+[21:15:25] Horsea              121 True Value |  215 Cp | 46.85% Perfect | Lvl 11 | Bubble/BubbleBeam
+[21:15:25] ====== Most Perfect Genetics ======
+[21:15:25] Staryu              153 True Value |  123 Cp | 91.21% Perfect | Lvl 05 | WaterGun/Swift
+[21:15:25] Zubat               171 True Value |  197 Cp | 91.11% Perfect | Lvl 11 | Bite/AirCutter
+[21:15:25] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[21:15:25] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[21:15:25] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[21:15:25] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[21:15:25] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
+[21:15:25] Staryu              152 True Value |  253 Cp | 77.42% Perfect | Lvl 10 | WaterGun/Swift
+[21:15:25] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[21:15:25] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[21:15:25] Venonat             162 True Value |  333 Cp | 74.31% Perfect | Lvl 12 | BugBite/PoisonFang
+[21:15:25] Zubat               164 True Value |  152 Cp | 73.82% Perfect | Lvl 09 | Bite/SludgeBomb
+[21:15:25] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[21:15:25] Goldeen             161 True Value |  283 Cp | 71.35% Perfect | Lvl 11 | Peck/AquaTail
+[21:15:25] Rattata             149 True Value |  135 Cp | 69.99% Perfect | Lvl 09 | Tackle/HyperFang
+[21:15:25] Mankey              141 True Value |  158 Cp | 67.79% Perfect | Lvl 07 | Scratch/BrickBreak
+[21:15:25] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[21:15:25] Sandshrew           131 True Value |   54 Cp | 66.46% Perfect | Lvl 03 | Scratch/Dig
+[21:15:25] Meowth              135 True Value |   93 Cp | 66.13% Perfect | Lvl 05 | Scratch/DarkPulse
+[21:15:25] Krabby              127 True Value |  118 Cp | 64.57% Perfect | Lvl 06 | Bubble/WaterPulse
+[21:15:26] (POKESTOP) Market Mural in 88.79 m distance
+[21:15:26] (NAVIGATION) Distance to target location: 88.79 meters. Will take 10.65 seconds driving at 30kmh
+[21:15:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 2 x ItemGreatBall, 3 x ItemPokeBall
+[21:15:36] (POKESTOP) Alexandra Village Food Centre in 91.22 m distance
+[21:15:36] (NAVIGATION) Distance to target location: 91.22 meters. Will take 10.26 seconds driving at 32kmh
+[21:15:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[21:15:46] (INFO) Found 4 Recyclable Items:
+[21:15:47] (RECYCLING) Revive x 4
+[21:15:47] (RECYCLING) RazzBerry x 3
+[21:15:48] (RECYCLING) PokeBall x 7
+[21:15:49] (RECYCLING) Potion x 1
+[21:15:51] (POKESTOP) The Anchorage in 97.17 m distance
+[21:15:51] (NAVIGATION) Distance to target location: 97.17 meters. Will take 11.66 seconds driving at 30kmh
+[21:16:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:16:03] (POKESTOP) Former Archipelago Brewery Company Brewmaster's Office in 193.15 m distance
+[21:16:03] (NAVIGATION) Distance to target location: 193.15 meters. Will take 19.87 seconds driving at 35kmh
+[21:16:05] (INFO) Found 1 catchable Pokemon
+[21:16:07] (Wild Success) | Paras 151 V |  141 Cp | 71.61% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
