@@ -12076,3 +12076,8 @@
 [02:47:41] (NAVIGATION) Distance to target location: 75.46 meters. Will take 9.05 seconds driving at 30kmh
 [02:47:46] (INFO) Found 1 catchable Pokemon
 [02:47:48] (Wild Success) | Staryu 127 V |  336 Cp | 32.79% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[02:47:50] (INFO) Found 1 pokemon to transfer...
+[02:47:52] (TRANSFER) Staryu 127 V |  336 Cp | 32.79% | Lvl 15 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 110
+[02:47:53] (INFO) Found 1 catchable Pokemon
+[02:47:54] (BERRY) ItemRazzBerry used, remaining: 49
+[02:47:55] (Wild Success) | Dodrio 146 V |  420 Cp | 38.68% | Lvl 09 | Chance: 0.2 | with a GreatBall and received XP 210
