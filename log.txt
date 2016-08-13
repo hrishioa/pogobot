@@ -19894,3 +19894,7 @@
 [07:10:30] (NAVIGATION) Distance to target location: 976.18 meters. Will take 50.2 seconds driving at 70kmh
 [07:10:36] (INFO) Found 1 catchable Pokemon
 [07:10:38] (Wild Success) | Bellsprout 125 V |   71 Cp | 35.65% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[07:10:40] (INFO) Found 1 pokemon to transfer...
+[07:10:41] (TRANSFER) Bellsprout 125 V |   71 Cp | 35.65% | Lvl 03 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 221
+[07:10:56] (INFO) Found 2 catchable Pokemon
+[07:10:58] (Wild Success) | Zubat 152 V |  113 Cp | 66.18% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
