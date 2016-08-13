@@ -9412,3 +9412,57 @@
 [01:23:42] (NAVIGATION) Distance to target location: 63.31 meters. Will take 7.12 seconds driving at 32kmh
 [01:23:48] (INFO) Found 1 catchable Pokemon
 [01:23:50] (Wild Success) | Pidgey 97 V |   92 Cp | 32.64% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[01:23:52] (INFO) Found 1 pokemon to transfer...
+[01:23:53] (TRANSFER) Pidgey 97 V |   92 Cp | 32.64% | Lvl 06 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 388
+[01:23:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:23:54] (INFO) Found 3 Recyclable Items:
+[01:23:55] (RECYCLING) PokeBall x 6
+[01:23:56] (RECYCLING) SuperPotion x 1
+[01:23:57] (RECYCLING) Revive x 2
+[01:24:00] (POKESTOP) Mochtar Riady Building in 62.43 m distance
+[01:24:00] (NAVIGATION) Distance to target location: 62.43 meters. Will take 7.75 seconds driving at 29kmh
+[01:24:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemGreatBall
+[01:24:06] (POKESTOP) Tree of Benevolence in 87.12 m distance
+[01:24:06] (NAVIGATION) Distance to target location: 87.12 meters. Will take 9.8 seconds driving at 32kmh
+[01:24:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemPotion
+[01:24:16] (POKESTOP) NUS Historial Plaques in 61.62 m distance
+[01:24:16] (NAVIGATION) Distance to target location: 61.62 meters. Will take 6.93 seconds driving at 32kmh
+[01:24:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[01:24:22] (POKESTOP) Integration in 66.72 m distance
+[01:24:22] (NAVIGATION) Distance to target location: 66.72 meters. Will take 7.51 seconds driving at 32kmh
+[01:24:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:24:30] (POKESTOP) The Baroque Scroll in 53.59 m distance
+[01:24:30] (NAVIGATION) Distance to target location: 53.59 meters. Will take 6.03 seconds driving at 32kmh
+[01:24:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:24:35] (INFO) Found 3 Recyclable Items:
+[01:24:36] (RECYCLING) PokeBall x 3
+[01:24:37] (RECYCLING) Potion x 2
+[01:24:38] (RECYCLING) Revive x 1
+[01:24:40] (POKESTOP) Synergy in Motion in 63.75 m distance
+[01:24:40] (NAVIGATION) Distance to target location: 63.75 meters. Will take 7.4 seconds driving at 31kmh
+[01:24:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[01:24:47] (POKESTOP) Sage In Shaw in 44.47 m distance
+[01:24:47] (NAVIGATION) Distance to target location: 44.47 meters. Will take 5.72 seconds driving at 28kmh
+[01:24:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 2 x ItemRazzBerry, 2 x ItemUltraBall
+[01:24:52] (POKESTOP) Biological Atom in 62.47 m distance
+[01:24:52] (NAVIGATION) Distance to target location: 62.47 meters. Will take 7.5 seconds driving at 30kmh
+[01:24:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:24:58] (POKESTOP) NUS Business School in 118.51 m distance
+[01:24:58] (NAVIGATION) Distance to target location: 118.51 meters. Will take 14.22 seconds driving at 30kmh
+[01:25:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:25:13] (POKESTOP) Keio Cute Center in 76.08 m distance
+[01:25:13] (NAVIGATION) Distance to target location: 76.08 meters. Will take 8.83 seconds driving at 31kmh
+[01:25:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:25:20] (INFO) Found 2 Recyclable Items:
+[01:25:21] (RECYCLING) RazzBerry x 3
+[01:25:22] (RECYCLING) PokeBall x 6
+[01:25:25] (POKESTOP) Waterfall Fountain in 66.31 m distance
+[01:25:25] (NAVIGATION) Distance to target location: 66.31 meters. Will take 7.46 seconds driving at 32kmh
+[01:25:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemSuperPotion, 1 x ItemGreatBall
+[01:25:33] (POKESTOP) IMRE in 155.64 m distance
+[01:25:33] (NAVIGATION) Distance to target location: 155.64 meters. Will take 18.07 seconds driving at 31kmh
+[01:25:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:25:50] (POKESTOP) Temasek Lifesciences Laboratory in 175.93 m distance
+[01:25:50] (NAVIGATION) Distance to target location: 175.93 meters. Will take 19.79 seconds driving at 32kmh
+[01:26:05] (INFO) Found 1 catchable Pokemon
+[01:26:06] (Wild Success) | Rattata 114 V |   22 Cp | 49.96% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
