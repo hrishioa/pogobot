@@ -12782,3 +12782,9 @@
 [03:09:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [03:09:33] (INFO) Found 1 catchable Pokemon
 [03:09:35] (Wild Success) | Poliwag 121 V |   10 Cp | 51.07% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[03:09:36] (INFO) Found 1 pokemon to transfer...
+[03:09:38] (TRANSFER) Poliwag 121 V |   10 Cp | 51.07% | Lvl 01 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 93
+[03:09:38] (POKESTOP) Clementi West White Orchid Mural in 93.83 m distance
+[03:09:38] (NAVIGATION) Distance to target location: 93.83 meters. Will take 11.26 seconds driving at 30kmh
+[03:09:41] (INFO) Found 1 catchable Pokemon
+[03:09:42] (Wild Success) | Exeggcute 152 V |  313 Cp | 55.92% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
