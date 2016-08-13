@@ -1854,3 +1854,96 @@
 [21:04:53] (NAVIGATION) Distance to target location: 85.82 meters. Will take 9.65 seconds driving at 32kmh
 [21:04:59] (INFO) Found 1 catchable Pokemon
 [21:05:00] (Wild Success) | Weedle 114 V |  137 Cp | 44.94% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[21:05:02] (INFO) Found 1 pokemon to transfer...
+[21:05:03] (TRANSFER) Weedle 103 V |   60 Cp | 41.83% | Lvl 06 | Best: [Weedle 114 V |  137 Cp | 44.94% | Lvl 13] | Candy: 54
+[21:05:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:05:08] (POKESTOP) GIIS Mural in 68.65 m distance
+[21:05:08] (NAVIGATION) Distance to target location: 68.65 meters. Will take 7.97 seconds driving at 31kmh
+[21:05:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 2 x ItemPokeBall
+[21:05:15] (INFO) Found 3 Recyclable Items:
+[21:05:16] (RECYCLING) Revive x 3
+[21:05:16] (RECYCLING) PokeBall x 5
+[21:05:17] (RECYCLING) Potion x 2
+[21:05:20] ====== User Info ======
+[21:05:20] Name: toonistic2
+[21:05:20] Team: Neutral
+[21:05:20] Level: 13 (LvLUp in 0h 0m | 9110/10000 XP)
+[21:05:20] Pokemon: 62
+[21:05:20] Stardust: 22366
+[21:05:20] ====== Items (205) ======
+[21:05:20] IncubatorBasicUnlimited x 1
+[21:05:20] Revive x 25
+[21:05:20] RazzBerry x 50
+[21:05:20] PokeBall x 50
+[21:05:20] GreatBall x 26
+[21:05:20] IncenseOrdinary x 2
+[21:05:20] Potion x 30
+[21:05:20] SuperPotion x 21
+[21:05:20] ====== Most Valuable ======
+[21:05:20] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[21:05:20] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[21:05:20] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[21:05:20] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[21:05:20] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[21:05:20] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[21:05:20] Zubat               164 True Value |  152 Cp | 73.82% Perfect | Lvl 09 | Bite/SludgeBomb
+[21:05:20] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[21:05:20] Venonat             162 True Value |  333 Cp | 74.31% Perfect | Lvl 12 | BugBite/PoisonFang
+[21:05:20] Goldeen             161 True Value |  283 Cp | 71.35% Perfect | Lvl 11 | Peck/AquaTail
+[21:05:20] Dodrio              154 True Value |  476 Cp | 46.00% Perfect | Lvl 10 | FeintAttack/AirCutter
+[21:05:20] Staryu              153 True Value |  123 Cp | 91.21% Perfect | Lvl 05 | WaterGun/Swift
+[21:05:20] Staryu              152 True Value |  253 Cp | 77.42% Perfect | Lvl 10 | WaterGun/Swift
+[21:05:20] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[21:05:20] Zubat               150 True Value |  146 Cp | 59.90% Perfect | Lvl 09 | Bite/SludgeBomb
+[21:05:20] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
+[21:05:20] Rattata             149 True Value |  135 Cp | 69.99% Perfect | Lvl 09 | Tackle/HyperFang
+[21:05:20] Growlithe           149 True Value |  200 Cp | 53.97% Perfect | Lvl 06 | Bite/Flamethrower
+[21:05:20] Exeggcute           149 True Value |  344 Cp | 59.62% Perfect | Lvl 12 | Confusion/AncientPower
+[21:05:20] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
+[21:05:20] ====== Highest CP ======
+[21:05:20] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[21:05:20] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
+[21:05:20] Dodrio              154 True Value |  476 Cp | 46.00% Perfect | Lvl 10 | FeintAttack/AirCutter
+[21:05:20] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[21:05:20] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[21:05:20] Exeggcute           149 True Value |  344 Cp | 59.62% Perfect | Lvl 12 | Confusion/AncientPower
+[21:05:20] Venonat             162 True Value |  333 Cp | 74.31% Perfect | Lvl 12 | BugBite/PoisonFang
+[21:05:20] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[21:05:20] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[21:05:20] Goldeen             161 True Value |  283 Cp | 71.35% Perfect | Lvl 11 | Peck/AquaTail
+[21:05:20] Psyduck             126 True Value |  267 Cp | 26.58% Perfect | Lvl 10 | ZenHeadbutt/Psybeam
+[21:05:20] Tangela             144 True Value |  263 Cp | 51.39% Perfect | Lvl 06 | VineWhip/SludgeBomb
+[21:05:20] Staryu              152 True Value |  253 Cp | 77.42% Perfect | Lvl 10 | WaterGun/Swift
+[21:05:20] Psyduck             133 True Value |  245 Cp | 37.01% Perfect | Lvl 09 | ZenHeadbutt/Psybeam
+[21:05:20] Slowpoke            131 True Value |  241 Cp | 41.64% Perfect | Lvl 08 | Confusion/Psyshock
+[21:05:20] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[21:05:20] Spearow             126 True Value |  224 Cp | 54.49% Perfect | Lvl 13 | QuickAttack/AerialAce
+[21:05:20] Eevee               129 True Value |  215 Cp | 46.90% Perfect | Lvl 08 | QuickAttack/Dig
+[21:05:20] Tangela             137 True Value |  213 Cp | 48.79% Perfect | Lvl 05 | VineWhip/SludgeBomb
+[21:05:20] Jynx                111 True Value |  205 Cp | 34.20% Perfect | Lvl 05 | Pound/IcePunch
+[21:05:20] ====== Most Perfect Genetics ======
+[21:05:20] Staryu              153 True Value |  123 Cp | 91.21% Perfect | Lvl 05 | WaterGun/Swift
+[21:05:20] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[21:05:20] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[21:05:20] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[21:05:20] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[21:05:20] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
+[21:05:20] Staryu              152 True Value |  253 Cp | 77.42% Perfect | Lvl 10 | WaterGun/Swift
+[21:05:20] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[21:05:20] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[21:05:20] Venonat             162 True Value |  333 Cp | 74.31% Perfect | Lvl 12 | BugBite/PoisonFang
+[21:05:20] Zubat               164 True Value |  152 Cp | 73.82% Perfect | Lvl 09 | Bite/SludgeBomb
+[21:05:20] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[21:05:20] Goldeen             161 True Value |  283 Cp | 71.35% Perfect | Lvl 11 | Peck/AquaTail
+[21:05:20] Rattata             149 True Value |  135 Cp | 69.99% Perfect | Lvl 09 | Tackle/HyperFang
+[21:05:20] Mankey              141 True Value |  158 Cp | 67.79% Perfect | Lvl 07 | Scratch/BrickBreak
+[21:05:20] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[21:05:20] Sandshrew           131 True Value |   54 Cp | 66.46% Perfect | Lvl 03 | Scratch/Dig
+[21:05:20] Meowth              135 True Value |   93 Cp | 66.13% Perfect | Lvl 05 | Scratch/DarkPulse
+[21:05:20] Krabby              127 True Value |  118 Cp | 64.57% Perfect | Lvl 06 | Bubble/WaterPulse
+[21:05:20] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[21:05:21] (POKESTOP) Farm Animals Mural in 169.32 m distance
+[21:05:21] (NAVIGATION) Distance to target location: 169.32 meters. Will take 19.66 seconds driving at 31kmh
+[21:05:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[21:05:41] (INFO) Found 1 catchable Pokemon
+[21:05:42] (Wild Success) | Weedle 105 V |   92 Cp | 40.61% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
