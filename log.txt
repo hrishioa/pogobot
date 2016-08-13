@@ -8432,3 +8432,26 @@
 [00:46:36] (INFO) Found 2 catchable Pokemon
 [00:46:37] (Wild Success) | Magikarp 74 V |   21 Cp | 46.90% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
 [00:46:39] (Wild Success) | Psyduck 127 V |   14 Cp | 53.95% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[00:46:41] (INFO) Found 2 pokemon to transfer...
+[00:46:42] (TRANSFER) Magikarp 74 V |   21 Cp | 46.90% | Lvl 04 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 149
+[00:46:44] (TRANSFER) Psyduck 127 V |   14 Cp | 53.95% | Lvl 01 | Best: [Psyduck 142 V |  304 Cp | 40.14% | Lvl 11] | Candy: 63
+[00:46:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[00:46:46] (POKESTOP) Kent Ridge Park Near Normanton Park in 51.51 m distance
+[00:46:46] (NAVIGATION) Distance to target location: 51.51 meters. Will take 5.79 seconds driving at 32kmh
+[00:46:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall, 1 x ItemSuperPotion
+[00:46:53] (POKESTOP) Monitor Lizard Sign in Kent Ridge Park in 86.56 m distance
+[00:46:53] (NAVIGATION) Distance to target location: 86.56 meters. Will take 10.39 seconds driving at 30kmh
+[00:47:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:47:03] (POKESTOP) Kent Ridge Heritage Trail in 110.02 m distance
+[00:47:03] (NAVIGATION) Distance to target location: 110.02 meters. Will take 13.66 seconds driving at 29kmh
+[00:47:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[00:47:16] (INFO) Found 2 Recyclable Items:
+[00:47:16] (RECYCLING) PokeBall x 9
+[00:47:17] (RECYCLING) Potion x 1
+[00:47:19] (POKESTOP) Pavilion in Kent Ridge Park in 57.51 m distance
+[00:47:19] (NAVIGATION) Distance to target location: 57.51 meters. Will take 6.47 seconds driving at 32kmh
+[00:47:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 3 x ItemGreatBall
+[00:47:27] (POKESTOP) Kent Ridge Park Nature Trail in 187.06 m distance
+[00:47:27] (NAVIGATION) Distance to target location: 187.06 meters. Will take 19.81 seconds driving at 34kmh
+[00:47:33] (INFO) Found 1 catchable Pokemon
+[00:47:34] (Wild Success) | Zubat 133 V |  313 Cp | 46.65% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
