@@ -10310,3 +10310,8 @@
 [01:51:54] (Wild Escape) | Goldeen 156 V |  155 Cp | 90.57% | Lvl 06 | Chance: 0.62 | with a PokeBall 
 [01:51:55] (Wild Success Attempt #2) | Goldeen 156 V |  155 Cp | 90.57% | Lvl 06 | Chance: 0.62 | with a PokeBall 
 [01:51:56] (Wild Success) | Spearow 108 V |  204 Cp | 50.62% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:51:58] (INFO) Found 2 pokemon to transfer...
+[01:51:59] (TRANSFER) Goldeen 156 V |  155 Cp | 90.57% | Lvl 06 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 122
+[01:52:02] (TRANSFER) Spearow 108 V |  204 Cp | 50.62% | Lvl 12 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 191
+[01:52:03] (INFO) Found 1 catchable Pokemon
+[01:52:04] (Wild Success) | Pidgey 87 V |   42 Cp | 42.50% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
