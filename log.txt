@@ -20272,3 +20272,5 @@
 [07:22:43] (NAVIGATION) Distance to target location: 78.32 meters. Will take 9.72 seconds driving at 29kmh
 [07:22:47] (INFO) Found 2 catchable Pokemon
 [07:22:49] (Wild Success) | Krabby 128 V |   98 Cp | 70.56% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[07:22:50] (BERRY) ItemRazzBerry used, remaining: 49
+[07:22:51] (Wild Success) | Poliwag 161 V |  482 Cp | 53.68% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
