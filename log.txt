@@ -18098,3 +18098,8 @@
 [06:14:16] (NAVIGATION) Distance to target location: 104.25 meters. Will take 12.51 seconds driving at 30kmh
 [06:14:24] (INFO) Found 1 catchable Pokemon
 [06:14:26] (Wild Success) | Ekans 158 V |  344 Cp | 44.07% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[06:14:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:14:30] (POKESTOP) Wall Water Fountain in 82.85 m distance
+[06:14:30] (NAVIGATION) Distance to target location: 82.85 meters. Will take 10.65 seconds driving at 28kmh
+[06:14:38] (INFO) Found 1 catchable Pokemon
+[06:14:39] (Wild Success) | Rattata 134 V |   10 Cp | 72.67% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
