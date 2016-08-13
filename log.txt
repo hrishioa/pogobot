@@ -10389,3 +10389,16 @@
 [01:54:41] (NAVIGATION) Distance to target location: 173.47 meters. Will take 19.52 seconds driving at 32kmh
 [01:54:49] (INFO) Found 1 catchable Pokemon
 [01:54:51] (Wild Success) | Zubat 157 V |  250 Cp | 66.54% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[01:54:53] (INFO) Found 1 pokemon to transfer...
+[01:54:55] (TRANSFER) Zubat 157 V |  250 Cp | 66.54% | Lvl 15 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 573
+[01:54:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[01:54:58] (POKESTOP) Catherine's Healing Garden in 87.8 m distance
+[01:54:58] (NAVIGATION) Distance to target location: 87.8 meters. Will take 11.29 seconds driving at 28kmh
+[01:55:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[01:55:09] (INFO) Found 4 Recyclable Items:
+[01:55:10] (RECYCLING) RazzBerry x 4
+[01:55:12] (RECYCLING) PokeBall x 7
+[01:55:12] (RECYCLING) SuperPotion x 1
+[01:55:13] (RECYCLING) Revive x 1
+[01:55:16] (INFO) Found 2 catchable Pokemon
+[01:55:17] (Wild Success) | Mankey 134 V |  201 Cp | 57.20% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
