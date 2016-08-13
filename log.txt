@@ -1982,3 +1982,8 @@
 [21:07:42] (INFO) Found 2 catchable Pokemon
 [21:07:43] (Wild Success) | Poliwag 106 V |   89 Cp | 35.11% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [21:07:45] (Wild Success) | Zubat 171 V |  197 Cp | 91.11% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[21:07:47] (INFO) Found 2 pokemon to transfer...
+[21:07:48] (TRANSFER) Poliwag 106 V |   89 Cp | 35.11% | Lvl 05 | Best: [Poliwag 147 V |  169 Cp | 78.21% | Lvl 08] | Candy: 26
+[21:07:50] (TRANSFER) Zubat 150 V |  146 Cp | 59.90% | Lvl 09 | Best: [Zubat 171 V |  197 Cp | 91.11% | Lvl 11] | Candy: 156
+[21:07:52] (INFO) Found 1 catchable Pokemon
+[21:07:53] (Wild Success) | Gastly 115 V |  133 Cp | 41.90% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 710
