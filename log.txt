@@ -19332,3 +19332,14 @@
 [06:53:32] (INFO) Found 1 catchable Pokemon
 [06:53:33] (BERRY) ItemRazzBerry used, remaining: 50
 [06:53:34] (Wild Success) | Pidgey 141 V |  374 Cp | 53.98% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:53:36] (INFO) Found 1 pokemon to transfer...
+[06:53:37] (TRANSFER) Pidgey 134 V |  322 Cp | 52.43% | Lvl 19 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 868
+[06:53:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:53:39] (INFO) Found 3 Recyclable Items:
+[06:53:39] (RECYCLING) RazzBerry x 1
+[06:53:40] (RECYCLING) PokeBall x 11
+[06:53:41] (RECYCLING) SuperPotion x 1
+[06:53:44] (POKESTOP) Syzygium Campanulatum in 225.66 m distance
+[06:53:44] (NAVIGATION) Distance to target location: 225.66 meters. Will take 19.81 seconds driving at 41kmh
+[06:53:49] (INFO) Found 1 catchable Pokemon
+[06:53:51] (Wild Success) | Pidgey 99 V |  233 Cp | 25.90% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
