@@ -7991,3 +7991,14 @@
 [00:34:44] (NAVIGATION) Distance to target location: 79.59 meters. Will take 9.88 seconds driving at 29kmh
 [00:34:45] (INFO) Found 1 catchable Pokemon
 [00:34:47] (Wild Success) | Zubat 150 V |  294 Cp | 60.77% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[00:34:49] (INFO) Found 1 pokemon to transfer...
+[00:34:51] (TRANSFER) Zubat 150 V |  294 Cp | 60.77% | Lvl 18 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 413
+[00:34:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemUltraBall
+[00:34:55] (INFO) Found 3 Recyclable Items:
+[00:34:55] (RECYCLING) RazzBerry x 2
+[00:34:56] (RECYCLING) PokeBall x 7
+[00:34:57] (RECYCLING) Revive x 2
+[00:35:00] (POKESTOP) Tree of the Elements in 62.97 m distance
+[00:35:00] (NAVIGATION) Distance to target location: 62.97 meters. Will take 8.1 seconds driving at 28kmh
+[00:35:06] (INFO) Found 1 catchable Pokemon
+[00:35:07] (Wild Success) | Zubat 163 V |  152 Cp | 73.22% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
