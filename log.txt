@@ -12658,3 +12658,10 @@
 [03:04:33] (INFO) Found 1 catchable Pokemon
 [03:04:34] (BERRY) ItemRazzBerry used, remaining: 49
 [03:04:35] (Wild Success) | Paras 150 V |  393 Cp | 50.91% | Lvl 17 | Chance: 0.29 | with a UltraBall and received XP 210
+[03:04:37] (INFO) Found 1 pokemon to transfer...
+[03:04:39] (TRANSFER) Paras 150 V |  393 Cp | 50.91% | Lvl 17 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 80
+[03:04:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[03:04:42] (POKESTOP) Volleyball Arena in 172.36 m distance
+[03:04:42] (NAVIGATION) Distance to target location: 172.36 meters. Will take 19.39 seconds driving at 32kmh
+[03:04:53] (INFO) Found 2 catchable Pokemon
+[03:04:54] (Wild Success) | Oddish 149 V |  351 Cp | 49.07% | Lvl 12 | Chance: 0.51 | with a GreatBall and received XP 210
