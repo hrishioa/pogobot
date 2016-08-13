@@ -13022,3 +13022,10 @@
 [03:16:10] (INFO) Found 1 catchable Pokemon
 [03:16:11] (BERRY) ItemRazzBerry used, remaining: 49
 [03:16:12] (Wild Success) | Squirtle 135 V |  454 Cp | 24.64% | Lvl 19 | Chance: 0.13 | with a GreatBall and received XP 210
+[03:16:14] (INFO) Found 1 pokemon to transfer...
+[03:16:15] (TRANSFER) Squirtle 135 V |  454 Cp | 24.64% | Lvl 19 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 38
+[03:16:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[03:16:19] (POKESTOP) Arch at West Coast in 162.4 m distance
+[03:16:19] (NAVIGATION) Distance to target location: 162.4 meters. Will take 18.86 seconds driving at 31kmh
+[03:16:36] (INFO) Found 4 catchable Pokemon
+[03:16:38] (Wild Success) | Pidgey 92 V |   42 Cp | 38.19% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
