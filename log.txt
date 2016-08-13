@@ -20407,3 +20407,10 @@
 [07:29:10] (NAVIGATION) Distance to target location: 202.56 meters. Will take 19.71 seconds driving at 37kmh
 [07:29:12] (INFO) Found 1 catchable Pokemon
 [07:29:13] (Wild Success) | Pidgey 85 V |   40 Cp | 25.61% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[07:29:15] (INFO) Found 1 pokemon to transfer...
+[07:29:16] (TRANSFER) Pidgey 85 V |   40 Cp | 25.61% | Lvl 03 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 923
+[07:29:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 6 x ItemPokeBall
+[07:29:30] (POKESTOP) West Coast Town Council Fitness Corner in 112.23 m distance
+[07:29:30] (NAVIGATION) Distance to target location: 112.23 meters. Will take 13.47 seconds driving at 30kmh
+[07:29:32] (INFO) Found 1 catchable Pokemon
+[07:29:33] (Wild Success) | Exeggcute 150 V |  111 Cp | 84.48% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
