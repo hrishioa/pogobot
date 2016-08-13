@@ -1835,3 +1835,10 @@
 [21:04:09] (TRANSFER) Pidgey 90 V |   41 Cp | 35.99% | Lvl 03 | Best: [Pidgey 119 V |  152 Cp | 53.65% | Lvl 09] | Candy: 124
 [21:04:12] (INFO) Found 1 catchable Pokemon
 [21:04:13] (Wild Success) | Weedle 70 V |   36 Cp | 33.80% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[21:04:15] (INFO) Found 1 pokemon to transfer...
+[21:04:16] (TRANSFER) Weedle 70 V |   36 Cp | 33.80% | Lvl 04 | Best: [Weedle 112 V |   84 Cp | 48.53% | Lvl 08] | Candy: 50
+[21:04:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[21:04:19] (POKESTOP) Stirling View in 274.21 m distance
+[21:04:19] (NAVIGATION) Distance to target location: 274.21 meters. Will take 19.74 seconds driving at 50kmh
+[21:04:31] (INFO) Found 1 catchable Pokemon
+[21:04:34] (Wild Success) | Tentacool 88 V |   56 Cp | 31.84% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
