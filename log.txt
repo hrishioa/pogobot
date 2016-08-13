@@ -794,3 +794,4 @@
 [20:25:17] (NAVIGATION) Distance to target location: 299.11 meters. Will take 19.94 seconds driving at 54kmh
 [20:25:22] (INFO) Found 3 catchable Pokemon
 [20:25:24] (Wild Success) | Psyduck 103 V |  179 Cp | 19.51% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[20:25:25] (Wild Success) | Slowpoke 131 V |  241 Cp | 41.64% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
