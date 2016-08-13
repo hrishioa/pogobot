@@ -4169,3 +4169,24 @@
 [22:22:34] (TRANSFER) Jynx 140 V |  480 Cp | 37.47% | Lvl 11 | Best: [Jynx 157 V |  535 Cp | 47.85% | Lvl 12] | Candy: 34
 [22:22:36] (INFO) Found 1 catchable Pokemon
 [22:22:37] (Wild Success) | Zubat 103 V |  178 Cp | 30.09% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[22:22:39] (INFO) Found 1 pokemon to transfer...
+[22:22:40] (TRANSFER) Zubat 103 V |  178 Cp | 30.09% | Lvl 12 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 310
+[22:22:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[22:22:47] (POKESTOP) Pavillion Hiltop in 103.91 m distance
+[22:22:47] (NAVIGATION) Distance to target location: 103.91 meters. Will take 13.36 seconds driving at 28kmh
+[22:22:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:23:00] (POKESTOP) Southern Ridges in 103.5 m distance
+[22:23:00] (NAVIGATION) Distance to target location: 103.5 meters. Will take 11.64 seconds driving at 32kmh
+[22:23:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:23:10] (INFO) Found 1 Recyclable Item:
+[22:23:10] (RECYCLING) PokeBall x 11
+[22:23:13] (POKESTOP) Kent Ridge Heritage Trail in 342.28 m distance
+[22:23:13] (NAVIGATION) Distance to target location: 342.28 meters. Will take 19.87 seconds driving at 62kmh
+[22:23:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[22:23:34] (POKESTOP) Singapore Science Park I in 798.83 m distance
+[22:23:34] (NAVIGATION) Distance to target location: 798.83 meters. Will take 41.08 seconds driving at 70kmh
+[22:24:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[22:24:17] (POKESTOP) Kent Ridge Monument in 107.7 m distance
+[22:24:17] (NAVIGATION) Distance to target location: 107.7 meters. Will take 13.37 seconds driving at 29kmh
+[22:24:28] (INFO) Found 1 catchable Pokemon
+[22:24:30] (Wild Success) | Magikarp 106 V |   79 Cp | 73.17% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
