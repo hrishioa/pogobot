@@ -10668,3 +10668,8 @@
 [02:02:22] (NAVIGATION) Distance to target location: 212.5 meters. Will take 19.62 seconds driving at 39kmh
 [02:02:30] (INFO) Found 1 catchable Pokemon
 [02:02:32] (Wild Success) | Zubat 108 V |  178 Cp | 30.09% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[02:02:33] (INFO) Found 1 pokemon to transfer...
+[02:02:35] (TRANSFER) Zubat 108 V |  178 Cp | 30.09% | Lvl 12 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 585
+[02:02:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:02:43] (INFO) Found 1 catchable Pokemon
+[02:02:44] (Wild Success) | Pidgey 111 V |  272 Cp | 34.25% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
