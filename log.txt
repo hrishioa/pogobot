@@ -11356,3 +11356,48 @@
 [02:21:18] (NAVIGATION) Distance to target location: 109.13 meters. Will take 13.1 seconds driving at 30kmh
 [02:21:30] (INFO) Found 1 catchable Pokemon
 [02:21:31] (Wild Success) | Weedle 82 V |   55 Cp | 20.61% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
+[02:21:33] (INFO) Found 1 pokemon to transfer...
+[02:21:34] (TRANSFER) Weedle 82 V |   55 Cp | 20.61% | Lvl 06 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 168
+[02:21:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[02:21:37] (POKESTOP) Eusoff Freshies Corner in 134.66 m distance
+[02:21:37] (NAVIGATION) Distance to target location: 134.66 meters. Will take 15.64 seconds driving at 31kmh
+[02:21:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemSuperPotion
+[02:21:53] (POKESTOP) Eusoff Hall in 79.84 m distance
+[02:21:53] (NAVIGATION) Distance to target location: 79.84 meters. Will take 9.58 seconds driving at 30kmh
+[02:22:01] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:22:03] (POKESTOP) Heritage Time Arc in 123.07 m distance
+[02:22:03] (NAVIGATION) Distance to target location: 123.07 meters. Will take 14.29 seconds driving at 31kmh
+[02:22:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemGreatBall
+[02:22:16] (POKESTOP) Ventus in 101.48 m distance
+[02:22:16] (NAVIGATION) Distance to target location: 101.48 meters. Will take 12.18 seconds driving at 30kmh
+[02:22:26] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:22:27] (INFO) Found 3 Recyclable Items:
+[02:22:28] (RECYCLING) PokeBall x 6
+[02:22:29] (RECYCLING) Potion x 1
+[02:22:30] (RECYCLING) SuperPotion x 1
+[02:22:32] (POKESTOP) Footprint Bench in 79.63 m distance
+[02:22:32] (NAVIGATION) Distance to target location: 79.63 meters. Will take 10.24 seconds driving at 28kmh
+[02:22:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPotion, 1 x ItemGreatBall
+[02:22:42] (POKESTOP) NUS monolith in 96.36 m distance
+[02:22:42] (NAVIGATION) Distance to target location: 96.36 meters. Will take 11.96 seconds driving at 29kmh
+[02:22:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[02:22:54] (POKESTOP) Metal Robot Structure in 144.51 m distance
+[02:22:54] (NAVIGATION) Distance to target location: 144.51 meters. Will take 16.26 seconds driving at 32kmh
+[02:23:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[02:23:10] (POKESTOP) Abstact Sculptures At NUS in 125.64 m distance
+[02:23:10] (NAVIGATION) Distance to target location: 125.64 meters. Will take 14.59 seconds driving at 31kmh
+[02:23:23] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:23:25] (POKESTOP) SDE Mural in 112.71 m distance
+[02:23:25] (NAVIGATION) Distance to target location: 112.71 meters. Will take 12.68 seconds driving at 32kmh
+[02:23:36] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:23:37] (INFO) Found 3 Recyclable Items:
+[02:23:37] (RECYCLING) PokeBall x 3
+[02:23:38] (RECYCLING) Potion x 1
+[02:23:39] (RECYCLING) Revive x 1
+[02:23:42] (POKESTOP) Center for English Language Communication in 110.45 m distance
+[02:23:42] (NAVIGATION) Distance to target location: 110.45 meters. Will take 12.83 seconds driving at 31kmh
+[02:23:53] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRevive
+[02:23:55] (POKESTOP) Survival Mask in 192.01 m distance
+[02:23:55] (NAVIGATION) Distance to target location: 192.01 meters. Will take 19.75 seconds driving at 35kmh
+[02:24:02] (INFO) Found 1 catchable Pokemon
+[02:24:04] (Wild Success) | Weedle 88 V |  150 Cp | 17.95% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
