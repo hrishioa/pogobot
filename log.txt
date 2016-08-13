@@ -3621,3 +3621,12 @@
 [22:03:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
 [22:03:17] (INFO) Found 1 catchable Pokemon
 [22:03:19] (Wild Success) | Goldeen 123 V |  334 Cp | 41.33% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[22:03:21] (INFO) Found 1 pokemon to transfer...
+[22:03:22] (TRANSFER) Goldeen 123 V |  334 Cp | 41.33% | Lvl 14 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 58
+[22:03:22] (POKESTOP) Animal Fighting Ring in 64.71 m distance
+[22:03:22] (NAVIGATION) Distance to target location: 64.71 meters. Will take 7.51 seconds driving at 31kmh
+[22:03:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[22:03:31] (POKESTOP) Wishing Well in 57.2 m distance
+[22:03:31] (NAVIGATION) Distance to target location: 57.2 meters. Will take 6.44 seconds driving at 32kmh
+[22:03:32] (INFO) Found 2 catchable Pokemon
+[22:03:33] (Wild Success) | Pidgey 80 V |   42 Cp | 36.48% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
