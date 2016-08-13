@@ -11823,3 +11823,5 @@
 [02:39:08] (INFO) Found 1 catchable Pokemon
 [02:39:08] (BERRY) ItemRazzBerry used, remaining: 49
 [02:39:10] (Wild Success) | Tentacool 142 V |  505 Cp | 52.65% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
+[02:39:48] (INFO) Found 1 catchable Pokemon
+[02:39:49] (Wild Success) | Magikarp 98 V |  125 Cp | 60.79% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
