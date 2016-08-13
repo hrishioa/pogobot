@@ -6129,3 +6129,18 @@
 [23:33:22] (NAVIGATION) Distance to target location: 62.24 meters. Will take 8 seconds driving at 28kmh
 [23:33:28] (INFO) Found 1 catchable Pokemon
 [23:33:29] (Wild Success) | Weedle 84 V |   75 Cp | 21.47% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:33:31] (INFO) Found 1 pokemon to transfer...
+[23:33:32] (TRANSFER) Weedle 84 V |   75 Cp | 21.47% | Lvl 08 | Best: [Weedle 120 V |  130 Cp | 52.13% | Lvl 12] | Candy: 65
+[23:33:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:33:35] (INFO) Found 3 Recyclable Items:
+[23:33:35] (RECYCLING) PokeBall x 9
+[23:33:36] (RECYCLING) Potion x 4
+[23:33:37] (RECYCLING) Revive x 1
+[23:33:39] (POKESTOP) NUS Sports and Recreation Centre in 83.8 m distance
+[23:33:39] (NAVIGATION) Distance to target location: 83.8 meters. Will take 9.43 seconds driving at 32kmh
+[23:33:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:33:50] (POKESTOP) Spring of Gratitude in 79.06 m distance
+[23:33:50] (NAVIGATION) Distance to target location: 79.06 meters. Will take 9.18 seconds driving at 31kmh
+[23:33:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:33:59] (INFO) Found 1 catchable Pokemon
+[23:34:00] (Wild Success) | Pidgey 118 V |  168 Cp | 50.78% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
