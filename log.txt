@@ -18091,3 +18091,10 @@
 [06:14:07] (BERRY) ItemRazzBerry used, remaining: 47
 [06:14:08] (Wild Success) | Bellsprout 195 V |  550 Cp | 58.23% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
 [06:14:10] (Wild Success) | Caterpie 84 V |  140 Cp | 20.07% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[06:14:12] (INFO) Found 2 pokemon to transfer...
+[06:14:13] (TRANSFER) Caterpie 84 V |  140 Cp | 20.07% | Lvl 15 | Best: [Caterpie 101 V |  169 Cp | 34.44% | Lvl 17] | Candy: 112
+[06:14:15] (TRANSFER) Bellsprout 165 V |  509 Cp | 48.78% | Lvl 18 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 165
+[06:14:16] (POKESTOP) Health Mural in 104.25 m distance
+[06:14:16] (NAVIGATION) Distance to target location: 104.25 meters. Will take 12.51 seconds driving at 30kmh
+[06:14:24] (INFO) Found 1 catchable Pokemon
+[06:14:26] (Wild Success) | Ekans 158 V |  344 Cp | 44.07% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
