@@ -19468,3 +19468,26 @@
 [06:58:24] (INFO) Found 1 catchable Pokemon
 [06:58:25] (BERRY) ItemRazzBerry used, remaining: 51
 [06:58:26] (Wild Success) | Venonat 188 V |  598 Cp | 65.68% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
+[06:58:28] (INFO) Found 1 pokemon to transfer...
+[06:58:29] (TRANSFER) Venonat 141 V |  241 Cp | 62.37% | Lvl 09 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 119
+[06:58:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[06:58:33] (INFO) Found 3 Recyclable Items:
+[06:58:34] (RECYCLING) RazzBerry x 1
+[06:58:34] (RECYCLING) PokeBall x 9
+[06:58:35] (RECYCLING) SuperPotion x 1
+[06:58:39] (POKESTOP) West Coast Green Zone in 42.03 m distance
+[06:58:39] (NAVIGATION) Distance to target location: 42.03 meters. Will take 5.4 seconds driving at 28kmh
+[06:58:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[06:58:45] (POKESTOP) West Coast Road Sculpture in 48.36 m distance
+[06:58:45] (NAVIGATION) Distance to target location: 48.36 meters. Will take 5.44 seconds driving at 32kmh
+[06:58:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemSuperPotion
+[06:58:51] (POKESTOP) Pasir Panjang Garden in 119.03 m distance
+[06:58:51] (NAVIGATION) Distance to target location: 119.03 meters. Will take 13.39 seconds driving at 32kmh
+[06:59:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[06:59:05] (POKESTOP) West Coast Public Stage in 59.71 m distance
+[06:59:05] (NAVIGATION) Distance to target location: 59.71 meters. Will take 6.72 seconds driving at 32kmh
+[06:59:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:59:12] (POKESTOP) Metallic Windmill in 95.78 m distance
+[06:59:12] (NAVIGATION) Distance to target location: 95.78 meters. Will take 11.49 seconds driving at 30kmh
+[06:59:13] (INFO) Found 1 catchable Pokemon
+[06:59:15] (Wild Success) | Weedle 68 V |  152 Cp | 21.18% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
