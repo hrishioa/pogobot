@@ -18083,3 +18083,10 @@
 [06:13:47] (NAVIGATION) Distance to target location: 102.68 meters. Will take 12.32 seconds driving at 30kmh
 [06:13:53] (INFO) Found 1 catchable Pokemon
 [06:13:55] (Wild Success) | Ekans 118 V |  120 Cp | 54.42% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[06:13:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 2 x ItemPokeBall
+[06:14:00] (POKESTOP) Clementi West White Orchid Mural in 51.22 m distance
+[06:14:00] (NAVIGATION) Distance to target location: 51.22 meters. Will take 5.95 seconds driving at 31kmh
+[06:14:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:14:06] (INFO) Found 2 catchable Pokemon
+[06:14:07] (BERRY) ItemRazzBerry used, remaining: 47
+[06:14:08] (Wild Success) | Bellsprout 195 V |  550 Cp | 58.23% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
