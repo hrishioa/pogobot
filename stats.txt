@@ -1,0 +1,34 @@
+Stats:
+[20:08:33] Name: toonistic2
+[20:08:33] Team: Neutral
+[20:08:33] Level: 9 (LvLUp in 0h 0m | 1875/9000 XP)
+[20:08:33] Pokemon: 20
+[20:08:33] Stardust: 7600
+[20:08:33] ====== Items (131) ======
+[20:08:33] RazzBerry x 19
+[20:08:33] IncubatorBasicUnlimited x 1
+[20:08:33] PokeBall x 53
+[20:08:33] Revive x 26
+[20:08:33] IncenseOrdinary x 2
+[20:08:33] Potion x 30
+
+[20:08:33] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:08:33] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:08:33] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:08:33] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
+[20:08:33] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:08:33] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:08:33] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:08:33] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
+[20:08:33] Psyduck             117 True Value |  100 Cp | 37.49% Perfect | Lvl 04 | WaterGun/CrossChop
+[20:08:33] Pidgey              104 True Value |   94 Cp | 40.24% Perfect | Lvl 06 | Tackle/AirCutter
+[20:08:33] Pidgeotto           98 True Value |   78 Cp | 30.39% Perfect | Lvl 03 | WingAttack/AerialAce
+[20:08:33] Ekans               116 True Value |   76 Cp | 56.24% Perfect | Lvl 04 | PoisonSting/SludgeBomb
+[20:08:33] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
+[20:08:33] Rattata             95 True Value |   75 Cp | 26.87% Perfect | Lvl 06 | QuickAttack/Dig
+[20:08:33] Weedle              61 True Value |   75 Cp | 20.66% Perfect | Lvl 08 | PoisonSting/Struggle
+[20:08:33] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:08:33] Weedle              86 True Value |   72 Cp | 46.87% Perfect | Lvl 07 | PoisonSting/Struggle
+[20:08:33] Paras               140 True Value |   62 Cp | 63.57% Perfect | Lvl 03 | BugBite/SeedBomb
+[20:08:33] Staryu              115 True Value |   61 Cp | 48.97% Perfect | Lvl 03 | WaterGun/PowerGem
+[20:08:33] Spearow             101 True Value |   61 Cp | 44.76% Perfect | Lvl 04 | QuickAttack/AerialAce
