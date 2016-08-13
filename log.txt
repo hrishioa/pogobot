@@ -5005,3 +5005,18 @@
 [22:54:47] (TRANSFER) Rattata 121 V |  138 Cp | 41.89% | Lvl 10 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 65
 [22:54:49] (INFO) Found 1 catchable Pokemon
 [22:54:50] (Wild Success) | Spearow 137 V |  186 Cp | 81.02% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
+[22:54:54] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[22:54:55] (POKESTOP) The Old Playground Roundabout in 347.05 m distance
+[22:54:55] (NAVIGATION) Distance to target location: 347.05 meters. Will take 19.83 seconds driving at 63kmh
+[22:55:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 4 x ItemPokeBall
+[22:55:18] (POKESTOP) ACJC-FCPA at Dover in 1135.4 m distance
+[22:55:18] (NAVIGATION) Distance to target location: 1135.4 meters. Will take 58.39 seconds driving at 70kmh
+[22:56:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[22:56:17] (INFO) Found 2 Recyclable Items:
+[22:56:17] (RECYCLING) RazzBerry x 1
+[22:56:18] (RECYCLING) PokeBall x 9
+[22:56:21] (INFO) Found 83 Pokestops
+[22:56:23] (POKESTOP) Heritage View Golden Wall in 87.01 m distance
+[22:56:23] (NAVIGATION) Distance to target location: 87.01 meters. Will take 9.79 seconds driving at 32kmh
+[22:56:28] (INFO) Found 1 catchable Pokemon
+[22:56:29] (Wild Success) | Zubat 147 V |   65 Cp | 91.26% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 420
