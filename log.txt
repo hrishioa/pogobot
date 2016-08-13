@@ -1730,3 +1730,4 @@
 [20:59:43] (NAVIGATION) Distance to target location: 65.13 meters. Will take 7.82 seconds driving at 30kmh
 [20:59:47] (INFO) Found 2 catchable Pokemon
 [20:59:49] (Wild Success) | Tangela 144 V |  263 Cp | 51.39% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 710
+[20:59:51] (Wild Success) | Poliwag 122 V |  225 Cp | 30.72% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
