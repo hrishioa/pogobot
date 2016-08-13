@@ -8331,3 +8331,4 @@
 [00:45:46] (TRANSFER) Zubat 123 V |  218 Cp | 45.80% | Lvl 14 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 445
 [00:45:49] (INFO) Found 3 catchable Pokemon
 [00:45:51] (Wild Success) | Zubat 152 V |  276 Cp | 78.62% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:45:53] (Wild Success) | Zubat 126 V |  311 Cp | 44.83% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
