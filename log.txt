@@ -16623,3 +16623,18 @@
 [05:25:35] (NAVIGATION) Distance to target location: 47.38 meters. Will take 5.88 seconds driving at 29kmh
 [05:25:40] (INFO) Found 1 catchable Pokemon
 [05:25:41] (Wild Success) | Weedle 83 V |  162 Cp | 35.32% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[05:25:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[05:25:44] (INFO) Found 2 Recyclable Items:
+[05:25:45] (RECYCLING) PokeBall x 9
+[05:25:46] (RECYCLING) Revive x 2
+[05:25:48] (POKESTOP) Clementi Public Library in 100.91 m distance
+[05:25:48] (NAVIGATION) Distance to target location: 100.91 meters. Will take 11.72 seconds driving at 31kmh
+[05:25:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[05:26:00] (POKESTOP) Heartland Treasures in 118.92 m distance
+[05:26:00] (NAVIGATION) Distance to target location: 118.92 meters. Will take 14.76 seconds driving at 29kmh
+[05:26:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:26:14] (POKESTOP) Stone Lantern in 88.64 m distance
+[05:26:14] (NAVIGATION) Distance to target location: 88.64 meters. Will take 10.64 seconds driving at 30kmh
+[05:26:21] (INFO) Found 1 catchable Pokemon
+[05:26:22] (BERRY) ItemRazzBerry used, remaining: 50
+[05:26:23] (Wild Success) | Goldeen 173 V |  503 Cp | 61.48% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
