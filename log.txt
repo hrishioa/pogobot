@@ -685,3 +685,4 @@
 [20:24:18] (TRANSFER) Venonat 134 V |   98 Cp | 61.85% | Lvl 04 | Best: [Venonat 142 V |  156 Cp | 63.59% | Lvl 06] | Candy: 10
 [20:24:19] (INFO) Found 2 catchable Pokemon
 [20:24:21] (Wild Success) | Zubat 164 V |  152 Cp | 73.82% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:24:23] (Wild Success) | Krabby 108 V |   70 Cp | 41.74% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
