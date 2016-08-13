@@ -6675,3 +6675,18 @@
 [23:51:04] (NAVIGATION) Distance to target location: 58.58 meters. Will take 7.53 seconds driving at 28kmh
 [23:51:09] (INFO) Found 1 catchable Pokemon
 [23:51:10] (Wild Success) | Spearow 133 V |  251 Cp | 67.75% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[23:51:12] (INFO) Found 1 pokemon to transfer...
+[23:51:14] (TRANSFER) Spearow 133 V |  251 Cp | 67.75% | Lvl 14 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 111
+[23:51:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:51:16] (INFO) Found 4 Recyclable Items:
+[23:51:16] (RECYCLING) RazzBerry x 2
+[23:51:17] (RECYCLING) PokeBall x 10
+[23:51:18] (RECYCLING) Potion x 3
+[23:51:18] (RECYCLING) Revive x 1
+[23:51:23] (POKESTOP) Dover Crescent in 121.41 m distance
+[23:51:23] (NAVIGATION) Distance to target location: 121.41 meters. Will take 14.57 seconds driving at 30kmh
+[23:51:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:51:36] (POKESTOP) Blue-tiled Fountain - Dover Park View in 368.09 m distance
+[23:51:36] (NAVIGATION) Distance to target location: 368.09 meters. Will take 19.78 seconds driving at 67kmh
+[23:51:56] (INFO) Found 2 catchable Pokemon
+[23:51:57] (Wild Success) | Weedle 116 V |  187 Cp | 42.18% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
