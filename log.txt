@@ -19324,3 +19324,11 @@
 [06:53:00] (NAVIGATION) Distance to target location: 208.28 meters. Will take 19.73 seconds driving at 38kmh
 [06:53:18] (INFO) Found 1 catchable Pokemon
 [06:53:20] (Wild Success) | Goldeen 149 V |  300 Cp | 59.99% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[06:53:22] (INFO) Found 1 pokemon to transfer...
+[06:53:23] (TRANSFER) Goldeen 149 V |  300 Cp | 59.99% | Lvl 12 | Best: [Goldeen 173 V |  503 Cp | 61.48% | Lvl 20] | Candy: 166
+[06:53:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:53:25] (POKESTOP) Butterfly Mural in 74.12 m distance
+[06:53:25] (NAVIGATION) Distance to target location: 74.12 meters. Will take 8.34 seconds driving at 32kmh
+[06:53:32] (INFO) Found 1 catchable Pokemon
+[06:53:33] (BERRY) ItemRazzBerry used, remaining: 50
+[06:53:34] (Wild Success) | Pidgey 141 V |  374 Cp | 53.98% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
