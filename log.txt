@@ -5798,3 +5798,7 @@
 [23:22:16] (NAVIGATION) Distance to target location: 351.78 meters. Will take 19.79 seconds driving at 64kmh
 [23:22:31] (INFO) Found 1 catchable Pokemon
 [23:22:33] (Wild Success) | Goldeen 151 V |   69 Cp | 82.33% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[23:22:35] (INFO) Found 1 pokemon to transfer...
+[23:22:37] (TRANSFER) Goldeen 151 V |   69 Cp | 82.33% | Lvl 03 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 90
+[23:22:38] (INFO) Found 4 catchable Pokemon
+[23:22:39] (Wild Success) | Zubat 123 V |   58 Cp | 51.65% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
