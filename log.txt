@@ -13031,3 +13031,4 @@
 [03:16:38] (Wild Success) | Pidgey 92 V |   42 Cp | 38.19% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [03:16:39] (Wild Success) | Rattata 127 V |   22 Cp | 57.87% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [03:16:41] (Wild Success) | Pidgey 102 V |  311 Cp | 25.76% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[03:16:43] (Wild Success) | Rattata 139 V |  101 Cp | 64.23% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
