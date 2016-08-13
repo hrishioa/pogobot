@@ -8799,3 +8799,22 @@
 [01:01:59] (INFO) Found 1 catchable Pokemon
 [01:01:59] (BERRY) ItemRazzBerry used, remaining: 47
 [01:02:01] (Wild Success) | Paras 153 V |  436 Cp | 48.60% | Lvl 19 | Chance: 0.27 | with a GreatBall and received XP 210
+[01:02:03] (INFO) Found 1 pokemon to transfer...
+[01:02:04] (TRANSFER) Paras 153 V |  436 Cp | 48.60% | Lvl 19 | Best: [Paras 166 V |  219 Cp | 73.52% | Lvl 09] | Candy: 36
+[01:02:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[01:02:06] (INFO) Found 4 Recyclable Items:
+[01:02:07] (RECYCLING) PokeBall x 5
+[01:02:08] (RECYCLING) Potion x 2
+[01:02:09] (RECYCLING) SuperPotion x 1
+[01:02:09] (RECYCLING) Revive x 2
+[01:02:12] (POKESTOP) Eagle Statue in 191.87 m distance
+[01:02:12] (NAVIGATION) Distance to target location: 191.87 meters. Will take 19.74 seconds driving at 35kmh
+[01:02:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[01:02:33] (INFO) Found 37 Pokestops
+[01:02:33] (POKESTOP) JFDI the Frog in 272.56 m distance
+[01:02:33] (NAVIGATION) Distance to target location: 272.56 meters. Will take 19.62 seconds driving at 50kmh
+[01:02:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[01:02:54] (POKESTOP) Mural at Block 71 in 121.2 m distance
+[01:02:54] (NAVIGATION) Distance to target location: 121.2 meters. Will take 15.05 seconds driving at 29kmh
+[01:03:06] (INFO) Found 1 catchable Pokemon
+[01:03:07] (Wild Success) | Caterpie 72 V |   10 Cp | 16.48% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
