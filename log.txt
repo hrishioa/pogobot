@@ -16542,3 +16542,11 @@
 [05:21:37] (NAVIGATION) Distance to target location: 96.82 meters. Will take 12.45 seconds driving at 28kmh
 [05:21:38] (INFO) Found 1 catchable Pokemon
 [05:21:40] (Wild Success) | Goldeen 120 V |   38 Cp | 56.80% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[05:21:41] (INFO) Found 1 pokemon to transfer...
+[05:21:43] (TRANSFER) Goldeen 120 V |   38 Cp | 56.80% | Lvl 02 | Best: [Goldeen 163 V |  355 Cp | 65.14% | Lvl 14] | Candy: 147
+[05:21:46] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemRazzBerry, 3 x ItemGreatBall, 3 x ItemPokeBall
+[05:21:49] (POKESTOP) Arch at West Coast in 117.14 m distance
+[05:21:49] (NAVIGATION) Distance to target location: 117.14 meters. Will take 13.6 seconds driving at 31kmh
+[05:21:52] (INFO) Found 2 catchable Pokemon
+[05:21:53] (ATTENTION) Encounter problem: EncounterClosed
+[05:21:54] (Wild Success) | Magikarp 107 V |   73 Cp | 74.82% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
