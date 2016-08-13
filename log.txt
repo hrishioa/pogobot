@@ -3512,3 +3512,28 @@
 [21:58:01] (NAVIGATION) Distance to target location: 115.41 meters. Will take 14.84 seconds driving at 28kmh
 [21:58:05] (INFO) Found 1 catchable Pokemon
 [21:58:06] (Wild Success) | Ekans 146 V |  147 Cp | 65.60% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:58:08] (INFO) Found 1 pokemon to transfer...
+[21:58:09] (TRANSFER) Ekans 143 V |  167 Cp | 59.48% | Lvl 08 | Best: [Ekans 148 V |  148 Cp | 68.05% | Lvl 07] | Candy: 58
+[21:58:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:58:15] (POKESTOP) Kent Ridge Monument in 196.82 m distance
+[21:58:15] (NAVIGATION) Distance to target location: 196.82 meters. Will take 19.68 seconds driving at 36kmh
+[21:58:24] (INFO) Found 1 catchable Pokemon
+[21:58:26] (Wild Escape) | Clefairy 79 V |  224 Cp | 16.55% | Lvl 08 | Chance: 0.31 | with a GreatBall 
+[21:58:27] (Wild Success Attempt #2) | Clefairy 79 V |  224 Cp | 16.55% | Lvl 08 | Chance: 0.31 | with a GreatBall 
+[21:58:29] (INFO) Found 1 pokemon to transfer...
+[21:58:30] (TRANSFER) Clefairy 79 V |  224 Cp | 16.55% | Lvl 08 | Best: [Clefairy 159 V |  362 Cp | 41.21% | Lvl 12] | Candy: 22
+[21:58:32] (INFO) Found 1 catchable Pokemon
+[21:58:33] (Wild Escape) | Spearow 143 V |  267 Cp | 66.19% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[21:58:34] (Wild Escape Attempt #2) | Spearow 143 V |  267 Cp | 66.19% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[21:58:34] (Wild Success Attempt #3) | Spearow 143 V |  267 Cp | 66.19% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[21:58:36] (INFO) Found 1 pokemon to transfer...
+[21:58:38] (TRANSFER) Spearow 133 V |  121 Cp | 63.82% | Lvl 07 | Best: [Spearow 143 V |  267 Cp | 66.19% | Lvl 15] | Candy: 87
+[21:58:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:58:41] (INFO) Found 3 Recyclable Items:
+[21:58:42] (RECYCLING) RazzBerry x 1
+[21:58:42] (RECYCLING) PokeBall x 9
+[21:58:43] (RECYCLING) Revive x 1
+[21:58:46] (POKESTOP) Science And Technology Water Statue in 541.45 m distance
+[21:58:46] (NAVIGATION) Distance to target location: 541.45 meters. Will take 27.85 seconds driving at 70kmh
+[21:58:59] (INFO) Found 1 catchable Pokemon
+[21:59:00] (Wild Success) | Pidgey 91 V |  199 Cp | 20.97% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
