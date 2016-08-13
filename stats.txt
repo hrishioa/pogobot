@@ -12,23 +12,23 @@ Stats:
 [20:15:10] IncenseOrdinary x 2
 [20:15:10] Potion x 32
 
-[20:15:10] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
-[20:15:10] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
-[20:15:10] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
-[20:15:10] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
-[20:15:10] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
-[20:15:10] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
-[20:15:10] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
-[20:15:10] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
-[20:15:10] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
-[20:15:10] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
-[20:15:10] Psyduck             117 True Value |  100 Cp | 37.49% Perfect | Lvl 04 | WaterGun/CrossChop
-[20:15:10] Zubat               146 True Value |   94 Cp | 61.53% Perfect | Lvl 06 | Bite/SludgeBomb
-[20:15:10] Pidgey              104 True Value |   94 Cp | 40.24% Perfect | Lvl 06 | Tackle/AirCutter
-[20:15:10] Pidgeotto           98 True Value |   78 Cp | 30.39% Perfect | Lvl 03 | WingAttack/AerialAce
-[20:15:10] Ekans               116 True Value |   76 Cp | 56.24% Perfect | Lvl 04 | PoisonSting/SludgeBomb
-[20:15:10] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
-[20:15:10] Rattata             95 True Value |   75 Cp | 26.87% Perfect | Lvl 06 | QuickAttack/Dig
-[20:15:10] Weedle              61 True Value |   75 Cp | 20.66% Perfect | Lvl 08 | PoisonSting/Struggle
-[20:15:10] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
-[20:15:10] Weedle              86 True Value |   72 Cp | 46.87% Perfect | Lvl 07 | PoisonSting/Struggle
+[20:25:15] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:25:15] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[20:25:15] Psyduck             114 True Value |  211 Cp | 27.99% Perfect | Lvl 08 | WaterGun/AquaTail
+[20:25:15] Ekans               125 True Value |  180 Cp | 42.19% Perfect | Lvl 09 | Acid/SludgeBomb
+[20:25:15] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[20:25:15] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
+[20:25:15] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:25:15] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:25:15] Sandshrew           126 True Value |  155 Cp | 45.88% Perfect | Lvl 08 | MudShot/RockSlide
+[20:25:15] Zubat               164 True Value |  152 Cp | 73.82% Perfect | Lvl 09 | Bite/SludgeBomb
+[20:25:15] Zubat               150 True Value |  146 Cp | 59.90% Perfect | Lvl 09 | Bite/SludgeBomb
+[20:25:15] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
+[20:25:15] Rattata             149 True Value |  135 Cp | 69.99% Perfect | Lvl 09 | Tackle/HyperFang
+[20:25:15] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:25:15] Rattata             124 True Value |  127 Cp | 50.57% Perfect | Lvl 09 | QuickAttack/HyperFang
+[20:25:15] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:25:15] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[20:25:15] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:25:15] Spearow             111 True Value |  113 Cp | 43.22% Perfect | Lvl 07 | Peck/DrillPeck
+[20:25:15] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
