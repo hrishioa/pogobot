@@ -883,3 +883,9 @@
 [20:29:58] (NAVIGATION) Distance to target location: 686.84 meters. Will take 35.32 seconds driving at 70kmh
 [20:30:30] (INFO) Found 1 catchable Pokemon
 [20:30:32] (Wild Success) | Staryu 153 V |  123 Cp | 91.21% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[20:30:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:30:37] (INFO) Found 23 Pokestops
+[20:30:39] (POKESTOP) Giant Compass in 374.48 m distance
+[20:30:39] (NAVIGATION) Distance to target location: 374.48 meters. Will take 19.83 seconds driving at 68kmh
+[20:30:50] (INFO) Found 2 catchable Pokemon
+[20:30:52] (Wild Success) | Krabby 127 V |  118 Cp | 64.57% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
