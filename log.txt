@@ -6981,3 +6981,15 @@
 [00:00:13] (TRANSFER) Paras 151 V |  167 Cp | 73.52% | Lvl 07 | Best: [Paras 152 V |  261 Cp | 61.17% | Lvl 11] | Candy: 17
 [00:00:15] (INFO) Found 2 catchable Pokemon
 [00:00:16] (Wild Success) | Squirtle 87 V |  254 Cp | 11.95% | Lvl 11 | Chance: 0.18 | with a GreatBall and received XP 210
+[00:00:18] (BERRY) ItemRazzBerry used, remaining: 49
+[00:00:18] (Wild Escape) | Squirtle 151 V |  449 Cp | 40.54% | Lvl 18 | Chance: 0.14 | with a GreatBall 
+[00:00:19] (BERRY) ItemRazzBerry used, remaining: 48
+[00:00:20] (Wild Success Attempt #2) | Squirtle 151 V |  449 Cp | 40.54% | Lvl 18 | Chance: 0.14 | with a GreatBall 
+[00:00:21] (INFO) Found 2 pokemon to transfer...
+[00:00:23] (TRANSFER) Squirtle 92 V |  346 Cp | 12.15% | Lvl 15 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 17
+[00:00:25] (TRANSFER) Squirtle 87 V |  254 Cp | 11.95% | Lvl 11 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 18
+[00:00:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[00:00:28] (POKESTOP) Reaching Out in 95.73 m distance
+[00:00:28] (NAVIGATION) Distance to target location: 95.73 meters. Will take 10.77 seconds driving at 32kmh
+[00:00:32] (INFO) Found 1 catchable Pokemon
+[00:00:34] (Wild Success) | Zubat 140 V |  275 Cp | 57.37% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
