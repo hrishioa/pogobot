@@ -17197,3 +17197,15 @@
 [05:44:54] (INFO) Found 1 catchable Pokemon
 [05:44:55] (BERRY) ItemRazzBerry used, remaining: 50
 [05:44:56] (Wild Success) | Staryu 176 V |  524 Cp | 72.08% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[05:44:58] (INFO) Found 1 pokemon to transfer...
+[05:45:00] (TRANSFER) Staryu 132 V |  307 Cp | 51.14% | Lvl 13 | Best: [Staryu 176 V |  524 Cp | 72.08% | Lvl 21] | Candy: 84
+[05:45:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:45:04] (INFO) Found 1 Recyclable Item:
+[05:45:05] (RECYCLING) PokeBall x 8
+[05:45:06] (POKESTOP) Wall Water Fountain in 74.97 m distance
+[05:45:06] (NAVIGATION) Distance to target location: 74.97 meters. Will take 8.43 seconds driving at 32kmh
+[05:45:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:45:15] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 45.76 m distance
+[05:45:15] (NAVIGATION) Distance to target location: 45.76 meters. Will take 5.68 seconds driving at 29kmh
+[05:45:17] (INFO) Found 2 catchable Pokemon
+[05:45:18] (Wild Success) | Magikarp 104 V |  128 Cp | 65.93% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
