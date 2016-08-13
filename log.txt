@@ -627,3 +627,4 @@
 [20:21:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [20:21:42] (INFO) Found 3 catchable Pokemon
 [20:21:44] (Wild Success) | Slowpoke 124 V |   48 Cp | 53.54% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[20:21:45] (Wild Success) | Pidgey 103 V |  110 Cp | 37.35% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
