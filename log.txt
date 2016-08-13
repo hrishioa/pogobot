@@ -1685,3 +1685,4 @@
 [20:58:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
 [20:58:07] (INFO) Found 2 catchable Pokemon
 [20:58:10] (Wild Success) | Caterpie 93 V |   36 Cp | 34.21% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:58:11] (Wild Success) | Goldeen 161 V |  283 Cp | 71.35% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
