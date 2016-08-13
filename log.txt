@@ -12760,3 +12760,25 @@
 [03:08:54] (NAVIGATION) Distance to target location: 64.92 meters. Will take 7.79 seconds driving at 30kmh
 [03:08:58] (INFO) Found 1 catchable Pokemon
 [03:08:59] (Wild Success) | Pidgey 115 V |  271 Cp | 33.22% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[03:09:01] (INFO) Found 1 pokemon to transfer...
+[03:09:03] (TRANSFER) Pidgey 115 V |  271 Cp | 33.22% | Lvl 17 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 560
+[03:09:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:09:05] (INFO) Found 5 Recyclable Items:
+[03:09:06] (RECYCLING) PokeBall x 11
+[03:09:07] (RECYCLING) Potion x 1
+[03:09:08] (RECYCLING) SuperPotion x 1
+[03:09:09] (RECYCLING) HyperPotion x 1
+[03:09:09] (RECYCLING) Revive x 1
+[03:09:13] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 29.8 m distance
+[03:09:13] (NAVIGATION) Distance to target location: 29.8 meters. Will take 3.7 seconds driving at 29kmh
+[03:09:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:09:17] (POKESTOP) Wall Water Fountain in 55.63 m distance
+[03:09:17] (NAVIGATION) Distance to target location: 55.63 meters. Will take 7.15 seconds driving at 28kmh
+[03:09:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[03:09:24] (POKESTOP) Health Mural in 81.51 m distance
+[03:09:24] (NAVIGATION) Distance to target location: 81.51 meters. Will take 9.78 seconds driving at 30kmh
+[03:09:25] (INFO) Found 1 catchable Pokemon
+[03:09:27] (Wild Flee) | Sandshrew 108 V |  350 Cp | 22.96% | Lvl 19 | Chance: 0.34 | with a GreatBall 
+[03:09:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:09:33] (INFO) Found 1 catchable Pokemon
+[03:09:35] (Wild Success) | Poliwag 121 V |   10 Cp | 51.07% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
