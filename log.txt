@@ -5679,3 +5679,10 @@
 [23:17:29] (NAVIGATION) Distance to target location: 667.66 meters. Will take 34.34 seconds driving at 70kmh
 [23:17:54] (INFO) Found 1 catchable Pokemon
 [23:17:55] (Wild Success) | Poliwag 147 V |  359 Cp | 51.63% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[23:17:57] (INFO) Found 1 pokemon to transfer...
+[23:17:58] (TRANSFER) Poliwag 139 V |  217 Cp | 48.18% | Lvl 11 | Best: [Poliwag 147 V |  359 Cp | 51.63% | Lvl 18] | Candy: 37
+[23:18:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:18:05] (POKESTOP) Owl Statue in 160.8 m distance
+[23:18:05] (NAVIGATION) Distance to target location: 160.8 meters. Will take 18.67 seconds driving at 31kmh
+[23:18:07] (INFO) Found 2 catchable Pokemon
+[23:18:08] (Wild Success) | Staryu 158 V |  255 Cp | 80.25% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
