@@ -20925,3 +20925,22 @@
 [07:44:36] (TRANSFER) NidoranMale 114 V |  253 Cp | 49.74% | Lvl 12 | Best: [NidoranMale 175 V |  499 Cp | 76.41% | Lvl 22] | Candy: 16
 [07:44:38] (INFO) Found 1 catchable Pokemon
 [07:44:39] (Wild Success) | Weedle 101 V |  186 Cp | 27.38% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[07:44:41] (INFO) Found 1 pokemon to transfer...
+[07:44:43] (TRANSFER) Weedle 101 V |  186 Cp | 27.38% | Lvl 19 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 451
+[07:44:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemPokeBall
+[07:44:46] (POKESTOP) Pendulum White Shelter in 87.85 m distance
+[07:44:46] (NAVIGATION) Distance to target location: 87.85 meters. Will take 10.91 seconds driving at 29kmh
+[07:44:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:44:57] (POKESTOP) Safety English Chess Table in 89.57 m distance
+[07:44:57] (NAVIGATION) Distance to target location: 89.57 meters. Will take 10.08 seconds driving at 32kmh
+[07:45:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall
+[07:45:07] (POKESTOP) Sailing Mural in 268.88 m distance
+[07:45:07] (NAVIGATION) Distance to target location: 268.88 meters. Will take 19.75 seconds driving at 49kmh
+[07:45:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemPokeBall
+[07:45:29] (INFO) Found 3 Recyclable Items:
+[07:45:29] (RECYCLING) RazzBerry x 1
+[07:45:30] (RECYCLING) PokeBall x 10
+[07:45:30] (RECYCLING) Potion x 1
+[07:45:33] (INFO) Found 1 catchable Pokemon
+[07:45:34] (BERRY) ItemRazzBerry used, remaining: 49
+[07:45:35] (Wild Success) | Eevee 178 V |  539 Cp | 64.34% | Lvl 19 | Chance: 0.27 | with a UltraBall and received XP 210
