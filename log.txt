@@ -8196,3 +8196,9 @@
 [00:39:44] (Wild Success) | NidoranFemale 126 V |  220 Cp | 49.27% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [00:39:46] (Wild Success) | Krabby 105 V |  186 Cp | 32.19% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [00:39:48] (Wild Success) | Pidgey 107 V |   26 Cp | 48.69% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[00:39:49] (INFO) Found 3 pokemon to transfer...
+[00:39:51] (TRANSFER) Pidgey 107 V |   26 Cp | 48.69% | Lvl 02 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 305
+[00:39:53] (TRANSFER) NidoranFemale 99 V |  165 Cp | 30.72% | Lvl 08 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 26
+[00:39:55] (TRANSFER) Krabby 105 V |  186 Cp | 32.19% | Lvl 10 | Best: [Krabby 163 V |  345 Cp | 82.06% | Lvl 16] | Candy: 86
+[00:39:57] (INFO) Found 1 catchable Pokemon
+[00:39:58] (Wild Success) | Gastly 140 V |  118 Cp | 58.10% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
