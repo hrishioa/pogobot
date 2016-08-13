@@ -4846,3 +4846,13 @@
 [22:50:49] (TRANSFER) Pidgey 91 V |  263 Cp | 24.95% | Lvl 17 | Best: [Pidgey 105 V |  112 Cp | 44.14% | Lvl 07] | Candy: 168
 [22:50:57] (INFO) Found 1 catchable Pokemon
 [22:50:59] (Wild Success) | Krabby 155 V |  169 Cp | 81.26% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
+[22:51:00] (INFO) Found 1 pokemon to transfer...
+[22:51:02] (TRANSFER) Krabby 127 V |  118 Cp | 64.57% | Lvl 06 | Best: [Krabby 155 V |  169 Cp | 81.26% | Lvl 08] | Candy: 42
+[22:51:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:51:07] (POKESTOP) Mural at Block 71 in 96.93 m distance
+[22:51:07] (NAVIGATION) Distance to target location: 96.93 meters. Will take 12.03 seconds driving at 29kmh
+[22:51:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall
+[22:51:18] (POKESTOP) Eagle Statue in 342.33 m distance
+[22:51:18] (NAVIGATION) Distance to target location: 342.33 meters. Will take 19.88 seconds driving at 62kmh
+[22:51:37] (INFO) Found 1 catchable Pokemon
+[22:51:38] (Wild Success) | Magikarp 90 V |   42 Cp | 60.69% | Lvl 07 | Chance: 0.8 | with a PokeBall and received XP 420
