@@ -10381,3 +10381,11 @@
 [01:54:27] (INFO) Found 2 catchable Pokemon
 [01:54:29] (Wild Success) | Zubat 115 V |  142 Cp | 50.68% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [01:54:30] (Wild Success) | Paras 127 V |  131 Cp | 44.38% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
+[01:54:32] (INFO) Found 2 pokemon to transfer...
+[01:54:34] (TRANSFER) Zubat 115 V |  142 Cp | 50.68% | Lvl 09 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 569
+[01:54:36] (TRANSFER) Paras 127 V |  131 Cp | 44.38% | Lvl 06 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 64
+[01:54:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[01:54:41] (POKESTOP) Survival (Rocker) in 173.47 m distance
+[01:54:41] (NAVIGATION) Distance to target location: 173.47 meters. Will take 19.52 seconds driving at 32kmh
+[01:54:49] (INFO) Found 1 catchable Pokemon
+[01:54:51] (Wild Success) | Zubat 157 V |  250 Cp | 66.54% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
