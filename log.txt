@@ -8771,3 +8771,4 @@
 [01:00:24] (INFO) Found 3 catchable Pokemon
 [01:00:26] (Wild Success) | Zubat 129 V |  237 Cp | 30.09% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
 [01:00:28] (Wild Success) | Venonat 124 V |   96 Cp | 52.45% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[01:00:29] (Wild Success) | Poliwag 156 V |  170 Cp | 79.95% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
