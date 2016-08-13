@@ -6926,3 +6926,12 @@
 [23:58:01] (NAVIGATION) Distance to target location: 114.57 meters. Will take 13.31 seconds driving at 31kmh
 [23:58:05] (INFO) Found 1 catchable Pokemon
 [23:58:07] (Wild Success) | Zubat 139 V |  157 Cp | 47.59% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[23:58:08] (EGG) Hatched egg! Magikarp            106 True Value |   73 Cp | 73.96% Perfect | Lvl 11 | Splash/Struggle
+[23:58:09] (EGG) Added 2km egg to incubator
+[23:58:09] (INFO) Found 1 pokemon to transfer...
+[23:58:11] (TRANSFER) Zubat 139 V |  157 Cp | 47.59% | Lvl 10 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 389
+[23:58:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 3 x ItemPokeBall
+[23:58:16] (POKESTOP) Fat Chicken Mural in 840.32 m distance
+[23:58:16] (NAVIGATION) Distance to target location: 840.32 meters. Will take 43.22 seconds driving at 70kmh
+[23:58:33] (INFO) Found 1 catchable Pokemon
+[23:58:35] (Wild Success) | Staryu 152 V |  172 Cp | 75.41% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
