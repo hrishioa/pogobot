@@ -3897,3 +3897,26 @@
 [22:11:21] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion, 2 x ItemRazzBerry
 [22:11:22] (INFO) Found 1 catchable Pokemon
 [22:11:23] (Wild Success) | Zubat 108 V |   23 Cp | 41.17% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[22:11:25] (INFO) Found 1 pokemon to transfer...
+[22:11:26] (TRANSFER) Zubat 108 V |   23 Cp | 41.17% | Lvl 02 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 286
+[22:11:27] (POKESTOP) Cassia Fistula in 92.14 m distance
+[22:11:27] (NAVIGATION) Distance to target location: 92.14 meters. Will take 11.85 seconds driving at 28kmh
+[22:11:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:11:37] (INFO) Found 3 Recyclable Items:
+[22:11:37] (RECYCLING) RazzBerry x 3
+[22:11:38] (RECYCLING) PokeBall x 8
+[22:11:39] (RECYCLING) Potion x 2
+[22:11:41] (INFO) Found 30 Pokestops
+[22:11:43] (POKESTOP) Kent Ridge Heritage Trail in 456.57 m distance
+[22:11:43] (NAVIGATION) Distance to target location: 456.57 meters. Will take 23.48 seconds driving at 70kmh
+[22:12:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[22:12:08] (POKESTOP) Pavilion in Kent Ridge Park in 78.43 m distance
+[22:12:08] (NAVIGATION) Distance to target location: 78.43 meters. Will take 9.74 seconds driving at 29kmh
+[22:12:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 2 x ItemRazzBerry
+[22:12:17] (POKESTOP) Monitor Lizard Sign in Kent Ridge Park in 90.38 m distance
+[22:12:17] (NAVIGATION) Distance to target location: 90.38 meters. Will take 11.62 seconds driving at 28kmh
+[22:12:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[22:12:27] (POKESTOP) Kent Ridge Park Near Normanton Park in 106.01 m distance
+[22:12:27] (NAVIGATION) Distance to target location: 106.01 meters. Will take 11.93 seconds driving at 32kmh
+[22:12:37] (INFO) Found 1 catchable Pokemon
+[22:12:39] (Wild Success) | Jynx 89 V |   21 Cp | 26.86% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
