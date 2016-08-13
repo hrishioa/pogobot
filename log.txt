@@ -5822,3 +5822,4 @@
 [23:23:22] (BERRY) ItemRazzBerry used, remaining: 50
 [23:23:23] (Wild Success) | Poliwag 145 V |  376 Cp | 48.46% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
 [23:23:25] (Wild Success) | Goldeen 121 V |  119 Cp | 62.44% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[23:23:27] (Wild Success) | Magikarp 87 V |   73 Cp | 55.16% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
