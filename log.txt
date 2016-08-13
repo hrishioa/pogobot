@@ -3886,3 +3886,14 @@
 [22:10:59] (TRANSFER) Rattata 134 V |  197 Cp | 48.52% | Lvl 14 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 70
 [22:11:01] (INFO) Found 1 catchable Pokemon
 [22:11:02] (Wild Success) | Exeggcute 120 V |   13 Cp | 48.70% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:11:04] (INFO) Found 1 pokemon to transfer...
+[22:11:06] (TRANSFER) Exeggcute 120 V |   13 Cp | 48.70% | Lvl 01 | Best: [Exeggcute 162 V |  373 Cp | 60.31% | Lvl 13] | Candy: 22
+[22:11:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:11:09] (POKESTOP) Look out point at Kent Ridge Park in 59.79 m distance
+[22:11:09] (NAVIGATION) Distance to target location: 59.79 meters. Will take 6.94 seconds driving at 31kmh
+[22:11:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:11:15] (POKESTOP) Araucaria Excelsa in 57.81 m distance
+[22:11:15] (NAVIGATION) Distance to target location: 57.81 meters. Will take 7.18 seconds driving at 29kmh
+[22:11:21] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion, 2 x ItemRazzBerry
+[22:11:22] (INFO) Found 1 catchable Pokemon
+[22:11:23] (Wild Success) | Zubat 108 V |   23 Cp | 41.17% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
