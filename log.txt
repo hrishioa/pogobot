@@ -20366,3 +20366,10 @@
 [07:27:47] (INFO) Found 2 catchable Pokemon
 [07:27:49] (Wild Success) | Rattata 104 V |  194 Cp | 24.64% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [07:27:51] (Wild Success) | Dodrio 139 V |   76 Cp | 65.61% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
+[07:27:52] (INFO) Found 1 pokemon to transfer...
+[07:27:54] (TRANSFER) Rattata 104 V |  194 Cp | 24.64% | Lvl 15 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 557
+[07:27:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:27:59] (POKESTOP) West Coast Recreation Centre in 119.79 m distance
+[07:27:59] (NAVIGATION) Distance to target location: 119.79 meters. Will take 14.37 seconds driving at 30kmh
+[07:28:08] (INFO) Found 1 catchable Pokemon
+[07:28:10] (Wild Success) | Weedle 80 V |   49 Cp | 42.70% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
