@@ -4325,3 +4325,4 @@
 [22:27:45] (Wild Success) | Electabuzz 238 V |  873 Cp | 76.11% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 710
 [22:27:46] (BERRY) ItemRazzBerry used, remaining: 48
 [22:27:47] (Wild Success) | Golbat 173 V |  413 Cp | 72.30% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
+[22:27:49] (Wild Success) | Zubat 122 V |   42 Cp | 58.38% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
