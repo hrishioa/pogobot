@@ -2471,3 +2471,12 @@
 [21:25:28] Rattata             149 True Value |  135 Cp | 69.99% Perfect | Lvl 09 | Tackle/HyperFang
 [21:25:29] (INFO) Found 1 catchable Pokemon
 [21:25:31] (Wild Success) | Zubat 132 V |  218 Cp | 45.07% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[21:25:33] (INFO) Found 1 pokemon to transfer...
+[21:25:34] (TRANSFER) Zubat 132 V |  218 Cp | 45.07% | Lvl 14 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 184
+[21:25:35] (POKESTOP) Pavillion Hiltop in 104.15 m distance
+[21:25:35] (NAVIGATION) Distance to target location: 104.15 meters. Will take 12.1 seconds driving at 31kmh
+[21:25:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[21:25:48] (POKESTOP) Southern Ridges in 95.59 m distance
+[21:25:48] (NAVIGATION) Distance to target location: 95.59 meters. Will take 12.29 seconds driving at 28kmh
+[21:25:56] (INFO) Found 1 catchable Pokemon
+[21:25:58] (Wild Success) | Zubat 142 V |  143 Cp | 53.02% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
