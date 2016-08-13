@@ -2049,3 +2049,43 @@
 [21:11:59] (INFO) Found 2 catchable Pokemon
 [21:12:00] (Wild Success) | Ekans 75 V |  212 Cp | 27.40% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [21:12:02] (Wild Success) | Zubat 131 V |  203 Cp | 46.14% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[21:12:04] (INFO) Found 2 pokemon to transfer...
+[21:12:05] (TRANSFER) Ekans 75 V |  212 Cp | 27.40% | Lvl 11 | Best: [Ekans 143 V |  167 Cp | 59.48% | Lvl 08] | Candy: 38
+[21:12:08] (TRANSFER) Zubat 131 V |  203 Cp | 46.14% | Lvl 13 | Best: [Zubat 171 V |  197 Cp | 91.11% | Lvl 11] | Candy: 164
+[21:12:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:12:12] (POKESTOP) Old Water Tank in 151.35 m distance
+[21:12:12] (NAVIGATION) Distance to target location: 151.35 meters. Will take 17.58 seconds driving at 31kmh
+[21:12:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:12:30] (POKESTOP) Hang Up Bar Fitness Station in 179.97 m distance
+[21:12:30] (NAVIGATION) Distance to target location: 179.97 meters. Will take 19.63 seconds driving at 33kmh
+[21:12:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[21:12:50] (POKESTOP) Commonwealth Park in 90.47 m distance
+[21:12:50] (NAVIGATION) Distance to target location: 90.47 meters. Will take 10.51 seconds driving at 31kmh
+[21:12:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:13:00] (INFO) Found 2 Recyclable Items:
+[21:13:01] (RECYCLING) RazzBerry x 3
+[21:13:16] (RECYCLING) PokeBall x 10
+[21:13:18] (POKESTOP) St Mary's Grotto at Blessed Sacrament in 76.56 m distance
+[21:13:18] (NAVIGATION) Distance to target location: 76.56 meters. Will take 9.84 seconds driving at 28kmh
+[21:13:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[21:13:27] (POKESTOP) Farm Animals Mural in 410.94 m distance
+[21:13:27] (NAVIGATION) Distance to target location: 410.94 meters. Will take 21.13 seconds driving at 70kmh
+[21:13:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[21:13:49] (POKESTOP) GIIS Mural in 157.33 m distance
+[21:13:49] (NAVIGATION) Distance to target location: 157.33 meters. Will take 18.27 seconds driving at 31kmh
+[21:14:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:14:06] (POKESTOP) Global Indian International School in 94.15 m distance
+[21:14:06] (NAVIGATION) Distance to target location: 94.15 meters. Will take 11.69 seconds driving at 29kmh
+[21:14:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion
+[21:14:18] (POKESTOP) playground in 83.66 m distance
+[21:14:18] (NAVIGATION) Distance to target location: 83.66 meters. Will take 10.76 seconds driving at 28kmh
+[21:14:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:14:28] (INFO) Found 4 Recyclable Items:
+[21:14:28] (RECYCLING) Revive x 1
+[21:14:29] (RECYCLING) RazzBerry x 1
+[21:14:30] (RECYCLING) PokeBall x 9
+[21:14:30] (RECYCLING) Potion x 4
+[21:14:34] (POKESTOP) Stirling View in 90.39 m distance
+[21:14:34] (NAVIGATION) Distance to target location: 90.39 meters. Will take 10.17 seconds driving at 32kmh
+[21:14:40] (INFO) Found 1 catchable Pokemon
+[21:14:42] (Wild Success) | Rattata 113 V |  108 Cp | 39.64% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
