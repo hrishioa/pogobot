@@ -658,3 +658,19 @@
 [20:23:07] (NAVIGATION) Distance to target location: 96.73 meters. Will take 12.44 seconds driving at 28kmh
 [20:23:13] (INFO) Found 1 catchable Pokemon
 [20:23:14] (Wild Success) | Pidgey 97 V |  130 Cp | 43.86% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[20:23:16] (INFO) Found 1 pokemon to transfer...
+[20:23:18] (TRANSFER) Pidgey 97 V |  130 Cp | 43.86% | Lvl 08 | Best: [Pidgey 118 V |  118 Cp | 61.06% | Lvl 07] | Candy: 68
+[20:23:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[20:23:23] (POKESTOP) Kent Ridge Monument in 65.75 m distance
+[20:23:23] (NAVIGATION) Distance to target location: 65.75 meters. Will take 7.4 seconds driving at 32kmh
+[20:23:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:23:30] (POKESTOP) Singapore Science Park I in 93.28 m distance
+[20:23:30] (NAVIGATION) Distance to target location: 93.28 meters. Will take 10.83 seconds driving at 31kmh
+[20:23:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[20:23:40] (INFO) Found 2 Recyclable Items:
+[20:23:41] (RECYCLING) PokeBall x 11
+[20:23:42] (RECYCLING) Revive x 3
+[20:23:44] (POKESTOP) National University Hospital Main Building in 174.14 m distance
+[20:23:44] (NAVIGATION) Distance to target location: 174.14 meters. Will take 19.59 seconds driving at 32kmh
+[20:23:57] (INFO) Found 1 catchable Pokemon
+[20:23:58] (Wild Success) | Spearow 111 V |  113 Cp | 43.22% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
