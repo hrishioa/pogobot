@@ -1408,3 +1408,10 @@
 [20:49:02] (INFO) Found 2 catchable Pokemon
 [20:49:05] (Wild Success) | Pidgey 98 V |  192 Cp | 34.40% | Lvl 12 | Chance: 0.43 | with a PokeBall and received XP 210
 [20:49:06] (Wild Success) | Sandshrew 131 V |   54 Cp | 66.46% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[20:49:08] (INFO) Found 1 pokemon to transfer...
+[20:49:09] (TRANSFER) Pidgey 98 V |  192 Cp | 34.40% | Lvl 12 | Best: [Pidgey 118 V |  118 Cp | 61.06% | Lvl 07] | Candy: 100
+[20:49:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[20:49:35] (POKESTOP) Pipe Wall in 37.42 m distance
+[20:49:35] (NAVIGATION) Distance to target location: 37.42 meters. Will take 4.21 seconds driving at 32kmh
+[20:49:37] (INFO) Found 1 catchable Pokemon
+[20:49:38] (Wild Success) | Zubat 122 V |   75 Cp | 53.73% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
