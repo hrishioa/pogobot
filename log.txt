@@ -20060,3 +20060,15 @@
 [07:16:55] (INFO) Found 2 catchable Pokemon
 [07:16:57] (Wild Success) | Weedle 94 V |   37 Cp | 34.72% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [07:16:59] (Wild Success) | Caterpie 102 V |  233 Cp | 28.76% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[07:17:01] (INFO) Found 2 pokemon to transfer...
+[07:17:02] (TRANSFER) Weedle 94 V |   37 Cp | 34.72% | Lvl 04 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 428
+[07:17:04] (TRANSFER) Caterpie 96 V |  116 Cp | 28.68% | Lvl 12 | Best: [Caterpie 102 V |  233 Cp | 28.76% | Lvl 24] | Candy: 123
+[07:17:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemPokeBall
+[07:17:07] (POKESTOP) Clementi West White Orchid Mural in 87.42 m distance
+[07:17:07] (NAVIGATION) Distance to target location: 87.42 meters. Will take 10.15 seconds driving at 31kmh
+[07:17:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:17:17] (INFO) Found 2 Recyclable Items:
+[07:17:17] (RECYCLING) PokeBall x 9
+[07:17:19] (RECYCLING) Revive x 1
+[07:17:20] (INFO) Found 1 catchable Pokemon
+[07:17:21] (Wild Success) | Pidgey 92 V |  155 Cp | 25.83% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
