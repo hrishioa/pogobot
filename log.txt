@@ -19904,3 +19904,4 @@
 [07:11:05] (TRANSFER) Zubat 115 V |  227 Cp | 36.60% | Lvl 15 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 582
 [07:11:06] (INFO) Found 2 catchable Pokemon
 [07:11:08] (Wild Success) | Weedle 65 V |  203 Cp | 13.44% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[07:11:10] (Wild Success) | Bellsprout 124 V |  112 Cp | 84.06% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
