@@ -8301,3 +8301,12 @@
 [00:44:37] (TRANSFER) Zubat 109 V |  286 Cp | 34.73% | Lvl 19 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 437
 [00:44:38] (INFO) Found 1 catchable Pokemon
 [00:44:40] (Wild Success) | Weedle 56 V |  145 Cp | 10.38% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:44:42] (INFO) Found 1 pokemon to transfer...
+[00:44:43] (TRANSFER) Weedle 56 V |  145 Cp | 10.38% | Lvl 16 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 113
+[00:44:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[00:44:46] (ATTENTION) No locations in your area...
+[00:44:51] (INFO) Found 30 Pokestops
+[00:44:52] (POKESTOP) Giant Compass in 374.48 m distance
+[00:44:52] (NAVIGATION) Distance to target location: 374.48 meters. Will take 19.83 seconds driving at 68kmh
+[00:45:04] (INFO) Found 2 catchable Pokemon
+[00:45:06] (Wild Success) | Zubat 131 V |   10 Cp | 75.14% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
