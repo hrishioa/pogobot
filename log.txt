@@ -20312,3 +20312,11 @@
 [07:25:07] (TRANSFER) Rattata 128 V |  112 Cp | 51.55% | Lvl 08 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 553
 [07:25:08] (INFO) Found 1 catchable Pokemon
 [07:25:10] (Wild Success) | Caterpie 71 V |   90 Cp | 12.21% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[07:25:11] (INFO) Found 1 pokemon to transfer...
+[07:25:13] (TRANSFER) Caterpie 71 V |   90 Cp | 12.21% | Lvl 10 | Best: [Caterpie 102 V |  233 Cp | 28.76% | Lvl 24] | Candy: 127
+[07:25:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:25:17] (POKESTOP) Taman Mas Merah Playground in 464.98 m distance
+[07:25:17] (NAVIGATION) Distance to target location: 464.98 meters. Will take 23.91 seconds driving at 70kmh
+[07:25:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[07:25:43] (INFO) Found 1 catchable Pokemon
+[07:25:45] (Wild Success) | Zubat 157 V |  320 Cp | 70.35% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
