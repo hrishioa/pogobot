@@ -16940,3 +16940,114 @@
 [05:36:21] (RECYCLING) Revive x 1
 [05:36:23] (INFO) Found 1 catchable Pokemon
 [05:36:25] (Wild Success) | Weedle 76 V |  148 Cp | 28.89% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[05:36:27] (INFO) Found 1 pokemon to transfer...
+[05:36:28] (TRANSFER) Weedle 76 V |  148 Cp | 28.89% | Lvl 15 | Best: [Weedle 97 V |  201 Cp | 22.24% | Lvl 21] | Candy: 321
+[05:36:29] (POKESTOP) Pasir Panjang Garden in 119.8 m distance
+[05:36:29] (NAVIGATION) Distance to target location: 119.8 meters. Will take 14.87 seconds driving at 29kmh
+[05:36:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[05:36:43] (POKESTOP) West Coast Public Stage in 58.44 m distance
+[05:36:43] (NAVIGATION) Distance to target location: 58.44 meters. Will take 7.51 seconds driving at 28kmh
+[05:36:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[05:36:51] (POKESTOP) Metallic Windmill in 93.78 m distance
+[05:36:51] (NAVIGATION) Distance to target location: 93.78 meters. Will take 10.55 seconds driving at 32kmh
+[05:37:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[05:37:02] (POKESTOP) Hidden Buddha Statue  in 92.54 m distance
+[05:37:02] (NAVIGATION) Distance to target location: 92.54 meters. Will take 11.11 seconds driving at 30kmh
+[05:37:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 2 x ItemPokeBall
+[05:37:13] (POKESTOP) Pasir Panjang Gardens in 87.78 m distance
+[05:37:13] (NAVIGATION) Distance to target location: 87.78 meters. Will take 11.29 seconds driving at 28kmh
+[05:37:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:37:24] (INFO) Found 2 Recyclable Items:
+[05:37:25] (RECYCLING) RazzBerry x 1
+[05:37:25] (RECYCLING) PokeBall x 11
+[05:37:28] (POKESTOP) Statue of Family in 90.39 m distance
+[05:37:28] (NAVIGATION) Distance to target location: 90.39 meters. Will take 11.62 seconds driving at 28kmh
+[05:37:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemGreatBall, 1 x ItemPokeBall
+[05:37:38] ====== User Info ======
+[05:37:38] Name: Toonistic
+[05:37:38] Team: Blue
+[05:37:38] Level: 23 (LvLUp in 0h 19m | 112573/125000 XP)
+[05:37:38] Pokemon: 99
+[05:37:38] Stardust: 13032
+[05:37:38] ====== Items (242) ======
+[05:37:38] RazzBerry x 50
+[05:37:38] PokeBall x 51
+[05:37:38] GreatBall x 21
+[05:37:38] UltraBall x 4
+[05:37:38] Potion x 25
+[05:37:38] SuperPotion x 50
+[05:37:38] HyperPotion x 8
+[05:37:38] IncubatorBasicUnlimited x 1
+[05:37:38] IncubatorBasic x 0
+[05:37:38] Revive x 25
+[05:37:38] IncenseOrdinary x 2
+[05:37:38] LuckyEgg x 0
+[05:37:38] TroyDisk x 5
+[05:37:38] ====== Most Valuable ======
+[05:37:38] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[05:37:38] *Vaporeon           316 True Value | 1905 Cp | 75.82% Perfect | Lvl 25 | WaterGun/WaterPulse
+[05:37:38] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[05:37:38] Poliwrath           297 True Value | 1667 Cp | 65.99% Perfect | Lvl 25 | MudShot/IcePunch
+[05:37:38] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[05:37:38] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[05:37:38] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[05:37:38] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[05:37:38] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[05:37:38] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[05:37:38] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[05:37:39] Electrode           246 True Value |  786 Cp | 59.99% Perfect | Lvl 18 | Spark/HyperBeam
+[05:37:39] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[05:37:39] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[05:37:39] Pinsir              232 True Value |  986 Cp | 73.01% Perfect | Lvl 17 | RockSmash/XScissor
+[05:37:39] Bulbasaur           229 True Value |  609 Cp | 97.81% Perfect | Lvl 20 | Tackle/SludgeBomb
+[05:37:39] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[05:37:39] Weezing             226 True Value |  865 Cp | 74.90% Perfect | Lvl 14 | Tackle/ShadowBall
+[05:37:39] Nidoking            223 True Value |  837 Cp | 38.97% Perfect | Lvl 13 | PoisonJab/Megahorn
+[05:37:39] Growlithe           221 True Value |  659 Cp | 80.15% Perfect | Lvl 18 | Bite/Flamethrower
+[05:37:39] ====== Highest CP ======
+[05:37:39] *Vaporeon           316 True Value | 1905 Cp | 75.82% Perfect | Lvl 25 | WaterGun/WaterPulse
+[05:37:39] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[05:37:39] Poliwrath           297 True Value | 1667 Cp | 65.99% Perfect | Lvl 25 | MudShot/IcePunch
+[05:37:39] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[05:37:39] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[05:37:39] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[05:37:39] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[05:37:39] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[05:37:39] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[05:37:39] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[05:37:39] Golbat              218 True Value | 1062 Cp | 52.40% Perfect | Lvl 21 | WingAttack/AirCutter
+[05:37:39] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[05:37:39] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[05:37:39] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
+[05:37:39] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
+[05:37:39] Pinsir              232 True Value |  986 Cp | 73.01% Perfect | Lvl 17 | RockSmash/XScissor
+[05:37:39] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[05:37:39] Primeape            197 True Value |  955 Cp | 66.48% Perfect | Lvl 19 | LowKick/NightSlash
+[05:37:39] Magneton            209 True Value |  942 Cp | 55.07% Perfect | Lvl 19 | ThunderShock/FlashCannon
+[05:37:39] Ponyta              212 True Value |  937 Cp | 68.22% Perfect | Lvl 23 | Tackle/FlameCharge
+[05:37:39] ====== Most Perfect Genetics ======
+[05:37:39] Bulbasaur           229 True Value |  609 Cp | 97.81% Perfect | Lvl 20 | Tackle/SludgeBomb
+[05:37:39] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[05:37:39] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[05:37:39] Meowth              172 True Value |  231 Cp | 89.05% Perfect | Lvl 11 | Scratch/DarkPulse
+[05:37:39] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[05:37:39] Abra                200 True Value |  329 Cp | 86.76% Perfect | Lvl 20 | ZenHeadbutt/Psyshock
+[05:37:39] Aerodactyl          173 True Value |  221 Cp | 86.15% Perfect | Lvl 04 | SteelWing/AncientPower
+[05:37:39] Weepinbell          204 True Value |  379 Cp | 86.13% Perfect | Lvl 08 | Acid/PowerWhip
+[05:37:39] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[05:37:39] Voltorb             208 True Value |  462 Cp | 85.08% Perfect | Lvl 20 | Spark/Thunderbolt
+[05:37:39] Electrode           169 True Value |  119 Cp | 84.90% Perfect | Lvl 03 | Spark/Discharge
+[05:37:39] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[05:37:39] Mankey              180 True Value |  265 Cp | 84.33% Perfect | Lvl 11 | Scratch/CrossChop
+[05:37:39] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[05:37:39] Oddish              215 True Value |  600 Cp | 83.01% Perfect | Lvl 19 | RazorLeaf/SludgeBomb
+[05:37:39] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[05:37:39] Growlithe           221 True Value |  659 Cp | 80.15% Perfect | Lvl 18 | Bite/Flamethrower
+[05:37:39] Krabby              174 True Value |  428 Cp | 79.46% Perfect | Lvl 20 | Bubble/BubbleBeam
+[05:37:39] Psyduck             176 True Value |  454 Cp | 79.23% Perfect | Lvl 15 | WaterGun/Psybeam
+[05:37:39] Paras               186 True Value |  372 Cp | 78.57% Perfect | Lvl 15 | BugBite/SeedBomb
+[05:37:40] (POKESTOP) Ayer Rajah Food Centre &  Market in 196.76 m distance
+[05:37:40] (NAVIGATION) Distance to target location: 196.76 meters. Will take 19.68 seconds driving at 36kmh
+[05:37:47] (INFO) Found 1 catchable Pokemon
+[05:37:48] (BERRY) ItemRazzBerry used, remaining: 49
+[05:37:50] (Wild Success) | Exeggcute 194 V |  677 Cp | 70.95% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
