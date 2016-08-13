@@ -5167,3 +5167,28 @@
 [23:01:57] (INFO) Found 1 catchable Pokemon
 [23:01:57] (BERRY) ItemRazzBerry used, remaining: 49
 [23:01:59] (Wild Success) | Pinsir 211 V |  705 Cp | 81.05% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 420
+[23:02:05] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 4 x ItemPokeBall, 1 x ItemRazzBerry
+[23:02:05] (INFO) Found 2 Recyclable Items:
+[23:02:05] (RECYCLING) PokeBall x 3
+[23:02:06] (RECYCLING) GreatBall x 1
+[23:02:09] (POKESTOP) B @ Rochester Park in 68.12 m distance
+[23:02:09] (NAVIGATION) Distance to target location: 68.12 meters. Will take 8.46 seconds driving at 29kmh
+[23:02:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:02:17] (POKESTOP) Rochester Park - North Buona Vista Entrance in 58.93 m distance
+[23:02:17] (NAVIGATION) Distance to target location: 58.93 meters. Will take 7.07 seconds driving at 30kmh
+[23:02:22] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[23:02:23] (POKESTOP) Rochester Park in 51.38 m distance
+[23:02:23] (NAVIGATION) Distance to target location: 51.38 meters. Will take 6.38 seconds driving at 29kmh
+[23:02:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:02:29] (POKESTOP) Rochester Park in 79.39 m distance
+[23:02:29] (NAVIGATION) Distance to target location: 79.39 meters. Will take 9.53 seconds driving at 30kmh
+[23:02:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:02:39] (POKESTOP) UFO Stone Seats in 82.31 m distance
+[23:02:39] (NAVIGATION) Distance to target location: 82.31 meters. Will take 9.56 seconds driving at 31kmh
+[23:02:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 3 x ItemPokeBall
+[23:02:48] (INFO) Found 3 Recyclable Items:
+[23:02:49] (RECYCLING) RazzBerry x 2
+[23:02:49] (RECYCLING) PokeBall x 9
+[23:02:50] (RECYCLING) GreatBall x 3
+[23:02:53] (INFO) Found 1 catchable Pokemon
+[23:02:54] (Wild Success) | Rattata 137 V |  188 Cp | 56.11% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
