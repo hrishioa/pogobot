@@ -7084,3 +7084,12 @@
 [00:05:03] (RECYCLING) Revive x 2
 [00:05:06] (INFO) Found 1 catchable Pokemon
 [00:05:08] (Wild Success) | Pidgey 82 V |   72 Cp | 20.04% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:05:10] (INFO) Found 1 pokemon to transfer...
+[00:05:11] (TRANSFER) Pidgey 82 V |   72 Cp | 20.04% | Lvl 05 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 265
+[00:05:12] (POKESTOP) Anatomy of the Human Body  in 58.3 m distance
+[00:05:12] (NAVIGATION) Distance to target location: 58.3 meters. Will take 6.77 seconds driving at 31kmh
+[00:05:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 4 x ItemPokeBall
+[00:05:18] (POKESTOP) One-North Park in 70.02 m distance
+[00:05:18] (NAVIGATION) Distance to target location: 70.02 meters. Will take 9 seconds driving at 28kmh
+[00:05:20] (INFO) Found 1 catchable Pokemon
+[00:05:21] (Wild Success) | Rattata 112 V |   50 Cp | 40.48% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
