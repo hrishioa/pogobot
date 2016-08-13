@@ -7823,3 +7823,19 @@
 [00:28:20] (Wild Escape) | Pidgeotto 119 V |  239 Cp | 35.37% | Lvl 08 | Chance: 0.26 | with a GreatBall 
 [00:28:22] (Wild Success Attempt #2) | Pidgeotto 119 V |  239 Cp | 35.37% | Lvl 08 | Chance: 0.26 | with a GreatBall 
 [00:28:23] (Wild Success) | Pidgey 79 V |   56 Cp | 22.65% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[00:28:25] (INFO) Found 2 pokemon to transfer...
+[00:28:26] (TRANSFER) Pidgeotto 116 V |  116 Cp | 53.52% | Lvl 04 | Best: [Pidgeotto 124 V |  242 Cp | 40.36% | Lvl 08] | Candy: 272
+[00:28:29] (TRANSFER) Pidgey 79 V |   56 Cp | 22.65% | Lvl 04 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 273
+[00:28:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[00:28:33] (INFO) Found 1 Recyclable Item:
+[00:28:33] (RECYCLING) PokeBall x 10
+[00:28:36] (POKESTOP) SUTD Hostel Main Mural in 24.69 m distance
+[00:28:36] (NAVIGATION) Distance to target location: 24.69 meters. Will take 2.78 seconds driving at 32kmh
+[00:28:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[00:28:40] (POKESTOP) SUTD Building in 93.72 m distance
+[00:28:40] (NAVIGATION) Distance to target location: 93.72 meters. Will take 10.54 seconds driving at 32kmh
+[00:28:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemSuperPotion, 1 x ItemGreatBall
+[00:28:50] (POKESTOP) Commemorative Plaque in 152.33 m distance
+[00:28:50] (NAVIGATION) Distance to target location: 152.33 meters. Will take 17.69 seconds driving at 31kmh
+[00:28:52] (INFO) Found 1 catchable Pokemon
+[00:28:53] (Wild Success) | Rattata 129 V |  208 Cp | 43.26% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
