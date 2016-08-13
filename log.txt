@@ -7628,3 +7628,27 @@
 [00:23:35] (INFO) Found 2 catchable Pokemon
 [00:23:37] (Wild Success) | Poliwag 122 V |  190 Cp | 34.01% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [00:23:38] (Wild Success) | Venonat 149 V |  376 Cp | 60.66% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[00:23:40] (INFO) Found 1 pokemon to transfer...
+[00:23:42] (TRANSFER) Poliwag 122 V |  190 Cp | 34.01% | Lvl 10 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 65
+[00:23:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[00:23:46] (POKESTOP) One-North Park in 29.99 m distance
+[00:23:46] (NAVIGATION) Distance to target location: 29.99 meters. Will take 3.6 seconds driving at 30kmh
+[00:23:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemPotion, 1 x ItemGreatBall
+[00:23:49] (POKESTOP) Anatomy of the Human Body  in 73.35 m distance
+[00:23:49] (NAVIGATION) Distance to target location: 73.35 meters. Will take 8.8 seconds driving at 30kmh
+[00:23:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:23:57] (INFO) Found 3 Recyclable Items:
+[00:23:58] (RECYCLING) PokeBall x 6
+[00:23:59] (RECYCLING) Potion x 3
+[00:24:00] (RECYCLING) Revive x 3
+[00:24:02] (POKESTOP) Centros in 59.53 m distance
+[00:24:02] (NAVIGATION) Distance to target location: 59.53 meters. Will take 6.91 seconds driving at 31kmh
+[00:24:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[00:24:09] (POKESTOP) Sojourner in 55.54 m distance
+[00:24:09] (NAVIGATION) Distance to target location: 55.54 meters. Will take 6.89 seconds driving at 29kmh
+[00:24:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemGreatBall
+[00:24:15] (POKESTOP) The Matrix in 111.44 m distance
+[00:24:15] (NAVIGATION) Distance to target location: 111.44 meters. Will take 14.33 seconds driving at 28kmh
+[00:24:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:24:29] (INFO) Found 1 catchable Pokemon
+[00:24:31] (Wild Success) | Zubat 115 V |   43 Cp | 66.04% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
