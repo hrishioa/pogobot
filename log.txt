@@ -10235,3 +10235,15 @@
 [01:48:21] (Wild Escape) | Weedle 96 V |   58 Cp | 35.20% | Lvl 06 | Chance: 0.62 | with a PokeBall 
 [01:48:22] (Wild Success Attempt #2) | Weedle 96 V |   58 Cp | 35.20% | Lvl 06 | Chance: 0.62 | with a PokeBall 
 [01:48:23] (Wild Success) | Krabby 131 V |   32 Cp | 68.72% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[01:48:25] (INFO) Found 2 pokemon to transfer...
+[01:48:27] (TRANSFER) Krabby 131 V |   32 Cp | 68.72% | Lvl 02 | Best: [Krabby 166 V |  322 Cp | 80.04% | Lvl 15] | Candy: 98
+[01:48:29] (TRANSFER) Weedle 96 V |   58 Cp | 35.20% | Lvl 06 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 128
+[01:48:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[01:48:32] (INFO) Found 2 Recyclable Items:
+[01:48:33] (RECYCLING) PokeBall x 4
+[01:48:34] (RECYCLING) HyperPotion x 1
+[01:48:36] (POKESTOP) Waterfall Fountain in 258.4 m distance
+[01:48:36] (NAVIGATION) Distance to target location: 258.4 meters. Will take 19.79 seconds driving at 47kmh
+[01:48:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall, 1 x ItemGreatBall
+[01:48:58] (INFO) Found 2 catchable Pokemon
+[01:49:00] (Wild Success) | Spearow 140 V |  193 Cp | 61.42% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
