@@ -10600,3 +10600,15 @@
 [02:00:14] (NAVIGATION) Distance to target location: 273.9 meters. Will take 19.72 seconds driving at 50kmh
 [02:00:25] (INFO) Found 1 catchable Pokemon
 [02:00:26] (Wild Success) | Caterpie 84 V |  149 Cp | 19.35% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[02:00:28] (INFO) Found 1 pokemon to transfer...
+[02:00:30] (TRANSFER) Caterpie 84 V |  149 Cp | 19.35% | Lvl 16 | Best: [Caterpie 106 V |  141 Cp | 37.38% | Lvl 14] | Candy: 106
+[02:00:32] (INFO) Found 1 catchable Pokemon
+[02:00:32] (Wild Escape) | Pidgey 110 V |  133 Cp | 52.50% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[02:00:34] (Wild Success Attempt #2) | Pidgey 110 V |  133 Cp | 52.50% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[02:00:36] (INFO) Found 1 pokemon to transfer...
+[02:00:37] (TRANSFER) Pidgey 110 V |  133 Cp | 52.50% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 464
+[02:00:39] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[02:00:41] (POKESTOP) NUS Model in 101.25 m distance
+[02:00:41] (NAVIGATION) Distance to target location: 101.25 meters. Will take 12.15 seconds driving at 30kmh
+[02:00:45] (INFO) Found 1 catchable Pokemon
+[02:00:48] (Wild Success) | Weedle 109 V |  164 Cp | 37.78% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
