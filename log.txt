@@ -6873,3 +6873,4 @@
 [23:55:56] (TRANSFER) Weedle 87 V |   86 Cp | 22.67% | Lvl 09 | Best: [Weedle 120 V |  130 Cp | 52.13% | Lvl 12] | Candy: 81
 [23:55:59] (INFO) Found 2 catchable Pokemon
 [23:56:01] (Wild Success) | Rattata 119 V |   81 Cp | 49.05% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[23:56:03] (Wild Success) | Pidgey 101 V |  216 Cp | 24.29% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
