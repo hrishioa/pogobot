@@ -19369,3 +19369,27 @@
 [06:54:28] (NAVIGATION) Distance to target location: 170.05 meters. Will take 19.75 seconds driving at 31kmh
 [06:54:44] (INFO) Found 1 catchable Pokemon
 [06:54:47] (Wild Success) | Goldeen 134 V |  274 Cp | 58.00% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[06:54:49] (INFO) Found 1 pokemon to transfer...
+[06:54:50] (TRANSFER) Goldeen 134 V |  274 Cp | 58.00% | Lvl 11 | Best: [Goldeen 173 V |  503 Cp | 61.48% | Lvl 20] | Candy: 170
+[06:54:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 5 x ItemPokeBall
+[06:54:54] (POKESTOP) Playground Between Block 709&712 in 49.53 m distance
+[06:54:54] (NAVIGATION) Distance to target location: 49.53 meters. Will take 6.15 seconds driving at 29kmh
+[06:54:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[06:54:59] (INFO) Found 3 Recyclable Items:
+[06:55:00] (RECYCLING) PokeBall x 14
+[06:55:00] (RECYCLING) Potion x 1
+[06:55:01] (RECYCLING) SuperPotion x 2
+[06:55:05] (POKESTOP) Herbs Garden in 70.89 m distance
+[06:55:05] (NAVIGATION) Distance to target location: 70.89 meters. Will take 8.23 seconds driving at 31kmh
+[06:55:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:55:12] (POKESTOP) West Coast Mural Art in 80.65 m distance
+[06:55:12] (NAVIGATION) Distance to target location: 80.65 meters. Will take 9.68 seconds driving at 30kmh
+[06:55:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 2 x ItemPokeBall
+[06:55:21] (POKESTOP) Mythical Creature Mural in 84.63 m distance
+[06:55:21] (NAVIGATION) Distance to target location: 84.63 meters. Will take 9.83 seconds driving at 31kmh
+[06:55:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:55:30] (POKESTOP) West Coast Playground in 73.62 m distance
+[06:55:30] (NAVIGATION) Distance to target location: 73.62 meters. Will take 9.14 seconds driving at 29kmh
+[06:55:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:55:38] (INFO) Found 2 catchable Pokemon
+[06:55:40] (Wild Success) | Rattata 131 V |  283 Cp | 35.61% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
