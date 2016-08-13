@@ -256,3 +256,240 @@
 [20:09:25] (INFO) Found 1 catchable Pokemon
 [20:09:26] (Wild Success) | Zubat 146 V |   94 Cp | 61.53% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [20:09:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemRevive
+[20:14:32] (INFO) Logging in via: Google
+[20:14:33] (INFO) Client logged in
+[20:14:35] ====== User Info ======
+[20:14:35] Name: toonistic2
+[20:14:35] Team: Neutral
+[20:14:35] Level: 9 (LvLUp in 0h 0m | 2445/9000 XP)
+[20:14:35] Pokemon: 22
+[20:14:35] Stardust: 7800
+[20:14:35] ====== Items (138) ======
+[20:14:35] RazzBerry x 19
+[20:14:35] IncubatorBasicUnlimited x 1
+[20:14:35] PokeBall x 58
+[20:14:35] Revive x 28
+[20:14:35] IncenseOrdinary x 2
+[20:14:35] Potion x 30
+[20:14:35] ====== Transfer Settings ======
+[20:14:35] Keep Above CP:           0
+[20:14:35] Keep Above IV:           0
+[20:14:35] Keep Above V:            0
+[20:14:35] Transfer Below CP:       50
+[20:14:35] Transfer Below IV:       0
+[20:14:35] Transfer Below V:        0
+[20:14:35] Transfer Evolvable:      True
+[20:14:35] PokemonsNotToTransfer:    20
+[20:14:35] Aerodactyl
+[20:14:35] Alakazam
+[20:14:35] Arcanine
+[20:14:35] Charizard
+[20:14:35] Dragonite
+[20:14:35] Exeggutor
+[20:14:35] Farfetchd
+[20:14:35] Grimer
+[20:14:35] Gyarados
+[20:14:35] Kangaskhan
+[20:14:35] Magmar
+[20:14:35] Mew
+[20:14:35] Mewtwo
+[20:14:35] Moltres
+[20:14:35] MrMime
+[20:14:35] Raichu
+[20:14:35] Snorlax
+[20:14:35] Tauros
+[20:14:35] Victreebel
+[20:14:35] Zapdos
+[20:14:35] ====== Most Valuable ======
+[20:14:35] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:14:35] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:14:35] Zubat               146 True Value |   94 Cp | 61.53% Perfect | Lvl 06 | Bite/SludgeBomb
+[20:14:35] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:14:35] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:14:35] Paras               140 True Value |   62 Cp | 63.57% Perfect | Lvl 03 | BugBite/SeedBomb
+[20:14:35] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:14:35] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[20:14:35] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:14:35] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
+[20:14:35] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:14:35] Psyduck             117 True Value |  100 Cp | 37.49% Perfect | Lvl 04 | WaterGun/CrossChop
+[20:14:35] Ekans               116 True Value |   76 Cp | 56.24% Perfect | Lvl 04 | PoisonSting/SludgeBomb
+[20:14:35] Staryu              115 True Value |   61 Cp | 48.97% Perfect | Lvl 03 | WaterGun/PowerGem
+[20:14:35] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
+[20:14:35] Pidgey              104 True Value |   94 Cp | 40.24% Perfect | Lvl 06 | Tackle/AirCutter
+[20:14:35] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
+[20:14:35] Spearow             101 True Value |   61 Cp | 44.76% Perfect | Lvl 04 | QuickAttack/AerialAce
+[20:14:35] Pidgeotto           98 True Value |   78 Cp | 30.39% Perfect | Lvl 03 | WingAttack/AerialAce
+[20:14:35] Rattata             95 True Value |   75 Cp | 26.87% Perfect | Lvl 06 | QuickAttack/Dig
+[20:14:35] ====== Highest CP ======
+[20:14:35] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:14:35] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:14:35] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:14:35] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
+[20:14:35] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:14:35] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:14:35] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[20:14:35] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:14:35] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
+[20:14:35] Psyduck             117 True Value |  100 Cp | 37.49% Perfect | Lvl 04 | WaterGun/CrossChop
+[20:14:35] Zubat               146 True Value |   94 Cp | 61.53% Perfect | Lvl 06 | Bite/SludgeBomb
+[20:14:35] Pidgey              104 True Value |   94 Cp | 40.24% Perfect | Lvl 06 | Tackle/AirCutter
+[20:14:35] Pidgeotto           98 True Value |   78 Cp | 30.39% Perfect | Lvl 03 | WingAttack/AerialAce
+[20:14:35] Ekans               116 True Value |   76 Cp | 56.24% Perfect | Lvl 04 | PoisonSting/SludgeBomb
+[20:14:35] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
+[20:14:35] Rattata             95 True Value |   75 Cp | 26.87% Perfect | Lvl 06 | QuickAttack/Dig
+[20:14:35] Weedle              61 True Value |   75 Cp | 20.66% Perfect | Lvl 08 | PoisonSting/Struggle
+[20:14:35] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:14:35] Weedle              86 True Value |   72 Cp | 46.87% Perfect | Lvl 07 | PoisonSting/Struggle
+[20:14:35] Paras               140 True Value |   62 Cp | 63.57% Perfect | Lvl 03 | BugBite/SeedBomb
+[20:14:35] ====== Most Perfect Genetics ======
+[20:14:35] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:14:35] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:14:35] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:14:35] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
+[20:14:35] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[20:14:35] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:14:35] Paras               140 True Value |   62 Cp | 63.57% Perfect | Lvl 03 | BugBite/SeedBomb
+[20:14:35] Zubat               146 True Value |   94 Cp | 61.53% Perfect | Lvl 06 | Bite/SludgeBomb
+[20:14:35] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:14:35] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:14:35] Ekans               116 True Value |   76 Cp | 56.24% Perfect | Lvl 04 | PoisonSting/SludgeBomb
+[20:14:35] Staryu              115 True Value |   61 Cp | 48.97% Perfect | Lvl 03 | WaterGun/PowerGem
+[20:14:35] Weedle              86 True Value |   72 Cp | 46.87% Perfect | Lvl 07 | PoisonSting/Struggle
+[20:14:35] Spearow             101 True Value |   61 Cp | 44.76% Perfect | Lvl 04 | QuickAttack/AerialAce
+[20:14:35] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:14:35] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
+[20:14:35] Pidgey              104 True Value |   94 Cp | 40.24% Perfect | Lvl 06 | Tackle/AirCutter
+[20:14:35] Psyduck             117 True Value |  100 Cp | 37.49% Perfect | Lvl 04 | WaterGun/CrossChop
+[20:14:35] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
+[20:14:35] Pidgeotto           98 True Value |   78 Cp | 30.39% Perfect | Lvl 03 | WingAttack/AerialAce
+[20:14:38] (INFO) Found 2 Recyclable Items:
+[20:14:38] (RECYCLING) PokeBall x 8
+[20:14:39] (RECYCLING) Revive x 3
+[20:14:41] (INFO) Found 57 Pokestops
+[20:14:42] (POKESTOP) Fujitsu Telepark in 32.31 m distance
+[20:14:42] (NAVIGATION) Distance to target location: 32.31 meters. Will take 3.63 seconds driving at 32kmh
+[20:14:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 2 x ItemPotion
+[20:14:46] (POKESTOP) Science Park 2 Pond in 138.93 m distance
+[20:14:46] (NAVIGATION) Distance to target location: 138.93 meters. Will take 16.13 seconds driving at 31kmh
+[20:14:55] (INFO) Found 1 catchable Pokemon
+[20:14:56] (Wild Success) | Parasect 150 V |  174 Cp | 73.02% | Lvl 04 | Chance: 0.31 | with a PokeBall and received XP 710
+[20:15:08] (INFO) Logging in via: Google
+[20:15:09] (INFO) Client logged in
+[20:15:10] ====== User Info ======
+[20:15:10] Name: toonistic2
+[20:15:10] Team: Neutral
+[20:15:10] Level: 9 (LvLUp in 0h 0m | 3255/9000 XP)
+[20:15:10] Pokemon: 23
+[20:15:10] Stardust: 7900
+[20:15:10] ====== Items (133) ======
+[20:15:10] RazzBerry x 21
+[20:15:10] IncubatorBasicUnlimited x 1
+[20:15:10] PokeBall x 52
+[20:15:10] Revive x 25
+[20:15:10] IncenseOrdinary x 2
+[20:15:10] Potion x 32
+[20:15:10] ====== Transfer Settings ======
+[20:15:10] Keep Above CP:           0
+[20:15:10] Keep Above IV:           0
+[20:15:10] Keep Above V:            0
+[20:15:10] Transfer Below CP:       50
+[20:15:10] Transfer Below IV:       0
+[20:15:10] Transfer Below V:        0
+[20:15:10] Transfer Evolvable:      True
+[20:15:10] PokemonsNotToTransfer:    20
+[20:15:10] Aerodactyl
+[20:15:10] Alakazam
+[20:15:10] Arcanine
+[20:15:10] Charizard
+[20:15:10] Dragonite
+[20:15:10] Exeggutor
+[20:15:10] Farfetchd
+[20:15:10] Grimer
+[20:15:10] Gyarados
+[20:15:10] Kangaskhan
+[20:15:10] Magmar
+[20:15:10] Mew
+[20:15:10] Mewtwo
+[20:15:10] Moltres
+[20:15:10] MrMime
+[20:15:10] Raichu
+[20:15:10] Snorlax
+[20:15:10] Tauros
+[20:15:10] Victreebel
+[20:15:10] Zapdos
+[20:15:10] ====== Most Valuable ======
+[20:15:10] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:15:10] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:15:10] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[20:15:10] Zubat               146 True Value |   94 Cp | 61.53% Perfect | Lvl 06 | Bite/SludgeBomb
+[20:15:10] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:15:10] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:15:10] Paras               140 True Value |   62 Cp | 63.57% Perfect | Lvl 03 | BugBite/SeedBomb
+[20:15:10] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:15:10] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[20:15:10] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:15:10] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
+[20:15:10] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:15:10] Psyduck             117 True Value |  100 Cp | 37.49% Perfect | Lvl 04 | WaterGun/CrossChop
+[20:15:10] Ekans               116 True Value |   76 Cp | 56.24% Perfect | Lvl 04 | PoisonSting/SludgeBomb
+[20:15:10] Staryu              115 True Value |   61 Cp | 48.97% Perfect | Lvl 03 | WaterGun/PowerGem
+[20:15:10] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
+[20:15:10] Pidgey              104 True Value |   94 Cp | 40.24% Perfect | Lvl 06 | Tackle/AirCutter
+[20:15:10] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
+[20:15:10] Spearow             101 True Value |   61 Cp | 44.76% Perfect | Lvl 04 | QuickAttack/AerialAce
+[20:15:10] Pidgeotto           98 True Value |   78 Cp | 30.39% Perfect | Lvl 03 | WingAttack/AerialAce
+[20:15:10] ====== Highest CP ======
+[20:15:10] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:15:10] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[20:15:10] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:15:10] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:15:10] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
+[20:15:10] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:15:10] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:15:10] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[20:15:10] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:15:10] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
+[20:15:10] Psyduck             117 True Value |  100 Cp | 37.49% Perfect | Lvl 04 | WaterGun/CrossChop
+[20:15:10] Zubat               146 True Value |   94 Cp | 61.53% Perfect | Lvl 06 | Bite/SludgeBomb
+[20:15:10] Pidgey              104 True Value |   94 Cp | 40.24% Perfect | Lvl 06 | Tackle/AirCutter
+[20:15:10] Pidgeotto           98 True Value |   78 Cp | 30.39% Perfect | Lvl 03 | WingAttack/AerialAce
+[20:15:10] Ekans               116 True Value |   76 Cp | 56.24% Perfect | Lvl 04 | PoisonSting/SludgeBomb
+[20:15:10] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
+[20:15:10] Rattata             95 True Value |   75 Cp | 26.87% Perfect | Lvl 06 | QuickAttack/Dig
+[20:15:10] Weedle              61 True Value |   75 Cp | 20.66% Perfect | Lvl 08 | PoisonSting/Struggle
+[20:15:10] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:15:10] Weedle              86 True Value |   72 Cp | 46.87% Perfect | Lvl 07 | PoisonSting/Struggle
+[20:15:10] ====== Most Perfect Genetics ======
+[20:15:10] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:15:10] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:15:10] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:15:10] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[20:15:10] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
+[20:15:10] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[20:15:10] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:15:10] Paras               140 True Value |   62 Cp | 63.57% Perfect | Lvl 03 | BugBite/SeedBomb
+[20:15:10] Zubat               146 True Value |   94 Cp | 61.53% Perfect | Lvl 06 | Bite/SludgeBomb
+[20:15:10] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:15:10] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:15:10] Ekans               116 True Value |   76 Cp | 56.24% Perfect | Lvl 04 | PoisonSting/SludgeBomb
+[20:15:10] Staryu              115 True Value |   61 Cp | 48.97% Perfect | Lvl 03 | WaterGun/PowerGem
+[20:15:10] Weedle              86 True Value |   72 Cp | 46.87% Perfect | Lvl 07 | PoisonSting/Struggle
+[20:15:10] Spearow             101 True Value |   61 Cp | 44.76% Perfect | Lvl 04 | QuickAttack/AerialAce
+[20:15:10] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:15:10] Krabby              111 True Value |  110 Cp | 40.67% Perfect | Lvl 06 | MudShot/BubbleBeam
+[20:15:10] Pidgey              104 True Value |   94 Cp | 40.24% Perfect | Lvl 06 | Tackle/AirCutter
+[20:15:10] Psyduck             117 True Value |  100 Cp | 37.49% Perfect | Lvl 04 | WaterGun/CrossChop
+[20:15:10] Pidgeotto           103 True Value |  142 Cp | 33.55% Perfect | Lvl 05 | SteelWing/Twister
+[20:15:12] (INFO) Found 2 Recyclable Items:
+[20:15:12] (RECYCLING) PokeBall x 2
+[20:15:13] (RECYCLING) Potion x 2
+[20:15:15] (INFO) Found 55 Pokestops
+[20:15:16] (POKESTOP) The Pig and Rat Family in 240.07 m distance
+[20:15:16] (NAVIGATION) Distance to target location: 240.07 meters. Will take 19.64 seconds driving at 44kmh
+[20:15:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPotion
+[20:15:36] (POKESTOP) The Chicken Family in the Cave in 44.43 m distance
+[20:15:36] (NAVIGATION) Distance to target location: 44.43 meters. Will take 5 seconds driving at 32kmh
+[20:15:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[20:15:41] (INFO) Found 1 catchable Pokemon
+[20:15:43] (Wild Success) | Zubat 95 V |   88 Cp | 40.78% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
