@@ -8992,3 +8992,10 @@
 [01:08:00] (Wild Success) | NidoranFemale 87 V |   57 Cp | 48.67% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [01:08:01] (Wild Success) | Pidgey 112 V |  315 Cp | 29.77% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
 [01:08:03] (Wild Success) | Pidgey 78 V |   39 Cp | 19.22% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[01:08:05] (INFO) Found 4 pokemon to transfer...
+[01:08:06] (TRANSFER) NidoranFemale 87 V |   57 Cp | 48.67% | Lvl 03 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 38
+[01:08:08] (TRANSFER) Zubat 126 V |   40 Cp | 47.22% | Lvl 03 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 505
+[01:08:11] (TRANSFER) Pidgey 112 V |  315 Cp | 29.77% | Lvl 20 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 336
+[01:08:13] (TRANSFER) Pidgey 78 V |   39 Cp | 19.22% | Lvl 03 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 337
+[01:08:14] (INFO) Found 1 catchable Pokemon
+[01:08:16] (Wild Success) | Paras 177 V |  343 Cp | 72.89% | Lvl 14 | Chance: 0.32 | with a UltraBall and received XP 210
