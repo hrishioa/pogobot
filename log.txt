@@ -20649,3 +20649,4 @@
 [07:36:35] (NAVIGATION) Distance to target location: 172.86 meters. Will take 19.45 seconds driving at 32kmh
 [07:36:50] (INFO) Found 2 catchable Pokemon
 [07:36:51] (Wild Success) | Paras 128 V |  199 Cp | 38.21% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
+[07:36:53] (Wild Success) | Rattata 89 V |   10 Cp | 27.81% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
