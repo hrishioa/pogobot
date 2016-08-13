@@ -1804,3 +1804,10 @@
 [21:02:42] (TRANSFER) Krabby 119 V |  215 Cp | 47.03% | Lvl 11 | Best: [Krabby 127 V |  118 Cp | 64.57% | Lvl 06] | Candy: 26
 [21:02:45] (INFO) Found 1 catchable Pokemon
 [21:02:47] (Wild Success) | Venonat 162 V |  333 Cp | 74.31% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[21:02:48] (INFO) Found 1 pokemon to transfer...
+[21:02:50] (TRANSFER) Venonat 140 V |   72 Cp | 75.70% | Lvl 03 | Best: [Venonat 162 V |  333 Cp | 74.31% | Lvl 12] | Candy: 14
+[21:02:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[21:02:51] (POKESTOP) Fountain Flamingoes in 80.15 m distance
+[21:02:51] (NAVIGATION) Distance to target location: 80.15 meters. Will take 9.31 seconds driving at 31kmh
+[21:02:57] (INFO) Found 2 catchable Pokemon
+[21:02:59] (Wild Success) | Krabby 127 V |  140 Cp | 63.38% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
