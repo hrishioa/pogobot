@@ -2192,3 +2192,5 @@
 [21:16:03] (NAVIGATION) Distance to target location: 193.15 meters. Will take 19.87 seconds driving at 35kmh
 [21:16:05] (INFO) Found 1 catchable Pokemon
 [21:16:07] (Wild Success) | Paras 151 V |  141 Cp | 71.61% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
+[21:16:11] (INFO) Found 2 catchable Pokemon
+[21:16:13] (Wild Success) | Magikarp 80 V |   75 Cp | 47.13% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
