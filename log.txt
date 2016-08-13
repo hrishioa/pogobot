@@ -8284,3 +8284,9 @@
 [00:43:58] (Wild Success) | Slowpoke 121 V |   48 Cp | 46.13% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [00:43:59] (BERRY) ItemRazzBerry used, remaining: 49
 [00:44:00] (Wild Success) | Clefairy 113 V |  518 Cp | 21.48% | Lvl 18 | Chance: 0.21 | with a GreatBall and received XP 210
+[00:44:02] (INFO) Found 3 pokemon to transfer...
+[00:44:03] (TRANSFER) Clefairy 113 V |  518 Cp | 21.48% | Lvl 18 | Best: [Clefairy 159 V |  362 Cp | 41.21% | Lvl 12] | Candy: 46
+[00:44:06] (TRANSFER) Slowpoke 118 V |  420 Cp | 5.63% | Lvl 15 | Best: [Slowpoke 131 V |  241 Cp | 41.64% | Lvl 08] | Candy: 26
+[00:44:08] (TRANSFER) Slowpoke 121 V |   48 Cp | 46.13% | Lvl 02 | Best: [Slowpoke 131 V |  241 Cp | 41.64% | Lvl 08] | Candy: 27
+[00:44:09] (INFO) Found 1 catchable Pokemon
+[00:44:11] (Wild Success) | Zubat 130 V |   79 Cp | 71.61% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
