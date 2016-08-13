@@ -20241,3 +20241,27 @@
 [07:21:14] (RECYCLING) Revive x 3
 [07:21:16] (INFO) Found 1 catchable Pokemon
 [07:21:18] (Wild Success) | Pidgey 102 V |  181 Cp | 44.14% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[07:21:20] (INFO) Found 1 pokemon to transfer...
+[07:21:21] (TRANSFER) Pidgey 102 V |  181 Cp | 44.14% | Lvl 11 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 908
+[07:21:21] (POKESTOP) Earth Mural in 65.25 m distance
+[07:21:21] (NAVIGATION) Distance to target location: 65.25 meters. Will take 7.34 seconds driving at 32kmh
+[07:21:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:21:29] (POKESTOP) Inverted Torsos in 68.94 m distance
+[07:21:29] (NAVIGATION) Distance to target location: 68.94 meters. Will take 7.76 seconds driving at 32kmh
+[07:21:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:21:36] (POKESTOP) Frustration of a Loner on a Rock in 63.72 m distance
+[07:21:36] (NAVIGATION) Distance to target location: 63.72 meters. Will take 7.91 seconds driving at 29kmh
+[07:21:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:21:43] (POKESTOP) West Coast Fan in 349.73 m distance
+[07:21:43] (NAVIGATION) Distance to target location: 349.73 meters. Will take 19.98 seconds driving at 63kmh
+[07:22:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:22:05] (POKESTOP) Clementi West Street 1 Circle in 166.7 m distance
+[07:22:05] (NAVIGATION) Distance to target location: 166.7 meters. Will take 19.36 seconds driving at 31kmh
+[07:22:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:22:24] (INFO) Found 2 Recyclable Items:
+[07:22:25] (RECYCLING) PokeBall x 10
+[07:22:25] (RECYCLING) Potion x 3
+[07:22:28] (POKESTOP) Blue Black Pillars in 105.47 m distance
+[07:22:28] (NAVIGATION) Distance to target location: 105.47 meters. Will take 13.56 seconds driving at 28kmh
+[07:22:34] (INFO) Found 1 catchable Pokemon
+[07:22:36] (Wild Success) | Rattata 111 V |  197 Cp | 28.55% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
