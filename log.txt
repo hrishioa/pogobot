@@ -16846,3 +16846,19 @@
 [05:32:58] (INFO) Found 1 catchable Pokemon
 [05:32:58] (BERRY) ItemRazzBerry used, remaining: 49
 [05:33:00] (Wild Success) | Paras 186 V |  372 Cp | 78.57% | Lvl 15 | Chance: 0.3 | with a GreatBall and received XP 210
+[05:33:01] (POKESTOP) Caged Court in 88.81 m distance
+[05:33:01] (NAVIGATION) Distance to target location: 88.81 meters. Will take 9.99 seconds driving at 32kmh
+[05:33:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[05:33:12] (POKESTOP) Arch at West Coast in 100.53 m distance
+[05:33:12] (NAVIGATION) Distance to target location: 100.53 meters. Will take 11.67 seconds driving at 31kmh
+[05:33:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:33:23] (POKESTOP) Block 701 Mini Playground in 70.33 m distance
+[05:33:23] (NAVIGATION) Distance to target location: 70.33 meters. Will take 8.44 seconds driving at 30kmh
+[05:33:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:33:32] (POKESTOP) West Coast Playground in 134.32 m distance
+[05:33:32] (NAVIGATION) Distance to target location: 134.32 meters. Will take 17.27 seconds driving at 28kmh
+[05:33:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[05:33:49] (POKESTOP) West Coast Town Council Fitness Corner in 108.05 m distance
+[05:33:49] (NAVIGATION) Distance to target location: 108.05 meters. Will take 13.41 seconds driving at 29kmh
+[05:33:53] (INFO) Found 1 catchable Pokemon
+[05:33:55] (Wild Success) | Rattata 111 V |   21 Cp | 49.30% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
