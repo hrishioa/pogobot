@@ -8455,3 +8455,10 @@
 [00:47:27] (NAVIGATION) Distance to target location: 187.06 meters. Will take 19.81 seconds driving at 34kmh
 [00:47:33] (INFO) Found 1 catchable Pokemon
 [00:47:34] (Wild Success) | Zubat 133 V |  313 Cp | 46.65% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[00:47:36] (INFO) Found 1 pokemon to transfer...
+[00:47:37] (TRANSFER) Zubat 133 V |  313 Cp | 46.65% | Lvl 20 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 465
+[00:47:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[00:47:47] (POKESTOP) Pavillion Hiltop in 104.16 m distance
+[00:47:47] (NAVIGATION) Distance to target location: 104.16 meters. Will take 12.93 seconds driving at 29kmh
+[00:47:53] (INFO) Found 1 catchable Pokemon
+[00:47:54] (Wild Success) | Caterpie 86 V |   35 Cp | 26.55% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
