@@ -20320,3 +20320,29 @@
 [07:25:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemSuperPotion
 [07:25:43] (INFO) Found 1 catchable Pokemon
 [07:25:45] (Wild Success) | Zubat 157 V |  320 Cp | 70.35% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[07:25:46] (INFO) Found 1 pokemon to transfer...
+[07:25:48] (TRANSFER) Zubat 157 V |  320 Cp | 70.35% | Lvl 19 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 598
+[07:25:48] (POKESTOP) Jalan Mas Kuning Playground in 151.67 m distance
+[07:25:48] (NAVIGATION) Distance to target location: 151.67 meters. Will take 18.2 seconds driving at 30kmh
+[07:26:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:26:06] (INFO) Found 4 Recyclable Items:
+[07:26:07] (RECYCLING) RazzBerry x 1
+[07:26:08] (RECYCLING) PokeBall x 8
+[07:26:08] (RECYCLING) SuperPotion x 1
+[07:26:09] (RECYCLING) Revive x 1
+[07:26:12] (POKESTOP) Pasir Panjang Garden in 158.16 m distance
+[07:26:12] (NAVIGATION) Distance to target location: 158.16 meters. Will take 18.37 seconds driving at 31kmh
+[07:26:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:26:31] (POKESTOP) West Coast Public Stage in 74.62 m distance
+[07:26:31] (NAVIGATION) Distance to target location: 74.62 meters. Will take 8.39 seconds driving at 32kmh
+[07:26:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[07:26:39] (POKESTOP) Metallic Windmill in 88.41 m distance
+[07:26:39] (NAVIGATION) Distance to target location: 88.41 meters. Will take 10.27 seconds driving at 31kmh
+[07:26:48] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 5 x ItemPokeBall
+[07:26:50] (POKESTOP) Hidden Buddha Statue  in 92.1 m distance
+[07:26:50] (NAVIGATION) Distance to target location: 92.1 meters. Will take 11.05 seconds driving at 30kmh
+[07:26:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:27:00] (POKESTOP) Pasir Panjang Gardens in 94.21 m distance
+[07:27:00] (NAVIGATION) Distance to target location: 94.21 meters. Will take 10.6 seconds driving at 32kmh
+[07:27:08] (INFO) Found 1 catchable Pokemon
+[07:27:10] (Wild Success) | Caterpie 96 V |   47 Cp | 35.66% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
