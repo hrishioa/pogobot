@@ -9021,3 +9021,4 @@
 [01:08:53] (BERRY) ItemRazzBerry used, remaining: 49
 [01:08:53] (Wild Success) | Pidgeotto 118 V |  389 Cp | 28.83% | Lvl 13 | Chance: 0.2 | with a GreatBall and received XP 210
 [01:08:55] (Wild Success) | Pidgey 118 V |  273 Cp | 35.88% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[01:08:57] (Wild Success) | Rattata 127 V |  154 Cp | 47.09% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
