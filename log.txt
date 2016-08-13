@@ -3630,3 +3630,4 @@
 [22:03:31] (NAVIGATION) Distance to target location: 57.2 meters. Will take 6.44 seconds driving at 32kmh
 [22:03:32] (INFO) Found 2 catchable Pokemon
 [22:03:33] (Wild Success) | Pidgey 80 V |   42 Cp | 36.48% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[22:03:35] (Wild Success) | Goldeen 107 V |  241 Cp | 11.05% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
