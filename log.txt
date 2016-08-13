@@ -19040,3 +19040,18 @@
 [06:44:41] (NAVIGATION) Distance to target location: 180.21 meters. Will take 19.66 seconds driving at 33kmh
 [06:44:47] (INFO) Found 1 catchable Pokemon
 [06:44:49] (Wild Success) | Bellsprout 135 V |  405 Cp | 30.31% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[06:44:50] (INFO) Found 1 pokemon to transfer...
+[06:44:52] (TRANSFER) Bellsprout 135 V |  405 Cp | 30.31% | Lvl 15 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 185
+[06:45:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[06:45:01] (POKESTOP) Gantry Entrance in 99.66 m distance
+[06:45:01] (NAVIGATION) Distance to target location: 99.66 meters. Will take 12.37 seconds driving at 29kmh
+[06:45:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:45:12] (POKESTOP) Marsh Garden in 92.64 m distance
+[06:45:12] (NAVIGATION) Distance to target location: 92.64 meters. Will take 11.5 seconds driving at 29kmh
+[06:45:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[06:45:23] (ATTENTION) No locations in your area...
+[06:45:35] (INFO) Found 43 Pokestops
+[06:45:36] (POKESTOP) West Coast Park Sign in 201.26 m distance
+[06:45:36] (NAVIGATION) Distance to target location: 201.26 meters. Will take 19.58 seconds driving at 37kmh
+[06:45:48] (INFO) Found 1 catchable Pokemon
+[06:45:49] (Wild Success) | Poliwag 136 V |  141 Cp | 63.14% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
