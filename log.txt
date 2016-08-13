@@ -9283,3 +9283,4 @@
 [01:17:51] (INFO) Found 3 catchable Pokemon
 [01:17:53] (Wild Success) | Spearow 75 V |   75 Cp | 29.57% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [01:17:54] (Wild Success) | Growlithe 173 V |  327 Cp | 79.93% | Lvl 09 | Chance: 0.3 | with a UltraBall and received XP 210
+[01:17:56] (Wild Success) | Zubat 175 V |  347 Cp | 80.46% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
