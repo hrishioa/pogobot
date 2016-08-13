@@ -20859,3 +20859,15 @@
 [07:41:01] (RECYCLING) Revive x 1
 [07:41:05] (INFO) Found 1 catchable Pokemon
 [07:41:05] (Wild Success) | Weedle 94 V |  217 Cp | 40.17% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[07:41:07] (INFO) Found 1 pokemon to transfer...
+[07:41:09] (TRANSFER) Weedle 94 V |  217 Cp | 40.17% | Lvl 21 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 447
+[07:41:10] (POKESTOP) Clementi West Green Alien Mural in 40.77 m distance
+[07:41:10] (NAVIGATION) Distance to target location: 40.77 meters. Will take 5.06 seconds driving at 29kmh
+[07:41:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[07:41:16] (POKESTOP) The Right Horn Sculpture in 112.1 m distance
+[07:41:16] (NAVIGATION) Distance to target location: 112.1 meters. Will take 13.92 seconds driving at 29kmh
+[07:41:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[07:41:29] (POKESTOP) West Coast Community Centre in 274.79 m distance
+[07:41:29] (NAVIGATION) Distance to target location: 274.79 meters. Will take 19.79 seconds driving at 50kmh
+[07:41:32] (INFO) Found 1 catchable Pokemon
+[07:41:33] (Wild Success) | Rattata 145 V |  176 Cp | 59.84% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
