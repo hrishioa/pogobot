@@ -17868,3 +17868,7 @@
 [06:07:09] (TRANSFER) Weedle 94 V |  207 Cp | 41.23% | Lvl 20 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 373
 [06:07:11] (INFO) Found 1 catchable Pokemon
 [06:07:12] (Wild Success) | Rattata 132 V |  225 Cp | 48.23% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[06:07:14] (INFO) Found 1 pokemon to transfer...
+[06:07:16] (TRANSFER) Rattata 132 V |  225 Cp | 48.23% | Lvl 16 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 437
+[06:07:18] (INFO) Found 1 catchable Pokemon
+[06:07:20] (Wild Success) | Eevee 137 V |  104 Cp | 67.11% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
