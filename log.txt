@@ -7015,3 +7015,9 @@
 [00:02:05] (RECYCLING) Revive x 1
 [00:02:07] (INFO) Found 1 catchable Pokemon
 [00:02:08] (Wild Success) | Ekans 125 V |  226 Cp | 50.07% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[00:02:10] (INFO) Found 1 pokemon to transfer...
+[00:02:12] (TRANSFER) Ekans 125 V |  226 Cp | 50.07% | Lvl 11 | Best: [Ekans 160 V |  250 Cp | 54.56% | Lvl 12] | Candy: 70
+[00:02:12] (POKESTOP) Jimmy Monkey Restaurant in 84.5 m distance
+[00:02:12] (NAVIGATION) Distance to target location: 84.5 meters. Will take 10.86 seconds driving at 28kmh
+[00:02:20] (INFO) Found 2 catchable Pokemon
+[00:02:23] (Wild Success) | Poliwag 175 V |  357 Cp | 69.98% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
