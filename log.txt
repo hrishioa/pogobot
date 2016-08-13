@@ -2220,3 +2220,8 @@
 [21:17:11] (TRANSFER) Magikarp 72 V |   21 Cp | 45.18% | Lvl 04 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 38
 [21:17:12] (INFO) Found 1 catchable Pokemon
 [21:17:13] (Wild Success) | Rattata 129 V |   22 Cp | 61.52% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[21:17:15] (INFO) Found 2 pokemon to transfer...
+[21:17:16] (TRANSFER) Rattata 113 V |  108 Cp | 39.64% | Lvl 08 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 50
+[21:17:19] (TRANSFER) Rattata 129 V |   22 Cp | 61.52% | Lvl 02 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 51
+[21:17:21] (INFO) Found 1 catchable Pokemon
+[21:17:22] (Wild Success) | Bellsprout 83 V |  131 Cp | 40.81% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
