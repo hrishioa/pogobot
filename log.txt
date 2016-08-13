@@ -12163,3 +12163,28 @@
 [02:50:30] (NAVIGATION) Distance to target location: 54.98 meters. Will take 6.83 seconds driving at 29kmh
 [02:50:32] (INFO) Found 1 catchable Pokemon
 [02:50:34] (Wild Success) | Rattata 130 V |  224 Cp | 45.86% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[02:50:36] (INFO) Found 1 pokemon to transfer...
+[02:50:38] (TRANSFER) Rattata 130 V |  224 Cp | 45.86% | Lvl 16 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 204
+[02:50:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[02:50:42] (POKESTOP) Herbs Garden in 51.75 m distance
+[02:50:42] (NAVIGATION) Distance to target location: 51.75 meters. Will take 5.82 seconds driving at 32kmh
+[02:50:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:50:47] (INFO) Found 3 Recyclable Items:
+[02:50:47] (RECYCLING) PokeBall x 8
+[02:50:48] (RECYCLING) SuperPotion x 2
+[02:50:50] (RECYCLING) Revive x 1
+[02:50:53] (POKESTOP) West Coast Mural Art in 86.59 m distance
+[02:50:53] (NAVIGATION) Distance to target location: 86.59 meters. Will take 11.13 seconds driving at 28kmh
+[02:51:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:51:04] (POKESTOP) Mythical Creature Mural in 85.89 m distance
+[02:51:04] (NAVIGATION) Distance to target location: 85.89 meters. Will take 11.04 seconds driving at 28kmh
+[02:51:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:51:17] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[02:51:17] (ATTENTION) Restarting the application due to error...
+[02:51:17] (INFO) Logging in via: Google
+[02:51:18] (INFO) Client logged in
+[02:51:18] (INFO) Found 39 Pokestops
+[02:51:19] (POKESTOP) West Coast Playground in 228.37 m distance
+[02:51:19] (NAVIGATION) Distance to target location: 228.37 meters. Will take 19.57 seconds driving at 42kmh
+[02:51:31] (INFO) Found 1 catchable Pokemon
+[02:51:32] (Wild Success) | Rattata 134 V |  145 Cp | 57.74% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
