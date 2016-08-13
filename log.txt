@@ -1403,3 +1403,7 @@
 [20:48:48] (TRANSFER) Spearow 91 V |   10 Cp | 43.26% | Lvl 01 | Best: [Spearow 133 V |  121 Cp | 63.82% | Lvl 07] | Candy: 52
 [20:48:56] (INFO) Found 1 catchable Pokemon
 [20:48:57] (Wild Success) | Jigglypuff 94 V |   57 Cp | 37.85% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[20:48:59] (POKESTOP) Container Cafe in 658.2 m distance
+[20:48:59] (NAVIGATION) Distance to target location: 658.2 meters. Will take 33.85 seconds driving at 70kmh
+[20:49:02] (INFO) Found 2 catchable Pokemon
+[20:49:05] (Wild Success) | Pidgey 98 V |  192 Cp | 34.40% | Lvl 12 | Chance: 0.43 | with a PokeBall and received XP 210
