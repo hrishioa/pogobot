@@ -4688,3 +4688,4 @@
 [22:44:01] (INFO) Found 3 catchable Pokemon
 [22:44:03] (Wild Success) | Rattata 144 V |  191 Cp | 60.34% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
 [22:44:04] (Wild Success) | Rattata 128 V |   69 Cp | 61.00% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
+[22:44:06] (Wild Success) | Staryu 122 V |   63 Cp | 63.54% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
