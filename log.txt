@@ -890,3 +890,17 @@
 [20:30:50] (INFO) Found 2 catchable Pokemon
 [20:30:52] (Wild Success) | Krabby 127 V |  118 Cp | 64.57% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [20:30:54] (Wild Success) | Spearow 118 V |  153 Cp | 52.80% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:30:55] (INFO) Found 2 pokemon to transfer...
+[20:30:57] (TRANSFER) Spearow 111 V |  113 Cp | 43.22% | Lvl 07 | Best: [Spearow 133 V |  121 Cp | 63.82% | Lvl 07] | Candy: 34
+[20:31:00] (TRANSFER) Krabby 111 V |  110 Cp | 40.67% | Lvl 06 | Best: [Krabby 127 V |  118 Cp | 64.57% | Lvl 06] | Candy: 18
+[20:31:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:31:04] (INFO) Found 1 Recyclable Item:
+[20:31:04] (RECYCLING) Potion x 3
+[20:31:07] (POKESTOP) Arena Of Mobility in 96.11 m distance
+[20:31:07] (NAVIGATION) Distance to target location: 96.11 meters. Will take 12.36 seconds driving at 28kmh
+[20:31:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:31:18] (POKESTOP) Normanton Park in 326.68 m distance
+[20:31:18] (NAVIGATION) Distance to target location: 326.68 meters. Will take 19.93 seconds driving at 59kmh
+[20:31:34] (INFO) Found 4 catchable Pokemon
+[20:31:36] (Wild Flee) | Zubat 130 V |  148 Cp | 64.51% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[20:31:37] (Wild Success) | Zubat 115 V |  109 Cp | 54.10% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
