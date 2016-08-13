@@ -7959,3 +7959,7 @@
 [00:33:22] (NAVIGATION) Distance to target location: 178.99 meters. Will take 19.53 seconds driving at 33kmh
 [00:33:32] (INFO) Found 1 catchable Pokemon
 [00:33:34] (Wild Success) | Paras 166 V |  219 Cp | 73.52% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
+[00:33:35] (INFO) Found 1 pokemon to transfer...
+[00:33:37] (TRANSFER) Paras 152 V |  261 Cp | 61.17% | Lvl 11 | Best: [Paras 166 V |  219 Cp | 73.52% | Lvl 09] | Candy: 25
+[00:33:39] (INFO) Found 1 catchable Pokemon
+[00:33:40] (Wild Success) | Eevee 139 V |  275 Cp | 51.33% | Lvl 10 | Chance: 0.37 | with a UltraBall and received XP 210
