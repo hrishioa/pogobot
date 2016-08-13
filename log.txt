@@ -1447,3 +1447,24 @@
 [20:51:40] (INFO) Found 2 catchable Pokemon
 [20:51:42] (Wild Success) | Goldeen 149 V |  309 Cp | 71.28% | Lvl 12 | Chance: 0.43 | with a PokeBall and received XP 210
 [20:51:44] (Wild Success) | Staryu 152 V |  253 Cp | 77.42% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
+[20:51:46] (INFO) Found 2 pokemon to transfer...
+[20:51:47] (TRANSFER) Staryu 115 V |   61 Cp | 48.97% | Lvl 03 | Best: [Staryu 153 V |  123 Cp | 91.21% | Lvl 05] | Candy: 18
+[20:51:49] (TRANSFER) Goldeen 149 V |  309 Cp | 71.28% | Lvl 12 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 30
+[20:52:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:52:05] (INFO) Found 4 Recyclable Items:
+[20:52:06] (RECYCLING) Revive x 3
+[20:52:07] (RECYCLING) RazzBerry x 2
+[20:52:08] (RECYCLING) PokeBall x 2
+[20:52:08] (RECYCLING) Potion x 3
+[20:52:12] (POKESTOP) Gears of War  in 88.45 m distance
+[20:52:12] (NAVIGATION) Distance to target location: 88.45 meters. Will take 10.27 seconds driving at 31kmh
+[20:52:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:52:22] (ATTENTION) No locations in your area...
+[20:52:27] (INFO) Found 22 Pokestops
+[20:52:28] (POKESTOP) Templar Stained Glass Window in 121.91 m distance
+[20:52:28] (NAVIGATION) Distance to target location: 121.91 meters. Will take 14.16 seconds driving at 31kmh
+[20:52:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[20:52:41] (POKESTOP) Cafe Colbar in 168.95 m distance
+[20:52:41] (NAVIGATION) Distance to target location: 168.95 meters. Will take 19.62 seconds driving at 31kmh
+[20:52:54] (INFO) Found 1 catchable Pokemon
+[20:52:56] (Wild Success) | NidoranFemale 82 V |   32 Cp | 30.20% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
