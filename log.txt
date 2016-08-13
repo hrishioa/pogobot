@@ -1987,3 +1987,11 @@
 [21:07:50] (TRANSFER) Zubat 150 V |  146 Cp | 59.90% | Lvl 09 | Best: [Zubat 171 V |  197 Cp | 91.11% | Lvl 11] | Candy: 156
 [21:07:52] (INFO) Found 1 catchable Pokemon
 [21:07:53] (Wild Success) | Gastly 115 V |  133 Cp | 41.90% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 710
+[21:07:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:07:58] (POKESTOP) Church Of Our Saviour (COOS) in 228.35 m distance
+[21:07:58] (NAVIGATION) Distance to target location: 228.35 meters. Will take 19.57 seconds driving at 42kmh
+[21:08:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:08:18] (POKESTOP) The Fishermen of Christ Fellowship in 96.96 m distance
+[21:08:18] (NAVIGATION) Distance to target location: 96.96 meters. Will take 10.91 seconds driving at 32kmh
+[21:08:20] (INFO) Found 1 catchable Pokemon
+[21:08:21] (Wild Success) | Caterpie 101 V |  128 Cp | 33.36% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
