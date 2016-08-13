@@ -3544,3 +3544,10 @@
 [21:59:16] (NAVIGATION) Distance to target location: 384.41 meters. Will take 19.77 seconds driving at 70kmh
 [21:59:26] (INFO) Found 1 catchable Pokemon
 [21:59:27] (Wild Success) | Pidgey 100 V |  111 Cp | 38.88% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:59:29] (INFO) Found 1 pokemon to transfer...
+[21:59:30] (TRANSFER) Pidgey 100 V |  111 Cp | 38.88% | Lvl 07 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 164
+[21:59:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall
+[21:59:38] (POKESTOP) Arena Of Mobility in 96.11 m distance
+[21:59:38] (NAVIGATION) Distance to target location: 96.11 meters. Will take 11.93 seconds driving at 29kmh
+[21:59:46] (INFO) Found 1 catchable Pokemon
+[21:59:47] (Wild Success) | Pidgey 96 V |  146 Cp | 41.32% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
