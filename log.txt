@@ -11775,3 +11775,11 @@
 [02:37:29] (BERRY) ItemRazzBerry used, remaining: 49
 [02:37:30] (Wild Success) | Venonat 171 V |  554 Cp | 53.75% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
 [02:37:32] (Wild Success) | Bellsprout 102 V |  197 Cp | 2.26% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[02:37:33] (INFO) Found 2 pokemon to transfer...
+[02:37:35] (TRANSFER) Bellsprout 102 V |  197 Cp | 2.26% | Lvl 08 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 46
+[02:37:37] (TRANSFER) Venonat 162 V |  333 Cp | 74.31% | Lvl 12 | Best: [Venonat 189 V |  582 Cp | 74.06% | Lvl 21] | Candy: 54
+[02:37:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:37:41] (POKESTOP) Butterfly Mural in 353.55 m distance
+[02:37:41] (NAVIGATION) Distance to target location: 353.55 meters. Will take 19.89 seconds driving at 64kmh
+[02:37:52] (INFO) Found 2 catchable Pokemon
+[02:37:53] (Wild Success) | Psyduck 163 V |  309 Cp | 46.89% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
