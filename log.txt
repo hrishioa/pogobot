@@ -20585,3 +20585,13 @@
 [07:33:46] (NAVIGATION) Distance to target location: 71.64 meters. Will take 9.21 seconds driving at 28kmh
 [07:33:48] (INFO) Found 1 catchable Pokemon
 [07:33:50] (Wild Success) | Pidgey 112 V |  227 Cp | 39.20% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[07:33:52] (INFO) Found 1 pokemon to transfer...
+[07:33:53] (TRANSFER) Pidgey 112 V |  227 Cp | 39.20% | Lvl 14 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 939
+[07:33:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:33:58] (POKESTOP) Red Fire Truck in 109.79 m distance
+[07:33:58] (NAVIGATION) Distance to target location: 109.79 meters. Will take 14.12 seconds driving at 28kmh
+[07:34:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:34:11] (POKESTOP) Blue Dragon Boat  in 55.69 m distance
+[07:34:11] (NAVIGATION) Distance to target location: 55.69 meters. Will take 6.68 seconds driving at 30kmh
+[07:34:14] (INFO) Found 1 catchable Pokemon
+[07:34:16] (Wild Success) | Rattata 148 V |  318 Cp | 55.97% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
