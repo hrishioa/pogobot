@@ -21218,3 +21218,40 @@
 [07:53:31] (NAVIGATION) Distance to target location: 46.42 meters. Will take 5.39 seconds driving at 31kmh
 [07:53:33] (INFO) Found 1 catchable Pokemon
 [07:53:35] (Wild Success) | Ekans 148 V |  290 Cp | 51.64% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[07:53:37] (INFO) Found 1 pokemon to transfer...
+[07:53:38] (TRANSFER) Ekans 148 V |  290 Cp | 51.64% | Lvl 14 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 193
+[07:53:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:53:41] (INFO) Found 4 Recyclable Items:
+[07:53:41] (RECYCLING) RazzBerry x 3
+[07:53:42] (RECYCLING) PokeBall x 10
+[07:53:44] (RECYCLING) Potion x 2
+[07:53:45] (RECYCLING) Revive x 3
+[07:53:47] (POKESTOP) Survival Mask in 60.47 m distance
+[07:53:47] (NAVIGATION) Distance to target location: 60.47 meters. Will take 7.26 seconds driving at 30kmh
+[07:53:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[07:53:54] (POKESTOP) NUS Central Library in 64.95 m distance
+[07:53:54] (NAVIGATION) Distance to target location: 64.95 meters. Will take 8.06 seconds driving at 29kmh
+[07:54:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[07:54:01] (POKESTOP) Chinese Women Painting in 37.16 m distance
+[07:54:01] (NAVIGATION) Distance to target location: 37.16 meters. Will take 4.32 seconds driving at 31kmh
+[07:54:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:54:06] (POKESTOP) Kent Ridge Heritage Trail in 91.3 m distance
+[07:54:06] (NAVIGATION) Distance to target location: 91.3 meters. Will take 10.27 seconds driving at 32kmh
+[07:54:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[07:54:16] (POKESTOP) Chinese Scholar Painting in 76.32 m distance
+[07:54:16] (NAVIGATION) Distance to target location: 76.32 meters. Will take 9.16 seconds driving at 30kmh
+[07:54:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:54:25] (INFO) Found 3 Recyclable Items:
+[07:54:26] (RECYCLING) RazzBerry x 1
+[07:54:27] (RECYCLING) PokeBall x 10
+[07:54:28] (RECYCLING) Revive x 2
+[07:54:30] (POKESTOP) Centre For Development Of Teaching And Learning in 63.9 m distance
+[07:54:30] (NAVIGATION) Distance to target location: 63.9 meters. Will take 8.22 seconds driving at 28kmh
+[07:54:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemPokeBall
+[07:54:37] (POKESTOP) CRISP & TMSI in 109.19 m distance
+[07:54:37] (NAVIGATION) Distance to target location: 109.19 meters. Will take 12.28 seconds driving at 32kmh
+[07:54:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 4 x ItemPokeBall, 1 x ItemSuperPotion
+[07:54:50] (POKESTOP) Student Service Centre in 127.61 m distance
+[07:54:50] (NAVIGATION) Distance to target location: 127.61 meters. Will take 15.31 seconds driving at 30kmh
+[07:55:03] (INFO) Found 2 catchable Pokemon
+[07:55:05] (Wild Success) | Zubat 132 V |  280 Cp | 44.40% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
