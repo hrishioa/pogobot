@@ -18072,3 +18072,14 @@
 [06:13:20] (NAVIGATION) Distance to target location: 362.68 meters. Will take 19.78 seconds driving at 66kmh
 [06:13:30] (INFO) Found 1 catchable Pokemon
 [06:13:32] (Wild Success) | Rattata 104 V |   50 Cp | 38.66% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[06:13:34] (INFO) Found 1 pokemon to transfer...
+[06:13:35] (TRANSFER) Rattata 104 V |   50 Cp | 38.66% | Lvl 04 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 453
+[06:13:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:13:42] (INFO) Found 3 Recyclable Items:
+[06:13:42] (RECYCLING) PokeBall x 11
+[06:13:43] (RECYCLING) Potion x 1
+[06:13:44] (RECYCLING) Revive x 2
+[06:13:47] (POKESTOP) Clementi West Green Alien Mural in 102.68 m distance
+[06:13:47] (NAVIGATION) Distance to target location: 102.68 meters. Will take 12.32 seconds driving at 30kmh
+[06:13:53] (INFO) Found 1 catchable Pokemon
+[06:13:55] (Wild Success) | Ekans 118 V |  120 Cp | 54.42% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
