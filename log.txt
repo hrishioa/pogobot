@@ -9566,3 +9566,20 @@
 [01:27:12] (INFO) Found 2 catchable Pokemon
 [01:27:13] (Wild Success) | Parasect 186 V |  228 Cp | 82.90% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 210
 [01:27:16] (Wild Success) | Spearow 92 V |   25 Cp | 39.89% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[01:27:17] (INFO) Found 2 pokemon to transfer...
+[01:27:19] (TRANSFER) Parasect 150 V |  174 Cp | 73.02% | Lvl 04 | Best: [Parasect 193 V |  416 Cp | 61.02% | Lvl 09] | Candy: 48
+[01:27:21] (TRANSFER) Spearow 92 V |   25 Cp | 39.89% | Lvl 02 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 175
+[01:27:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[01:27:26] (POKESTOP) A Spring Of Gratitude  in 52.62 m distance
+[01:27:26] (NAVIGATION) Distance to target location: 52.62 meters. Will take 6.31 seconds driving at 30kmh
+[01:27:30] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[01:27:32] (POKESTOP) Painted Glass Soccer Pane in 72.6 m distance
+[01:27:32] (NAVIGATION) Distance to target location: 72.6 meters. Will take 8.17 seconds driving at 32kmh
+[01:27:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:27:40] (POKESTOP) Spring of Gratitude in 54.08 m distance
+[01:27:40] (NAVIGATION) Distance to target location: 54.08 meters. Will take 6.28 seconds driving at 31kmh
+[01:27:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:27:46] (POKESTOP) NUS Ridge View Residences Plaque in 111 m distance
+[01:27:46] (NAVIGATION) Distance to target location: 111 meters. Will take 12.89 seconds driving at 31kmh
+[01:27:49] (INFO) Found 1 catchable Pokemon
+[01:27:50] (Wild Success) | Pidgey 74 V |  105 Cp | 24.05% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
