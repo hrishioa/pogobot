@@ -21010,3 +21010,13 @@
 [07:48:46] (Wild Flee) | Pidgey 119 V |  371 Cp | 37.04% | Lvl 23 | Chance: 0.31 | with a GreatBall 
 [07:48:51] (INFO) Found 1 catchable Pokemon
 [07:48:52] (Wild Success) | Eevee 159 V |  401 Cp | 68.71% | Lvl 14 | Chance: 0.32 | with a UltraBall and received XP 210
+[07:48:54] (INFO) Found 1 pokemon to transfer...
+[07:48:56] (TRANSFER) Eevee 159 V |  401 Cp | 68.71% | Lvl 14 | Best: [Eevee 178 V |  539 Cp | 64.34% | Lvl 19] | Candy: 48
+[07:48:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[07:48:58] (POKESTOP) Rhythm in Space in 21.97 m distance
+[07:48:58] (NAVIGATION) Distance to target location: 21.97 meters. Will take 2.82 seconds driving at 28kmh
+[07:49:00] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 4 x ItemPokeBall
+[07:49:01] (POKESTOP) NUS 1962-1980 in 83.79 m distance
+[07:49:01] (NAVIGATION) Distance to target location: 83.79 meters. Will take 9.43 seconds driving at 32kmh
+[07:49:04] (INFO) Found 1 catchable Pokemon
+[07:49:05] (Wild Success) | Zubat 161 V |  314 Cp | 64.54% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
