@@ -20843,3 +20843,7 @@
 [07:40:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
 [07:40:40] (INFO) Found 1 catchable Pokemon
 [07:40:41] (Wild Success) | Caterpie 76 V |   63 Cp | 20.07% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[07:40:43] (POKESTOP) Clementi West White Orchid Mural in 88.08 m distance
+[07:40:43] (NAVIGATION) Distance to target location: 88.08 meters. Will take 9.91 seconds driving at 32kmh
+[07:40:46] (INFO) Found 1 catchable Pokemon
+[07:40:47] (Wild Success) | Weedle 104 V |   60 Cp | 43.18% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
