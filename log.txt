@@ -6080,3 +6080,13 @@
 [23:31:39] (NAVIGATION) Distance to target location: 65.96 meters. Will take 7.66 seconds driving at 31kmh
 [23:31:45] (INFO) Found 1 catchable Pokemon
 [23:31:47] (Wild Success) | Pidgey 113 V |  179 Cp | 39.91% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[23:31:49] (INFO) Found 1 pokemon to transfer...
+[23:31:50] (TRANSFER) Pidgey 113 V |  179 Cp | 39.91% | Lvl 11 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 210
+[23:31:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:31:52] (POKESTOP) Chinese Women Painting in 37.51 m distance
+[23:31:52] (NAVIGATION) Distance to target location: 37.51 meters. Will take 4.82 seconds driving at 28kmh
+[23:31:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[23:31:56] (POKESTOP) Kent Ridge Heritage Trail in 88.39 m distance
+[23:31:56] (NAVIGATION) Distance to target location: 88.39 meters. Will take 11.36 seconds driving at 28kmh
+[23:32:05] (INFO) Found 1 catchable Pokemon
+[23:32:06] (Wild Success) | Pidgey 99 V |   94 Cp | 39.82% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
