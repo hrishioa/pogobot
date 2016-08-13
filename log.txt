@@ -4129,3 +4129,4 @@
 [22:21:19] (TRANSFER) Zubat 141 V |  118 Cp | 78.96% | Lvl 07 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 306
 [22:21:21] (INFO) Found 2 catchable Pokemon
 [22:21:23] (Wild Success) | Psyduck 91 V |  329 Cp | 5.58% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[22:21:25] (Wild Success) | Magikarp 85 V |   47 Cp | 54.92% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
