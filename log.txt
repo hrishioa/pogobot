@@ -2954,3 +2954,11 @@
 [21:38:31] (NAVIGATION) Distance to target location: 113.75 meters. Will take 13.21 seconds driving at 31kmh
 [21:38:33] (INFO) Found 1 catchable Pokemon
 [21:38:34] (Wild Success) | Magikarp 104 V |   24 Cp | 77.00% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
+[21:38:36] (INFO) Found 1 pokemon to transfer...
+[21:38:37] (TRANSFER) Magikarp 104 V |   24 Cp | 77.00% | Lvl 04 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 55
+[21:38:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:38:45] (POKESTOP) Memorial at PGPR in 84.45 m distance
+[21:38:45] (NAVIGATION) Distance to target location: 84.45 meters. Will take 9.5 seconds driving at 32kmh
+[21:38:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:38:53] (INFO) Found 2 catchable Pokemon
+[21:38:55] (Wild Success) | Ekans 148 V |  148 Cp | 68.05% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
