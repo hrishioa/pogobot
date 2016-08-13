@@ -11193,3 +11193,10 @@
 [02:18:23] (NAVIGATION) Distance to target location: 270.31 meters. Will take 19.86 seconds driving at 49kmh
 [02:18:24] (INFO) Found 1 catchable Pokemon
 [02:18:26] (Wild Success) | Zubat 124 V |   88 Cp | 39.71% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
+[02:18:27] (INFO) Found 1 pokemon to transfer...
+[02:18:29] (TRANSFER) Zubat 124 V |   88 Cp | 39.71% | Lvl 06 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 607
+[02:18:42] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive, 2 x ItemRazzBerry, 1 x ItemGreatBall
+[02:18:44] (POKESTOP) Safety English Chess Table in 75.97 m distance
+[02:18:44] (NAVIGATION) Distance to target location: 75.97 meters. Will take 9.12 seconds driving at 30kmh
+[02:18:45] (INFO) Found 1 catchable Pokemon
+[02:18:47] (Wild Success) | Zubat 136 V |  194 Cp | 57.37% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 420
