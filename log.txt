@@ -2689,3 +2689,20 @@
 [21:31:40] (INFO) Found 2 catchable Pokemon
 [21:31:42] (Wild Success) | Clefairy 103 V |   46 Cp | 35.57% | Lvl 02 | Chance: 0.72 | with a PokeBall and received XP 210
 [21:31:43] (Wild Success) | Goldeen 94 V |   11 Cp | 20.59% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[21:31:45] (INFO) Found 2 pokemon to transfer...
+[21:31:47] (TRANSFER) Clefairy 103 V |   46 Cp | 35.57% | Lvl 02 | Best: [Clefairy 159 V |  362 Cp | 41.21% | Lvl 12] | Candy: 18
+[21:31:49] (TRANSFER) Goldeen 94 V |   11 Cp | 20.59% | Lvl 01 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 46
+[21:31:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 6 x ItemPokeBall, 1 x ItemRazzBerry
+[21:31:51] (POKESTOP) Journey to the West in 38.05 m distance
+[21:31:51] (NAVIGATION) Distance to target location: 38.05 meters. Will take 4.89 seconds driving at 28kmh
+[21:31:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[21:31:56] (POKESTOP) The Chicken Family in the Cave in 96.07 m distance
+[21:31:56] (NAVIGATION) Distance to target location: 96.07 meters. Will take 11.53 seconds driving at 30kmh
+[21:32:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:32:08] (POKESTOP) The Pig and Rat Family in 46.02 m distance
+[21:32:08] (NAVIGATION) Distance to target location: 46.02 meters. Will take 5.92 seconds driving at 28kmh
+[21:32:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:32:14] (POKESTOP) Ram and Snake in 155.38 m distance
+[21:32:14] (NAVIGATION) Distance to target location: 155.38 meters. Will take 18.04 seconds driving at 31kmh
+[21:32:24] (INFO) Found 1 catchable Pokemon
+[21:32:26] (Wild Success) | Goldeen 92 V |   84 Cp | 27.50% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
