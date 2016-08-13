@@ -5687,3 +5687,25 @@
 [23:18:07] (INFO) Found 2 catchable Pokemon
 [23:18:08] (Wild Success) | Staryu 158 V |  255 Cp | 80.25% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [23:18:11] (Wild Success) | Spearow 93 V |  114 Cp | 44.59% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:18:12] (INFO) Found 2 pokemon to transfer...
+[23:18:14] (TRANSFER) Staryu 152 V |  123 Cp | 90.20% | Lvl 05 | Best: [Staryu 158 V |  255 Cp | 80.25% | Lvl 10] | Candy: 58
+[23:18:16] (TRANSFER) Spearow 93 V |  114 Cp | 44.59% | Lvl 07 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 87
+[23:18:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:18:23] (INFO) Found 1 Recyclable Item:
+[23:18:24] (RECYCLING) PokeBall x 7
+[23:18:26] (POKESTOP) Sagittarius Jewels in 79.74 m distance
+[23:18:26] (NAVIGATION) Distance to target location: 79.74 meters. Will take 10.25 seconds driving at 28kmh
+[23:18:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:18:36] (POKESTOP) The Tarantula Nebula in 54.83 m distance
+[23:18:36] (NAVIGATION) Distance to target location: 54.83 meters. Will take 6.17 seconds driving at 32kmh
+[23:18:40] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemPotion
+[23:18:42] (POKESTOP) Raffles Museum in 95.7 m distance
+[23:18:42] (NAVIGATION) Distance to target location: 95.7 meters. Will take 10.77 seconds driving at 32kmh
+[23:18:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:18:52] (POKESTOP) Level 6 Art in 88.26 m distance
+[23:18:52] (NAVIGATION) Distance to target location: 88.26 meters. Will take 10.25 seconds driving at 31kmh
+[23:19:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:19:01] (POKESTOP) Portrait of Yong Loo Lin in 118.58 m distance
+[23:19:01] (NAVIGATION) Distance to target location: 118.58 meters. Will take 15.25 seconds driving at 28kmh
+[23:19:12] (INFO) Found 1 catchable Pokemon
+[23:19:14] (Wild Success) | Ekans 160 V |  250 Cp | 54.56% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
