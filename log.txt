@@ -1626,3 +1626,25 @@
 [20:55:46] (NAVIGATION) Distance to target location: 43.67 meters. Will take 5.24 seconds driving at 30kmh
 [20:55:47] (INFO) Found 1 catchable Pokemon
 [20:55:49] (Wild Success) | Pidgey 90 V |  159 Cp | 33.61% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[20:55:51] (INFO) Found 1 pokemon to transfer...
+[20:55:52] (TRANSFER) Pidgey 90 V |  159 Cp | 33.61% | Lvl 10 | Best: [Pidgey 118 V |  118 Cp | 61.06% | Lvl 07] | Candy: 104
+[20:55:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:55:56] (POKESTOP) Baby Hippo in 75.48 m distance
+[20:55:56] (NAVIGATION) Distance to target location: 75.48 meters. Will take 8.49 seconds driving at 32kmh
+[20:56:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[20:56:05] (POKESTOP) Animals Mural in 91.01 m distance
+[20:56:05] (NAVIGATION) Distance to target location: 91.01 meters. Will take 10.92 seconds driving at 30kmh
+[20:56:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[20:56:16] (POKESTOP) Tanglin Halt Food Centre in 58.79 m distance
+[20:56:16] (NAVIGATION) Distance to target location: 58.79 meters. Will take 7.05 seconds driving at 30kmh
+[20:56:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[20:56:22] (INFO) Found 3 Recyclable Items:
+[20:56:23] (RECYCLING) Revive x 2
+[20:56:23] (RECYCLING) RazzBerry x 1
+[20:56:24] (RECYCLING) PokeBall x 11
+[20:56:27] (POKESTOP) Tanglin Halt Community Plaza in 73.59 m distance
+[20:56:27] (NAVIGATION) Distance to target location: 73.59 meters. Will take 9.14 seconds driving at 29kmh
+[20:56:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:56:35] (INFO) Found 1 catchable Pokemon
+[20:56:36] (BERRY) ItemRazzBerry used, remaining: 49
+[20:56:37] (Wild Success) | Dodrio 154 V |  476 Cp | 46.00% | Lvl 10 | Chance: 0.18 | with a GreatBall and received XP 210
