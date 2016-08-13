@@ -18129,3 +18129,10 @@
 [06:15:41] (INFO) Found 1 catchable Pokemon
 [06:15:42] (BERRY) ItemRazzBerry used, remaining: 47
 [06:15:43] (Wild Success) | Zubat 151 V |  379 Cp | 63.32% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:15:45] (INFO) Found 1 pokemon to transfer...
+[06:15:47] (TRANSFER) Zubat 126 V |  279 Cp | 43.43% | Lvl 18 | Best: [Zubat 151 V |  379 Cp | 63.32% | Lvl 23] | Candy: 526
+[06:15:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemSuperPotion
+[06:15:50] (POKESTOP) Sun Moon Mural in 505.7 m distance
+[06:15:50] (NAVIGATION) Distance to target location: 505.7 meters. Will take 26.01 seconds driving at 70kmh
+[06:16:14] (INFO) Found 1 catchable Pokemon
+[06:16:16] (Wild Success) | Bellsprout 119 V |  293 Cp | 62.83% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
