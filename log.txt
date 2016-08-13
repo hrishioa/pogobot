@@ -19644,3 +19644,4 @@
 [07:02:56] (TRANSFER) Bellsprout 142 V |   77 Cp | 66.53% | Lvl 03 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 205
 [07:02:58] (INFO) Found 2 catchable Pokemon
 [07:02:59] (Wild Success) | Weedle 64 V |   10 Cp | 30.73% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[07:03:01] (Wild Success) | Magikarp 83 V |   47 Cp | 53.42% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
