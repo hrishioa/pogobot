@@ -12840,3 +12840,10 @@
 [03:11:35] (INFO) Found 2 catchable Pokemon
 [03:11:35] (Wild Flee) | Spearow 88 V |   77 Cp | 40.04% | Lvl 05 | Chance: 0.68 | with a PokeBall 
 [03:11:37] (Wild Success) | Metapod 72 V |   10 Cp | 16.36% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[03:11:39] (INFO) Found 1 pokemon to transfer...
+[03:11:41] (TRANSFER) Metapod 72 V |   10 Cp | 16.36% | Lvl 01 | Best: [NONE] | Candy: 126
+[03:11:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[03:11:51] (POKESTOP) West Coast Town Council Fitness Corner in 1251.85 m distance
+[03:11:51] (NAVIGATION) Distance to target location: 1251.85 meters. Will take 1.07 minutes driving at 70kmh
+[03:12:03] (INFO) Found 2 catchable Pokemon
+[03:12:04] (Wild Success) | Pidgey 104 V |  192 Cp | 35.36% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
