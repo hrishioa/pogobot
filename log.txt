@@ -2021,3 +2021,8 @@
 [21:10:27] (INFO) Found 2 catchable Pokemon
 [21:10:30] (Wild Success) | Zubat 142 V |  222 Cp | 75.29% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [21:10:32] (Wild Success) | Clefairy 141 V |  303 Cp | 44.25% | Lvl 10 | Chance: 0.28 | with a GreatBall and received XP 210
+[21:10:33] (INFO) Found 2 pokemon to transfer...
+[21:10:34] (TRANSFER) Zubat 142 V |  222 Cp | 75.29% | Lvl 13 | Best: [Zubat 171 V |  197 Cp | 91.11% | Lvl 11] | Candy: 160
+[21:10:37] (TRANSFER) Clefairy 96 V |   75 Cp | 25.82% | Lvl 03 | Best: [Clefairy 141 V |  303 Cp | 44.25% | Lvl 10] | Candy: 10
+[21:10:38] (INFO) Found 1 catchable Pokemon
+[21:10:40] (Wild Success) | Krabby 127 V |  196 Cp | 48.44% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
