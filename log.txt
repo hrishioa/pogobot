@@ -2997,3 +2997,23 @@
 [21:40:16] (NAVIGATION) Distance to target location: 157.12 meters. Will take 19.51 seconds driving at 29kmh
 [21:40:26] (INFO) Found 1 catchable Pokemon
 [21:40:28] (Wild Success) | Spearow 116 V |  197 Cp | 39.17% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[21:40:30] (INFO) Found 1 pokemon to transfer...
+[21:40:31] (TRANSFER) Spearow 116 V |  197 Cp | 39.17% | Lvl 12 | Best: [Spearow 139 V |  250 Cp | 67.47% | Lvl 14] | Candy: 79
+[21:40:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:40:35] (INFO) Found 3 Recyclable Items:
+[21:40:36] (RECYCLING) PokeBall x 14
+[21:40:37] (RECYCLING) Potion x 2
+[21:40:38] (RECYCLING) Revive x 1
+[21:40:41] (POKESTOP) Cornflakes Man in 79.96 m distance
+[21:40:41] (NAVIGATION) Distance to target location: 79.96 meters. Will take 9 seconds driving at 32kmh
+[21:40:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:40:50] (POKESTOP) Kopitiam - On the Ridge in 42.96 m distance
+[21:40:50] (NAVIGATION) Distance to target location: 42.96 meters. Will take 5.16 seconds driving at 30kmh
+[21:40:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemHyperPotion
+[21:40:55] (POKESTOP) The Well-Wishing Wishing Well in 47.81 m distance
+[21:40:55] (NAVIGATION) Distance to target location: 47.81 meters. Will take 5.38 seconds driving at 32kmh
+[21:41:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[21:41:01] (POKESTOP) KE7 Hall in 417.55 m distance
+[21:41:01] (NAVIGATION) Distance to target location: 417.55 meters. Will take 21.47 seconds driving at 70kmh
+[21:41:20] (INFO) Found 1 catchable Pokemon
+[21:41:22] (Wild Success) | Weedle 51 V |   24 Cp | 16.94% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
