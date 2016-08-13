@@ -6355,3 +6355,14 @@
 [23:40:09] (NAVIGATION) Distance to target location: 120.41 meters. Will take 14.95 seconds driving at 29kmh
 [23:40:19] (INFO) Found 2 catchable Pokemon
 [23:40:21] (Wild Success) | Rattata 96 V |   10 Cp | 27.90% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:40:22] (BERRY) ItemRazzBerry used, remaining: 49
+[23:40:23] (Wild Escape) | Golbat 203 V |  960 Cp | 51.59% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[23:40:24] (BERRY) ItemRazzBerry used, remaining: 48
+[23:40:24] (Wild Escape Attempt #2) | Golbat 203 V |  960 Cp | 51.59% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[23:40:25] (BERRY) ItemRazzBerry used, remaining: 47
+[23:40:26] (Wild Success Attempt #3) | Golbat 203 V |  960 Cp | 51.59% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[23:40:28] (INFO) Found 2 pokemon to transfer...
+[23:40:29] (TRANSFER) Rattata 96 V |   10 Cp | 27.90% | Lvl 01 | Best: [Rattata 144 V |  191 Cp | 60.34% | Lvl 13] | Candy: 101
+[23:40:31] (TRANSFER) Golbat 198 V |  725 Cp | 66.01% | Lvl 14 | Best: [Golbat 216 V |  697 Cp | 85.92% | Lvl 13] | Candy: 377
+[23:40:33] (INFO) Found 1 catchable Pokemon
+[23:40:34] (Wild Success) | Zubat 136 V |  264 Cp | 44.70% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
