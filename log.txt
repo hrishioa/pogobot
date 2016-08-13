@@ -17732,3 +17732,15 @@
 [06:01:57] (TRANSFER) Bellsprout 132 V |  588 Cp | 44.22% | Lvl 21 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 157
 [06:01:58] (INFO) Found 1 catchable Pokemon
 [06:01:59] (Wild Success) | Rattata 128 V |  112 Cp | 52.02% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[06:02:01] (INFO) Found 1 pokemon to transfer...
+[06:02:03] (TRANSFER) Rattata 128 V |  112 Cp | 52.02% | Lvl 08 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 421
+[06:02:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:02:09] (POKESTOP) Butterfly Mural in 651.24 m distance
+[06:02:09] (NAVIGATION) Distance to target location: 651.24 meters. Will take 33.49 seconds driving at 70kmh
+[06:02:31] (INFO) Found 1 catchable Pokemon
+[06:02:33] (Wild Escape) | Pidgey 99 V |  114 Cp | 47.86% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[06:02:34] (Wild Success Attempt #2) | Pidgey 99 V |  114 Cp | 47.86% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[06:02:35] (INFO) Found 1 pokemon to transfer...
+[06:02:37] (TRANSFER) Pidgey 99 V |  114 Cp | 47.86% | Lvl 07 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 776
+[06:02:38] (INFO) Found 2 catchable Pokemon
+[06:02:40] (Wild Success) | Slowpoke 141 V |  420 Cp | 33.79% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
