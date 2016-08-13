@@ -1359,3 +1359,8 @@
 [20:46:57] (NAVIGATION) Distance to target location: 101.61 meters. Will take 11.8 seconds driving at 31kmh
 [20:47:04] (INFO) Found 1 catchable Pokemon
 [20:47:05] (Wild Success) | Jynx 111 V |  205 Cp | 34.20% | Lvl 05 | Chance: 0.41 | with a PokeBall and received XP 210
+[20:47:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[20:47:11] (POKESTOP) Kent Ridge Heritage Trail in 112.2 m distance
+[20:47:11] (NAVIGATION) Distance to target location: 112.2 meters. Will take 13.46 seconds driving at 30kmh
+[20:47:18] (INFO) Found 1 catchable Pokemon
+[20:47:20] (Wild Success) | Zubat 110 V |  140 Cp | 46.25% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
