@@ -17833,3 +17833,6 @@
 [06:05:44] (TRANSFER) Weedle 101 V |  130 Cp | 33.18% | Lvl 13 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 369
 [06:05:46] (INFO) Found 1 catchable Pokemon
 [06:05:47] (Wild Success) | Zubat 139 V |  271 Cp | 52.10% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[06:05:53] (INFO) Found 2 catchable Pokemon
+[06:05:54] (BERRY) ItemRazzBerry used, remaining: 49
+[06:05:55] (Wild Success) | NidoranMale 132 V |  446 Cp | 35.17% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
