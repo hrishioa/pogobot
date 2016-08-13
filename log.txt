@@ -12665,3 +12665,4 @@
 [03:04:42] (NAVIGATION) Distance to target location: 172.36 meters. Will take 19.39 seconds driving at 32kmh
 [03:04:53] (INFO) Found 2 catchable Pokemon
 [03:04:54] (Wild Success) | Oddish 149 V |  351 Cp | 49.07% | Lvl 12 | Chance: 0.51 | with a GreatBall and received XP 210
+[03:04:56] (Wild Success) | Magikarp 75 V |   27 Cp | 46.73% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
