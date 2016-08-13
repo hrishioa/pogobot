@@ -10616,3 +10616,18 @@
 [02:00:51] (TRANSFER) Weedle 109 V |  164 Cp | 37.78% | Lvl 16 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 140
 [02:00:52] (INFO) Found 1 catchable Pokemon
 [02:00:54] (Wild Success) | Pidgey 122 V |  340 Cp | 38.43% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[02:00:55] (INFO) Found 1 pokemon to transfer...
+[02:00:57] (TRANSFER) Pidgey 122 V |  340 Cp | 38.43% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 468
+[02:00:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:01:01] (POKESTOP) Tiled Falls in 30.11 m distance
+[02:01:01] (NAVIGATION) Distance to target location: 30.11 meters. Will take 3.5 seconds driving at 31kmh
+[02:01:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:01:04] (INFO) Found 4 Recyclable Items:
+[02:01:04] (RECYCLING) RazzBerry x 2
+[02:01:05] (RECYCLING) PokeBall x 6
+[02:01:06] (RECYCLING) SuperPotion x 1
+[02:01:07] (RECYCLING) Revive x 1
+[02:01:10] (POKESTOP) NUS 1962-1980 in 82.63 m distance
+[02:01:10] (NAVIGATION) Distance to target location: 82.63 meters. Will take 10.62 seconds driving at 28kmh
+[02:01:16] (INFO) Found 1 catchable Pokemon
+[02:01:18] (Wild Success) | Bulbasaur 113 V |   13 Cp | 46.80% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 210
