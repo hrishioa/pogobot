@@ -7808,3 +7808,10 @@
 [00:27:41] (TRANSFER) Dodrio 111 V |   73 Cp | 39.48% | Lvl 02 | Best: [Dodrio 215 V |  742 Cp | 66.22% | Lvl 15] | Candy: 33
 [00:27:42] (INFO) Found 1 catchable Pokemon
 [00:27:44] (Wild Success) | Staryu 152 V |  434 Cp | 59.32% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[00:27:46] (INFO) Found 1 pokemon to transfer...
+[00:27:47] (TRANSFER) Staryu 152 V |  434 Cp | 59.32% | Lvl 18 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 82
+[00:27:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:27:50] (POKESTOP) SUTD Blue Wall Mural in 660 m distance
+[00:27:50] (NAVIGATION) Distance to target location: 660 meters. Will take 33.94 seconds driving at 70kmh
+[00:28:09] (INFO) Found 2 catchable Pokemon
+[00:28:11] (Wild Success) | Caterpie 100 V |  128 Cp | 32.28% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
