@@ -17792,3 +17792,20 @@
 [06:04:13] (NAVIGATION) Distance to target location: 80.98 meters. Will take 10.41 seconds driving at 28kmh
 [06:04:19] (INFO) Found 1 catchable Pokemon
 [06:04:21] (Wild Success) | Rattata 144 V |  249 Cp | 59.44% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[06:04:23] (INFO) Found 1 pokemon to transfer...
+[06:04:24] (TRANSFER) Rattata 144 V |  249 Cp | 59.44% | Lvl 17 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 433
+[06:04:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[06:04:27] (INFO) Found 5 Recyclable Items:
+[06:04:29] (RECYCLING) RazzBerry x 2
+[06:04:30] (RECYCLING) PokeBall x 3
+[06:04:31] (RECYCLING) Potion x 4
+[06:04:32] (RECYCLING) SuperPotion x 2
+[06:04:34] (RECYCLING) Revive x 2
+[06:04:35] (POKESTOP) Mythical Creature Mural in 60.97 m distance
+[06:04:35] (NAVIGATION) Distance to target location: 60.97 meters. Will take 6.86 seconds driving at 32kmh
+[06:04:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:04:43] (POKESTOP) West Coast Playground in 67.67 m distance
+[06:04:43] (NAVIGATION) Distance to target location: 67.67 meters. Will take 8.12 seconds driving at 30kmh
+[06:04:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[06:04:49] (INFO) Found 1 catchable Pokemon
+[06:04:51] (Wild Success) | Pidgey 118 V |  292 Cp | 38.60% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
