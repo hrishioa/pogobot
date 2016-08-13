@@ -2494,3 +2494,14 @@
 [21:26:23] (Wild Success) | Jynx 92 V |  111 Cp | 26.28% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
 [21:26:25] (Wild Success) | Jynx 107 V |  162 Cp | 46.19% | Lvl 04 | Chance: 0.46 | with a GreatBall and received XP 210
 [21:26:27] (Wild Success) | Krabby 147 V |  212 Cp | 75.67% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[21:26:29] (INFO) Found 3 pokemon to transfer...
+[21:26:30] (TRANSFER) Krabby 127 V |  140 Cp | 63.38% | Lvl 07 | Best: [Krabby 147 V |  212 Cp | 75.67% | Lvl 10] | Candy: 38
+[21:26:33] (TRANSFER) Jynx 107 V |  162 Cp | 46.19% | Lvl 04 | Best: [Jynx 144 V |  259 Cp | 50.77% | Lvl 06] | Candy: 17
+[21:26:35] (TRANSFER) Jynx 92 V |  111 Cp | 26.28% | Lvl 03 | Best: [Jynx 144 V |  259 Cp | 50.77% | Lvl 06] | Candy: 18
+[21:26:36] (POKESTOP) Kent Ridge Park  in 89.15 m distance
+[21:26:36] (NAVIGATION) Distance to target location: 89.15 meters. Will take 11.46 seconds driving at 28kmh
+[21:26:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:26:47] (POKESTOP) Look out point at Kent Ridge Park in 70.34 m distance
+[21:26:47] (NAVIGATION) Distance to target location: 70.34 meters. Will take 7.91 seconds driving at 32kmh
+[21:26:50] (INFO) Found 2 catchable Pokemon
+[21:26:52] (Wild Success) | Zubat 147 V |  168 Cp | 69.94% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
