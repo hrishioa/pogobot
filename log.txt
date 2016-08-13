@@ -7794,3 +7794,4 @@
 [00:27:08] (INFO) Found 2 catchable Pokemon
 [00:27:09] (BERRY) ItemRazzBerry used, remaining: 50
 [00:27:10] (Wild Success) | Bulbasaur 118 V |  417 Cp | 9.16% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
+[00:27:12] (Wild Success) | Goldeen 77 V |  105 Cp | 18.24% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
