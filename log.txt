@@ -9795,3 +9795,8 @@
 [01:37:00] (INFO) Found 1 catchable Pokemon
 [01:37:01] (BERRY) ItemRazzBerry used, remaining: 49
 [01:37:02] (Wild Success) | Staryu 150 V |  451 Cp | 52.74% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[01:37:03] (INFO) Found 1 pokemon to transfer...
+[01:37:04] (TRANSFER) Staryu 150 V |  451 Cp | 52.74% | Lvl 19 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 102
+[01:37:13] (INFO) Found 1 catchable Pokemon
+[01:37:14] (BERRY) ItemRazzBerry used, remaining: 48
+[01:37:15] (Wild Success) | Bulbasaur 174 V |  480 Cp | 40.91% | Lvl 18 | Chance: 0.14 | with a GreatBall and received XP 210
