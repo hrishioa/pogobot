@@ -5672,3 +5672,10 @@
 [23:17:19] (TRANSFER) Pinsir 185 V |  891 Cp | 48.83% | Lvl 16 | Best: [Pinsir 211 V |  705 Cp | 81.05% | Lvl 12] | Candy: 14
 [23:17:20] (INFO) Found 1 catchable Pokemon
 [23:17:22] (Wild Success) | Poliwag 109 V |  113 Cp | 45.51% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[23:17:24] (INFO) Found 1 pokemon to transfer...
+[23:17:25] (TRANSFER) Poliwag 109 V |  113 Cp | 45.51% | Lvl 06 | Best: [Poliwag 146 V |  271 Cp | 67.50% | Lvl 13] | Candy: 33
+[23:17:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemHyperPotion
+[23:17:29] (POKESTOP) Scientific Exhibit #1 at Level 6 in 667.66 m distance
+[23:17:29] (NAVIGATION) Distance to target location: 667.66 meters. Will take 34.34 seconds driving at 70kmh
+[23:17:54] (INFO) Found 1 catchable Pokemon
+[23:17:55] (Wild Success) | Poliwag 147 V |  359 Cp | 51.63% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
