@@ -4130,3 +4130,12 @@
 [22:21:21] (INFO) Found 2 catchable Pokemon
 [22:21:23] (Wild Success) | Psyduck 91 V |  329 Cp | 5.58% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [22:21:25] (Wild Success) | Magikarp 85 V |   47 Cp | 54.92% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
+[22:21:27] (INFO) Found 2 pokemon to transfer...
+[22:21:28] (TRANSFER) Magikarp 85 V |   47 Cp | 54.92% | Lvl 08 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 74
+[22:21:30] (TRANSFER) Psyduck 91 V |  329 Cp | 5.58% | Lvl 13 | Best: [Psyduck 142 V |  304 Cp | 40.14% | Lvl 11] | Candy: 38
+[22:21:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[22:21:35] (POKESTOP) Kent Ridge Park Near Normanton Park in 51.44 m distance
+[22:21:35] (NAVIGATION) Distance to target location: 51.44 meters. Will take 5.79 seconds driving at 32kmh
+[22:21:38] (INFO) Found 1 catchable Pokemon
+[22:21:39] (BERRY) ItemRazzBerry used, remaining: 51
+[22:21:40] (Wild Success) | Jynx 140 V |  480 Cp | 37.47% | Lvl 11 | Chance: 0.27 | with a GreatBall and received XP 210
