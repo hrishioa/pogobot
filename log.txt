@@ -9686,3 +9686,12 @@
 [01:31:55] (NAVIGATION) Distance to target location: 469.72 meters. Will take 24.16 seconds driving at 70kmh
 [01:32:18] (INFO) Found 1 catchable Pokemon
 [01:32:20] (Wild Success) | Zubat 122 V |  188 Cp | 47.67% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:32:22] (INFO) Found 1 pokemon to transfer...
+[01:32:23] (TRANSFER) Zubat 122 V |  188 Cp | 47.67% | Lvl 12 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 545
+[01:32:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemGreatBall
+[01:32:25] (INFO) Found 1 Recyclable Item:
+[01:32:26] (RECYCLING) PokeBall x 3
+[01:32:29] (POKESTOP) KE7 Hall in 591.32 m distance
+[01:32:29] (NAVIGATION) Distance to target location: 591.32 meters. Will take 30.41 seconds driving at 70kmh
+[01:32:52] (INFO) Found 1 catchable Pokemon
+[01:32:53] (Wild Success) | Magikarp 102 V |  121 Cp | 65.12% | Lvl 19 | Chance: 0.48 | with a GreatBall and received XP 210
