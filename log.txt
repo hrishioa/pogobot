@@ -20622,3 +20622,30 @@
 [07:34:58] (NAVIGATION) Distance to target location: 188.39 meters. Will take 19.95 seconds driving at 34kmh
 [07:35:08] (INFO) Found 1 catchable Pokemon
 [07:35:09] (Wild Success) | Rattata 125 V |  113 Cp | 53.73% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[07:35:11] (INFO) Found 1 pokemon to transfer...
+[07:35:13] (TRANSFER) Rattata 125 V |  113 Cp | 53.73% | Lvl 08 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 573
+[07:35:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:35:22] (POKESTOP) Chilling Area in 140.17 m distance
+[07:35:22] (NAVIGATION) Distance to target location: 140.17 meters. Will take 17.4 seconds driving at 29kmh
+[07:35:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall
+[07:35:39] (POKESTOP) Jungle Walkpath in 59.27 m distance
+[07:35:39] (NAVIGATION) Distance to target location: 59.27 meters. Will take 7.62 seconds driving at 28kmh
+[07:35:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemSuperPotion
+[07:35:47] (POKESTOP) Syzygium Campanulatum in 540.68 m distance
+[07:35:47] (NAVIGATION) Distance to target location: 540.68 meters. Will take 27.81 seconds driving at 70kmh
+[07:36:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:36:16] (INFO) Found 4 Recyclable Items:
+[07:36:16] (RECYCLING) RazzBerry x 1
+[07:36:17] (RECYCLING) PokeBall x 12
+[07:36:18] (RECYCLING) SuperPotion x 2
+[07:36:19] (RECYCLING) Revive x 2
+[07:36:23] (POKESTOP) Playground at Block 714 in 66.1 m distance
+[07:36:23] (NAVIGATION) Distance to target location: 66.1 meters. Will take 7.93 seconds driving at 30kmh
+[07:36:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 2 x ItemPokeBall
+[07:36:30] (POKESTOP) The Mermaid Mural in 36.54 m distance
+[07:36:30] (NAVIGATION) Distance to target location: 36.54 meters. Will take 4.54 seconds driving at 29kmh
+[07:36:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:36:35] (POKESTOP) Three Portals Make A Field in 172.86 m distance
+[07:36:35] (NAVIGATION) Distance to target location: 172.86 meters. Will take 19.45 seconds driving at 32kmh
+[07:36:50] (INFO) Found 2 catchable Pokemon
+[07:36:51] (Wild Success) | Paras 128 V |  199 Cp | 38.21% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
