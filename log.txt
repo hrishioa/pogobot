@@ -9928,3 +9928,16 @@
 [01:39:15] (TRANSFER) Caterpie 100 V |  128 Cp | 32.28% | Lvl 13 | Best: [Caterpie 106 V |  141 Cp | 37.38% | Lvl 14] | Candy: 94
 [01:39:16] (INFO) Found 1 catchable Pokemon
 [01:39:18] (Wild Success) | Zubat 155 V |  333 Cp | 66.87% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[01:39:19] (INFO) Found 1 pokemon to transfer...
+[01:39:20] (TRANSFER) Zubat 155 V |  333 Cp | 66.87% | Lvl 20 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 553
+[01:39:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[01:39:24] (INFO) Found 4 Recyclable Items:
+[01:39:24] (RECYCLING) PokeBall x 2
+[01:39:25] (RECYCLING) Potion x 1
+[01:39:26] (RECYCLING) SuperPotion x 1
+[01:39:27] (RECYCLING) Revive x 1
+[01:39:30] (POKESTOP) Alice Lee Plaza in 59.25 m distance
+[01:39:30] (NAVIGATION) Distance to target location: 59.25 meters. Will take 6.67 seconds driving at 32kmh
+[01:39:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:39:37] (INFO) Found 1 catchable Pokemon
+[01:39:38] (Wild Success) | Weedle 62 V |   75 Cp | 21.98% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
