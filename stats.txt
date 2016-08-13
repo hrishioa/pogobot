@@ -1,41 +1,41 @@
 Stats:
-[02:04:30] Name: toonistic2
-[02:04:30] Team: Neutral
-[02:04:30] Level: 21 (LvLUp in 0h 0m | 49155/75000 XP)
-[02:04:30] Pokemon: 102
-[02:04:30] Stardust: 88899
-[02:04:30] ====== Items (348) ======
-[02:04:30] RazzBerry x 50
-[02:04:30] PokeBall x 53
-[02:04:30] GreatBall x 35
-[02:04:30] UltraBall x 11
-[02:04:30] Potion x 32
-[02:04:30] SuperPotion x 50
-[02:04:30] HyperPotion x 76
-[02:04:30] IncubatorBasicUnlimited x 1
-[02:04:30] IncubatorBasic x 3
-[02:04:30] Revive x 26
-[02:04:30] IncenseOrdinary x 6
-[02:04:30] LuckyEgg x 2
-[02:04:30] TroyDisk x 3
+[02:21:13] Name: toonistic2
+[02:21:13] Team: Neutral
+[02:21:13] Level: 21 (LvLUp in 0h 0m | 66105/75000 XP)
+[02:21:13] Pokemon: 102
+[02:21:13] Stardust: 91799
+[02:21:13] ====== Items (335) ======
+[02:21:13] RazzBerry x 48
+[02:21:13] PokeBall x 49
+[02:21:13] GreatBall x 33
+[02:21:13] UltraBall x 11
+[02:21:13] Potion x 30
+[02:21:13] SuperPotion x 50
+[02:21:13] HyperPotion x 75
+[02:21:13] IncubatorBasicUnlimited x 1
+[02:21:13] IncubatorBasic x 3
+[02:21:13] Revive x 25
+[02:21:13] IncenseOrdinary x 6
+[02:21:13] LuckyEgg x 1
+[02:21:13] TroyDisk x 3
 
-[02:14:31] Golbat              219 True Value |  977 Cp | 61.50% Perfect | Lvl 19 | WingAttack/AirCutter
-[02:14:31] Dodrio              213 True Value |  929 Cp | 60.00% Perfect | Lvl 19 | FeintAttack/AirCutter
-[02:14:31] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
-[02:14:31] Pidgeot             213 True Value |  894 Cp | 58.97% Perfect | Lvl 16 | SteelWing/AirCutter
-[02:14:31] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
-[02:14:31] Pinsir              222 True Value |  874 Cp | 75.46% Perfect | Lvl 15 | FuryCutter/Submission
-[02:14:31] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
-[02:14:31] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
-[02:14:31] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
-[02:14:31] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
-[02:14:31] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
-[02:14:31] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
-[02:14:31] Pidgeotto           142 True Value |  595 Cp | 26.99% Perfect | Lvl 20 | SteelWing/Twister
-[02:14:31] Eevee               181 True Value |  590 Cp | 59.89% Perfect | Lvl 21 | QuickAttack/BodySlam
-[02:14:31] Clefairy            152 True Value |  589 Cp | 53.39% Perfect | Lvl 19 | Pound/DisarmingVoice
-[02:14:31] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
-[02:14:31] Jynx                157 True Value |  535 Cp | 47.85% Perfect | Lvl 12 | FrostBreath/DrainingKiss
-[02:14:32] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
-[02:14:32] Exeggcute           180 True Value |  494 Cp | 65.57% Perfect | Lvl 17 | Confusion/SeedBomb
-[02:14:32] Bellsprout          182 True Value |  485 Cp | 51.98% Perfect | Lvl 17 | VineWhip/PowerWhip
+[02:21:14] Golbat              219 True Value |  977 Cp | 61.50% Perfect | Lvl 19 | WingAttack/AirCutter
+[02:21:14] Dodrio              213 True Value |  929 Cp | 60.00% Perfect | Lvl 19 | FeintAttack/AirCutter
+[02:21:14] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[02:21:14] Pidgeot             213 True Value |  894 Cp | 58.97% Perfect | Lvl 16 | SteelWing/AirCutter
+[02:21:14] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[02:21:14] Pinsir              222 True Value |  874 Cp | 75.46% Perfect | Lvl 15 | FuryCutter/Submission
+[02:21:14] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[02:21:14] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[02:21:14] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[02:21:14] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[02:21:14] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
+[02:21:14] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[02:21:14] Clefairy            166 True Value |  600 Cp | 19.05% Perfect | Lvl 21 | ZenHeadbutt/Moonblast
+[02:21:14] Pidgeotto           142 True Value |  595 Cp | 26.99% Perfect | Lvl 20 | SteelWing/Twister
+[02:21:14] Eevee               181 True Value |  590 Cp | 59.89% Perfect | Lvl 21 | QuickAttack/BodySlam
+[02:21:14] Venonat             189 True Value |  582 Cp | 74.06% Perfect | Lvl 21 | Confusion/Psybeam
+[02:21:14] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
+[02:21:14] Jynx                157 True Value |  535 Cp | 47.85% Perfect | Lvl 12 | FrostBreath/DrainingKiss
+[02:21:14] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[02:21:14] Clefairy            188 True Value |  499 Cp | 56.46% Perfect | Lvl 16 | ZenHeadbutt/BodySlam
