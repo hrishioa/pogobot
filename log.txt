@@ -7507,3 +7507,11 @@
 [00:17:40] (INFO) Found 1 catchable Pokemon
 [00:17:41] (BERRY) ItemRazzBerry used, remaining: 49
 [00:17:42] (Wild Success) | Pinsir 222 V |  874 Cp | 75.46% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 210
+[00:17:44] (INFO) Found 1 pokemon to transfer...
+[00:17:45] (TRANSFER) Pinsir 211 V |  705 Cp | 81.05% | Lvl 12 | Best: [Pinsir 228 V |  880 Cp | 79.76% | Lvl 15] | Candy: 26
+[00:17:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[00:17:50] (POKESTOP) Sheltered Mural in 78.62 m distance
+[00:17:50] (NAVIGATION) Distance to target location: 78.62 meters. Will take 9.43 seconds driving at 30kmh
+[00:17:58] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, 2 x ItemPotion, 1 x ItemSuperPotion, 1 x ItemGreatBall
+[00:17:59] (INFO) Found 1 catchable Pokemon
+[00:18:01] (Wild Success) | Weedle 92 V |  167 Cp | 43.02% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
