@@ -9080,3 +9080,27 @@
 [01:12:54] (NAVIGATION) Distance to target location: 85.09 meters. Will take 10.21 seconds driving at 30kmh
 [01:13:00] (INFO) Found 1 catchable Pokemon
 [01:13:01] (Wild Success) | Paras 139 V |   89 Cp | 70.48% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
+[01:13:03] (INFO) Found 1 pokemon to transfer...
+[01:13:04] (TRANSFER) Paras 139 V |   89 Cp | 70.48% | Lvl 04 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 44
+[01:13:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:13:09] (POKESTOP) Hippocratic Oath in 71.87 m distance
+[01:13:09] (NAVIGATION) Distance to target location: 71.87 meters. Will take 8.62 seconds driving at 30kmh
+[01:13:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemGreatBall
+[01:13:16] (INFO) Found 2 Recyclable Items:
+[01:13:17] (RECYCLING) PokeBall x 7
+[01:13:17] (RECYCLING) Potion x 2
+[01:13:21] (POKESTOP) Owl Statue in 93.1 m distance
+[01:13:21] (NAVIGATION) Distance to target location: 93.1 meters. Will take 11.17 seconds driving at 30kmh
+[01:13:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[01:13:31] (POKESTOP) NUS Faculty of Dentistry in 101.98 m distance
+[01:13:31] (NAVIGATION) Distance to target location: 101.98 meters. Will take 12.66 seconds driving at 29kmh
+[01:13:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[01:13:44] (POKESTOP) Faculty of Dentistry in 75.94 m distance
+[01:13:44] (NAVIGATION) Distance to target location: 75.94 meters. Will take 8.54 seconds driving at 32kmh
+[01:13:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemSuperPotion, 1 x ItemGreatBall
+[01:13:52] (ATTENTION) No locations in your area...
+[01:13:57] (INFO) Found 69 Pokestops
+[01:13:58] (POKESTOP) Sagittarius Jewels in 143.87 m distance
+[01:13:58] (NAVIGATION) Distance to target location: 143.87 meters. Will take 16.19 seconds driving at 32kmh
+[01:14:03] (INFO) Found 1 catchable Pokemon
+[01:14:05] (Wild Success) | Spearow 107 V |  180 Cp | 39.11% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
