@@ -952,3 +952,23 @@
 [20:34:13] (INFO) Found 2 catchable Pokemon
 [20:34:14] (Wild Success) | Meowth 135 V |   93 Cp | 66.13% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 710
 [20:34:16] (Wild Success) | Krabby 110 V |   73 Cp | 55.99% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:34:18] (INFO) Found 1 pokemon to transfer...
+[20:34:19] (TRANSFER) Krabby 110 V |   73 Cp | 55.99% | Lvl 04 | Best: [Krabby 127 V |  118 Cp | 64.57% | Lvl 06] | Candy: 22
+[20:34:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPotion, 1 x ItemRazzBerry
+[20:34:24] (POKESTOP) NUHS Tower Block in 65.75 m distance
+[20:34:24] (NAVIGATION) Distance to target location: 65.75 meters. Will take 7.89 seconds driving at 30kmh
+[20:34:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall
+[20:34:31] (POKESTOP) Kent Ridge Heritage Trail Pgp Entrance  in 76.06 m distance
+[20:34:31] (NAVIGATION) Distance to target location: 76.06 meters. Will take 8.83 seconds driving at 31kmh
+[20:34:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:34:38] (INFO) Found 3 Recyclable Items:
+[20:34:40] (RECYCLING) Revive x 1
+[20:34:40] (RECYCLING) PokeBall x 10
+[20:34:41] (RECYCLING) Potion x 2
+[20:34:44] (POKESTOP) Pgp eCanteen in 144.07 m distance
+[20:34:44] (NAVIGATION) Distance to target location: 144.07 meters. Will take 17.88 seconds driving at 29kmh
+[20:35:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[20:35:03] (POKESTOP) Memorial at PGPR in 109.51 m distance
+[20:35:03] (NAVIGATION) Distance to target location: 109.51 meters. Will take 12.72 seconds driving at 31kmh
+[20:35:11] (INFO) Found 2 catchable Pokemon
+[20:35:13] (Wild Success) | Pidgey 66 V |   22 Cp | 8.75% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
