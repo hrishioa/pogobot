@@ -19905,3 +19905,22 @@
 [07:11:06] (INFO) Found 2 catchable Pokemon
 [07:11:08] (Wild Success) | Weedle 65 V |  203 Cp | 13.44% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
 [07:11:10] (Wild Success) | Bellsprout 124 V |  112 Cp | 84.06% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[07:11:11] (INFO) Found 2 pokemon to transfer...
+[07:11:13] (TRANSFER) Weedle 65 V |  203 Cp | 13.44% | Lvl 22 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 416
+[07:11:15] (TRANSFER) Bellsprout 124 V |  112 Cp | 84.06% | Lvl 04 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 225
+[07:11:21] (POKESTOP) Clementi Woods Park in 132.18 m distance
+[07:11:21] (NAVIGATION) Distance to target location: 132.18 meters. Will take 16.41 seconds driving at 29kmh
+[07:11:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:11:37] (POKESTOP) West Coast Park Connector in 70.93 m distance
+[07:11:37] (NAVIGATION) Distance to target location: 70.93 meters. Will take 8.8 seconds driving at 29kmh
+[07:11:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:11:46] (POKESTOP) Clementi Bible Center in 53.55 m distance
+[07:11:46] (NAVIGATION) Distance to target location: 53.55 meters. Will take 6.88 seconds driving at 28kmh
+[07:11:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[07:11:53] (POKESTOP) West Coast Community Centre in 70.47 m distance
+[07:11:53] (NAVIGATION) Distance to target location: 70.47 meters. Will take 7.93 seconds driving at 32kmh
+[07:12:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:12:01] (POKESTOP) Wu Tai Shan  in 101.07 m distance
+[07:12:01] (NAVIGATION) Distance to target location: 101.07 meters. Will take 12.55 seconds driving at 29kmh
+[07:12:03] (INFO) Found 1 catchable Pokemon
+[07:12:05] (Wild Success) | Weedle 80 V |   25 Cp | 22.96% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
