@@ -2493,3 +2493,4 @@
 [21:26:22] (INFO) Found 3 catchable Pokemon
 [21:26:23] (Wild Success) | Jynx 92 V |  111 Cp | 26.28% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
 [21:26:25] (Wild Success) | Jynx 107 V |  162 Cp | 46.19% | Lvl 04 | Chance: 0.46 | with a GreatBall and received XP 210
+[21:26:27] (Wild Success) | Krabby 147 V |  212 Cp | 75.67% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
