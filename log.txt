@@ -1186,3 +1186,25 @@
 [20:42:39] (TRANSFER) Weedle 86 V |   72 Cp | 46.87% | Lvl 07 | Best: [Weedle 112 V |   84 Cp | 48.53% | Lvl 08] | Candy: 42
 [20:42:40] (INFO) Found 1 catchable Pokemon
 [20:42:42] (Wild Success) | Weedle 103 V |   60 Cp | 41.83% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[20:42:43] (INFO) Found 1 pokemon to transfer...
+[20:42:44] (TRANSFER) Weedle 87 V |  105 Cp | 21.97% | Lvl 11 | Best: [Weedle 112 V |   84 Cp | 48.53% | Lvl 08] | Candy: 46
+[20:42:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:42:48] (INFO) Found 4 Recyclable Items:
+[20:42:48] (RECYCLING) Revive x 2
+[20:42:49] (RECYCLING) RazzBerry x 2
+[20:42:50] (RECYCLING) PokeBall x 10
+[20:42:51] (RECYCLING) Potion x 3
+[20:42:53] (POKESTOP) GIIS Mural in 150.99 m distance
+[20:42:53] (NAVIGATION) Distance to target location: 150.99 meters. Will take 18.12 seconds driving at 30kmh
+[20:43:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:43:11] (POKESTOP) Masjid Hang Jebat in 328.97 m distance
+[20:43:11] (NAVIGATION) Distance to target location: 328.97 meters. Will take 19.74 seconds driving at 60kmh
+[20:43:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[20:43:33] (POKESTOP) Heritage Tree - Rain Tree (Samanea Saman) in 229.65 m distance
+[20:43:33] (NAVIGATION) Distance to target location: 229.65 meters. Will take 19.68 seconds driving at 42kmh
+[20:43:39] (INFO) Found 6 catchable Pokemon
+[20:43:40] (BERRY) ItemRazzBerry used, remaining: 50
+[20:43:40] (Wild Escape) | Golbat 172 V |  360 Cp | 75.74% | Lvl 07 | Chance: 0.22 | with a PokeBall 
+[20:43:41] (BERRY) ItemRazzBerry used, remaining: 49
+[20:43:42] (Wild Success Attempt #2) | Golbat 172 V |  360 Cp | 75.74% | Lvl 07 | Chance: 0.22 | with a PokeBall 
+[20:43:44] (Wild Success) | Clefairy 123 V |   76 Cp | 28.37% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
