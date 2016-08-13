@@ -1648,3 +1648,10 @@
 [20:56:35] (INFO) Found 1 catchable Pokemon
 [20:56:36] (BERRY) ItemRazzBerry used, remaining: 49
 [20:56:37] (Wild Success) | Dodrio 154 V |  476 Cp | 46.00% | Lvl 10 | Chance: 0.18 | with a GreatBall and received XP 210
+[20:56:38] (INFO) Found 1 pokemon to transfer...
+[20:56:40] (TRANSFER) Dodrio 145 V |  231 Cp | 62.37% | Lvl 05 | Best: [Dodrio 154 V |  476 Cp | 46.00% | Lvl 10] | Candy: 13
+[20:56:41] (POKESTOP) Abstract Art Slide in 86.37 m distance
+[20:56:41] (NAVIGATION) Distance to target location: 86.37 meters. Will take 9.72 seconds driving at 32kmh
+[20:56:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[20:56:49] (INFO) Found 1 catchable Pokemon
+[20:56:51] (Wild Success) | Pidgey 91 V |   58 Cp | 34.82% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
