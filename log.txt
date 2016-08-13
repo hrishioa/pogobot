@@ -21285,3 +21285,32 @@
 [07:55:56] (Wild Success) | Spearow 84 V |  262 Cp | 20.71% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
 [07:55:57] (Wild Success) | Zubat 159 V |  302 Cp | 68.67% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
 [07:55:59] (Wild Success) | Zubat 125 V |  226 Cp | 56.55% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[07:56:01] (INFO) Found 3 pokemon to transfer...
+[07:56:03] (TRANSFER) Spearow 84 V |  262 Cp | 20.71% | Lvl 17 | Best: [Spearow 147 V |  311 Cp | 55.82% | Lvl 18] | Candy: 277
+[07:56:04] (TRANSFER) Zubat 159 V |  302 Cp | 68.67% | Lvl 18 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 641
+[07:56:07] (TRANSFER) Zubat 125 V |  226 Cp | 56.55% | Lvl 14 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 642
+[07:56:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:56:10] (POKESTOP) Painted Glass Soccer Pane in 51.25 m distance
+[07:56:10] (NAVIGATION) Distance to target location: 51.25 meters. Will take 5.95 seconds driving at 31kmh
+[07:56:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[07:56:16] (POKESTOP) A Spring Of Gratitude  in 72.76 m distance
+[07:56:16] (NAVIGATION) Distance to target location: 72.76 meters. Will take 8.73 seconds driving at 30kmh
+[07:56:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:56:25] (POKESTOP) Catherine's Healing Garden in 55.58 m distance
+[07:56:25] (NAVIGATION) Distance to target location: 55.58 meters. Will take 7.15 seconds driving at 28kmh
+[07:56:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[07:56:31] (INFO) Found 4 Recyclable Items:
+[07:56:31] (RECYCLING) RazzBerry x 1
+[07:56:32] (RECYCLING) PokeBall x 10
+[07:56:33] (RECYCLING) Potion x 1
+[07:56:34] (RECYCLING) Revive x 2
+[07:56:36] (POKESTOP) NUS Ridge View Residences Plaque in 80.91 m distance
+[07:56:36] (NAVIGATION) Distance to target location: 80.91 meters. Will take 10.04 seconds driving at 29kmh
+[07:56:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 3 x ItemPokeBall
+[07:56:46] (POKESTOP) Survival (Rocker) in 70.08 m distance
+[07:56:46] (NAVIGATION) Distance to target location: 70.08 meters. Will take 7.88 seconds driving at 32kmh
+[07:56:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 4 x ItemPokeBall
+[07:56:53] (POKESTOP) Saying By The Founder in 162.51 m distance
+[07:56:53] (NAVIGATION) Distance to target location: 162.51 meters. Will take 18.28 seconds driving at 32kmh
+[07:57:02] (INFO) Found 2 catchable Pokemon
+[07:57:04] (Wild Success) | Zubat 102 V |   73 Cp | 44.78% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
