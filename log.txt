@@ -17054,3 +17054,8 @@
 [05:37:53] (INFO) Found 1 catchable Pokemon
 [05:37:54] (BERRY) ItemRazzBerry used, remaining: 48
 [05:37:55] (Wild Success) | Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[05:38:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:38:01] (POKESTOP) West Coast Height Stage  in 82.47 m distance
+[05:38:01] (NAVIGATION) Distance to target location: 82.47 meters. Will take 10.6 seconds driving at 28kmh
+[05:38:06] (INFO) Found 1 catchable Pokemon
+[05:38:08] (Wild Success) | Weedle 76 V |   82 Cp | 12.79% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
