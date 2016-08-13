@@ -10682,3 +10682,23 @@
 [02:02:53] (NAVIGATION) Distance to target location: 167.53 meters. Will take 19.46 seconds driving at 31kmh
 [02:03:10] (INFO) Found 1 catchable Pokemon
 [02:03:12] (Wild Success) | Weedle 91 V |   36 Cp | 32.37% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[02:03:14] (INFO) Found 1 pokemon to transfer...
+[02:03:16] (TRANSFER) Weedle 91 V |   36 Cp | 32.37% | Lvl 04 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 144
+[02:03:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 7 x ItemPokeBall, 1 x ItemGreatBall
+[02:03:18] (POKESTOP) Ventus in 98.36 m distance
+[02:03:18] (NAVIGATION) Distance to target location: 98.36 meters. Will take 11.42 seconds driving at 31kmh
+[02:03:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:03:30] (POKESTOP) Heritage Time Arc in 69.51 m distance
+[02:03:30] (NAVIGATION) Distance to target location: 69.51 meters. Will take 8.34 seconds driving at 30kmh
+[02:03:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:03:38] (INFO) Found 3 Recyclable Items:
+[02:03:38] (RECYCLING) PokeBall x 9
+[02:03:39] (RECYCLING) SuperPotion x 1
+[02:03:40] (RECYCLING) HyperPotion x 1
+[02:03:43] (POKESTOP) Corridor of Love Mural in 98.87 m distance
+[02:03:43] (NAVIGATION) Distance to target location: 98.87 meters. Will take 11.12 seconds driving at 32kmh
+[02:03:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[02:03:54] (POKESTOP) Eusoff Hall in 66.48 m distance
+[02:03:54] (NAVIGATION) Distance to target location: 66.48 meters. Will take 7.48 seconds driving at 32kmh
+[02:03:56] (INFO) Found 1 catchable Pokemon
+[02:03:58] (Wild Success) | Pidgey 96 V |   78 Cp | 47.75% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
