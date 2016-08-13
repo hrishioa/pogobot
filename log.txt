@@ -9621,3 +9621,11 @@
 [01:29:19] (NAVIGATION) Distance to target location: 154.03 meters. Will take 18.48 seconds driving at 30kmh
 [01:29:32] (INFO) Found 1 catchable Pokemon
 [01:29:34] (Wild Success) | Caterpie 81 V |  118 Cp | 14.23% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[01:29:35] (INFO) Found 1 pokemon to transfer...
+[01:29:37] (TRANSFER) Caterpie 81 V |  118 Cp | 14.23% | Lvl 13 | Best: [Caterpie 101 V |  128 Cp | 33.36% | Lvl 13] | Candy: 90
+[01:29:40] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemUltraBall, 2 x ItemGreatBall
+[01:29:42] (POKESTOP) Chinese Scholar Painting in 65.76 m distance
+[01:29:42] (NAVIGATION) Distance to target location: 65.76 meters. Will take 7.64 seconds driving at 31kmh
+[01:29:45] (INFO) Found 1 catchable Pokemon
+[01:29:47] (BERRY) ItemRazzBerry used, remaining: 49
+[01:29:47] (Wild Success) | Squirtle 111 V |  362 Cp | 5.12% | Lvl 16 | Chance: 0.14 | with a UltraBall and received XP 210
