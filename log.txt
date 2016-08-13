@@ -8297,3 +8297,7 @@
 [00:44:16] (NAVIGATION) Distance to target location: 368.73 meters. Will take 19.81 seconds driving at 67kmh
 [00:44:23] (INFO) Found 1 catchable Pokemon
 [00:44:24] (Wild Success) | Zubat 109 V |  286 Cp | 34.73% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[00:44:35] (INFO) Found 1 pokemon to transfer...
+[00:44:37] (TRANSFER) Zubat 109 V |  286 Cp | 34.73% | Lvl 19 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 437
+[00:44:38] (INFO) Found 1 catchable Pokemon
+[00:44:40] (Wild Success) | Weedle 56 V |  145 Cp | 10.38% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
