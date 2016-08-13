@@ -2706,3 +2706,26 @@
 [21:32:14] (NAVIGATION) Distance to target location: 155.38 meters. Will take 18.04 seconds driving at 31kmh
 [21:32:24] (INFO) Found 1 catchable Pokemon
 [21:32:26] (Wild Success) | Goldeen 92 V |   84 Cp | 27.50% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[21:32:28] (INFO) Found 1 pokemon to transfer...
+[21:32:30] (TRANSFER) Goldeen 92 V |   84 Cp | 27.50% | Lvl 04 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 50
+[21:32:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:32:34] (INFO) Found 3 Recyclable Items:
+[21:32:34] (RECYCLING) Revive x 3
+[21:32:35] (RECYCLING) RazzBerry x 1
+[21:32:36] (RECYCLING) PokeBall x 11
+[21:32:39] (POKESTOP) Haw Par Villa Gate in 60.46 m distance
+[21:32:39] (NAVIGATION) Distance to target location: 60.46 meters. Will take 7.51 seconds driving at 29kmh
+[21:32:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:32:45] (POKESTOP) Haw Par Villa in 74.73 m distance
+[21:32:45] (NAVIGATION) Distance to target location: 74.73 meters. Will take 8.68 seconds driving at 31kmh
+[21:32:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[21:32:54] (POKESTOP) Wishing Well in 67.98 m distance
+[21:32:54] (NAVIGATION) Distance to target location: 67.98 meters. Will take 8.16 seconds driving at 30kmh
+[21:33:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:33:01] (POKESTOP) Animal Fighting Ring in 55.02 m distance
+[21:33:01] (NAVIGATION) Distance to target location: 55.02 meters. Will take 7.07 seconds driving at 28kmh
+[21:33:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:33:08] (POKESTOP) Serpent Statue in 71.42 m distance
+[21:33:08] (NAVIGATION) Distance to target location: 71.42 meters. Will take 8.03 seconds driving at 32kmh
+[21:33:11] (INFO) Found 1 catchable Pokemon
+[21:33:13] (Wild Success) | Zubat 138 V |  237 Cp | 49.37% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
