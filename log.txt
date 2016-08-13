@@ -6662,3 +6662,4 @@
 [23:50:45] (TRANSFER) Rattata 119 V |  265 Cp | 30.97% | Lvl 20 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 117
 [23:50:46] (INFO) Found 2 catchable Pokemon
 [23:50:48] (Wild Success) | Doduo 87 V |   10 Cp | 39.27% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:50:49] (Wild Success) | Staryu 153 V |  301 Cp | 73.46% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
