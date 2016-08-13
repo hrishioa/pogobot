@@ -6073,3 +6073,10 @@
 [23:31:31] (INFO) Found 1 catchable Pokemon
 [23:31:32] (BERRY) ItemRazzBerry used, remaining: 49
 [23:31:33] (Wild Success) | Golbat 198 V |  725 Cp | 66.01% | Lvl 14 | Chance: 0.16 | with a GreatBall and received XP 210
+[23:31:35] (INFO) Found 1 pokemon to transfer...
+[23:31:37] (TRANSFER) Golbat 196 V |  728 Cp | 67.97% | Lvl 14 | Best: [Golbat 216 V |  697 Cp | 85.92% | Lvl 13] | Candy: 357
+[23:31:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[23:31:39] (POKESTOP) NUS Central Library in 65.96 m distance
+[23:31:39] (NAVIGATION) Distance to target location: 65.96 meters. Will take 7.66 seconds driving at 31kmh
+[23:31:45] (INFO) Found 1 catchable Pokemon
+[23:31:47] (Wild Success) | Pidgey 113 V |  179 Cp | 39.91% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
