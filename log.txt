@@ -18657,3 +18657,22 @@
 [06:30:48] (NAVIGATION) Distance to target location: 112.69 meters. Will take 13.99 seconds driving at 29kmh
 [06:30:59] (INFO) Found 1 catchable Pokemon
 [06:31:01] (Wild Success) | Spearow 147 V |  311 Cp | 55.82% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[06:31:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:31:05] (INFO) Found 3 Recyclable Items:
+[06:31:06] (RECYCLING) PokeBall x 8
+[06:31:06] (RECYCLING) Potion x 3
+[06:31:07] (RECYCLING) Revive x 2
+[06:31:10] (POKESTOP) Raffles Hall Art Piece (1984/85) in 78.86 m distance
+[06:31:10] (NAVIGATION) Distance to target location: 78.86 meters. Will take 9.46 seconds driving at 30kmh
+[06:31:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:31:19] (POKESTOP) Raffles Hall in 97.41 m distance
+[06:31:19] (NAVIGATION) Distance to target location: 97.41 meters. Will take 12.52 seconds driving at 28kmh
+[06:31:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[06:31:31] (POKESTOP) NUS Sports and Recreation Centre in 141.66 m distance
+[06:31:31] (NAVIGATION) Distance to target location: 141.66 meters. Will take 17 seconds driving at 30kmh
+[06:31:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:31:47] (POKESTOP) Tree of Light Bulbs in 89.21 m distance
+[06:31:47] (NAVIGATION) Distance to target location: 89.21 meters. Will take 10.04 seconds driving at 32kmh
+[06:31:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:31:57] (INFO) Found 2 catchable Pokemon
+[06:31:59] (Wild Success) | Pidgey 105 V |  280 Cp | 26.52% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
