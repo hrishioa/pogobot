@@ -17516,3 +17516,12 @@
 [05:56:00] (RECYCLING) Revive x 1
 [05:56:02] (INFO) Found 1 catchable Pokemon
 [05:56:03] (Wild Success) | Rattata 144 V |  275 Cp | 56.14% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[05:56:04] (INFO) Found 1 pokemon to transfer...
+[05:56:06] (TRANSFER) Rattata 144 V |  275 Cp | 56.14% | Lvl 19 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 413
+[05:56:07] (POKESTOP) Cempaka 2004 in 55.05 m distance
+[05:56:07] (NAVIGATION) Distance to target location: 55.05 meters. Will take 6.83 seconds driving at 29kmh
+[05:56:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[05:56:14] (POKESTOP) The Kingdom City's Gate in 479.91 m distance
+[05:56:14] (NAVIGATION) Distance to target location: 479.91 meters. Will take 24.68 seconds driving at 70kmh
+[05:56:36] (INFO) Found 1 catchable Pokemon
+[05:56:37] (Wild Success) | Weedle 53 V |   24 Cp | 19.25% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
