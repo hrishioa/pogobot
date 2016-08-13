@@ -9104,3 +9104,27 @@
 [01:13:58] (NAVIGATION) Distance to target location: 143.87 meters. Will take 16.19 seconds driving at 32kmh
 [01:14:03] (INFO) Found 1 catchable Pokemon
 [01:14:05] (Wild Success) | Spearow 107 V |  180 Cp | 39.11% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:14:06] (INFO) Found 1 pokemon to transfer...
+[01:14:08] (TRANSFER) Spearow 107 V |  180 Cp | 39.11% | Lvl 11 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 163
+[01:14:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[01:14:15] (POKESTOP) The Tarantula Nebula in 53.6 m distance
+[01:14:15] (NAVIGATION) Distance to target location: 53.6 meters. Will take 6.03 seconds driving at 32kmh
+[01:14:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:14:20] (INFO) Found 3 Recyclable Items:
+[01:14:21] (RECYCLING) PokeBall x 5
+[01:14:22] (RECYCLING) SuperPotion x 1
+[01:14:22] (RECYCLING) Revive x 1
+[01:14:25] (POKESTOP) Raffles Museum in 92.86 m distance
+[01:14:25] (NAVIGATION) Distance to target location: 92.86 meters. Will take 10.78 seconds driving at 31kmh
+[01:14:42] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[01:14:42] (ATTENTION) Restarting the application due to error...
+[01:14:42] (INFO) Logging in via: Google
+[01:14:43] (INFO) Client logged in
+[01:14:43] (INFO) Found 92 Pokestops
+[01:14:44] (POKESTOP) Raffles Museum in 25.16 m distance
+[01:14:44] (NAVIGATION) Distance to target location: 25.16 meters. Will take 3.12 seconds driving at 29kmh
+[01:14:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[01:14:48] (POKESTOP) M7 In Scorpius in 117.25 m distance
+[01:14:48] (NAVIGATION) Distance to target location: 117.25 meters. Will take 14.56 seconds driving at 29kmh
+[01:14:56] (INFO) Found 1 catchable Pokemon
+[01:14:58] (Wild Success) | Slowpoke 164 V |  485 Cp | 66.23% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
