@@ -9741,3 +9741,10 @@
 [01:34:59] (NAVIGATION) Distance to target location: 35.85 meters. Will take 4.16 seconds driving at 31kmh
 [01:35:01] (INFO) Found 1 catchable Pokemon
 [01:35:02] (Wild Success) | Pidgey 119 V |  318 Cp | 32.34% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[01:35:04] (INFO) Found 1 pokemon to transfer...
+[01:35:06] (TRANSFER) Pidgey 119 V |  318 Cp | 32.34% | Lvl 20 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 416
+[01:35:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:35:08] (POKESTOP) SUTD Building in 106.24 m distance
+[01:35:08] (NAVIGATION) Distance to target location: 106.24 meters. Will take 11.95 seconds driving at 32kmh
+[01:35:14] (INFO) Found 1 catchable Pokemon
+[01:35:16] (Wild Success) | Rattata 135 V |  294 Cp | 46.26% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
