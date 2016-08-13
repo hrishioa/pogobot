@@ -3819,3 +3819,20 @@
 [22:07:57] (NAVIGATION) Distance to target location: 202.28 meters. Will take 19.68 seconds driving at 37kmh
 [22:08:09] (INFO) Found 1 catchable Pokemon
 [22:08:11] (Wild Success) | Zubat 98 V |  102 Cp | 33.30% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[22:08:12] (INFO) Found 1 pokemon to transfer...
+[22:08:13] (TRANSFER) Zubat 98 V |  102 Cp | 33.30% | Lvl 07 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 270
+[22:08:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[22:08:17] (INFO) Found 3 Recyclable Items:
+[22:08:19] (RECYCLING) RazzBerry x 2
+[22:08:19] (RECYCLING) PokeBall x 6
+[22:08:20] (RECYCLING) Potion x 4
+[22:08:23] (POKESTOP) Pasir Panjang Christ Church in 69.58 m distance
+[22:08:23] (NAVIGATION) Distance to target location: 69.58 meters. Will take 8.35 seconds driving at 30kmh
+[22:08:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[22:08:31] (POKESTOP) Emmanuel Evangelical Free Church  in 62.76 m distance
+[22:08:31] (NAVIGATION) Distance to target location: 62.76 meters. Will take 7.29 seconds driving at 31kmh
+[22:08:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:08:38] (POKESTOP) Singapore Science Park II in 151.71 m distance
+[22:08:38] (NAVIGATION) Distance to target location: 151.71 meters. Will take 19.51 seconds driving at 28kmh
+[22:08:49] (INFO) Found 1 catchable Pokemon
+[22:08:50] (Wild Success) | Zubat 147 V |  258 Cp | 56.43% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
