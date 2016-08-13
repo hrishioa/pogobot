@@ -20953,3 +20953,51 @@
 [07:46:00] (NAVIGATION) Distance to target location: 103.53 meters. Will take 12.02 seconds driving at 31kmh
 [07:46:01] (INFO) Found 1 catchable Pokemon
 [07:46:03] (Wild Success) | Ekans 149 V |   99 Cp | 58.94% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[07:46:04] (INFO) Found 1 pokemon to transfer...
+[07:46:07] (TRANSFER) Ekans 149 V |   99 Cp | 58.94% | Lvl 05 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 185
+[07:46:10] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 4 x ItemPokeBall
+[07:46:12] (POKESTOP) Corridor of Love Mural in 73.9 m distance
+[07:46:12] (NAVIGATION) Distance to target location: 73.9 meters. Will take 9.17 seconds driving at 29kmh
+[07:46:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:46:20] (POKESTOP) Heritage Time Arc in 94.5 m distance
+[07:46:20] (NAVIGATION) Distance to target location: 94.5 meters. Will take 11.34 seconds driving at 30kmh
+[07:46:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[07:46:32] (POKESTOP) Ventus in 93.03 m distance
+[07:46:32] (NAVIGATION) Distance to target location: 93.03 meters. Will take 11.16 seconds driving at 30kmh
+[07:46:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[07:46:43] (INFO) Found 4 Recyclable Items:
+[07:46:43] (RECYCLING) RazzBerry x 1
+[07:46:44] (RECYCLING) PokeBall x 10
+[07:46:46] (RECYCLING) SuperPotion x 1
+[07:46:47] (RECYCLING) Revive x 2
+[07:46:49] (POKESTOP) Footprint Bench in 80.64 m distance
+[07:46:49] (NAVIGATION) Distance to target location: 80.64 meters. Will take 10.01 seconds driving at 29kmh
+[07:46:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[07:46:59] (POKESTOP) NUS monolith in 94.96 m distance
+[07:46:59] (NAVIGATION) Distance to target location: 94.96 meters. Will take 11.39 seconds driving at 30kmh
+[07:47:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:47:10] (POKESTOP) Metal Robot Structure in 145.35 m distance
+[07:47:10] (NAVIGATION) Distance to target location: 145.35 meters. Will take 18.04 seconds driving at 29kmh
+[07:47:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[07:47:28] (POKESTOP) Abstact Sculptures At NUS in 121.54 m distance
+[07:47:28] (NAVIGATION) Distance to target location: 121.54 meters. Will take 15.63 seconds driving at 28kmh
+[07:47:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[07:47:43] (POKESTOP) SDE Mural in 111.13 m distance
+[07:47:43] (NAVIGATION) Distance to target location: 111.13 meters. Will take 14.29 seconds driving at 28kmh
+[07:48:04] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[07:48:04] (ATTENTION) Restarting the application due to error...
+[07:48:04] (INFO) Logging in via: Google
+[07:48:05] (INFO) Client logged in
+[07:48:06] (INFO) Found 81 Pokestops
+[07:48:06] (POKESTOP) SDE Mural in 23.28 m distance
+[07:48:06] (NAVIGATION) Distance to target location: 23.28 meters. Will take 2.99 seconds driving at 28kmh
+[07:48:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[07:48:10] (INFO) Found 5 Recyclable Items:
+[07:48:10] (RECYCLING) RazzBerry x 1
+[07:48:11] (RECYCLING) PokeBall x 8
+[07:48:11] (RECYCLING) Potion x 1
+[07:48:12] (RECYCLING) SuperPotion x 1
+[07:48:15] (RECYCLING) Revive x 4
+[07:48:17] (INFO) Found 1 catchable Pokemon
+[07:48:17] (BERRY) ItemRazzBerry used, remaining: 49
+[07:48:19] (Wild Success) | Pidgeotto 154 V |  638 Cp | 35.32% | Lvl 21 | Chance: 0.16 | with a UltraBall and received XP 210
