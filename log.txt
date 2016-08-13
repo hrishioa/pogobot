@@ -8156,3 +8156,4 @@
 [00:37:46] (Wild Success) | Eevee 164 V |  110 Cp | 92.52% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
 [00:37:47] (BERRY) ItemRazzBerry used, remaining: 50
 [00:37:48] (Wild Success) | Golbat 186 V |  620 Cp | 64.07% | Lvl 12 | Chance: 0.17 | with a UltraBall and received XP 210
+[00:37:50] (Wild Success) | Zubat 114 V |  169 Cp | 41.67% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
