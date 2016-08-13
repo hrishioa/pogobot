@@ -16764,3 +16764,16 @@
 [05:28:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
 [05:28:19] (INFO) Found 1 catchable Pokemon
 [05:28:21] (Wild Success) | Rattata 162 V |  314 Cp | 65.79% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[05:28:23] (INFO) Found 1 pokemon to transfer...
+[05:28:24] (TRANSFER) Rattata 111 V |  182 Cp | 26.14% | Lvl 14 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 369
+[05:28:25] (POKESTOP) Playground for Children at West Coast Block 506 in 62.5 m distance
+[05:28:25] (NAVIGATION) Distance to target location: 62.5 meters. Will take 7.26 seconds driving at 31kmh
+[05:28:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[05:28:31] (INFO) Found 3 Recyclable Items:
+[05:28:32] (RECYCLING) RazzBerry x 2
+[05:28:33] (RECYCLING) PokeBall x 7
+[05:28:34] (RECYCLING) Revive x 1
+[05:28:36] (POKESTOP) Playground Slide in 123.01 m distance
+[05:28:36] (NAVIGATION) Distance to target location: 123.01 meters. Will take 14.76 seconds driving at 30kmh
+[05:28:42] (INFO) Found 1 catchable Pokemon
+[05:28:44] (Wild Success) | Rattata 109 V |   49 Cp | 36.73% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
