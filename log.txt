@@ -3317,3 +3317,19 @@
 [21:50:50] (TRANSFER) Weedle 80 V |  132 Cp | 35.47% | Lvl 13 | Best: [Weedle 114 V |  137 Cp | 44.94% | Lvl 13] | Candy: 78
 [21:50:52] (INFO) Found 1 catchable Pokemon
 [21:50:53] (Wild Success) | Magikarp 99 V |   83 Cp | 65.77% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
+[21:50:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:50:58] (POKESTOP) The Clock in 89.57 m distance
+[21:50:58] (NAVIGATION) Distance to target location: 89.57 meters. Will take 10.08 seconds driving at 32kmh
+[21:51:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[21:51:08] (INFO) Found 4 Recyclable Items:
+[21:51:08] (RECYCLING) RazzBerry x 3
+[21:51:09] (RECYCLING) PokeBall x 9
+[21:51:10] (RECYCLING) Potion x 1
+[21:51:12] (RECYCLING) Revive x 1
+[21:51:14] (POKESTOP) Memorial at PGPR in 82.62 m distance
+[21:51:14] (NAVIGATION) Distance to target location: 82.62 meters. Will take 9.29 seconds driving at 32kmh
+[21:51:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemHyperPotion
+[21:51:23] (POKESTOP) Institute of Systems Science in 534.27 m distance
+[21:51:23] (NAVIGATION) Distance to target location: 534.27 meters. Will take 27.48 seconds driving at 70kmh
+[21:51:26] (INFO) Found 1 catchable Pokemon
+[21:51:28] (Wild Success) | Magikarp 97 V |   51 Cp | 67.44% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
