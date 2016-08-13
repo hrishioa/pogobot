@@ -3637,3 +3637,10 @@
 [22:03:42] (INFO) Found 1 catchable Pokemon
 [22:03:43] (BERRY) ItemRazzBerry used, remaining: 49
 [22:03:44] (Wild Success) | Golbat 170 V |  414 Cp | 74.24% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
+[22:03:45] (INFO) Found 1 pokemon to transfer...
+[22:03:47] (TRANSFER) Golbat 164 V |  303 Cp | 74.37% | Lvl 06 | Best: [Golbat 172 V |  360 Cp | 75.74% | Lvl 07] | Candy: 246
+[22:03:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:03:50] (POKESTOP) Haw Par Villa in 52.63 m distance
+[22:03:50] (NAVIGATION) Distance to target location: 52.63 meters. Will take 6.32 seconds driving at 30kmh
+[22:03:55] (INFO) Found 1 catchable Pokemon
+[22:03:56] (Wild Success) | Zubat 106 V |   74 Cp | 48.61% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
