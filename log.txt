@@ -11184,3 +11184,12 @@
 [02:17:53] (RECYCLING) SuperPotion x 1
 [02:17:55] (INFO) Found 1 catchable Pokemon
 [02:17:57] (Wild Success) | Zubat 114 V |  216 Cp | 41.95% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 420
+[02:17:58] (INFO) Found 1 pokemon to transfer...
+[02:18:00] (TRANSFER) Zubat 114 V |  216 Cp | 41.95% | Lvl 14 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 603
+[02:18:01] (POKESTOP) Sailing Mural in 363.94 m distance
+[02:18:01] (NAVIGATION) Distance to target location: 363.94 meters. Will take 19.85 seconds driving at 66kmh
+[02:18:21] (POKESTOP) XP: 100, Gems: 0, Eggs: 1, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:18:23] (POKESTOP) Pendulum White Shelter in 270.31 m distance
+[02:18:23] (NAVIGATION) Distance to target location: 270.31 meters. Will take 19.86 seconds driving at 49kmh
+[02:18:24] (INFO) Found 1 catchable Pokemon
+[02:18:26] (Wild Success) | Zubat 124 V |   88 Cp | 39.71% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
