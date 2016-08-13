@@ -18036,3 +18036,39 @@
 [06:10:49] (NAVIGATION) Distance to target location: 187 meters. Will take 19.8 seconds driving at 34kmh
 [06:11:01] (INFO) Found 1 catchable Pokemon
 [06:11:02] (Wild Success) | Eevee 171 V |  234 Cp | 83.49% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 210
+[06:11:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:11:09] (POKESTOP) Ayer Rajah Food Centre &  Market in 283.49 m distance
+[06:11:09] (NAVIGATION) Distance to target location: 283.49 meters. Will take 19.63 seconds driving at 52kmh
+[06:11:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:11:29] (POKESTOP) Huge Red Umbrella in 304.89 m distance
+[06:11:29] (NAVIGATION) Distance to target location: 304.89 meters. Will take 19.96 seconds driving at 55kmh
+[06:11:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:11:50] (POKESTOP) Clementi Stadium in 163.27 m distance
+[06:11:50] (NAVIGATION) Distance to target location: 163.27 meters. Will take 19.59 seconds driving at 30kmh
+[06:12:03] (INFO) Found 1 catchable Pokemon
+[06:12:04] (BERRY) ItemRazzBerry used, remaining: 49
+[06:12:04] (Wild Escape) | Pinsir 273 V | 1370 Cp | 88.98% | Lvl 23 | Chance: 0.18 | with a GreatBall 
+[06:12:05] (BERRY) ItemRazzBerry used, remaining: 48
+[06:12:06] (Wild Success Attempt #2) | Pinsir 273 V | 1370 Cp | 88.98% | Lvl 23 | Chance: 0.18 | with a GreatBall 
+[06:12:08] (INFO) Found 1 pokemon to transfer...
+[06:12:09] (TRANSFER) Pinsir 232 V |  986 Cp | 73.01% | Lvl 17 | Best: [Pinsir 273 V | 1370 Cp | 88.98% | Lvl 23] | Candy: 44
+[06:12:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:12:13] (INFO) Found 2 Recyclable Items:
+[06:12:14] (RECYCLING) PokeBall x 11
+[06:12:16] (RECYCLING) Potion x 1
+[06:12:18] (POKESTOP) West Coast Recreation Centre in 119.79 m distance
+[06:12:18] (NAVIGATION) Distance to target location: 119.79 meters. Will take 13.91 seconds driving at 31kmh
+[06:12:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:12:32] (POKESTOP) Majestic Rover in 98.49 m distance
+[06:12:32] (NAVIGATION) Distance to target location: 98.49 meters. Will take 12.66 seconds driving at 28kmh
+[06:12:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:12:45] (POKESTOP) Taman Mas Merah Playground in 161 m distance
+[06:12:45] (NAVIGATION) Distance to target location: 161 meters. Will take 19.99 seconds driving at 29kmh
+[06:13:02] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 4 x ItemPokeBall
+[06:13:03] (POKESTOP) Jalan Mas Kuning Playground in 144.06 m distance
+[06:13:03] (NAVIGATION) Distance to target location: 144.06 meters. Will take 16.21 seconds driving at 32kmh
+[06:13:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:13:20] (POKESTOP) The Right Horn Sculpture in 362.68 m distance
+[06:13:20] (NAVIGATION) Distance to target location: 362.68 meters. Will take 19.78 seconds driving at 66kmh
+[06:13:30] (INFO) Found 1 catchable Pokemon
+[06:13:32] (Wild Success) | Rattata 104 V |   50 Cp | 38.66% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
