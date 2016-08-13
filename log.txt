@@ -904,3 +904,4 @@
 [20:31:34] (INFO) Found 4 catchable Pokemon
 [20:31:36] (Wild Flee) | Zubat 130 V |  148 Cp | 64.51% | Lvl 09 | Chance: 0.5 | with a PokeBall 
 [20:31:37] (Wild Success) | Zubat 115 V |  109 Cp | 54.10% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[20:31:39] (Wild Success) | Zubat 132 V |   79 Cp | 68.55% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
