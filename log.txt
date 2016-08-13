@@ -4354,3 +4354,16 @@
 [22:28:34] (Wild Success) | Weedle 78 V |   54 Cp | 17.65% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [22:28:36] (Wild Success) | Pidgey 97 V |  188 Cp | 27.84% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [22:28:38] (Wild Success) | Zubat 109 V |   10 Cp | 42.68% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:28:39] (INFO) Found 4 pokemon to transfer...
+[22:28:41] (TRANSFER) Zubat 113 V |  186 Cp | 44.10% | Lvl 12 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 325
+[22:28:43] (TRANSFER) Zubat 109 V |   10 Cp | 42.68% | Lvl 01 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 326
+[22:28:46] (TRANSFER) Weedle 78 V |   54 Cp | 17.65% | Lvl 06 | Best: [Weedle 121 V |   87 Cp | 57.43% | Lvl 08] | Candy: 94
+[22:28:48] (TRANSFER) Pidgey 97 V |  188 Cp | 27.84% | Lvl 12 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 184
+[22:28:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[22:28:51] (POKESTOP) Eagle Statue in 509.65 m distance
+[22:28:51] (NAVIGATION) Distance to target location: 509.65 meters. Will take 26.21 seconds driving at 70kmh
+[22:29:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[22:29:20] (POKESTOP) Cut CO2 Emission By 180 Million Tons A Year in 164.41 m distance
+[22:29:20] (NAVIGATION) Distance to target location: 164.41 meters. Will take 19.09 seconds driving at 31kmh
+[22:29:24] (INFO) Found 1 catchable Pokemon
+[22:29:25] (Wild Success) | Psyduck 82 V |   41 Cp | 25.67% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
