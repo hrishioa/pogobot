@@ -4410,3 +4410,13 @@
 [22:31:10] (NAVIGATION) Distance to target location: 57.97 meters. Will take 6.96 seconds driving at 30kmh
 [22:31:12] (INFO) Found 1 catchable Pokemon
 [22:31:14] (Wild Success) | Pidgey 101 V |  175 Cp | 32.73% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[22:31:16] (INFO) Found 1 pokemon to transfer...
+[22:31:17] (TRANSFER) Pidgey 101 V |  175 Cp | 32.73% | Lvl 11 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 192
+[22:31:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:31:21] (INFO) Found 2 Recyclable Items:
+[22:31:22] (RECYCLING) PokeBall x 7
+[22:31:24] (RECYCLING) Potion x 1
+[22:31:26] (POKESTOP) Fractals - Metamorphosis in 80.68 m distance
+[22:31:26] (NAVIGATION) Distance to target location: 80.68 meters. Will take 9.68 seconds driving at 30kmh
+[22:31:32] (INFO) Found 2 catchable Pokemon
+[22:31:34] (Wild Success) | Pidgey 70 V |  192 Cp | 11.18% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
