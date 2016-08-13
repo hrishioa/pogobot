@@ -2368,3 +2368,4 @@
 [21:24:45] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemRazzBerry
 [21:24:46] (INFO) Found 2 catchable Pokemon
 [21:24:48] (Wild Success) | Zubat 174 V |  229 Cp | 85.54% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[21:24:49] (Wild Success) | Zubat 105 V |   40 Cp | 41.42% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
