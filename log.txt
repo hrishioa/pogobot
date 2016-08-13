@@ -12386,3 +12386,19 @@
 [02:56:23] (NAVIGATION) Distance to target location: 166.92 meters. Will take 19.38 seconds driving at 31kmh
 [02:56:34] (INFO) Found 1 catchable Pokemon
 [02:56:36] (Wild Success) | Rattata 114 V |  147 Cp | 33.51% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:56:37] (INFO) Found 1 pokemon to transfer...
+[02:56:39] (TRANSFER) Rattata 114 V |  147 Cp | 33.51% | Lvl 11 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 224
+[02:56:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:56:44] (POKESTOP) Jalan Mas Kuning Playground in 139.26 m distance
+[02:56:44] (NAVIGATION) Distance to target location: 139.26 meters. Will take 16.71 seconds driving at 30kmh
+[02:56:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 2 x ItemGreatBall
+[02:57:01] (POKESTOP) West Coast Road Sculpture in 182.06 m distance
+[02:57:01] (NAVIGATION) Distance to target location: 182.06 meters. Will take 19.86 seconds driving at 33kmh
+[02:57:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:57:22] (POKESTOP) West Coast Green Zone in 49.82 m distance
+[02:57:22] (NAVIGATION) Distance to target location: 49.82 meters. Will take 5.61 seconds driving at 32kmh
+[02:57:27] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 3 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemGreatBall
+[02:57:28] (POKESTOP) Cempaka 2004 in 58.85 m distance
+[02:57:28] (NAVIGATION) Distance to target location: 58.85 meters. Will take 7.06 seconds driving at 30kmh
+[02:57:29] (INFO) Found 1 catchable Pokemon
+[02:57:32] (Wild Success) | Pidgey 80 V |   10 Cp | 33.78% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
