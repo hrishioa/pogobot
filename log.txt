@@ -20695,3 +20695,16 @@
 [07:38:19] (BERRY) ItemRazzBerry used, remaining: 48
 [07:38:19] (Wild Success) | Bulbasaur 146 V |  515 Cp | 9.08% | Lvl 21 | Chance: 0.13 | with a UltraBall and received XP 210
 [07:38:21] (Wild Success) | Rattata 146 V |  120 Cp | 71.88% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[07:38:23] (INFO) Found 3 pokemon to transfer...
+[07:38:25] (TRANSFER) Bulbasaur 146 V |  515 Cp | 9.08% | Lvl 21 | Best: [Bulbasaur 229 V |  609 Cp | 97.81% | Lvl 20] | Candy: 81
+[07:38:27] (TRANSFER) Rattata 146 V |  120 Cp | 71.88% | Lvl 08 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 585
+[07:38:29] (TRANSFER) Pidgey 128 V |  389 Cp | 38.79% | Lvl 24 | Best: [Pidgey 142 V |  325 Cp | 55.46% | Lvl 19] | Candy: 947
+[07:38:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[07:38:31] (INFO) Found 3 Recyclable Items:
+[07:38:32] (RECYCLING) PokeBall x 5
+[07:38:32] (RECYCLING) SuperPotion x 2
+[07:38:33] (RECYCLING) Revive x 2
+[07:38:36] (POKESTOP) Tower Playground in 111.89 m distance
+[07:38:36] (NAVIGATION) Distance to target location: 111.89 meters. Will take 12.99 seconds driving at 31kmh
+[07:38:42] (INFO) Found 1 catchable Pokemon
+[07:38:44] (Wild Success) | Tentacool 111 V |  309 Cp | 66.33% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
