@@ -20944,3 +20944,12 @@
 [07:45:33] (INFO) Found 1 catchable Pokemon
 [07:45:34] (BERRY) ItemRazzBerry used, remaining: 49
 [07:45:35] (Wild Success) | Eevee 178 V |  539 Cp | 64.34% | Lvl 19 | Chance: 0.27 | with a UltraBall and received XP 210
+[07:45:37] (INFO) Found 1 pokemon to transfer...
+[07:45:39] (TRANSFER) Eevee 169 V |  234 Cp | 83.67% | Lvl 08 | Best: [Eevee 178 V |  539 Cp | 64.34% | Lvl 19] | Candy: 44
+[07:45:39] (POKESTOP) Eusoff Freshies Corner in 239.13 m distance
+[07:45:39] (NAVIGATION) Distance to target location: 239.13 meters. Will take 19.57 seconds driving at 44kmh
+[07:45:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 2 x ItemPokeBall
+[07:46:00] (POKESTOP) Eusoff Hall in 103.53 m distance
+[07:46:00] (NAVIGATION) Distance to target location: 103.53 meters. Will take 12.02 seconds driving at 31kmh
+[07:46:01] (INFO) Found 1 catchable Pokemon
+[07:46:03] (Wild Success) | Ekans 149 V |   99 Cp | 58.94% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
