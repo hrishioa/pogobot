@@ -8791,3 +8791,11 @@
 [01:01:26] (INFO) Found 1 catchable Pokemon
 [01:01:26] (BERRY) ItemRazzBerry used, remaining: 48
 [01:01:27] (Wild Success) | Staryu 156 V |  448 Cp | 50.59% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[01:01:29] (INFO) Found 1 pokemon to transfer...
+[01:01:30] (TRANSFER) Staryu 156 V |  448 Cp | 50.59% | Lvl 19 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 98
+[01:01:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[01:01:39] (POKESTOP) Cut CO2 Emission By 180 Million Tons A Year in 383.64 m distance
+[01:01:39] (NAVIGATION) Distance to target location: 383.64 meters. Will take 19.73 seconds driving at 70kmh
+[01:01:59] (INFO) Found 1 catchable Pokemon
+[01:01:59] (BERRY) ItemRazzBerry used, remaining: 47
+[01:02:01] (Wild Success) | Paras 153 V |  436 Cp | 48.60% | Lvl 19 | Chance: 0.27 | with a GreatBall and received XP 210
