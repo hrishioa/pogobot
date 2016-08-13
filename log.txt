@@ -585,3 +585,4 @@
 [20:19:23] (NAVIGATION) Distance to target location: 402.02 meters. Will take 20.68 seconds driving at 70kmh
 [20:19:29] (INFO) Found 2 catchable Pokemon
 [20:19:31] (Wild Success) | Golbat 164 V |  303 Cp | 74.37% | Lvl 06 | Chance: 0.24 | with a PokeBall and received XP 710
+[20:19:33] (Wild Success) | Exeggcute 115 V |  102 Cp | 49.63% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 710
