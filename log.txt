@@ -7355,3 +7355,4 @@
 [00:14:57] (TRANSFER) Magikarp 99 V |  101 Cp | 63.81% | Lvl 16 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 121
 [00:14:59] (INFO) Found 2 catchable Pokemon
 [00:15:01] (Wild Success) | Magikarp 96 V |   76 Cp | 63.06% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
+[00:15:02] (Wild Success) | Magikarp 97 V |   70 Cp | 64.71% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
