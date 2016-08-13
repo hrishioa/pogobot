@@ -1661,3 +1661,5 @@
 [20:56:56] (NAVIGATION) Distance to target location: 95.45 meters. Will take 11.45 seconds driving at 30kmh
 [20:57:04] (INFO) Found 2 catchable Pokemon
 [20:57:06] (Wild Success) | Bellsprout 85 V |  103 Cp | 48.23% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 710
+[20:57:07] (BERRY) ItemRazzBerry used, remaining: 48
+[20:57:07] (Wild Success) | Scyther 205 V |  618 Cp | 67.71% | Lvl 11 | Chance: 0.27 | with a GreatBall and received XP 710
