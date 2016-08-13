@@ -13032,3 +13032,21 @@
 [03:16:39] (Wild Success) | Rattata 127 V |   22 Cp | 57.87% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [03:16:41] (Wild Success) | Pidgey 102 V |  311 Cp | 25.76% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
 [03:16:43] (Wild Success) | Rattata 139 V |  101 Cp | 64.23% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[03:16:45] (INFO) Found 4 pokemon to transfer...
+[03:16:46] (TRANSFER) Rattata 139 V |  101 Cp | 64.23% | Lvl 07 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 263
+[03:16:48] (TRANSFER) Rattata 127 V |   22 Cp | 57.87% | Lvl 02 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 264
+[03:16:50] (TRANSFER) Pidgey 102 V |  311 Cp | 25.76% | Lvl 20 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 583
+[03:16:53] (TRANSFER) Pidgey 92 V |   42 Cp | 38.19% | Lvl 03 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 584
+[03:16:54] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 3 x ItemGreatBall
+[03:16:55] (INFO) Found 4 Recyclable Items:
+[03:16:55] (RECYCLING) PokeBall x 4
+[03:16:56] (RECYCLING) Potion x 1
+[03:16:57] (RECYCLING) HyperPotion x 1
+[03:16:58] (RECYCLING) Revive x 3
+[03:17:01] (POKESTOP) Block 701 Mini Playground in 69.67 m distance
+[03:17:01] (NAVIGATION) Distance to target location: 69.67 meters. Will take 8.09 seconds driving at 31kmh
+[03:17:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemSuperPotion, 1 x ItemGreatBall
+[03:17:09] (POKESTOP) Caged Court in 112.77 m distance
+[03:17:09] (NAVIGATION) Distance to target location: 112.77 meters. Will take 13.1 seconds driving at 31kmh
+[03:17:19] (INFO) Found 1 catchable Pokemon
+[03:17:21] (Wild Success) | Rattata 117 V |  253 Cp | 32.13% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
