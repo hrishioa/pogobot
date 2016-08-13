@@ -18174,3 +18174,9 @@
 [06:18:09] (INFO) Found 1 catchable Pokemon
 [06:18:10] (BERRY) ItemRazzBerry used, remaining: 46
 [06:18:11] (Wild Success) | Exeggcute 231 V |  681 Cp | 93.48% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:18:12] (INFO) Found 2 pokemon to transfer...
+[06:18:14] (TRANSFER) Exeggcute 166 V |  450 Cp | 51.34% | Lvl 16 | Best: [Exeggcute 231 V |  681 Cp | 93.48% | Lvl 22] | Candy: 37
+[06:18:16] (TRANSFER) Rattata 109 V |   10 Cp | 43.47% | Lvl 01 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 461
+[06:18:18] (INFO) Found 1 catchable Pokemon
+[06:18:19] (BERRY) ItemRazzBerry used, remaining: 45
+[06:18:20] (Wild Success) | Tentacool 136 V |  463 Cp | 38.41% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
