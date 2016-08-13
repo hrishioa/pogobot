@@ -19671,3 +19671,13 @@
 [07:04:30] (BERRY) ItemRazzBerry used, remaining: 50
 [07:04:32] (Wild Success Attempt #2) | Venomoth 234 V |  784 Cp | 81.20% | Lvl 15 | Chance: 0.15 | with a GreatBall 
 [07:04:33] (Wild Success) | Kakuna 81 V |   77 Cp | 40.54% | Lvl 07 | Chance: 0.28 | with a GreatBall and received XP 210
+[07:04:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[07:04:38] (INFO) Found 4 Recyclable Items:
+[07:04:38] (RECYCLING) RazzBerry x 2
+[07:04:39] (RECYCLING) PokeBall x 1
+[07:04:41] (RECYCLING) Potion x 3
+[07:04:42] (RECYCLING) SuperPotion x 1
+[07:04:44] (POKESTOP) Gantry Entrance in 82.88 m distance
+[07:04:44] (NAVIGATION) Distance to target location: 82.88 meters. Will take 10.29 seconds driving at 29kmh
+[07:04:50] (INFO) Found 1 catchable Pokemon
+[07:04:53] (Wild Success) | Rattata 116 V |   51 Cp | 46.15% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
