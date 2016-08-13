@@ -8150,3 +8150,7 @@
 [00:37:36] (NAVIGATION) Distance to target location: 83.07 meters. Will take 10.31 seconds driving at 29kmh
 [00:37:38] (INFO) Found 1 catchable Pokemon
 [00:37:39] (Wild Success) | Staryu 139 V |  141 Cp | 64.71% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[00:37:41] (INFO) Found 1 pokemon to transfer...
+[00:37:43] (TRANSFER) Staryu 139 V |  141 Cp | 64.71% | Lvl 06 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 86
+[00:37:45] (INFO) Found 3 catchable Pokemon
+[00:37:46] (Wild Success) | Eevee 164 V |  110 Cp | 92.52% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
