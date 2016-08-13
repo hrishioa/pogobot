@@ -6940,3 +6940,18 @@
 [23:58:40] (INFO) Found 2 catchable Pokemon
 [23:58:42] (Wild Success) | Poliwag 149 V |  367 Cp | 59.52% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
 [23:58:43] (Wild Success) | Caterpie 78 V |  154 Cp | 13.29% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[23:58:45] (INFO) Found 2 pokemon to transfer...
+[23:58:46] (TRANSFER) Caterpie 78 V |  154 Cp | 13.29% | Lvl 17 | Best: [Caterpie 101 V |  128 Cp | 33.36% | Lvl 13] | Candy: 58
+[23:58:49] (TRANSFER) Poliwag 146 V |  271 Cp | 67.50% | Lvl 13 | Best: [Poliwag 149 V |  367 Cp | 59.52% | Lvl 18] | Candy: 45
+[23:58:57] (INFO) Found 1 catchable Pokemon
+[23:58:58] (Wild Flee) | Goldeen 170 V |  431 Cp | 65.09% | Lvl 17 | Chance: 0.36 | with a GreatBall 
+[23:59:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[23:59:04] (INFO) Found 4 Recyclable Items:
+[23:59:04] (RECYCLING) RazzBerry x 1
+[23:59:06] (RECYCLING) PokeBall x 9
+[23:59:06] (RECYCLING) Potion x 1
+[23:59:07] (RECYCLING) Revive x 1
+[23:59:09] (POKESTOP) M7 In Scorpius in 495.63 m distance
+[23:59:09] (NAVIGATION) Distance to target location: 495.63 meters. Will take 25.49 seconds driving at 70kmh
+[23:59:21] (INFO) Found 1 catchable Pokemon
+[23:59:23] (Wild Success) | Ekans 133 V |  365 Cp | 44.78% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
