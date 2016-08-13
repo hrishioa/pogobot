@@ -5132,3 +5132,4 @@
 [23:00:39] (NAVIGATION) Distance to target location: 155.51 meters. Will take 19.99 seconds driving at 28kmh
 [23:00:52] (INFO) Found 2 catchable Pokemon
 [23:00:53] (Wild Success) | Bulbasaur 91 V |   12 Cp | 8.26% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 420
+[23:00:55] (Wild Success) | Caterpie 67 V |   52 Cp | 11.80% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
