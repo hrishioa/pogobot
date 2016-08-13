@@ -18363,3 +18363,15 @@
 [06:22:34] (NAVIGATION) Distance to target location: 102.55 meters. Will take 11.54 seconds driving at 32kmh
 [06:22:42] (INFO) Found 1 catchable Pokemon
 [06:22:44] (Wild Success) | Jigglypuff 134 V |  130 Cp | 45.54% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[06:22:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:22:48] (INFO) Found 3 Recyclable Items:
+[06:22:49] (RECYCLING) PokeBall x 8
+[06:22:50] (RECYCLING) Potion x 2
+[06:22:51] (RECYCLING) SuperPotion x 1
+[06:22:53] (POKESTOP) West Coast Plaza Triple Fountain in 67.92 m distance
+[06:22:53] (NAVIGATION) Distance to target location: 67.92 meters. Will take 8.73 seconds driving at 28kmh
+[06:23:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall
+[06:23:02] (POKESTOP) Tower Playground in 196.62 m distance
+[06:23:02] (NAVIGATION) Distance to target location: 196.62 meters. Will take 19.66 seconds driving at 36kmh
+[06:23:06] (INFO) Found 1 catchable Pokemon
+[06:23:07] (Wild Success) | Pidgey 104 V |  251 Cp | 28.94% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
