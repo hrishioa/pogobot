@@ -11401,3 +11401,10 @@
 [02:23:55] (NAVIGATION) Distance to target location: 192.01 meters. Will take 19.75 seconds driving at 35kmh
 [02:24:02] (INFO) Found 1 catchable Pokemon
 [02:24:04] (Wild Success) | Weedle 88 V |  150 Cp | 17.95% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
+[02:24:06] (INFO) Found 1 pokemon to transfer...
+[02:24:07] (TRANSFER) Weedle 88 V |  150 Cp | 17.95% | Lvl 16 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 172
+[02:24:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:24:14] (POKESTOP) Lucy's Left Ear in 69.87 m distance
+[02:24:14] (NAVIGATION) Distance to target location: 69.87 meters. Will take 7.86 seconds driving at 32kmh
+[02:24:17] (INFO) Found 1 catchable Pokemon
+[02:24:18] (Wild Success) | Zubat 140 V |  165 Cp | 63.66% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
