@@ -18701,3 +18701,31 @@
 [06:33:04] (NAVIGATION) Distance to target location: 65.05 meters. Will take 8.08 seconds driving at 29kmh
 [06:33:08] (INFO) Found 1 catchable Pokemon
 [06:33:10] (Wild Success) | Arbok 135 V |  120 Cp | 52.54% | Lvl 03 | Chance: 0.37 | with a GreatBall and received XP 210
+[06:33:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:33:15] (POKESTOP) Fingerprint Like Wood Art in 104.06 m distance
+[06:33:15] (NAVIGATION) Distance to target location: 104.06 meters. Will take 11.71 seconds driving at 32kmh
+[06:33:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[06:33:27] (POKESTOP) Race to the Future Car at FOE in 71.81 m distance
+[06:33:27] (NAVIGATION) Distance to target location: 71.81 meters. Will take 9.23 seconds driving at 28kmh
+[06:33:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:33:35] (INFO) Found 2 Recyclable Items:
+[06:33:36] (RECYCLING) PokeBall x 12
+[06:33:36] (RECYCLING) Potion x 1
+[06:33:39] (POKESTOP) FOE Singapore in 51.49 m distance
+[06:33:39] (NAVIGATION) Distance to target location: 51.49 meters. Will take 6.62 seconds driving at 28kmh
+[06:33:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:33:45] (POKESTOP) Pavilion at Engineering in 71.57 m distance
+[06:33:45] (NAVIGATION) Distance to target location: 71.57 meters. Will take 8.31 seconds driving at 31kmh
+[06:33:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:33:52] (POKESTOP) NUS GREM Display in 68.23 m distance
+[06:33:52] (NAVIGATION) Distance to target location: 68.23 meters. Will take 8.47 seconds driving at 29kmh
+[06:33:54] (INFO) Found 1 catchable Pokemon
+[06:33:55] (Wild Flee) | Weedle 58 V |  188 Cp | 7.39% | Lvl 21 | Chance: 0.32 | with a GreatBall 
+[06:34:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:34:02] (POKESTOP) Masjid Tentera Di Raja in 149 m distance
+[06:34:02] (NAVIGATION) Distance to target location: 149 meters. Will take 17.88 seconds driving at 30kmh
+[06:34:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[06:34:20] (POKESTOP) Abstact Sculptures At NUS in 132.3 m distance
+[06:34:20] (NAVIGATION) Distance to target location: 132.3 meters. Will take 15.36 seconds driving at 31kmh
+[06:34:28] (INFO) Found 1 catchable Pokemon
+[06:34:30] (Wild Success) | Eevee 116 V |   43 Cp | 62.00% | Lvl 02 | Chance: 0.96 | with a PokeBall and received XP 210
