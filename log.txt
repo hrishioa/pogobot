@@ -9020,3 +9020,4 @@
 [01:08:51] (INFO) Found 3 catchable Pokemon
 [01:08:53] (BERRY) ItemRazzBerry used, remaining: 49
 [01:08:53] (Wild Success) | Pidgeotto 118 V |  389 Cp | 28.83% | Lvl 13 | Chance: 0.2 | with a GreatBall and received XP 210
+[01:08:55] (Wild Success) | Pidgey 118 V |  273 Cp | 35.88% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
