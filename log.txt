@@ -8563,3 +8563,21 @@
 [00:52:45] (NAVIGATION) Distance to target location: 80.09 meters. Will take 9.61 seconds driving at 30kmh
 [00:52:54] (INFO) Found 1 catchable Pokemon
 [00:52:55] (Wild Success) | Pidgey 92 V |   74 Cp | 29.58% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:52:56] (INFO) Found 1 pokemon to transfer...
+[00:52:58] (TRANSFER) Pidgey 92 V |   74 Cp | 29.58% | Lvl 05 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 329
+[00:53:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemGreatBall
+[00:53:01] (POKESTOP) Kopitiam - On the Ridge in 37.5 m distance
+[00:53:01] (NAVIGATION) Distance to target location: 37.5 meters. Will take 4.65 seconds driving at 29kmh
+[00:53:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:53:04] (POKESTOP) The Well-Wishing Wishing Well in 49.67 m distance
+[00:53:04] (NAVIGATION) Distance to target location: 49.67 meters. Will take 5.96 seconds driving at 30kmh
+[00:53:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[00:53:10] (INFO) Found 4 Recyclable Items:
+[00:53:10] (RECYCLING) RazzBerry x 1
+[00:53:11] (RECYCLING) PokeBall x 9
+[00:53:13] (RECYCLING) Potion x 1
+[00:53:13] (RECYCLING) Revive x 1
+[00:53:16] (POKESTOP) Fat Chicken Mural in 136.43 m distance
+[00:53:16] (NAVIGATION) Distance to target location: 136.43 meters. Will take 16.94 seconds driving at 29kmh
+[00:53:29] (INFO) Found 1 catchable Pokemon
+[00:53:30] (Wild Success) | Spearow 123 V |  217 Cp | 44.39% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
