@@ -12792,3 +12792,44 @@
 [03:09:45] (TRANSFER) Exeggcute 152 V |  313 Cp | 55.92% | Lvl 11 | Best: [Exeggcute 180 V |  494 Cp | 65.57% | Lvl 17] | Candy: 38
 [03:09:47] (INFO) Found 1 catchable Pokemon
 [03:09:48] (Wild Success) | Pidgey 123 V |   45 Cp | 64.06% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[03:09:50] (INFO) Found 1 pokemon to transfer...
+[03:09:51] (TRANSFER) Pidgey 123 V |   45 Cp | 64.06% | Lvl 03 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 564
+[03:09:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[03:09:55] (POKESTOP) Clementi West Green Alien Mural in 45.09 m distance
+[03:09:55] (NAVIGATION) Distance to target location: 45.09 meters. Will take 5.6 seconds driving at 29kmh
+[03:09:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 2 x ItemGreatBall
+[03:09:59] (INFO) Found 3 Recyclable Items:
+[03:10:00] (RECYCLING) RazzBerry x 1
+[03:10:01] (RECYCLING) PokeBall x 9
+[03:10:02] (RECYCLING) Potion x 2
+[03:10:03] (EGG) Hatched egg! Magikarp            121 True Value |  138 Cp | 82.05% Perfect | Lvl 20 | Splash/Struggle
+[03:10:03] (EGG) Hatched egg! Onix                153 True Value |   82 Cp | 69.75% Perfect | Lvl 04 | Tackle/StoneEdge
+[03:10:03] (EGG) Hatched egg! Sandshrew           150 True Value |   57 Cp | 86.77% Perfect | Lvl 03 | Scratch/RockSlide
+[03:10:04] (EGG) Added 2km egg to incubator
+[03:10:04] (EGG) Added 5km egg to incubator
+[03:10:05] (EGG) Added 5km egg to incubator
+[03:10:06] (POKESTOP) West Coast Community Centre in 241.11 m distance
+[03:10:06] (NAVIGATION) Distance to target location: 241.11 meters. Will take 19.73 seconds driving at 44kmh
+[03:10:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[03:10:26] (POKESTOP) Clementi Bible Center in 71.39 m distance
+[03:10:26] (NAVIGATION) Distance to target location: 71.39 meters. Will take 8.29 seconds driving at 31kmh
+[03:10:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[03:10:35] (POKESTOP) West Coast Park Connector in 48.34 m distance
+[03:10:35] (NAVIGATION) Distance to target location: 48.34 meters. Will take 6.22 seconds driving at 28kmh
+[03:10:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[03:10:41] (POKESTOP) Clementi Woods Park in 63.45 m distance
+[03:10:41] (NAVIGATION) Distance to target location: 63.45 meters. Will take 7.88 seconds driving at 29kmh
+[03:10:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[03:10:49] (POKESTOP) Clementi Woods Playground in 143.28 m distance
+[03:10:49] (NAVIGATION) Distance to target location: 143.28 meters. Will take 16.12 seconds driving at 32kmh
+[03:11:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 2 x ItemGreatBall
+[03:11:05] (INFO) Found 5 Recyclable Items:
+[03:11:05] (RECYCLING) RazzBerry x 1
+[03:11:07] (RECYCLING) PokeBall x 8
+[03:11:08] (RECYCLING) Potion x 2
+[03:11:09] (RECYCLING) SuperPotion x 1
+[03:11:10] (RECYCLING) Revive x 1
+[03:11:12] (POKESTOP) Focusing Coils in 719.86 m distance
+[03:11:12] (NAVIGATION) Distance to target location: 719.86 meters. Will take 37.02 seconds driving at 70kmh
+[03:11:24] (INFO) Found 1 catchable Pokemon
+[03:11:25] (Wild Success) | Ekans 144 V |  325 Cp | 44.90% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
