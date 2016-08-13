@@ -4856,3 +4856,15 @@
 [22:51:18] (NAVIGATION) Distance to target location: 342.33 meters. Will take 19.88 seconds driving at 62kmh
 [22:51:37] (INFO) Found 1 catchable Pokemon
 [22:51:38] (Wild Success) | Magikarp 90 V |   42 Cp | 60.69% | Lvl 07 | Chance: 0.8 | with a PokeBall and received XP 420
+[22:51:40] (INFO) Found 1 pokemon to transfer...
+[22:51:41] (TRANSFER) Magikarp 90 V |   42 Cp | 60.69% | Lvl 07 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 82
+[22:51:43] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 2 x ItemRazzBerry
+[22:51:45] (POKESTOP) Cut CO2 Emission By 180 Million Tons A Year in 172.13 m distance
+[22:51:45] (NAVIGATION) Distance to target location: 172.13 meters. Will take 19.99 seconds driving at 31kmh
+[22:52:03] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:52:04] (INFO) Found 3 Recyclable Items:
+[22:52:05] (RECYCLING) RazzBerry x 2
+[22:52:05] (RECYCLING) PokeBall x 7
+[22:52:06] (RECYCLING) GreatBall x 2
+[22:52:08] (INFO) Found 1 catchable Pokemon
+[22:52:10] (Wild Success) | Staryu 152 V |  123 Cp | 90.20% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
