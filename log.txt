@@ -9351,3 +9351,52 @@
 [01:20:21] (NAVIGATION) Distance to target location: 108.76 meters. Will take 13.5 seconds driving at 29kmh
 [01:20:30] (INFO) Found 1 catchable Pokemon
 [01:20:31] (Wild Success) | Pidgey 87 V |  188 Cp | 28.26% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:20:33] (INFO) Found 1 pokemon to transfer...
+[01:20:35] (TRANSFER) Pidgey 87 V |  188 Cp | 28.26% | Lvl 12 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 384
+[01:20:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:20:39] (POKESTOP) NUHS Tower Block in 65.75 m distance
+[01:20:39] (NAVIGATION) Distance to target location: 65.75 meters. Will take 7.4 seconds driving at 32kmh
+[01:20:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemSuperPotion, 1 x ItemGreatBall
+[01:20:46] (POKESTOP) Pgp eCanteen in 184.3 m distance
+[01:20:46] (NAVIGATION) Distance to target location: 184.3 meters. Will take 19.51 seconds driving at 34kmh
+[01:21:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemGreatBall
+[01:21:06] (POKESTOP) Memorial at PGPR in 116.53 m distance
+[01:21:06] (NAVIGATION) Distance to target location: 116.53 meters. Will take 13.98 seconds driving at 30kmh
+[01:21:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:21:18] (INFO) Found 5 Recyclable Items:
+[01:21:19] (RECYCLING) RazzBerry x 2
+[01:21:20] (RECYCLING) PokeBall x 6
+[01:21:21] (RECYCLING) Potion x 1
+[01:21:22] (RECYCLING) SuperPotion x 1
+[01:21:24] (RECYCLING) Revive x 1
+[01:21:26] (POKESTOP) The Clock in 79.61 m distance
+[01:21:26] (NAVIGATION) Distance to target location: 79.61 meters. Will take 9.24 seconds driving at 31kmh
+[01:21:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:21:36] (POKESTOP) Sculpture at PGPR in 100.56 m distance
+[01:21:36] (NAVIGATION) Distance to target location: 100.56 meters. Will take 12.07 seconds driving at 30kmh
+[01:21:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:21:47] (POKESTOP) Institute of Microelectronics in 148.16 m distance
+[01:21:47] (NAVIGATION) Distance to target location: 148.16 meters. Will take 19.05 seconds driving at 28kmh
+[01:22:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemSuperPotion
+[01:22:06] (POKESTOP) Moai Statue at APEC Secretariat in 190.87 m distance
+[01:22:06] (NAVIGATION) Distance to target location: 190.87 meters. Will take 19.63 seconds driving at 35kmh
+[01:22:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRevive
+[01:22:26] (POKESTOP) Beacon of Hope in 99.56 m distance
+[01:22:26] (NAVIGATION) Distance to target location: 99.56 meters. Will take 11.2 seconds driving at 32kmh
+[01:22:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:22:38] (INFO) Found 4 Recyclable Items:
+[01:22:38] (RECYCLING) PokeBall x 10
+[01:22:39] (RECYCLING) Potion x 1
+[01:22:40] (RECYCLING) SuperPotion x 1
+[01:22:41] (RECYCLING) Revive x 1
+[01:22:44] (POKESTOP) Beautiful Waterfall in 98.77 m distance
+[01:22:44] (NAVIGATION) Distance to target location: 98.77 meters. Will take 12.7 seconds driving at 28kmh
+[01:22:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:22:56] (POKESTOP) Institute of Systems Science in 121.61 m distance
+[01:22:56] (NAVIGATION) Distance to target location: 121.61 meters. Will take 15.1 seconds driving at 29kmh
+[01:23:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, 2 x ItemGreatBall, 1 x ItemSuperPotion
+[01:23:10] (POKESTOP) Benjamin Henry Sheares in 136.38 m distance
+[01:23:10] (NAVIGATION) Distance to target location: 136.38 meters. Will take 16.37 seconds driving at 30kmh
+[01:23:18] (INFO) Found 2 catchable Pokemon
+[01:23:19] (BERRY) ItemRazzBerry used, remaining: 50
+[01:23:20] (Wild Success) | Eevee 181 V |  590 Cp | 59.89% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
