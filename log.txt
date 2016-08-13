@@ -6378,3 +6378,60 @@
 [23:40:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
 [23:40:53] (INFO) Found 1 catchable Pokemon
 [23:40:55] (Wild Success) | Goldeen 180 V |  394 Cp | 79.31% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[23:40:57] (INFO) Found 1 pokemon to transfer...
+[23:40:59] (TRANSFER) Goldeen 168 V |  205 Cp | 76.03% | Lvl 08 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 98
+[23:40:59] (POKESTOP) Hippocratic Oath in 63.1 m distance
+[23:40:59] (NAVIGATION) Distance to target location: 63.1 meters. Will take 7.83 seconds driving at 29kmh
+[23:41:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:41:07] (POKESTOP) Hope Sculpture in 137.19 m distance
+[23:41:07] (NAVIGATION) Distance to target location: 137.19 meters. Will take 17.64 seconds driving at 28kmh
+[23:41:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:41:24] (INFO) Found 3 Recyclable Items:
+[23:41:25] (RECYCLING) PokeBall x 8
+[23:41:26] (RECYCLING) Potion x 3
+[23:41:27] (RECYCLING) Revive x 1
+[23:41:30] (POKESTOP) I Carry Your Heart in 129.83 m distance
+[23:41:30] (NAVIGATION) Distance to target location: 129.83 meters. Will take 15.58 seconds driving at 30kmh
+[23:41:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[23:41:44] (POKESTOP) The Well-Wishing Wishing Well in 100.89 m distance
+[23:41:44] (NAVIGATION) Distance to target location: 100.89 meters. Will take 12.97 seconds driving at 28kmh
+[23:41:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[23:41:57] (POKESTOP) JFDI the Frog in 465.2 m distance
+[23:41:57] (NAVIGATION) Distance to target location: 465.2 meters. Will take 23.92 seconds driving at 70kmh
+[23:42:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:42:23] (POKESTOP) Mural at Block 71 in 88.7 m distance
+[23:42:23] (NAVIGATION) Distance to target location: 88.7 meters. Will take 11.4 seconds driving at 28kmh
+[23:42:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[23:42:34] (POKESTOP) Ayer Rajah Industrial Estate in 226.45 m distance
+[23:42:34] (NAVIGATION) Distance to target location: 226.45 meters. Will take 19.88 seconds driving at 41kmh
+[23:42:53] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemHyperPotion
+[23:42:53] (INFO) Found 3 Recyclable Items:
+[23:42:55] (RECYCLING) PokeBall x 10
+[23:42:56] (RECYCLING) Potion x 1
+[23:42:56] (RECYCLING) Revive x 3
+[23:42:59] (POKESTOP) Education in 81.37 m distance
+[23:42:59] (NAVIGATION) Distance to target location: 81.37 meters. Will take 10.46 seconds driving at 28kmh
+[23:43:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:43:10] (POKESTOP) Circle of Life Statue in 54.11 m distance
+[23:43:10] (NAVIGATION) Distance to target location: 54.11 meters. Will take 6.49 seconds driving at 30kmh
+[23:43:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[23:43:16] (POKESTOP) Frog on Lily in 86.73 m distance
+[23:43:16] (NAVIGATION) Distance to target location: 86.73 meters. Will take 9.76 seconds driving at 32kmh
+[23:43:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:43:25] (POKESTOP) Insead in 73 m distance
+[23:43:25] (NAVIGATION) Distance to target location: 73 meters. Will take 8.48 seconds driving at 31kmh
+[23:43:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[23:43:42] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[23:43:42] (ATTENTION) Restarting the application due to error...
+[23:43:42] (INFO) Logging in via: Google
+[23:43:43] (INFO) Client logged in
+[23:43:43] (INFO) Found 65 Pokestops
+[23:43:44] (POKESTOP) A Visual Narrative Of Pandemonic Rhythmic Movement in 192.91 m distance
+[23:43:44] (NAVIGATION) Distance to target location: 192.91 meters. Will take 19.84 seconds driving at 35kmh
+[23:44:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:44:03] (INFO) Found 3 Recyclable Items:
+[23:44:04] (RECYCLING) PokeBall x 8
+[23:44:05] (RECYCLING) Potion x 2
+[23:44:06] (RECYCLING) Revive x 1
+[23:44:08] (INFO) Found 1 catchable Pokemon
+[23:44:10] (Wild Success) | Rattata 124 V |   37 Cp | 54.81% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
