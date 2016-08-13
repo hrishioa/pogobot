@@ -11172,3 +11172,15 @@
 [02:17:10] (TRANSFER) Pidgey 123 V |  269 Cp | 50.51% | Lvl 16 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 488
 [02:17:11] (INFO) Found 1 catchable Pokemon
 [02:17:13] (Wild Success) | Pidgey 98 V |  171 Cp | 26.17% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
+[02:17:14] (INFO) Found 1 pokemon to transfer...
+[02:17:15] (TRANSFER) Pidgey 98 V |  171 Cp | 26.17% | Lvl 11 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 492
+[02:17:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:17:19] (POKESTOP) Pavilion In the Park in 587.64 m distance
+[02:17:19] (NAVIGATION) Distance to target location: 587.64 meters. Will take 30.22 seconds driving at 70kmh
+[02:17:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:17:50] (INFO) Found 3 Recyclable Items:
+[02:17:51] (RECYCLING) PokeBall x 5
+[02:17:52] (RECYCLING) Potion x 2
+[02:17:53] (RECYCLING) SuperPotion x 1
+[02:17:55] (INFO) Found 1 catchable Pokemon
+[02:17:57] (Wild Success) | Zubat 114 V |  216 Cp | 41.95% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 420
