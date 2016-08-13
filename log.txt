@@ -3313,3 +3313,7 @@
 [21:50:44] (INFO) Found 2 catchable Pokemon
 [21:50:45] (Wild Success) | NidoranMale 113 V |  282 Cp | 32.82% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 710
 [21:50:47] (Wild Success) | Weedle 80 V |  132 Cp | 35.47% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[21:50:48] (INFO) Found 1 pokemon to transfer...
+[21:50:50] (TRANSFER) Weedle 80 V |  132 Cp | 35.47% | Lvl 13 | Best: [Weedle 114 V |  137 Cp | 44.94% | Lvl 13] | Candy: 78
+[21:50:52] (INFO) Found 1 catchable Pokemon
+[21:50:53] (Wild Success) | Magikarp 99 V |   83 Cp | 65.77% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
