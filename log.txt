@@ -4327,3 +4327,4 @@
 [22:27:47] (Wild Success) | Golbat 173 V |  413 Cp | 72.30% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
 [22:27:49] (Wild Success) | Zubat 122 V |   42 Cp | 58.38% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [22:27:51] (Wild Success) | Koffing 180 V |  314 Cp | 79.21% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[22:27:52] (Wild Success) | Goldeen 159 V |  126 Cp | 87.20% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
