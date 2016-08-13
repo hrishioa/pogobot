@@ -5087,3 +5087,32 @@
 [22:58:53] (NAVIGATION) Distance to target location: 101.91 meters. Will take 12.65 seconds driving at 29kmh
 [22:58:59] (INFO) Found 1 catchable Pokemon
 [22:59:01] (Wild Success) | Koffing 159 V |   16 Cp | 92.50% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
+[22:59:03] (INFO) Found 2 pokemon to transfer...
+[22:59:04] (TRANSFER) Koffing 149 V |  113 Cp | 72.96% | Lvl 04 | Best: [Koffing 180 V |  314 Cp | 79.21% | Lvl 10] | Candy: 10
+[22:59:06] (TRANSFER) Koffing 159 V |   16 Cp | 92.50% | Lvl 01 | Best: [Koffing 180 V |  314 Cp | 79.21% | Lvl 10] | Candy: 11
+[22:59:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:59:11] (POKESTOP) Dover CC Fitness Club in 67.06 m distance
+[22:59:11] (NAVIGATION) Distance to target location: 67.06 meters. Will take 8.05 seconds driving at 30kmh
+[22:59:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[22:59:18] (POKESTOP) Park View in 70.49 m distance
+[22:59:18] (NAVIGATION) Distance to target location: 70.49 meters. Will take 9.06 seconds driving at 28kmh
+[22:59:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:59:27] (POKESTOP) Library in St John Church  in 97.29 m distance
+[22:59:27] (NAVIGATION) Distance to target location: 97.29 meters. Will take 12.51 seconds driving at 28kmh
+[22:59:38] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 2 x ItemPotion, 1 x ItemRazzBerry
+[22:59:38] (INFO) Found 2 Recyclable Items:
+[22:59:38] (RECYCLING) RazzBerry x 2
+[22:59:40] (RECYCLING) PokeBall x 8
+[22:59:42] (POKESTOP) Bethel Auditorium in St John Church in 39.61 m distance
+[22:59:42] (NAVIGATION) Distance to target location: 39.61 meters. Will take 4.92 seconds driving at 29kmh
+[22:59:46] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:59:47] (POKESTOP) St. John's - St. Margaret's Church in 92.71 m distance
+[22:59:47] (NAVIGATION) Distance to target location: 92.71 meters. Will take 10.77 seconds driving at 31kmh
+[22:59:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:59:58] (POKESTOP) Dover Ville in 79.53 m distance
+[22:59:58] (NAVIGATION) Distance to target location: 79.53 meters. Will take 10.23 seconds driving at 28kmh
+[23:00:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:00:08] (POKESTOP) Dover Crescent Playground and Fitness Park in 109.85 m distance
+[23:00:08] (NAVIGATION) Distance to target location: 109.85 meters. Will take 12.76 seconds driving at 31kmh
+[23:00:16] (INFO) Found 1 catchable Pokemon
+[23:00:18] (Wild Success) | Poliwag 139 V |  217 Cp | 48.18% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
