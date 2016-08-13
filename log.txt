@@ -11200,3 +11200,8 @@
 [02:18:44] (NAVIGATION) Distance to target location: 75.97 meters. Will take 9.12 seconds driving at 30kmh
 [02:18:45] (INFO) Found 1 catchable Pokemon
 [02:18:47] (Wild Success) | Zubat 136 V |  194 Cp | 57.37% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 420
+[02:18:49] (INFO) Found 1 pokemon to transfer...
+[02:18:50] (TRANSFER) Zubat 136 V |  194 Cp | 57.37% | Lvl 12 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 611
+[02:18:51] (INFO) Found 1 catchable Pokemon
+[02:18:53] (BERRY) ItemRazzBerry used, remaining: 51
+[02:18:53] (Wild Success) | Clefairy 166 V |  600 Cp | 19.05% | Lvl 21 | Chance: 0.19 | with a UltraBall and received XP 420
