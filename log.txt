@@ -6668,3 +6668,10 @@
 [23:50:55] (TRANSFER) Doduo 87 V |   10 Cp | 39.27% | Lvl 01 | Best: [Doduo 111 V |  167 Cp | 47.37% | Lvl 08] | Candy: 21
 [23:50:56] (INFO) Found 1 catchable Pokemon
 [23:50:58] (Wild Success) | Staryu 116 V |   12 Cp | 63.50% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:50:59] (INFO) Found 1 pokemon to transfer...
+[23:51:02] (TRANSFER) Staryu 116 V |   12 Cp | 63.50% | Lvl 01 | Best: [Staryu 158 V |  255 Cp | 80.25% | Lvl 10] | Candy: 66
+[23:51:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:51:04] (POKESTOP) Dover CC Fitness Club in 58.58 m distance
+[23:51:04] (NAVIGATION) Distance to target location: 58.58 meters. Will take 7.53 seconds driving at 28kmh
+[23:51:09] (INFO) Found 1 catchable Pokemon
+[23:51:10] (Wild Success) | Spearow 133 V |  251 Cp | 67.75% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
