@@ -6959,3 +6959,4 @@
 [23:59:26] (TRANSFER) Ekans 133 V |  365 Cp | 44.78% | Lvl 18 | Best: [Ekans 160 V |  250 Cp | 54.56% | Lvl 12] | Candy: 66
 [23:59:35] (INFO) Found 3 catchable Pokemon
 [23:59:36] (Wild Success) | Staryu 150 V |  201 Cp | 79.88% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:59:38] (Wild Success) | Zubat 132 V |   93 Cp | 58.33% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 310
