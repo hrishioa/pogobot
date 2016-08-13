@@ -4051,3 +4051,19 @@
 [22:15:36] (NAVIGATION) Distance to target location: 596.07 meters. Will take 30.66 seconds driving at 70kmh
 [22:15:41] (INFO) Found 1 catchable Pokemon
 [22:15:43] (Wild Success) | Clefairy 123 V |  233 Cp | 32.56% | Lvl 08 | Chance: 0.31 | with a GreatBall and received XP 210
+[22:15:45] (INFO) Found 1 pokemon to transfer...
+[22:15:46] (TRANSFER) Clefairy 123 V |  233 Cp | 32.56% | Lvl 08 | Best: [Clefairy 159 V |  362 Cp | 41.21% | Lvl 12] | Candy: 34
+[22:16:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[22:16:10] (POKESTOP) Templar Stained Glass Window in 238.2 m distance
+[22:16:10] (NAVIGATION) Distance to target location: 238.2 meters. Will take 19.94 seconds driving at 43kmh
+[22:16:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:16:31] (POKESTOP) Gears of War  in 121.36 m distance
+[22:16:31] (NAVIGATION) Distance to target location: 121.36 meters. Will take 15.07 seconds driving at 29kmh
+[22:16:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:16:45] (POKESTOP) The Grocer in 72.42 m distance
+[22:16:45] (NAVIGATION) Distance to target location: 72.42 meters. Will take 9.31 seconds driving at 28kmh
+[22:16:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[22:16:54] (POKESTOP) Cafe Colbar in 253.13 m distance
+[22:16:54] (NAVIGATION) Distance to target location: 253.13 meters. Will take 19.81 seconds driving at 46kmh
+[22:17:10] (INFO) Found 1 catchable Pokemon
+[22:17:12] (Wild Success) | Zubat 96 V |  190 Cp | 26.96% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
