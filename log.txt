@@ -1812,3 +1812,14 @@
 [21:02:57] (INFO) Found 2 catchable Pokemon
 [21:02:59] (Wild Success) | Krabby 127 V |  140 Cp | 63.38% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [21:03:00] (Wild Success) | Pidgey 103 V |   26 Cp | 49.79% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[21:03:02] (INFO) Found 2 pokemon to transfer...
+[21:03:04] (TRANSFER) Krabby 121 V |   75 Cp | 66.16% | Lvl 04 | Best: [Krabby 127 V |  118 Cp | 64.57% | Lvl 06] | Candy: 30
+[21:03:06] (TRANSFER) Pidgey 103 V |   26 Cp | 49.79% | Lvl 02 | Best: [Pidgey 119 V |  152 Cp | 53.65% | Lvl 09] | Candy: 120
+[21:03:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:03:10] (POKESTOP) Red Top Pavilion And Gathering Ground in 156.85 m distance
+[21:03:10] (NAVIGATION) Distance to target location: 156.85 meters. Will take 19.47 seconds driving at 29kmh
+[21:03:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 5 x ItemPokeBall
+[21:03:29] (POKESTOP) Fountain  Of EMPTY PROMISES in 142.42 m distance
+[21:03:29] (NAVIGATION) Distance to target location: 142.42 meters. Will take 16.02 seconds driving at 32kmh
+[21:03:41] (INFO) Found 1 catchable Pokemon
+[21:03:43] (Wild Success) | Tangela 137 V |  213 Cp | 48.79% | Lvl 05 | Chance: 0.55 | with a PokeBall and received XP 210
