@@ -856,3 +856,8 @@
 [20:28:57] (RECYCLING) Potion x 3
 [20:28:59] (INFO) Found 1 catchable Pokemon
 [20:29:00] (Wild Success) | Jynx 106 V |  113 Cp | 35.15% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 710
+[20:29:02] (POKESTOP) Monitor Lizard Sign in Kent Ridge Park in 90.28 m distance
+[20:29:02] (NAVIGATION) Distance to target location: 90.28 meters. Will take 11.61 seconds driving at 28kmh
+[20:29:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPotion, 1 x ItemRazzBerry
+[20:29:13] (INFO) Found 1 catchable Pokemon
+[20:29:15] (Wild Success) | Magikarp 125 V |   34 Cp | 96.64% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
