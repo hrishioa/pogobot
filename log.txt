@@ -568,3 +568,20 @@
 [20:18:46] (INFO) Found 2 catchable Pokemon
 [20:18:48] (Wild Success) | Spearow 126 V |   10 Cp | 64.69% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [20:18:49] (Wild Success) | Rattata 149 V |  135 Cp | 69.99% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:18:51] (INFO) Found 2 pokemon to transfer...
+[20:18:52] (TRANSFER) Spearow 101 V |   61 Cp | 44.76% | Lvl 04 | Best: [Spearow 133 V |  121 Cp | 63.82% | Lvl 07] | Candy: 22
+[20:18:55] (TRANSFER) Spearow 126 V |   10 Cp | 64.69% | Lvl 01 | Best: [Spearow 133 V |  121 Cp | 63.82% | Lvl 07] | Candy: 23
+[20:18:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[20:18:59] (POKESTOP) Haw Par Villa Gate in 60.46 m distance
+[20:18:59] (NAVIGATION) Distance to target location: 60.46 meters. Will take 7.77 seconds driving at 28kmh
+[20:19:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:19:06] (POKESTOP) Haw Par Villa in 70.64 m distance
+[20:19:06] (NAVIGATION) Distance to target location: 70.64 meters. Will take 8.77 seconds driving at 29kmh
+[20:19:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:19:14] (POKESTOP) Haw Par Villa Mrt in 80.15 m distance
+[20:19:14] (NAVIGATION) Distance to target location: 80.15 meters. Will take 9.31 seconds driving at 31kmh
+[20:19:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:19:23] (POKESTOP) Circle Line Art at HPV in 402.02 m distance
+[20:19:23] (NAVIGATION) Distance to target location: 402.02 meters. Will take 20.68 seconds driving at 70kmh
+[20:19:29] (INFO) Found 2 catchable Pokemon
+[20:19:31] (Wild Success) | Golbat 164 V |  303 Cp | 74.37% | Lvl 06 | Chance: 0.24 | with a PokeBall and received XP 710
