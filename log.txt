@@ -6859,3 +6859,13 @@
 [23:55:21] (INFO) Found 2 catchable Pokemon
 [23:55:22] (Wild Success) | Rattata 119 V |  165 Cp | 41.08% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [23:55:24] (Wild Success) | Spearow 112 V |  185 Cp | 46.87% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[23:55:26] (INFO) Found 2 pokemon to transfer...
+[23:55:28] (TRANSFER) Spearow 112 V |  185 Cp | 46.87% | Lvl 11 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 115
+[23:55:29] (TRANSFER) Rattata 119 V |  165 Cp | 41.08% | Lvl 12 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 121
+[23:55:30] (POKESTOP) ACJC-FCPA at Dover in 88.26 m distance
+[23:55:30] (NAVIGATION) Distance to target location: 88.26 meters. Will take 10.25 seconds driving at 31kmh
+[23:55:40] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 4 x ItemPokeBall, 1 x ItemPotion
+[23:55:41] (POKESTOP) SUTD Blue Wall Mural in 348.97 m distance
+[23:55:41] (NAVIGATION) Distance to target location: 348.97 meters. Will take 19.94 seconds driving at 63kmh
+[23:55:52] (INFO) Found 1 catchable Pokemon
+[23:55:53] (Wild Success) | Weedle 87 V |   86 Cp | 22.67% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
