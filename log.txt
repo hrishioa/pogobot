@@ -10572,3 +10572,31 @@
 [01:58:42] (NAVIGATION) Distance to target location: 88.87 meters. Will take 11.43 seconds driving at 28kmh
 [01:58:45] (INFO) Found 1 catchable Pokemon
 [01:58:46] (Wild Success) | Zubat 142 V |  246 Cp | 61.80% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[01:58:48] (INFO) Found 1 pokemon to transfer...
+[01:58:50] (TRANSFER) Zubat 142 V |  246 Cp | 61.80% | Lvl 15 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 581
+[01:58:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[01:58:54] (POKESTOP) NUS Ridge View Residences Plaque in 284.84 m distance
+[01:58:54] (NAVIGATION) Distance to target location: 284.84 meters. Will take 19.72 seconds driving at 52kmh
+[01:59:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[01:59:17] (POKESTOP) CRISP & TMSI in 172.64 m distance
+[01:59:17] (NAVIGATION) Distance to target location: 172.64 meters. Will take 19.42 seconds driving at 32kmh
+[01:59:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:59:36] (POKESTOP) Centre For Development Of Teaching And Learning in 124.18 m distance
+[01:59:36] (NAVIGATION) Distance to target location: 124.18 meters. Will take 14.9 seconds driving at 30kmh
+[01:59:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:59:50] (INFO) Found 5 Recyclable Items:
+[01:59:51] (RECYCLING) RazzBerry x 3
+[01:59:52] (RECYCLING) PokeBall x 4
+[01:59:53] (RECYCLING) Potion x 1
+[01:59:54] (RECYCLING) HyperPotion x 1
+[01:59:55] (RECYCLING) Revive x 1
+[01:59:58] (POKESTOP) Chinese Scholar Painting in 62.05 m distance
+[01:59:58] (NAVIGATION) Distance to target location: 62.05 meters. Will take 6.98 seconds driving at 32kmh
+[02:00:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemUltraBall
+[02:00:04] (POKESTOP) Kent Ridge Heritage Trail in 86.03 m distance
+[02:00:04] (NAVIGATION) Distance to target location: 86.03 meters. Will take 10.32 seconds driving at 30kmh
+[02:00:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[02:00:14] (POKESTOP) The Deck at Arts Faculty in 273.9 m distance
+[02:00:14] (NAVIGATION) Distance to target location: 273.9 meters. Will take 19.72 seconds driving at 50kmh
+[02:00:25] (INFO) Found 1 catchable Pokemon
+[02:00:26] (Wild Success) | Caterpie 84 V |  149 Cp | 19.35% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
