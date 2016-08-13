@@ -10845,3 +10845,13 @@
 [02:05:18] (NAVIGATION) Distance to target location: 116.97 meters. Will take 14.52 seconds driving at 29kmh
 [02:05:24] (INFO) Found 1 catchable Pokemon
 [02:05:26] (Wild Success) | Pidgey 75 V |   10 Cp | 18.76% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
+[02:05:28] (INFO) Found 1 pokemon to transfer...
+[02:05:29] (TRANSFER) Pidgey 75 V |   10 Cp | 18.76% | Lvl 01 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 480
+[02:05:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[02:05:33] (POKESTOP) SDE Mural in 114.37 m distance
+[02:05:33] (NAVIGATION) Distance to target location: 114.37 meters. Will take 13.28 seconds driving at 31kmh
+[02:05:44] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:05:45] (POKESTOP) Center for English Language Communication in 117.64 m distance
+[02:05:45] (NAVIGATION) Distance to target location: 117.64 meters. Will take 15.13 seconds driving at 28kmh
+[02:05:52] (INFO) Found 1 catchable Pokemon
+[02:05:53] (Wild Success) | Zubat 156 V |  256 Cp | 75.09% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 420
