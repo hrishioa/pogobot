@@ -951,3 +951,4 @@
 [20:34:05] (NAVIGATION) Distance to target location: 106.82 meters. Will take 13.73 seconds driving at 28kmh
 [20:34:13] (INFO) Found 2 catchable Pokemon
 [20:34:14] (Wild Success) | Meowth 135 V |   93 Cp | 66.13% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 710
+[20:34:16] (Wild Success) | Krabby 110 V |   73 Cp | 55.99% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
