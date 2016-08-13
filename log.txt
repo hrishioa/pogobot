@@ -20692,3 +20692,5 @@
 [07:38:15] (INFO) Found 3 catchable Pokemon
 [07:38:16] (BERRY) ItemRazzBerry used, remaining: 49
 [07:38:17] (Wild Success) | Pidgey 128 V |  389 Cp | 38.79% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[07:38:19] (BERRY) ItemRazzBerry used, remaining: 48
+[07:38:19] (Wild Success) | Bulbasaur 146 V |  515 Cp | 9.08% | Lvl 21 | Chance: 0.13 | with a UltraBall and received XP 210
