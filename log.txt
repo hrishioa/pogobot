@@ -10403,3 +10403,9 @@
 [01:55:16] (INFO) Found 2 catchable Pokemon
 [01:55:17] (Wild Success) | Mankey 134 V |  201 Cp | 57.20% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [01:55:19] (Wild Success) | Pidgey 94 V |  281 Cp | 11.33% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[01:55:20] (INFO) Found 1 pokemon to transfer...
+[01:55:22] (TRANSFER) Pidgey 94 V |  281 Cp | 11.33% | Lvl 19 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 460
+[01:55:23] (POKESTOP) A Spring Of Gratitude  in 58.63 m distance
+[01:55:23] (NAVIGATION) Distance to target location: 58.63 meters. Will take 7.28 seconds driving at 29kmh
+[01:55:24] (INFO) Found 1 catchable Pokemon
+[01:55:26] (Wild Success) | Paras 172 V |  225 Cp | 84.67% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
