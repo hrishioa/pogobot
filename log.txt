@@ -12138,3 +12138,8 @@
 [02:49:39] (INFO) Found 1 catchable Pokemon
 [02:49:40] (BERRY) ItemRazzBerry used, remaining: 47
 [02:49:41] (Wild Success) | Eevee 176 V |  568 Cp | 64.48% | Lvl 20 | Chance: 0.26 | with a GreatBall and received XP 210
+[02:49:43] (INFO) Found 1 pokemon to transfer...
+[02:49:44] (TRANSFER) Eevee 176 V |  568 Cp | 64.48% | Lvl 20 | Best: [Eevee 184 V |  408 Cp | 76.28% | Lvl 14] | Candy: 74
+[02:49:47] (INFO) Found 1 catchable Pokemon
+[02:49:48] (BERRY) ItemRazzBerry used, remaining: 46
+[02:49:49] (Wild Success) | Pidgey 125 V |  358 Cp | 39.29% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
