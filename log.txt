@@ -18441,3 +18441,19 @@
 [06:25:15] (NAVIGATION) Distance to target location: 95.85 meters. Will take 10.78 seconds driving at 32kmh
 [06:25:21] (INFO) Found 1 catchable Pokemon
 [06:25:23] (Wild Success) | Omanyte 164 V |  302 Cp | 75.03% | Lvl 10 | Chance: 0.37 | with a UltraBall and received XP 210
+[06:25:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[06:25:28] (INFO) Found 4 Recyclable Items:
+[06:25:28] (RECYCLING) PokeBall x 5
+[06:25:29] (RECYCLING) Potion x 1
+[06:25:30] (RECYCLING) SuperPotion x 1
+[06:25:31] (RECYCLING) Revive x 1
+[06:25:34] (POKESTOP) Mythical Creature Mural in 60.97 m distance
+[06:25:34] (NAVIGATION) Distance to target location: 60.97 meters. Will take 7.32 seconds driving at 30kmh
+[06:25:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:25:41] (POKESTOP) West Coast Playground in 73.39 m distance
+[06:25:41] (NAVIGATION) Distance to target location: 73.39 meters. Will take 9.11 seconds driving at 29kmh
+[06:25:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:25:50] (POKESTOP) West Coast Fitness Corner in 77.8 m distance
+[06:25:50] (NAVIGATION) Distance to target location: 77.8 meters. Will take 9.66 seconds driving at 29kmh
+[06:25:54] (INFO) Found 1 catchable Pokemon
+[06:25:55] (Wild Success) | Rattata 135 V |  202 Cp | 54.60% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
