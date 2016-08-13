@@ -7849,3 +7849,17 @@
 [00:29:13] (NAVIGATION) Distance to target location: 293.16 meters. Will take 19.91 seconds driving at 53kmh
 [00:29:32] (INFO) Found 1 catchable Pokemon
 [00:29:33] (Wild Success) | Poliwag 143 V |  326 Cp | 58.31% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
+[00:29:35] (INFO) Found 1 pokemon to transfer...
+[00:29:36] (TRANSFER) Poliwag 143 V |  326 Cp | 58.31% | Lvl 16 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 69
+[00:29:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[00:29:39] (INFO) Found 3 Recyclable Items:
+[00:29:40] (RECYCLING) PokeBall x 5
+[00:29:40] (RECYCLING) Potion x 3
+[00:29:42] (RECYCLING) Revive x 4
+[00:29:45] (POKESTOP) NUS Faculty of Dentistry in 73.9 m distance
+[00:29:45] (NAVIGATION) Distance to target location: 73.9 meters. Will take 8.31 seconds driving at 32kmh
+[00:29:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemPotion
+[00:29:52] (POKESTOP) Fat Chicken Mural in 396.44 m distance
+[00:29:52] (NAVIGATION) Distance to target location: 396.44 meters. Will take 20.39 seconds driving at 70kmh
+[00:30:07] (INFO) Found 1 catchable Pokemon
+[00:30:09] (Wild Success) | Weedle 79 V |   10 Cp | 23.12% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
