@@ -7022,3 +7022,14 @@
 [00:02:20] (INFO) Found 2 catchable Pokemon
 [00:02:23] (Wild Success) | Poliwag 175 V |  357 Cp | 69.98% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
 [00:02:24] (Wild Success) | Poliwag 99 V |   88 Cp | 31.01% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:02:26] (INFO) Found 2 pokemon to transfer...
+[00:02:27] (TRANSFER) Poliwag 147 V |  359 Cp | 51.63% | Lvl 18 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 52
+[00:02:30] (TRANSFER) Poliwag 99 V |   88 Cp | 31.01% | Lvl 05 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 53
+[00:02:31] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[00:02:32] (POKESTOP) NTU Alumni Club in 181.96 m distance
+[00:02:32] (NAVIGATION) Distance to target location: 181.96 meters. Will take 19.85 seconds driving at 33kmh
+[00:02:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[00:02:52] (POKESTOP) The Matrix in 343.96 m distance
+[00:02:52] (NAVIGATION) Distance to target location: 343.96 meters. Will take 19.97 seconds driving at 62kmh
+[00:03:12] (INFO) Found 2 catchable Pokemon
+[00:03:13] (Wild Success) | Pidgey 100 V |  207 Cp | 33.87% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
