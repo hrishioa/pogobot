@@ -16502,3 +16502,5 @@
 [05:19:34] (NAVIGATION) Distance to target location: 93.37 meters. Will take 10.5 seconds driving at 32kmh
 [05:19:35] (INFO) Found 1 catchable Pokemon
 [05:19:37] (Wild Success) | Staryu 132 V |  307 Cp | 51.14% | Lvl 13 | Chance: 0.41 | with a PokeBall and received XP 210
+[05:19:41] (INFO) Found 1 catchable Pokemon
+[05:19:43] (Wild Success) | Goldeen 163 V |  355 Cp | 65.14% | Lvl 14 | Chance: 0.4 | with a PokeBall and received XP 210
