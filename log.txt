@@ -1766,3 +1766,10 @@
 [21:01:09] (NAVIGATION) Distance to target location: 236.23 meters. Will take 19.78 seconds driving at 43kmh
 [21:01:13] (INFO) Found 1 catchable Pokemon
 [21:01:15] (Wild Success) | Spearow 110 V |  116 Cp | 50.58% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:01:16] (INFO) Found 1 pokemon to transfer...
+[21:01:18] (TRANSFER) Spearow 110 V |  116 Cp | 50.58% | Lvl 07 | Best: [Spearow 133 V |  121 Cp | 63.82% | Lvl 07] | Candy: 63
+[21:01:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:01:30] (POKESTOP) Princess Estate - Royal Connections in 95.04 m distance
+[21:01:30] (NAVIGATION) Distance to target location: 95.04 meters. Will take 11.4 seconds driving at 30kmh
+[21:01:40] (INFO) Found 1 catchable Pokemon
+[21:01:42] (Wild Success) | Exeggcute 140 V |  194 Cp | 56.21% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
