@@ -9633,3 +9633,25 @@
 [01:29:51] (TRANSFER) Squirtle 111 V |  362 Cp | 5.12% | Lvl 16 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 22
 [01:29:52] (INFO) Found 1 catchable Pokemon
 [01:29:54] (Wild Success) | Squirtle 84 V |  186 Cp | 20.35% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
+[01:29:56] (INFO) Found 1 pokemon to transfer...
+[01:29:57] (TRANSFER) Squirtle 84 V |  186 Cp | 20.35% | Lvl 08 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 26
+[01:29:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:30:00] (POKESTOP) Centre For Development Of Teaching And Learning in 59.77 m distance
+[01:30:00] (NAVIGATION) Distance to target location: 59.77 meters. Will take 6.72 seconds driving at 32kmh
+[01:30:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:30:07] (POKESTOP) Chinese Women Painting in 93.48 m distance
+[01:30:07] (NAVIGATION) Distance to target location: 93.48 meters. Will take 10.86 seconds driving at 31kmh
+[01:30:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:30:16] (INFO) Found 1 Recyclable Item:
+[01:30:17] (RECYCLING) PokeBall x 3
+[01:30:19] (POKESTOP) NUS Central Library in 65.4 m distance
+[01:30:19] (NAVIGATION) Distance to target location: 65.4 meters. Will take 8.12 seconds driving at 29kmh
+[01:30:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[01:30:27] (POKESTOP) Survival Mask in 48.62 m distance
+[01:30:27] (NAVIGATION) Distance to target location: 48.62 meters. Will take 5.47 seconds driving at 32kmh
+[01:30:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:30:33] (POKESTOP) Lucy's Left Ear in 59.2 m distance
+[01:30:33] (NAVIGATION) Distance to target location: 59.2 meters. Will take 6.66 seconds driving at 32kmh
+[01:30:34] (INFO) Found 1 catchable Pokemon
+[01:30:36] (BERRY) ItemRazzBerry used, remaining: 49
+[01:30:37] (Wild Success) | Pidgeotto 142 V |  595 Cp | 26.99% | Lvl 20 | Chance: 0.16 | with a GreatBall and received XP 210
