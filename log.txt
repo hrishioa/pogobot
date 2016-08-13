@@ -20555,3 +20555,11 @@
 [07:32:54] (NAVIGATION) Distance to target location: 71.84 meters. Will take 8.34 seconds driving at 31kmh
 [07:32:59] (INFO) Found 1 catchable Pokemon
 [07:33:01] (Wild Success) | Caterpie 117 V |   10 Cp | 61.13% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[07:33:02] (INFO) Found 2 pokemon to transfer...
+[07:33:04] (TRANSFER) Caterpie 101 V |  169 Cp | 34.44% | Lvl 17 | Best: [Caterpie 117 V |   10 Cp | 61.13% | Lvl 01] | Candy: 135
+[07:33:07] (TRANSFER) Caterpie 117 V |   10 Cp | 61.13% | Lvl 01 | Best: [Caterpie 102 V |  233 Cp | 28.76% | Lvl 24] | Candy: 136
+[07:33:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:33:10] (POKESTOP) Retro Chess Table  in 72.13 m distance
+[07:33:10] (NAVIGATION) Distance to target location: 72.13 meters. Will take 9.27 seconds driving at 28kmh
+[07:33:14] (INFO) Found 2 catchable Pokemon
+[07:33:16] (Wild Success) | Pidgey 128 V |  102 Cp | 68.00% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
