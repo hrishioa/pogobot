@@ -19006,3 +19006,8 @@
 [06:42:48] (TRANSFER) Zubat 144 V |   44 Cp | 75.33% | Lvl 03 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 554
 [06:42:49] (INFO) Found 1 catchable Pokemon
 [06:42:51] (Wild Success) | Zubat 147 V |   82 Cp | 84.13% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[06:42:53] (INFO) Found 1 pokemon to transfer...
+[06:42:54] (TRANSFER) Zubat 147 V |   82 Cp | 84.13% | Lvl 05 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 558
+[06:42:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 3 x ItemPokeBall
+[06:42:57] (INFO) Found 1 catchable Pokemon
+[06:42:59] (Wild Success) | Rattata 136 V |  132 Cp | 62.79% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
