@@ -12423,3 +12423,13 @@
 [02:58:17] (INFO) Found 2 catchable Pokemon
 [02:58:19] (Wild Success) | Pidgey 99 V |  258 Cp | 18.20% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
 [02:58:20] (Wild Success) | Rattata 143 V |  149 Cp | 65.57% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:58:22] (INFO) Found 2 pokemon to transfer...
+[02:58:24] (TRANSFER) Pidgey 99 V |  258 Cp | 18.20% | Lvl 17 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 540
+[02:58:26] (TRANSFER) Rattata 143 V |  149 Cp | 65.57% | Lvl 10 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 228
+[02:58:26] (POKESTOP) West Coast Fitness Corner in 103.21 m distance
+[02:58:26] (NAVIGATION) Distance to target location: 103.21 meters. Will take 13.27 seconds driving at 28kmh
+[02:58:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:58:39] (POKESTOP) Clementi Woods Fitness Corner in 474.33 m distance
+[02:58:39] (NAVIGATION) Distance to target location: 474.33 meters. Will take 24.39 seconds driving at 70kmh
+[02:58:48] (INFO) Found 1 catchable Pokemon
+[02:58:50] (Wild Success) | Zubat 90 V |   23 Cp | 32.77% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
