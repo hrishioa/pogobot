@@ -5977,3 +5977,16 @@
 [23:26:32] (TRANSFER) Zubat 139 V |  211 Cp | 58.46% | Lvl 13 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 349
 [23:26:34] (INFO) Found 1 catchable Pokemon
 [23:26:35] (Wild Success) | Zubat 90 V |   40 Cp | 40.91% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[23:26:37] (INFO) Found 1 pokemon to transfer...
+[23:26:39] (TRANSFER) Zubat 90 V |   40 Cp | 40.91% | Lvl 03 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 353
+[23:26:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:26:43] (POKESTOP) Central Lagoon in 84.4 m distance
+[23:26:43] (NAVIGATION) Distance to target location: 84.4 meters. Will take 9.5 seconds driving at 32kmh
+[23:26:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[23:26:53] (POKESTOP) Waves and Particles - NUS Science Faculty in 143.86 m distance
+[23:26:53] (NAVIGATION) Distance to target location: 143.86 meters. Will take 17.26 seconds driving at 30kmh
+[23:27:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:27:09] (POKESTOP) Reaching Out in 106.31 m distance
+[23:27:09] (NAVIGATION) Distance to target location: 106.31 meters. Will take 13.2 seconds driving at 29kmh
+[23:27:14] (INFO) Found 1 catchable Pokemon
+[23:27:16] (Wild Success) | Eevee 136 V |  136 Cp | 72.42% | Lvl 05 | Chance: 0.55 | with a PokeBall and received XP 210
