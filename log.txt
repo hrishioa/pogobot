@@ -16649,3 +16649,4 @@
 [05:26:50] (INFO) Found 3 catchable Pokemon
 [05:26:52] (Wild Success) | Weedle 92 V |  135 Cp | 23.21% | Lvl 14 | Chance: 0.4 | with a PokeBall and received XP 210
 [05:26:54] (Wild Success) | Rattata 135 V |  184 Cp | 49.65% | Lvl 13 | Chance: 0.41 | with a PokeBall and received XP 210
+[05:26:56] (Wild Success) | Sandshrew 125 V |  231 Cp | 37.84% | Lvl 12 | Chance: 0.43 | with a PokeBall and received XP 210
