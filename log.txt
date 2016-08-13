@@ -7795,3 +7795,10 @@
 [00:27:09] (BERRY) ItemRazzBerry used, remaining: 50
 [00:27:10] (Wild Success) | Bulbasaur 118 V |  417 Cp | 9.16% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
 [00:27:12] (Wild Success) | Goldeen 77 V |  105 Cp | 18.24% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:27:14] (INFO) Found 2 pokemon to transfer...
+[00:27:16] (TRANSFER) Goldeen 77 V |  105 Cp | 18.24% | Lvl 05 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 106
+[00:27:17] (TRANSFER) Bulbasaur 118 V |  417 Cp | 9.16% | Lvl 17 | Best: [Bulbasaur 169 V |  302 Cp | 53.73% | Lvl 11] | Candy: 42
+[00:27:25] (INFO) Found 1 catchable Pokemon
+[00:27:26] (Wild Flee) | Weedle 97 V |  146 Cp | 26.61% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[00:27:32] (INFO) Found 2 catchable Pokemon
+[00:27:33] (Wild Success) | Goldeen 167 V |  474 Cp | 58.47% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
