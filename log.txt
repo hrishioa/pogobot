@@ -8194,3 +8194,4 @@
 [00:39:37] (NAVIGATION) Distance to target location: 110.52 meters. Will take 13.72 seconds driving at 29kmh
 [00:39:43] (INFO) Found 3 catchable Pokemon
 [00:39:44] (Wild Success) | NidoranFemale 126 V |  220 Cp | 49.27% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[00:39:46] (Wild Success) | Krabby 105 V |  186 Cp | 32.19% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
