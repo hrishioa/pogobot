@@ -6119,3 +6119,13 @@
 [23:32:56] (NAVIGATION) Distance to target location: 128.28 meters. Will take 15.39 seconds driving at 30kmh
 [23:33:06] (INFO) Found 1 catchable Pokemon
 [23:33:07] (Wild Success) | Pidgey 87 V |  126 Cp | 34.23% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:33:09] (INFO) Found 1 pokemon to transfer...
+[23:33:10] (TRANSFER) Pidgey 87 V |  126 Cp | 34.23% | Lvl 08 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 218
+[23:33:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[23:33:15] (POKESTOP) NUSSU Sign in 40.5 m distance
+[23:33:15] (NAVIGATION) Distance to target location: 40.5 meters. Will take 4.7 seconds driving at 31kmh
+[23:33:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[23:33:22] (POKESTOP) Tree of Light Bulbs in 62.24 m distance
+[23:33:22] (NAVIGATION) Distance to target location: 62.24 meters. Will take 8 seconds driving at 28kmh
+[23:33:28] (INFO) Found 1 catchable Pokemon
+[23:33:29] (Wild Success) | Weedle 84 V |   75 Cp | 21.47% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
