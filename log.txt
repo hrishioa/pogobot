@@ -13050,3 +13050,13 @@
 [03:17:09] (NAVIGATION) Distance to target location: 112.77 meters. Will take 13.1 seconds driving at 31kmh
 [03:17:19] (INFO) Found 1 catchable Pokemon
 [03:17:21] (Wild Success) | Rattata 117 V |  253 Cp | 32.13% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[03:17:23] (INFO) Found 1 pokemon to transfer...
+[03:17:24] (TRANSFER) Rattata 117 V |  253 Cp | 32.13% | Lvl 19 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 268
+[03:17:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[03:17:26] (POKESTOP) West Coast Park Connector in 86.8 m distance
+[03:17:26] (NAVIGATION) Distance to target location: 86.8 meters. Will take 10.08 seconds driving at 31kmh
+[03:17:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[03:17:36] (POKESTOP) The Fishman in 186.31 m distance
+[03:17:36] (NAVIGATION) Distance to target location: 186.31 meters. Will take 19.73 seconds driving at 34kmh
+[03:17:46] (INFO) Found 1 catchable Pokemon
+[03:17:47] (Wild Success) | Pidgey 98 V |  110 Cp | 37.08% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
