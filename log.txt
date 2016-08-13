@@ -8768,3 +8768,5 @@
 [01:00:15] (NAVIGATION) Distance to target location: 313.66 meters. Will take 19.81 seconds driving at 57kmh
 [01:00:17] (INFO) Found 1 catchable Pokemon
 [01:00:18] (Wild Success) | Growlithe 133 V |   89 Cp | 51.61% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
+[01:00:24] (INFO) Found 3 catchable Pokemon
+[01:00:26] (Wild Success) | Zubat 129 V |  237 Cp | 30.09% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
