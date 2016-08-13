@@ -823,3 +823,4 @@
 [20:26:53] (TRANSFER) Pidgey 70 V |   40 Cp | 25.66% | Lvl 03 | Best: [Pidgey 118 V |  118 Cp | 61.06% | Lvl 07] | Candy: 76
 [20:27:08] (INFO) Found 2 catchable Pokemon
 [20:27:09] (Wild Success) | Rattata 123 V |   37 Cp | 53.78% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[20:27:11] (Wild Success) | Pidgey 92 V |   92 Cp | 33.01% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
