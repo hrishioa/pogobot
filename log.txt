@@ -18413,3 +18413,10 @@
 [06:24:19] (NAVIGATION) Distance to target location: 27.97 meters. Will take 3.25 seconds driving at 31kmh
 [06:24:21] (INFO) Found 1 catchable Pokemon
 [06:24:23] (Wild Success) | Rattata 109 V |  134 Cp | 34.38% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[06:24:24] (INFO) Found 1 pokemon to transfer...
+[06:24:26] (TRANSFER) Rattata 109 V |  134 Cp | 34.38% | Lvl 10 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 473
+[06:24:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:24:28] (POKESTOP) Three Portals Make A Field in 163.65 m distance
+[06:24:28] (NAVIGATION) Distance to target location: 163.65 meters. Will take 19.64 seconds driving at 30kmh
+[06:24:41] (INFO) Found 1 catchable Pokemon
+[06:24:42] (Wild Success) | Pidgey 106 V |  191 Cp | 32.41% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
