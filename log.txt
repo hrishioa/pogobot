@@ -19121,3 +19121,26 @@
 [06:47:50] (NAVIGATION) Distance to target location: 257.78 meters. Will take 19.75 seconds driving at 47kmh
 [06:48:06] (INFO) Found 1 catchable Pokemon
 [06:48:07] (Wild Success) | Rattata 128 V |   68 Cp | 55.77% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[06:48:09] (INFO) Found 1 pokemon to transfer...
+[06:48:11] (TRANSFER) Rattata 128 V |   68 Cp | 55.77% | Lvl 05 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 493
+[06:48:12] (INFO) Found 1 catchable Pokemon
+[06:48:13] (BERRY) ItemRazzBerry used, remaining: 51
+[06:48:14] (Wild Escape) | Pikachu 177 V |  474 Cp | 54.98% | Lvl 21 | Chance: 0.13 | with a GreatBall 
+[06:48:15] (BERRY) ItemRazzBerry used, remaining: 50
+[06:48:15] (Wild Success Attempt #2) | Pikachu 177 V |  474 Cp | 54.98% | Lvl 21 | Chance: 0.13 | with a GreatBall 
+[06:48:17] (INFO) Found 1 pokemon to transfer...
+[06:48:18] (TRANSFER) Pikachu 135 V |  255 Cp | 33.95% | Lvl 12 | Best: [Pikachu 177 V |  474 Cp | 54.98% | Lvl 21] | Candy: 37
+[06:48:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:48:22] (POKESTOP) Jungle Walkpath in 38.37 m distance
+[06:48:22] (NAVIGATION) Distance to target location: 38.37 meters. Will take 4.6 seconds driving at 30kmh
+[06:48:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:48:27] (POKESTOP) Volleyball Arena in 144.9 m distance
+[06:48:27] (NAVIGATION) Distance to target location: 144.9 meters. Will take 16.83 seconds driving at 31kmh
+[06:48:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:48:44] (INFO) Found 2 Recyclable Items:
+[06:48:44] (RECYCLING) PokeBall x 7
+[06:48:45] (RECYCLING) Potion x 4
+[06:48:48] (POKESTOP) Focusing Coils in 570.5 m distance
+[06:48:48] (NAVIGATION) Distance to target location: 570.5 meters. Will take 29.34 seconds driving at 70kmh
+[06:48:53] (INFO) Found 1 catchable Pokemon
+[06:48:56] (Wild Success) | Weedle 78 V |   70 Cp | 39.17% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
