@@ -21001,3 +21001,12 @@
 [07:48:17] (INFO) Found 1 catchable Pokemon
 [07:48:17] (BERRY) ItemRazzBerry used, remaining: 49
 [07:48:19] (Wild Success) | Pidgeotto 154 V |  638 Cp | 35.32% | Lvl 21 | Chance: 0.16 | with a UltraBall and received XP 210
+[07:48:20] (INFO) Found 1 pokemon to transfer...
+[07:48:22] (TRANSFER) Pidgeotto 110 V |  174 Cp | 33.44% | Lvl 06 | Best: [Pidgeotto 154 V |  638 Cp | 35.32% | Lvl 21] | Candy: 951
+[07:48:22] (POKESTOP) Temasek Hall in 562.31 m distance
+[07:48:22] (NAVIGATION) Distance to target location: 562.31 meters. Will take 28.92 seconds driving at 70kmh
+[07:48:44] (INFO) Found 1 catchable Pokemon
+[07:48:46] (BERRY) ItemRazzBerry used, remaining: 48
+[07:48:46] (Wild Flee) | Pidgey 119 V |  371 Cp | 37.04% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[07:48:51] (INFO) Found 1 catchable Pokemon
+[07:48:52] (Wild Success) | Eevee 159 V |  401 Cp | 68.71% | Lvl 14 | Chance: 0.32 | with a UltraBall and received XP 210
