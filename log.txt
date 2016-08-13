@@ -19741,3 +19741,14 @@
 [07:07:12] (RECYCLING) Revive x 1
 [07:07:14] (INFO) Found 1 catchable Pokemon
 [07:07:16] (Wild Success) | Rattata 136 V |  216 Cp | 54.46% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[07:07:17] (INFO) Found 1 pokemon to transfer...
+[07:07:18] (TRANSFER) Rattata 136 V |  216 Cp | 54.46% | Lvl 15 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 533
+[07:07:19] (POKESTOP) Retro Chess Table  in 74.18 m distance
+[07:07:19] (NAVIGATION) Distance to target location: 74.18 meters. Will take 8.61 seconds driving at 31kmh
+[07:07:21] (INFO) Found 1 catchable Pokemon
+[07:07:23] (Wild Escape) | Bellsprout 144 V |  198 Cp | 58.82% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[07:07:24] (Wild Success Attempt #2) | Bellsprout 144 V |  198 Cp | 58.82% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[07:07:25] (INFO) Found 1 pokemon to transfer...
+[07:07:26] (TRANSFER) Bellsprout 144 V |  198 Cp | 58.82% | Lvl 07 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 213
+[07:07:28] (INFO) Found 1 catchable Pokemon
+[07:07:30] (Wild Success) | Horsea 137 V |   97 Cp | 65.24% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
