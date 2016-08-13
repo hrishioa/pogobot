@@ -5488,3 +5488,7 @@
 [23:13:01] (INFO) Found 1 catchable Pokemon
 [23:13:03] (BERRY) ItemRazzBerry used, remaining: 49
 [23:13:04] (Wild Success) | Bulbasaur 139 V |  466 Cp | 29.78% | Lvl 18 | Chance: 0.14 | with a GreatBall and received XP 210
+[23:13:06] (INFO) Found 1 pokemon to transfer...
+[23:13:07] (TRANSFER) Bulbasaur 125 V |  184 Cp | 44.86% | Lvl 07 | Best: [Bulbasaur 169 V |  302 Cp | 53.73% | Lvl 11] | Candy: 18
+[23:13:09] (INFO) Found 1 catchable Pokemon
+[23:13:10] (Wild Success) | Staryu 128 V |  296 Cp | 38.37% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
