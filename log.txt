@@ -680,3 +680,4 @@
 [20:24:10] (INFO) Found 3 catchable Pokemon
 [20:24:12] (Wild Success) | Venonat 134 V |   98 Cp | 61.85% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [20:24:14] (Wild Success) | Sandshrew 126 V |  155 Cp | 45.88% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 710
+[20:24:15] (Wild Success) | Poliwag 147 V |  169 Cp | 78.21% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
