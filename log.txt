@@ -10631,3 +10631,16 @@
 [02:01:10] (NAVIGATION) Distance to target location: 82.63 meters. Will take 10.62 seconds driving at 28kmh
 [02:01:16] (INFO) Found 1 catchable Pokemon
 [02:01:18] (Wild Success) | Bulbasaur 113 V |   13 Cp | 46.80% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 210
+[02:01:19] (INFO) Found 1 pokemon to transfer...
+[02:01:21] (TRANSFER) Bulbasaur 113 V |   13 Cp | 46.80% | Lvl 01 | Best: [Bulbasaur 174 V |  480 Cp | 40.91% | Lvl 18] | Candy: 50
+[02:01:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemSuperPotion
+[02:01:26] (POKESTOP) NUS Graduate Pot in 60.38 m distance
+[02:01:26] (NAVIGATION) Distance to target location: 60.38 meters. Will take 7.5 seconds driving at 29kmh
+[02:01:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[02:01:33] (POKESTOP) Blueprints Embedded On Stone in 75.39 m distance
+[02:01:33] (NAVIGATION) Distance to target location: 75.39 meters. Will take 8.48 seconds driving at 32kmh
+[02:01:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:01:42] (POKESTOP) Integration in 92.76 m distance
+[02:01:42] (NAVIGATION) Distance to target location: 92.76 meters. Will take 10.77 seconds driving at 31kmh
+[02:01:50] (INFO) Found 1 catchable Pokemon
+[02:01:51] (Wild Success) | Meowth 148 V |   10 Cp | 91.64% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
