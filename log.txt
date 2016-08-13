@@ -18643,3 +18643,17 @@
 [06:30:26] (INFO) Found 2 catchable Pokemon
 [06:30:28] (Wild Success) | Zubat 158 V |  309 Cp | 77.11% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
 [06:30:29] (Wild Success) | Weedle 78 V |  177 Cp | 27.98% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[06:30:30] (EGG) Hatched egg! Psyduck             129 True Value |   46 Cp | 71.96% Perfect | Lvl 02 | WaterGun/Psybeam
+[06:30:31] (EGG) Added 5km egg to incubator
+[06:30:32] (INFO) Found 3 pokemon to transfer...
+[06:30:33] (TRANSFER) Weedle 78 V |  177 Cp | 27.98% | Lvl 18 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 377
+[06:30:35] (TRANSFER) Zubat 158 V |  309 Cp | 77.11% | Lvl 18 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 550
+[06:30:38] (TRANSFER) Psyduck 129 V |   46 Cp | 71.96% | Lvl 02 | Best: [Psyduck 176 V |  454 Cp | 79.23% | Lvl 15] | Candy: 59
+[06:30:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:30:42] (POKESTOP) Alice Lee Plaza in 47.04 m distance
+[06:30:42] (NAVIGATION) Distance to target location: 47.04 meters. Will take 5.46 seconds driving at 31kmh
+[06:30:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:30:48] (POKESTOP) Feeding Chickens in 112.69 m distance
+[06:30:48] (NAVIGATION) Distance to target location: 112.69 meters. Will take 13.99 seconds driving at 29kmh
+[06:30:59] (INFO) Found 1 catchable Pokemon
+[06:31:01] (Wild Success) | Spearow 147 V |  311 Cp | 55.82% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
