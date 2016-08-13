@@ -7938,3 +7938,10 @@
 [00:32:35] (NAVIGATION) Distance to target location: 144.03 meters. Will take 17.88 seconds driving at 29kmh
 [00:32:45] (INFO) Found 1 catchable Pokemon
 [00:32:47] (Wild Success) | Weedle 98 V |   48 Cp | 38.47% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:32:49] (INFO) Found 1 pokemon to transfer...
+[00:32:50] (TRANSFER) Weedle 98 V |   48 Cp | 38.47% | Lvl 05 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 109
+[00:32:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[00:32:55] (POKESTOP) Memorial at PGPR in 98.88 m distance
+[00:32:55] (NAVIGATION) Distance to target location: 98.88 meters. Will take 11.87 seconds driving at 30kmh
+[00:32:59] (INFO) Found 1 catchable Pokemon
+[00:33:00] (Wild Success) | Pidgey 116 V |  261 Cp | 40.42% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
