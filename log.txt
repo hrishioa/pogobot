@@ -12487,3 +12487,10 @@
 [03:01:12] (TRANSFER) Rattata 125 V |   81 Cp | 49.63% | Lvl 06 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 232
 [03:01:14] (INFO) Found 1 catchable Pokemon
 [03:01:16] (Wild Success) | Rattata 150 V |  294 Cp | 60.57% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[03:01:17] (INFO) Found 1 pokemon to transfer...
+[03:01:19] (TRANSFER) Rattata 150 V |  294 Cp | 60.57% | Lvl 20 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 236
+[03:01:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[03:01:22] (POKESTOP) Sun Moon Mural in 462.13 m distance
+[03:01:22] (NAVIGATION) Distance to target location: 462.13 meters. Will take 23.77 seconds driving at 70kmh
+[03:01:28] (INFO) Found 3 catchable Pokemon
+[03:01:29] (Wild Success) | Rattata 123 V |   10 Cp | 57.37% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
