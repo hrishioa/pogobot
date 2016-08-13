@@ -1675,3 +1675,10 @@
 [20:57:26] (RECYCLING) PokeBall x 11
 [20:57:28] (INFO) Found 1 catchable Pokemon
 [20:57:28] (Wild Success) | Spearow 126 V |  224 Cp | 54.49% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[20:57:30] (POKESTOP) Ball of Web in 120.45 m distance
+[20:57:30] (NAVIGATION) Distance to target location: 120.45 meters. Will take 15.49 seconds driving at 28kmh
+[20:57:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[20:57:45] (POKESTOP) Tanglin Halt Playground at Blk 36 in 399.34 m distance
+[20:57:45] (NAVIGATION) Distance to target location: 399.34 meters. Will take 20.54 seconds driving at 70kmh
+[20:58:00] (INFO) Found 1 catchable Pokemon
+[20:58:02] (Wild Success) | NidoranFemale 84 V |  145 Cp | 38.32% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
