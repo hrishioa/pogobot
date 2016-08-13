@@ -1212,3 +1212,13 @@
 [20:43:47] (Wild Success) | Zubat 104 V |   10 Cp | 48.20% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [20:43:49] (Wild Success) | Zubat 95 V |   39 Cp | 35.94% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [20:43:50] (Wild Success) | Goldeen 155 V |  258 Cp | 71.97% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
+[20:43:52] (INFO) Found 4 pokemon to transfer...
+[20:43:54] (TRANSFER) Goldeen 143 V |  281 Cp | 68.26% | Lvl 11 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 26
+[20:43:56] (TRANSFER) Zubat 109 V |   38 Cp | 30.17% | Lvl 03 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 130
+[20:43:58] (TRANSFER) Zubat 104 V |   10 Cp | 48.20% | Lvl 01 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 131
+[20:44:00] (TRANSFER) Zubat 95 V |   39 Cp | 35.94% | Lvl 03 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 132
+[20:44:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[20:44:05] (POKESTOP) Normanton Park in 415.44 m distance
+[20:44:05] (NAVIGATION) Distance to target location: 415.44 meters. Will take 21.37 seconds driving at 70kmh
+[20:44:14] (INFO) Found 1 catchable Pokemon
+[20:44:16] (Wild Success) | Psyduck 126 V |  267 Cp | 26.58% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
