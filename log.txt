@@ -19240,3 +19240,10 @@
 [06:49:28] (INFO) Found 2 catchable Pokemon
 [06:49:29] (BERRY) ItemRazzBerry used, remaining: 50
 [06:49:30] (Wild Success) | NidoranFemale 177 V |  448 Cp | 56.56% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[06:49:31] (Wild Escape) | Zubat 138 V |  333 Cp | 50.41% | Lvl 21 | Chance: 0.32 | with a UltraBall 
+[06:49:32] (Wild Success Attempt #2) | Zubat 138 V |  333 Cp | 50.41% | Lvl 21 | Chance: 0.32 | with a UltraBall 
+[06:49:34] (INFO) Found 1 pokemon to transfer...
+[06:49:35] (TRANSFER) Zubat 138 V |  333 Cp | 50.41% | Lvl 21 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 562
+[06:49:36] (INFO) Found 2 catchable Pokemon
+[06:49:38] (BERRY) ItemRazzBerry used, remaining: 49
+[06:49:38] (Wild Success) | Pidgey 136 V |  394 Cp | 42.06% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
