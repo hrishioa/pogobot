@@ -2199,3 +2199,13 @@
 [21:16:18] (TRANSFER) Spearow 126 V |  224 Cp | 54.49% | Lvl 13 | Best: [Spearow 139 V |  250 Cp | 67.47% | Lvl 14] | Candy: 67
 [21:16:19] (INFO) Found 1 catchable Pokemon
 [21:16:21] (Wild Success) | Venonat 166 V |  330 Cp | 71.08% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[21:16:23] (INFO) Found 1 pokemon to transfer...
+[21:16:24] (TRANSFER) Venonat 142 V |  156 Cp | 63.59% | Lvl 06 | Best: [Venonat 166 V |  330 Cp | 71.08% | Lvl 12] | Candy: 18
+[21:16:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:16:28] (POKESTOP) The Anchorage in 50.06 m distance
+[21:16:28] (NAVIGATION) Distance to target location: 50.06 meters. Will take 5.63 seconds driving at 32kmh
+[21:16:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[21:16:34] (POKESTOP) Old Bicycle In Mercedes Showroom in 237.99 m distance
+[21:16:34] (NAVIGATION) Distance to target location: 237.99 meters. Will take 19.92 seconds driving at 43kmh
+[21:16:52] (INFO) Found 1 catchable Pokemon
+[21:16:54] (Wild Success) | Magikarp 109 V |   81 Cp | 76.39% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
