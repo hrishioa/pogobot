@@ -9401,3 +9401,14 @@
 [01:23:19] (BERRY) ItemRazzBerry used, remaining: 50
 [01:23:20] (Wild Success) | Eevee 181 V |  590 Cp | 59.89% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
 [01:23:21] (Wild Success) | Zubat 128 V |   92 Cp | 53.72% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[01:23:23] (INFO) Found 2 pokemon to transfer...
+[01:23:25] (TRANSFER) Zubat 128 V |   92 Cp | 53.72% | Lvl 06 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 529
+[01:23:27] (TRANSFER) Eevee 175 V |  321 Cp | 76.02% | Lvl 11 | Best: [Eevee 181 V |  590 Cp | 59.89% | Lvl 21] | Candy: 58
+[01:23:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:23:32] (POKESTOP) Kent Ridge Hall in 87.33 m distance
+[01:23:32] (NAVIGATION) Distance to target location: 87.33 meters. Will take 10.48 seconds driving at 30kmh
+[01:23:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[01:23:42] (POKESTOP) SeSaMe Center in 63.31 m distance
+[01:23:42] (NAVIGATION) Distance to target location: 63.31 meters. Will take 7.12 seconds driving at 32kmh
+[01:23:48] (INFO) Found 1 catchable Pokemon
+[01:23:50] (Wild Success) | Pidgey 97 V |   92 Cp | 32.64% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
