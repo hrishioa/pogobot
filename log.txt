@@ -12722,3 +12722,7 @@
 [03:07:26] (NAVIGATION) Distance to target location: 230.6 meters. Will take 19.77 seconds driving at 42kmh
 [03:07:42] (INFO) Found 1 catchable Pokemon
 [03:07:43] (Wild Success) | Eevee 142 V |  163 Cp | 63.85% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
+[03:07:45] (INFO) Found 1 pokemon to transfer...
+[03:07:47] (TRANSFER) Eevee 142 V |  163 Cp | 63.85% | Lvl 06 | Best: [Eevee 184 V |  408 Cp | 76.28% | Lvl 14] | Candy: 82
+[03:07:48] (INFO) Found 1 catchable Pokemon
+[03:07:50] (Wild Success) | Rattata 131 V |  195 Cp | 44.37% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
