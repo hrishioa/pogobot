@@ -3269,3 +3269,46 @@
 [21:48:13] (NAVIGATION) Distance to target location: 245.79 meters. Will take 19.66 seconds driving at 45kmh
 [21:48:26] (INFO) Found 1 catchable Pokemon
 [21:48:28] (Wild Success) | Zubat 118 V |  201 Cp | 43.43% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[21:48:30] (INFO) Found 1 pokemon to transfer...
+[21:48:31] (TRANSFER) Zubat 106 V |  124 Cp | 49.39% | Lvl 08 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 234
+[21:48:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[21:48:35] (INFO) Found 2 Recyclable Items:
+[21:48:36] (RECYCLING) RazzBerry x 3
+[21:48:37] (RECYCLING) PokeBall x 11
+[21:48:39] (POKESTOP) Haw Par Villa Gate in 60.46 m distance
+[21:48:39] (NAVIGATION) Distance to target location: 60.46 meters. Will take 7.51 seconds driving at 29kmh
+[21:48:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[21:48:46] (POKESTOP) Haw Par Villa in 69.87 m distance
+[21:48:46] (NAVIGATION) Distance to target location: 69.87 meters. Will take 8.11 seconds driving at 31kmh
+[21:48:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:48:54] (POKESTOP) Haw Par Villa Mrt in 77.15 m distance
+[21:48:54] (NAVIGATION) Distance to target location: 77.15 meters. Will take 8.68 seconds driving at 32kmh
+[21:49:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[21:49:03] (POKESTOP) Circle Line Art at HPV in 399.1 m distance
+[21:49:03] (NAVIGATION) Distance to target location: 399.1 meters. Will take 20.53 seconds driving at 70kmh
+[21:49:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[21:49:26] (POKESTOP) HUPCO Giant Pomelo in 203.02 m distance
+[21:49:26] (NAVIGATION) Distance to target location: 203.02 meters. Will take 19.75 seconds driving at 37kmh
+[21:49:35] (INFO) Found 1 catchable Pokemon
+[21:49:36] (Wild Escape) | Zubat 81 V |   85 Cp | 28.26% | Lvl 06 | Chance: 0.62 | with a PokeBall 
+[21:49:37] (Wild Success Attempt #2) | Zubat 81 V |   85 Cp | 28.26% | Lvl 06 | Chance: 0.62 | with a PokeBall 
+[21:49:38] (INFO) Found 1 pokemon to transfer...
+[21:49:40] (TRANSFER) Zubat 81 V |   85 Cp | 28.26% | Lvl 06 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 238
+[21:49:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:49:45] (INFO) Found 3 Recyclable Items:
+[21:49:46] (RECYCLING) RazzBerry x 1
+[21:49:47] (RECYCLING) PokeBall x 6
+[21:49:48] (RECYCLING) Revive x 1
+[21:49:51] (POKESTOP) Norwegian Church in 361.58 m distance
+[21:49:51] (NAVIGATION) Distance to target location: 361.58 meters. Will take 19.72 seconds driving at 66kmh
+[21:50:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:50:12] (POKESTOP) Pasir Panjang Christ Church in 73.11 m distance
+[21:50:12] (NAVIGATION) Distance to target location: 73.11 meters. Will take 9.4 seconds driving at 28kmh
+[21:50:20] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemPotion, 2 x ItemRazzBerry
+[21:50:21] (POKESTOP) Emmanuel Evangelical Free Church  in 60.24 m distance
+[21:50:21] (NAVIGATION) Distance to target location: 60.24 meters. Will take 7.75 seconds driving at 28kmh
+[21:50:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[21:50:29] (POKESTOP) Sculpture at PGPR in 345.42 m distance
+[21:50:29] (NAVIGATION) Distance to target location: 345.42 meters. Will take 19.74 seconds driving at 63kmh
+[21:50:44] (INFO) Found 2 catchable Pokemon
+[21:50:45] (Wild Success) | NidoranMale 113 V |  282 Cp | 32.82% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 710
