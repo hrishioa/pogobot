@@ -10954,3 +10954,13 @@
 [02:09:40] (NAVIGATION) Distance to target location: 83.12 meters. Will take 9.35 seconds driving at 32kmh
 [02:09:44] (INFO) Found 1 catchable Pokemon
 [02:09:46] (Wild Success) | Caterpie 95 V |  201 Cp | 25.26% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
+[02:09:47] (INFO) Found 1 pokemon to transfer...
+[02:09:49] (TRANSFER) Caterpie 95 V |  201 Cp | 25.26% | Lvl 21 | Best: [Caterpie 106 V |  141 Cp | 37.38% | Lvl 14] | Candy: 110
+[02:09:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:09:53] (POKESTOP) Salvation Army Sign in 290.9 m distance
+[02:09:53] (NAVIGATION) Distance to target location: 290.9 meters. Will take 19.76 seconds driving at 53kmh
+[02:10:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion, 1 x ItemSuperPotion
+[02:10:15] (POKESTOP) Gold Coast Fountain of Wealth in 145.08 m distance
+[02:10:15] (NAVIGATION) Distance to target location: 145.08 meters. Will take 16.32 seconds driving at 32kmh
+[02:10:24] (INFO) Found 1 catchable Pokemon
+[02:10:25] (Wild Success) | Weedle 95 V |   26 Cp | 36.57% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
