@@ -1847,3 +1847,10 @@
 [21:04:39] (NAVIGATION) Distance to target location: 74.49 meters. Will take 9.58 seconds driving at 28kmh
 [21:04:45] (INFO) Found 1 catchable Pokemon
 [21:04:47] (Wild Success) | Goldeen 145 V |  200 Cp | 65.91% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[21:04:48] (INFO) Found 1 pokemon to transfer...
+[21:04:50] (TRANSFER) Goldeen 145 V |  200 Cp | 65.91% | Lvl 08 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 42
+[21:04:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[21:04:53] (POKESTOP) Global Indian International School in 85.82 m distance
+[21:04:53] (NAVIGATION) Distance to target location: 85.82 meters. Will take 9.65 seconds driving at 32kmh
+[21:04:59] (INFO) Found 1 catchable Pokemon
+[21:05:00] (Wild Success) | Weedle 114 V |  137 Cp | 44.94% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
