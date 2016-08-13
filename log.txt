@@ -7627,3 +7627,4 @@
 [00:23:18] (NAVIGATION) Distance to target location: 186.58 meters. Will take 19.76 seconds driving at 34kmh
 [00:23:35] (INFO) Found 2 catchable Pokemon
 [00:23:37] (Wild Success) | Poliwag 122 V |  190 Cp | 34.01% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[00:23:38] (Wild Success) | Venonat 149 V |  376 Cp | 60.66% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
