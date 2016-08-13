@@ -9655,3 +9655,7 @@
 [01:30:34] (INFO) Found 1 catchable Pokemon
 [01:30:36] (BERRY) ItemRazzBerry used, remaining: 49
 [01:30:37] (Wild Success) | Pidgeotto 142 V |  595 Cp | 26.99% | Lvl 20 | Chance: 0.16 | with a GreatBall and received XP 210
+[01:30:39] (INFO) Found 1 pokemon to transfer...
+[01:30:40] (TRANSFER) Pidgeotto 119 V |  239 Cp | 35.37% | Lvl 08 | Best: [Pidgeotto 142 V |  595 Cp | 26.99% | Lvl 20] | Candy: 400
+[01:30:41] (INFO) Found 1 catchable Pokemon
+[01:30:43] (Wild Success) | Zubat 111 V |   10 Cp | 50.47% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
