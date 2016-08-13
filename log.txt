@@ -12752,3 +12752,11 @@
 [03:08:43] (Wild Escape) | Zubat 140 V |  324 Cp | 57.70% | Lvl 20 | Chance: 0.33 | with a UltraBall 
 [03:08:43] (Wild Success Attempt #2) | Zubat 140 V |  324 Cp | 57.70% | Lvl 20 | Chance: 0.33 | with a UltraBall 
 [03:08:45] (Wild Success) | Caterpie 101 V |  150 Cp | 36.22% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[03:08:47] (INFO) Found 2 pokemon to transfer...
+[03:08:48] (TRANSFER) Caterpie 101 V |  150 Cp | 36.22% | Lvl 15 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 122
+[03:08:51] (TRANSFER) Zubat 140 V |  324 Cp | 57.70% | Lvl 20 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 635
+[03:08:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[03:08:54] (POKESTOP) West Coast Plaza Triple Fountain in 64.92 m distance
+[03:08:54] (NAVIGATION) Distance to target location: 64.92 meters. Will take 7.79 seconds driving at 30kmh
+[03:08:58] (INFO) Found 1 catchable Pokemon
+[03:08:59] (Wild Success) | Pidgey 115 V |  271 Cp | 33.22% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
