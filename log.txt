@@ -6302,3 +6302,11 @@
 [23:38:31] (Wild Success) | Jigglypuff 146 V |  350 Cp | 35.58% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
 [23:38:32] (Wild Flee) | Meowth 168 V |  352 Cp | 62.87% | Lvl 18 | Chance: 0.35 | with a GreatBall 
 [23:38:34] (Wild Success) | Spearow 144 V |  276 Cp | 55.82% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[23:38:36] (INFO) Found 2 pokemon to transfer...
+[23:38:37] (TRANSFER) Jigglypuff 94 V |   57 Cp | 37.85% | Lvl 03 | Best: [Jigglypuff 146 V |  350 Cp | 35.58% | Lvl 16] | Candy: 10
+[23:38:40] (TRANSFER) Spearow 144 V |  276 Cp | 55.82% | Lvl 16 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 99
+[23:38:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:38:44] (POKESTOP) Faculty of Dentistry in 80.21 m distance
+[23:38:44] (NAVIGATION) Distance to target location: 80.21 meters. Will take 9.31 seconds driving at 31kmh
+[23:38:47] (INFO) Found 1 catchable Pokemon
+[23:38:48] (Wild Success) | Zubat 173 V |  238 Cp | 73.93% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
