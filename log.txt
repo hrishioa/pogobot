@@ -1383,3 +1383,17 @@
 [20:47:56] (INFO) Found 2 catchable Pokemon
 [20:47:58] (Wild Success) | Magikarp 92 V |   16 Cp | 64.81% | Lvl 03 | Chance: 1 | with a PokeBall and received XP 210
 [20:47:59] (Wild Success) | Magikarp 96 V |   44 Cp | 66.88% | Lvl 07 | Chance: 0.8 | with a PokeBall and received XP 210
+[20:48:01] (INFO) Found 2 pokemon to transfer...
+[20:48:02] (TRANSFER) Magikarp 92 V |   16 Cp | 64.81% | Lvl 03 | Best: [Magikarp 96 V |   44 Cp | 66.88% | Lvl 07] | Candy: 23
+[20:48:05] (TRANSFER) Magikarp 96 V |   44 Cp | 66.88% | Lvl 07 | Best: [NONE] | Candy: 24
+[20:48:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemGreatBall
+[20:48:09] (POKESTOP) Kent Ridge Park in 48.26 m distance
+[20:48:09] (NAVIGATION) Distance to target location: 48.26 meters. Will take 5.6 seconds driving at 31kmh
+[20:48:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[20:48:16] (POKESTOP) Kent Ridge Heritage Trail in 144.95 m distance
+[20:48:16] (NAVIGATION) Distance to target location: 144.95 meters. Will take 16.31 seconds driving at 32kmh
+[20:48:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[20:48:32] (POKESTOP) Science And Technology Water Statue in 418.67 m distance
+[20:48:32] (NAVIGATION) Distance to target location: 418.67 meters. Will take 21.53 seconds driving at 70kmh
+[20:48:40] (INFO) Found 2 catchable Pokemon
+[20:48:42] (Wild Success) | Spearow 91 V |   10 Cp | 43.26% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
