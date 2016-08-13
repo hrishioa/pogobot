@@ -19285,3 +19285,9 @@
 [06:50:47] (NAVIGATION) Distance to target location: 97.23 meters. Will take 11.29 seconds driving at 31kmh
 [06:50:53] (INFO) Found 1 catchable Pokemon
 [06:50:55] (Wild Success) | Dratini 145 V |  208 Cp | 73.73% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 210
+[06:50:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[06:51:00] (POKESTOP) Clementi Woods Playground in 965.89 m distance
+[06:51:00] (NAVIGATION) Distance to target location: 965.89 meters. Will take 49.67 seconds driving at 70kmh
+[06:51:20] (INFO) Found 1 catchable Pokemon
+[06:51:21] (BERRY) ItemRazzBerry used, remaining: 49
+[06:51:22] (Wild Success) | Paras 168 V |  505 Cp | 48.32% | Lvl 22 | Chance: 0.25 | with a GreatBall and received XP 210
