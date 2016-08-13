@@ -5714,3 +5714,22 @@
 [23:19:19] (INFO) Found 2 catchable Pokemon
 [23:19:20] (Wild Success) | Zubat 123 V |  215 Cp | 40.66% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [23:19:22] (Wild Success) | Spearow 90 V |  163 Cp | 37.37% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[23:19:24] (INFO) Found 2 pokemon to transfer...
+[23:19:25] (TRANSFER) Zubat 123 V |  215 Cp | 40.66% | Lvl 14 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 325
+[23:19:27] (TRANSFER) Spearow 90 V |  163 Cp | 37.37% | Lvl 10 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 91
+[23:19:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:19:30] (INFO) Found 4 Recyclable Items:
+[23:19:31] (RECYCLING) RazzBerry x 1
+[23:19:31] (RECYCLING) PokeBall x 10
+[23:19:33] (RECYCLING) Potion x 2
+[23:19:34] (RECYCLING) Revive x 2
+[23:19:37] (POKESTOP) Medical Abstracts in 58.94 m distance
+[23:19:37] (NAVIGATION) Distance to target location: 58.94 meters. Will take 7.58 seconds driving at 28kmh
+[23:19:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[23:19:44] (POKESTOP) Hippocratic Oath in 61.55 m distance
+[23:19:44] (NAVIGATION) Distance to target location: 61.55 meters. Will take 7.91 seconds driving at 28kmh
+[23:19:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:19:51] (POKESTOP) Hope Sculpture in 138.03 m distance
+[23:19:51] (NAVIGATION) Distance to target location: 138.03 meters. Will take 16.56 seconds driving at 30kmh
+[23:19:55] (INFO) Found 1 catchable Pokemon
+[23:19:57] (Wild Success) | Zubat 136 V |  280 Cp | 63.34% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
