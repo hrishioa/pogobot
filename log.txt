@@ -10662,3 +10662,9 @@
 [02:02:15] (RECYCLING) Revive x 1
 [02:02:16] (INFO) Found 1 catchable Pokemon
 [02:02:18] (Wild Success) | Krabby 138 V |  360 Cp | 54.88% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[02:02:20] (INFO) Found 1 pokemon to transfer...
+[02:02:22] (TRANSFER) Krabby 138 V |  360 Cp | 54.88% | Lvl 18 | Best: [Krabby 166 V |  322 Cp | 80.04% | Lvl 15] | Candy: 102
+[02:02:22] (POKESTOP) Fragrant Plant Garden in 212.5 m distance
+[02:02:22] (NAVIGATION) Distance to target location: 212.5 meters. Will take 19.62 seconds driving at 39kmh
+[02:02:30] (INFO) Found 1 catchable Pokemon
+[02:02:32] (Wild Success) | Zubat 108 V |  178 Cp | 30.09% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
