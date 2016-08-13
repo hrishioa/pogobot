@@ -6245,3 +6245,15 @@
 [23:34:39] (INFO) Found 2 catchable Pokemon
 [23:34:40] (Wild Success) | Zubat 115 V |   42 Cp | 61.41% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [23:34:44] (Wild Success) | Zubat 154 V |  264 Cp | 63.24% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[23:34:46] (INFO) Found 2 pokemon to transfer...
+[23:34:47] (TRANSFER) Zubat 147 V |   65 Cp | 91.26% | Lvl 04 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 364
+[23:34:50] (TRANSFER) Zubat 115 V |   42 Cp | 61.41% | Lvl 03 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 365
+[23:34:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:34:52] (POKESTOP) Survival (Rocker) in 69.6 m distance
+[23:34:52] (NAVIGATION) Distance to target location: 69.6 meters. Will take 8.95 seconds driving at 28kmh
+[23:34:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 6 x ItemPokeBall, 1 x ItemHyperPotion
+[23:35:00] (POKESTOP) Raffles Hall in 320.7 m distance
+[23:35:00] (NAVIGATION) Distance to target location: 320.7 meters. Will take 19.91 seconds driving at 58kmh
+[23:35:18] (INFO) Found 1 catchable Pokemon
+[23:35:19] (BERRY) ItemRazzBerry used, remaining: 49
+[23:35:20] (Wild Success) | Pidgeot 136 V |  474 Cp | 28.91% | Lvl 09 | Chance: 0.12 | with a GreatBall and received XP 210
