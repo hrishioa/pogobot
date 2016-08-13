@@ -4875,3 +4875,22 @@
 [22:52:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
 [22:52:35] (INFO) Found 1 catchable Pokemon
 [22:52:37] (Wild Success) | Spearow 132 V |   28 Cp | 71.84% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
+[22:52:39] (INFO) Found 2 pokemon to transfer...
+[22:52:40] (TRANSFER) Spearow 108 V |  220 Cp | 49.01% | Lvl 13 | Best: [Spearow 161 V |  309 Cp | 72.54% | Lvl 17] | Candy: 57
+[22:52:42] (TRANSFER) Spearow 132 V |   28 Cp | 71.84% | Lvl 02 | Best: [Spearow 161 V |  309 Cp | 72.54% | Lvl 17] | Candy: 58
+[22:52:43] (POKESTOP) Ridged Wood Sculpture in 223.91 m distance
+[22:52:43] (NAVIGATION) Distance to target location: 223.91 meters. Will take 19.66 seconds driving at 41kmh
+[22:53:02] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:53:03] (POKESTOP) Yoda Pond in 81.4 m distance
+[22:53:03] (NAVIGATION) Distance to target location: 81.4 meters. Will take 9.16 seconds driving at 32kmh
+[22:53:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:53:13] (POKESTOP) Mini Water Fall in 63.2 m distance
+[22:53:13] (NAVIGATION) Distance to target location: 63.2 meters. Will take 7.11 seconds driving at 32kmh
+[22:53:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[22:53:20] (POKESTOP) Jimmy Monkey Restaurant in 222.81 m distance
+[22:53:20] (NAVIGATION) Distance to target location: 222.81 meters. Will take 19.56 seconds driving at 41kmh
+[22:53:33] (INFO) Found 1 catchable Pokemon
+[22:53:34] (Wild Escape) | Poliwag 123 V |  344 Cp | 36.97% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[22:53:35] (Wild Success Attempt #2) | Poliwag 123 V |  344 Cp | 36.97% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[22:53:39] (INFO) Found 1 catchable Pokemon
+[22:53:41] (Wild Success) | Bellsprout 147 V |  477 Cp | 70.08% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
