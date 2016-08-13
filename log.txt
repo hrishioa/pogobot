@@ -16876,3 +16876,9 @@
 [05:34:12] (TRANSFER) Rattata 135 V |  184 Cp | 49.65% | Lvl 13 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 381
 [05:34:20] (INFO) Found 1 catchable Pokemon
 [05:34:22] (Wild Success) | Pidgeotto 110 V |  174 Cp | 33.44% | Lvl 06 | Chance: 0.31 | with a GreatBall and received XP 210
+[05:34:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:34:27] (POKESTOP) Playground Between Block 709&712 in 59.07 m distance
+[05:34:27] (NAVIGATION) Distance to target location: 59.07 meters. Will take 7.33 seconds driving at 29kmh
+[05:34:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[05:34:34] (INFO) Found 1 catchable Pokemon
+[05:34:35] (Wild Success) | Weedle 92 V |  107 Cp | 26.28% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
