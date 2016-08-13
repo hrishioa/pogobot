@@ -7816,3 +7816,10 @@
 [00:28:09] (INFO) Found 2 catchable Pokemon
 [00:28:11] (Wild Success) | Caterpie 100 V |  128 Cp | 32.28% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [00:28:12] (Wild Success) | Weedle 86 V |  105 Cp | 20.79% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[00:28:14] (INFO) Found 2 pokemon to transfer...
+[00:28:16] (TRANSFER) Caterpie 96 V |  188 Cp | 22.11% | Lvl 20 | Best: [Caterpie 101 V |  128 Cp | 33.36% | Lvl 13] | Candy: 70
+[00:28:18] (TRANSFER) Weedle 86 V |  105 Cp | 20.79% | Lvl 11 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 97
+[00:28:20] (INFO) Found 2 catchable Pokemon
+[00:28:20] (Wild Escape) | Pidgeotto 119 V |  239 Cp | 35.37% | Lvl 08 | Chance: 0.26 | with a GreatBall 
+[00:28:22] (Wild Success Attempt #2) | Pidgeotto 119 V |  239 Cp | 35.37% | Lvl 08 | Chance: 0.26 | with a GreatBall 
+[00:28:23] (Wild Success) | Pidgey 79 V |   56 Cp | 22.65% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
