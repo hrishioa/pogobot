@@ -18621,3 +18621,8 @@
 [06:29:46] (INFO) Found 1 catchable Pokemon
 [06:29:47] (BERRY) ItemRazzBerry used, remaining: 47
 [06:29:48] (Wild Success) | Krabby 176 V |  430 Cp | 80.53% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[06:29:50] (INFO) Found 1 pokemon to transfer...
+[06:29:51] (TRANSFER) Krabby 138 V |  302 Cp | 57.59% | Lvl 15 | Best: [Krabby 176 V |  430 Cp | 80.53% | Lvl 20] | Candy: 141
+[06:29:53] (INFO) Found 1 catchable Pokemon
+[06:29:54] (BERRY) ItemRazzBerry used, remaining: 46
+[06:29:55] (Wild Success) | Pidgey 127 V |  389 Cp | 38.39% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
