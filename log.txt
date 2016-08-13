@@ -17229,3 +17229,21 @@
 [05:45:58] (NAVIGATION) Distance to target location: 185.54 meters. Will take 19.65 seconds driving at 34kmh
 [05:46:06] (INFO) Found 1 catchable Pokemon
 [05:46:08] (Wild Success) | Venonat 155 V |  353 Cp | 65.33% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[05:46:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemSuperPotion
+[05:46:17] (ATTENTION) No locations in your area...
+[05:46:23] (INFO) Found 48 Pokestops
+[05:46:23] (POKESTOP) West Coast Fitness Corner in 81.38 m distance
+[05:46:23] (NAVIGATION) Distance to target location: 81.38 meters. Will take 10.1 seconds driving at 29kmh
+[05:46:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 2 x ItemPokeBall
+[05:46:32] (INFO) Found 3 Recyclable Items:
+[05:46:33] (RECYCLING) PokeBall x 8
+[05:46:33] (RECYCLING) SuperPotion x 1
+[05:46:35] (RECYCLING) Revive x 6
+[05:46:37] (POKESTOP) Three Portals Make A Field in 97 m distance
+[05:46:37] (NAVIGATION) Distance to target location: 97 meters. Will take 11.64 seconds driving at 30kmh
+[05:46:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[05:46:48] (POKESTOP) Playground Between Block 709&712 in 73.9 m distance
+[05:46:48] (NAVIGATION) Distance to target location: 73.9 meters. Will take 8.87 seconds driving at 30kmh
+[05:46:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall, 1 x ItemSuperPotion
+[05:46:56] (INFO) Found 1 catchable Pokemon
+[05:46:58] (Wild Success) | Rattata 159 V |  241 Cp | 67.81% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
