@@ -7867,3 +7867,4 @@
 [00:30:11] (TRANSFER) Weedle 79 V |   10 Cp | 23.12% | Lvl 01 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 101
 [00:30:14] (INFO) Found 5 catchable Pokemon
 [00:30:16] (Wild Success) | Weedle 95 V |  182 Cp | 21.71% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[00:30:17] (Wild Success) | Spearow 125 V |  224 Cp | 55.57% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
