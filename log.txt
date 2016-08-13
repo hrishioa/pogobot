@@ -11834,3 +11834,10 @@
 [02:40:03] (NAVIGATION) Distance to target location: 97.23 meters. Will take 11.29 seconds driving at 31kmh
 [02:40:08] (INFO) Found 1 catchable Pokemon
 [02:40:10] (Wild Success) | Magikarp 82 V |  126 Cp | 43.91% | Lvl 22 | Chance: 0.44 | with a GreatBall and received XP 210
+[02:40:11] (INFO) Found 1 pokemon to transfer...
+[02:40:13] (TRANSFER) Magikarp 82 V |  126 Cp | 43.91% | Lvl 22 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 165
+[02:40:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:40:17] (POKESTOP) West Coast Park in 308.23 m distance
+[02:40:17] (NAVIGATION) Distance to target location: 308.23 meters. Will take 19.82 seconds driving at 56kmh
+[02:40:29] (INFO) Found 1 catchable Pokemon
+[02:40:31] (Wild Success) | Zubat 100 V |   24 Cp | 43.45% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
