@@ -10052,3 +10052,38 @@
 [01:44:09] (INFO) Found 1 catchable Pokemon
 [01:44:10] (BERRY) ItemRazzBerry used, remaining: 49
 [01:44:11] (Wild Success) | Paras 155 V |  380 Cp | 61.57% | Lvl 16 | Chance: 0.29 | with a UltraBall and received XP 210
+[01:44:13] (INFO) Found 1 pokemon to transfer...
+[01:44:14] (TRANSFER) Paras 155 V |  380 Cp | 61.57% | Lvl 16 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 56
+[01:44:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 2 x ItemGreatBall
+[01:44:18] (POKESTOP) First the Dream Then the Nightmare in 37.37 m distance
+[01:44:18] (NAVIGATION) Distance to target location: 37.37 meters. Will take 4.8 seconds driving at 28kmh
+[01:44:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[01:44:22] (POKESTOP) Compounds of Five Cubes in 94.61 m distance
+[01:44:22] (NAVIGATION) Distance to target location: 94.61 meters. Will take 11.35 seconds driving at 30kmh
+[01:44:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:44:32] (POKESTOP) Synergy in Motion in 141.13 m distance
+[01:44:32] (NAVIGATION) Distance to target location: 141.13 meters. Will take 15.88 seconds driving at 32kmh
+[01:44:52] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[01:44:52] (ATTENTION) Restarting the application due to error...
+[01:44:52] (INFO) Logging in via: Google
+[01:44:53] (INFO) Client logged in
+[01:44:53] (INFO) Found 91 Pokestops
+[01:44:54] (POKESTOP) Synergy in Motion in 43.86 m distance
+[01:44:54] (NAVIGATION) Distance to target location: 43.86 meters. Will take 5.26 seconds driving at 30kmh
+[01:44:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:44:59] (INFO) Found 2 Recyclable Items:
+[01:45:00] (RECYCLING) PokeBall x 4
+[01:45:01] (RECYCLING) Revive x 1
+[01:45:04] (POKESTOP) Sage In Shaw in 40.01 m distance
+[01:45:04] (NAVIGATION) Distance to target location: 40.01 meters. Will take 4.5 seconds driving at 32kmh
+[01:45:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[01:45:09] (POKESTOP) Biological Atom in 66.71 m distance
+[01:45:09] (NAVIGATION) Distance to target location: 66.71 meters. Will take 8.58 seconds driving at 28kmh
+[01:45:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:45:17] (POKESTOP) NUS Historial Plaques in 91.36 m distance
+[01:45:17] (NAVIGATION) Distance to target location: 91.36 meters. Will take 11.75 seconds driving at 28kmh
+[01:45:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:45:29] (POKESTOP) Tree of Benevolence in 72.44 m distance
+[01:45:29] (NAVIGATION) Distance to target location: 72.44 meters. Will take 8.69 seconds driving at 30kmh
+[01:45:30] (INFO) Found 1 catchable Pokemon
+[01:45:32] (Wild Success) | Poliwag 163 V |  255 Cp | 74.72% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
