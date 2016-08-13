@@ -19083,3 +19083,22 @@
 [06:46:28] (NAVIGATION) Distance to target location: 69.04 meters. Will take 7.77 seconds driving at 32kmh
 [06:46:33] (INFO) Found 1 catchable Pokemon
 [06:46:35] (Wild Success) | Pidgey 102 V |  347 Cp | 16.97% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:46:37] (INFO) Found 1 pokemon to transfer...
+[06:46:39] (TRANSFER) Pidgey 102 V |  347 Cp | 16.97% | Lvl 23 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 856
+[06:46:40] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemGreatBall, 4 x ItemPokeBall
+[06:46:41] (POKESTOP) 4 Mega Zip Lines in 65.49 m distance
+[06:46:41] (NAVIGATION) Distance to target location: 65.49 meters. Will take 7.61 seconds driving at 31kmh
+[06:46:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:46:49] (POKESTOP) Red Fire Truck in 107.34 m distance
+[06:46:49] (NAVIGATION) Distance to target location: 107.34 meters. Will take 13.8 seconds driving at 28kmh
+[06:47:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[06:47:02] (POKESTOP) Blue Dragon Boat  in 52.27 m distance
+[06:47:02] (NAVIGATION) Distance to target location: 52.27 meters. Will take 6.07 seconds driving at 31kmh
+[06:47:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[06:47:07] (INFO) Found 4 Recyclable Items:
+[06:47:08] (RECYCLING) RazzBerry x 1
+[06:47:09] (RECYCLING) PokeBall x 11
+[06:47:10] (RECYCLING) Potion x 4
+[06:47:10] (RECYCLING) Revive x 1
+[06:47:13] (INFO) Found 1 catchable Pokemon
+[06:47:15] (Wild Success) | Pidgey 110 V |   82 Cp | 61.98% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
