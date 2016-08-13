@@ -4067,3 +4067,19 @@
 [22:16:54] (NAVIGATION) Distance to target location: 253.13 meters. Will take 19.81 seconds driving at 46kmh
 [22:17:10] (INFO) Found 1 catchable Pokemon
 [22:17:12] (Wild Success) | Zubat 96 V |  190 Cp | 26.96% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[22:17:13] (INFO) Found 1 pokemon to transfer...
+[22:17:15] (TRANSFER) Zubat 96 V |  190 Cp | 26.96% | Lvl 13 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 290
+[22:17:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[22:17:19] (INFO) Found 3 Recyclable Items:
+[22:17:19] (RECYCLING) RazzBerry x 2
+[22:17:20] (RECYCLING) PokeBall x 8
+[22:17:22] (RECYCLING) Revive x 3
+[22:17:24] (POKESTOP) Masjid Hang Jebat in 507.94 m distance
+[22:17:24] (NAVIGATION) Distance to target location: 507.94 meters. Will take 26.12 seconds driving at 70kmh
+[22:17:44] (INFO) Found 1 catchable Pokemon
+[22:17:45] (Wild Escape) | Zubat 152 V |  250 Cp | 66.72% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[22:17:46] (Wild Success Attempt #2) | Zubat 152 V |  250 Cp | 66.72% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[22:17:47] (INFO) Found 1 pokemon to transfer...
+[22:17:49] (TRANSFER) Zubat 152 V |  250 Cp | 66.72% | Lvl 15 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 294
+[22:17:50] (INFO) Found 1 catchable Pokemon
+[22:17:52] (Wild Success) | Weedle 70 V |   15 Cp | 35.54% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
