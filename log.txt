@@ -20613,3 +20613,12 @@
 [07:34:39] (INFO) Found 1 catchable Pokemon
 [07:34:40] (BERRY) ItemRazzBerry used, remaining: 49
 [07:34:41] (Wild Success) | Venonat 186 V |  590 Cp | 60.17% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[07:34:43] (INFO) Found 1 pokemon to transfer...
+[07:34:44] (TRANSFER) Venonat 155 V |  353 Cp | 65.33% | Lvl 13 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 134
+[07:34:45] (POKESTOP) West Coast Park Amphitheatre in 109.52 m distance
+[07:34:45] (NAVIGATION) Distance to target location: 109.52 meters. Will take 13.14 seconds driving at 30kmh
+[07:34:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[07:34:58] (POKESTOP) Volleyball Arena in 188.39 m distance
+[07:34:58] (NAVIGATION) Distance to target location: 188.39 meters. Will take 19.95 seconds driving at 34kmh
+[07:35:08] (INFO) Found 1 catchable Pokemon
+[07:35:09] (Wild Success) | Rattata 125 V |  113 Cp | 53.73% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
