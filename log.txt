@@ -3469,3 +3469,10 @@
 [21:55:31] (NAVIGATION) Distance to target location: 113.6 meters. Will take 14.61 seconds driving at 28kmh
 [21:55:37] (INFO) Found 1 catchable Pokemon
 [21:55:39] (Wild Success) | Venonat 157 V |  131 Cp | 77.29% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[21:55:40] (INFO) Found 1 pokemon to transfer...
+[21:55:42] (TRANSFER) Venonat 157 V |  131 Cp | 77.29% | Lvl 05 | Best: [Venonat 166 V |  330 Cp | 71.08% | Lvl 12] | Candy: 22
+[21:55:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:55:47] (POKESTOP) Container Cafe in 174.88 m distance
+[21:55:47] (NAVIGATION) Distance to target location: 174.88 meters. Will take 19.67 seconds driving at 32kmh
+[21:56:04] (INFO) Found 1 catchable Pokemon
+[21:56:06] (Wild Success) | Koffing 149 V |  113 Cp | 72.96% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 710
