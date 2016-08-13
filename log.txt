@@ -7912,3 +7912,13 @@
 [00:31:31] (TRANSFER) Eevee 170 V |  353 Cp | 80.19% | Lvl 12 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 38
 [00:31:33] (INFO) Found 1 catchable Pokemon
 [00:31:34] (Wild Success) | Zubat 140 V |   63 Cp | 78.97% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[00:31:36] (INFO) Found 1 pokemon to transfer...
+[00:31:37] (TRANSFER) Zubat 140 V |   63 Cp | 78.97% | Lvl 04 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 409
+[00:31:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:31:41] (POKESTOP) Singapore Science Park I in 157.12 m distance
+[00:31:41] (NAVIGATION) Distance to target location: 157.12 meters. Will take 18.85 seconds driving at 30kmh
+[00:31:58] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[00:31:59] (POKESTOP) Kent Ridge Monument in 114.45 m distance
+[00:31:59] (NAVIGATION) Distance to target location: 114.45 meters. Will take 13.29 seconds driving at 31kmh
+[00:32:01] (INFO) Found 1 catchable Pokemon
+[00:32:02] (Wild Success) | Meowth 155 V |   74 Cp | 75.53% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
