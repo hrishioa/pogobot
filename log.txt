@@ -2349,3 +2349,22 @@
 [21:23:48] (NAVIGATION) Distance to target location: 130.51 meters. Will take 16.2 seconds driving at 29kmh
 [21:24:02] (INFO) Found 1 catchable Pokemon
 [21:24:03] (Wild Success) | Magikarp 88 V |   42 Cp | 59.01% | Lvl 07 | Chance: 0.8 | with a PokeBall and received XP 210
+[21:24:05] (INFO) Found 2 pokemon to transfer...
+[21:24:07] (TRANSFER) Magikarp 84 V |   77 Cp | 50.56% | Lvl 13 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 46
+[21:24:09] (TRANSFER) Magikarp 88 V |   42 Cp | 59.01% | Lvl 07 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 47
+[21:24:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:24:12] (POKESTOP) Kent Ridge Park Near Normanton Park in 72.8 m distance
+[21:24:12] (NAVIGATION) Distance to target location: 72.8 meters. Will take 8.74 seconds driving at 30kmh
+[21:24:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[21:24:19] (POKESTOP) Monitor Lizard Sign in Kent Ridge Park in 81.1 m distance
+[21:24:19] (NAVIGATION) Distance to target location: 81.1 meters. Will take 10.07 seconds driving at 29kmh
+[21:24:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:24:27] (INFO) Found 3 Recyclable Items:
+[21:24:28] (RECYCLING) Revive x 3
+[21:24:29] (RECYCLING) PokeBall x 7
+[21:24:30] (RECYCLING) Potion x 2
+[21:24:33] (POKESTOP) Kent Ridge Heritage Trail in 115.89 m distance
+[21:24:33] (NAVIGATION) Distance to target location: 115.89 meters. Will take 14.39 seconds driving at 29kmh
+[21:24:45] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemRazzBerry
+[21:24:46] (INFO) Found 2 catchable Pokemon
+[21:24:48] (Wild Success) | Zubat 174 V |  229 Cp | 85.54% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
