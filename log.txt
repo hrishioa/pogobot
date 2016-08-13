@@ -19076,3 +19076,10 @@
 [06:46:14] (NAVIGATION) Distance to target location: 72.14 meters. Will take 8.96 seconds driving at 29kmh
 [06:46:20] (INFO) Found 1 catchable Pokemon
 [06:46:21] (Wild Success) | Bellsprout 142 V |  457 Cp | 28.51% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[06:46:23] (INFO) Found 1 pokemon to transfer...
+[06:46:25] (TRANSFER) Bellsprout 142 V |  457 Cp | 28.51% | Lvl 17 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 189
+[06:46:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:46:28] (POKESTOP) Pyramid Web with Slider in 69.04 m distance
+[06:46:28] (NAVIGATION) Distance to target location: 69.04 meters. Will take 7.77 seconds driving at 32kmh
+[06:46:33] (INFO) Found 1 catchable Pokemon
+[06:46:35] (Wild Success) | Pidgey 102 V |  347 Cp | 16.97% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
