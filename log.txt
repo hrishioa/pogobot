@@ -16565,3 +16565,4 @@
 [05:22:48] (INFO) Found 2 catchable Pokemon
 [05:22:48] (BERRY) ItemRazzBerry used, remaining: 48
 [05:22:50] (Wild Success) | Poliwag 128 V |  426 Cp | 26.37% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
+[05:22:51] (Wild Success) | Rattata 109 V |  245 Cp | 22.94% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
