@@ -1147,3 +1147,8 @@
 [20:40:33] (NAVIGATION) Distance to target location: 137.48 meters. Will take 15.96 seconds driving at 31kmh
 [20:40:45] (INFO) Found 1 catchable Pokemon
 [20:40:46] (Wild Success) | Goldeen 143 V |  281 Cp | 68.26% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
+[20:40:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[20:40:52] (POKESTOP) Commonwealth Park in 342.42 m distance
+[20:40:52] (NAVIGATION) Distance to target location: 342.42 meters. Will take 19.88 seconds driving at 62kmh
+[20:41:12] (INFO) Found 1 catchable Pokemon
+[20:41:13] (Wild Success) | Poliwag 109 V |  192 Cp | 37.51% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
