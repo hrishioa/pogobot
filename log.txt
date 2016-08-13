@@ -10336,3 +10336,16 @@
 [01:52:45] (NAVIGATION) Distance to target location: 84.08 meters. Will take 10.81 seconds driving at 28kmh
 [01:52:51] (INFO) Found 1 catchable Pokemon
 [01:52:52] (Wild Success) | Meowth 140 V |  252 Cp | 60.02% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[01:52:54] (INFO) Found 1 pokemon to transfer...
+[01:52:55] (TRANSFER) Meowth 135 V |   93 Cp | 66.13% | Lvl 05 | Best: [Meowth 155 V |   74 Cp | 75.53% | Lvl 04] | Candy: 10
+[01:52:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:52:59] (POKESTOP) Level 6 Art in 73.35 m distance
+[01:52:59] (NAVIGATION) Distance to target location: 73.35 meters. Will take 8.8 seconds driving at 30kmh
+[01:53:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemSuperPotion
+[01:53:08] (POKESTOP) Waves and Particles - NUS Science Faculty in 272.63 m distance
+[01:53:08] (NAVIGATION) Distance to target location: 272.63 meters. Will take 19.63 seconds driving at 50kmh
+[01:53:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemRevive, 3 x ItemPokeBall
+[01:53:30] (POKESTOP) Reaching Out in 99.31 m distance
+[01:53:30] (NAVIGATION) Distance to target location: 99.31 meters. Will take 11.92 seconds driving at 30kmh
+[01:53:32] (INFO) Found 2 catchable Pokemon
+[01:53:33] (Wild Success) | Paras 151 V |  219 Cp | 74.08% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
