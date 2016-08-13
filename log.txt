@@ -2505,3 +2505,5 @@
 [21:26:47] (NAVIGATION) Distance to target location: 70.34 meters. Will take 7.91 seconds driving at 32kmh
 [21:26:50] (INFO) Found 2 catchable Pokemon
 [21:26:52] (Wild Success) | Zubat 147 V |  168 Cp | 69.94% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[21:26:53] (BERRY) ItemRazzBerry used, remaining: 49
+[21:26:54] (Wild Success) | Jynx 119 V |  422 Cp | 19.82% | Lvl 10 | Chance: 0.28 | with a GreatBall and received XP 210
