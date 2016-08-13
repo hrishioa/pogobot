@@ -6858,3 +6858,4 @@
 [23:55:21] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
 [23:55:21] (INFO) Found 2 catchable Pokemon
 [23:55:22] (Wild Success) | Rattata 119 V |  165 Cp | 41.08% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:55:24] (Wild Success) | Spearow 112 V |  185 Cp | 46.87% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
