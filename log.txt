@@ -18338,3 +18338,4 @@
 [06:21:22] (TRANSFER) Bellsprout 133 V |  401 Cp | 26.13% | Lvl 15 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 181
 [06:21:24] (INFO) Found 2 catchable Pokemon
 [06:21:26] (Wild Success) | Zubat 122 V |   40 Cp | 42.64% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[06:21:27] (Wild Success) | Pidgey 105 V |  160 Cp | 34.35% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
