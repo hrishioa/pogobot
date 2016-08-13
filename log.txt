@@ -3866,3 +3866,19 @@
 [22:10:10] (TRANSFER) Zubat 136 V |   44 Cp | 76.63% | Lvl 03 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 282
 [22:10:11] (INFO) Found 1 catchable Pokemon
 [22:10:13] (Wild Success) | Weedle 121 V |   87 Cp | 57.43% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[22:10:14] (INFO) Found 1 pokemon to transfer...
+[22:10:15] (TRANSFER) Weedle 112 V |   84 Cp | 48.53% | Lvl 08 | Best: [Weedle 121 V |   87 Cp | 57.43% | Lvl 08] | Candy: 82
+[22:10:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:10:19] (POKESTOP) Southern Ridges in 82.67 m distance
+[22:10:19] (NAVIGATION) Distance to target location: 82.67 meters. Will take 10.26 seconds driving at 29kmh
+[22:10:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[22:10:29] (INFO) Found 2 Recyclable Items:
+[22:10:30] (RECYCLING) PokeBall x 5
+[22:10:31] (RECYCLING) Revive x 2
+[22:10:33] (POKESTOP) Kent Ridge Heritage Trail in 112.66 m distance
+[22:10:33] (NAVIGATION) Distance to target location: 112.66 meters. Will take 13.08 seconds driving at 31kmh
+[22:10:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[22:10:46] (POKESTOP) Kent Ridge Park  in 95.63 m distance
+[22:10:46] (NAVIGATION) Distance to target location: 95.63 meters. Will take 11.48 seconds driving at 30kmh
+[22:10:54] (INFO) Found 1 catchable Pokemon
+[22:10:56] (Wild Success) | Rattata 134 V |  197 Cp | 48.52% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
