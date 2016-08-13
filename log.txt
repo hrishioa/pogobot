@@ -3365,3 +3365,8 @@
 [21:53:27] (NAVIGATION) Distance to target location: 73.24 meters. Will take 8.79 seconds driving at 30kmh
 [21:53:31] (INFO) Found 1 catchable Pokemon
 [21:53:32] (Wild Success) | Pinsir 145 V |  330 Cp | 64.84% | Lvl 06 | Chance: 0.37 | with a GreatBall and received XP 710
+[21:53:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:53:37] (POKESTOP) West Coast Park Dog Run  in 270.36 m distance
+[21:53:37] (NAVIGATION) Distance to target location: 270.36 meters. Will take 19.86 seconds driving at 49kmh
+[21:53:53] (INFO) Found 1 catchable Pokemon
+[21:53:55] (Wild Success) | Pidgey 111 V |  150 Cp | 50.55% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
