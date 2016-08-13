@@ -4830,3 +4830,15 @@
 [22:49:56] (NAVIGATION) Distance to target location: 160.41 meters. Will take 19.91 seconds driving at 29kmh
 [22:50:03] (INFO) Found 1 catchable Pokemon
 [22:50:04] (Wild Success) | Goldeen 117 V |   12 Cp | 57.29% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
+[22:50:05] (INFO) Found 1 pokemon to transfer...
+[22:50:08] (TRANSFER) Goldeen 117 V |   12 Cp | 57.29% | Lvl 01 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 82
+[22:50:14] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 6 x ItemPokeBall, 1 x ItemHyperPotion
+[22:50:15] (INFO) Found 1 Recyclable Item:
+[22:50:16] (RECYCLING) PokeBall x 15
+[22:50:21] (POKESTOP) Fat Chicken Mural in 283.98 m distance
+[22:50:21] (NAVIGATION) Distance to target location: 283.98 meters. Will take 19.66 seconds driving at 52kmh
+[22:50:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[22:50:42] (POKESTOP) JFDI the Frog in 337.61 m distance
+[22:50:42] (NAVIGATION) Distance to target location: 337.61 meters. Will take 19.92 seconds driving at 61kmh
+[22:50:44] (INFO) Found 1 catchable Pokemon
+[22:50:46] (Wild Success) | Pidgey 91 V |  263 Cp | 24.95% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 420
