@@ -4139,3 +4139,19 @@
 [22:21:38] (INFO) Found 1 catchable Pokemon
 [22:21:39] (BERRY) ItemRazzBerry used, remaining: 51
 [22:21:40] (Wild Success) | Jynx 140 V |  480 Cp | 37.47% | Lvl 11 | Chance: 0.27 | with a GreatBall and received XP 210
+[22:21:42] (INFO) Found 1 pokemon to transfer...
+[22:21:43] (TRANSFER) Jynx 119 V |  422 Cp | 19.82% | Lvl 10 | Best: [Jynx 144 V |  259 Cp | 50.77% | Lvl 06] | Candy: 30
+[22:21:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[22:21:47] (POKESTOP) Monitor Lizard Sign in Kent Ridge Park in 83.52 m distance
+[22:21:47] (NAVIGATION) Distance to target location: 83.52 meters. Will take 9.4 seconds driving at 32kmh
+[22:21:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:21:56] (INFO) Found 4 Recyclable Items:
+[22:21:56] (RECYCLING) RazzBerry x 1
+[22:21:57] (RECYCLING) PokeBall x 7
+[22:21:59] (RECYCLING) Potion x 1
+[22:21:59] (RECYCLING) Revive x 1
+[22:22:02] (POKESTOP) Kent Ridge Heritage Trail in 110.09 m distance
+[22:22:02] (NAVIGATION) Distance to target location: 110.09 meters. Will take 13.67 seconds driving at 29kmh
+[22:22:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:22:14] (INFO) Found 1 catchable Pokemon
+[22:22:15] (Wild Success) | Weedle 109 V |   61 Cp | 47.69% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
