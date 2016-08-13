@@ -8523,3 +8523,9 @@
 [00:50:44] (INFO) Found 2 catchable Pokemon
 [00:50:46] (Wild Success) | Pidgey 114 V |  182 Cp | 45.55% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [00:50:47] (Wild Success) | Eevee 127 V |  315 Cp | 32.80% | Lvl 12 | Chance: 0.34 | with a GreatBall and received XP 210
+[00:50:49] (INFO) Found 2 pokemon to transfer...
+[00:50:51] (TRANSFER) Eevee 127 V |  315 Cp | 32.80% | Lvl 12 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 50
+[00:50:53] (TRANSFER) Pidgey 114 V |  182 Cp | 45.55% | Lvl 11 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 325
+[00:51:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[00:51:01] (INFO) Found 1 catchable Pokemon
+[00:51:02] (Wild Success) | Spearow 103 V |  274 Cp | 16.12% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
