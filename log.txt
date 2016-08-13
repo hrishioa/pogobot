@@ -18626,3 +18626,19 @@
 [06:29:53] (INFO) Found 1 catchable Pokemon
 [06:29:54] (BERRY) ItemRazzBerry used, remaining: 46
 [06:29:55] (Wild Success) | Pidgey 127 V |  389 Cp | 38.39% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[06:29:56] (INFO) Found 1 pokemon to transfer...
+[06:29:58] (TRANSFER) Pidgey 127 V |  389 Cp | 38.39% | Lvl 24 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 828
+[06:30:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[06:30:01] (INFO) Found 2 Recyclable Items:
+[06:30:02] (RECYCLING) PokeBall x 9
+[06:30:03] (RECYCLING) Potion x 3
+[06:30:05] (POKESTOP) Yong Siew Toh Conservatory of Music in 54.97 m distance
+[06:30:05] (NAVIGATION) Distance to target location: 54.97 meters. Will take 6.18 seconds driving at 32kmh
+[06:30:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:30:11] (POKESTOP) Writings on the Wall in 91.69 m distance
+[06:30:11] (NAVIGATION) Distance to target location: 91.69 meters. Will take 10.65 seconds driving at 31kmh
+[06:30:21] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:30:22] (POKESTOP) Sayings by the Stairs in 83.11 m distance
+[06:30:22] (NAVIGATION) Distance to target location: 83.11 meters. Will take 9.35 seconds driving at 32kmh
+[06:30:26] (INFO) Found 2 catchable Pokemon
+[06:30:28] (Wild Success) | Zubat 158 V |  309 Cp | 77.11% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
