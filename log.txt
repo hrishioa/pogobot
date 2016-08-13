@@ -10005,3 +10005,20 @@
 [01:41:51] (TRANSFER) Pidgey 123 V |  262 Cp | 42.30% | Lvl 16 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 436
 [01:41:53] (INFO) Found 1 catchable Pokemon
 [01:41:55] (Wild Success) | Goldeen 136 V |   12 Cp | 62.93% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[01:41:57] (INFO) Found 1 pokemon to transfer...
+[01:41:58] (TRANSFER) Goldeen 136 V |   12 Cp | 62.93% | Lvl 01 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 118
+[01:42:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[01:42:01] (POKESTOP) NUS GREM Display in 56.17 m distance
+[01:42:01] (NAVIGATION) Distance to target location: 56.17 meters. Will take 7.22 seconds driving at 28kmh
+[01:42:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry
+[01:42:07] (POKESTOP) Masjid Tentera Di Raja in 154.93 m distance
+[01:42:07] (NAVIGATION) Distance to target location: 154.93 meters. Will take 17.43 seconds driving at 32kmh
+[01:42:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:42:24] (INFO) Found 3 Recyclable Items:
+[01:42:24] (RECYCLING) PokeBall x 4
+[01:42:25] (RECYCLING) Potion x 2
+[01:42:26] (RECYCLING) Revive x 2
+[01:42:29] (POKESTOP) Abstact Sculptures At NUS in 131.82 m distance
+[01:42:29] (NAVIGATION) Distance to target location: 131.82 meters. Will take 15.31 seconds driving at 31kmh
+[01:42:42] (INFO) Found 1 catchable Pokemon
+[01:42:43] (Wild Success) | Pidgey 121 V |  249 Cp | 45.82% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
