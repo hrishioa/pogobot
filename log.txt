@@ -11638,3 +11638,12 @@
 [02:31:25] (NAVIGATION) Distance to target location: 90.81 meters. Will take 11.68 seconds driving at 28kmh
 [02:31:30] (INFO) Found 1 catchable Pokemon
 [02:31:32] (Wild Success) | Rattata 124 V |   67 Cp | 51.70% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
+[02:31:34] (INFO) Found 1 pokemon to transfer...
+[02:31:36] (TRANSFER) Rattata 124 V |   67 Cp | 51.70% | Lvl 05 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 177
+[02:31:39] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:31:40] (ATTENTION) No locations in your area...
+[02:31:45] (INFO) Found 15 Pokestops
+[02:31:46] (POKESTOP) Focusing Coils in 331.41 m distance
+[02:31:46] (NAVIGATION) Distance to target location: 331.41 meters. Will take 19.88 seconds driving at 60kmh
+[02:31:51] (INFO) Found 1 catchable Pokemon
+[02:31:53] (Wild Success) | Pidgey 128 V |  257 Cp | 56.66% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 420
