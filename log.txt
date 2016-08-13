@@ -601,3 +601,29 @@
 [20:20:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [20:20:12] (INFO) Found 1 catchable Pokemon
 [20:20:13] (Wild Success) | Zubat 120 V |   93 Cp | 56.43% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[20:20:15] (INFO) Found 1 pokemon to transfer...
+[20:20:16] (TRANSFER) Zubat 120 V |   93 Cp | 56.43% | Lvl 06 | Best: [Zubat 150 V |  146 Cp | 59.90% | Lvl 09] | Candy: 69
+[20:20:17] (POKESTOP) Pasir Panjang Christ Church in 78.32 m distance
+[20:20:17] (NAVIGATION) Distance to target location: 78.32 meters. Will take 9.72 seconds driving at 29kmh
+[20:20:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[20:20:27] (POKESTOP) Emmanuel Evangelical Free Church  in 61.41 m distance
+[20:20:27] (NAVIGATION) Distance to target location: 61.41 meters. Will take 6.91 seconds driving at 32kmh
+[20:20:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:20:33] (POKESTOP) Singapore Science Park II in 152.97 m distance
+[20:20:33] (NAVIGATION) Distance to target location: 152.97 meters. Will take 17.76 seconds driving at 31kmh
+[20:20:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 4 x ItemPokeBall, 1 x ItemPotion
+[20:20:50] (POKESTOP) Institute of Microelectronics in 177.81 m distance
+[20:20:50] (NAVIGATION) Distance to target location: 177.81 meters. Will take 19.4 seconds driving at 33kmh
+[20:21:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:21:10] (INFO) Found 3 Recyclable Items:
+[20:21:10] (RECYCLING) PokeBall x 12
+[20:21:12] (RECYCLING) Revive x 3
+[20:21:12] (RECYCLING) Potion x 2
+[20:21:15] (POKESTOP) PhD Geyser in 99.49 m distance
+[20:21:15] (NAVIGATION) Distance to target location: 99.49 meters. Will take 11.55 seconds driving at 31kmh
+[20:21:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:21:27] (POKESTOP) Dry Waterfall in 134.97 m distance
+[20:21:27] (NAVIGATION) Distance to target location: 134.97 meters. Will take 15.67 seconds driving at 31kmh
+[20:21:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:21:42] (INFO) Found 3 catchable Pokemon
+[20:21:44] (Wild Success) | Slowpoke 124 V |   48 Cp | 53.54% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
