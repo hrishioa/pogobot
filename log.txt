@@ -4190,3 +4190,19 @@
 [22:24:17] (NAVIGATION) Distance to target location: 107.7 meters. Will take 13.37 seconds driving at 29kmh
 [22:24:28] (INFO) Found 1 catchable Pokemon
 [22:24:30] (Wild Success) | Magikarp 106 V |   79 Cp | 73.17% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
+[22:24:31] (INFO) Found 1 pokemon to transfer...
+[22:24:33] (TRANSFER) Magikarp 106 V |   79 Cp | 73.17% | Lvl 12 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 78
+[22:24:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[22:24:36] (POKESTOP) NUHS Tower Block in 67.55 m distance
+[22:24:36] (NAVIGATION) Distance to target location: 67.55 meters. Will take 8.39 seconds driving at 29kmh
+[22:24:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemHyperPotion
+[22:24:44] (POKESTOP) Kent Ridge Heritage Trail Pgp Entrance  in 80.68 m distance
+[22:24:44] (NAVIGATION) Distance to target location: 80.68 meters. Will take 9.08 seconds driving at 32kmh
+[22:24:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[22:24:53] (INFO) Found 2 Recyclable Items:
+[22:24:54] (RECYCLING) PokeBall x 8
+[22:24:54] (RECYCLING) Potion x 4
+[22:24:57] (POKESTOP) Pgp eCanteen in 142.58 m distance
+[22:24:57] (NAVIGATION) Distance to target location: 142.58 meters. Will take 17.11 seconds driving at 30kmh
+[22:25:08] (INFO) Found 1 catchable Pokemon
+[22:25:10] (Wild Success) | Clefairy 123 V |  329 Cp | 2.76% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 210
