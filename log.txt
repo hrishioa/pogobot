@@ -11651,3 +11651,26 @@
 [02:31:56] (TRANSFER) Pidgey 128 V |  257 Cp | 56.66% | Lvl 15 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 504
 [02:31:58] (INFO) Found 1 catchable Pokemon
 [02:32:00] (Wild Success) | Weedle 95 V |   86 Cp | 54.01% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
+[02:32:01] (INFO) Found 1 pokemon to transfer...
+[02:32:03] (TRANSFER) Weedle 95 V |   86 Cp | 54.01% | Lvl 08 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 176
+[02:32:07] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:32:08] (POKESTOP) West Coast Park in 207.79 m distance
+[02:32:08] (NAVIGATION) Distance to target location: 207.79 meters. Will take 19.69 seconds driving at 38kmh
+[02:32:27] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:32:28] (INFO) Found 3 Recyclable Items:
+[02:32:29] (RECYCLING) RazzBerry x 1
+[02:32:29] (RECYCLING) SuperPotion x 2
+[02:32:30] (RECYCLING) Revive x 1
+[02:32:33] (POKESTOP) Pendulum White Shelter in 105.57 m distance
+[02:32:33] (NAVIGATION) Distance to target location: 105.57 meters. Will take 12.26 seconds driving at 31kmh
+[02:32:44] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:32:46] (POKESTOP) Safety English Chess Table in 87.24 m distance
+[02:32:46] (NAVIGATION) Distance to target location: 87.24 meters. Will take 10.47 seconds driving at 30kmh
+[02:32:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:32:56] (POKESTOP) Sailing Mural in 267.81 m distance
+[02:32:56] (NAVIGATION) Distance to target location: 267.81 meters. Will take 19.68 seconds driving at 49kmh
+[02:33:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:33:17] (POKESTOP) Campsite Area in 769.25 m distance
+[02:33:17] (NAVIGATION) Distance to target location: 769.25 meters. Will take 39.56 seconds driving at 70kmh
+[02:33:18] (INFO) Found 1 catchable Pokemon
+[02:33:20] (Wild Success) | Poliwag 147 V |  101 Cp | 78.21% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
