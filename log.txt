@@ -10926,3 +10926,15 @@
 [02:08:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
 [02:08:36] (INFO) Found 1 catchable Pokemon
 [02:08:37] (Wild Success) | Poliwag 135 V |  100 Cp | 72.96% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
+[02:08:39] (INFO) Found 1 pokemon to transfer...
+[02:08:40] (TRANSFER) Poliwag 135 V |  100 Cp | 72.96% | Lvl 05 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 81
+[02:08:41] (POKESTOP) Institute of Systems Science in 140.05 m distance
+[02:08:41] (NAVIGATION) Distance to target location: 140.05 meters. Will take 15.76 seconds driving at 32kmh
+[02:08:56] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:08:56] (INFO) Found 4 Recyclable Items:
+[02:08:58] (RECYCLING) PokeBall x 5
+[02:08:58] (RECYCLING) Potion x 2
+[02:09:00] (RECYCLING) SuperPotion x 1
+[02:09:01] (RECYCLING) Revive x 1
+[02:09:02] (INFO) Found 1 catchable Pokemon
+[02:09:04] (Wild Success) | Jigglypuff 133 V |  111 Cp | 60.01% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
