@@ -6760,3 +6760,101 @@
 [23:54:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
 [23:54:27] (INFO) Found 1 catchable Pokemon
 [23:54:28] (Wild Success) | Geodude 104 V |  238 Cp | 25.02% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:54:30] (INFO) Found 1 pokemon to transfer...
+[23:54:31] (TRANSFER) Geodude 89 V |  210 Cp | 12.86% | Lvl 11 | Best: [Geodude 131 V |  372 Cp | 39.27% | Lvl 18] | Candy: 10
+[23:54:32] (POKESTOP) The Rain Garden in 246.27 m distance
+[23:54:32] (NAVIGATION) Distance to target location: 246.27 meters. Will take 19.7 seconds driving at 45kmh
+[23:54:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:54:52] (POKESTOP) Heritage View Golden Wall in 296.95 m distance
+[23:54:52] (NAVIGATION) Distance to target location: 296.95 meters. Will take 19.8 seconds driving at 54kmh
+[23:55:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 3 x ItemPokeBall
+[23:55:14] (INFO) Found 4 Recyclable Items:
+[23:55:15] (RECYCLING) RazzBerry x 1
+[23:55:15] (RECYCLING) PokeBall x 11
+[23:55:17] (RECYCLING) Potion x 1
+[23:55:18] (RECYCLING) Revive x 3
+[23:55:19] ====== User Info ======
+[23:55:19] Name: toonistic2
+[23:55:19] Team: Neutral
+[23:55:19] Level: 20 (LvLUp in 0h 39m | 10020/50000 XP)
+[23:55:19] Pokemon: 89
+[23:55:19] Stardust: 55950
+[23:55:19] ====== Items (318) ======
+[23:55:19] RazzBerry x 50
+[23:55:19] PokeBall x 50
+[23:55:19] GreatBall x 61
+[23:55:19] UltraBall x 3
+[23:55:19] Potion x 30
+[23:55:19] SuperPotion x 31
+[23:55:19] HyperPotion x 53
+[23:55:19] IncubatorBasicUnlimited x 1
+[23:55:19] IncubatorBasic x 3
+[23:55:19] Revive x 25
+[23:55:19] LuckyEgg x 2
+[23:55:19] IncenseOrdinary x 6
+[23:55:19] TroyDisk x 3
+[23:55:19] ====== Most Valuable ======
+[23:55:19] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[23:55:19] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[23:55:19] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[23:55:20] Golbat              216 True Value |  697 Cp | 85.92% Perfect | Lvl 13 | Bite/OminousWind
+[23:55:20] Dodrio              213 True Value |  929 Cp | 60.00% Perfect | Lvl 19 | FeintAttack/AirCutter
+[23:55:20] Pinsir              211 True Value |  705 Cp | 81.05% Perfect | Lvl 12 | RockSmash/XScissor
+[23:55:20] Raticate            210 True Value |  348 Cp | 69.86% Perfect | Lvl 09 | Bite/HyperBeam
+[23:55:20] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[23:55:20] Golbat              203 True Value |  960 Cp | 51.59% Perfect | Lvl 19 | WingAttack/PoisonFang
+[23:55:20] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
+[23:55:20] Pinsir              196 True Value |  584 Cp | 77.53% Perfect | Lvl 10 | FuryCutter/Submission
+[23:55:20] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[23:55:20] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
+[23:55:20] Koffing             180 True Value |  314 Cp | 79.21% Perfect | Lvl 10 | Tackle/SludgeBomb
+[23:55:20] Goldeen             180 True Value |  394 Cp | 79.31% Perfect | Lvl 15 | Peck/AquaTail
+[23:55:20] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[23:55:20] Beedrill            176 True Value |  482 Cp | 47.97% Perfect | Lvl 13 | PoisonJab/XScissor
+[23:55:20] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[23:55:20] Zubat               173 True Value |  238 Cp | 73.93% Perfect | Lvl 14 | Bite/SludgeBomb
+[23:55:20] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[23:55:20] ====== Highest CP ======
+[23:55:20] Golbat              203 True Value |  960 Cp | 51.59% Perfect | Lvl 19 | WingAttack/PoisonFang
+[23:55:20] Dodrio              213 True Value |  929 Cp | 60.00% Perfect | Lvl 19 | FeintAttack/AirCutter
+[23:55:20] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[23:55:20] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[23:55:20] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[23:55:20] Pinsir              211 True Value |  705 Cp | 81.05% Perfect | Lvl 12 | RockSmash/XScissor
+[23:55:20] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
+[23:55:20] Golbat              216 True Value |  697 Cp | 85.92% Perfect | Lvl 13 | Bite/OminousWind
+[23:55:20] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[23:55:20] Pinsir              196 True Value |  584 Cp | 77.53% Perfect | Lvl 10 | FuryCutter/Submission
+[23:55:20] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
+[23:55:20] Jynx                157 True Value |  535 Cp | 47.85% Perfect | Lvl 12 | FrostBreath/DrainingKiss
+[23:55:20] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[23:55:20] Beedrill            176 True Value |  482 Cp | 47.97% Perfect | Lvl 13 | PoisonJab/XScissor
+[23:55:20] Dodrio              154 True Value |  476 Cp | 46.00% Perfect | Lvl 10 | FeintAttack/AirCutter
+[23:55:20] Pidgeot             136 True Value |  474 Cp | 28.91% Perfect | Lvl 09 | WingAttack/AerialAce
+[23:55:20] Goldeen             180 True Value |  394 Cp | 79.31% Perfect | Lvl 15 | Peck/AquaTail
+[23:55:20] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[23:55:20] Exeggcute           162 True Value |  373 Cp | 60.31% Perfect | Lvl 13 | Confusion/SeedBomb
+[23:55:21] Geodude             131 True Value |  372 Cp | 39.27% Perfect | Lvl 18 | RockThrow/RockTomb
+[23:55:21] ====== Most Perfect Genetics ======
+[23:55:21] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[23:55:21] Golbat              216 True Value |  697 Cp | 85.92% Perfect | Lvl 13 | Bite/OminousWind
+[23:55:21] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[23:55:21] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[23:55:21] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[23:55:21] Krabby              163 True Value |  345 Cp | 82.06% Perfect | Lvl 16 | Bubble/ViceGrip
+[23:55:21] Krabby              155 True Value |  169 Cp | 81.26% Perfect | Lvl 08 | MudShot/WaterPulse
+[23:55:21] Pinsir              211 True Value |  705 Cp | 81.05% Perfect | Lvl 12 | RockSmash/XScissor
+[23:55:21] Staryu              158 True Value |  255 Cp | 80.25% Perfect | Lvl 10 | QuickAttack/BubbleBeam
+[23:55:21] Eevee               170 True Value |  353 Cp | 80.19% Perfect | Lvl 12 | Tackle/Swift
+[23:55:21] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[23:55:21] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[23:55:21] Goldeen             180 True Value |  394 Cp | 79.31% Perfect | Lvl 15 | Peck/AquaTail
+[23:55:21] Koffing             180 True Value |  314 Cp | 79.21% Perfect | Lvl 10 | Tackle/SludgeBomb
+[23:55:21] Poliwhirl           168 True Value |  289 Cp | 79.09% Perfect | Lvl 08 | Bubble/Scald
+[23:55:21] Spearow             162 True Value |  240 Cp | 78.46% Perfect | Lvl 13 | QuickAttack/DrillPeck
+[23:55:21] Pinsir              196 True Value |  584 Cp | 77.53% Perfect | Lvl 10 | FuryCutter/Submission
+[23:55:21] Magikarp            109 True Value |   81 Cp | 76.39% Perfect | Lvl 12 | Splash/Struggle
+[23:55:21] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[23:55:21] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
+[23:55:21] (INFO) Found 2 catchable Pokemon
+[23:55:22] (Wild Success) | Rattata 119 V |  165 Cp | 41.08% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
