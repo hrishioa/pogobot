@@ -12847,3 +12847,4 @@
 [03:11:51] (NAVIGATION) Distance to target location: 1251.85 meters. Will take 1.07 minutes driving at 70kmh
 [03:12:03] (INFO) Found 2 catchable Pokemon
 [03:12:04] (Wild Success) | Pidgey 104 V |  192 Cp | 35.36% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[03:12:06] (Wild Success) | Venonat 140 V |  183 Cp | 60.27% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
