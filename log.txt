@@ -17744,3 +17744,4 @@
 [06:02:37] (TRANSFER) Pidgey 99 V |  114 Cp | 47.86% | Lvl 07 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 776
 [06:02:38] (INFO) Found 2 catchable Pokemon
 [06:02:40] (Wild Success) | Slowpoke 141 V |  420 Cp | 33.79% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[06:02:42] (Wild Success) | Rattata 146 V |  209 Cp | 65.40% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
