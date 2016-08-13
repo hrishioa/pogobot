@@ -20708,3 +20708,7 @@
 [07:38:36] (NAVIGATION) Distance to target location: 111.89 meters. Will take 12.99 seconds driving at 31kmh
 [07:38:42] (INFO) Found 1 catchable Pokemon
 [07:38:44] (Wild Success) | Tentacool 111 V |  309 Cp | 66.33% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[07:38:46] (INFO) Found 1 pokemon to transfer...
+[07:38:47] (TRANSFER) Tentacool 87 V |  302 Cp | 30.44% | Lvl 14 | Best: [Tentacool 136 V |  463 Cp | 38.41% | Lvl 21] | Candy: 18
+[07:38:49] (INFO) Found 1 catchable Pokemon
+[07:38:50] (Wild Success) | Zubat 127 V |   10 Cp | 66.32% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
