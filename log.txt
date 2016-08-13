@@ -921,3 +921,4 @@
 [20:32:09] (INFO) Found 3 catchable Pokemon
 [20:32:11] (Wild Success) | Zubat 132 V |  110 Cp | 55.90% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [20:32:13] (Wild Success) | Pidgey 82 V |   56 Cp | 21.37% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:32:14] (Wild Success) | Zubat 134 V |   60 Cp | 63.41% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
