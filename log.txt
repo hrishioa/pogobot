@@ -17185,3 +17185,15 @@
 [05:44:31] (INFO) Found 2 catchable Pokemon
 [05:44:32] (Wild Success) | Weedle 97 V |  147 Cp | 27.33% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
 [05:44:34] (Wild Success) | Weedle 110 V |  115 Cp | 43.18% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[05:44:35] (INFO) Found 2 pokemon to transfer...
+[05:44:37] (TRANSFER) Weedle 97 V |  201 Cp | 22.24% | Lvl 21 | Best: [Weedle 110 V |  115 Cp | 43.18% | Lvl 11] | Candy: 344
+[05:44:39] (TRANSFER) Weedle 92 V |  107 Cp | 26.28% | Lvl 11 | Best: [Weedle 110 V |  115 Cp | 43.18% | Lvl 11] | Candy: 345
+[05:44:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[05:44:43] (POKESTOP) Clementi West White Orchid Mural in 40.77 m distance
+[05:44:43] (NAVIGATION) Distance to target location: 40.77 meters. Will take 5.24 seconds driving at 28kmh
+[05:44:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:44:47] (POKESTOP) Health Mural in 107.67 m distance
+[05:44:47] (NAVIGATION) Distance to target location: 107.67 meters. Will take 13.37 seconds driving at 29kmh
+[05:44:54] (INFO) Found 1 catchable Pokemon
+[05:44:55] (BERRY) ItemRazzBerry used, remaining: 50
+[05:44:56] (Wild Success) | Staryu 176 V |  524 Cp | 72.08% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
