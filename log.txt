@@ -10022,3 +10022,25 @@
 [01:42:29] (NAVIGATION) Distance to target location: 131.82 meters. Will take 15.31 seconds driving at 31kmh
 [01:42:42] (INFO) Found 1 catchable Pokemon
 [01:42:43] (Wild Success) | Pidgey 121 V |  249 Cp | 45.82% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[01:42:45] (INFO) Found 1 pokemon to transfer...
+[01:42:46] (TRANSFER) Pidgey 121 V |  249 Cp | 45.82% | Lvl 15 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 440
+[01:42:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemUltraBall
+[01:42:48] (POKESTOP) Metal Robot Structure in 129.78 m distance
+[01:42:48] (NAVIGATION) Distance to target location: 129.78 meters. Will take 16.69 seconds driving at 28kmh
+[01:43:04] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemGreatBall
+[01:43:05] (POKESTOP) SDE Mural in 113.47 m distance
+[01:43:05] (NAVIGATION) Distance to target location: 113.47 meters. Will take 14.09 seconds driving at 29kmh
+[01:43:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:43:19] (POKESTOP) Center for English Language Communication in 101.04 m distance
+[01:43:19] (NAVIGATION) Distance to target location: 101.04 meters. Will take 12.99 seconds driving at 28kmh
+[01:43:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:43:32] (POKESTOP) NUS Central Library in 156.09 m distance
+[01:43:32] (NAVIGATION) Distance to target location: 156.09 meters. Will take 19.38 seconds driving at 29kmh
+[01:43:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:43:50] (INFO) Found 2 Recyclable Items:
+[01:43:51] (RECYCLING) PokeBall x 4
+[01:43:52] (RECYCLING) Revive x 2
+[01:43:55] (POKESTOP) Survival Mask in 63.36 m distance
+[01:43:55] (NAVIGATION) Distance to target location: 63.36 meters. Will take 7.87 seconds driving at 29kmh
+[01:43:57] (INFO) Found 1 catchable Pokemon
+[01:43:58] (Wild Success) | Caterpie 69 V |   33 Cp | 16.00% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
