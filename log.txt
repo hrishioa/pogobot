@@ -2688,3 +2688,4 @@
 [21:31:34] (NAVIGATION) Distance to target location: 67.3 meters. Will take 8.35 seconds driving at 29kmh
 [21:31:40] (INFO) Found 2 catchable Pokemon
 [21:31:42] (Wild Success) | Clefairy 103 V |   46 Cp | 35.57% | Lvl 02 | Chance: 0.72 | with a PokeBall and received XP 210
+[21:31:43] (Wild Success) | Goldeen 94 V |   11 Cp | 20.59% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
