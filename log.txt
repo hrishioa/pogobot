@@ -11167,3 +11167,8 @@
 [02:17:01] (Wild Escape) | Bellsprout 140 V |  271 Cp | 32.60% | Lvl 10 | Chance: 0.47 | with a GreatBall 
 [02:17:02] (Wild Success Attempt #2) | Bellsprout 140 V |  271 Cp | 32.60% | Lvl 10 | Chance: 0.47 | with a GreatBall 
 [02:17:04] (Wild Success) | Pidgey 123 V |  269 Cp | 50.51% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
+[02:17:06] (INFO) Found 2 pokemon to transfer...
+[02:17:07] (TRANSFER) Bellsprout 140 V |  271 Cp | 32.60% | Lvl 10 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 26
+[02:17:10] (TRANSFER) Pidgey 123 V |  269 Cp | 50.51% | Lvl 16 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 488
+[02:17:11] (INFO) Found 1 catchable Pokemon
+[02:17:13] (Wild Success) | Pidgey 98 V |  171 Cp | 26.17% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
