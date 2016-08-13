@@ -3861,3 +3861,4 @@
 [22:10:02] (INFO) Found 2 catchable Pokemon
 [22:10:04] (BERRY) ItemRazzBerry used, remaining: 49
 [22:10:04] (Wild Success) | Pinsir 196 V |  584 Cp | 77.53% | Lvl 10 | Chance: 0.28 | with a GreatBall and received XP 210
+[22:10:07] (Wild Success) | Zubat 136 V |   44 Cp | 76.63% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
