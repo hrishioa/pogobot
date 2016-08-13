@@ -629,3 +629,25 @@
 [20:21:44] (Wild Success) | Slowpoke 124 V |   48 Cp | 53.54% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [20:21:45] (Wild Success) | Pidgey 103 V |  110 Cp | 37.35% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [20:21:47] (Wild Success) | Psyduck 114 V |  211 Cp | 27.99% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[20:21:48] (INFO) Found 2 pokemon to transfer...
+[20:21:50] (TRANSFER) Pidgey 103 V |  110 Cp | 37.35% | Lvl 07 | Best: [Pidgey 118 V |  118 Cp | 61.06% | Lvl 07] | Candy: 64
+[20:21:52] (TRANSFER) Slowpoke 124 V |   48 Cp | 53.54% | Lvl 02 | Best: [NONE] | Candy: 8
+[20:21:53] (POKESTOP) Sculpture at PGPR in 181.21 m distance
+[20:21:53] (NAVIGATION) Distance to target location: 181.21 meters. Will take 19.77 seconds driving at 33kmh
+[20:22:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:22:14] (POKESTOP) The Clock in 91.14 m distance
+[20:22:14] (NAVIGATION) Distance to target location: 91.14 meters. Will take 11.31 seconds driving at 29kmh
+[20:22:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:22:25] (POKESTOP) Memorial at PGPR in 81.68 m distance
+[20:22:25] (NAVIGATION) Distance to target location: 81.68 meters. Will take 9.49 seconds driving at 31kmh
+[20:22:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[20:22:35] (INFO) Found 2 Recyclable Items:
+[20:22:35] (RECYCLING) PokeBall x 9
+[20:22:37] (RECYCLING) Potion x 2
+[20:22:39] (POKESTOP) Pgp eCanteen in 100.26 m distance
+[20:22:39] (NAVIGATION) Distance to target location: 100.26 meters. Will take 12.89 seconds driving at 28kmh
+[20:22:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:22:51] (POKESTOP) Kent Ridge Heritage Trail Pgp Entrance  in 146.18 m distance
+[20:22:51] (NAVIGATION) Distance to target location: 146.18 meters. Will take 16.45 seconds driving at 32kmh
+[20:22:53] (INFO) Found 1 catchable Pokemon
+[20:22:54] (Wild Success) | Zubat 120 V |   59 Cp | 58.93% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
