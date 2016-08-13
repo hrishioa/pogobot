@@ -9335,3 +9335,19 @@
 [01:19:42] (NAVIGATION) Distance to target location: 96.92 meters. Will take 10.9 seconds driving at 32kmh
 [01:19:46] (INFO) Found 1 catchable Pokemon
 [01:19:47] (Wild Success) | Pidgey 92 V |  292 Cp | 7.72% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 310
+[01:19:48] (EGG) Hatched egg! Pidgey              179 True Value |  339 Cp | 89.62% Perfect | Lvl 18 | Tackle/AerialAce
+[01:19:49] (EGG) Added 2km egg to incubator
+[01:19:50] (INFO) Found 2 pokemon to transfer...
+[01:19:51] (TRANSFER) Pidgey 121 V |  234 Cp | 47.78% | Lvl 14 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 379
+[01:19:54] (TRANSFER) Pidgey 92 V |  292 Cp | 7.72% | Lvl 20 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 380
+[01:19:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[01:19:58] (INFO) Found 2 Recyclable Items:
+[01:19:58] (RECYCLING) PokeBall x 6
+[01:19:59] (RECYCLING) SuperPotion x 2
+[01:20:02] (POKESTOP) Singapore Science Park I in 157.12 m distance
+[01:20:02] (NAVIGATION) Distance to target location: 157.12 meters. Will take 19.51 seconds driving at 29kmh
+[01:20:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemPotion
+[01:20:21] (POKESTOP) Kent Ridge Monument in 108.76 m distance
+[01:20:21] (NAVIGATION) Distance to target location: 108.76 meters. Will take 13.5 seconds driving at 29kmh
+[01:20:30] (INFO) Found 1 catchable Pokemon
+[01:20:31] (Wild Success) | Pidgey 87 V |  188 Cp | 28.26% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
