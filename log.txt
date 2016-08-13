@@ -10220,3 +10220,18 @@
 [01:48:05] (INFO) Found 1 catchable Pokemon
 [01:48:05] (BERRY) ItemRazzBerry used, remaining: 49
 [01:48:06] (Wild Success) | Clefairy 152 V |  589 Cp | 53.39% | Lvl 19 | Chance: 0.2 | with a UltraBall and received XP 210
+[01:48:08] (INFO) Found 1 pokemon to transfer...
+[01:48:09] (TRANSFER) Clefairy 141 V |  303 Cp | 44.25% | Lvl 10 | Best: [Clefairy 159 V |  362 Cp | 41.21% | Lvl 12] | Candy: 50
+[01:48:10] (POKESTOP) Nazareth Bible-Presbyterian Church in 84.03 m distance
+[01:48:10] (NAVIGATION) Distance to target location: 84.03 meters. Will take 10.43 seconds driving at 29kmh
+[01:48:12] (INFO) Found 1 catchable Pokemon
+[01:48:13] (BERRY) ItemRazzBerry used, remaining: 48
+[01:48:14] (Wild Escape) | Squirtle 122 V |  398 Cp | 16.60% | Lvl 17 | Chance: 0.14 | with a GreatBall 
+[01:48:15] (BERRY) ItemRazzBerry used, remaining: 47
+[01:48:15] (Wild Success Attempt #2) | Squirtle 122 V |  398 Cp | 16.60% | Lvl 17 | Chance: 0.14 | with a GreatBall 
+[01:48:17] (INFO) Found 1 pokemon to transfer...
+[01:48:19] (TRANSFER) Squirtle 122 V |  398 Cp | 16.60% | Lvl 17 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 30
+[01:48:20] (INFO) Found 2 catchable Pokemon
+[01:48:21] (Wild Escape) | Weedle 96 V |   58 Cp | 35.20% | Lvl 06 | Chance: 0.62 | with a PokeBall 
+[01:48:22] (Wild Success Attempt #2) | Weedle 96 V |   58 Cp | 35.20% | Lvl 06 | Chance: 0.62 | with a PokeBall 
+[01:48:23] (Wild Success) | Krabby 131 V |   32 Cp | 68.72% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
