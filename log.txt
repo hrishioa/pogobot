@@ -7208,3 +7208,11 @@
 [00:06:15] (NAVIGATION) Distance to target location: 115.09 meters. Will take 13.37 seconds driving at 31kmh
 [00:06:26] (INFO) Found 1 catchable Pokemon
 [00:06:28] (Wild Success) | Bulbasaur 125 V |   13 Cp | 41.87% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 210
+[00:06:29] (INFO) Found 1 pokemon to transfer...
+[00:06:31] (TRANSFER) Bulbasaur 125 V |   13 Cp | 41.87% | Lvl 01 | Best: [Bulbasaur 169 V |  302 Cp | 53.73% | Lvl 11] | Candy: 26
+[00:06:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[00:06:33] (POKESTOP) Metropolis Fountain  in 66.48 m distance
+[00:06:33] (NAVIGATION) Distance to target location: 66.48 meters. Will take 7.72 seconds driving at 31kmh
+[00:06:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[00:06:39] (INFO) Found 1 catchable Pokemon
+[00:06:41] (Wild Success) | Weedle 108 V |  163 Cp | 37.40% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
