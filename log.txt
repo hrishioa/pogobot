@@ -8581,3 +8581,10 @@
 [00:53:16] (NAVIGATION) Distance to target location: 136.43 meters. Will take 16.94 seconds driving at 29kmh
 [00:53:29] (INFO) Found 1 catchable Pokemon
 [00:53:30] (Wild Success) | Spearow 123 V |  217 Cp | 44.39% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[00:53:32] (INFO) Found 1 pokemon to transfer...
+[00:53:34] (TRANSFER) Spearow 123 V |  217 Cp | 44.39% | Lvl 13 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 155
+[00:53:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[00:53:38] (POKESTOP) The Grocer in 1183.61 m distance
+[00:53:38] (NAVIGATION) Distance to target location: 1183.61 meters. Will take 1.01 minutes driving at 70kmh
+[00:54:15] (INFO) Found 1 catchable Pokemon
+[00:54:18] (Wild Success) | Staryu 125 V |  114 Cp | 61.84% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
