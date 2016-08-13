@@ -508,3 +508,17 @@
 [20:16:02] (NAVIGATION) Distance to target location: 62.26 meters. Will take 7.23 seconds driving at 31kmh
 [20:16:07] (INFO) Found 1 catchable Pokemon
 [20:16:09] (Wild Success) | Goldeen 124 V |   37 Cp | 47.96% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[20:16:10] (INFO) Found 1 pokemon to transfer...
+[20:16:12] (TRANSFER) Goldeen 124 V |   37 Cp | 47.96% | Lvl 02 | Best: [NONE] | Candy: 12
+[20:16:13] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 4 x ItemPokeBall, 1 x ItemRazzBerry
+[20:16:15] (POKESTOP) Journey to the West in 33.64 m distance
+[20:16:15] (NAVIGATION) Distance to target location: 33.64 meters. Will take 4.04 seconds driving at 30kmh
+[20:16:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:16:18] (INFO) Found 3 Recyclable Items:
+[20:16:18] (RECYCLING) PokeBall x 7
+[20:16:19] (RECYCLING) Revive x 3
+[20:16:21] (RECYCLING) Potion x 4
+[20:16:23] (POKESTOP) Wishing Well in 132.1 m distance
+[20:16:23] (NAVIGATION) Distance to target location: 132.1 meters. Will take 15.34 seconds driving at 31kmh
+[20:16:35] (INFO) Found 2 catchable Pokemon
+[20:16:37] (Wild Success) | Goldeen 92 V |   11 Cp | 18.84% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
