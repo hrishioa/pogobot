@@ -19317,3 +19317,10 @@
 [06:52:46] (NAVIGATION) Distance to target location: 72.45 meters. Will take 8.69 seconds driving at 30kmh
 [06:52:51] (INFO) Found 1 catchable Pokemon
 [06:52:53] (Wild Success) | Zubat 118 V |   92 Cp | 54.38% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[06:52:55] (INFO) Found 1 pokemon to transfer...
+[06:52:56] (TRANSFER) Zubat 118 V |   92 Cp | 54.38% | Lvl 06 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 574
+[06:52:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:53:00] (POKESTOP) Tower Playground in 208.28 m distance
+[06:53:00] (NAVIGATION) Distance to target location: 208.28 meters. Will take 19.73 seconds driving at 38kmh
+[06:53:18] (INFO) Found 1 catchable Pokemon
+[06:53:20] (Wild Success) | Goldeen 149 V |  300 Cp | 59.99% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
