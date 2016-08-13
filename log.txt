@@ -19267,3 +19267,5 @@
 [06:50:21] (INFO) Found 3 catchable Pokemon
 [06:50:23] (Wild Success) | Zubat 133 V |   94 Cp | 59.29% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [06:50:25] (Wild Success) | Weedle 96 V |  209 Cp | 19.89% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:50:26] (BERRY) ItemRazzBerry used, remaining: 50
+[06:50:27] (Wild Success) | Bellsprout 108 V |  513 Cp | 29.91% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
