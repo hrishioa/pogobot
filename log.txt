@@ -1721,3 +1721,4 @@
 [20:59:30] (TRANSFER) Ekans 101 V |   78 Cp | 65.67% | Lvl 04 | Best: [Ekans 143 V |  167 Cp | 59.48% | Lvl 08] | Candy: 34
 [20:59:31] (INFO) Found 2 catchable Pokemon
 [20:59:33] (Wild Success) | Pidgey 69 V |   40 Cp | 25.37% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[20:59:35] (Wild Success) | Rattata 94 V |   34 Cp | 26.14% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
