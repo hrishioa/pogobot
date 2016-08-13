@@ -19929,3 +19929,17 @@
 [07:12:10] (INFO) Found 2 catchable Pokemon
 [07:12:12] (Wild Success) | Bellsprout 145 V |  139 Cp | 66.32% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [07:12:13] (Wild Success) | Zubat 113 V |  166 Cp | 36.10% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[07:12:15] (INFO) Found 2 pokemon to transfer...
+[07:12:17] (TRANSFER) Zubat 113 V |  166 Cp | 36.10% | Lvl 11 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 586
+[07:12:19] (TRANSFER) Bellsprout 145 V |  139 Cp | 66.32% | Lvl 05 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 229
+[07:12:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:12:22] (INFO) Found 2 Recyclable Items:
+[07:12:23] (RECYCLING) RazzBerry x 3
+[07:12:24] (RECYCLING) PokeBall x 5
+[07:12:26] (POKESTOP) West Coast Plaza Triple Fountain in 64.92 m distance
+[07:12:26] (NAVIGATION) Distance to target location: 64.92 meters. Will take 7.79 seconds driving at 30kmh
+[07:12:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:12:33] (POKESTOP) Tower Playground in 192.1 m distance
+[07:12:33] (NAVIGATION) Distance to target location: 192.1 meters. Will take 19.76 seconds driving at 35kmh
+[07:12:35] (INFO) Found 1 catchable Pokemon
+[07:12:37] (Wild Success) | Pidgey 116 V |  305 Cp | 35.72% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
