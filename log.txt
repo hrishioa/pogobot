@@ -17485,3 +17485,34 @@
 [05:54:20] (NAVIGATION) Distance to target location: 119.79 meters. Will take 15.4 seconds driving at 28kmh
 [05:54:25] (INFO) Found 1 catchable Pokemon
 [05:54:27] (Wild Success) | Weedle 120 V |  190 Cp | 46.35% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[05:54:28] (INFO) Found 1 pokemon to transfer...
+[05:54:30] (TRANSFER) Weedle 97 V |  147 Cp | 27.33% | Lvl 15 | Best: [Weedle 120 V |  190 Cp | 46.35% | Lvl 18] | Candy: 353
+[05:54:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[05:54:35] (INFO) Found 4 Recyclable Items:
+[05:54:36] (RECYCLING) PokeBall x 4
+[05:54:36] (RECYCLING) Potion x 1
+[05:54:37] (RECYCLING) SuperPotion x 1
+[05:54:38] (RECYCLING) Revive x 3
+[05:54:41] (POKESTOP) Majestic Rover in 97.7 m distance
+[05:54:41] (NAVIGATION) Distance to target location: 97.7 meters. Will take 12.56 seconds driving at 28kmh
+[05:54:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall, 1 x ItemSuperPotion
+[05:54:53] (POKESTOP) Taman Mas Merah Playground in 166.78 m distance
+[05:54:53] (NAVIGATION) Distance to target location: 166.78 meters. Will take 19.37 seconds driving at 31kmh
+[05:55:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemGreatBall
+[05:55:12] (POKESTOP) Jalan Mas Kuning Playground in 142.91 m distance
+[05:55:12] (NAVIGATION) Distance to target location: 142.91 meters. Will take 16.08 seconds driving at 32kmh
+[05:55:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[05:55:28] (POKESTOP) West Coast Road Sculpture in 182.42 m distance
+[05:55:28] (NAVIGATION) Distance to target location: 182.42 meters. Will take 19.9 seconds driving at 33kmh
+[05:55:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemPokeBall
+[05:55:49] (POKESTOP) West Coast Green Zone in 46.51 m distance
+[05:55:49] (NAVIGATION) Distance to target location: 46.51 meters. Will take 5.23 seconds driving at 32kmh
+[05:55:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[05:55:54] (INFO) Found 5 Recyclable Items:
+[05:55:55] (RECYCLING) RazzBerry x 2
+[05:55:55] (RECYCLING) PokeBall x 6
+[05:55:56] (RECYCLING) Potion x 4
+[05:55:58] (RECYCLING) SuperPotion x 1
+[05:56:00] (RECYCLING) Revive x 1
+[05:56:02] (INFO) Found 1 catchable Pokemon
+[05:56:03] (Wild Success) | Rattata 144 V |  275 Cp | 56.14% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
