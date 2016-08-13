@@ -1757,3 +1757,4 @@
 [21:00:55] (INFO) Found 3 catchable Pokemon
 [21:00:57] (Wild Success) | Magikarp 84 V |   77 Cp | 50.56% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
 [21:00:59] (Wild Success) | Goldeen 128 V |   39 Cp | 65.05% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[21:01:00] (Wild Success) | Poliwag 122 V |  134 Cp | 46.89% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
