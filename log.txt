@@ -7802,3 +7802,4 @@
 [00:27:26] (Wild Flee) | Weedle 97 V |  146 Cp | 26.61% | Lvl 15 | Chance: 0.38 | with a GreatBall 
 [00:27:32] (INFO) Found 2 catchable Pokemon
 [00:27:33] (Wild Success) | Goldeen 167 V |  474 Cp | 58.47% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[00:27:36] (Wild Success) | Dodrio 111 V |   73 Cp | 39.48% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
