@@ -11683,3 +11683,4 @@
 [02:33:51] (TRANSFER) Bellsprout 130 V |  609 Cp | 39.85% | Lvl 22 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 30
 [02:33:52] (INFO) Found 2 catchable Pokemon
 [02:33:54] (Wild Success) | Weedle 92 V |   74 Cp | 53.06% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
+[02:33:56] (Wild Success) | Bellsprout 95 V |   68 Cp | 20.66% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
