@@ -2329,3 +2329,18 @@
 [21:22:58] (Wild Success) | Zubat 142 V |  113 Cp | 66.39% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [21:22:59] (BERRY) ItemRazzBerry used, remaining: 49
 [21:23:00] (Wild Success) | Clefairy 159 V |  362 Cp | 41.21% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 210
+[21:23:02] (INFO) Found 2 pokemon to transfer...
+[21:23:03] (TRANSFER) Clefairy 123 V |   76 Cp | 28.37% | Lvl 03 | Best: [Clefairy 159 V |  362 Cp | 41.21% | Lvl 12] | Candy: 14
+[21:23:06] (TRANSFER) Zubat 142 V |  113 Cp | 66.39% | Lvl 07 | Best: [Zubat 171 V |  197 Cp | 91.11% | Lvl 11] | Candy: 172
+[21:23:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[21:23:11] (INFO) Found 2 Recyclable Items:
+[21:23:13] (RECYCLING) Revive x 2
+[21:23:13] (RECYCLING) PokeBall x 4
+[21:23:15] (POKESTOP) Giant Compass in 116.71 m distance
+[21:23:15] (NAVIGATION) Distance to target location: 116.71 meters. Will take 13.55 seconds driving at 31kmh
+[21:23:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[21:23:28] (POKESTOP) Kent Ridge Heritage Trail in 174.16 m distance
+[21:23:28] (NAVIGATION) Distance to target location: 174.16 meters. Will take 19.59 seconds driving at 32kmh
+[21:23:41] (INFO) Found 1 catchable Pokemon
+[21:23:42] (BERRY) ItemRazzBerry used, remaining: 48
+[21:23:43] (Wild Success) | Magmar 240 V |  768 Cp | 93.26% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 710
