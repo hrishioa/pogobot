@@ -5994,3 +5994,22 @@
 [23:27:19] (TRANSFER) Eevee 136 V |  136 Cp | 72.42% | Lvl 05 | Best: [Eevee 178 V |  382 Cp | 79.86% | Lvl 13] | Candy: 30
 [23:27:21] (INFO) Found 1 catchable Pokemon
 [23:27:23] (Wild Success) | Caterpie 85 V |   66 Cp | 27.74% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:27:25] (INFO) Found 1 pokemon to transfer...
+[23:27:26] (TRANSFER) Caterpie 85 V |   66 Cp | 27.74% | Lvl 07 | Best: [Caterpie 101 V |  128 Cp | 33.36% | Lvl 13] | Candy: 54
+[23:27:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:27:28] (INFO) Found 4 Recyclable Items:
+[23:27:28] (RECYCLING) RazzBerry x 1
+[23:27:30] (RECYCLING) PokeBall x 6
+[23:27:31] (RECYCLING) Potion x 3
+[23:27:31] (RECYCLING) Revive x 2
+[23:27:34] (INFO) Found 89 Pokestops
+[23:27:35] (POKESTOP) Refugees (Flight II) in 39.36 m distance
+[23:27:35] (NAVIGATION) Distance to target location: 39.36 meters. Will take 4.57 seconds driving at 31kmh
+[23:27:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:27:39] (POKESTOP) The Odyssey in 40.78 m distance
+[23:27:39] (NAVIGATION) Distance to target location: 40.78 meters. Will take 4.89 seconds driving at 30kmh
+[23:27:44] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall, 2 x ItemPotion
+[23:27:45] (POKESTOP) Saying By The Founder in 75.58 m distance
+[23:27:45] (NAVIGATION) Distance to target location: 75.58 meters. Will take 9.07 seconds driving at 30kmh
+[23:27:48] (INFO) Found 1 catchable Pokemon
+[23:27:49] (Wild Success) | Pidgey 94 V |  172 Cp | 27.12% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
