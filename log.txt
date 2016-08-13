@@ -2531,3 +2531,10 @@
 [21:28:04] (NAVIGATION) Distance to target location: 543.48 meters. Will take 27.95 seconds driving at 70kmh
 [21:28:06] (INFO) Found 1 catchable Pokemon
 [21:28:07] (Wild Success) | Zubat 111 V |  106 Cp | 45.14% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:28:09] (INFO) Found 1 pokemon to transfer...
+[21:28:11] (TRANSFER) Zubat 111 V |  106 Cp | 45.14% | Lvl 07 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 196
+[21:28:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:28:34] (POKESTOP) Artillery Display at Kent Ridge Park in 776.76 m distance
+[21:28:34] (NAVIGATION) Distance to target location: 776.76 meters. Will take 39.95 seconds driving at 70kmh
+[21:29:05] (INFO) Found 1 catchable Pokemon
+[21:29:07] (Wild Success) | Zubat 102 V |  132 Cp | 28.66% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
