@@ -493,3 +493,7 @@
 [20:15:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
 [20:15:41] (INFO) Found 1 catchable Pokemon
 [20:15:43] (Wild Success) | Zubat 95 V |   88 Cp | 40.78% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[20:15:45] (POKESTOP) Cougar Guardians in 91.91 m distance
+[20:15:45] (NAVIGATION) Distance to target location: 91.91 meters. Will take 11.41 seconds driving at 29kmh
+[20:15:47] (INFO) Found 1 catchable Pokemon
+[20:15:48] (Wild Success) | Zubat 150 V |  146 Cp | 59.90% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
