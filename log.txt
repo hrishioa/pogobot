@@ -9659,3 +9659,30 @@
 [01:30:40] (TRANSFER) Pidgeotto 119 V |  239 Cp | 35.37% | Lvl 08 | Best: [Pidgeotto 142 V |  595 Cp | 26.99% | Lvl 20] | Candy: 400
 [01:30:41] (INFO) Found 1 catchable Pokemon
 [01:30:43] (Wild Success) | Zubat 111 V |   10 Cp | 50.47% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[01:30:44] (INFO) Found 1 pokemon to transfer...
+[01:30:46] (TRANSFER) Zubat 111 V |   10 Cp | 50.47% | Lvl 01 | Best: [Zubat 175 V |  347 Cp | 80.46% | Lvl 20] | Candy: 541
+[01:30:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[01:30:50] (POKESTOP) First the Dream Then the Nightmare in 32.58 m distance
+[01:30:50] (NAVIGATION) Distance to target location: 32.58 meters. Will take 3.67 seconds driving at 32kmh
+[01:30:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:30:53] (POKESTOP) Compounds of Five Cubes in 89.31 m distance
+[01:30:53] (NAVIGATION) Distance to target location: 89.31 meters. Will take 10.37 seconds driving at 31kmh
+[01:31:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:31:03] (INFO) Found 1 Recyclable Item:
+[01:31:03] (RECYCLING) PokeBall x 2
+[01:31:06] (POKESTOP) The Deck at Arts Faculty in 130.53 m distance
+[01:31:06] (NAVIGATION) Distance to target location: 130.53 meters. Will take 16.2 seconds driving at 29kmh
+[01:31:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:31:21] (POKESTOP) NUS Model in 115.26 m distance
+[01:31:21] (NAVIGATION) Distance to target location: 115.26 meters. Will take 13.39 seconds driving at 31kmh
+[01:31:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[01:31:34] (POKESTOP) NUS Graduate Pot in 88.48 m distance
+[01:31:34] (NAVIGATION) Distance to target location: 88.48 meters. Will take 11.38 seconds driving at 28kmh
+[01:31:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:31:46] (POKESTOP) Blueprints Embedded On Stone in 86.08 m distance
+[01:31:46] (NAVIGATION) Distance to target location: 86.08 meters. Will take 10 seconds driving at 31kmh
+[01:31:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:31:55] (POKESTOP) Salvation Army Sign in 469.72 m distance
+[01:31:55] (NAVIGATION) Distance to target location: 469.72 meters. Will take 24.16 seconds driving at 70kmh
+[01:32:18] (INFO) Found 1 catchable Pokemon
+[01:32:20] (Wild Success) | Zubat 122 V |  188 Cp | 47.67% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
