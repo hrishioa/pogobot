@@ -7560,3 +7560,16 @@
 [00:20:14] (NAVIGATION) Distance to target location: 128.97 meters. Will take 16.01 seconds driving at 29kmh
 [00:20:28] (INFO) Found 1 catchable Pokemon
 [00:20:29] (Wild Success) | Dodrio 141 V |   75 Cp | 58.31% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
+[00:20:31] (INFO) Found 1 pokemon to transfer...
+[00:20:32] (TRANSFER) Dodrio 141 V |   75 Cp | 58.31% | Lvl 02 | Best: [Dodrio 215 V |  742 Cp | 66.22% | Lvl 15] | Candy: 29
+[00:20:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[00:20:35] (POKESTOP) ACJC-FCPA at Dover in 196.01 m distance
+[00:20:35] (NAVIGATION) Distance to target location: 196.01 meters. Will take 19.6 seconds driving at 36kmh
+[00:20:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[00:20:55] (INFO) Found 4 Recyclable Items:
+[00:20:55] (RECYCLING) RazzBerry x 2
+[00:20:56] (RECYCLING) PokeBall x 11
+[00:20:57] (RECYCLING) Potion x 1
+[00:20:58] (RECYCLING) Revive x 1
+[00:21:00] (INFO) Found 3 catchable Pokemon
+[00:21:02] (Wild Success) | Caterpie 71 V |   53 Cp | 16.22% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
