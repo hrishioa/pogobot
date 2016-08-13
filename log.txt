@@ -2924,3 +2924,13 @@
 [21:37:03] (NAVIGATION) Distance to target location: 256.89 meters. Will take 19.68 seconds driving at 47kmh
 [21:37:21] (INFO) Found 1 catchable Pokemon
 [21:37:22] (Wild Success) | Magikarp 103 V |   24 Cp | 75.90% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
+[21:37:24] (INFO) Found 1 pokemon to transfer...
+[21:37:26] (TRANSFER) Magikarp 103 V |   24 Cp | 75.90% | Lvl 04 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 51
+[21:37:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemRazzBerry
+[21:37:28] (POKESTOP) Dry Waterfall in 61.67 m distance
+[21:37:28] (NAVIGATION) Distance to target location: 61.67 meters. Will take 7.93 seconds driving at 28kmh
+[21:37:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[21:37:36] (POKESTOP) PhD Geyser in 129.81 m distance
+[21:37:36] (NAVIGATION) Distance to target location: 129.81 meters. Will take 15.58 seconds driving at 30kmh
+[21:37:48] (INFO) Found 2 catchable Pokemon
+[21:37:49] (Wild Success) | Pidgey 110 V |   61 Cp | 49.00% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
