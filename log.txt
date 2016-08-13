@@ -12650,3 +12650,11 @@
 [03:04:12] (NAVIGATION) Distance to target location: 63.6 meters. Will take 7.89 seconds driving at 29kmh
 [03:04:13] (INFO) Found 1 catchable Pokemon
 [03:04:15] (Wild Success) | Weedle 92 V |   28 Cp | 56.78% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[03:04:16] (INFO) Found 1 pokemon to transfer...
+[03:04:18] (TRANSFER) Weedle 92 V |   28 Cp | 56.78% | Lvl 03 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 200
+[03:04:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[03:04:23] (POKESTOP) West Coast Park Amphitheatre in 120.34 m distance
+[03:04:23] (NAVIGATION) Distance to target location: 120.34 meters. Will take 13.97 seconds driving at 31kmh
+[03:04:33] (INFO) Found 1 catchable Pokemon
+[03:04:34] (BERRY) ItemRazzBerry used, remaining: 49
+[03:04:35] (Wild Success) | Paras 150 V |  393 Cp | 50.91% | Lvl 17 | Chance: 0.29 | with a UltraBall and received XP 210
