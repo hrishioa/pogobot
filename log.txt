@@ -7216,3 +7216,10 @@
 [00:06:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
 [00:06:39] (INFO) Found 1 catchable Pokemon
 [00:06:41] (Wild Success) | Weedle 108 V |  163 Cp | 37.40% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:06:43] (INFO) Found 1 pokemon to transfer...
+[00:06:44] (TRANSFER) Weedle 108 V |  163 Cp | 37.40% | Lvl 16 | Best: [Weedle 120 V |  130 Cp | 52.13% | Lvl 12] | Candy: 85
+[00:06:46] (POKESTOP) Fountain at Metropolis  in 77.25 m distance
+[00:06:46] (NAVIGATION) Distance to target location: 77.25 meters. Will take 9.59 seconds driving at 29kmh
+[00:06:53] (INFO) Found 1 catchable Pokemon
+[00:06:54] (BERRY) ItemRazzBerry used, remaining: 50
+[00:06:55] (Wild Success) | Pinsir 228 V |  880 Cp | 79.76% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 210
