@@ -10976,3 +10976,55 @@
 [02:10:38] (NAVIGATION) Distance to target location: 74.84 meters. Will take 9.62 seconds driving at 28kmh
 [02:10:45] (INFO) Found 1 catchable Pokemon
 [02:10:47] (Wild Success) | Zubat 97 V |  115 Cp | 25.12% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
+[02:10:48] (INFO) Found 1 pokemon to transfer...
+[02:10:50] (TRANSFER) Zubat 97 V |  115 Cp | 25.12% | Lvl 08 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 593
+[02:10:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[02:10:53] (POKESTOP) Waterfall Fountain in 262.54 m distance
+[02:10:53] (NAVIGATION) Distance to target location: 262.54 meters. Will take 19.69 seconds driving at 48kmh
+[02:11:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:11:14] (POKESTOP) Keio Cute Center in 85.19 m distance
+[02:11:14] (NAVIGATION) Distance to target location: 85.19 meters. Will take 10.95 seconds driving at 28kmh
+[02:11:23] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:11:25] (POKESTOP) NUS Business School in 54.22 m distance
+[02:11:25] (NAVIGATION) Distance to target location: 54.22 meters. Will take 6.51 seconds driving at 30kmh
+[02:11:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:11:30] (POKESTOP) IMRE in 118.78 m distance
+[02:11:30] (NAVIGATION) Distance to target location: 118.78 meters. Will take 13.36 seconds driving at 32kmh
+[02:11:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:11:43] (INFO) Found 4 Recyclable Items:
+[02:11:44] (RECYCLING) RazzBerry x 1
+[02:11:44] (RECYCLING) PokeBall x 3
+[02:11:45] (RECYCLING) Potion x 1
+[02:11:47] (RECYCLING) Revive x 3
+[02:11:50] (POKESTOP) Temasek Lifesciences Laboratory in 169.25 m distance
+[02:11:50] (NAVIGATION) Distance to target location: 169.25 meters. Will take 19.04 seconds driving at 32kmh
+[02:12:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[02:12:10] (POKESTOP) Water Tank in 158.36 m distance
+[02:12:10] (NAVIGATION) Distance to target location: 158.36 meters. Will take 17.82 seconds driving at 32kmh
+[02:12:26] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:12:28] (POKESTOP) S1A Garden in 153.15 m distance
+[02:12:28] (NAVIGATION) Distance to target location: 153.15 meters. Will take 17.78 seconds driving at 31kmh
+[02:12:45] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 2 x ItemGreatBall
+[02:12:46] (POKESTOP) CRISP & TMSI in 439.75 m distance
+[02:12:46] (NAVIGATION) Distance to target location: 439.75 meters. Will take 22.62 seconds driving at 70kmh
+[02:13:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:13:10] (POKESTOP) Locked in Tricked Out in 166.29 m distance
+[02:13:10] (NAVIGATION) Distance to target location: 166.29 meters. Will take 19.31 seconds driving at 31kmh
+[02:13:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:13:29] (INFO) Found 3 Recyclable Items:
+[02:13:30] (RECYCLING) RazzBerry x 1
+[02:13:31] (RECYCLING) PokeBall x 8
+[02:13:32] (RECYCLING) Potion x 1
+[02:13:34] (POKESTOP) NUS Engineering in 69.05 m distance
+[02:13:34] (NAVIGATION) Distance to target location: 69.05 meters. Will take 8.57 seconds driving at 29kmh
+[02:13:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[02:13:43] (POKESTOP) Through this Jungle in 95.88 m distance
+[02:13:43] (NAVIGATION) Distance to target location: 95.88 meters. Will take 11.13 seconds driving at 31kmh
+[02:13:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:13:54] (POKESTOP) Fire Painting  in 95.71 m distance
+[02:13:54] (NAVIGATION) Distance to target location: 95.71 meters. Will take 11.12 seconds driving at 31kmh
+[02:14:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:14:06] (POKESTOP) NUSSU Sign in 122.46 m distance
+[02:14:06] (NAVIGATION) Distance to target location: 122.46 meters. Will take 14.7 seconds driving at 30kmh
+[02:14:08] (INFO) Found 1 catchable Pokemon
+[02:14:10] (Wild Success) | Pidgey 73 V |   10 Cp | 16.62% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
