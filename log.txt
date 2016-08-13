@@ -8140,3 +8140,13 @@
 [00:37:15] (TRANSFER) Pidgey 93 V |  156 Cp | 26.74% | Lvl 10 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 301
 [00:37:16] (INFO) Found 1 catchable Pokemon
 [00:37:18] (Wild Success) | Zubat 118 V |  110 Cp | 57.25% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[00:37:20] (INFO) Found 1 pokemon to transfer...
+[00:37:21] (TRANSFER) Zubat 118 V |  110 Cp | 57.25% | Lvl 07 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 421
+[00:37:23] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall, 1 x ItemGreatBall
+[00:37:24] (POKESTOP) Hippocratic Oath in 100.07 m distance
+[00:37:24] (NAVIGATION) Distance to target location: 100.07 meters. Will take 11.62 seconds driving at 31kmh
+[00:37:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[00:37:36] (POKESTOP) Medical Abstracts in 83.07 m distance
+[00:37:36] (NAVIGATION) Distance to target location: 83.07 meters. Will take 10.31 seconds driving at 29kmh
+[00:37:38] (INFO) Found 1 catchable Pokemon
+[00:37:39] (Wild Success) | Staryu 139 V |  141 Cp | 64.71% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
