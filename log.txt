@@ -5752,3 +5752,16 @@
 [23:20:37] (INFO) Found 2 catchable Pokemon
 [23:20:38] (Wild Success) | Goldeen 114 V |   38 Cp | 61.01% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [23:20:40] (Wild Success) | Pidgey 114 V |  131 Cp | 45.68% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:20:42] (INFO) Found 2 pokemon to transfer...
+[23:20:44] (TRANSFER) Pidgey 111 V |   97 Cp | 50.69% | Lvl 06 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 187
+[23:20:46] (TRANSFER) Goldeen 114 V |   38 Cp | 61.01% | Lvl 02 | Best: [Goldeen 172 V |  238 Cp | 85.71% | Lvl 09] | Candy: 86
+[23:20:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:20:48] (INFO) Found 3 Recyclable Items:
+[23:20:49] (RECYCLING) RazzBerry x 3
+[23:20:49] (RECYCLING) PokeBall x 5
+[23:20:51] (RECYCLING) Potion x 3
+[23:20:53] (POKESTOP) Cornflakes Man in 59.43 m distance
+[23:20:53] (NAVIGATION) Distance to target location: 59.43 meters. Will take 7.64 seconds driving at 28kmh
+[23:20:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[23:21:00] (INFO) Found 1 catchable Pokemon
+[23:21:01] (Wild Success) | Diglett 118 V |  104 Cp | 49.04% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 710
