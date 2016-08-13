@@ -8547,3 +8547,12 @@
 [00:51:45] (RECYCLING) Potion x 2
 [00:51:46] (INFO) Found 1 catchable Pokemon
 [00:51:48] (Wild Success) | Zubat 116 V |  307 Cp | 40.31% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[00:51:50] (INFO) Found 1 pokemon to transfer...
+[00:51:51] (TRANSFER) Zubat 116 V |  307 Cp | 40.31% | Lvl 20 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 477
+[00:51:52] (POKESTOP) Pipe Wall in 46.6 m distance
+[00:51:52] (NAVIGATION) Distance to target location: 46.6 meters. Will take 5.59 seconds driving at 30kmh
+[00:51:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[00:51:58] (POKESTOP) National University Hospital Main Building in 754.03 m distance
+[00:51:58] (NAVIGATION) Distance to target location: 754.03 meters. Will take 38.78 seconds driving at 70kmh
+[00:52:34] (INFO) Found 1 catchable Pokemon
+[00:52:37] (Wild Success) | Zubat 130 V |  256 Cp | 54.20% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
