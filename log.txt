@@ -8535,3 +8535,15 @@
 [00:51:06] (NAVIGATION) Distance to target location: 127.02 meters. Will take 14.75 seconds driving at 31kmh
 [00:51:14] (INFO) Found 1 catchable Pokemon
 [00:51:16] (Wild Success) | Zubat 123 V |   72 Cp | 40.86% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:51:18] (INFO) Found 1 pokemon to transfer...
+[00:51:19] (TRANSFER) Zubat 123 V |   72 Cp | 40.86% | Lvl 05 | Best: [Zubat 173 V |  238 Cp | 73.93% | Lvl 14] | Candy: 473
+[00:51:22] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 3 x ItemPokeBall, 1 x ItemUltraBall, 1 x ItemPotion
+[00:51:24] (POKESTOP) Container Cafe in 165.19 m distance
+[00:51:24] (NAVIGATION) Distance to target location: 165.19 meters. Will take 18.58 seconds driving at 32kmh
+[00:51:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:51:42] (INFO) Found 3 Recyclable Items:
+[00:51:43] (RECYCLING) RazzBerry x 2
+[00:51:44] (RECYCLING) PokeBall x 8
+[00:51:45] (RECYCLING) Potion x 2
+[00:51:46] (INFO) Found 1 catchable Pokemon
+[00:51:48] (Wild Success) | Zubat 116 V |  307 Cp | 40.31% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
