@@ -3312,3 +3312,4 @@
 [21:50:29] (NAVIGATION) Distance to target location: 345.42 meters. Will take 19.74 seconds driving at 63kmh
 [21:50:44] (INFO) Found 2 catchable Pokemon
 [21:50:45] (Wild Success) | NidoranMale 113 V |  282 Cp | 32.82% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 710
+[21:50:47] (Wild Success) | Weedle 80 V |  132 Cp | 35.47% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
