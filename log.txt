@@ -6586,3 +6586,6 @@
 [23:47:32] (NAVIGATION) Distance to target location: 108.87 meters. Will take 12.64 seconds driving at 31kmh
 [23:47:41] (INFO) Found 3 catchable Pokemon
 [23:47:43] (Wild Success) | Pidgey 99 V |  192 Cp | 34.57% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:47:44] (Wild Escape) | Weedle 83 V |   55 Cp | 21.85% | Lvl 06 | Chance: 0.62 | with a PokeBall 
+[23:47:45] (Wild Success Attempt #2) | Weedle 83 V |   55 Cp | 21.85% | Lvl 06 | Chance: 0.62 | with a PokeBall 
+[23:47:46] (Wild Success) | Rattata 126 V |  193 Cp | 42.13% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
