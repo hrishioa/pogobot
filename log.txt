@@ -1773,3 +1773,21 @@
 [21:01:30] (NAVIGATION) Distance to target location: 95.04 meters. Will take 11.4 seconds driving at 30kmh
 [21:01:40] (INFO) Found 1 catchable Pokemon
 [21:01:42] (Wild Success) | Exeggcute 140 V |  194 Cp | 56.21% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:01:44] (INFO) Found 1 pokemon to transfer...
+[21:01:45] (TRANSFER) Exeggcute 115 V |  102 Cp | 49.63% | Lvl 04 | Best: [Exeggcute 149 V |  344 Cp | 59.62% | Lvl 12] | Candy: 10
+[21:01:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion
+[21:01:47] (POKESTOP) skateboarding slide in 83.67 m distance
+[21:01:47] (NAVIGATION) Distance to target location: 83.67 meters. Will take 10.76 seconds driving at 28kmh
+[21:01:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[21:01:58] (INFO) Found 2 Recyclable Items:
+[21:01:58] (RECYCLING) PokeBall x 8
+[21:01:59] (RECYCLING) Potion x 1
+[21:02:02] (POKESTOP) True Way Presbyterian Church in 234.84 m distance
+[21:02:02] (NAVIGATION) Distance to target location: 234.84 meters. Will take 19.66 seconds driving at 43kmh
+[21:02:14] (INFO) Found 1 catchable Pokemon
+[21:02:15] (Wild Escape) | Rattata 131 V |  114 Cp | 57.51% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[21:02:17] (Wild Success Attempt #2) | Rattata 131 V |  114 Cp | 57.51% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[21:02:18] (INFO) Found 1 pokemon to transfer...
+[21:02:20] (TRANSFER) Rattata 124 V |  127 Cp | 50.57% | Lvl 09 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 30
+[21:02:21] (INFO) Found 2 catchable Pokemon
+[21:02:23] (Wild Success) | Rattata 114 V |   21 Cp | 47.25% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
