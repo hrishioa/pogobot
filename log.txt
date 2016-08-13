@@ -17550,3 +17550,7 @@
 [05:57:30] (INFO) Found 1 catchable Pokemon
 [05:57:30] (BERRY) ItemRazzBerry used, remaining: 49
 [05:57:31] (Wild Success) | Slowpoke 169 V |  586 Cp | 45.09% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[05:57:33] (POKESTOP) Veranda Sculpture in 280.17 m distance
+[05:57:33] (NAVIGATION) Distance to target location: 280.17 meters. Will take 19.78 seconds driving at 51kmh
+[05:57:36] (INFO) Found 2 catchable Pokemon
+[05:57:38] (Wild Success) | Magikarp 93 V |   36 Cp | 64.49% | Lvl 06 | Chance: 0.87 | with a PokeBall and received XP 210
