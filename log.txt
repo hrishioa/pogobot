@@ -17665,3 +17665,39 @@
 [05:59:18] (BERRY) ItemRazzBerry used, remaining: 49
 [05:59:19] (Wild Success) | Bellsprout 156 V |  529 Cp | 22.70% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
 [05:59:20] (Wild Success) | Bellsprout 160 V |  169 Cp | 63.22% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[05:59:22] (INFO) Found 2 pokemon to transfer...
+[05:59:24] (TRANSFER) Bellsprout 160 V |  169 Cp | 63.22% | Lvl 06 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 152
+[05:59:26] (TRANSFER) Bellsprout 156 V |  529 Cp | 22.70% | Lvl 20 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 153
+[05:59:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[05:59:29] (INFO) Found 3 Recyclable Items:
+[05:59:29] (RECYCLING) PokeBall x 9
+[05:59:30] (RECYCLING) SuperPotion x 1
+[05:59:31] (RECYCLING) Revive x 1
+[05:59:34] (POKESTOP) Marsh Garden in 84.98 m distance
+[05:59:34] (NAVIGATION) Distance to target location: 84.98 meters. Will take 9.56 seconds driving at 32kmh
+[05:59:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[05:59:43] (POKESTOP) Jungle Walkpath in 135.71 m distance
+[05:59:43] (NAVIGATION) Distance to target location: 135.71 meters. Will take 15.76 seconds driving at 31kmh
+[05:59:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[05:59:58] (ATTENTION) No locations in your area...
+[06:00:03] (INFO) Found 30 Pokestops
+[06:00:04] (POKESTOP) Chilling Area in 34.75 m distance
+[06:00:04] (NAVIGATION) Distance to target location: 34.75 meters. Will take 4.04 seconds driving at 31kmh
+[06:00:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 4 x ItemPokeBall, 1 x ItemSuperPotion
+[06:00:07] (POKESTOP) West Coast Park Sign in 294.27 m distance
+[06:00:07] (NAVIGATION) Distance to target location: 294.27 meters. Will take 19.99 seconds driving at 53kmh
+[06:00:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[06:00:29] (POKESTOP) Retro Chess Table  in 75.2 m distance
+[06:00:29] (NAVIGATION) Distance to target location: 75.2 meters. Will take 9.67 seconds driving at 28kmh
+[06:00:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[06:00:38] (INFO) Found 5 Recyclable Items:
+[06:00:38] (RECYCLING) RazzBerry x 1
+[06:00:40] (RECYCLING) PokeBall x 8
+[06:00:41] (RECYCLING) Potion x 2
+[06:00:42] (RECYCLING) SuperPotion x 1
+[06:00:42] (RECYCLING) Revive x 3
+[06:00:45] (POKESTOP) Pyramid Web with Slider in 67.02 m distance
+[06:00:45] (NAVIGATION) Distance to target location: 67.02 meters. Will take 7.78 seconds driving at 31kmh
+[06:00:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:00:51] (INFO) Found 1 catchable Pokemon
+[06:00:53] (Wild Success) | Weedle 104 V |  225 Cp | 27.22% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 310
