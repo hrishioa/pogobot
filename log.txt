@@ -12636,3 +12636,17 @@
 [03:03:49] (NAVIGATION) Distance to target location: 106.31 meters. Will take 12.76 seconds driving at 30kmh
 [03:03:51] (INFO) Found 1 catchable Pokemon
 [03:03:53] (Wild Success) | Rattata 121 V |  126 Cp | 48.09% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[03:03:54] (INFO) Found 1 pokemon to transfer...
+[03:03:56] (TRANSFER) Rattata 121 V |  126 Cp | 48.09% | Lvl 09 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 244
+[03:04:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[03:04:01] (INFO) Found 3 Recyclable Items:
+[03:04:01] (RECYCLING) PokeBall x 8
+[03:04:01] (RECYCLING) Potion x 2
+[03:04:03] (RECYCLING) Revive x 3
+[03:04:06] (POKESTOP) Blue Dragon Boat  in 49.97 m distance
+[03:04:06] (NAVIGATION) Distance to target location: 49.97 meters. Will take 5.8 seconds driving at 31kmh
+[03:04:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemGreatBall
+[03:04:12] (POKESTOP) Campsite Area in 63.6 m distance
+[03:04:12] (NAVIGATION) Distance to target location: 63.6 meters. Will take 7.89 seconds driving at 29kmh
+[03:04:13] (INFO) Found 1 catchable Pokemon
+[03:04:15] (Wild Success) | Weedle 92 V |   28 Cp | 56.78% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
