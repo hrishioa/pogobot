@@ -2768,3 +2768,4 @@
 [21:34:54] (INFO) Found 3 catchable Pokemon
 [21:34:56] (Wild Success) | Zubat 131 V |  243 Cp | 57.47% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [21:34:57] (Wild Success) | Pidgey 93 V |  111 Cp | 41.50% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:34:59] (Wild Success) | Staryu 147 V |   39 Cp | 83.22% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
