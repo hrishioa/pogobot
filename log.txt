@@ -5951,3 +5951,4 @@
 [23:25:21] (TRANSFER) Krabby 109 V |  316 Cp | 30.44% | Lvl 17 | Best: [Krabby 163 V |  345 Cp | 82.06% | Lvl 16] | Candy: 66
 [23:25:23] (INFO) Found 2 catchable Pokemon
 [23:25:24] (Wild Success) | Rattata 140 V |  116 Cp | 60.57% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:25:26] (Wild Success) | Pidgey 89 V |  107 Cp | 27.57% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
