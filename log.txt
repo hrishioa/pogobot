@@ -16574,3 +16574,13 @@
 [05:23:01] (NAVIGATION) Distance to target location: 119.79 meters. Will take 13.48 seconds driving at 32kmh
 [05:23:08] (INFO) Found 1 catchable Pokemon
 [05:23:10] (Wild Success) | Weedle 97 V |  201 Cp | 22.24% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[05:23:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[05:23:15] (INFO) Found 1 Recyclable Item:
+[05:23:15] (RECYCLING) Revive x 1
+[05:23:17] (POKESTOP) Majestic Rover in 92.66 m distance
+[05:23:17] (NAVIGATION) Distance to target location: 92.66 meters. Will take 11.91 seconds driving at 28kmh
+[05:23:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:23:29] (POKESTOP) Taman Mas Merah Playground in 162.7 m distance
+[05:23:29] (NAVIGATION) Distance to target location: 162.7 meters. Will take 18.3 seconds driving at 32kmh
+[05:23:37] (INFO) Found 1 catchable Pokemon
+[05:23:39] (Wild Success) | Golbat 157 V |  249 Cp | 77.22% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 210
