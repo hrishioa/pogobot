@@ -4403,3 +4403,10 @@
 [22:30:50] (NAVIGATION) Distance to target location: 195.13 meters. Will take 19.51 seconds driving at 36kmh
 [22:30:58] (INFO) Found 1 catchable Pokemon
 [22:31:00] (Wild Success) | Poliwag 145 V |  140 Cp | 62.00% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[22:31:01] (INFO) Found 1 pokemon to transfer...
+[22:31:02] (TRANSFER) Poliwag 122 V |  134 Cp | 46.89% | Lvl 07 | Best: [Poliwag 147 V |  169 Cp | 78.21% | Lvl 08] | Candy: 30
+[22:31:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[22:31:10] (POKESTOP) A Visual Narrative Of Pandemonic Rhythmic Movement in 57.97 m distance
+[22:31:10] (NAVIGATION) Distance to target location: 57.97 meters. Will take 6.96 seconds driving at 30kmh
+[22:31:12] (INFO) Found 1 catchable Pokemon
+[22:31:14] (Wild Success) | Pidgey 101 V |  175 Cp | 32.73% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
