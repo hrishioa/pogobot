@@ -3055,3 +3055,5 @@
 [21:43:17] (NAVIGATION) Distance to target location: 339.78 meters. Will take 19.73 seconds driving at 62kmh
 [21:43:20] (INFO) Found 1 catchable Pokemon
 [21:43:23] (Wild Success) | Bulbasaur 125 V |  184 Cp | 44.86% | Lvl 07 | Chance: 0.22 | with a GreatBall and received XP 210
+[21:43:34] (INFO) Found 2 catchable Pokemon
+[21:43:35] (Wild Success) | Psyduck 122 V |  185 Cp | 33.77% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
