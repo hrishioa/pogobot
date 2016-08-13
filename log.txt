@@ -9806,3 +9806,121 @@
 [01:37:21] (Wild Success) | Ekans 67 V |   74 Cp | 46.31% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [01:37:23] (Wild Success) | Staryu 181 V |  415 Cp | 86.75% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
 [01:37:24] (Wild Success) | Pidgey 100 V |  180 Cp | 42.50% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:37:26] (INFO) Found 3 pokemon to transfer...
+[01:37:28] (TRANSFER) Ekans 67 V |   74 Cp | 46.31% | Lvl 04 | Best: [Ekans 160 V |  250 Cp | 54.56% | Lvl 12] | Candy: 78
+[01:37:30] (TRANSFER) Pidgey 100 V |  180 Cp | 42.50% | Lvl 11 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 424
+[01:37:32] (TRANSFER) Staryu 158 V |  255 Cp | 80.25% | Lvl 10 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 106
+[01:37:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 3 x ItemGreatBall
+[01:37:36] (ATTENTION) No locations in your area...
+[01:37:41] (INFO) Found 107 Pokestops
+[01:37:41] ====== User Info ======
+[01:37:41] Name: toonistic2
+[01:37:41] Team: Neutral
+[01:37:41] Level: 21 (LvLUp in 0h 53m | 31655/75000 XP)
+[01:37:41] Pokemon: 101
+[01:37:41] Stardust: 83399
+[01:37:41] ====== Items (352) ======
+[01:37:41] RazzBerry x 48
+[01:37:41] PokeBall x 54
+[01:37:41] GreatBall x 42
+[01:37:41] UltraBall x 13
+[01:37:41] Potion x 31
+[01:37:41] SuperPotion x 50
+[01:37:41] HyperPotion x 74
+[01:37:41] IncubatorBasicUnlimited x 1
+[01:37:41] IncubatorBasic x 3
+[01:37:41] Revive x 25
+[01:37:41] IncenseOrdinary x 6
+[01:37:41] LuckyEgg x 2
+[01:37:41] TroyDisk x 3
+[01:37:41] ====== Most Valuable ======
+[01:37:41] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[01:37:41] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[01:37:41] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[01:37:41] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[01:37:41] Pinsir              222 True Value |  874 Cp | 75.46% Perfect | Lvl 15 | FuryCutter/Submission
+[01:37:41] Golbat              219 True Value |  977 Cp | 61.50% Perfect | Lvl 19 | WingAttack/AirCutter
+[01:37:42] Golbat              216 True Value |  697 Cp | 85.92% Perfect | Lvl 13 | Bite/OminousWind
+[01:37:42] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[01:37:42] Dodrio              213 True Value |  929 Cp | 60.00% Perfect | Lvl 19 | FeintAttack/AirCutter
+[01:37:42] Pidgeot             213 True Value |  894 Cp | 58.97% Perfect | Lvl 16 | SteelWing/AirCutter
+[01:37:42] Raticate            210 True Value |  348 Cp | 69.86% Perfect | Lvl 09 | Bite/HyperBeam
+[01:37:42] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[01:37:42] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
+[01:37:42] Parasect            193 True Value |  416 Cp | 61.02% Perfect | Lvl 09 | BugBite/SolarBeam
+[01:37:42] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[01:37:42] Parasect            186 True Value |  228 Cp | 82.90% Perfect | Lvl 05 | FuryCutter/SolarBeam
+[01:37:43] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
+[01:37:43] Bellsprout          182 True Value |  485 Cp | 51.98% Perfect | Lvl 17 | VineWhip/PowerWhip
+[01:37:44] Staryu              181 True Value |  415 Cp | 86.75% Perfect | Lvl 16 | QuickAttack/BubbleBeam
+[01:37:44] Eevee               181 True Value |  590 Cp | 59.89% Perfect | Lvl 21 | QuickAttack/BodySlam
+[01:37:44] ====== Highest CP ======
+[01:37:44] Golbat              219 True Value |  977 Cp | 61.50% Perfect | Lvl 19 | WingAttack/AirCutter
+[01:37:45] Dodrio              213 True Value |  929 Cp | 60.00% Perfect | Lvl 19 | FeintAttack/AirCutter
+[01:37:45] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[01:37:45] Pidgeot             213 True Value |  894 Cp | 58.97% Perfect | Lvl 16 | SteelWing/AirCutter
+[01:37:45] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[01:37:45] Pinsir              222 True Value |  874 Cp | 75.46% Perfect | Lvl 15 | FuryCutter/Submission
+[01:37:45] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[01:37:46] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[01:37:46] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[01:37:46] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
+[01:37:46] Golbat              216 True Value |  697 Cp | 85.92% Perfect | Lvl 13 | Bite/OminousWind
+[01:37:46] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[01:37:46] Pidgeotto           142 True Value |  595 Cp | 26.99% Perfect | Lvl 20 | SteelWing/Twister
+[01:37:46] Eevee               181 True Value |  590 Cp | 59.89% Perfect | Lvl 21 | QuickAttack/BodySlam
+[01:37:47] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
+[01:37:47] Jynx                157 True Value |  535 Cp | 47.85% Perfect | Lvl 12 | FrostBreath/DrainingKiss
+[01:37:47] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[01:37:47] Exeggcute           180 True Value |  494 Cp | 65.57% Perfect | Lvl 17 | Confusion/SeedBomb
+[01:37:47] Bellsprout          182 True Value |  485 Cp | 51.98% Perfect | Lvl 17 | VineWhip/PowerWhip
+[01:37:47] Slowpoke            164 True Value |  485 Cp | 66.23% Perfect | Lvl 15 | WaterGun/WaterPulse
+[01:37:48] ====== Most Perfect Genetics ======
+[01:37:48] Vulpix              171 True Value |   86 Cp | 96.64% Perfect | Lvl 04 | Ember/Flamethrower
+[01:37:48] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[01:37:48] Pidgey              179 True Value |  339 Cp | 89.62% Perfect | Lvl 18 | Tackle/AerialAce
+[01:37:48] Onix                162 True Value |  112 Cp | 89.31% Perfect | Lvl 05 | RockThrow/RockSlide
+[01:37:48] Staryu              181 True Value |  415 Cp | 86.75% Perfect | Lvl 16 | QuickAttack/BubbleBeam
+[01:37:48] Golbat              216 True Value |  697 Cp | 85.92% Perfect | Lvl 13 | Bite/OminousWind
+[01:37:48] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[01:37:49] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[01:37:49] Horsea              162 True Value |  194 Cp | 83.45% Perfect | Lvl 09 | WaterGun/FlashCannon
+[01:37:49] Parasect            186 True Value |  228 Cp | 82.90% Perfect | Lvl 05 | FuryCutter/SolarBeam
+[01:37:49] Krabby              163 True Value |  345 Cp | 82.06% Perfect | Lvl 16 | Bubble/ViceGrip
+[01:37:49] Zubat               175 True Value |  347 Cp | 80.46% Perfect | Lvl 20 | Bite/AirCutter
+[01:37:49] Tangela             174 True Value |  125 Cp | 80.20% Perfect | Lvl 03 | VineWhip/SolarBeam
+[01:37:49] Krabby              166 True Value |  322 Cp | 80.04% Perfect | Lvl 15 | MudShot/ViceGrip
+[01:37:50] Poliwag             156 True Value |  170 Cp | 79.95% Perfect | Lvl 08 | MudShot/BubbleBeam
+[01:37:50] Growlithe           173 True Value |  327 Cp | 79.93% Perfect | Lvl 09 | Bite/FlameWheel
+[01:37:50] Eevee               178 True Value |  382 Cp | 79.86% Perfect | Lvl 13 | QuickAttack/Dig
+[01:37:50] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[01:37:50] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[01:37:50] Goldeen             175 True Value |  367 Cp | 79.34% Perfect | Lvl 14 | MudShot/HornAttack
+[01:37:51] (POKESTOP) Centre For Development Of Teaching And Learning in 101.93 m distance
+[01:37:51] (NAVIGATION) Distance to target location: 101.93 meters. Will take 11.84 seconds driving at 31kmh
+[01:38:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:38:02] (POKESTOP) Chinese Scholar Painting in 61.97 m distance
+[01:38:02] (NAVIGATION) Distance to target location: 61.97 meters. Will take 7.2 seconds driving at 31kmh
+[01:38:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:38:10] (POKESTOP) Locked in Tricked Out in 82.01 m distance
+[01:38:10] (NAVIGATION) Distance to target location: 82.01 meters. Will take 9.23 seconds driving at 32kmh
+[01:38:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:38:18] (INFO) Found 2 Recyclable Items:
+[01:38:18] (RECYCLING) PokeBall x 4
+[01:38:20] (RECYCLING) Potion x 1
+[01:38:22] (POKESTOP) NUS Engineering in 67.73 m distance
+[01:38:22] (NAVIGATION) Distance to target location: 67.73 meters. Will take 7.87 seconds driving at 31kmh
+[01:38:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:38:29] (POKESTOP) Through this Jungle in 101.88 m distance
+[01:38:29] (NAVIGATION) Distance to target location: 101.88 meters. Will take 13.1 seconds driving at 28kmh
+[01:38:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:38:43] (POKESTOP) National Oxygen in 93.87 m distance
+[01:38:43] (NAVIGATION) Distance to target location: 93.87 meters. Will take 11.65 seconds driving at 29kmh
+[01:38:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:38:55] (POKESTOP) Feeding Chickens in 104.7 m distance
+[01:38:55] (NAVIGATION) Distance to target location: 104.7 meters. Will take 13.46 seconds driving at 28kmh
+[01:39:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:39:08] (POKESTOP) Sayings by the Stairs in 104.45 m distance
+[01:39:08] (NAVIGATION) Distance to target location: 104.45 meters. Will take 12.13 seconds driving at 31kmh
+[01:39:09] (INFO) Found 1 catchable Pokemon
+[01:39:11] (Wild Success) | Caterpie 106 V |  141 Cp | 37.38% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
