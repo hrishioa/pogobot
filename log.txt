@@ -19395,3 +19395,22 @@
 [06:55:40] (Wild Success) | Rattata 131 V |  283 Cp | 35.61% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
 [06:55:42] (BERRY) ItemRazzBerry used, remaining: 49
 [06:55:42] (Wild Success) | Horsea 163 V |  473 Cp | 63.63% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[06:55:44] (INFO) Found 2 pokemon to transfer...
+[06:55:45] (TRANSFER) Horsea 141 V |  101 Cp | 79.37% | Lvl 05 | Best: [Horsea 163 V |  473 Cp | 63.63% | Lvl 23] | Candy: 70
+[06:55:48] (TRANSFER) Rattata 131 V |  283 Cp | 35.61% | Lvl 21 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 497
+[06:55:48] (POKESTOP) West Coast Fitness Corner in 76.39 m distance
+[06:55:48] (NAVIGATION) Distance to target location: 76.39 meters. Will take 9.48 seconds driving at 29kmh
+[06:55:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:55:58] (INFO) Found 3 Recyclable Items:
+[06:55:58] (RECYCLING) PokeBall x 8
+[06:55:59] (RECYCLING) Potion x 2
+[06:55:59] (RECYCLING) Revive x 2
+[06:56:03] (POKESTOP) Flag Gathering Area in 97.3 m distance
+[06:56:03] (NAVIGATION) Distance to target location: 97.3 meters. Will take 11.68 seconds driving at 30kmh
+[06:56:07] (INFO) Found 1 catchable Pokemon
+[06:56:09] (Wild Escape) | Rattata 119 V |   95 Cp | 46.61% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[06:56:09] (Wild Success Attempt #2) | Rattata 119 V |   95 Cp | 46.61% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[06:56:11] (INFO) Found 1 pokemon to transfer...
+[06:56:13] (TRANSFER) Rattata 119 V |   95 Cp | 46.61% | Lvl 07 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 501
+[06:56:15] (INFO) Found 1 catchable Pokemon
+[06:56:16] (Wild Success) | Rattata 147 V |  164 Cp | 65.64% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
