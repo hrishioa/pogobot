@@ -17182,3 +17182,5 @@
 [05:44:26] (BERRY) ItemRazzBerry used, remaining: 50
 [05:44:26] (Wild Success) | Kingler 140 V |  420 Cp | 42.62% | Lvl 09 | Chance: 0.2 | with a UltraBall and received XP 210
 [05:44:28] (Wild Success) | Sandshrew 104 V |   71 Cp | 39.88% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[05:44:31] (INFO) Found 2 catchable Pokemon
+[05:44:32] (Wild Success) | Weedle 97 V |  147 Cp | 27.33% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
