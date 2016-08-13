@@ -20095,3 +20095,26 @@
 [07:18:23] (BERRY) ItemRazzBerry used, remaining: 50
 [07:18:25] (Wild Success) | Zubat 160 V |  387 Cp | 56.40% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
 [07:18:26] (Wild Success) | Spearow 99 V |   97 Cp | 48.75% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[07:18:28] (INFO) Found 2 pokemon to transfer...
+[07:18:29] (TRANSFER) Spearow 99 V |   97 Cp | 48.75% | Lvl 06 | Best: [Spearow 147 V |  311 Cp | 55.82% | Lvl 18] | Candy: 265
+[07:18:32] (TRANSFER) Zubat 160 V |  387 Cp | 56.40% | Lvl 24 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 594
+[07:18:32] (POKESTOP) West Coast Community Centre in 103.06 m distance
+[07:18:32] (NAVIGATION) Distance to target location: 103.06 meters. Will take 12.37 seconds driving at 30kmh
+[07:18:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:18:43] (INFO) Found 3 Recyclable Items:
+[07:18:44] (RECYCLING) PokeBall x 13
+[07:18:44] (RECYCLING) Potion x 1
+[07:18:45] (RECYCLING) Revive x 1
+[07:18:49] (POKESTOP) Clementi Bible Center in 73.54 m distance
+[07:18:49] (NAVIGATION) Distance to target location: 73.54 meters. Will take 9.13 seconds driving at 29kmh
+[07:18:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:18:57] (POKESTOP) West Coast Park Connector in 46.18 m distance
+[07:18:57] (NAVIGATION) Distance to target location: 46.18 meters. Will take 5.2 seconds driving at 32kmh
+[07:19:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:19:02] (POKESTOP) Clementi Woods Park in 67.46 m distance
+[07:19:02] (NAVIGATION) Distance to target location: 67.46 meters. Will take 7.83 seconds driving at 31kmh
+[07:19:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:19:10] (POKESTOP) Clementi Woods Fitness Corner in 105.05 m distance
+[07:19:10] (NAVIGATION) Distance to target location: 105.05 meters. Will take 13.04 seconds driving at 29kmh
+[07:19:21] (INFO) Found 1 catchable Pokemon
+[07:19:22] (Wild Success) | Poliwag 106 V |  110 Cp | 35.65% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
