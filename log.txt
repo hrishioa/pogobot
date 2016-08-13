@@ -12967,3 +12967,58 @@
 [03:13:56] (NAVIGATION) Distance to target location: 89.1 meters. Will take 11.06 seconds driving at 29kmh
 [03:13:58] (INFO) Found 1 catchable Pokemon
 [03:13:59] (Wild Success) | Pidgey 89 V |  123 Cp | 26.74% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[03:14:01] (INFO) Found 1 pokemon to transfer...
+[03:14:02] (TRANSFER) Pidgey 89 V |  123 Cp | 26.74% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 576
+[03:14:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 2 x ItemRevive
+[03:14:07] (POKESTOP) West Coast Playground in 87.39 m distance
+[03:14:07] (NAVIGATION) Distance to target location: 87.39 meters. Will take 9.83 seconds driving at 32kmh
+[03:14:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[03:14:17] (POKESTOP) Mythical Creature Mural in 48.47 m distance
+[03:14:17] (NAVIGATION) Distance to target location: 48.47 meters. Will take 5.45 seconds driving at 32kmh
+[03:14:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[03:14:23] (POKESTOP) West Coast Mural Art in 70.6 m distance
+[03:14:23] (NAVIGATION) Distance to target location: 70.6 meters. Will take 8.47 seconds driving at 30kmh
+[03:14:31] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemPotion
+[03:14:32] (INFO) Found 3 Recyclable Items:
+[03:14:32] (RECYCLING) PokeBall x 9
+[03:14:34] (RECYCLING) Potion x 1
+[03:14:34] (RECYCLING) Revive x 5
+[03:14:37] (POKESTOP) Cempaka 2004 in 90.07 m distance
+[03:14:37] (NAVIGATION) Distance to target location: 90.07 meters. Will take 11.58 seconds driving at 28kmh
+[03:14:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:14:48] (POKESTOP) West Coast Green Zone in 62.9 m distance
+[03:14:48] (NAVIGATION) Distance to target location: 62.9 meters. Will take 7.08 seconds driving at 32kmh
+[03:14:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[03:14:56] (POKESTOP) West Coast Road Sculpture in 55.07 m distance
+[03:14:56] (NAVIGATION) Distance to target location: 55.07 meters. Will take 6.2 seconds driving at 32kmh
+[03:15:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:15:01] (POKESTOP) Pasir Panjang Garden in 123.42 m distance
+[03:15:01] (NAVIGATION) Distance to target location: 123.42 meters. Will take 15.32 seconds driving at 29kmh
+[03:15:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[03:15:16] (POKESTOP) West Coast Public Stage in 61.17 m distance
+[03:15:16] (NAVIGATION) Distance to target location: 61.17 meters. Will take 7.1 seconds driving at 31kmh
+[03:15:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[03:15:22] (INFO) Found 4 Recyclable Items:
+[03:15:23] (RECYCLING) RazzBerry x 2
+[03:15:24] (RECYCLING) PokeBall x 10
+[03:15:24] (RECYCLING) Potion x 2
+[03:15:27] (RECYCLING) SuperPotion x 1
+[03:15:29] (POKESTOP) Metallic Windmill in 98.37 m distance
+[03:15:29] (NAVIGATION) Distance to target location: 98.37 meters. Will take 11.8 seconds driving at 30kmh
+[03:15:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[03:15:40] (POKESTOP) Hidden Buddha Statue  in 92.89 m distance
+[03:15:40] (NAVIGATION) Distance to target location: 92.89 meters. Will take 11.94 seconds driving at 28kmh
+[03:15:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[03:15:52] (POKESTOP) Pasir Panjang Gardens in 84.53 m distance
+[03:15:52] (NAVIGATION) Distance to target location: 84.53 meters. Will take 9.82 seconds driving at 31kmh
+[03:16:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemPokeBall, 1 x ItemGreatBall
+[03:16:01] (POKESTOP) Statue of Family in 100.23 m distance
+[03:16:01] (NAVIGATION) Distance to target location: 100.23 meters. Will take 12.89 seconds driving at 28kmh
+[03:16:03] (INFO) Found 1 catchable Pokemon
+[03:16:04] (Wild Escape) | Weedle 85 V |  163 Cp | 37.32% | Lvl 16 | Chance: 0.37 | with a GreatBall 
+[03:16:05] (Wild Success Attempt #2) | Weedle 85 V |  163 Cp | 37.32% | Lvl 16 | Chance: 0.37 | with a GreatBall 
+[03:16:07] (INFO) Found 1 pokemon to transfer...
+[03:16:08] (TRANSFER) Weedle 85 V |  163 Cp | 37.32% | Lvl 16 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 204
+[03:16:10] (INFO) Found 1 catchable Pokemon
+[03:16:11] (BERRY) ItemRazzBerry used, remaining: 49
+[03:16:12] (Wild Success) | Squirtle 135 V |  454 Cp | 24.64% | Lvl 19 | Chance: 0.13 | with a GreatBall and received XP 210
