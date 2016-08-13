@@ -17151,3 +17151,4 @@
 [05:43:24] (TRANSFER) Weedle 65 V |  142 Cp | 18.93% | Lvl 15 | Best: [Weedle 97 V |  201 Cp | 22.24% | Lvl 21] | Candy: 333
 [05:43:25] (INFO) Found 2 catchable Pokemon
 [05:43:27] (Wild Success) | Pidgey 109 V |  207 Cp | 32.71% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[05:43:29] (Wild Success) | Weedle 75 V |   69 Cp | 36.41% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
