@@ -11690,3 +11690,4 @@
 [02:34:03] (INFO) Found 4 catchable Pokemon
 [02:34:04] (Wild Success) | Weedle 78 V |  101 Cp | 35.55% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
 [02:34:06] (Wild Success) | Bellsprout 104 V |  435 Cp | 32.98% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 420
+[02:34:08] (Wild Success) | Rattata 101 V |   20 Cp | 32.30% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
