@@ -12454,3 +12454,13 @@
 [02:59:55] (TRANSFER) Slowpoke 131 V |  241 Cp | 41.64% | Lvl 08 | Best: [Slowpoke 164 V |  485 Cp | 66.23% | Lvl 15] | Candy: 38
 [02:59:56] (INFO) Found 1 catchable Pokemon
 [02:59:58] (Wild Success) | Magikarp 95 V |   94 Cp | 61.15% | Lvl 15 | Chance: 0.54 | with a PokeBall and received XP 210
+[03:00:00] (INFO) Found 1 pokemon to transfer...
+[03:00:01] (TRANSFER) Magikarp 95 V |   94 Cp | 61.15% | Lvl 15 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 173
+[03:00:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[03:00:04] (POKESTOP) Blue Black Pillars in 86.65 m distance
+[03:00:04] (NAVIGATION) Distance to target location: 86.65 meters. Will take 10.76 seconds driving at 29kmh
+[03:00:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[03:00:14] (POKESTOP) The Kingdom City's Gate in 97.44 m distance
+[03:00:14] (NAVIGATION) Distance to target location: 97.44 meters. Will take 10.96 seconds driving at 32kmh
+[03:00:17] (INFO) Found 1 catchable Pokemon
+[03:00:19] (Wild Success) | Goldeen 111 V |   64 Cp | 57.62% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
