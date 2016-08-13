@@ -6630,3 +6630,10 @@
 [23:49:38] (TRANSFER) Pidgey 101 V |  205 Cp | 30.67% | Lvl 13 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 233
 [23:49:40] (INFO) Found 1 catchable Pokemon
 [23:49:43] (Wild Success) | Bellsprout 170 V |  232 Cp | 64.88% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:49:44] (INFO) Found 1 pokemon to transfer...
+[23:49:45] (TRANSFER) Bellsprout 147 V |  477 Cp | 70.08% | Lvl 16 | Best: [Bellsprout 170 V |  232 Cp | 64.88% | Lvl 08] | Candy: 18
+[23:49:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:49:48] (POKESTOP) ckNS–TaU—^ in 64.42 m distance
+[23:49:48] (NAVIGATION) Distance to target location: 64.42 meters. Will take 8 seconds driving at 29kmh
+[23:49:54] (INFO) Found 1 catchable Pokemon
+[23:49:56] (Wild Success) | Spearow 139 V |  211 Cp | 61.21% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
