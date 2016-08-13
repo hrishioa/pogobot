@@ -3561,3 +3561,26 @@
 [22:00:14] (NAVIGATION) Distance to target location: 128.17 meters. Will take 14.42 seconds driving at 32kmh
 [22:00:27] (INFO) Found 1 catchable Pokemon
 [22:00:28] (Wild Success) | NidoranFemale 97 V |  100 Cp | 38.49% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[22:00:30] (INFO) Found 1 pokemon to transfer...
+[22:00:31] (TRANSFER) NidoranFemale 84 V |  145 Cp | 38.32% | Lvl 07 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 14
+[22:00:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:00:34] (INFO) Found 3 Recyclable Items:
+[22:00:35] (RECYCLING) PokeBall x 7
+[22:00:35] (RECYCLING) Potion x 1
+[22:00:37] (RECYCLING) Revive x 2
+[22:00:40] (POKESTOP) Kent Ridge Park Near Normanton Park in 50.03 m distance
+[22:00:40] (NAVIGATION) Distance to target location: 50.03 meters. Will take 6.43 seconds driving at 28kmh
+[22:00:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:00:46] (POKESTOP) Monitor Lizard Sign in Kent Ridge Park in 84.1 m distance
+[22:00:46] (NAVIGATION) Distance to target location: 84.1 meters. Will take 10.81 seconds driving at 28kmh
+[22:00:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:00:56] (POKESTOP) Kent Ridge Heritage Trail in 111.76 m distance
+[22:00:56] (NAVIGATION) Distance to target location: 111.76 meters. Will take 14.37 seconds driving at 28kmh
+[22:01:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemHyperPotion
+[22:01:10] (POKESTOP) Pavilion in Kent Ridge Park in 56.39 m distance
+[22:01:10] (NAVIGATION) Distance to target location: 56.39 meters. Will take 6.55 seconds driving at 31kmh
+[22:01:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall, 1 x ItemPotion, 1 x ItemRazzBerry
+[22:01:16] (POKESTOP) Kent Ridge Park Nature Trail in 186.06 m distance
+[22:01:16] (NAVIGATION) Distance to target location: 186.06 meters. Will take 19.7 seconds driving at 34kmh
+[22:01:21] (INFO) Found 2 catchable Pokemon
+[22:01:22] (Wild Success) | Zubat 166 V |  153 Cp | 75.89% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
