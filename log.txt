@@ -1137,3 +1137,13 @@
 [20:40:08] (NAVIGATION) Distance to target location: 72.03 meters. Will take 9.26 seconds driving at 28kmh
 [20:40:11] (INFO) Found 1 catchable Pokemon
 [20:40:12] (Wild Success) | Weedle 87 V |  105 Cp | 21.97% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
+[20:40:14] (INFO) Found 1 pokemon to transfer...
+[20:40:16] (TRANSFER) Weedle 61 V |   75 Cp | 20.66% | Lvl 08 | Best: [Weedle 87 V |  105 Cp | 21.97% | Lvl 11] | Candy: 38
+[20:40:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:40:20] (POKESTOP) Playground At Blk56 in 109.98 m distance
+[20:40:20] (NAVIGATION) Distance to target location: 109.98 meters. Will take 12.77 seconds driving at 31kmh
+[20:40:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:40:33] (POKESTOP) Commonwealth Drive Badminton Court in 137.48 m distance
+[20:40:33] (NAVIGATION) Distance to target location: 137.48 meters. Will take 15.96 seconds driving at 31kmh
+[20:40:45] (INFO) Found 1 catchable Pokemon
+[20:40:46] (Wild Success) | Goldeen 143 V |  281 Cp | 68.26% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
