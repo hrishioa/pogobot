@@ -5804,3 +5804,6 @@
 [23:22:39] (Wild Success) | Zubat 123 V |   58 Cp | 51.65% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [23:22:41] (BERRY) ItemRazzBerry used, remaining: 50
 [23:22:41] (Wild Success) | Eevee 170 V |  353 Cp | 80.19% | Lvl 12 | Chance: 0.34 | with a GreatBall and received XP 210
+[23:22:43] (Wild Escape) | Squirtle 86 V |  108 Cp | 9.66% | Lvl 05 | Chance: 0.27 | with a GreatBall 
+[23:22:43] (Wild Success Attempt #2) | Squirtle 86 V |  108 Cp | 9.66% | Lvl 05 | Chance: 0.27 | with a GreatBall 
+[23:22:46] (Wild Success) | Zubat 114 V |  152 Cp | 38.80% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
