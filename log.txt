@@ -11684,3 +11684,8 @@
 [02:33:52] (INFO) Found 2 catchable Pokemon
 [02:33:54] (Wild Success) | Weedle 92 V |   74 Cp | 53.06% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
 [02:33:56] (Wild Success) | Bellsprout 95 V |   68 Cp | 20.66% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
+[02:33:57] (INFO) Found 2 pokemon to transfer...
+[02:33:59] (TRANSFER) Bellsprout 95 V |   68 Cp | 20.66% | Lvl 03 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 34
+[02:34:01] (TRANSFER) Weedle 92 V |   74 Cp | 53.06% | Lvl 07 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 180
+[02:34:03] (INFO) Found 4 catchable Pokemon
+[02:34:04] (Wild Success) | Weedle 78 V |  101 Cp | 35.55% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
