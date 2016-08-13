@@ -1682,3 +1682,6 @@
 [20:57:45] (NAVIGATION) Distance to target location: 399.34 meters. Will take 20.54 seconds driving at 70kmh
 [20:58:00] (INFO) Found 1 catchable Pokemon
 [20:58:02] (Wild Success) | NidoranFemale 84 V |  145 Cp | 38.32% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[20:58:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[20:58:07] (INFO) Found 2 catchable Pokemon
+[20:58:10] (Wild Success) | Caterpie 93 V |   36 Cp | 34.21% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
