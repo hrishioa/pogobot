@@ -1995,3 +1995,18 @@
 [21:08:18] (NAVIGATION) Distance to target location: 96.96 meters. Will take 10.91 seconds driving at 32kmh
 [21:08:20] (INFO) Found 1 catchable Pokemon
 [21:08:21] (Wild Success) | Caterpie 101 V |  128 Cp | 33.36% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[21:08:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[21:08:30] (POKESTOP) Former Queenstown Wet Market in 191.58 m distance
+[21:08:30] (NAVIGATION) Distance to target location: 191.58 meters. Will take 19.71 seconds driving at 35kmh
+[21:08:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[21:08:50] (INFO) Found 3 Recyclable Items:
+[21:08:50] (RECYCLING) Revive x 1
+[21:08:51] (RECYCLING) PokeBall x 11
+[21:08:52] (RECYCLING) Potion x 1
+[21:08:54] (POKESTOP) Queenstown Library in 157.94 m distance
+[21:08:54] (NAVIGATION) Distance to target location: 157.94 meters. Will take 18.95 seconds driving at 30kmh
+[21:09:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemPotion
+[21:09:13] (POKESTOP) Heritage Tree - Rain Tree (Samanea Saman) in 1296.35 m distance
+[21:09:13] (NAVIGATION) Distance to target location: 1296.35 meters. Will take 1.11 minutes driving at 70kmh
+[21:09:28] (INFO) Found 1 catchable Pokemon
+[21:09:30] (Wild Success) | Horsea 121 V |  215 Cp | 46.85% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
