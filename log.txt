@@ -2990,3 +2990,10 @@
 [21:40:00] (NAVIGATION) Distance to target location: 95.16 meters. Will take 11.42 seconds driving at 30kmh
 [21:40:07] (INFO) Found 1 catchable Pokemon
 [21:40:08] (Wild Success) | Pidgey 130 V |  188 Cp | 55.51% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[21:40:10] (INFO) Found 1 pokemon to transfer...
+[21:40:11] (TRANSFER) Pidgey 119 V |  152 Cp | 53.65% | Lvl 09 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 144
+[21:40:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPotion
+[21:40:16] (POKESTOP) National University Hospital Main Building in 157.12 m distance
+[21:40:16] (NAVIGATION) Distance to target location: 157.12 meters. Will take 19.51 seconds driving at 29kmh
+[21:40:26] (INFO) Found 1 catchable Pokemon
+[21:40:28] (Wild Success) | Spearow 116 V |  197 Cp | 39.17% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
