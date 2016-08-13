@@ -10866,3 +10866,49 @@
 [02:06:11] (INFO) Found 2 catchable Pokemon
 [02:06:14] (Wild Success) | Weedle 104 V |  141 Cp | 34.95% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 420
 [02:06:15] (Wild Success) | Weedle 51 V |  133 Cp | 5.72% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 420
+[02:06:17] (INFO) Found 2 pokemon to transfer...
+[02:06:18] (TRANSFER) Weedle 104 V |  141 Cp | 34.95% | Lvl 14 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 155
+[02:06:20] (TRANSFER) Weedle 51 V |  133 Cp | 5.72% | Lvl 15 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 156
+[02:06:24] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:06:25] (POKESTOP) Survival Mask in 42.34 m distance
+[02:06:25] (NAVIGATION) Distance to target location: 42.34 meters. Will take 4.76 seconds driving at 32kmh
+[02:06:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemSuperPotion
+[02:06:30] (POKESTOP) Lucy's Left Ear in 66.75 m distance
+[02:06:30] (NAVIGATION) Distance to target location: 66.75 meters. Will take 7.75 seconds driving at 31kmh
+[02:06:36] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPotion, 1 x ItemGreatBall
+[02:06:37] (POKESTOP) First the Dream Then the Nightmare in 56.01 m distance
+[02:06:37] (NAVIGATION) Distance to target location: 56.01 meters. Will take 6.5 seconds driving at 31kmh
+[02:06:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive, 1 x ItemGreatBall
+[02:06:43] (POKESTOP) Compounds of Five Cubes in 90.36 m distance
+[02:06:43] (NAVIGATION) Distance to target location: 90.36 meters. Will take 10.17 seconds driving at 32kmh
+[02:06:53] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:06:53] (INFO) Found 5 Recyclable Items:
+[02:06:54] (RECYCLING) RazzBerry x 1
+[02:06:54] (RECYCLING) PokeBall x 6
+[02:06:56] (RECYCLING) Potion x 2
+[02:06:57] (RECYCLING) SuperPotion x 1
+[02:06:59] (RECYCLING) Revive x 2
+[02:07:01] (POKESTOP) Synergy in Motion in 137.59 m distance
+[02:07:01] (NAVIGATION) Distance to target location: 137.59 meters. Will take 17.08 seconds driving at 29kmh
+[02:07:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:07:18] (POKESTOP) Sage In Shaw in 41.68 m distance
+[02:07:18] (NAVIGATION) Distance to target location: 41.68 meters. Will take 4.69 seconds driving at 32kmh
+[02:07:21] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:07:23] (POKESTOP) Biological Atom in 60.71 m distance
+[02:07:23] (NAVIGATION) Distance to target location: 60.71 meters. Will take 6.83 seconds driving at 32kmh
+[02:07:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:07:30] (POKESTOP) NUS Historial Plaques in 91.68 m distance
+[02:07:30] (NAVIGATION) Distance to target location: 91.68 meters. Will take 11.79 seconds driving at 28kmh
+[02:07:40] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[02:07:42] (POKESTOP) Tree of Benevolence in 70.67 m distance
+[02:07:42] (NAVIGATION) Distance to target location: 70.67 meters. Will take 8.77 seconds driving at 29kmh
+[02:07:49] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[02:07:49] (INFO) Found 4 Recyclable Items:
+[02:07:50] (RECYCLING) RazzBerry x 2
+[02:07:51] (RECYCLING) PokeBall x 8
+[02:07:52] (RECYCLING) Potion x 1
+[02:07:53] (RECYCLING) SuperPotion x 1
+[02:07:55] (POKESTOP) Mochtar Riady Building in 71.4 m distance
+[02:07:55] (NAVIGATION) Distance to target location: 71.4 meters. Will take 8.57 seconds driving at 30kmh
+[02:08:02] (INFO) Found 1 catchable Pokemon
+[02:08:03] (Wild Success) | Venonat 130 V |  181 Cp | 56.97% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
