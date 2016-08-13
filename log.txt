@@ -18469,3 +18469,10 @@
 [06:26:14] (INFO) Found 1 catchable Pokemon
 [06:26:15] (BERRY) ItemRazzBerry used, remaining: 47
 [06:26:16] (Wild Success) | Poliwag 169 V |  492 Cp | 60.84% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[06:26:18] (INFO) Found 1 pokemon to transfer...
+[06:26:19] (TRANSFER) Poliwag 133 V |  293 Cp | 44.55% | Lvl 15 | Best: [Poliwag 169 V |  492 Cp | 60.84% | Lvl 24] | Candy: 158
+[06:26:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[06:26:24] (POKESTOP) West Coast Town Council Fitness Corner in 321.07 m distance
+[06:26:24] (NAVIGATION) Distance to target location: 321.07 meters. Will take 19.93 seconds driving at 58kmh
+[06:26:41] (INFO) Found 1 catchable Pokemon
+[06:26:43] (Wild Success) | Pidgey 113 V |  311 Cp | 41.76% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
