@@ -3041,3 +3041,17 @@
 [21:42:37] (Wild Success) | Zubat 155 V |  248 Cp | 64.89% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [21:42:39] (Wild Success) | Caterpie 72 V |   10 Cp | 21.20% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [21:42:40] (Wild Success) | Pidgey 98 V |  235 Cp | 28.70% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[21:42:42] (INFO) Found 5 pokemon to transfer...
+[21:42:44] (TRANSFER) Zubat 171 V |  197 Cp | 91.11% | Lvl 11 | Best: [Zubat 175 V |   28 Cp | 96.51% | Lvl 02] | Candy: 225
+[21:42:47] (TRANSFER) Zubat 155 V |  248 Cp | 64.89% | Lvl 15 | Best: [Zubat 175 V |   28 Cp | 96.51% | Lvl 02] | Candy: 226
+[21:42:48] (TRANSFER) Caterpie 72 V |   10 Cp | 21.20% | Lvl 01 | Best: [Caterpie 101 V |  128 Cp | 33.36% | Lvl 13] | Candy: 38
+[21:42:50] (TRANSFER) Pidgey 98 V |  235 Cp | 28.70% | Lvl 15 | Best: [Pidgey 133 V |  206 Cp | 56.90% | Lvl 12] | Candy: 148
+[21:42:53] (TRANSFER) Zubat 175 V |   28 Cp | 96.51% | Lvl 02 | Best: [Zubat 174 V |  229 Cp | 85.54% | Lvl 13] | Candy: 227
+[21:42:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:42:57] (POKESTOP) Salvation Army Sign in 212.23 m distance
+[21:42:57] (NAVIGATION) Distance to target location: 212.23 meters. Will take 19.59 seconds driving at 39kmh
+[21:43:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[21:43:17] (POKESTOP) Singapore Science Park II in 339.78 m distance
+[21:43:17] (NAVIGATION) Distance to target location: 339.78 meters. Will take 19.73 seconds driving at 62kmh
+[21:43:20] (INFO) Found 1 catchable Pokemon
+[21:43:23] (Wild Success) | Bulbasaur 125 V |  184 Cp | 44.86% | Lvl 07 | Chance: 0.22 | with a GreatBall and received XP 210
