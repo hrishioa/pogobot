@@ -12621,3 +12621,4 @@
 [03:03:20] (TRANSFER) Eevee 175 V |  431 Cp | 69.63% | Lvl 15 | Best: [Eevee 184 V |  408 Cp | 76.28% | Lvl 14] | Candy: 78
 [03:03:22] (INFO) Found 2 catchable Pokemon
 [03:03:24] (Wild Success) | Caterpie 107 V |  182 Cp | 38.62% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[03:03:25] (Wild Success) | Bellsprout 85 V |  319 Cp | 24.47% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
