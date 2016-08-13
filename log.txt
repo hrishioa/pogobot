@@ -11144,3 +11144,5 @@
 [02:15:58] (NAVIGATION) Distance to target location: 235.73 meters. Will take 19.74 seconds driving at 43kmh
 [02:16:13] (INFO) Found 2 catchable Pokemon
 [02:16:15] (Wild Success) | Goldeen 146 V |  170 Cp | 57.47% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
+[02:16:16] (BERRY) ItemRazzBerry used, remaining: 49
+[02:16:17] (Wild Success) | Clefairy 188 V |  499 Cp | 56.46% | Lvl 16 | Chance: 0.22 | with a GreatBall and received XP 420
