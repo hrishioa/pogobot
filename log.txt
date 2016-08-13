@@ -2275,3 +2275,8 @@
 [21:19:33] (NAVIGATION) Distance to target location: 129.05 meters. Will take 14.52 seconds driving at 32kmh
 [21:19:42] (INFO) Found 1 catchable Pokemon
 [21:19:44] (Wild Success) | Rattata 135 V |  159 Cp | 56.59% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[21:19:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[21:19:50] (POKESTOP) Fountain  Of EMPTY PROMISES in 127.05 m distance
+[21:19:50] (NAVIGATION) Distance to target location: 127.05 meters. Will take 15.25 seconds driving at 30kmh
+[21:19:56] (INFO) Found 1 catchable Pokemon
+[21:19:58] (Wild Success) | Ekans 62 V |  230 Cp | 25.06% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
