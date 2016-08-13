@@ -12726,3 +12726,23 @@
 [03:07:47] (TRANSFER) Eevee 142 V |  163 Cp | 63.85% | Lvl 06 | Best: [Eevee 184 V |  408 Cp | 76.28% | Lvl 14] | Candy: 82
 [03:07:48] (INFO) Found 1 catchable Pokemon
 [03:07:50] (Wild Success) | Rattata 131 V |  195 Cp | 44.37% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[03:07:52] (INFO) Found 1 pokemon to transfer...
+[03:07:53] (TRANSFER) Rattata 131 V |  195 Cp | 44.37% | Lvl 14 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 252
+[03:07:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:07:56] (INFO) Found 3 Recyclable Items:
+[03:07:56] (RECYCLING) RazzBerry x 2
+[03:07:57] (RECYCLING) PokeBall x 8
+[03:07:58] (RECYCLING) Revive x 2
+[03:08:01] (POKESTOP) Butterfly Mural in 67.22 m distance
+[03:08:01] (NAVIGATION) Distance to target location: 67.22 meters. Will take 8.07 seconds driving at 30kmh
+[03:08:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemPokeBall, 1 x ItemGreatBall
+[03:08:09] (POKESTOP) Happy Sunshine Mural in 120.56 m distance
+[03:08:09] (NAVIGATION) Distance to target location: 120.56 meters. Will take 13.56 seconds driving at 32kmh
+[03:08:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemSuperPotion
+[03:08:23] (POKESTOP) West Coast Market in 81.49 m distance
+[03:08:23] (NAVIGATION) Distance to target location: 81.49 meters. Will take 10.48 seconds driving at 28kmh
+[03:08:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:08:33] (POKESTOP) Wu Tai Shan  in 86.87 m distance
+[03:08:33] (NAVIGATION) Distance to target location: 86.87 meters. Will take 9.77 seconds driving at 32kmh
+[03:08:35] (INFO) Found 1 catchable Pokemon
+[03:08:37] (Wild Success) | Zubat 164 V |  317 Cp | 66.78% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
