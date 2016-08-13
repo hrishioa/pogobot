@@ -20225,3 +20225,19 @@
 [07:20:35] (TRANSFER) Ekans 91 V |  287 Cp | 48.29% | Lvl 14 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 181
 [07:20:44] (INFO) Found 1 catchable Pokemon
 [07:20:46] (Wild Success) | Pidgey 81 V |  153 Cp | 21.18% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[07:20:47] (INFO) Found 1 pokemon to transfer...
+[07:20:48] (TRANSFER) Pidgey 81 V |  153 Cp | 21.18% | Lvl 10 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 904
+[07:20:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemRevive, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[07:20:52] (POKESTOP) Bronze Sculpture "Contentment" in 83.31 m distance
+[07:20:52] (NAVIGATION) Distance to target location: 83.31 meters. Will take 10.34 seconds driving at 29kmh
+[07:21:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:21:02] (POKESTOP) University Cultural Center in 71.53 m distance
+[07:21:02] (NAVIGATION) Distance to target location: 71.53 meters. Will take 8.31 seconds driving at 31kmh
+[07:21:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[07:21:11] (INFO) Found 4 Recyclable Items:
+[07:21:11] (RECYCLING) RazzBerry x 3
+[07:21:12] (RECYCLING) PokeBall x 12
+[07:21:13] (RECYCLING) SuperPotion x 1
+[07:21:14] (RECYCLING) Revive x 3
+[07:21:16] (INFO) Found 1 catchable Pokemon
+[07:21:18] (Wild Success) | Pidgey 102 V |  181 Cp | 44.14% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
