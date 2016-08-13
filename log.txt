@@ -9565,3 +9565,4 @@
 [01:27:06] (NAVIGATION) Distance to target location: 84.6 meters. Will take 10.15 seconds driving at 30kmh
 [01:27:12] (INFO) Found 2 catchable Pokemon
 [01:27:13] (Wild Success) | Parasect 186 V |  228 Cp | 82.90% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 210
+[01:27:16] (Wild Success) | Spearow 92 V |   25 Cp | 39.89% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
