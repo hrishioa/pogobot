@@ -5024,3 +5024,16 @@
 [22:56:33] (TRANSFER) Zubat 147 V |  243 Cp | 58.10% | Lvl 15 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 305
 [22:56:34] (INFO) Found 1 catchable Pokemon
 [22:56:36] (Wild Success) | Spearow 142 V |  123 Cp | 70.14% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
+[22:56:37] (INFO) Found 1 pokemon to transfer...
+[22:56:39] (TRANSFER) Spearow 137 V |  186 Cp | 81.02% | Lvl 10 | Best: [Spearow 161 V |  309 Cp | 72.54% | Lvl 17] | Candy: 65
+[22:56:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[22:56:42] (POKESTOP) Let's Get Healthy Together Mural in 172.07 m distance
+[22:56:42] (NAVIGATION) Distance to target location: 172.07 meters. Will take 19.98 seconds driving at 31kmh
+[22:57:00] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[22:57:02] (POKESTOP) Brown Rice Lady in 38.67 m distance
+[22:57:02] (NAVIGATION) Distance to target location: 38.67 meters. Will take 4.97 seconds driving at 28kmh
+[22:57:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemGreatBall, 1 x ItemRazzBerry
+[22:57:07] (POKESTOP) Healthy Living Murals in 52.07 m distance
+[22:57:07] (NAVIGATION) Distance to target location: 52.07 meters. Will take 6.25 seconds driving at 30kmh
+[22:57:08] (INFO) Found 1 catchable Pokemon
+[22:57:11] (Wild Success) | Poliwag 102 V |   50 Cp | 38.26% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
