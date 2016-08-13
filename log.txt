@@ -1093,3 +1093,4 @@
 [20:37:40] (TRANSFER) Magikarp 87 V |   10 Cp | 60.69% | Lvl 01 | Best: [NONE] | Candy: 16
 [20:37:41] (INFO) Found 2 catchable Pokemon
 [20:37:42] (Wild Success) | Psyduck 115 V |  147 Cp | 9.81% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[20:37:44] (Wild Success) | Caterpie 94 V |   78 Cp | 35.71% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
