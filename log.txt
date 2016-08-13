@@ -2209,3 +2209,10 @@
 [21:16:34] (NAVIGATION) Distance to target location: 237.99 meters. Will take 19.92 seconds driving at 43kmh
 [21:16:52] (INFO) Found 1 catchable Pokemon
 [21:16:54] (Wild Success) | Magikarp 109 V |   81 Cp | 76.39% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
+[21:16:56] (INFO) Found 1 pokemon to transfer...
+[21:16:57] (TRANSFER) Magikarp 80 V |   75 Cp | 47.13% | Lvl 13 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 34
+[21:16:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemRazzBerry
+[21:16:59] (POKESTOP) Local Food Stall Mural in 366.36 m distance
+[21:16:59] (NAVIGATION) Distance to target location: 366.36 meters. Will take 19.98 seconds driving at 66kmh
+[21:17:05] (INFO) Found 1 catchable Pokemon
+[21:17:07] (Wild Success) | Magikarp 72 V |   21 Cp | 45.18% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
