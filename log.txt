@@ -18764,3 +18764,11 @@
 [06:36:20] (NAVIGATION) Distance to target location: 77.72 meters. Will take 8.74 seconds driving at 32kmh
 [06:36:27] (INFO) Found 1 catchable Pokemon
 [06:36:28] (Wild Success) | Psyduck 179 V |  476 Cp | 46.12% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[06:36:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[06:36:31] (POKESTOP) Clementi Bible Center in 54.77 m distance
+[06:36:31] (NAVIGATION) Distance to target location: 54.77 meters. Will take 6.57 seconds driving at 30kmh
+[06:36:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[06:36:38] (POKESTOP) West Coast Community Centre in 71.73 m distance
+[06:36:38] (NAVIGATION) Distance to target location: 71.73 meters. Will take 8.07 seconds driving at 32kmh
+[06:36:40] (INFO) Found 1 catchable Pokemon
+[06:36:41] (Wild Success) | Magikarp 97 V |   10 Cp | 70.55% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
