@@ -523,3 +523,36 @@
 [20:16:35] (INFO) Found 2 catchable Pokemon
 [20:16:37] (Wild Success) | Goldeen 92 V |   11 Cp | 18.84% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [20:16:39] (Wild Success) | Clefairy 96 V |   75 Cp | 25.82% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 710
+[20:16:40] (INFO) Found 1 pokemon to transfer...
+[20:16:42] (TRANSFER) Goldeen 92 V |   11 Cp | 18.84% | Lvl 01 | Best: [NONE] | Candy: 16
+[20:16:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:16:47] (POKESTOP) Animal Fighting Ring in 39.04 m distance
+[20:16:47] (NAVIGATION) Distance to target location: 39.04 meters. Will take 4.39 seconds driving at 32kmh
+[20:16:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:16:51] (POKESTOP) Serpent Statue in 73.73 m distance
+[20:16:51] (NAVIGATION) Distance to target location: 73.73 meters. Will take 8.85 seconds driving at 30kmh
+[20:16:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemRazzBerry
+[20:17:00] (POKESTOP) White Guardian and Buddha Statue in 33.41 m distance
+[20:17:00] (NAVIGATION) Distance to target location: 33.41 meters. Will take 4.01 seconds driving at 30kmh
+[20:17:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:17:04] (POKESTOP) Waterfall Feature in 82.1 m distance
+[20:17:04] (NAVIGATION) Distance to target location: 82.1 meters. Will take 9.85 seconds driving at 30kmh
+[20:17:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[20:17:13] (INFO) Found 1 Recyclable Item:
+[20:17:14] (RECYCLING) PokeBall x 14
+[20:17:17] (POKESTOP) Triplets Golden Art Piece in 95.8 m distance
+[20:17:17] (NAVIGATION) Distance to target location: 95.8 meters. Will take 11.89 seconds driving at 29kmh
+[20:17:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:17:28] (POKESTOP) øˆ7uSbÇ† in 107.84 m distance
+[20:17:28] (NAVIGATION) Distance to target location: 107.84 meters. Will take 12.52 seconds driving at 31kmh
+[20:17:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[20:17:41] (POKESTOP) Forgotten Shine in 164.78 m distance
+[20:17:41] (NAVIGATION) Distance to target location: 164.78 meters. Will take 18.54 seconds driving at 32kmh
+[20:17:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[20:17:59] (POKESTOP) The Dragon Wall in 150.61 m distance
+[20:17:59] (NAVIGATION) Distance to target location: 150.61 meters. Will take 16.94 seconds driving at 32kmh
+[20:18:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall, 1 x ItemRazzBerry
+[20:18:16] (POKESTOP) The Angry Red Face in 74.85 m distance
+[20:18:16] (NAVIGATION) Distance to target location: 74.85 meters. Will take 8.69 seconds driving at 31kmh
+[20:18:18] (INFO) Found 1 catchable Pokemon
+[20:18:19] (Wild Success) | Ekans 125 V |  180 Cp | 42.19% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
