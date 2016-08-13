@@ -5476,3 +5476,15 @@
 [23:12:20] (NAVIGATION) Distance to target location: 450.87 meters. Will take 23.19 seconds driving at 70kmh
 [23:12:42] (INFO) Found 1 catchable Pokemon
 [23:12:43] (Wild Success) | Zubat 120 V |   90 Cp | 45.59% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
+[23:12:45] (INFO) Found 1 pokemon to transfer...
+[23:12:47] (TRANSFER) Zubat 120 V |   90 Cp | 45.59% | Lvl 06 | Best: [Zubat 161 V |  287 Cp | 71.65% | Lvl 17] | Candy: 321
+[23:12:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[23:12:49] (INFO) Found 3 Recyclable Items:
+[23:12:50] (RECYCLING) RazzBerry x 2
+[23:12:51] (RECYCLING) PokeBall x 7
+[23:12:52] (RECYCLING) Potion x 4
+[23:12:54] (POKESTOP) JFDI the Frog in 104.49 m distance
+[23:12:54] (NAVIGATION) Distance to target location: 104.49 meters. Will take 12.54 seconds driving at 30kmh
+[23:13:01] (INFO) Found 1 catchable Pokemon
+[23:13:03] (BERRY) ItemRazzBerry used, remaining: 49
+[23:13:04] (Wild Success) | Bulbasaur 139 V |  466 Cp | 29.78% | Lvl 18 | Chance: 0.14 | with a GreatBall and received XP 210
