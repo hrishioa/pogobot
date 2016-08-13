@@ -6939,3 +6939,4 @@
 [23:58:38] (TRANSFER) Staryu 152 V |  172 Cp | 75.41% | Lvl 07 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 74
 [23:58:40] (INFO) Found 2 catchable Pokemon
 [23:58:42] (Wild Success) | Poliwag 149 V |  367 Cp | 59.52% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[23:58:43] (Wild Success) | Caterpie 78 V |  154 Cp | 13.29% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
