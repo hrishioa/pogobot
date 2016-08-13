@@ -17096,3 +17096,50 @@
 [05:39:13] (Wild Success) | Oddish 182 V |  549 Cp | 66.84% | Lvl 18 | Chance: 0.42 | with a GreatBall and received XP 210
 [05:39:16] (INFO) Found 1 catchable Pokemon
 [05:39:18] (Wild Success) | Weedle 85 V |  182 Cp | 34.84% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[05:39:20] (INFO) Found 1 pokemon to transfer...
+[05:39:21] (TRANSFER) Weedle 85 V |  182 Cp | 34.84% | Lvl 18 | Best: [Weedle 97 V |  201 Cp | 22.24% | Lvl 21] | Candy: 329
+[05:39:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemGreatBall
+[05:39:23] (POKESTOP) Clementi Stadium in 169.55 m distance
+[05:39:23] (NAVIGATION) Distance to target location: 169.55 meters. Will take 19.07 seconds driving at 32kmh
+[05:39:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[05:39:42] (POKESTOP) West Coast Recreation Centre in 138.52 m distance
+[05:39:42] (NAVIGATION) Distance to target location: 138.52 meters. Will take 17.2 seconds driving at 29kmh
+[05:39:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[05:39:59] (POKESTOP) Majestic Rover in 101.76 m distance
+[05:39:59] (NAVIGATION) Distance to target location: 101.76 meters. Will take 12.21 seconds driving at 30kmh
+[05:40:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:40:11] (INFO) Found 2 Recyclable Items:
+[05:40:12] (RECYCLING) PokeBall x 9
+[05:40:13] (RECYCLING) Revive x 1
+[05:40:16] (POKESTOP) Taman Mas Merah Playground in 158.44 m distance
+[05:40:16] (NAVIGATION) Distance to target location: 158.44 meters. Will take 19.67 seconds driving at 29kmh
+[05:40:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[05:40:36] (POKESTOP) Jalan Mas Kuning Playground in 140.71 m distance
+[05:40:36] (NAVIGATION) Distance to target location: 140.71 meters. Will take 17.47 seconds driving at 29kmh
+[05:40:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[05:40:52] (POKESTOP) Huge Red Umbrella in 238.06 m distance
+[05:40:52] (NAVIGATION) Distance to target location: 238.06 meters. Will take 19.93 seconds driving at 43kmh
+[05:41:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[05:41:13] (POKESTOP) Cute Dinosaur Mural in 505.93 m distance
+[05:41:13] (NAVIGATION) Distance to target location: 505.93 meters. Will take 26.02 seconds driving at 70kmh
+[05:41:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemUltraBall, 1 x ItemPokeBall
+[05:41:41] (POKESTOP) West Coast Park Connector in 185.67 m distance
+[05:41:41] (NAVIGATION) Distance to target location: 185.67 meters. Will take 19.66 seconds driving at 34kmh
+[05:42:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:42:01] (INFO) Found 3 Recyclable Items:
+[05:42:02] (RECYCLING) RazzBerry x 2
+[05:42:02] (RECYCLING) PokeBall x 9
+[05:42:03] (RECYCLING) Revive x 1
+[05:42:06] (POKESTOP) Playground at Block 714 in 900.4 m distance
+[05:42:06] (NAVIGATION) Distance to target location: 900.4 meters. Will take 46.31 seconds driving at 70kmh
+[05:42:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:42:55] (POKESTOP) The Mermaid Mural in 32.25 m distance
+[05:42:55] (NAVIGATION) Distance to target location: 32.25 meters. Will take 3.87 seconds driving at 30kmh
+[05:42:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[05:42:59] (POKESTOP) Syzygium Campanulatum in 58.25 m distance
+[05:42:59] (NAVIGATION) Distance to target location: 58.25 meters. Will take 6.55 seconds driving at 32kmh
+[05:43:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 5 x ItemPokeBall
+[05:43:06] (POKESTOP) Butterfly Mural in 242.61 m distance
+[05:43:06] (NAVIGATION) Distance to target location: 242.61 meters. Will take 19.85 seconds driving at 44kmh
+[05:43:12] (INFO) Found 1 catchable Pokemon
+[05:43:14] (Wild Success) | Rattata 110 V |   79 Cp | 40.02% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
