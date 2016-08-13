@@ -17072,3 +17072,7 @@
 [05:38:32] (NAVIGATION) Distance to target location: 54.65 meters. Will take 6.35 seconds driving at 31kmh
 [05:38:34] (INFO) Found 1 catchable Pokemon
 [05:38:36] (Wild Success) | Staryu 121 V |   37 Cp | 56.72% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[05:38:38] (INFO) Found 1 pokemon to transfer...
+[05:38:40] (TRANSFER) Staryu 121 V |   37 Cp | 56.72% | Lvl 02 | Best: [Staryu 132 V |  307 Cp | 51.14% | Lvl 13] | Candy: 77
+[05:38:41] (INFO) Found 1 catchable Pokemon
+[05:38:42] (Wild Success) | Rattata 118 V |   80 Cp | 44.58% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
