@@ -1973,3 +1973,11 @@
 [21:07:08] (NAVIGATION) Distance to target location: 102.41 meters. Will take 11.89 seconds driving at 31kmh
 [21:07:14] (INFO) Found 1 catchable Pokemon
 [21:07:16] (Wild Success) | Rattata 142 V |   23 Cp | 72.65% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[21:07:17] (INFO) Found 2 pokemon to transfer...
+[21:07:18] (TRANSFER) Rattata 131 V |  114 Cp | 57.51% | Lvl 08 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 42
+[21:07:21] (TRANSFER) Rattata 142 V |   23 Cp | 72.65% | Lvl 02 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 43
+[21:07:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:07:26] (POKESTOP) î{t:W in 230.62 m distance
+[21:07:26] (NAVIGATION) Distance to target location: 230.62 meters. Will take 19.77 seconds driving at 42kmh
+[21:07:42] (INFO) Found 2 catchable Pokemon
+[21:07:43] (Wild Success) | Poliwag 106 V |   89 Cp | 35.11% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
