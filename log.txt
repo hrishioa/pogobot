@@ -19723,3 +19723,21 @@
 [07:06:36] (Wild Escape) | Rattata 130 V |  212 Cp | 48.88% | Lvl 15 | Chance: 0.38 | with a GreatBall 
 [07:06:37] (Wild Success Attempt #2) | Rattata 130 V |  212 Cp | 48.88% | Lvl 15 | Chance: 0.38 | with a GreatBall 
 [07:06:39] (Wild Success) | Rattata 124 V |  178 Cp | 40.69% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[07:06:40] (INFO) Found 3 pokemon to transfer...
+[07:06:42] (TRANSFER) Weedle 110 V |  115 Cp | 43.18% | Lvl 11 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 412
+[07:06:44] (TRANSFER) Rattata 130 V |  212 Cp | 48.88% | Lvl 15 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 528
+[07:06:46] (TRANSFER) Rattata 124 V |  178 Cp | 40.69% | Lvl 13 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 529
+[07:06:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[07:06:50] (POKESTOP) Campsite Area in 43.78 m distance
+[07:06:50] (NAVIGATION) Distance to target location: 43.78 meters. Will take 5.08 seconds driving at 31kmh
+[07:06:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:06:56] (POKESTOP) Pyramid Web with Slider in 109.79 m distance
+[07:06:56] (NAVIGATION) Distance to target location: 109.79 meters. Will take 13.18 seconds driving at 30kmh
+[07:07:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[07:07:08] (INFO) Found 4 Recyclable Items:
+[07:07:09] (RECYCLING) RazzBerry x 1
+[07:07:10] (RECYCLING) PokeBall x 6
+[07:07:11] (RECYCLING) Potion x 3
+[07:07:12] (RECYCLING) Revive x 1
+[07:07:14] (INFO) Found 1 catchable Pokemon
+[07:07:16] (Wild Success) | Rattata 136 V |  216 Cp | 54.46% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
