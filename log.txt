@@ -2671,3 +2671,20 @@
 [21:30:52] (NAVIGATION) Distance to target location: 159.25 meters. Will take 19.77 seconds driving at 29kmh
 [21:31:05] (INFO) Found 1 catchable Pokemon
 [21:31:06] (Wild Success) | Spearow 133 V |  260 Cp | 57.16% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[21:31:07] (INFO) Found 1 pokemon to transfer...
+[21:31:09] (TRANSFER) Spearow 133 V |  260 Cp | 57.16% | Lvl 15 | Best: [Spearow 139 V |  250 Cp | 67.47% | Lvl 14] | Candy: 71
+[21:31:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:31:14] (POKESTOP) The Angry Red Face in 62.01 m distance
+[21:31:14] (NAVIGATION) Distance to target location: 62.01 meters. Will take 7.7 seconds driving at 29kmh
+[21:31:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[21:31:22] (POKESTOP) Cougar Guardians in 56.9 m distance
+[21:31:22] (NAVIGATION) Distance to target location: 56.9 meters. Will take 6.83 seconds driving at 30kmh
+[21:31:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[21:31:29] (INFO) Found 3 Recyclable Items:
+[21:31:29] (RECYCLING) Revive x 1
+[21:31:30] (RECYCLING) PokeBall x 12
+[21:31:31] (RECYCLING) Potion x 1
+[21:31:34] (POKESTOP) Determination, Loyalty & Hard Work in 67.3 m distance
+[21:31:34] (NAVIGATION) Distance to target location: 67.3 meters. Will take 8.35 seconds driving at 29kmh
+[21:31:40] (INFO) Found 2 catchable Pokemon
+[21:31:42] (Wild Success) | Clefairy 103 V |   46 Cp | 35.57% | Lvl 02 | Chance: 0.72 | with a PokeBall and received XP 210
