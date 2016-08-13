@@ -2344,3 +2344,8 @@
 [21:23:41] (INFO) Found 1 catchable Pokemon
 [21:23:42] (BERRY) ItemRazzBerry used, remaining: 48
 [21:23:43] (Wild Success) | Magmar 240 V |  768 Cp | 93.26% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 710
+[21:23:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPotion, 1 x ItemRazzBerry
+[21:23:48] (POKESTOP) Kent Ridge Park in 130.51 m distance
+[21:23:48] (NAVIGATION) Distance to target location: 130.51 meters. Will take 16.2 seconds driving at 29kmh
+[21:24:02] (INFO) Found 1 catchable Pokemon
+[21:24:03] (Wild Success) | Magikarp 88 V |   42 Cp | 59.01% | Lvl 07 | Chance: 0.8 | with a PokeBall and received XP 210
