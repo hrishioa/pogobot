@@ -12013,3 +12013,45 @@
 [02:44:46] (TRANSFER) Bellsprout 98 V |  278 Cp | 41.17% | Lvl 10 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 54
 [02:44:47] (INFO) Found 1 catchable Pokemon
 [02:44:49] (Wild Success) | NidoranMale 139 V |  392 Cp | 61.32% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[02:44:51] (INFO) Found 1 pokemon to transfer...
+[02:44:52] (TRANSFER) NidoranMale 113 V |  282 Cp | 32.82% | Lvl 14 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 10
+[02:44:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[02:44:56] (INFO) Found 4 Recyclable Items:
+[02:44:56] (RECYCLING) PokeBall x 4
+[02:44:57] (RECYCLING) Potion x 1
+[02:44:58] (RECYCLING) SuperPotion x 1
+[02:44:59] (RECYCLING) Revive x 1
+[02:45:02] (POKESTOP) Jungle Walkpath in 38.37 m distance
+[02:45:02] (NAVIGATION) Distance to target location: 38.37 meters. Will take 4.46 seconds driving at 31kmh
+[02:45:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[02:45:06] (POKESTOP) Volleyball Arena in 136.65 m distance
+[02:45:06] (NAVIGATION) Distance to target location: 136.65 meters. Will take 16.4 seconds driving at 30kmh
+[02:45:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemGreatBall
+[02:45:22] (POKESTOP) 4 Mega Zip Lines in 221.05 m distance
+[02:45:22] (NAVIGATION) Distance to target location: 221.05 meters. Will take 19.89 seconds driving at 40kmh
+[02:45:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:45:43] (POKESTOP) Clementi Woods Playground in 592.31 m distance
+[02:45:43] (NAVIGATION) Distance to target location: 592.31 meters. Will take 30.46 seconds driving at 70kmh
+[02:46:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:46:16] (POKESTOP) Clementi Woods Park in 122.67 m distance
+[02:46:16] (NAVIGATION) Distance to target location: 122.67 meters. Will take 15.77 seconds driving at 28kmh
+[02:46:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:46:31] (INFO) Found 1 Recyclable Item:
+[02:46:31] (RECYCLING) PokeBall x 5
+[02:46:34] (POKESTOP) West Coast Park Connector in 69.04 m distance
+[02:46:34] (NAVIGATION) Distance to target location: 69.04 meters. Will take 8.57 seconds driving at 29kmh
+[02:46:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry, 2 x ItemPotion, 1 x ItemGreatBall
+[02:46:43] (POKESTOP) Clementi Bible Center in 47.48 m distance
+[02:46:43] (NAVIGATION) Distance to target location: 47.48 meters. Will take 6.1 seconds driving at 28kmh
+[02:46:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:46:49] (POKESTOP) West Coast Community Centre in 66.6 m distance
+[02:46:49] (NAVIGATION) Distance to target location: 66.6 meters. Will take 7.49 seconds driving at 32kmh
+[02:46:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:46:57] (POKESTOP) Wu Tai Shan  in 100.27 m distance
+[02:46:57] (NAVIGATION) Distance to target location: 100.27 meters. Will take 12.89 seconds driving at 28kmh
+[02:47:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:47:09] (POKESTOP) West Coast Plaza Triple Fountain in 71.18 m distance
+[02:47:09] (NAVIGATION) Distance to target location: 71.18 meters. Will take 8.01 seconds driving at 32kmh
+[02:47:12] (INFO) Found 1 catchable Pokemon
+[02:47:14] (BERRY) ItemRazzBerry used, remaining: 50
+[02:47:15] (Wild Success) | Poliwag 161 V |  435 Cp | 64.66% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
