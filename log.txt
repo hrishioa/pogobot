@@ -18461,3 +18461,11 @@
 [06:25:59] (TRANSFER) Rattata 135 V |  202 Cp | 54.60% | Lvl 14 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 481
 [06:26:00] (INFO) Found 1 catchable Pokemon
 [06:26:02] (Wild Success) | Pidgey 103 V |   79 Cp | 50.09% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[06:26:04] (INFO) Found 1 pokemon to transfer...
+[06:26:05] (TRANSFER) Pidgey 103 V |   79 Cp | 50.09% | Lvl 05 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 820
+[06:26:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[06:26:08] (POKESTOP) Flag Gathering Area in 88.85 m distance
+[06:26:09] (NAVIGATION) Distance to target location: 88.85 meters. Will take 10 seconds driving at 32kmh
+[06:26:14] (INFO) Found 1 catchable Pokemon
+[06:26:15] (BERRY) ItemRazzBerry used, remaining: 47
+[06:26:16] (Wild Success) | Poliwag 169 V |  492 Cp | 60.84% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
