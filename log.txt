@@ -6544,3 +6544,9 @@
 [23:45:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
 [23:45:37] (INFO) Found 1 catchable Pokemon
 [23:45:39] (Wild Success) | Rattata 156 V |  295 Cp | 61.46% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[23:45:41] (INFO) Found 1 pokemon to transfer...
+[23:45:42] (TRANSFER) Rattata 140 V |  116 Cp | 60.57% | Lvl 08 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 109
+[23:45:43] (POKESTOP) Eagle Statue in 267.32 m distance
+[23:45:43] (NAVIGATION) Distance to target location: 267.32 meters. Will take 19.64 seconds driving at 49kmh
+[23:45:58] (INFO) Found 3 catchable Pokemon
+[23:45:59] (Wild Success) | Magikarp 92 V |   36 Cp | 63.30% | Lvl 06 | Chance: 0.87 | with a PokeBall and received XP 210
