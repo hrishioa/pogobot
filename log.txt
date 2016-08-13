@@ -9970,3 +9970,24 @@
 [01:40:39] (INFO) Found 1 catchable Pokemon
 [01:40:40] (BERRY) ItemRazzBerry used, remaining: 48
 [01:40:41] (Wild Success) | Pidgeotto 142 V |  368 Cp | 39.82% | Lvl 12 | Chance: 0.21 | with a UltraBall and received XP 210
+[01:40:43] (INFO) Found 1 pokemon to transfer...
+[01:40:45] (TRANSFER) Pidgeotto 133 V |  181 Cp | 50.06% | Lvl 06 | Best: [Pidgeotto 142 V |  595 Cp | 26.99% | Lvl 20] | Candy: 432
+[01:40:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemRevive, 1 x ItemSuperPotion
+[01:40:48] (POKESTOP) Bronze Sculpture "Contentment" in 58.34 m distance
+[01:40:48] (NAVIGATION) Distance to target location: 58.34 meters. Will take 6.77 seconds driving at 31kmh
+[01:40:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:40:54] (POKESTOP) Frustration of a Loner on a Rock in 86.7 m distance
+[01:40:54] (NAVIGATION) Distance to target location: 86.7 meters. Will take 9.75 seconds driving at 32kmh
+[01:41:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:41:04] (POKESTOP) University Cultural Centre in 101 m distance
+[01:41:04] (NAVIGATION) Distance to target location: 101 meters. Will take 11.36 seconds driving at 32kmh
+[01:41:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:41:15] (INFO) Found 3 Recyclable Items:
+[01:41:15] (RECYCLING) PokeBall x 4
+[01:41:16] (RECYCLING) SuperPotion x 3
+[01:41:17] (RECYCLING) Revive x 2
+[01:41:20] (POKESTOP) FOE Singapore in 120.39 m distance
+[01:41:20] (NAVIGATION) Distance to target location: 120.39 meters. Will take 14.45 seconds driving at 30kmh
+[01:41:32] (INFO) Found 1 catchable Pokemon
+[01:41:34] (BERRY) ItemRazzBerry used, remaining: 47
+[01:41:35] (Wild Success) | Paras 162 V |  477 Cp | 44.38% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
