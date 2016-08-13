@@ -12069,3 +12069,10 @@
 [02:47:30] (NAVIGATION) Distance to target location: 46.74 meters. Will take 5.43 seconds driving at 31kmh
 [02:47:33] (INFO) Found 1 catchable Pokemon
 [02:47:35] (Wild Success) | Magikarp 84 V |   71 Cp | 52.05% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
+[02:47:37] (INFO) Found 1 pokemon to transfer...
+[02:47:38] (TRANSFER) Magikarp 84 V |   71 Cp | 52.05% | Lvl 12 | Best: [Magikarp 109 V |   81 Cp | 76.39% | Lvl 12] | Candy: 169
+[02:47:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 2 x ItemPotion
+[02:47:41] (POKESTOP) Health Mural in 75.46 m distance
+[02:47:41] (NAVIGATION) Distance to target location: 75.46 meters. Will take 9.05 seconds driving at 30kmh
+[02:47:46] (INFO) Found 1 catchable Pokemon
+[02:47:48] (Wild Success) | Staryu 127 V |  336 Cp | 32.79% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
