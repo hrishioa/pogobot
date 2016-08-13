@@ -18327,3 +18327,10 @@
 [06:20:46] (NAVIGATION) Distance to target location: 457.15 meters. Will take 23.51 seconds driving at 70kmh
 [06:21:03] (INFO) Found 1 catchable Pokemon
 [06:21:05] (Wild Success) | Bellsprout 141 V |  524 Cp | 60.33% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[06:21:07] (INFO) Found 1 pokemon to transfer...
+[06:21:09] (TRANSFER) Bellsprout 141 V |  524 Cp | 60.33% | Lvl 18 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 177
+[06:21:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[06:21:13] (POKESTOP) Clementi Woods Playground in 706.52 m distance
+[06:21:13] (NAVIGATION) Distance to target location: 706.52 meters. Will take 36.34 seconds driving at 70kmh
+[06:21:17] (INFO) Found 1 catchable Pokemon
+[06:21:19] (Wild Success) | Bellsprout 133 V |  401 Cp | 26.13% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
