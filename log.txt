@@ -9713,3 +9713,11 @@
 [01:33:35] (INFO) Found 2 catchable Pokemon
 [01:33:36] (Wild Success) | Krabby 166 V |  322 Cp | 80.04% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [01:33:38] (Wild Success) | Pidgey 81 V |  107 Cp | 29.63% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[01:33:39] (INFO) Found 2 pokemon to transfer...
+[01:33:41] (TRANSFER) Krabby 155 V |  169 Cp | 81.26% | Lvl 08 | Best: [Krabby 166 V |  322 Cp | 80.04% | Lvl 15] | Candy: 94
+[01:33:43] (TRANSFER) Pidgey 81 V |  107 Cp | 29.63% | Lvl 07 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 412
+[01:33:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[01:33:48] (POKESTOP) JFDI the Frog in 334.77 m distance
+[01:33:48] (NAVIGATION) Distance to target location: 334.77 meters. Will take 19.76 seconds driving at 61kmh
+[01:34:05] (INFO) Found 1 catchable Pokemon
+[01:34:06] (Wild Success) | Zubat 116 V |   42 Cp | 61.91% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
