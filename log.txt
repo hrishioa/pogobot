@@ -20533,3 +20533,25 @@
 [07:31:58] (TRANSFER) Magikarp 104 V |  128 Cp | 65.93% | Lvl 20 | Best: [Magikarp 107 V |   73 Cp | 74.82% | Lvl 11] | Candy: 154
 [07:31:59] (INFO) Found 1 catchable Pokemon
 [07:32:01] (Wild Success) | Pidgey 104 V |  222 Cp | 31.76% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[07:32:03] (INFO) Found 1 pokemon to transfer...
+[07:32:04] (TRANSFER) Pidgey 104 V |  222 Cp | 31.76% | Lvl 14 | Best: [Pidgey 141 V |  374 Cp | 53.98% | Lvl 22] | Candy: 927
+[07:32:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:32:07] (INFO) Found 4 Recyclable Items:
+[07:32:08] (RECYCLING) RazzBerry x 2
+[07:32:09] (RECYCLING) PokeBall x 9
+[07:32:10] (RECYCLING) Potion x 3
+[07:32:11] (RECYCLING) Revive x 1
+[07:32:14] (POKESTOP) Gantry Entrance in 82.88 m distance
+[07:32:14] (NAVIGATION) Distance to target location: 82.88 meters. Will take 9.32 seconds driving at 32kmh
+[07:32:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[07:32:22] (POKESTOP) Marsh Garden in 87.65 m distance
+[07:32:22] (NAVIGATION) Distance to target location: 87.65 meters. Will take 10.18 seconds driving at 31kmh
+[07:32:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[07:32:33] (POKESTOP) West Coast Park Connector in 266.31 m distance
+[07:32:33] (NAVIGATION) Distance to target location: 266.31 meters. Will take 19.97 seconds driving at 48kmh
+[07:32:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[07:32:53] (INFO) Found 43 Pokestops
+[07:32:54] (POKESTOP) West Coast Park Sign in 71.84 m distance
+[07:32:54] (NAVIGATION) Distance to target location: 71.84 meters. Will take 8.34 seconds driving at 31kmh
+[07:32:59] (INFO) Found 1 catchable Pokemon
+[07:33:01] (Wild Success) | Caterpie 117 V |   10 Cp | 61.13% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
