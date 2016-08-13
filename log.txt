@@ -7978,3 +7978,16 @@
 [00:34:14] (NAVIGATION) Distance to target location: 89.38 meters. Will take 11.1 seconds driving at 29kmh
 [00:34:19] (INFO) Found 1 catchable Pokemon
 [00:34:21] (Wild Success) | Goldeen 120 V |  118 Cp | 61.43% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:34:22] (INFO) Found 1 pokemon to transfer...
+[00:34:24] (TRANSFER) Goldeen 120 V |  118 Cp | 61.43% | Lvl 05 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 114
+[00:34:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[00:34:28] (POKESTOP) The Tarantula Nebula in 77.88 m distance
+[00:34:28] (NAVIGATION) Distance to target location: 77.88 meters. Will take 9.04 seconds driving at 31kmh
+[00:34:37] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemUltraBall
+[00:34:38] (POKESTOP) Sagittarius Jewels in 45.66 m distance
+[00:34:38] (NAVIGATION) Distance to target location: 45.66 meters. Will take 5.48 seconds driving at 30kmh
+[00:34:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[00:34:44] (POKESTOP) M7 In Scorpius in 79.59 m distance
+[00:34:44] (NAVIGATION) Distance to target location: 79.59 meters. Will take 9.88 seconds driving at 29kmh
+[00:34:45] (INFO) Found 1 catchable Pokemon
+[00:34:47] (Wild Success) | Zubat 150 V |  294 Cp | 60.77% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
