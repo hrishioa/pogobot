@@ -7575,3 +7575,16 @@
 [00:21:02] (Wild Success) | Caterpie 71 V |   53 Cp | 16.22% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [00:21:04] (Wild Success) | Exeggcute 180 V |  494 Cp | 65.57% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
 [00:21:05] (Wild Success) | Horsea 130 V |  177 Cp | 50.50% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:21:07] (INFO) Found 3 pokemon to transfer...
+[00:21:08] (TRANSFER) Horsea 121 V |  215 Cp | 46.85% | Lvl 11 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 21
+[00:21:11] (TRANSFER) Caterpie 71 V |   53 Cp | 16.22% | Lvl 06 | Best: [Caterpie 101 V |  128 Cp | 33.36% | Lvl 13] | Candy: 66
+[00:21:13] (TRANSFER) Exeggcute 149 V |  344 Cp | 59.62% | Lvl 12 | Best: [Exeggcute 180 V |  494 Cp | 65.57% | Lvl 17] | Candy: 26
+[00:21:14] (POKESTOP) Heritage View Golden Wall in 89.71 m distance
+[00:21:14] (NAVIGATION) Distance to target location: 89.71 meters. Will take 10.09 seconds driving at 32kmh
+[00:21:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemGreatBall
+[00:21:24] (POKESTOP) B @ Rochester Park in 378.6 m distance
+[00:21:24] (NAVIGATION) Distance to target location: 378.6 meters. Will take 19.75 seconds driving at 69kmh
+[00:21:42] (INFO) Found 3 catchable Pokemon
+[00:21:43] (Wild Escape) | Geodude 103 V |  135 Cp | 24.21% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[00:21:44] (Wild Success Attempt #2) | Geodude 103 V |  135 Cp | 24.21% | Lvl 07 | Chance: 0.57 | with a PokeBall 
+[00:21:46] (Wild Success) | Growlithe 108 V |   16 Cp | 34.05% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
