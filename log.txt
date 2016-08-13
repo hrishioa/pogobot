@@ -6690,3 +6690,5 @@
 [23:51:36] (NAVIGATION) Distance to target location: 368.09 meters. Will take 19.78 seconds driving at 67kmh
 [23:51:56] (INFO) Found 2 catchable Pokemon
 [23:51:57] (Wild Success) | Weedle 116 V |  187 Cp | 42.18% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[23:51:59] (BERRY) ItemRazzBerry used, remaining: 50
+[23:51:59] (Wild Success) | Staryu 188 V |  515 Cp | 83.98% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
