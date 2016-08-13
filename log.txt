@@ -4991,3 +4991,12 @@
 [22:54:04] (NAVIGATION) Distance to target location: 288.01 meters. Will take 19.94 seconds driving at 52kmh
 [22:54:24] (INFO) Found 2 catchable Pokemon
 [22:54:25] (Wild Success) | Pidgeotto 116 V |  116 Cp | 53.52% | Lvl 04 | Chance: 0.39 | with a GreatBall and received XP 420
+[22:54:27] (Wild Escape) | Pidgey 111 V |  129 Cp | 42.86% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[22:54:28] (Wild Success Attempt #2) | Pidgey 111 V |  129 Cp | 42.86% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[22:54:29] (INFO) Found 1 pokemon to transfer...
+[22:54:31] (TRANSFER) Pidgey 96 V |   59 Cp | 39.98% | Lvl 04 | Best: [Pidgey 111 V |  129 Cp | 42.86% | Lvl 08] | Candy: 175
+[22:54:32] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:54:33] (POKESTOP) The Matrix in 150.02 m distance
+[22:54:33] (NAVIGATION) Distance to target location: 150.02 meters. Will take 18 seconds driving at 30kmh
+[22:54:39] (INFO) Found 2 catchable Pokemon
+[22:54:43] (Wild Success) | Rattata 121 V |  138 Cp | 41.89% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 420
