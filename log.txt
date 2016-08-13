@@ -16584,3 +16584,13 @@
 [05:23:29] (NAVIGATION) Distance to target location: 162.7 meters. Will take 18.3 seconds driving at 32kmh
 [05:23:37] (INFO) Found 1 catchable Pokemon
 [05:23:39] (Wild Success) | Golbat 157 V |  249 Cp | 77.22% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 210
+[05:23:41] (INFO) Found 1 pokemon to transfer...
+[05:23:42] (TRANSFER) Golbat 157 V |  249 Cp | 77.22% | Lvl 05 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 512
+[05:23:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[05:23:48] (POKESTOP) Jalan Mas Kuning Playground in 142.44 m distance
+[05:23:48] (NAVIGATION) Distance to target location: 142.44 meters. Will take 16.54 seconds driving at 31kmh
+[05:24:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[05:24:05] (POKESTOP) Gymnostoma Noble Tree  in 383.87 m distance
+[05:24:05] (NAVIGATION) Distance to target location: 383.87 meters. Will take 19.74 seconds driving at 70kmh
+[05:24:25] (INFO) Found 1 catchable Pokemon
+[05:24:26] (Wild Success) | Weedle 59 V |   15 Cp | 25.37% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
