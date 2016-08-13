@@ -1171,3 +1171,14 @@
 [20:42:07] (NAVIGATION) Distance to target location: 207.58 meters. Will take 19.67 seconds driving at 38kmh
 [20:42:10] (INFO) Found 1 catchable Pokemon
 [20:42:11] (Wild Success) | Spearow 113 V |  172 Cp | 55.53% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
+[20:42:12] (EGG) Hatched egg! Spearow             153 True Value |   10 Cp | 92.04% Perfect | Lvl 01 | QuickAttack/DrillPeck
+[20:42:13] (EGG) Added 2km egg to incubator
+[20:42:13] (INFO) Found 3 pokemon to transfer...
+[20:42:15] (TRANSFER) Spearow 118 V |  153 Cp | 52.80% | Lvl 09 | Best: [Spearow 153 V |   10 Cp | 92.04% | Lvl 01] | Candy: 46
+[20:42:17] (TRANSFER) Spearow 113 V |  172 Cp | 55.53% | Lvl 10 | Best: [Spearow 153 V |   10 Cp | 92.04% | Lvl 01] | Candy: 47
+[20:42:19] (TRANSFER) Spearow 153 V |   10 Cp | 92.04% | Lvl 01 | Best: [Spearow 133 V |  121 Cp | 63.82% | Lvl 07] | Candy: 48
+[20:42:26] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 4 x ItemPokeBall
+[20:42:27] (POKESTOP) Farm Animals Mural in 131.06 m distance
+[20:42:27] (NAVIGATION) Distance to target location: 131.06 meters. Will take 16.27 seconds driving at 29kmh
+[20:42:33] (INFO) Found 1 catchable Pokemon
+[20:42:35] (Wild Success) | Weedle 112 V |   84 Cp | 48.53% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
