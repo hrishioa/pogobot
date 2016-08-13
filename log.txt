@@ -4698,3 +4698,39 @@
 [22:44:17] (NAVIGATION) Distance to target location: 80.68 meters. Will take 9.68 seconds driving at 30kmh
 [22:44:22] (INFO) Found 1 catchable Pokemon
 [22:44:22] (Wild Success) | Zubat 161 V |  287 Cp | 71.65% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 420
+[22:44:27] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[22:44:28] (INFO) Found 2 Recyclable Items:
+[22:44:28] (RECYCLING) RazzBerry x 2
+[22:44:29] (RECYCLING) PokeBall x 8
+[22:44:32] (POKESTOP) Paper Dinobot in 52.3 m distance
+[22:44:32] (NAVIGATION) Distance to target location: 52.3 meters. Will take 5.88 seconds driving at 32kmh
+[22:44:36] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry
+[22:44:38] (POKESTOP) Sheltered Mural in 97.83 m distance
+[22:44:38] (NAVIGATION) Distance to target location: 97.83 meters. Will take 11.36 seconds driving at 31kmh
+[22:44:48] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPotion
+[22:44:50] (POKESTOP) Frog on Lily in 165.94 m distance
+[22:44:50] (NAVIGATION) Distance to target location: 165.94 meters. Will take 19.91 seconds driving at 30kmh
+[22:45:07] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:45:09] (POKESTOP) Circle of Life Statue in 74.89 m distance
+[22:45:09] (NAVIGATION) Distance to target location: 74.89 meters. Will take 9.63 seconds driving at 28kmh
+[22:45:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:45:18] (POKESTOP) Education in 55.45 m distance
+[22:45:18] (NAVIGATION) Distance to target location: 55.45 meters. Will take 7.13 seconds driving at 28kmh
+[22:45:25] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemSuperPotion, 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:45:25] (INFO) Found 3 Recyclable Items:
+[22:45:26] (RECYCLING) RazzBerry x 1
+[22:45:27] (RECYCLING) PokeBall x 4
+[22:45:27] (RECYCLING) GreatBall x 5
+[22:45:30] (POKESTOP) Ayer Rajah Industrial Estate in 83.4 m distance
+[22:45:30] (NAVIGATION) Distance to target location: 83.4 meters. Will take 10.01 seconds driving at 30kmh
+[22:45:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:45:40] (POKESTOP) Insead in 69.68 m distance
+[22:45:40] (NAVIGATION) Distance to target location: 69.68 meters. Will take 7.84 seconds driving at 32kmh
+[22:45:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:45:48] (POKESTOP) Aldersgate Chapel in 147.4 m distance
+[22:45:48] (NAVIGATION) Distance to target location: 147.4 meters. Will take 16.58 seconds driving at 32kmh
+[22:46:04] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:46:05] (POKESTOP) SUTD Blue Wall Mural in 182.38 m distance
+[22:46:05] (NAVIGATION) Distance to target location: 182.38 meters. Will take 19.9 seconds driving at 33kmh
+[22:46:13] (INFO) Found 4 catchable Pokemon
+[22:46:14] (Wild Success) | Spearow 161 V |  309 Cp | 72.54% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 420
