@@ -8282,3 +8282,5 @@
 [00:43:40] (NAVIGATION) Distance to target location: 172.36 meters. Will take 19.39 seconds driving at 32kmh
 [00:43:56] (INFO) Found 2 catchable Pokemon
 [00:43:58] (Wild Success) | Slowpoke 121 V |   48 Cp | 46.13% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[00:43:59] (BERRY) ItemRazzBerry used, remaining: 49
+[00:44:00] (Wild Success) | Clefairy 113 V |  518 Cp | 21.48% | Lvl 18 | Chance: 0.21 | with a GreatBall and received XP 210
