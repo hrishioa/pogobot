@@ -4759,3 +4759,7 @@
 [22:47:07] (NAVIGATION) Distance to target location: 293.59 meters. Will take 19.94 seconds driving at 53kmh
 [22:47:08] (INFO) Found 1 catchable Pokemon
 [22:47:10] (Wild Success) | Sandshrew 133 V |  270 Cp | 38.77% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 420
+[22:47:12] (INFO) Found 1 pokemon to transfer...
+[22:47:14] (TRANSFER) Sandshrew 126 V |  155 Cp | 45.88% | Lvl 08 | Best: [Sandshrew 133 V |  270 Cp | 38.77% | Lvl 14] | Candy: 10
+[22:47:22] (INFO) Found 2 catchable Pokemon
+[22:47:23] (Wild Success) | Pidgey 68 V |  188 Cp | 4.45% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
