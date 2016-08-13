@@ -2935,3 +2935,22 @@
 [21:37:48] (INFO) Found 2 catchable Pokemon
 [21:37:49] (Wild Success) | Pidgey 110 V |   61 Cp | 49.00% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [21:37:51] (Wild Success) | Spearow 91 V |  145 Cp | 36.57% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[21:37:52] (INFO) Found 2 pokemon to transfer...
+[21:37:55] (TRANSFER) Spearow 91 V |  145 Cp | 36.57% | Lvl 09 | Best: [Spearow 139 V |  250 Cp | 67.47% | Lvl 14] | Candy: 75
+[21:37:56] (TRANSFER) Pidgey 110 V |   61 Cp | 49.00% | Lvl 04 | Best: [Pidgey 119 V |  152 Cp | 53.65% | Lvl 09] | Candy: 136
+[21:38:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[21:38:00] (INFO) Found 4 Recyclable Items:
+[21:38:01] (RECYCLING) RazzBerry x 2
+[21:38:01] (RECYCLING) PokeBall x 1
+[21:38:03] (RECYCLING) Potion x 4
+[21:38:04] (RECYCLING) Revive x 2
+[21:38:06] (POKESTOP) Institute of Microelectronics in 99.97 m distance
+[21:38:06] (NAVIGATION) Distance to target location: 99.97 meters. Will take 12 seconds driving at 30kmh
+[21:38:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[21:38:18] (POKESTOP) Sculpture at PGPR in 118.29 m distance
+[21:38:18] (NAVIGATION) Distance to target location: 118.29 meters. Will take 13.31 seconds driving at 32kmh
+[21:38:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[21:38:31] (POKESTOP) The Clock in 113.75 m distance
+[21:38:31] (NAVIGATION) Distance to target location: 113.75 meters. Will take 13.21 seconds driving at 31kmh
+[21:38:33] (INFO) Found 1 catchable Pokemon
+[21:38:34] (Wild Success) | Magikarp 104 V |   24 Cp | 77.00% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
