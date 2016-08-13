@@ -5515,3 +5515,8 @@
 [23:13:55] (NAVIGATION) Distance to target location: 103.88 meters. Will take 13.36 seconds driving at 28kmh
 [23:14:01] (INFO) Found 3 catchable Pokemon
 [23:14:02] (Wild Success) | Weedle 120 V |  130 Cp | 52.13% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:14:04] (BERRY) ItemRazzBerry used, remaining: 48
+[23:14:04] (Wild Escape) | Dodrio 213 V |  929 Cp | 60.00% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[23:14:05] (BERRY) ItemRazzBerry used, remaining: 47
+[23:14:06] (Wild Success Attempt #2) | Dodrio 213 V |  929 Cp | 60.00% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[23:14:08] (Wild Success) | Rattata 130 V |  172 Cp | 52.62% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
