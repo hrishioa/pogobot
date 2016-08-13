@@ -1222,3 +1222,10 @@
 [20:44:05] (NAVIGATION) Distance to target location: 415.44 meters. Will take 21.37 seconds driving at 70kmh
 [20:44:14] (INFO) Found 1 catchable Pokemon
 [20:44:16] (Wild Success) | Psyduck 126 V |  267 Cp | 26.58% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
+[20:44:18] (INFO) Found 1 pokemon to transfer...
+[20:44:20] (TRANSFER) Psyduck 117 V |  100 Cp | 37.49% | Lvl 04 | Best: [Psyduck 133 V |  245 Cp | 37.01% | Lvl 09] | Candy: 22
+[20:44:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[20:44:27] (POKESTOP) Arena Of Mobility in 313.03 m distance
+[20:44:27] (NAVIGATION) Distance to target location: 313.03 meters. Will take 19.77 seconds driving at 57kmh
+[20:44:36] (INFO) Found 2 catchable Pokemon
+[20:44:38] (Wild Success) | Mankey 141 V |  158 Cp | 67.79% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
