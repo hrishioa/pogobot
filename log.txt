@@ -8999,3 +8999,24 @@
 [01:08:13] (TRANSFER) Pidgey 78 V |   39 Cp | 19.22% | Lvl 03 | Best: [Pidgey 123 V |  262 Cp | 42.30% | Lvl 16] | Candy: 337
 [01:08:14] (INFO) Found 1 catchable Pokemon
 [01:08:16] (Wild Success) | Paras 177 V |  343 Cp | 72.89% | Lvl 14 | Chance: 0.32 | with a UltraBall and received XP 210
+[01:08:17] (INFO) Found 1 pokemon to transfer...
+[01:08:19] (TRANSFER) Paras 161 V |  393 Cp | 51.63% | Lvl 17 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 40
+[01:08:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRevive, 1 x ItemRazzBerry, 2 x ItemPotion
+[01:08:22] (POKESTOP) The Well-Wishing Wishing Well in 79.35 m distance
+[01:08:22] (NAVIGATION) Distance to target location: 79.35 meters. Will take 9.52 seconds driving at 30kmh
+[01:08:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[01:08:32] (POKESTOP) Cornflakes Man in 55.18 m distance
+[01:08:32] (NAVIGATION) Distance to target location: 55.18 meters. Will take 6.21 seconds driving at 32kmh
+[01:08:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:08:38] (POKESTOP) Kopitiam - On the Ridge in 27.99 m distance
+[01:08:38] (NAVIGATION) Distance to target location: 27.99 meters. Will take 3.15 seconds driving at 32kmh
+[01:08:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:08:41] (INFO) Found 3 Recyclable Items:
+[01:08:42] (RECYCLING) RazzBerry x 1
+[01:08:43] (RECYCLING) Potion x 2
+[01:08:43] (RECYCLING) Revive x 2
+[01:08:46] (POKESTOP) National University Hospital Main Building in 100.82 m distance
+[01:08:46] (NAVIGATION) Distance to target location: 100.82 meters. Will take 12.96 seconds driving at 28kmh
+[01:08:51] (INFO) Found 3 catchable Pokemon
+[01:08:53] (BERRY) ItemRazzBerry used, remaining: 49
+[01:08:53] (Wild Success) | Pidgeotto 118 V |  389 Cp | 28.83% | Lvl 13 | Chance: 0.2 | with a GreatBall and received XP 210
