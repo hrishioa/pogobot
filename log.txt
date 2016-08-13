@@ -20694,3 +20694,4 @@
 [07:38:17] (Wild Success) | Pidgey 128 V |  389 Cp | 38.79% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
 [07:38:19] (BERRY) ItemRazzBerry used, remaining: 48
 [07:38:19] (Wild Success) | Bulbasaur 146 V |  515 Cp | 9.08% | Lvl 21 | Chance: 0.13 | with a UltraBall and received XP 210
+[07:38:21] (Wild Success) | Rattata 146 V |  120 Cp | 71.88% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
