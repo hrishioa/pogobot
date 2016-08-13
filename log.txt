@@ -7047,3 +7047,25 @@
 [00:03:36] (INFO) Found 2 catchable Pokemon
 [00:03:37] (Wild Success) | Rattata 127 V |  140 Cp | 47.67% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [00:03:39] (Wild Success) | Rattata 135 V |  251 Cp | 44.60% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[00:03:41] (INFO) Found 2 pokemon to transfer...
+[00:03:42] (TRANSFER) Rattata 135 V |  251 Cp | 44.60% | Lvl 18 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 132
+[00:03:45] (TRANSFER) Rattata 127 V |  140 Cp | 47.67% | Lvl 10 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 133
+[00:03:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:03:49] (ATTENTION) No locations in your area...
+[00:03:54] (INFO) Found 75 Pokestops
+[00:03:55] (POKESTOP) Synapse Reflecting Pool in 61.58 m distance
+[00:03:55] (NAVIGATION) Distance to target location: 61.58 meters. Will take 6.93 seconds driving at 32kmh
+[00:04:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[00:04:01] (INFO) Found 2 Recyclable Items:
+[00:04:02] (RECYCLING) PokeBall x 14
+[00:04:03] (RECYCLING) Potion x 2
+[00:04:06] (POKESTOP) A Slice of Life in 85.72 m distance
+[00:04:06] (NAVIGATION) Distance to target location: 85.72 meters. Will take 9.96 seconds driving at 31kmh
+[00:04:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemRazzBerry
+[00:04:16] (POKESTOP) The Leviathan Turns, Biopolis in 36.82 m distance
+[00:04:16] (NAVIGATION) Distance to target location: 36.82 meters. Will take 4.28 seconds driving at 31kmh
+[00:04:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemHyperPotion
+[00:04:20] (POKESTOP) P and G Water Feature in 89.84 m distance
+[00:04:20] (NAVIGATION) Distance to target location: 89.84 meters. Will take 10.11 seconds driving at 32kmh
+[00:04:28] (INFO) Found 1 catchable Pokemon
+[00:04:30] (Wild Success) | Pidgey 105 V |   77 Cp | 41.71% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
