@@ -8588,3 +8588,17 @@
 [00:53:38] (NAVIGATION) Distance to target location: 1183.61 meters. Will take 1.01 minutes driving at 70kmh
 [00:54:15] (INFO) Found 1 catchable Pokemon
 [00:54:18] (Wild Success) | Staryu 125 V |  114 Cp | 61.84% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:54:20] (INFO) Found 1 pokemon to transfer...
+[00:54:21] (TRANSFER) Staryu 125 V |  114 Cp | 61.84% | Lvl 05 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 94
+[00:54:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:54:41] (POKESTOP) Gears of War  in 68.42 m distance
+[00:54:41] (NAVIGATION) Distance to target location: 68.42 meters. Will take 8.49 seconds driving at 29kmh
+[00:54:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[00:54:49] (INFO) Found 23 Pokestops
+[00:54:50] (POKESTOP) Templar Stained Glass Window in 127.18 m distance
+[00:54:50] (NAVIGATION) Distance to target location: 127.18 meters. Will take 14.77 seconds driving at 31kmh
+[00:55:04] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 3 x ItemPotion
+[00:55:04] (POKESTOP) Cafe Colbar in 165.53 m distance
+[00:55:04] (NAVIGATION) Distance to target location: 165.53 meters. Will take 18.62 seconds driving at 32kmh
+[00:55:16] (INFO) Found 1 catchable Pokemon
+[00:55:18] (Wild Success) | Zubat 140 V |   61 Cp | 68.70% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
