@@ -11205,3 +11205,22 @@
 [02:18:51] (INFO) Found 1 catchable Pokemon
 [02:18:53] (BERRY) ItemRazzBerry used, remaining: 51
 [02:18:53] (Wild Success) | Clefairy 166 V |  600 Cp | 19.05% | Lvl 21 | Chance: 0.19 | with a UltraBall and received XP 420
+[02:18:55] (INFO) Found 1 pokemon to transfer...
+[02:18:57] (TRANSFER) Clefairy 159 V |  362 Cp | 41.21% | Lvl 12 | Best: [Clefairy 188 V |  499 Cp | 56.46% | Lvl 16] | Candy: 58
+[02:18:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:19:00] (POKESTOP) West Coast Park in 142.63 m distance
+[02:19:00] (NAVIGATION) Distance to target location: 142.63 meters. Will take 16.05 seconds driving at 32kmh
+[02:19:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:19:17] (POKESTOP) Focusing Coils in 233.34 m distance
+[02:19:17] (NAVIGATION) Distance to target location: 233.34 meters. Will take 19.54 seconds driving at 43kmh
+[02:19:36] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:19:36] (INFO) Found 4 Recyclable Items:
+[02:19:37] (RECYCLING) RazzBerry x 1
+[02:19:38] (RECYCLING) PokeBall x 6
+[02:19:39] (RECYCLING) Potion x 1
+[02:19:39] (RECYCLING) Revive x 1
+[02:19:42] (INFO) Found 32 Pokestops
+[02:19:43] (POKESTOP) Eusoff Freshies Corner in 653.37 m distance
+[02:19:43] (NAVIGATION) Distance to target location: 653.37 meters. Will take 33.6 seconds driving at 70kmh
+[02:19:56] (INFO) Found 1 catchable Pokemon
+[02:19:58] (Wild Success) | Rattata 83 V |   10 Cp | 22.32% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
