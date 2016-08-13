@@ -6732,3 +6732,22 @@
 [23:53:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
 [23:53:23] (INFO) Found 1 catchable Pokemon
 [23:53:25] (Wild Success) | Weedle 86 V |   10 Cp | 53.27% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:53:26] (INFO) Found 1 pokemon to transfer...
+[23:53:28] (TRANSFER) Weedle 86 V |   10 Cp | 53.27% | Lvl 01 | Best: [Weedle 120 V |  130 Cp | 52.13% | Lvl 12] | Candy: 77
+[23:53:28] (POKESTOP) Rochester Park - North Buona Vista Entrance in 56.33 m distance
+[23:53:28] (NAVIGATION) Distance to target location: 56.33 meters. Will take 6.34 seconds driving at 32kmh
+[23:53:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:53:34] (POKESTOP) Rochester Park in 51.2 m distance
+[23:53:34] (NAVIGATION) Distance to target location: 51.2 meters. Will take 6.36 seconds driving at 29kmh
+[23:53:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:53:40] (POKESTOP) Rochester Park in 77.51 m distance
+[23:53:40] (NAVIGATION) Distance to target location: 77.51 meters. Will take 9 seconds driving at 31kmh
+[23:53:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:53:48] (INFO) Found 3 Recyclable Items:
+[23:53:49] (RECYCLING) RazzBerry x 2
+[23:53:50] (RECYCLING) PokeBall x 9
+[23:53:51] (RECYCLING) Revive x 1
+[23:53:53] (POKESTOP) UFO Stone Seats in 84.6 m distance
+[23:53:53] (NAVIGATION) Distance to target location: 84.6 meters. Will take 10.15 seconds driving at 30kmh
+[23:53:59] (INFO) Found 1 catchable Pokemon
+[23:54:01] (Wild Success) | Pidgey 119 V |  304 Cp | 34.04% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
