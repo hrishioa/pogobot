@@ -5832,3 +5832,6 @@
 [23:23:36] (NAVIGATION) Distance to target location: 172.36 meters. Will take 19.39 seconds driving at 32kmh
 [23:23:48] (INFO) Found 1 catchable Pokemon
 [23:23:50] (Wild Success) | Slowpoke 108 V |  109 Cp | 31.61% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[23:23:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[23:23:55] (INFO) Found 1 catchable Pokemon
+[23:23:57] (Wild Success) | Psyduck 123 V |   43 Cp | 49.23% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
