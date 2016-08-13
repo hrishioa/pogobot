@@ -17745,3 +17745,16 @@
 [06:02:38] (INFO) Found 2 catchable Pokemon
 [06:02:40] (Wild Success) | Slowpoke 141 V |  420 Cp | 33.79% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [06:02:42] (Wild Success) | Rattata 146 V |  209 Cp | 65.40% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[06:02:43] (INFO) Found 2 pokemon to transfer...
+[06:02:45] (TRANSFER) Slowpoke 141 V |  420 Cp | 33.79% | Lvl 14 | Best: [Slowpoke 172 V |  463 Cp | 75.88% | Lvl 14] | Candy: 38
+[06:02:47] (TRANSFER) Rattata 146 V |  209 Cp | 65.40% | Lvl 14 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 425
+[06:02:48] (INFO) Found 1 catchable Pokemon
+[06:02:50] (Wild Flee) | Weedle 58 V |  103 Cp | 16.45% | Lvl 11 | Chance: 0.45 | with a GreatBall 
+[06:02:53] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 1 x ItemGreatBall, 4 x ItemPokeBall
+[06:02:54] (POKESTOP) Tower Playground in 67.22 m distance
+[06:02:54] (NAVIGATION) Distance to target location: 67.22 meters. Will take 8.64 seconds driving at 28kmh
+[06:03:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:03:01] (POKESTOP) Flag Gathering Area in 111.68 m distance
+[06:03:01] (NAVIGATION) Distance to target location: 111.68 meters. Will take 14.36 seconds driving at 28kmh
+[06:03:04] (INFO) Found 2 catchable Pokemon
+[06:03:05] (Wild Success) | Weedle 77 V |   44 Cp | 18.18% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
