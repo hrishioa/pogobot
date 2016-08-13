@@ -1105,3 +1105,18 @@
 [20:37:55] (NAVIGATION) Distance to target location: 773.4 meters. Will take 39.77 seconds driving at 70kmh
 [20:38:17] (INFO) Found 1 catchable Pokemon
 [20:38:18] (Wild Success) | Zubat 112 V |   77 Cp | 59.34% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[20:38:20] (INFO) Found 1 pokemon to transfer...
+[20:38:22] (TRANSFER) Zubat 112 V |   77 Cp | 59.34% | Lvl 05 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 117
+[20:38:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[20:38:37] (POKESTOP) Gears of War  in 65.97 m distance
+[20:38:37] (NAVIGATION) Distance to target location: 65.97 meters. Will take 8.19 seconds driving at 29kmh
+[20:38:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[20:38:44] (INFO) Found 21 Pokestops
+[20:38:45] (POKESTOP) Templar Stained Glass Window in 126.29 m distance
+[20:38:45] (NAVIGATION) Distance to target location: 126.29 meters. Will take 14.67 seconds driving at 31kmh
+[20:38:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[20:38:59] (POKESTOP) Cafe Colbar in 169.25 m distance
+[20:38:59] (NAVIGATION) Distance to target location: 169.25 meters. Will take 19.65 seconds driving at 31kmh
+[20:39:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion, 2 x ItemRazzBerry
+[20:39:17] (INFO) Found 1 catchable Pokemon
+[20:39:19] (Wild Success) | Doduo 111 V |  167 Cp | 47.37% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 710
