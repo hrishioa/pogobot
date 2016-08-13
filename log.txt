@@ -8114,3 +8114,4 @@
 [00:36:18] (RECYCLING) Revive x 2
 [00:36:20] (INFO) Found 2 catchable Pokemon
 [00:36:21] (Wild Success) | Venonat 123 V |  125 Cp | 55.83% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:36:23] (Wild Success) | Pidgey 102 V |  142 Cp | 33.08% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
