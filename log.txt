@@ -17211,3 +17211,11 @@
 [05:45:18] (Wild Success) | Magikarp 104 V |  128 Cp | 65.93% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
 [05:45:20] (BERRY) ItemRazzBerry used, remaining: 49
 [05:45:20] (Wild Success) | Pidgey 129 V |  367 Cp | 47.18% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[05:45:22] (INFO) Found 1 pokemon to transfer...
+[05:45:24] (TRANSFER) Pidgey 129 V |  367 Cp | 47.18% | Lvl 22 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 764
+[05:45:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[05:45:29] (POKESTOP) The Right Horn Sculpture in 219.85 m distance
+[05:45:29] (NAVIGATION) Distance to target location: 219.85 meters. Will take 19.79 seconds driving at 40kmh
+[05:45:45] (INFO) Found 1 catchable Pokemon
+[05:45:46] (BERRY) ItemRazzBerry used, remaining: 49
+[05:45:47] (Wild Success) | Pidgey 125 V |  368 Cp | 48.39% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
