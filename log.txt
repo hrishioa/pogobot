@@ -2010,3 +2010,13 @@
 [21:09:13] (NAVIGATION) Distance to target location: 1296.35 meters. Will take 1.11 minutes driving at 70kmh
 [21:09:28] (INFO) Found 1 catchable Pokemon
 [21:09:30] (Wild Success) | Horsea 121 V |  215 Cp | 46.85% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[21:09:41] (INFO) Found 1 catchable Pokemon
+[21:09:42] (Wild Escape) | Weedle 106 V |  143 Cp | 36.99% | Lvl 14 | Chance: 0.4 | with a GreatBall 
+[21:09:43] (Wild Success Attempt #2) | Weedle 106 V |  143 Cp | 36.99% | Lvl 14 | Chance: 0.4 | with a GreatBall 
+[21:09:45] (INFO) Found 1 pokemon to transfer...
+[21:09:46] (TRANSFER) Weedle 106 V |  143 Cp | 36.99% | Lvl 14 | Best: [Weedle 114 V |  137 Cp | 44.94% | Lvl 13] | Candy: 62
+[21:10:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[21:10:21] (POKESTOP) Masjid Hang Jebat in 207.92 m distance
+[21:10:21] (NAVIGATION) Distance to target location: 207.92 meters. Will take 19.7 seconds driving at 38kmh
+[21:10:27] (INFO) Found 2 catchable Pokemon
+[21:10:30] (Wild Success) | Zubat 142 V |  222 Cp | 75.29% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
