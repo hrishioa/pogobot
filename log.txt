@@ -1252,3 +1252,97 @@
 [20:45:33] (INFO) Found 2 catchable Pokemon
 [20:45:35] (Wild Success) | Staryu 113 V |   62 Cp | 54.63% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [20:45:37] (Wild Success) | Zubat 119 V |  123 Cp | 46.94% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[20:45:39] (INFO) Found 2 pokemon to transfer...
+[20:45:40] (TRANSFER) Zubat 119 V |  123 Cp | 46.94% | Lvl 08 | Best: [Zubat 164 V |  152 Cp | 73.82% | Lvl 09] | Candy: 140
+[20:45:43] (TRANSFER) Staryu 113 V |   62 Cp | 54.63% | Lvl 03 | Best: [Staryu 153 V |  123 Cp | 91.21% | Lvl 05] | Candy: 14
+[20:45:47] ====== User Info ======
+[20:45:47] Name: toonistic2
+[20:45:47] Team: Neutral
+[20:45:47] Level: 12 (LvLUp in 0h 7m | 2635/10000 XP)
+[20:45:47] Pokemon: 49
+[20:45:47] Stardust: 16866
+[20:45:47] ====== Items (173) ======
+[20:45:47] IncubatorBasicUnlimited x 1
+[20:45:47] Revive x 25
+[20:45:47] RazzBerry x 50
+[20:45:47] PokeBall x 51
+[20:45:47] GreatBall x 1
+[20:45:47] IncenseOrdinary x 2
+[20:45:47] Potion x 30
+[20:45:47] SuperPotion x 13
+[20:45:47] ====== Most Valuable ======
+[20:45:47] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:45:47] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[20:45:47] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[20:45:47] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:45:47] Zubat               164 True Value |  152 Cp | 73.82% Perfect | Lvl 09 | Bite/SludgeBomb
+[20:45:47] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[20:45:47] Goldeen             155 True Value |  258 Cp | 71.97% Perfect | Lvl 10 | MudShot/WaterPulse
+[20:45:47] Staryu              153 True Value |  123 Cp | 91.21% Perfect | Lvl 05 | WaterGun/Swift
+[20:45:47] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[20:45:47] Zubat               150 True Value |  146 Cp | 59.90% Perfect | Lvl 09 | Bite/SludgeBomb
+[20:45:47] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
+[20:45:47] Rattata             149 True Value |  135 Cp | 69.99% Perfect | Lvl 09 | Tackle/HyperFang
+[20:45:47] Growlithe           149 True Value |  200 Cp | 53.97% Perfect | Lvl 06 | Bite/Flamethrower
+[20:45:47] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
+[20:45:47] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:45:47] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:45:47] Mankey              141 True Value |  158 Cp | 67.79% Perfect | Lvl 07 | Scratch/BrickBreak
+[20:45:47] Paras               140 True Value |   62 Cp | 63.57% Perfect | Lvl 03 | BugBite/SeedBomb
+[20:45:47] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:45:47] Meowth              135 True Value |   93 Cp | 66.13% Perfect | Lvl 05 | Scratch/DarkPulse
+[20:45:47] ====== Highest CP ======
+[20:45:47] Dodrio              150 True Value |  513 Cp | 34.41% Perfect | Lvl 11 | SteelWing/AirCutter
+[20:45:47] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[20:45:47] Primeape            127 True Value |  330 Cp | 44.48% Perfect | Lvl 07 | LowKick/CrossChop
+[20:45:47] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[20:45:47] Psyduck             126 True Value |  267 Cp | 26.58% Perfect | Lvl 10 | ZenHeadbutt/Psybeam
+[20:45:47] Goldeen             155 True Value |  258 Cp | 71.97% Perfect | Lvl 10 | MudShot/WaterPulse
+[20:45:47] Psyduck             133 True Value |  245 Cp | 37.01% Perfect | Lvl 09 | ZenHeadbutt/Psybeam
+[20:45:47] Slowpoke            131 True Value |  241 Cp | 41.64% Perfect | Lvl 08 | Confusion/Psyshock
+[20:45:47] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[20:45:47] Eevee               129 True Value |  215 Cp | 46.90% Perfect | Lvl 08 | QuickAttack/Dig
+[20:45:47] Growlithe           149 True Value |  200 Cp | 53.97% Perfect | Lvl 06 | Bite/Flamethrower
+[20:45:47] Poliwag             109 True Value |  192 Cp | 37.51% Perfect | Lvl 10 | Bubble/BubbleBeam
+[20:45:47] Ekans               125 True Value |  180 Cp | 42.19% Perfect | Lvl 09 | Acid/SludgeBomb
+[20:45:47] Tentacool           99 True Value |  176 Cp | 43.51% Perfect | Lvl 08 | PoisonSting/WaterPulse
+[20:45:47] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[20:45:47] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
+[20:45:47] Doduo               111 True Value |  167 Cp | 47.37% Perfect | Lvl 08 | Peck/AerialAce
+[20:45:47] Ekans               143 True Value |  167 Cp | 59.48% Perfect | Lvl 08 | PoisonSting/GunkShot
+[20:45:47] Mankey              141 True Value |  158 Cp | 67.79% Perfect | Lvl 07 | Scratch/BrickBreak
+[20:45:47] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:45:47] ====== Most Perfect Genetics ======
+[20:45:47] Staryu              153 True Value |  123 Cp | 91.21% Perfect | Lvl 05 | WaterGun/Swift
+[20:45:47] Goldeen             172 True Value |  238 Cp | 85.71% Perfect | Lvl 09 | Peck/AquaTail
+[20:45:47] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[20:45:47] Abra                173 True Value |  127 Cp | 79.52% Perfect | Lvl 08 | ZenHeadbutt/Psyshock
+[20:45:47] Poliwag             147 True Value |  169 Cp | 78.21% Perfect | Lvl 08 | Bubble/BubbleBeam
+[20:45:47] Golbat              172 True Value |  360 Cp | 75.74% Perfect | Lvl 07 | Bite/OminousWind
+[20:45:47] Venonat             140 True Value |   72 Cp | 75.70% Perfect | Lvl 03 | Confusion/Psybeam
+[20:45:47] Golbat              164 True Value |  303 Cp | 74.37% Perfect | Lvl 06 | WingAttack/OminousWind
+[20:45:47] Zubat               164 True Value |  152 Cp | 73.82% Perfect | Lvl 09 | Bite/SludgeBomb
+[20:45:47] Parasect            150 True Value |  174 Cp | 73.02% Perfect | Lvl 04 | FuryCutter/XScissor
+[20:45:47] Goldeen             155 True Value |  258 Cp | 71.97% Perfect | Lvl 10 | MudShot/WaterPulse
+[20:45:47] Rattata             149 True Value |  135 Cp | 69.99% Perfect | Lvl 09 | Tackle/HyperFang
+[20:45:47] Mankey              141 True Value |  158 Cp | 67.79% Perfect | Lvl 07 | Scratch/BrickBreak
+[20:45:47] Krabby              121 True Value |   75 Cp | 66.16% Perfect | Lvl 04 | Bubble/ViceGrip
+[20:45:47] Meowth              135 True Value |   93 Cp | 66.13% Perfect | Lvl 05 | Scratch/DarkPulse
+[20:45:47] Krabby              127 True Value |  118 Cp | 64.57% Perfect | Lvl 06 | Bubble/WaterPulse
+[20:45:47] Spearow             133 True Value |  121 Cp | 63.82% Perfect | Lvl 07 | Peck/DrillPeck
+[20:45:47] Venonat             142 True Value |  156 Cp | 63.59% Perfect | Lvl 06 | BugBite/Psybeam
+[20:45:47] Paras               140 True Value |   62 Cp | 63.57% Perfect | Lvl 03 | BugBite/SeedBomb
+[20:45:47] Pidgey              118 True Value |  118 Cp | 61.06% Perfect | Lvl 07 | Tackle/Twister
+[20:45:49] (POKESTOP) Araucaria Excelsa in 432.54 m distance
+[20:45:49] (NAVIGATION) Distance to target location: 432.54 meters. Will take 22.24 seconds driving at 70kmh
+[20:46:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[20:46:13] (POKESTOP) Look out point at Kent Ridge Park in 71.74 m distance
+[20:46:13] (NAVIGATION) Distance to target location: 71.74 meters. Will take 8.91 seconds driving at 29kmh
+[20:46:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:46:21] (POKESTOP) Kent Ridge Park  in 51.73 m distance
+[20:46:21] (NAVIGATION) Distance to target location: 51.73 meters. Will take 6.42 seconds driving at 29kmh
+[20:46:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRazzBerry
+[20:46:28] (POKESTOP) Kent Ridge Heritage Trail in 88.63 m distance
+[20:46:28] (NAVIGATION) Distance to target location: 88.63 meters. Will take 10.64 seconds driving at 30kmh
+[20:46:31] (INFO) Found 1 catchable Pokemon
+[20:46:33] (Wild Success) | Pidgey 108 V |   78 Cp | 44.92% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
