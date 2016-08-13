@@ -8271,3 +8271,4 @@
 [00:43:21] (INFO) Found 3 catchable Pokemon
 [00:43:23] (Wild Success) | Psyduck 136 V |   43 Cp | 46.86% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [00:43:24] (Wild Success) | Magikarp 99 V |   58 Cp | 68.33% | Lvl 09 | Chance: 0.7 | with a PokeBall and received XP 210
+[00:43:26] (Wild Success) | Magikarp 108 V |   80 Cp | 75.16% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
