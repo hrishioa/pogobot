@@ -12000,3 +12000,12 @@
 [02:44:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
 [02:44:21] (INFO) Found 1 catchable Pokemon
 [02:44:22] (Wild Success) | Rattata 121 V |   10 Cp | 59.71% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[02:44:24] (INFO) Found 1 pokemon to transfer...
+[02:44:26] (TRANSFER) Rattata 121 V |   10 Cp | 59.71% | Lvl 01 | Best: [Rattata 156 V |  295 Cp | 61.46% | Lvl 20] | Candy: 192
+[02:44:27] (POKESTOP) Marsh Garden in 90.88 m distance
+[02:44:27] (NAVIGATION) Distance to target location: 90.88 meters. Will take 10.91 seconds driving at 30kmh
+[02:44:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:44:37] (POKESTOP) Chilling Area in 128.13 m distance
+[02:44:37] (NAVIGATION) Distance to target location: 128.13 meters. Will take 15.91 seconds driving at 29kmh
+[02:44:41] (INFO) Found 1 catchable Pokemon
+[02:44:42] (Wild Success) | Bellsprout 98 V |  278 Cp | 41.17% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
