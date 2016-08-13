@@ -628,3 +628,4 @@
 [20:21:42] (INFO) Found 3 catchable Pokemon
 [20:21:44] (Wild Success) | Slowpoke 124 V |   48 Cp | 53.54% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [20:21:45] (Wild Success) | Pidgey 103 V |  110 Cp | 37.35% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[20:21:47] (Wild Success) | Psyduck 114 V |  211 Cp | 27.99% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
