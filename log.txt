@@ -12304,3 +12304,17 @@
 [02:52:54] (NAVIGATION) Distance to target location: 158.6 meters. Will take 18.42 seconds driving at 31kmh
 [02:53:03] (INFO) Found 1 catchable Pokemon
 [02:53:04] (Wild Success) | Caterpie 94 V |   87 Cp | 29.66% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[02:53:06] (INFO) Found 1 pokemon to transfer...
+[02:53:07] (TRANSFER) Caterpie 94 V |   87 Cp | 29.66% | Lvl 09 | Best: [Caterpie 106 V |  141 Cp | 37.38% | Lvl 14] | Candy: 114
+[02:53:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:53:12] (POKESTOP) Pasir Panjang Garden in 76.69 m distance
+[02:53:12] (NAVIGATION) Distance to target location: 76.69 meters. Will take 9.52 seconds driving at 29kmh
+[02:53:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:53:21] (INFO) Found 3 Recyclable Items:
+[02:53:21] (RECYCLING) RazzBerry x 2
+[02:53:23] (RECYCLING) PokeBall x 6
+[02:53:24] (RECYCLING) SuperPotion x 2
+[02:53:26] (POKESTOP) Metallic Windmill in 87.08 m distance
+[02:53:26] (NAVIGATION) Distance to target location: 87.08 meters. Will take 9.8 seconds driving at 32kmh
+[02:53:32] (INFO) Found 2 catchable Pokemon
+[02:53:33] (Wild Success) | Venonat 151 V |  373 Cp | 57.45% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
