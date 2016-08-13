@@ -20365,3 +20365,4 @@
 [07:27:46] (TRANSFER) Pinsir 154 V |   29 Cp | 91.50% | Lvl 01 | Best: [Pinsir 273 V | 1370 Cp | 88.98% | Lvl 23] | Candy: 52
 [07:27:47] (INFO) Found 2 catchable Pokemon
 [07:27:49] (Wild Success) | Rattata 104 V |  194 Cp | 24.64% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[07:27:51] (Wild Success) | Dodrio 139 V |   76 Cp | 65.61% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
