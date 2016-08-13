@@ -11949,3 +11949,32 @@
 [02:41:52] (INFO) Found 1 catchable Pokemon
 [02:41:53] (BERRY) ItemRazzBerry used, remaining: 48
 [02:41:54] (Wild Success) | Bellsprout 139 V |  548 Cp | 17.43% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[02:41:56] (INFO) Found 1 pokemon to transfer...
+[02:41:57] (TRANSFER) Bellsprout 139 V |  548 Cp | 17.43% | Lvl 21 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 50
+[02:42:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[02:42:02] (POKESTOP) Campsite Area in 294.87 m distance
+[02:42:02] (NAVIGATION) Distance to target location: 294.87 meters. Will take 19.66 seconds driving at 54kmh
+[02:42:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[02:42:24] (POKESTOP) Blue Dragon Boat  in 55.39 m distance
+[02:42:24] (NAVIGATION) Distance to target location: 55.39 meters. Will take 6.88 seconds driving at 29kmh
+[02:42:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:42:31] (INFO) Found 4 Recyclable Items:
+[02:42:31] (RECYCLING) PokeBall x 7
+[02:42:32] (RECYCLING) Potion x 1
+[02:42:33] (RECYCLING) HyperPotion x 1
+[02:42:34] (RECYCLING) Revive x 1
+[02:42:37] (POKESTOP) Red Fire Truck in 60.61 m distance
+[02:42:37] (NAVIGATION) Distance to target location: 60.61 meters. Will take 7.04 seconds driving at 31kmh
+[02:42:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:42:43] (POKESTOP) West Coast Park Amphitheatre in 78.49 m distance
+[02:42:43] (NAVIGATION) Distance to target location: 78.49 meters. Will take 8.83 seconds driving at 32kmh
+[02:42:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[02:42:52] (ATTENTION) No locations in your area...
+[02:42:57] (INFO) Found 18 Pokestops
+[02:42:58] (POKESTOP) Pyramid Web with Slider in 131.52 m distance
+[02:42:58] (NAVIGATION) Distance to target location: 131.52 meters. Will take 16.91 seconds driving at 28kmh
+[02:43:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemGreatBall
+[02:43:15] (POKESTOP) Retro Chess Table  in 80.72 m distance
+[02:43:15] (NAVIGATION) Distance to target location: 80.72 meters. Will take 9.08 seconds driving at 32kmh
+[02:43:16] (INFO) Found 1 catchable Pokemon
+[02:43:18] (Wild Success) | Venonat 138 V |  242 Cp | 63.73% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
