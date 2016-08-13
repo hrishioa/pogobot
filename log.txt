@@ -4868,3 +4868,10 @@
 [22:52:06] (RECYCLING) GreatBall x 2
 [22:52:08] (INFO) Found 1 catchable Pokemon
 [22:52:10] (Wild Success) | Staryu 152 V |  123 Cp | 90.20% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
+[22:52:12] (INFO) Found 1 pokemon to transfer...
+[22:52:13] (TRANSFER) Staryu 149 V |  407 Cp | 56.17% | Lvl 17 | Best: [Staryu 152 V |  123 Cp | 90.20% | Lvl 05] | Candy: 38
+[22:52:14] (POKESTOP) Solaris in 391.83 m distance
+[22:52:14] (NAVIGATION) Distance to target location: 391.83 meters. Will take 20.15 seconds driving at 70kmh
+[22:52:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:52:35] (INFO) Found 1 catchable Pokemon
+[22:52:37] (Wild Success) | Spearow 132 V |   28 Cp | 71.84% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
