@@ -20668,3 +20668,27 @@
 [07:37:21] (NAVIGATION) Distance to target location: 79.84 meters. Will take 9.91 seconds driving at 29kmh
 [07:37:27] (INFO) Found 1 catchable Pokemon
 [07:37:28] (Wild Success) | Weedle 77 V |  230 Cp | 22.06% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[07:37:30] (INFO) Found 1 pokemon to transfer...
+[07:37:32] (TRANSFER) Weedle 77 V |  230 Cp | 22.06% | Lvl 24 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 436
+[07:37:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:37:35] (POKESTOP) Mythical Creature Mural in 68.07 m distance
+[07:37:35] (NAVIGATION) Distance to target location: 68.07 meters. Will take 7.66 seconds driving at 32kmh
+[07:37:40] (INFO) Found 2 catchable Pokemon
+[07:37:41] (Wild Escape) | Kakuna 86 V |  227 Cp | 30.65% | Lvl 21 | Chance: 0.16 | with a GreatBall 
+[07:37:42] (Wild Success Attempt #2) | Kakuna 86 V |  227 Cp | 30.65% | Lvl 21 | Chance: 0.16 | with a GreatBall 
+[07:37:44] (Wild Escape) | Rattata 115 V |  124 Cp | 43.13% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[07:37:45] (Wild Success Attempt #2) | Rattata 115 V |  124 Cp | 43.13% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[07:37:46] (INFO) Found 1 pokemon to transfer...
+[07:37:48] (TRANSFER) Rattata 115 V |  124 Cp | 43.13% | Lvl 09 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 581
+[07:37:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[07:37:49] (POKESTOP) West Coast Playground in 73.87 m distance
+[07:37:49] (NAVIGATION) Distance to target location: 73.87 meters. Will take 8.58 seconds driving at 31kmh
+[07:37:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:37:57] (POKESTOP) West Coast Fitness Corner in 77.11 m distance
+[07:37:57] (NAVIGATION) Distance to target location: 77.11 meters. Will take 8.95 seconds driving at 31kmh
+[07:38:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemPokeBall
+[07:38:06] (POKESTOP) Flag Gathering Area in 96.7 m distance
+[07:38:06] (NAVIGATION) Distance to target location: 96.7 meters. Will take 11.6 seconds driving at 30kmh
+[07:38:15] (INFO) Found 3 catchable Pokemon
+[07:38:16] (BERRY) ItemRazzBerry used, remaining: 49
+[07:38:17] (Wild Success) | Pidgey 128 V |  389 Cp | 38.79% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
