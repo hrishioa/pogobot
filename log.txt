@@ -3017,3 +3017,25 @@
 [21:41:01] (NAVIGATION) Distance to target location: 417.55 meters. Will take 21.47 seconds driving at 70kmh
 [21:41:20] (INFO) Found 1 catchable Pokemon
 [21:41:22] (Wild Success) | Weedle 51 V |   24 Cp | 16.94% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[21:41:24] (INFO) Found 1 pokemon to transfer...
+[21:41:25] (TRANSFER) Weedle 51 V |   24 Cp | 16.94% | Lvl 03 | Best: [Weedle 114 V |  137 Cp | 44.94% | Lvl 13] | Candy: 74
+[21:41:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[21:41:29] (POKESTOP) Moai Statue at APEC Secretariat in 305.85 m distance
+[21:41:29] (NAVIGATION) Distance to target location: 305.85 meters. Will take 19.66 seconds driving at 56kmh
+[21:41:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[21:41:50] (INFO) Found 3 Recyclable Items:
+[21:41:50] (RECYCLING) RazzBerry x 1
+[21:41:53] (RECYCLING) PokeBall x 11
+[21:41:53] (RECYCLING) Potion x 1
+[21:41:54] (EGG) Hatched egg! Zubat               175 True Value |   28 Cp | 96.51% Perfect | Lvl 02 | Bite/SludgeBomb
+[21:41:55] (EGG) Added 2km egg to incubator
+[21:41:56] (POKESTOP) Beacon of Hope in 94.45 m distance
+[21:41:56] (NAVIGATION) Distance to target location: 94.45 meters. Will take 11.73 seconds driving at 29kmh
+[21:42:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[21:42:08] (POKESTOP) Beautiful Waterfall in 96.16 m distance
+[21:42:08] (NAVIGATION) Distance to target location: 96.16 meters. Will take 11.94 seconds driving at 29kmh
+[21:42:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 6 x ItemPokeBall, 1 x ItemRazzBerry
+[21:42:19] (POKESTOP) Benjamin Henry Sheares in 224.16 m distance
+[21:42:19] (NAVIGATION) Distance to target location: 224.16 meters. Will take 19.68 seconds driving at 41kmh
+[21:42:36] (INFO) Found 3 catchable Pokemon
+[21:42:37] (Wild Success) | Zubat 155 V |  248 Cp | 64.89% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
