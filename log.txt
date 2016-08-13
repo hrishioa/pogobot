@@ -3358,3 +3358,10 @@
 [21:52:53] (NAVIGATION) Distance to target location: 536.24 meters. Will take 27.58 seconds driving at 70kmh
 [21:53:18] (INFO) Found 1 catchable Pokemon
 [21:53:19] (Wild Success) | Spearow 79 V |  120 Cp | 16.96% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[21:53:21] (INFO) Found 1 pokemon to transfer...
+[21:53:22] (TRANSFER) Spearow 79 V |  120 Cp | 16.96% | Lvl 08 | Best: [Spearow 139 V |  250 Cp | 67.47% | Lvl 14] | Candy: 83
+[21:53:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:53:27] (POKESTOP) Nazareth Bible-Presbyterian Church in 73.24 m distance
+[21:53:27] (NAVIGATION) Distance to target location: 73.24 meters. Will take 8.79 seconds driving at 30kmh
+[21:53:31] (INFO) Found 1 catchable Pokemon
+[21:53:32] (Wild Success) | Pinsir 145 V |  330 Cp | 64.84% | Lvl 06 | Chance: 0.37 | with a GreatBall and received XP 710
