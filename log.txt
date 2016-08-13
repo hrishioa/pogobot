@@ -6324,3 +6324,10 @@
 [23:39:10] (NAVIGATION) Distance to target location: 88.18 meters. Will take 11.34 seconds driving at 28kmh
 [23:39:14] (INFO) Found 1 catchable Pokemon
 [23:39:16] (Wild Success) | Spearow 98 V |   61 Cp | 44.77% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[23:39:18] (INFO) Found 1 pokemon to transfer...
+[23:39:19] (TRANSFER) Spearow 98 V |   61 Cp | 44.77% | Lvl 04 | Best: [Spearow 162 V |  240 Cp | 78.46% | Lvl 13] | Candy: 103
+[23:39:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:39:24] (POKESTOP) Sagittarius Jewels in 74.32 m distance
+[23:39:24] (NAVIGATION) Distance to target location: 74.32 meters. Will take 8.92 seconds driving at 30kmh
+[23:39:27] (INFO) Found 1 catchable Pokemon
+[23:39:28] (Wild Success) | Zubat 125 V |  158 Cp | 49.41% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
