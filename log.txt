@@ -11679,3 +11679,7 @@
 [02:33:46] (INFO) Found 1 catchable Pokemon
 [02:33:47] (BERRY) ItemRazzBerry used, remaining: 49
 [02:33:48] (Wild Success) | Bellsprout 130 V |  609 Cp | 39.85% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 420
+[02:33:50] (INFO) Found 1 pokemon to transfer...
+[02:33:51] (TRANSFER) Bellsprout 130 V |  609 Cp | 39.85% | Lvl 22 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 30
+[02:33:52] (INFO) Found 2 catchable Pokemon
+[02:33:54] (Wild Success) | Weedle 92 V |   74 Cp | 53.06% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
