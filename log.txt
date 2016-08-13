@@ -18798,3 +18798,9 @@
 [06:37:34] (INFO) Found 1 catchable Pokemon
 [06:37:36] (BERRY) ItemRazzBerry used, remaining: 50
 [06:37:37] (Wild Success) | Bulbasaur 171 V |  455 Cp | 42.91% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
+[06:37:39] (INFO) Found 1 pokemon to transfer...
+[06:37:40] (TRANSFER) Bulbasaur 143 V |  285 Cp | 30.19% | Lvl 11 | Best: [Bulbasaur 229 V |  609 Cp | 97.81% | Lvl 20] | Candy: 69
+[06:37:41] (POKESTOP) Clementi West White Orchid Mural in 95.61 m distance
+[06:37:41] (NAVIGATION) Distance to target location: 95.61 meters. Will take 11.1 seconds driving at 31kmh
+[06:37:49] (INFO) Found 1 catchable Pokemon
+[06:37:51] (Wild Success) | Paras 144 V |  284 Cp | 60.52% | Lvl 12 | Chance: 0.34 | with a GreatBall and received XP 210
