@@ -11479,3 +11479,8 @@
 [02:27:09] (NAVIGATION) Distance to target location: 86.84 meters. Will take 9.77 seconds driving at 32kmh
 [02:27:14] (INFO) Found 1 catchable Pokemon
 [02:27:16] (Wild Success) | Paras 124 V |   84 Cp | 51.31% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 420
+[02:27:18] (INFO) Found 1 pokemon to transfer...
+[02:27:19] (TRANSFER) Paras 124 V |   84 Cp | 51.31% | Lvl 04 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 76
+[02:27:20] (INFO) Found 1 catchable Pokemon
+[02:27:22] (BERRY) ItemRazzBerry used, remaining: 50
+[02:27:22] (Wild Success) | Eevee 184 V |  408 Cp | 76.28% | Lvl 14 | Chance: 0.32 | with a GreatBall and received XP 420
