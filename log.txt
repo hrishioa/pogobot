@@ -11810,3 +11810,11 @@
 [02:38:38] (INFO) Found 2 catchable Pokemon
 [02:38:40] (Wild Success) | Exeggcute 132 V |   74 Cp | 55.25% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [02:38:42] (Wild Success) | Pidgey 109 V |  166 Cp | 47.18% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:38:43] (INFO) Found 2 pokemon to transfer...
+[02:38:45] (TRANSFER) Pidgey 109 V |  166 Cp | 47.18% | Lvl 10 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 516
+[02:38:47] (TRANSFER) Exeggcute 132 V |   74 Cp | 55.25% | Lvl 03 | Best: [Exeggcute 180 V |  494 Cp | 65.57% | Lvl 17] | Candy: 30
+[02:38:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPotion
+[02:38:53] (POKESTOP) RSYC Childrens Playground in 1114.37 m distance
+[02:38:53] (NAVIGATION) Distance to target location: 1114.37 meters. Will take 57.31 seconds driving at 70kmh
+[02:39:01] (INFO) Found 1 catchable Pokemon
+[02:39:03] (Wild Success) | Magikarp 96 V |   23 Cp | 69.31% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
