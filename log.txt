@@ -1722,3 +1722,11 @@
 [20:59:31] (INFO) Found 2 catchable Pokemon
 [20:59:33] (Wild Success) | Pidgey 69 V |   40 Cp | 25.37% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [20:59:35] (Wild Success) | Rattata 94 V |   34 Cp | 26.14% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[20:59:36] (INFO) Found 2 pokemon to transfer...
+[20:59:38] (TRANSFER) Pidgey 69 V |   40 Cp | 25.37% | Lvl 03 | Best: [Pidgey 119 V |  152 Cp | 53.65% | Lvl 09] | Candy: 116
+[20:59:40] (TRANSFER) Rattata 94 V |   34 Cp | 26.14% | Lvl 03 | Best: [Rattata 149 V |  135 Cp | 69.99% | Lvl 09] | Candy: 26
+[20:59:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:59:43] (POKESTOP) MDIS Sages Statue in 65.13 m distance
+[20:59:43] (NAVIGATION) Distance to target location: 65.13 meters. Will take 7.82 seconds driving at 30kmh
+[20:59:47] (INFO) Found 2 catchable Pokemon
+[20:59:49] (Wild Success) | Tangela 144 V |  263 Cp | 51.39% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 710
