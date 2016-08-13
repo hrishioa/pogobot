@@ -17657,3 +17657,10 @@
 [05:59:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [05:59:03] (INFO) Found 1 catchable Pokemon
 [05:59:04] (Wild Success) | Bellsprout 132 V |  314 Cp | 18.57% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[05:59:06] (INFO) Found 1 pokemon to transfer...
+[05:59:07] (TRANSFER) Bellsprout 132 V |  314 Cp | 18.57% | Lvl 12 | Best: [Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21] | Candy: 145
+[05:59:08] (POKESTOP) Gantry Entrance in 96.61 m distance
+[05:59:08] (NAVIGATION) Distance to target location: 96.61 meters. Will take 12.42 seconds driving at 28kmh
+[05:59:17] (INFO) Found 2 catchable Pokemon
+[05:59:18] (BERRY) ItemRazzBerry used, remaining: 49
+[05:59:19] (Wild Success) | Bellsprout 156 V |  529 Cp | 22.70% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
