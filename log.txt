@@ -20274,3 +20274,31 @@
 [07:22:49] (Wild Success) | Krabby 128 V |   98 Cp | 70.56% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [07:22:50] (BERRY) ItemRazzBerry used, remaining: 49
 [07:22:51] (Wild Success) | Poliwag 161 V |  482 Cp | 53.68% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[07:22:53] (INFO) Found 2 pokemon to transfer...
+[07:22:55] (TRANSFER) Krabby 128 V |   98 Cp | 70.56% | Lvl 05 | Best: [Krabby 176 V |  430 Cp | 80.53% | Lvl 20] | Candy: 153
+[07:22:57] (TRANSFER) Poliwag 161 V |  482 Cp | 53.68% | Lvl 24 | Best: [Poliwag 169 V |  492 Cp | 60.84% | Lvl 24] | Candy: 174
+[07:23:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[07:23:01] (POKESTOP) Lion Head Fountain in 73.29 m distance
+[07:23:01] (NAVIGATION) Distance to target location: 73.29 meters. Will take 8.51 seconds driving at 31kmh
+[07:23:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall
+[07:23:10] (POKESTOP) Scientists College in 240.62 m distance
+[07:23:10] (NAVIGATION) Distance to target location: 240.62 meters. Will take 19.69 seconds driving at 44kmh
+[07:23:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:23:30] (POKESTOP) Church of the Holy Cross in 178.57 m distance
+[07:23:30] (NAVIGATION) Distance to target location: 178.57 meters. Will take 19.48 seconds driving at 33kmh
+[07:23:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[07:23:49] (INFO) Found 3 Recyclable Items:
+[07:23:50] (RECYCLING) PokeBall x 10
+[07:23:51] (RECYCLING) Potion x 1
+[07:23:52] (RECYCLING) Revive x 2
+[07:23:54] (POKESTOP) Fountain of The Virgin Mary in 98.87 m distance
+[07:23:54] (NAVIGATION) Distance to target location: 98.87 meters. Will take 12.27 seconds driving at 29kmh
+[07:24:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:24:06] (POKESTOP) ERC UTown Benefactors in 319.68 m distance
+[07:24:06] (NAVIGATION) Distance to target location: 319.68 meters. Will take 19.84 seconds driving at 58kmh
+[07:24:21] (INFO) Found 1 catchable Pokemon
+[07:24:22] (Wild Escape) | Pidgeotto 129 V |  242 Cp | 39.99% | Lvl 08 | Chance: 0.26 | with a GreatBall 
+[07:24:23] (Wild Success Attempt #2) | Pidgeotto 129 V |  242 Cp | 39.99% | Lvl 08 | Chance: 0.26 | with a GreatBall 
+[07:24:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:24:28] (INFO) Found 1 catchable Pokemon
+[07:24:30] (Wild Success) | Pidgey 104 V |  131 Cp | 45.83% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
