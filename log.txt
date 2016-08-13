@@ -17809,3 +17809,23 @@
 [06:04:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
 [06:04:49] (INFO) Found 1 catchable Pokemon
 [06:04:51] (Wild Success) | Pidgey 118 V |  292 Cp | 38.60% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[06:04:52] (INFO) Found 1 pokemon to transfer...
+[06:04:54] (TRANSFER) Pidgey 118 V |  292 Cp | 38.60% | Lvl 18 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 788
+[06:04:55] (POKESTOP) The Mermaid Mural in 203.18 m distance
+[06:04:55] (NAVIGATION) Distance to target location: 203.18 meters. Will take 19.77 seconds driving at 37kmh
+[06:05:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 6 x ItemPokeBall
+[06:05:15] (POKESTOP) Playground at Block 714 in 49.69 m distance
+[06:05:15] (NAVIGATION) Distance to target location: 49.69 meters. Will take 5.77 seconds driving at 31kmh
+[06:05:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[06:05:21] (POKESTOP) Syzygium Campanulatum in 52.04 m distance
+[06:05:21] (NAVIGATION) Distance to target location: 52.04 meters. Will take 6.25 seconds driving at 30kmh
+[06:05:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[06:05:27] (INFO) Found 4 Recyclable Items:
+[06:05:27] (RECYCLING) RazzBerry x 1
+[06:05:28] (RECYCLING) PokeBall x 15
+[06:05:30] (RECYCLING) SuperPotion x 1
+[06:05:30] (RECYCLING) Revive x 2
+[06:05:33] (POKESTOP) Wu Tai Shan  in 366.19 m distance
+[06:05:33] (NAVIGATION) Distance to target location: 366.19 meters. Will take 19.97 seconds driving at 66kmh
+[06:05:39] (INFO) Found 1 catchable Pokemon
+[06:05:41] (Wild Success) | Weedle 101 V |  130 Cp | 33.18% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
