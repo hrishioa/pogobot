@@ -11747,3 +11747,30 @@
 [02:36:06] (INFO) Found 1 catchable Pokemon
 [02:36:07] (BERRY) ItemRazzBerry used, remaining: 50
 [02:36:08] (Wild Success) | Raticate 242 V |  764 Cp | 61.33% | Lvl 20 | Chance: 0.13 | with a GreatBall and received XP 210
+[02:36:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemPotion
+[02:36:13] (POKESTOP) Chilling Area in 126.77 m distance
+[02:36:13] (NAVIGATION) Distance to target location: 126.77 meters. Will take 16.3 seconds driving at 28kmh
+[02:36:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[02:36:29] (ATTENTION) No locations in your area...
+[02:36:34] (INFO) Found 9 Pokestops
+[02:36:35] (POKESTOP) Jungle Walkpath in 57.12 m distance
+[02:36:35] (NAVIGATION) Distance to target location: 57.12 meters. Will take 6.63 seconds driving at 31kmh
+[02:36:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:36:42] (POKESTOP) Marsh Garden in 129.66 m distance
+[02:36:42] (NAVIGATION) Distance to target location: 129.66 meters. Will take 15.56 seconds driving at 30kmh
+[02:36:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:36:56] (INFO) Found 3 Recyclable Items:
+[02:36:57] (RECYCLING) PokeBall x 3
+[02:36:58] (RECYCLING) Potion x 2
+[02:36:59] (RECYCLING) Revive x 1
+[02:37:01] (POKESTOP) Gantry Entrance in 90.54 m distance
+[02:37:01] (NAVIGATION) Distance to target location: 90.54 meters. Will take 10.51 seconds driving at 31kmh
+[02:37:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:37:11] (POKESTOP) Sun Moon Mural in 93.56 m distance
+[02:37:11] (NAVIGATION) Distance to target location: 93.56 meters. Will take 10.53 seconds driving at 32kmh
+[02:37:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemGreatBall
+[02:37:22] (POKESTOP) West Coast Park Connector in 182.21 m distance
+[02:37:22] (NAVIGATION) Distance to target location: 182.21 meters. Will take 19.88 seconds driving at 33kmh
+[02:37:28] (INFO) Found 2 catchable Pokemon
+[02:37:29] (BERRY) ItemRazzBerry used, remaining: 49
+[02:37:30] (Wild Success) | Venonat 171 V |  554 Cp | 53.75% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
