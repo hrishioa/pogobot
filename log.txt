@@ -10409,3 +10409,13 @@
 [01:55:23] (NAVIGATION) Distance to target location: 58.63 meters. Will take 7.28 seconds driving at 29kmh
 [01:55:24] (INFO) Found 1 catchable Pokemon
 [01:55:26] (Wild Success) | Paras 172 V |  225 Cp | 84.67% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
+[01:55:27] (INFO) Found 1 pokemon to transfer...
+[01:55:29] (TRANSFER) Paras 166 V |  219 Cp | 73.52% | Lvl 09 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 68
+[01:55:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemGreatBall
+[01:55:34] (POKESTOP) Painted Glass Soccer Pane in 65.31 m distance
+[01:55:34] (NAVIGATION) Distance to target location: 65.31 meters. Will take 7.35 seconds driving at 32kmh
+[01:55:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[01:55:41] (POKESTOP) Spring of Gratitude in 61.77 m distance
+[01:55:41] (NAVIGATION) Distance to target location: 61.77 meters. Will take 7.67 seconds driving at 29kmh
+[01:55:44] (INFO) Found 1 catchable Pokemon
+[01:55:45] (Wild Success) | Weedle 59 V |  112 Cp | 16.14% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
