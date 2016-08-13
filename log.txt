@@ -18339,3 +18339,27 @@
 [06:21:24] (INFO) Found 2 catchable Pokemon
 [06:21:26] (Wild Success) | Zubat 122 V |   40 Cp | 42.64% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [06:21:27] (Wild Success) | Pidgey 105 V |  160 Cp | 34.35% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[06:21:29] (INFO) Found 2 pokemon to transfer...
+[06:21:30] (TRANSFER) Zubat 122 V |   40 Cp | 42.64% | Lvl 03 | Best: [Zubat 151 V |  379 Cp | 63.32% | Lvl 23] | Candy: 530
+[06:21:33] (TRANSFER) Pidgey 105 V |  160 Cp | 34.35% | Lvl 10 | Best: [Pidgey 134 V |  322 Cp | 52.43% | Lvl 19] | Candy: 804
+[06:21:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[06:21:51] (INFO) Found 3 Recyclable Items:
+[06:21:52] (RECYCLING) PokeBall x 9
+[06:21:52] (RECYCLING) SuperPotion x 1
+[06:21:54] (RECYCLING) Revive x 2
+[06:21:56] (POKESTOP) Clementi Woods Park in 129.01 m distance
+[06:21:56] (NAVIGATION) Distance to target location: 129.01 meters. Will take 14.51 seconds driving at 32kmh
+[06:22:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[06:22:11] (POKESTOP) West Coast Park Connector in 68.91 m distance
+[06:22:11] (NAVIGATION) Distance to target location: 68.91 meters. Will take 7.75 seconds driving at 32kmh
+[06:22:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[06:22:19] (POKESTOP) Clementi Bible Center in 53.56 m distance
+[06:22:19] (NAVIGATION) Distance to target location: 53.56 meters. Will take 6.89 seconds driving at 28kmh
+[06:22:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 3 x ItemPokeBall
+[06:22:26] (POKESTOP) West Coast Community Centre in 70.47 m distance
+[06:22:26] (NAVIGATION) Distance to target location: 70.47 meters. Will take 9.06 seconds driving at 28kmh
+[06:22:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[06:22:34] (POKESTOP) Wu Tai Shan  in 102.55 m distance
+[06:22:34] (NAVIGATION) Distance to target location: 102.55 meters. Will take 11.54 seconds driving at 32kmh
+[06:22:42] (INFO) Found 1 catchable Pokemon
+[06:22:44] (Wild Success) | Jigglypuff 134 V |  130 Cp | 45.54% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
