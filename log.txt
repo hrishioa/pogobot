@@ -20838,3 +20838,8 @@
 [07:40:26] (NAVIGATION) Distance to target location: 75.64 meters. Will take 8.51 seconds driving at 32kmh
 [07:40:32] (INFO) Found 1 catchable Pokemon
 [07:40:34] (Wild Success) | Bellsprout 61 V |   69 Cp | 27.38% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[07:40:35] (INFO) Found 1 pokemon to transfer...
+[07:40:37] (TRANSFER) Bellsprout 61 V |   69 Cp | 27.38% | Lvl 03 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 237
+[07:40:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:40:40] (INFO) Found 1 catchable Pokemon
+[07:40:41] (Wild Success) | Caterpie 76 V |   63 Cp | 20.07% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
