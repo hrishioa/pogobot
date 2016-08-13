@@ -1152,3 +1152,22 @@
 [20:40:52] (NAVIGATION) Distance to target location: 342.42 meters. Will take 19.88 seconds driving at 62kmh
 [20:41:12] (INFO) Found 1 catchable Pokemon
 [20:41:13] (Wild Success) | Poliwag 109 V |  192 Cp | 37.51% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
+[20:41:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[20:41:16] (INFO) Found 4 Recyclable Items:
+[20:41:17] (RECYCLING) Revive x 1
+[20:41:18] (RECYCLING) RazzBerry x 1
+[20:41:19] (RECYCLING) PokeBall x 5
+[20:41:20] (RECYCLING) Potion x 1
+[20:41:23] (POKESTOP) St Mary's Grotto at Blessed Sacrament in 82.95 m distance
+[20:41:23] (NAVIGATION) Distance to target location: 82.95 meters. Will take 9.33 seconds driving at 32kmh
+[20:41:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion, 2 x ItemRazzBerry
+[20:41:33] (POKESTOP) Queens Close Safe House in 153.24 m distance
+[20:41:33] (NAVIGATION) Distance to target location: 153.24 meters. Will take 18.39 seconds driving at 30kmh
+[20:41:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[20:41:51] (POKESTOP) Queen's Close Playground in 132.17 m distance
+[20:41:51] (NAVIGATION) Distance to target location: 132.17 meters. Will take 16.99 seconds driving at 28kmh
+[20:42:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:42:07] (POKESTOP) Rangoli at Temple in 207.58 m distance
+[20:42:07] (NAVIGATION) Distance to target location: 207.58 meters. Will take 19.67 seconds driving at 38kmh
+[20:42:10] (INFO) Found 1 catchable Pokemon
+[20:42:11] (Wild Success) | Spearow 113 V |  172 Cp | 55.53% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
