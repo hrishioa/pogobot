@@ -22914,3 +22914,18 @@
 [08:50:26] (TRANSFER) Weedle 70 V |  117 Cp | 25.89% | Lvl 12 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 463
 [08:50:27] (INFO) Found 1 catchable Pokemon
 [08:50:29] (Wild Success) | Spearow 108 V |  188 Cp | 52.01% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[08:50:31] (INFO) Found 1 pokemon to transfer...
+[08:50:32] (TRANSFER) Spearow 108 V |  188 Cp | 52.01% | Lvl 11 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 297
+[08:50:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:50:35] (POKESTOP) First the Dream Then the Nightmare in 32.58 m distance
+[08:50:35] (NAVIGATION) Distance to target location: 32.58 meters. Will take 4.04 seconds driving at 29kmh
+[08:50:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:50:39] (INFO) Found 4 Recyclable Items:
+[08:50:40] (RECYCLING) RazzBerry x 2
+[08:50:40] (RECYCLING) PokeBall x 4
+[08:50:41] (RECYCLING) Potion x 1
+[08:50:42] (RECYCLING) Revive x 2
+[08:50:45] (POKESTOP) Compounds of Five Cubes in 86.7 m distance
+[08:50:45] (NAVIGATION) Distance to target location: 86.7 meters. Will take 10.4 seconds driving at 30kmh
+[08:50:50] (INFO) Found 1 catchable Pokemon
+[08:50:52] (Wild Success) | Pidgey 112 V |  194 Cp | 38.31% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
