@@ -36538,3 +36538,23 @@
 [22:26:03] (TRANSFER) Raticate 158 V |  442 Cp | 44.04% | Lvl 12 | Best: [Raticate 242 V |  764 Cp | 61.33% | Lvl 20] | Candy: 292
 [22:26:04] (INFO) Found 1 catchable Pokemon
 [22:26:05] (Wild Success) | NidoranMale 112 V |  100 Cp | 52.77% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[22:26:07] (INFO) Found 1 pokemon to transfer...
+[22:26:09] (TRANSFER) NidoranMale 112 V |  100 Cp | 52.77% | Lvl 05 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 14
+[22:26:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:26:12] (POKESTOP) Sentosa Golf Club in 80.78 m distance
+[22:26:12] (NAVIGATION) Distance to target location: 80.78 meters. Will take 10.03 seconds driving at 29kmh
+[22:26:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:26:21] (INFO) Found 3 Recyclable Items:
+[22:26:22] (RECYCLING) Potion x 2
+[22:26:23] (RECYCLING) HyperPotion x 1
+[22:26:24] (RECYCLING) Revive x 1
+[22:26:26] (POKESTOP) Sentosa Golf Course in 64.12 m distance
+[22:26:26] (NAVIGATION) Distance to target location: 64.12 meters. Will take 7.21 seconds driving at 32kmh
+[22:26:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemHyperPotion
+[22:26:33] (POKESTOP) Sgc Entrance in 84.72 m distance
+[22:26:33] (NAVIGATION) Distance to target location: 84.72 meters. Will take 9.84 seconds driving at 31kmh
+[22:26:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:26:44] (POKESTOP) Tanjong Beach Club in 146.42 m distance
+[22:26:44] (NAVIGATION) Distance to target location: 146.42 meters. Will take 17.57 seconds driving at 30kmh
+[22:26:52] (INFO) Found 2 catchable Pokemon
+[22:26:53] (Wild Success) | Psyduck 126 V |  343 Cp | 22.31% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
