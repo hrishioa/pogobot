@@ -42036,3 +42036,7 @@
 [01:23:18] (INFO) Found 3 catchable Pokemon
 [01:23:20] (BERRY) ItemRazzBerry used, remaining: 49
 [01:23:21] (Wild Success) | Voltorb 179 V |  439 Cp | 65.47% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[01:23:22] (Wild Escape) | Horsea 120 V |  251 Cp | 42.51% | Lvl 13 | Chance: 0.41 | with a GreatBall 
+[01:23:23] (Wild Success Attempt #2) | Horsea 120 V |  251 Cp | 42.51% | Lvl 13 | Chance: 0.41 | with a GreatBall 
+[01:23:25] (BERRY) ItemRazzBerry used, remaining: 48
+[01:23:25] (Wild Success) | Krabby 176 V |  499 Cp | 68.90% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
