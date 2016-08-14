@@ -44262,3 +44262,4 @@
 [02:31:51] (INFO) Found 2 catchable Pokemon
 [02:31:52] (BERRY) ItemRazzBerry used, remaining: 51
 [02:31:53] (Wild Success) | Voltorb 182 V |  440 Cp | 66.45% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[02:31:55] (Wild Success) | Rattata 94 V |  222 Cp | 11.74% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
