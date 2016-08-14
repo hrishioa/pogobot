@@ -31658,3 +31658,9 @@
 [14:16:23] (INFO) Found 1 catchable Pokemon
 [14:16:23] (BERRY) ItemRazzBerry used, remaining: 47
 [14:16:25] (Wild Success) | Bellsprout 183 V |  660 Cp | 37.31% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[14:16:26] (INFO) Found 1 pokemon to transfer...
+[14:16:28] (TRANSFER) Bellsprout 183 V |  660 Cp | 37.31% | Lvl 24 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 368
+[14:16:28] (POKESTOP) Pyramid Web with Slider in 102.89 m distance
+[14:16:28] (NAVIGATION) Distance to target location: 102.89 meters. Will take 11.57 seconds driving at 32kmh
+[14:16:30] (INFO) Found 1 catchable Pokemon
+[14:16:32] (Wild Success) | Caterpie 120 V |  201 Cp | 50.39% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
