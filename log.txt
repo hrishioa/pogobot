@@ -33768,3 +33768,4 @@
 [20:47:56] (INFO) Found 2 catchable Pokemon
 [20:47:58] (BERRY) ItemRazzBerry used, remaining: 41
 [20:47:58] (Wild Success) | Staryu 142 V |  434 Cp | 39.26% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 420
+[20:48:00] (Wild Success) | Caterpie 86 V |  176 Cp | 17.94% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 420
