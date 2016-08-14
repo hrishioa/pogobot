@@ -39614,3 +39614,24 @@
 [00:12:41] (NAVIGATION) Distance to target location: 152.57 meters. Will take 17.72 seconds driving at 31kmh
 [00:12:54] (INFO) Found 1 catchable Pokemon
 [00:12:55] (Wild Success) | Magikarp 104 V |   85 Cp | 71.21% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
+[00:12:56] (EGG) Hatched egg! Ekans               185 True Value |  439 Cp | 73.51% Perfect | Lvl 20 | PoisonSting/GunkShot
+[00:12:56] (EGG) Hatched egg! Venonat             222 True Value |  583 Cp | 96.62% Perfect | Lvl 20 | BugBite/SignalBeam
+[00:12:57] (EGG) Added 5km egg to incubator
+[00:12:58] (EGG) Added 2km egg to incubator
+[00:12:58] (INFO) Found 3 pokemon to transfer...
+[00:13:00] (TRANSFER) Magikarp 104 V |   85 Cp | 71.21% | Lvl 13 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 297
+[00:13:02] (TRANSFER) Ekans 148 V |  148 Cp | 68.05% | Lvl 07 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 102
+[00:13:05] (TRANSFER) Venonat 171 V |  593 Cp | 62.48% | Lvl 22 | Best: [Venonat 222 V |  583 Cp | 96.62% | Lvl 20] | Candy: 87
+[00:13:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:13:09] (INFO) Found 4 Recyclable Items:
+[00:13:09] (RECYCLING) RazzBerry x 1
+[00:13:11] (RECYCLING) PokeBall x 5
+[00:13:11] (RECYCLING) Potion x 1
+[00:13:13] (RECYCLING) Revive x 1
+[00:13:15] (POKESTOP) Resident Wildfire Area in 235.37 m distance
+[00:13:15] (NAVIGATION) Distance to target location: 235.37 meters. Will take 19.71 seconds driving at 43kmh
+[00:13:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:13:36] (POKESTOP) Butterfly Primer in 666.11 m distance
+[00:13:36] (NAVIGATION) Distance to target location: 666.11 meters. Will take 34.26 seconds driving at 70kmh
+[00:14:02] (INFO) Found 3 catchable Pokemon
+[00:14:03] (Wild Success) | Venonat 150 V |  386 Cp | 43.52% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
