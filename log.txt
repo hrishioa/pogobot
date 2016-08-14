@@ -28720,3 +28720,27 @@
 [12:22:57] (INFO) Found 2 catchable Pokemon
 [12:22:59] (Wild Success) | Bellsprout 122 V |  159 Cp | 38.64% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [12:23:01] (Wild Success) | Zubat 162 V |  321 Cp | 54.91% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[12:23:03] (INFO) Found 2 pokemon to transfer...
+[12:23:04] (TRANSFER) Zubat 162 V |  321 Cp | 54.91% | Lvl 20 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 846
+[12:23:06] (TRANSFER) Bellsprout 122 V |  159 Cp | 38.64% | Lvl 06 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 281
+[12:23:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:23:11] (INFO) Found 3 Recyclable Items:
+[12:23:11] (RECYCLING) PokeBall x 7
+[12:23:12] (RECYCLING) Potion x 2
+[12:23:12] (RECYCLING) SuperPotion x 1
+[12:23:15] (POKESTOP) Institute of Systems Science in 117.1 m distance
+[12:23:15] (NAVIGATION) Distance to target location: 117.1 meters. Will take 14.54 seconds driving at 29kmh
+[12:23:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:23:29] (POKESTOP) Beautiful Waterfall in 129.62 m distance
+[12:23:29] (NAVIGATION) Distance to target location: 129.62 meters. Will take 16.09 seconds driving at 29kmh
+[12:23:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[12:23:45] (POKESTOP) Beacon of Hope in 100.1 m distance
+[12:23:45] (NAVIGATION) Distance to target location: 100.1 meters. Will take 12.01 seconds driving at 30kmh
+[12:23:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 2 x ItemRazzBerry, 3 x ItemPokeBall
+[12:23:57] (POKESTOP) Moai Statue at APEC Secretariat in 89.98 m distance
+[12:23:57] (NAVIGATION) Distance to target location: 89.98 meters. Will take 11.57 seconds driving at 28kmh
+[12:24:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:24:07] (POKESTOP) Salvation Army Sign in 271.6 m distance
+[12:24:07] (NAVIGATION) Distance to target location: 271.6 meters. Will take 19.95 seconds driving at 49kmh
+[12:24:22] (INFO) Found 1 catchable Pokemon
+[12:24:24] (Wild Success) | Eevee 151 V |  106 Cp | 75.17% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
