@@ -33190,3 +33190,14 @@
 [20:28:37] (Wild Success) | Pidgey 137 V |  359 Cp | 55.51% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
 [20:28:38] (BERRY) ItemRazzBerry used, remaining: 45
 [20:28:39] (Wild Success) | Venonat 171 V |  593 Cp | 62.48% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
+[20:28:40] (INFO) Found 5 pokemon to transfer...
+[20:28:42] (TRANSFER) Pidgey 137 V |  359 Cp | 55.51% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 573
+[20:28:44] (TRANSFER) Rattata 114 V |  150 Cp | 38.74% | Lvl 11 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 276
+[20:28:47] (TRANSFER) Zubat 136 V |  306 Cp | 40.06% | Lvl 20 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 623
+[20:28:49] (TRANSFER) Zubat 129 V |   43 Cp | 69.59% | Lvl 03 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 624
+[20:28:51] (TRANSFER) Venonat 171 V |  554 Cp | 53.75% | Lvl 21 | Best: [Venonat 189 V |  582 Cp | 74.06% | Lvl 21] | Candy: 70
+[20:28:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:28:56] (POKESTOP) Hope Sculpture in 108.11 m distance
+[20:28:56] (NAVIGATION) Distance to target location: 108.11 meters. Will take 13.42 seconds driving at 29kmh
+[20:29:06] (INFO) Found 1 catchable Pokemon
+[20:29:07] (Wild Success) | Spearow 133 V |  329 Cp | 39.97% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
