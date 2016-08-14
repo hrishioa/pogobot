@@ -43115,3 +43115,25 @@
 [01:55:51] (INFO) Found 1 catchable Pokemon
 [01:55:52] (BERRY) ItemRazzBerry used, remaining: 46
 [01:55:53] (Wild Success) | Magnemite 146 V |  473 Cp | 39.40% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
+[01:55:55] (INFO) Found 1 pokemon to transfer...
+[01:55:56] (TRANSFER) Magnemite 146 V |  473 Cp | 39.40% | Lvl 22 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 185
+[01:55:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:55:59] (POKESTOP) Wine Art in 54.24 m distance
+[01:55:59] (NAVIGATION) Distance to target location: 54.24 meters. Will take 6.73 seconds driving at 29kmh
+[01:56:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[01:56:05] (POKESTOP) Adam & Eve in 74.22 m distance
+[01:56:05] (NAVIGATION) Distance to target location: 74.22 meters. Will take 8.62 seconds driving at 31kmh
+[01:56:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[01:56:13] (INFO) Found 2 Recyclable Items:
+[01:56:13] (RECYCLING) PokeBall x 11
+[01:56:14] (RECYCLING) SuperPotion x 1
+[01:56:16] (POKESTOP) Water Walls in 121.94 m distance
+[01:56:16] (NAVIGATION) Distance to target location: 121.94 meters. Will take 14.63 seconds driving at 30kmh
+[01:56:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemUltraBall
+[01:56:30] (POKESTOP) Pavillion at Sentosa in 72.58 m distance
+[01:56:30] (NAVIGATION) Distance to target location: 72.58 meters. Will take 8.43 seconds driving at 31kmh
+[01:56:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:56:39] (POKESTOP) Sentosa in 80.26 m distance
+[01:56:39] (NAVIGATION) Distance to target location: 80.26 meters. Will take 9.03 seconds driving at 32kmh
+[01:56:43] (INFO) Found 1 catchable Pokemon
+[01:56:44] (Wild Success) | Tentacool 101 V |   36 Cp | 57.81% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
