@@ -30393,3 +30393,8 @@
 [13:33:18] (TRANSFER) Pidgey 104 V |  222 Cp | 32.41% | Lvl 14 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1198
 [13:33:19] (INFO) Found 3 catchable Pokemon
 [13:33:21] (Wild Success) | Zubat 149 V |  162 Cp | 58.45% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[13:33:22] (BERRY) ItemRazzBerry used, remaining: 47
+[13:33:23] (Wild Escape) | Clefairy 158 V |  704 Cp | 47.95% | Lvl 23 | Chance: 0.18 | with a GreatBall 
+[13:33:23] (BERRY) ItemRazzBerry used, remaining: 46
+[13:33:24] (Wild Success Attempt #2) | Clefairy 158 V |  704 Cp | 47.95% | Lvl 23 | Chance: 0.18 | with a GreatBall 
+[13:33:25] (Wild Success) | Rattata 102 V |   35 Cp | 37.60% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
