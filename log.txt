@@ -43393,3 +43393,16 @@
 [02:02:49] (Wild Success) | Poliwag 124 V |  396 Cp | 32.16% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
 [02:02:50] (Wild Success) | Seel 151 V |  393 Cp | 47.42% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [02:02:52] (Wild Success) | Rattata 127 V |  323 Cp | 34.53% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[02:02:53] (INFO) Found 3 pokemon to transfer...
+[02:02:55] (TRANSFER) Rattata 127 V |  323 Cp | 34.53% | Lvl 24 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 404
+[02:02:57] (TRANSFER) Seel 145 V |  375 Cp | 59.62% | Lvl 13 | Best: [Seel 151 V |  393 Cp | 47.42% | Lvl 14] | Candy: 38
+[02:03:00] (TRANSFER) Poliwag 124 V |  396 Cp | 32.16% | Lvl 21 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 172
+[02:03:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:03:03] (POKESTOP) One Ocean One Love in 32.55 m distance
+[02:03:03] (NAVIGATION) Distance to target location: 32.55 meters. Will take 3.78 seconds driving at 31kmh
+[02:03:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[02:03:07] (POKESTOP) Singapore. Park insects in 578.66 m distance
+[02:03:07] (NAVIGATION) Distance to target location: 578.66 meters. Will take 29.76 seconds driving at 70kmh
+[02:03:29] (INFO) Found 1 catchable Pokemon
+[02:03:29] (BERRY) ItemRazzBerry used, remaining: 48
+[02:03:31] (Wild Success) | Magnemite 148 V |  448 Cp | 53.41% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
