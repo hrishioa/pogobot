@@ -23164,3 +23164,5 @@
 [08:58:30] (NAVIGATION) Distance to target location: 63.87 meters. Will take 7.19 seconds driving at 32kmh
 [08:58:34] (INFO) Found 2 catchable Pokemon
 [08:58:35] (Wild Success) | Spearow 109 V |   27 Cp | 69.36% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[08:58:37] (BERRY) ItemRazzBerry used, remaining: 49
+[08:58:37] (Wild Success) | Staryu 184 V |  598 Cp | 71.51% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
