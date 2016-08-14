@@ -36899,3 +36899,36 @@
 [22:37:42] (INFO) Found 1 catchable Pokemon
 [22:37:43] (BERRY) ItemRazzBerry used, remaining: 39
 [22:37:44] (Wild Success) | Persian 205 V |  731 Cp | 56.63% | Lvl 17 | Chance: 0.14 | with a UltraBall and received XP 710
+[22:37:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:37:49] (INFO) Found 1 catchable Pokemon
+[22:37:50] (Wild Escape) | Caterpie 78 V |   72 Cp | 16.48% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[22:37:51] (Wild Escape Attempt #2) | Caterpie 78 V |   72 Cp | 16.48% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[22:37:52] (Wild Success Attempt #3) | Caterpie 78 V |   72 Cp | 16.48% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[22:37:53] (INFO) Found 1 pokemon to transfer...
+[22:37:55] (TRANSFER) Caterpie 78 V |   72 Cp | 16.48% | Lvl 08 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 153
+[22:37:56] (POKESTOP) Ranger Stn Wave Hse Mural in 35.58 m distance
+[22:37:56] (NAVIGATION) Distance to target location: 35.58 meters. Will take 4.42 seconds driving at 29kmh
+[22:37:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemPotion
+[22:38:00] (POKESTOP) Spa Botania in 521.93 m distance
+[22:38:00] (NAVIGATION) Distance to target location: 521.93 meters. Will take 26.84 seconds driving at 70kmh
+[22:38:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:38:28] (POKESTOP) The 4 Pines in 125.74 m distance
+[22:38:28] (NAVIGATION) Distance to target location: 125.74 meters. Will take 15.61 seconds driving at 29kmh
+[22:38:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:38:43] (POKESTOP) Ficus Point in 150.89 m distance
+[22:38:43] (NAVIGATION) Distance to target location: 150.89 meters. Will take 18.11 seconds driving at 30kmh
+[22:39:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:39:01] (INFO) Found 2 Recyclable Items:
+[22:39:01] (RECYCLING) PokeBall x 4
+[22:39:02] (RECYCLING) Potion x 1
+[22:39:04] (INFO) Found 16 Pokestops
+[22:39:05] (POKESTOP) Fountain by the Sea in 413.22 m distance
+[22:39:05] (NAVIGATION) Distance to target location: 413.22 meters. Will take 21.25 seconds driving at 70kmh
+[22:39:24] (INFO) Found 2 catchable Pokemon
+[22:39:26] (BERRY) ItemRazzBerry used, remaining: 40
+[22:39:26] (Wild Escape) | Onix 166 V |  479 Cp | 56.15% | Lvl 22 | Chance: 0.12 | with a GreatBall 
+[22:39:27] (BERRY) ItemRazzBerry used, remaining: 39
+[22:39:28] (Wild Escape Attempt #2) | Onix 166 V |  479 Cp | 56.15% | Lvl 22 | Chance: 0.12 | with a GreatBall 
+[22:39:28] (BERRY) ItemRazzBerry used, remaining: 38
+[22:39:29] (Wild Success Attempt #3) | Onix 166 V |  479 Cp | 56.15% | Lvl 22 | Chance: 0.12 | with a GreatBall 
+[22:39:30] (Wild Success) | Voltorb 172 V |  182 Cp | 84.92% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
