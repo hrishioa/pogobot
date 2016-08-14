@@ -30349,3 +30349,30 @@
 [13:31:12] (INFO) Found 1 catchable Pokemon
 [13:31:14] (BERRY) ItemRazzBerry used, remaining: 48
 [13:31:15] (Wild Success) | Eevee 199 V |  626 Cp | 85.62% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
+[13:31:16] (INFO) Found 1 pokemon to transfer...
+[13:31:18] (TRANSFER) Eevee 199 V |  626 Cp | 85.62% | Lvl 21 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 100
+[13:31:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[13:31:23] (POKESTOP) Chilling Area in 130.35 m distance
+[13:31:23] (NAVIGATION) Distance to target location: 130.35 meters. Will take 15.14 seconds driving at 31kmh
+[13:31:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemGreatBall
+[13:31:39] (POKESTOP) Jungle Walkpath in 57.59 m distance
+[13:31:39] (NAVIGATION) Distance to target location: 57.59 meters. Will take 7.4 seconds driving at 28kmh
+[13:31:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 4 x ItemPokeBall
+[13:31:46] (POKESTOP) Marsh Garden in 129.95 m distance
+[13:31:46] (NAVIGATION) Distance to target location: 129.95 meters. Will take 15.59 seconds driving at 30kmh
+[13:31:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall
+[13:32:01] (POKESTOP) Gantry Entrance in 90.55 m distance
+[13:32:01] (NAVIGATION) Distance to target location: 90.55 meters. Will take 11.64 seconds driving at 28kmh
+[13:32:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[13:32:11] (INFO) Found 3 Recyclable Items:
+[13:32:12] (RECYCLING) PokeBall x 10
+[13:32:13] (RECYCLING) SuperPotion x 1
+[13:32:15] (RECYCLING) Revive x 1
+[13:32:17] (POKESTOP) Sun Moon Mural in 91.29 m distance
+[13:32:17] (NAVIGATION) Distance to target location: 91.29 meters. Will take 10.27 seconds driving at 32kmh
+[13:32:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[13:32:27] (POKESTOP) West Coast Park Connector in 180.97 m distance
+[13:32:27] (NAVIGATION) Distance to target location: 180.97 meters. Will take 19.74 seconds driving at 33kmh
+[13:32:29] (INFO) Found 1 catchable Pokemon
+[13:32:30] (BERRY) ItemRazzBerry used, remaining: 49
+[13:32:31] (Wild Success) | Bulbasaur 145 V |  577 Cp | 17.19% | Lvl 23 | Chance: 0.12 | with a GreatBall and received XP 210
