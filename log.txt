@@ -36614,3 +36614,9 @@
 [22:29:37] (NAVIGATION) Distance to target location: 187.04 meters. Will take 19.8 seconds driving at 34kmh
 [22:29:45] (INFO) Found 1 catchable Pokemon
 [22:29:47] (Wild Success) | Shellder 122 V |  227 Cp | 52.32% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 710
+[22:29:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemHyperPotion, 1 x ItemUltraBall
+[22:29:58] (POKESTOP) Ice Cream  in 646.86 m distance
+[22:29:58] (NAVIGATION) Distance to target location: 646.86 meters. Will take 33.27 seconds driving at 70kmh
+[22:30:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:30:33] (INFO) Found 3 catchable Pokemon
+[22:30:35] (Wild Success) | Seel 126 V |  392 Cp | 46.75% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
