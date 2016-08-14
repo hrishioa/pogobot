@@ -35795,3 +35795,11 @@
 [21:59:15] (NAVIGATION) Distance to target location: 147.85 meters. Will take 18.35 seconds driving at 29kmh
 [21:59:31] (INFO) Found 1 catchable Pokemon
 [21:59:33] (Wild Success) | Psyduck 138 V |  100 Cp | 38.18% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[21:59:35] (INFO) Found 1 pokemon to transfer...
+[21:59:36] (TRANSFER) Psyduck 138 V |  100 Cp | 38.18% | Lvl 04 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 113
+[21:59:38] (POKESTOP) Blue Black Pillars in 100.37 m distance
+[21:59:38] (NAVIGATION) Distance to target location: 100.37 meters. Will take 12.04 seconds driving at 30kmh
+[21:59:49] (POKESTOP) The Kingdom City's Gate in 102.86 m distance
+[21:59:49] (NAVIGATION) Distance to target location: 102.86 meters. Will take 12.34 seconds driving at 30kmh
+[21:59:52] (INFO) Found 1 catchable Pokemon
+[21:59:54] (Wild Success) | Caterpie 85 V |   65 Cp | 24.04% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
