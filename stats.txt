@@ -1,41 +1,41 @@
 Stats:
-[22:24:35] Name: toonistic2
-[22:24:35] Team: Neutral
-[22:24:35] Level: 23 (LvLUp in 0h 0m | 20655/125000 XP)
-[22:24:35] Pokemon: 113
-[22:24:35] Stardust: 14688
-[22:24:35] ====== Items (352) ======
-[22:24:35] RazzBerry x 39
-[22:24:35] PokeBall x 42
-[22:24:35] GreatBall x 54
-[22:24:35] UltraBall x 18
-[22:24:35] Potion x 30
-[22:24:35] SuperPotion x 50
-[22:24:35] HyperPotion x 75
-[22:24:35] IncubatorBasicUnlimited x 1
-[22:24:35] IncubatorBasic x 5
-[22:24:35] Revive x 25
-[22:24:35] IncenseOrdinary x 8
-[22:24:35] LuckyEgg x 0
-[22:24:35] TroyDisk x 5
+[23:49:25] Name: toonistic2
+[23:49:25] Team: Neutral
+[23:49:25] Level: 23 (LvLUp in 0h 0m | 85635/125000 XP)
+[23:49:25] Pokemon: 142
+[23:49:25] Stardust: 39640
+[23:49:25] ====== Items (327) ======
+[23:49:25] RazzBerry x 46
+[23:49:25] PokeBall x 53
+[23:49:25] GreatBall x 22
+[23:49:25] UltraBall x 7
+[23:49:25] Potion x 31
+[23:49:25] SuperPotion x 50
+[23:49:25] HyperPotion x 75
+[23:49:25] IncubatorBasicUnlimited x 1
+[23:49:25] IncubatorBasic x 4
+[23:49:25] Revive x 25
+[23:49:25] IncenseOrdinary x 8
+[23:49:25] LuckyEgg x 0
+[23:49:25] TroyDisk x 5
 
-[23:36:41] Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
-[23:36:41] Tentacruel          248 True Value | 1339 Cp | 46.62% Perfect | Lvl 23 | Acid/SludgeWave
-[23:36:41] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
-[23:36:42] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
-[23:36:42] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
-[23:36:42] Kabutops            250 True Value | 1170 Cp | 75.85% Perfect | Lvl 20 | MudShot/AncientPower
-[23:36:42] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
-[23:36:42] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
-[23:36:42] Electrode           254 True Value | 1038 Cp | 77.66% Perfect | Lvl 23 | Spark/Discharge
-[23:36:42] Electrode           254 True Value | 1031 Cp | 73.67% Perfect | Lvl 23 | Spark/Thunderbolt
-[23:36:42] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
-[23:36:42] Ponyta              226 True Value |  925 Cp | 84.33% Perfect | Lvl 22 | Tackle/FlameCharge
-[23:36:42] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
-[23:36:42] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
-[23:36:42] Ponyta              205 True Value |  814 Cp | 43.89% Perfect | Lvl 21 | Tackle/FireBlast
-[23:36:42] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
-[23:36:42] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
-[23:36:42] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
-[23:36:42] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
-[23:36:42] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[23:49:25] Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
+[23:49:25] Tentacruel          248 True Value | 1339 Cp | 46.62% Perfect | Lvl 23 | Acid/SludgeWave
+[23:49:25] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
+[23:49:25] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
+[23:49:25] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
+[23:49:25] Kabutops            250 True Value | 1170 Cp | 75.85% Perfect | Lvl 20 | MudShot/AncientPower
+[23:49:25] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
+[23:49:25] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[23:49:25] Electrode           254 True Value | 1038 Cp | 77.66% Perfect | Lvl 23 | Spark/Discharge
+[23:49:25] Electrode           254 True Value | 1031 Cp | 73.67% Perfect | Lvl 23 | Spark/Thunderbolt
+[23:49:25] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
+[23:49:25] Ponyta              226 True Value |  925 Cp | 84.33% Perfect | Lvl 22 | Tackle/FlameCharge
+[23:49:25] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[23:49:25] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[23:49:25] Ponyta              205 True Value |  814 Cp | 43.89% Perfect | Lvl 21 | Tackle/FireBlast
+[23:49:25] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[23:49:25] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[23:49:25] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
+[23:49:25] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[23:49:25] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
