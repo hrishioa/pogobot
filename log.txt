@@ -39637,3 +39637,17 @@
 [00:14:03] (Wild Success) | Venonat 150 V |  386 Cp | 43.52% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [00:14:05] (Wild Success) | Voltorb 145 V |  172 Cp | 62.68% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [00:14:07] (Wild Success) | Spearow 99 V |  128 Cp | 35.91% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:14:09] (INFO) Found 3 pokemon to transfer...
+[00:14:10] (TRANSFER) Venonat 150 V |  386 Cp | 43.52% | Lvl 15 | Best: [Venonat 222 V |  583 Cp | 96.62% | Lvl 20] | Candy: 91
+[00:14:12] (TRANSFER) Spearow 99 V |  128 Cp | 35.91% | Lvl 08 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 235
+[00:14:15] (TRANSFER) Voltorb 145 V |  172 Cp | 62.68% | Lvl 08 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 88
+[00:14:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:14:19] (ATTENTION) No locations in your area...
+[00:14:24] (INFO) Found 7 Pokestops
+[00:14:25] (POKESTOP) Fountain by the Sea in 84.11 m distance
+[00:14:25] (NAVIGATION) Distance to target location: 84.11 meters. Will take 10.81 seconds driving at 28kmh
+[00:14:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[00:14:35] (POKESTOP) Sentosa Golf Club in 102.03 m distance
+[00:14:35] (NAVIGATION) Distance to target location: 102.03 meters. Will take 11.48 seconds driving at 32kmh
+[00:14:44] (INFO) Found 1 catchable Pokemon
+[00:14:45] (Wild Success) | NidoranFemale 117 V |   98 Cp | 31.66% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
