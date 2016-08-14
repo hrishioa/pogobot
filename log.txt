@@ -43141,3 +43141,13 @@
 [01:56:48] (TRANSFER) Tentacool 101 V |   36 Cp | 57.81% | Lvl 02 | Best: [Tentacool 168 V |  561 Cp | 59.98% | Lvl 24] | Candy: 92
 [01:56:50] (INFO) Found 1 catchable Pokemon
 [01:56:51] (Wild Success) | Weedle 54 V |  109 Cp | 10.90% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:56:53] (INFO) Found 1 pokemon to transfer...
+[01:56:54] (TRANSFER) Weedle 54 V |  109 Cp | 10.90% | Lvl 12 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 292
+[01:56:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemUltraBall
+[01:56:58] (POKESTOP) |œ>\îr in 64.14 m distance
+[01:56:58] (NAVIGATION) Distance to target location: 64.14 meters. Will take 7.96 seconds driving at 29kmh
+[01:57:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[01:57:05] (POKESTOP) Merlion - Sentosa Island in 73.24 m distance
+[01:57:05] (NAVIGATION) Distance to target location: 73.24 meters. Will take 8.51 seconds driving at 31kmh
+[01:57:10] (INFO) Found 1 catchable Pokemon
+[01:57:12] (Wild Success) | Zubat 100 V |   71 Cp | 38.25% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
