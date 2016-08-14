@@ -37147,3 +37147,23 @@
 [22:45:23] (INFO) Found 2 catchable Pokemon
 [22:45:25] (Wild Success) | Bellsprout 174 V |  304 Cp | 79.12% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [22:45:27] (Wild Success) | Abra 147 V |  321 Cp | 37.53% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[22:45:28] (INFO) Found 1 pokemon to transfer...
+[22:45:30] (TRANSFER) Bellsprout 170 V |  232 Cp | 64.88% | Lvl 08 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 74
+[22:45:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:45:34] (INFO) Found 3 Recyclable Items:
+[22:45:34] (RECYCLING) PokeBall x 4
+[22:45:35] (RECYCLING) HyperPotion x 1
+[22:45:37] (RECYCLING) Revive x 1
+[22:45:39] (POKESTOP) Cap'n Wheel By The River in 57.95 m distance
+[22:45:39] (NAVIGATION) Distance to target location: 57.95 meters. Will take 6.52 seconds driving at 32kmh
+[22:45:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[22:45:45] (POKESTOP) Cannon Replica in 35.32 m distance
+[22:45:45] (NAVIGATION) Distance to target location: 35.32 meters. Will take 3.97 seconds driving at 32kmh
+[22:45:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:45:49] (POKESTOP) Ports of Lost Wonders Ship in 55.99 m distance
+[22:45:49] (NAVIGATION) Distance to target location: 55.99 meters. Will take 6.95 seconds driving at 29kmh
+[22:45:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:45:55] (POKESTOP) Old Pelican with a  New Twist in 89.71 m distance
+[22:45:55] (NAVIGATION) Distance to target location: 89.71 meters. Will take 10.42 seconds driving at 31kmh
+[22:45:59] (INFO) Found 1 catchable Pokemon
+[22:46:00] (Wild Success) | Paras 124 V |  240 Cp | 29.83% | Lvl 11 | Chance: 0.36 | with a UltraBall and received XP 210
