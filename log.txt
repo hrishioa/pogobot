@@ -34002,3 +34002,34 @@
 [20:55:14] (NAVIGATION) Distance to target location: 44.5 meters. Will take 5.52 seconds driving at 29kmh
 [20:55:16] (INFO) Found 1 catchable Pokemon
 [20:55:17] (Wild Success) | Goldeen 131 V |   94 Cp | 72.77% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[20:55:19] (INFO) Found 1 pokemon to transfer...
+[20:55:20] (TRANSFER) Goldeen 131 V |   94 Cp | 72.77% | Lvl 04 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 142
+[20:55:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:55:24] (POKESTOP) Runme Shaw CFA Studios in 82.85 m distance
+[20:55:24] (NAVIGATION) Distance to target location: 82.85 meters. Will take 10.29 seconds driving at 29kmh
+[20:55:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:55:33] (POKESTOP) Fire Painting  in 72.72 m distance
+[20:55:33] (NAVIGATION) Distance to target location: 72.72 meters. Will take 9.35 seconds driving at 28kmh
+[20:55:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:55:42] (POKESTOP) Locked in Tricked Out in 104.18 m distance
+[20:55:42] (NAVIGATION) Distance to target location: 104.18 meters. Will take 13.39 seconds driving at 28kmh
+[20:55:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:55:54] (POKESTOP) NUS Engineering in 60.54 m distance
+[20:55:54] (NAVIGATION) Distance to target location: 60.54 meters. Will take 6.81 seconds driving at 32kmh
+[20:55:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:56:02] (POKESTOP) Through this Jungle in 89.57 m distance
+[20:56:02] (NAVIGATION) Distance to target location: 89.57 meters. Will take 11.12 seconds driving at 29kmh
+[20:56:11] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:56:12] (POKESTOP) National Oxygen in 95.12 m distance
+[20:56:12] (NAVIGATION) Distance to target location: 95.12 meters. Will take 10.7 seconds driving at 32kmh
+[20:56:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:56:24] (POKESTOP) Wall Of Innovations And Enterprise in 117.58 m distance
+[20:56:24] (NAVIGATION) Distance to target location: 117.58 meters. Will take 13.23 seconds driving at 32kmh
+[20:56:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:56:37] (POKESTOP) Temasek Laboratories at NUS in 70.56 m distance
+[20:56:37] (NAVIGATION) Distance to target location: 70.56 meters. Will take 8.76 seconds driving at 29kmh
+[20:56:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:56:46] (POKESTOP) Fingerprint Like Wood Art in 126.23 m distance
+[20:56:46] (NAVIGATION) Distance to target location: 126.23 meters. Will take 14.66 seconds driving at 31kmh
+[20:56:49] (INFO) Found 1 catchable Pokemon
+[20:56:51] (Wild Success) | Paras 128 V |   62 Cp | 62.21% | Lvl 03 | Chance: 0.74 | with a PokeBall and received XP 210
