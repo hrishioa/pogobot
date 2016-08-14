@@ -43078,3 +43078,20 @@
 [01:54:45] (TRANSFER) Pidgey 67 V |   54 Cp | 11.92% | Lvl 04 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 724
 [01:54:47] (INFO) Found 1 catchable Pokemon
 [01:54:49] (Wild Success) | Pidgey 131 V |  344 Cp | 41.87% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[01:54:50] (INFO) Found 1 pokemon to transfer...
+[01:54:52] (TRANSFER) Pidgey 131 V |  344 Cp | 41.87% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 728
+[01:54:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[01:54:55] (POKESTOP) Happy Doggie Roundabout in 35 m distance
+[01:54:55] (NAVIGATION) Distance to target location: 35 meters. Will take 4.06 seconds driving at 31kmh
+[01:54:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPotion, 1 x ItemUltraBall
+[01:54:59] (POKESTOP) Convention Centre Sidewalk in 66.44 m distance
+[01:54:59] (NAVIGATION) Distance to target location: 66.44 meters. Will take 7.72 seconds driving at 31kmh
+[01:55:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:55:07] (INFO) Found 3 Recyclable Items:
+[01:55:07] (RECYCLING) PokeBall x 5
+[01:55:08] (RECYCLING) Potion x 3
+[01:55:09] (RECYCLING) Revive x 2
+[01:55:12] (POKESTOP) Casino in 110.11 m distance
+[01:55:12] (NAVIGATION) Distance to target location: 110.11 meters. Will take 12.39 seconds driving at 32kmh
+[01:55:17] (INFO) Found 2 catchable Pokemon
+[01:55:19] (Wild Success) | Magnemite 156 V |  354 Cp | 49.35% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
