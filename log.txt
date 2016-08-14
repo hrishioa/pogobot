@@ -32219,3 +32219,7 @@
 [14:40:50] (INFO) Found 1 catchable Pokemon
 [14:40:51] (BERRY) ItemRazzBerry used, remaining: 36
 [14:40:52] (Wild Success) | Zubat 165 V |  378 Cp | 62.07% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[14:40:54] (INFO) Found 1 pokemon to transfer...
+[14:40:55] (TRANSFER) Zubat 165 V |  378 Cp | 62.07% | Lvl 23 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 930
+[14:41:10] (INFO) Found 1 catchable Pokemon
+[14:41:12] (Wild Success) | Ekans 112 V |   52 Cp | 42.34% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
