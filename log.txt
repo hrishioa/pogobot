@@ -23871,3 +23871,19 @@
 [09:22:27] (INFO) Found 2 catchable Pokemon
 [09:22:29] (Wild Success) | Pidgey 100 V |   59 Cp | 39.16% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [09:22:30] (Wild Success) | Sandshrew 125 V |  140 Cp | 60.90% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[09:22:32] (INFO) Found 2 pokemon to transfer...
+[09:22:34] (TRANSFER) Sandshrew 125 V |  231 Cp | 37.84% | Lvl 12 | Best: [Sandshrew 149 V |  268 Cp | 62.28% | Lvl 13] | Candy: 72
+[09:22:36] (TRANSFER) Pidgey 100 V |   59 Cp | 39.16% | Lvl 04 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1102
+[09:22:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[09:22:39] (INFO) Found 3 Recyclable Items:
+[09:22:40] (RECYCLING) PokeBall x 3
+[09:22:41] (RECYCLING) SuperPotion x 2
+[09:22:42] (RECYCLING) Revive x 2
+[09:22:45] (POKESTOP) Huge Red Umbrella in 371.29 m distance
+[09:22:45] (NAVIGATION) Distance to target location: 371.29 meters. Will take 19.95 seconds driving at 67kmh
+[09:23:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[09:23:07] (POKESTOP) Clementi Stadium in 175.79 m distance
+[09:23:07] (NAVIGATION) Distance to target location: 175.79 meters. Will take 19.78 seconds driving at 32kmh
+[09:23:17] (INFO) Found 1 catchable Pokemon
+[09:23:18] (BERRY) ItemRazzBerry used, remaining: 46
+[09:23:19] (Wild Success) | Poliwhirl 161 V |  390 Cp | 62.06% | Lvl 11 | Chance: 0.22 | with a GreatBall and received XP 210
