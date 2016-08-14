@@ -42040,3 +42040,26 @@
 [01:23:23] (Wild Success Attempt #2) | Horsea 120 V |  251 Cp | 42.51% | Lvl 13 | Chance: 0.41 | with a GreatBall 
 [01:23:25] (BERRY) ItemRazzBerry used, remaining: 48
 [01:23:25] (Wild Success) | Krabby 176 V |  499 Cp | 68.90% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[01:23:27] (INFO) Found 3 pokemon to transfer...
+[01:23:28] (TRANSFER) Krabby 166 V |  322 Cp | 80.04% | Lvl 15 | Best: [Krabby 176 V |  499 Cp | 68.90% | Lvl 24] | Candy: 162
+[01:23:31] (TRANSFER) Voltorb 179 V |  439 Cp | 65.47% | Lvl 20 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 168
+[01:23:33] (TRANSFER) Horsea 120 V |  251 Cp | 42.51% | Lvl 13 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 68
+[01:23:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 2 x ItemUltraBall
+[01:23:36] (POKESTOP) Happy Colours in 39.1 m distance
+[01:23:36] (NAVIGATION) Distance to target location: 39.1 meters. Will take 4.69 seconds driving at 30kmh
+[01:23:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPotion
+[01:23:41] (POKESTOP) One Ocean One Love in 41.64 m distance
+[01:23:41] (NAVIGATION) Distance to target location: 41.64 meters. Will take 4.84 seconds driving at 31kmh
+[01:23:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
+[01:23:47] (INFO) Found 3 Recyclable Items:
+[01:23:47] (RECYCLING) PokeBall x 10
+[01:23:49] (RECYCLING) Potion x 1
+[01:23:49] (RECYCLING) Revive x 2
+[01:23:52] (POKESTOP) Metal Stix Art in 47.25 m distance
+[01:23:52] (NAVIGATION) Distance to target location: 47.25 meters. Will take 5.87 seconds driving at 29kmh
+[01:23:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[01:23:58] (POKESTOP) Crane Dance Laser Show in 76.43 m distance
+[01:23:58] (NAVIGATION) Distance to target location: 76.43 meters. Will take 8.88 seconds driving at 31kmh
+[01:24:04] (INFO) Found 2 catchable Pokemon
+[01:24:05] (BERRY) ItemRazzBerry used, remaining: 47
+[01:24:07] (Wild Success) | Clefairy 164 V |  681 Cp | 33.67% | Lvl 23 | Chance: 0.18 | with a GreatBall and received XP 210
