@@ -39138,3 +39138,19 @@
 [23:58:14] (TRANSFER) Voltorb 133 V |   10 Cp | 62.23% | Lvl 01 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 72
 [23:58:16] (INFO) Found 1 catchable Pokemon
 [23:58:17] (Wild Success) | Krabby 118 V |   93 Cp | 50.39% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[23:58:19] (INFO) Found 1 pokemon to transfer...
+[23:58:20] (TRANSFER) Krabby 118 V |   93 Cp | 50.39% | Lvl 05 | Best: [Krabby 166 V |  322 Cp | 80.04% | Lvl 15] | Candy: 138
+[23:58:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:58:24] (INFO) Found 4 Recyclable Items:
+[23:58:24] (RECYCLING) PokeBall x 2
+[23:58:25] (RECYCLING) Potion x 1
+[23:58:26] (RECYCLING) HyperPotion x 1
+[23:58:27] (RECYCLING) Revive x 1
+[23:58:29] (INFO) Found 4 Pokestops
+[23:58:30] (POKESTOP) Butterfly Primer in 143.62 m distance
+[23:58:30] (NAVIGATION) Distance to target location: 143.62 meters. Will take 17.83 seconds driving at 29kmh
+[23:58:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:58:47] (POKESTOP) The 4 Pines in 447.01 m distance
+[23:58:47] (NAVIGATION) Distance to target location: 447.01 meters. Will take 22.99 seconds driving at 70kmh
+[23:58:56] (INFO) Found 1 catchable Pokemon
+[23:58:57] (Wild Success) | Voltorb 146 V |  194 Cp | 62.14% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
