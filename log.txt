@@ -34999,3 +34999,9 @@
 [21:26:40] (INFO) Found 1 catchable Pokemon
 [21:26:41] (BERRY) ItemRazzBerry used, remaining: 46
 [21:26:41] (Wild Success) | Staryu 203 V |  650 Cp | 88.24% | Lvl 25 | Chance: 0.29 | with a UltraBall and received XP 420
+[21:26:44] (INFO) Found 1 pokemon to transfer...
+[21:26:45] (TRANSFER) Staryu 177 V |  412 Cp | 84.06% | Lvl 16 | Best: [Staryu 203 V |  650 Cp | 88.24% | Lvl 25] | Candy: 144
+[21:27:03] (POKESTOP) Temasek Laboratories at NUS in 181.64 m distance
+[21:27:03] (NAVIGATION) Distance to target location: 181.64 meters. Will take 19.82 seconds driving at 33kmh
+[21:27:06] (INFO) Found 1 catchable Pokemon
+[21:27:08] (Wild Success) | Ekans 164 V |  273 Cp | 57.27% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
