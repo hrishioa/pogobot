@@ -44100,3 +44100,5 @@
 [02:25:18] (INFO) Found 2 catchable Pokemon
 [02:25:20] (BERRY) ItemRazzBerry used, remaining: 51
 [02:25:21] (Wild Success) | Voltorb 180 V |  524 Cp | 63.27% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[02:25:23] (BERRY) ItemRazzBerry used, remaining: 50
+[02:25:23] (Wild Success) | Pidgey 116 V |  371 Cp | 23.72% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
