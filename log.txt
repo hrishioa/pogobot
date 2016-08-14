@@ -29643,3 +29643,4 @@
 [13:02:24] (INFO) Found 2 catchable Pokemon
 [13:02:25] (BERRY) ItemRazzBerry used, remaining: 45
 [13:02:26] (Wild Success) | Krabby 148 V |  388 Cp | 61.98% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[13:02:28] (Wild Success) | Poliwag 155 V |  285 Cp | 57.99% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
