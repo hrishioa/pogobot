@@ -28141,3 +28141,8 @@
 [12:03:55] (INFO) Found 2 catchable Pokemon
 [12:03:57] (Wild Success) | Caterpie 66 V |  121 Cp | 4.25% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [12:03:59] (Wild Success) | Venonat 140 V |  126 Cp | 60.28% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[12:04:00] (INFO) Found 2 pokemon to transfer...
+[12:04:02] (TRANSFER) Caterpie 66 V |  121 Cp | 4.25% | Lvl 14 | Best: [Caterpie 105 V |  190 Cp | 35.84% | Lvl 19] | Candy: 159
+[12:04:04] (TRANSFER) Venonat 140 V |  126 Cp | 60.28% | Lvl 05 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 154
+[12:04:06] (INFO) Found 1 catchable Pokemon
+[12:04:07] (Wild Success) | Pidgey 94 V |  236 Cp | 29.98% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
