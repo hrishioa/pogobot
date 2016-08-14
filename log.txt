@@ -22888,3 +22888,25 @@
 [08:49:05] (NAVIGATION) Distance to target location: 122.88 meters. Will take 13.82 seconds driving at 32kmh
 [08:49:13] (INFO) Found 1 catchable Pokemon
 [08:49:15] (Wild Success) | Pidgey 108 V |  292 Cp | 38.82% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[08:49:16] (INFO) Found 1 pokemon to transfer...
+[08:49:18] (TRANSFER) Pidgey 108 V |  292 Cp | 38.82% | Lvl 18 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1051
+[08:49:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:49:23] (POKESTOP) SDE Mural in 120.53 m distance
+[08:49:23] (NAVIGATION) Distance to target location: 120.53 meters. Will take 14.46 seconds driving at 30kmh
+[08:49:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:49:37] (INFO) Found 2 Recyclable Items:
+[08:49:37] (RECYCLING) PokeBall x 7
+[08:49:39] (RECYCLING) SuperPotion x 2
+[08:49:41] (POKESTOP) Center for English Language Communication in 97.45 m distance
+[08:49:41] (NAVIGATION) Distance to target location: 97.45 meters. Will take 11.69 seconds driving at 30kmh
+[08:49:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:49:52] (POKESTOP) NUS Central Library in 159.3 m distance
+[08:49:52] (NAVIGATION) Distance to target location: 159.3 meters. Will take 19.12 seconds driving at 30kmh
+[08:50:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[08:50:12] (POKESTOP) Survival Mask in 59.13 m distance
+[08:50:12] (NAVIGATION) Distance to target location: 59.13 meters. Will take 7.6 seconds driving at 28kmh
+[08:50:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[08:50:19] (POKESTOP) Lucy's Left Ear in 74.33 m distance
+[08:50:19] (NAVIGATION) Distance to target location: 74.33 meters. Will take 8.36 seconds driving at 32kmh
+[08:50:21] (INFO) Found 1 catchable Pokemon
+[08:50:22] (Wild Success) | Weedle 70 V |  117 Cp | 25.89% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
