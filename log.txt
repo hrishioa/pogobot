@@ -43233,3 +43233,4 @@
 [02:00:23] (Wild Success) | Voltorb 153 V |  148 Cp | 61.08% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [02:00:25] (BERRY) ItemRazzBerry used, remaining: 49
 [02:00:26] (Wild Success) | Voltorb 179 V |  417 Cp | 65.27% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[02:00:28] (Wild Success) | Voltorb 116 V |   53 Cp | 40.60% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
