@@ -38150,3 +38150,26 @@
 [23:21:02] (NAVIGATION) Distance to target location: 324.23 meters. Will take 19.78 seconds driving at 59kmh
 [23:21:08] (INFO) Found 1 catchable Pokemon
 [23:21:10] (Wild Success) | Staryu 134 V |   92 Cp | 74.72% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[23:21:12] (INFO) Found 1 pokemon to transfer...
+[23:21:14] (TRANSFER) Staryu 134 V |   92 Cp | 74.72% | Lvl 04 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 142
+[23:21:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:21:23] (POKESTOP) Malay Wall Lady in 98.24 m distance
+[23:21:23] (NAVIGATION) Distance to target location: 98.24 meters. Will take 11.05 seconds driving at 32kmh
+[23:21:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:21:33] (ATTENTION) No locations in your area...
+[23:21:39] (INFO) Found 4 Pokestops
+[23:21:40] (POKESTOP) Children Playground in 215.38 m distance
+[23:21:40] (NAVIGATION) Distance to target location: 215.38 meters. Will take 19.88 seconds driving at 39kmh
+[23:21:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:22:00] (INFO) Found 2 Recyclable Items:
+[23:22:00] (RECYCLING) PokeBall x 3
+[23:22:01] (RECYCLING) Revive x 1
+[23:22:04] (POKESTOP) Giant Bowl Water Fountain  in 74.36 m distance
+[23:22:04] (NAVIGATION) Distance to target location: 74.36 meters. Will take 8.37 seconds driving at 32kmh
+[23:22:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:22:12] (INFO) Found 2 catchable Pokemon
+[23:22:14] (BERRY) ItemRazzBerry used, remaining: 45
+[23:22:14] (Wild Escape) | Drowzee 171 V |  597 Cp | 46.44% | Lvl 22 | Chance: 0.31 | with a GreatBall 
+[23:22:15] (BERRY) ItemRazzBerry used, remaining: 44
+[23:22:16] (Wild Success Attempt #2) | Drowzee 171 V |  597 Cp | 46.44% | Lvl 22 | Chance: 0.31 | with a GreatBall 
+[23:22:18] (Wild Success) | Pikachu 137 V |   35 Cp | 58.14% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
