@@ -35594,3 +35594,17 @@
 [21:51:09] (TRANSFER) Rattata 120 V |  193 Cp | 41.48% | Lvl 14 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 769
 [21:51:10] (INFO) Found 1 catchable Pokemon
 [21:51:12] (Wild Success) | Spearow 115 V |  256 Cp | 52.41% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[21:51:14] (INFO) Found 1 pokemon to transfer...
+[21:51:15] (TRANSFER) Spearow 115 V |  256 Cp | 52.41% | Lvl 15 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 373
+[21:51:15] (POKESTOP) Happy Doctor Nurse and Patient in 339.04 m distance
+[21:51:15] (NAVIGATION) Distance to target location: 339.04 meters. Will take 19.69 seconds driving at 62kmh
+[21:51:37] (POKESTOP) Butterfly Mural in 91.28 m distance
+[21:51:37] (NAVIGATION) Distance to target location: 91.28 meters. Will take 10.6 seconds driving at 31kmh
+[21:51:47] (POKESTOP) Tree Mural in 43.68 m distance
+[21:51:47] (NAVIGATION) Distance to target location: 43.68 meters. Will take 5.07 seconds driving at 31kmh
+[21:51:51] (POKESTOP) Writings on the Wall in 606.02 m distance
+[21:51:51] (NAVIGATION) Distance to target location: 606.02 meters. Will take 31.17 seconds driving at 70kmh
+[21:52:24] (POKESTOP) Fingerprint Like Wood Art in 134.12 m distance
+[21:52:24] (NAVIGATION) Distance to target location: 134.12 meters. Will take 15.09 seconds driving at 32kmh
+[21:52:26] (INFO) Found 1 catchable Pokemon
+[21:52:29] (Wild Success) | Weedle 82 V |   84 Cp | 19.34% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
