@@ -35030,3 +35030,17 @@
 [21:28:13] (NAVIGATION) Distance to target location: 83.61 meters. Will take 10.75 seconds driving at 28kmh
 [21:28:15] (INFO) Found 1 catchable Pokemon
 [21:28:16] (Wild Success) | Rattata 129 V |  250 Cp | 43.88% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
+[21:28:18] (INFO) Found 1 pokemon to transfer...
+[21:28:20] (TRANSFER) Rattata 129 V |  250 Cp | 43.88% | Lvl 18 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 765
+[21:28:24] (POKESTOP) Bronze Sculpture "Contentment" in 61.2 m distance
+[21:28:24] (NAVIGATION) Distance to target location: 61.2 meters. Will take 7.11 seconds driving at 31kmh
+[21:28:30] (POKESTOP) Frustration of a Loner on a Rock in 89.86 m distance
+[21:28:31] (NAVIGATION) Distance to target location: 89.86 meters. Will take 11.16 seconds driving at 29kmh
+[21:28:41] (POKESTOP) Inverted Torsos in 61.59 m distance
+[21:28:41] (NAVIGATION) Distance to target location: 61.59 meters. Will take 6.93 seconds driving at 32kmh
+[21:28:48] (POKESTOP) Earth Mural in 57.62 m distance
+[21:28:48] (NAVIGATION) Distance to target location: 57.62 meters. Will take 6.48 seconds driving at 32kmh
+[21:28:54] (POKESTOP) Together Again in 76.54 m distance
+[21:28:54] (NAVIGATION) Distance to target location: 76.54 meters. Will take 9.18 seconds driving at 30kmh
+[21:29:02] (INFO) Found 1 catchable Pokemon
+[21:29:04] (Wild Success) | Weedle 95 V |  179 Cp | 45.20% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 420
