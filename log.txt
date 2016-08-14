@@ -34835,3 +34835,8 @@
 [21:22:03] (Wild Escape) | Weedle 52 V |   91 Cp | 11.22% | Lvl 10 | Chance: 0.47 | with a PokeBall 
 [21:22:04] (Wild Success Attempt #2) | Weedle 52 V |   91 Cp | 11.22% | Lvl 10 | Chance: 0.47 | with a PokeBall 
 [21:22:07] (Wild Success) | Pidgey 118 V |  317 Cp | 31.41% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
+[21:22:08] (INFO) Found 2 pokemon to transfer...
+[21:22:10] (TRANSFER) Weedle 52 V |   91 Cp | 11.22% | Lvl 10 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 587
+[21:22:12] (TRANSFER) Pidgey 118 V |  317 Cp | 31.41% | Lvl 20 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1346
+[21:22:14] (INFO) Found 1 catchable Pokemon
+[21:22:15] (Wild Success) | Zubat 110 V |  158 Cp | 49.39% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 420
