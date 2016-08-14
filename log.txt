@@ -23079,3 +23079,30 @@
 [08:54:36] (RECYCLING) Revive x 1
 [08:54:37] (INFO) Found 1 catchable Pokemon
 [08:54:40] (Wild Success) | Zubat 139 V |  115 Cp | 71.86% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[08:54:41] (INFO) Found 1 pokemon to transfer...
+[08:54:43] (TRANSFER) Zubat 139 V |  115 Cp | 71.86% | Lvl 07 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 758
+[08:54:43] (POKESTOP) Bronze Sculpture "Contentment" in 68.56 m distance
+[08:54:43] (NAVIGATION) Distance to target location: 68.56 meters. Will take 8.82 seconds driving at 28kmh
+[08:54:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:54:52] (POKESTOP) University Cultural Centre in 92.02 m distance
+[08:54:52] (NAVIGATION) Distance to target location: 92.02 meters. Will take 11.42 seconds driving at 29kmh
+[08:55:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[08:55:03] (POKESTOP) Fingerprint Like Wood Art in 90.89 m distance
+[08:55:03] (NAVIGATION) Distance to target location: 90.89 meters. Will take 11.69 seconds driving at 28kmh
+[08:55:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[08:55:16] (POKESTOP) Temasek Laboratories at NUS in 120.65 m distance
+[08:55:16] (NAVIGATION) Distance to target location: 120.65 meters. Will take 14.98 seconds driving at 29kmh
+[08:55:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:55:31] (POKESTOP) Wall Of Innovations And Enterprise in 85.07 m distance
+[08:55:31] (NAVIGATION) Distance to target location: 85.07 meters. Will take 10.21 seconds driving at 30kmh
+[08:55:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:55:40] (INFO) Found 2 Recyclable Items:
+[08:55:41] (RECYCLING) PokeBall x 6
+[08:55:41] (RECYCLING) SuperPotion x 1
+[08:55:45] (POKESTOP) Raffles Hall Art Piece (1984/85) in 191.25 m distance
+[08:55:45] (NAVIGATION) Distance to target location: 191.25 meters. Will take 19.67 seconds driving at 35kmh
+[08:56:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:56:05] (POKESTOP) CRISP & TMSI in 280.02 m distance
+[08:56:05] (NAVIGATION) Distance to target location: 280.02 meters. Will take 19.77 seconds driving at 51kmh
+[08:56:17] (INFO) Found 1 catchable Pokemon
+[08:56:19] (Wild Success) | Spearow 142 V |  322 Cp | 49.92% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
