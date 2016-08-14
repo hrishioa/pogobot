@@ -42868,3 +42868,13 @@
 [01:50:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
 [01:50:12] (BERRY) ItemRazzBerry used, remaining: 49
 [01:50:12] (Lure Success) | Goldeen 176 V |  531 Cp | 64.06% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[01:50:13] (INFO) Found 1 catchable Pokemon
+[01:50:14] (Wild Escape) | Horsea 126 V |  267 Cp | 38.79% | Lvl 14 | Chance: 0.4 | with a GreatBall 
+[01:50:15] (Wild Success Attempt #2) | Horsea 126 V |  267 Cp | 38.79% | Lvl 14 | Chance: 0.4 | with a GreatBall 
+[01:50:17] (INFO) Found 2 pokemon to transfer...
+[01:50:19] (TRANSFER) Goldeen 176 V |  531 Cp | 64.06% | Lvl 21 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 241
+[01:50:21] (TRANSFER) Horsea 126 V |  267 Cp | 38.79% | Lvl 14 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 76
+[01:50:21] (POKESTOP) Pillbox WITH LURE in 52.29 m distance
+[01:50:21] (NAVIGATION) Distance to target location: 52.29 meters. Will take 6.72 seconds driving at 28kmh
+[01:50:24] (INFO) Found 2 catchable Pokemon
+[01:50:24] (Wild Success) | Voltorb 144 V |  354 Cp | 46.67% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
