@@ -34780,3 +34780,10 @@
 [21:18:59] (INFO) Found 1 catchable Pokemon
 [21:19:00] (BERRY) ItemRazzBerry used, remaining: 47
 [21:19:01] (Wild Success) | Paras 171 V |  446 Cp | 56.49% | Lvl 19 | Chance: 0.27 | with a UltraBall and received XP 420
+[21:19:03] (INFO) Found 1 pokemon to transfer...
+[21:19:04] (TRANSFER) Paras 171 V |  446 Cp | 56.49% | Lvl 19 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 146
+[21:19:08] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[21:19:11] (POKESTOP) KE7 Hall in 476.94 m distance
+[21:19:11] (NAVIGATION) Distance to target location: 476.94 meters. Will take 24.53 seconds driving at 70kmh
+[21:19:33] (INFO) Found 1 catchable Pokemon
+[21:19:34] (Wild Success) | Psyduck 113 V |  372 Cp | 24.45% | Lvl 14 | Chance: 0.4 | with a PokeBall and received XP 420
