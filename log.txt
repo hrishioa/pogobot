@@ -38492,3 +38492,9 @@
 [23:34:29] (RECYCLING) Revive x 1
 [23:34:31] (INFO) Found 1 catchable Pokemon
 [23:34:33] (Wild Success) | Poliwag 110 V |   10 Cp | 46.92% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:34:34] (INFO) Found 1 pokemon to transfer...
+[23:34:36] (TRANSFER) Poliwag 110 V |   10 Cp | 46.92% | Lvl 01 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 128
+[23:34:37] (POKESTOP) Cardboard Couch in 549.62 m distance
+[23:34:37] (NAVIGATION) Distance to target location: 549.62 meters. Will take 28.27 seconds driving at 70kmh
+[23:34:45] (INFO) Found 1 catchable Pokemon
+[23:34:47] (Wild Success) | Staryu 126 V |  140 Cp | 62.30% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
