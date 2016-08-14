@@ -39719,3 +39719,17 @@
 [00:17:32] (NAVIGATION) Distance to target location: 107.67 meters. Will take 12.92 seconds driving at 30kmh
 [00:17:35] (INFO) Found 1 catchable Pokemon
 [00:17:37] (Wild Success) | Poliwag 91 V |  126 Cp | 26.41% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[00:17:38] (INFO) Found 1 pokemon to transfer...
+[00:17:40] (TRANSFER) Poliwag 91 V |  126 Cp | 26.41% | Lvl 07 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 156
+[00:17:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:17:46] (POKESTOP) Cannon Replica in 50.4 m distance
+[00:17:46] (NAVIGATION) Distance to target location: 50.4 meters. Will take 6.26 seconds driving at 29kmh
+[00:17:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:17:50] (INFO) Found 2 Recyclable Items:
+[00:17:52] (RECYCLING) PokeBall x 5
+[00:17:52] (RECYCLING) Potion x 1
+[00:17:55] (POKESTOP) Ports of Lost Wonders Ship in 42.75 m distance
+[00:17:55] (NAVIGATION) Distance to target location: 42.75 meters. Will take 5.31 seconds driving at 29kmh
+[00:17:57] (INFO) Found 1 catchable Pokemon
+[00:17:58] (BERRY) ItemRazzBerry used, remaining: 49
+[00:17:59] (Wild Success) | Staryu 171 V |  540 Cp | 65.25% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
