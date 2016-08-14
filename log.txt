@@ -23822,3 +23822,29 @@
 [09:20:08] (INFO) Found 1 catchable Pokemon
 [09:20:09] (BERRY) ItemRazzBerry used, remaining: 47
 [09:20:10] (Wild Success) | Pidgey 117 V |  359 Cp | 40.54% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[09:20:11] (INFO) Found 1 pokemon to transfer...
+[09:20:13] (TRANSFER) Pidgey 117 V |  359 Cp | 40.54% | Lvl 22 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1098
+[09:20:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 3 x ItemGreatBall
+[09:20:17] (POKESTOP) Block 701 Mini Playground in 61.77 m distance
+[09:20:17] (NAVIGATION) Distance to target location: 61.77 meters. Will take 7.41 seconds driving at 30kmh
+[09:20:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[09:20:24] (POKESTOP) West Coast Public Stage in 156.15 m distance
+[09:20:24] (NAVIGATION) Distance to target location: 156.15 meters. Will take 18.74 seconds driving at 30kmh
+[09:20:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[09:20:43] (POKESTOP) Pasir Panjang Garden in 77.52 m distance
+[09:20:43] (NAVIGATION) Distance to target location: 77.52 meters. Will take 9.3 seconds driving at 30kmh
+[09:20:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:20:51] (POKESTOP) Metallic Windmill in 85.79 m distance
+[09:20:51] (NAVIGATION) Distance to target location: 85.79 meters. Will take 10.29 seconds driving at 30kmh
+[09:21:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:21:01] (INFO) Found 3 Recyclable Items:
+[09:21:02] (RECYCLING) PokeBall x 2
+[09:21:03] (RECYCLING) SuperPotion x 1
+[09:21:05] (RECYCLING) Revive x 2
+[09:21:07] (POKESTOP) Hidden Buddha Statue  in 86.23 m distance
+[09:21:07] (NAVIGATION) Distance to target location: 86.23 meters. Will take 11.09 seconds driving at 28kmh
+[09:21:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[09:21:18] (POKESTOP) Pasir Panjang Gardens in 91.62 m distance
+[09:21:18] (NAVIGATION) Distance to target location: 91.62 meters. Will take 11.78 seconds driving at 28kmh
+[09:21:26] (INFO) Found 1 catchable Pokemon
+[09:21:27] (Wild Success) | Weedle 102 V |  121 Cp | 35.49% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
