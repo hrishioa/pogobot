@@ -44845,3 +44845,13 @@
 [02:48:23] (INFO) Found 1 catchable Pokemon
 [02:48:24] (BERRY) ItemRazzBerry used, remaining: 46
 [02:48:25] (Wild Success) | Goldeen 205 V |  618 Cp | 71.35% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[02:48:27] (INFO) Found 1 pokemon to transfer...
+[02:48:29] (TRANSFER) Goldeen 187 V |  569 Cp | 73.33% | Lvl 22 | Best: [Goldeen 205 V |  618 Cp | 71.35% | Lvl 24] | Candy: 264
+[02:48:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:48:33] (POKESTOP) Entrance to Labrador Nature Reserve Signboard  in 71.67 m distance
+[02:48:33] (NAVIGATION) Distance to target location: 71.67 meters. Will take 9.21 seconds driving at 28kmh
+[02:48:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[02:48:42] (POKESTOP) Tree Plaque For national Park  in 127.22 m distance
+[02:48:42] (NAVIGATION) Distance to target location: 127.22 meters. Will take 15.79 seconds driving at 29kmh
+[02:48:49] (INFO) Found 1 catchable Pokemon
+[02:48:51] (Wild Success) | Ekans 119 V |  206 Cp | 17.89% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
