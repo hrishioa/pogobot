@@ -37501,3 +37501,7 @@
 [22:56:49] (INFO) Found 2 catchable Pokemon
 [22:56:51] (Wild Success) | Slowpoke 94 V |   46 Cp | 33.91% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [22:56:53] (Wild Success) | Vulpix 106 V |  182 Cp | 42.87% | Lvl 09 | Chance: 0.3 | with a GreatBall and received XP 210
+[22:56:54] (INFO) Found 1 pokemon to transfer...
+[22:56:56] (TRANSFER) Slowpoke 94 V |   46 Cp | 33.91% | Lvl 02 | Best: [Slowpoke 164 V |  485 Cp | 66.23% | Lvl 15] | Candy: 42
+[22:56:58] (INFO) Found 2 catchable Pokemon
+[22:56:59] (Wild Success) | Meowth 129 V |   50 Cp | 59.05% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
