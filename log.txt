@@ -33996,3 +33996,9 @@
 [20:55:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
 [20:55:08] (INFO) Found 1 catchable Pokemon
 [20:55:10] (Wild Success) | Pidgey 80 V |  226 Cp | 17.18% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[20:55:12] (INFO) Found 1 pokemon to transfer...
+[20:55:13] (TRANSFER) Pidgey 80 V |  226 Cp | 17.18% | Lvl 15 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 637
+[20:55:14] (POKESTOP) NUSSU Sign in 44.5 m distance
+[20:55:14] (NAVIGATION) Distance to target location: 44.5 meters. Will take 5.52 seconds driving at 29kmh
+[20:55:16] (INFO) Found 1 catchable Pokemon
+[20:55:17] (Wild Success) | Goldeen 131 V |   94 Cp | 72.77% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
