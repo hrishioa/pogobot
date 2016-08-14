@@ -30679,3 +30679,19 @@
 [13:42:20] (INFO) Found 1 catchable Pokemon
 [13:42:20] (BERRY) ItemRazzBerry used, remaining: 52
 [13:42:21] (Wild Success) | Eevee 217 V |  604 Cp | 91.55% | Lvl 20 | Chance: 0.26 | with a GreatBall and received XP 210
+[13:42:23] (INFO) Found 1 pokemon to transfer...
+[13:42:25] (TRANSFER) Eevee 199 V |  620 Cp | 81.57% | Lvl 21 | Best: [Eevee 217 V |  604 Cp | 91.55% | Lvl 20] | Candy: 104
+[13:42:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[13:42:29] (INFO) Found 4 Recyclable Items:
+[13:42:30] (RECYCLING) RazzBerry x 2
+[13:42:30] (RECYCLING) PokeBall x 12
+[13:42:31] (RECYCLING) SuperPotion x 1
+[13:42:33] (RECYCLING) Revive x 1
+[13:42:35] (POKESTOP) Happy Sunshine Mural in 140.45 m distance
+[13:42:35] (NAVIGATION) Distance to target location: 140.45 meters. Will take 18.06 seconds driving at 28kmh
+[13:42:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:42:53] (POKESTOP) West Coast Market in 82.1 m distance
+[13:42:53] (NAVIGATION) Distance to target location: 82.1 meters. Will take 10.19 seconds driving at 29kmh
+[13:42:55] (INFO) Found 1 catchable Pokemon
+[13:42:56] (BERRY) ItemRazzBerry used, remaining: 50
+[13:42:57] (Wild Success) | Pidgey 122 V |  369 Cp | 35.20% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
