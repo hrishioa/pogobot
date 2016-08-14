@@ -41174,3 +41174,17 @@
 [00:59:14] (NAVIGATION) Distance to target location: 75.3 meters. Will take 9.35 seconds driving at 29kmh
 [00:59:20] (INFO) Found 1 catchable Pokemon
 [00:59:22] (Wild Success) | Weedle 68 V |   77 Cp | 28.00% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:59:24] (INFO) Found 1 pokemon to transfer...
+[00:59:25] (TRANSFER) Weedle 68 V |   77 Cp | 28.00% | Lvl 08 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 252
+[00:59:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[00:59:28] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 68.95 m distance
+[00:59:28] (NAVIGATION) Distance to target location: 68.95 meters. Will take 8.01 seconds driving at 31kmh
+[00:59:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[00:59:36] (POKESTOP) Castle and the Knight in 33.62 m distance
+[00:59:36] (NAVIGATION) Distance to target location: 33.62 meters. Will take 4.17 seconds driving at 29kmh
+[00:59:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:59:40] (POKESTOP) Rainbow Sticks Sculpture in 295.06 m distance
+[00:59:40] (NAVIGATION) Distance to target location: 295.06 meters. Will take 19.67 seconds driving at 54kmh
+[00:59:55] (INFO) Found 1 catchable Pokemon
+[00:59:56] (BERRY) ItemRazzBerry used, remaining: 48
+[00:59:57] (Wild Success) | Magnemite 152 V |  517 Cp | 39.82% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
