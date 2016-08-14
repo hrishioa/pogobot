@@ -22299,3 +22299,4 @@
 [08:29:52] (INFO) Found 2 catchable Pokemon
 [08:29:53] (BERRY) ItemRazzBerry used, remaining: 47
 [08:29:54] (Wild Success) | Goldeen 180 V |  503 Cp | 83.05% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[08:29:56] (Wild Success) | Zubat 117 V |   74 Cp | 50.15% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
