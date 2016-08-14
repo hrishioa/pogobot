@@ -35803,3 +35803,9 @@
 [21:59:49] (NAVIGATION) Distance to target location: 102.86 meters. Will take 12.34 seconds driving at 30kmh
 [21:59:52] (INFO) Found 1 catchable Pokemon
 [21:59:54] (Wild Success) | Caterpie 85 V |   65 Cp | 24.04% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:59:55] (INFO) Found 1 pokemon to transfer...
+[21:59:57] (TRANSFER) Caterpie 85 V |   65 Cp | 24.04% | Lvl 07 | Best: [Caterpie 120 V |  201 Cp | 50.39% | Lvl 19] | Candy: 211
+[22:00:01] (POKESTOP) West Coast Plaza Triple Fountain in 310.58 m distance
+[22:00:01] (NAVIGATION) Distance to target location: 310.58 meters. Will take 19.97 seconds driving at 56kmh
+[22:00:13] (INFO) Found 2 catchable Pokemon
+[22:00:14] (Wild Success) | Weedle 56 V |  101 Cp | 14.09% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
