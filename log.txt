@@ -43721,3 +43721,10 @@
 [02:12:54] (TRANSFER) Dodrio 165 V |  431 Cp | 52.04% | Lvl 09 | Best: [Dodrio 235 V | 1149 Cp | 60.00% | Lvl 24] | Candy: 25
 [02:12:56] (INFO) Found 1 catchable Pokemon
 [02:12:57] (Wild Success) | Poliwag 134 V |  318 Cp | 50.34% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[02:12:59] (INFO) Found 1 pokemon to transfer...
+[02:13:00] (TRANSFER) Poliwag 134 V |  318 Cp | 50.34% | Lvl 16 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 180
+[02:13:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[02:13:03] (POKESTOP) Siloso Beach in 164.46 m distance
+[02:13:03] (NAVIGATION) Distance to target location: 164.46 meters. Will take 19.1 seconds driving at 31kmh
+[02:13:16] (INFO) Found 3 catchable Pokemon
+[02:13:18] (Wild Success) | Krabby 137 V |   78 Cp | 77.16% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
