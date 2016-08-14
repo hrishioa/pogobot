@@ -44408,3 +44408,4 @@
 [02:34:07] (Wild Success) | Voltorb 194 V |  356 Cp | 95.56% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
 [02:34:08] (BERRY) ItemRazzBerry used, remaining: 48
 [02:34:09] (Wild Success) | Voltorb 173 V |  452 Cp | 58.31% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[02:34:10] (Wild Success) | Rattata 117 V |  110 Cp | 45.80% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
