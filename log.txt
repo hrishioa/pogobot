@@ -38211,3 +38211,15 @@
 [23:25:19] (INFO) Found 1 catchable Pokemon
 [23:25:20] (BERRY) ItemRazzBerry used, remaining: 44
 [23:25:21] (Wild Success) | Shellder 125 V |  373 Cp | 35.67% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[23:25:23] (INFO) Found 1 pokemon to transfer...
+[23:25:25] (TRANSFER) Shellder 125 V |  373 Cp | 35.67% | Lvl 19 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 30
+[23:25:25] (POKESTOP) Armillary Sphere Sundial in 65.43 m distance
+[23:25:25] (NAVIGATION) Distance to target location: 65.43 meters. Will take 8.12 seconds driving at 29kmh
+[23:25:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:25:33] (POKESTOP) Porcelain Egg Statue in 67.59 m distance
+[23:25:33] (NAVIGATION) Distance to target location: 67.59 meters. Will take 8.39 seconds driving at 29kmh
+[23:25:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:25:40] (POKESTOP) Cardboard Couch in 146.4 m distance
+[23:25:40] (NAVIGATION) Distance to target location: 146.4 meters. Will take 17 seconds driving at 31kmh
+[23:25:49] (INFO) Found 1 catchable Pokemon
+[23:25:50] (Wild Success) | Zubat 108 V |  102 Cp | 32.76% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
