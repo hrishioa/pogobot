@@ -36534,3 +36534,7 @@
 [22:25:58] (INFO) Found 1 catchable Pokemon
 [22:25:59] (BERRY) ItemRazzBerry used, remaining: 38
 [22:26:00] (Wild Success) | Raticate 158 V |  442 Cp | 44.04% | Lvl 12 | Chance: 0.17 | with a GreatBall and received XP 210
+[22:26:01] (INFO) Found 1 pokemon to transfer...
+[22:26:03] (TRANSFER) Raticate 158 V |  442 Cp | 44.04% | Lvl 12 | Best: [Raticate 242 V |  764 Cp | 61.33% | Lvl 20] | Candy: 292
+[22:26:04] (INFO) Found 1 catchable Pokemon
+[22:26:05] (Wild Success) | NidoranMale 112 V |  100 Cp | 52.77% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
