@@ -35024,3 +35024,9 @@
 [21:27:52] (NAVIGATION) Distance to target location: 121.61 meters. Will take 15.64 seconds driving at 28kmh
 [21:28:08] (INFO) Found 1 catchable Pokemon
 [21:28:09] (Wild Success) | Pidgey 95 V |  205 Cp | 29.63% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
+[21:28:11] (INFO) Found 1 pokemon to transfer...
+[21:28:13] (TRANSFER) Pidgey 95 V |  205 Cp | 29.63% | Lvl 13 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1362
+[21:28:13] (POKESTOP) University Cultural Center in 83.61 m distance
+[21:28:13] (NAVIGATION) Distance to target location: 83.61 meters. Will take 10.75 seconds driving at 28kmh
+[21:28:15] (INFO) Found 1 catchable Pokemon
+[21:28:16] (Wild Success) | Rattata 129 V |  250 Cp | 43.88% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
