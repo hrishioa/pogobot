@@ -36523,3 +36523,14 @@
 [22:25:10] (NAVIGATION) Distance to target location: 133.24 meters. Will take 16.54 seconds driving at 29kmh
 [22:25:18] (INFO) Found 1 catchable Pokemon
 [22:25:20] (Wild Success) | Bellsprout 134 V |  158 Cp | 35.82% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[22:25:21] (INFO) Found 1 pokemon to transfer...
+[22:25:23] (TRANSFER) Bellsprout 134 V |  158 Cp | 35.82% | Lvl 06 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 70
+[22:25:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:25:27] (POKESTOP) Spa Botania in 119 m distance
+[22:25:27] (NAVIGATION) Distance to target location: 119 meters. Will take 14.77 seconds driving at 29kmh
+[22:25:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:25:42] (POKESTOP) Fountain by the Sea in 453.33 m distance
+[22:25:42] (NAVIGATION) Distance to target location: 453.33 meters. Will take 23.31 seconds driving at 70kmh
+[22:25:58] (INFO) Found 1 catchable Pokemon
+[22:25:59] (BERRY) ItemRazzBerry used, remaining: 38
+[22:26:00] (Wild Success) | Raticate 158 V |  442 Cp | 44.04% | Lvl 12 | Chance: 0.17 | with a GreatBall and received XP 210
