@@ -30041,3 +30041,10 @@
 [13:20:04] (NAVIGATION) Distance to target location: 83.79 meters. Will take 10.4 seconds driving at 29kmh
 [13:20:11] (INFO) Found 1 catchable Pokemon
 [13:20:12] (Wild Success) | Caterpie 96 V |   36 Cp | 36.71% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[13:20:14] (INFO) Found 1 pokemon to transfer...
+[13:20:16] (TRANSFER) Caterpie 96 V |   36 Cp | 36.71% | Lvl 04 | Best: [Caterpie 105 V |  190 Cp | 35.84% | Lvl 19] | Candy: 171
+[13:20:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemGreatBall, 1 x ItemPokeBall
+[13:20:19] (POKESTOP) Sun Moon Mural in 84.72 m distance
+[13:20:19] (NAVIGATION) Distance to target location: 84.72 meters. Will take 10.52 seconds driving at 29kmh
+[13:20:25] (INFO) Found 1 catchable Pokemon
+[13:20:27] (Wild Success) | Bellsprout 122 V |  260 Cp | 16.24% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
