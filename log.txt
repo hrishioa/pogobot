@@ -37799,3 +37799,20 @@
 [23:06:46] (BERRY) ItemRazzBerry used, remaining: 44
 [23:06:47] (Wild Success) | Goldeen 187 V |  569 Cp | 73.33% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
 [23:06:48] (Wild Success) | Goldeen 157 V |  304 Cp | 65.19% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:06:50] (INFO) Found 5 pokemon to transfer...
+[23:06:52] (TRANSFER) Magikarp 77 V |   10 Cp | 51.47% | Lvl 02 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 229
+[23:06:54] (TRANSFER) Seel 94 V |   13 Cp | 28.15% | Lvl 01 | Best: [Seel 151 V |  273 Cp | 83.59% | Lvl 09] | Candy: 14
+[23:06:56] (TRANSFER) Magnemite 148 V |  459 Cp | 29.70% | Lvl 22 | Best: [Magnemite 152 V |  439 Cp | 46.03% | Lvl 20] | Candy: 38
+[23:06:59] (TRANSFER) Goldeen 180 V |  394 Cp | 79.31% | Lvl 15 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 173
+[23:07:01] (TRANSFER) Goldeen 157 V |  304 Cp | 65.19% | Lvl 12 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 174
+[23:07:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:07:05] (POKESTOP) Armillary Sphere Sundial in 46.3 m distance
+[23:07:05] (NAVIGATION) Distance to target location: 46.3 meters. Will take 5.56 seconds driving at 30kmh
+[23:07:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[23:07:11] (POKESTOP) Porcelain Egg Statue in 64.27 m distance
+[23:07:11] (NAVIGATION) Distance to target location: 64.27 meters. Will take 7.98 seconds driving at 29kmh
+[23:07:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPotion
+[23:07:19] (POKESTOP) Cardboard Couch in 145.09 m distance
+[23:07:19] (NAVIGATION) Distance to target location: 145.09 meters. Will take 18.65 seconds driving at 28kmh
+[23:07:29] (INFO) Found 1 catchable Pokemon
+[23:07:31] (Wild Success) | Squirtle 111 V |  341 Cp | 31.67% | Lvl 14 | Chance: 0.16 | with a UltraBall and received XP 210
