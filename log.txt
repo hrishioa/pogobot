@@ -33717,3 +33717,13 @@
 [20:46:08] (NAVIGATION) Distance to target location: 52.31 meters. Will take 6.49 seconds driving at 29kmh
 [20:46:11] (INFO) Found 1 catchable Pokemon
 [20:46:13] (Wild Success) | Bellsprout 158 V |  543 Cp | 75.02% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
+[20:46:15] (INFO) Found 1 pokemon to transfer...
+[20:46:16] (TRANSFER) Bellsprout 158 V |  543 Cp | 75.02% | Lvl 18 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 66
+[20:46:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:46:19] (POKESTOP) The Tree at Dover  in 130.79 m distance
+[20:46:19] (NAVIGATION) Distance to target location: 130.79 meters. Will take 15.7 seconds driving at 30kmh
+[20:46:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:46:35] (POKESTOP) Dover Community Centre in 82.68 m distance
+[20:46:35] (NAVIGATION) Distance to target location: 82.68 meters. Will take 9.92 seconds driving at 30kmh
+[20:46:37] (INFO) Found 1 catchable Pokemon
+[20:46:39] (Wild Success) | Spearow 112 V |  102 Cp | 62.48% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
