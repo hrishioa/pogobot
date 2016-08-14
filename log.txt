@@ -39360,3 +39360,22 @@
 [00:04:30] (BERRY) ItemRazzBerry used, remaining: 49
 [00:04:32] (Wild Success) | Squirtle 142 V |  484 Cp | 48.54% | Lvl 19 | Chance: 0.13 | with a GreatBall and received XP 210
 [00:04:34] (Wild Success) | Rattata 135 V |  242 Cp | 51.23% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[00:04:35] (BERRY) ItemRazzBerry used, remaining: 48
+[00:04:36] (Wild Escape) | Pikachu 154 V |  466 Cp | 32.31% | Lvl 22 | Chance: 0.12 | with a GreatBall 
+[00:04:36] (BERRY) ItemRazzBerry used, remaining: 47
+[00:04:37] (Wild Success Attempt #2) | Pikachu 154 V |  466 Cp | 32.31% | Lvl 22 | Chance: 0.12 | with a GreatBall 
+[00:04:38] (INFO) Found 3 pokemon to transfer...
+[00:04:40] (TRANSFER) Pikachu 117 V |  335 Cp | 8.35% | Lvl 17 | Best: [Pikachu 154 V |  466 Cp | 32.31% | Lvl 22] | Candy: 22
+[00:04:42] (TRANSFER) Rattata 135 V |  242 Cp | 51.23% | Lvl 17 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 352
+[00:04:45] (TRANSFER) Squirtle 111 V |  341 Cp | 31.67% | Lvl 14 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 29
+[00:04:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[00:04:47] (POKESTOP) Keg Shelter at Port of Lost Wonder in 362 m distance
+[00:04:47] (NAVIGATION) Distance to target location: 362 meters. Will take 19.75 seconds driving at 66kmh
+[00:05:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:05:08] (POKESTOP) Cap'n Wheel By The River in 77.46 m distance
+[00:05:08] (NAVIGATION) Distance to target location: 77.46 meters. Will take 9.3 seconds driving at 30kmh
+[00:05:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 4 x ItemPokeBall, 1 x ItemPotion
+[00:05:18] (POKESTOP) Cannon Replica in 35.2 m distance
+[00:05:18] (NAVIGATION) Distance to target location: 35.2 meters. Will take 4.22 seconds driving at 30kmh
+[00:05:20] (INFO) Found 1 catchable Pokemon
+[00:05:21] (Wild Success) | Magikarp 97 V |  113 Cp | 61.46% | Lvl 18 | Chance: 0.49 | with a GreatBall and received XP 210
