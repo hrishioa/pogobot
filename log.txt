@@ -30334,3 +30334,18 @@
 [13:30:32] (TRANSFER) Pidgey 100 V |  172 Cp | 27.82% | Lvl 11 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1194
 [13:30:34] (INFO) Found 1 catchable Pokemon
 [13:30:35] (Wild Success) | Rattata 162 V |  186 Cp | 77.95% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[13:30:37] (INFO) Found 1 pokemon to transfer...
+[13:30:39] (TRANSFER) Rattata 161 V |  186 Cp | 77.34% | Lvl 12 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 681
+[13:30:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[13:30:41] (POKESTOP) West Coast Park Amphitheatre in 120.34 m distance
+[13:30:41] (NAVIGATION) Distance to target location: 120.34 meters. Will take 13.97 seconds driving at 31kmh
+[13:30:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[13:30:54] (INFO) Found 3 Recyclable Items:
+[13:30:55] (RECYCLING) PokeBall x 10
+[13:30:56] (RECYCLING) Potion x 1
+[13:30:57] (RECYCLING) Revive x 3
+[13:30:59] (POKESTOP) Volleyball Arena in 188.85 m distance
+[13:30:59] (NAVIGATION) Distance to target location: 188.85 meters. Will take 20 seconds driving at 34kmh
+[13:31:12] (INFO) Found 1 catchable Pokemon
+[13:31:14] (BERRY) ItemRazzBerry used, remaining: 48
+[13:31:15] (Wild Success) | Eevee 199 V |  626 Cp | 85.62% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
