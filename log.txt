@@ -43055,3 +43055,10 @@
 [01:54:01] (RECYCLING) SuperPotion x 1
 [01:54:04] (INFO) Found 1 catchable Pokemon
 [01:54:04] (Wild Success) | Horsea 126 V |   31 Cp | 63.05% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[01:54:06] (INFO) Found 1 pokemon to transfer...
+[01:54:08] (TRANSFER) Horsea 126 V |   31 Cp | 63.05% | Lvl 02 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 80
+[01:54:09] (POKESTOP) SEA Aquarium Stilt Fishermen in 97.92 m distance
+[01:54:09] (NAVIGATION) Distance to target location: 97.92 meters. Will take 11.75 seconds driving at 30kmh
+[01:54:17] (INFO) Found 1 catchable Pokemon
+[01:54:18] (BERRY) ItemRazzBerry used, remaining: 47
+[01:54:19] (Wild Success) | Goldeen 175 V |  493 Cp | 53.86% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
