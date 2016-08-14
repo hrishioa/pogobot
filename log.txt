@@ -30921,3 +30921,10 @@
 [13:50:15] (TRANSFER) Pinsir 217 V |  764 Cp | 80.80% | Lvl 13 | Best: [Pinsir 273 V | 1370 Cp | 88.98% | Lvl 23] | Candy: 56
 [13:50:16] (INFO) Found 1 catchable Pokemon
 [13:50:18] (Wild Success) | Weedle 121 V |  249 Cp | 40.84% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[13:50:19] (INFO) Found 1 pokemon to transfer...
+[13:50:21] (TRANSFER) Weedle 120 V |  190 Cp | 46.35% | Lvl 18 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 547
+[13:50:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:50:24] (POKESTOP) Blue Black Pillars in 76.94 m distance
+[13:50:24] (NAVIGATION) Distance to target location: 76.94 meters. Will take 8.93 seconds driving at 31kmh
+[13:50:30] (INFO) Found 1 catchable Pokemon
+[13:50:32] (Wild Success) | Poliwag 113 V |  171 Cp | 37.47% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
