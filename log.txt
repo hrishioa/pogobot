@@ -40449,3 +40449,23 @@
 [00:38:40] (BERRY) ItemRazzBerry used, remaining: 46
 [00:38:42] (Wild Success) | Psyduck 180 V |  570 Cp | 33.17% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
 [00:38:43] (Wild Success) | Magikarp 100 V |   31 Cp | 71.93% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
+[00:38:45] (INFO) Found 3 pokemon to transfer...
+[00:38:47] (TRANSFER) Magikarp 100 V |   31 Cp | 71.93% | Lvl 05 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 313
+[00:38:49] (TRANSFER) Poliwag 91 V |   86 Cp | 23.43% | Lvl 05 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 160
+[00:38:51] (TRANSFER) Psyduck 179 V |  598 Cp | 33.85% | Lvl 22 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 157
+[00:38:52] (POKESTOP) Colorful Heart in 78.97 m distance
+[00:38:52] (NAVIGATION) Distance to target location: 78.97 meters. Will take 10.15 seconds driving at 28kmh
+[00:38:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
+[00:39:00] (INFO) Found 3 Recyclable Items:
+[00:39:02] (RECYCLING) PokeBall x 7
+[00:39:02] (RECYCLING) Potion x 1
+[00:39:04] (RECYCLING) Revive x 3
+[00:39:06] (POKESTOP) Happy Colours in 63.64 m distance
+[00:39:06] (NAVIGATION) Distance to target location: 63.64 meters. Will take 7.64 seconds driving at 30kmh
+[00:39:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:39:14] (POKESTOP) One Ocean One Love in 42.04 m distance
+[00:39:14] (NAVIGATION) Distance to target location: 42.04 meters. Will take 5.4 seconds driving at 28kmh
+[00:39:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemHyperPotion
+[00:39:19] (INFO) Found 2 catchable Pokemon
+[00:39:20] (BERRY) ItemRazzBerry used, remaining: 45
+[00:39:21] (Wild Success) | Squirtle 128 V |  404 Cp | 22.69% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
