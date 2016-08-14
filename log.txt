@@ -37373,3 +37373,17 @@
 [22:54:18] (INFO) Found 1 catchable Pokemon
 [22:54:19] (BERRY) ItemRazzBerry used, remaining: 46
 [22:54:21] (Wild Success) | Sandshrew 138 V |  414 Cp | 29.96% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[22:54:22] (INFO) Found 1 pokemon to transfer...
+[22:54:24] (TRANSFER) Sandshrew 133 V |  270 Cp | 38.77% | Lvl 14 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 46
+[22:54:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:54:27] (POKESTOP) Tanjong Beach Club in 143.51 m distance
+[22:54:27] (NAVIGATION) Distance to target location: 143.51 meters. Will take 16.15 seconds driving at 32kmh
+[22:54:44] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[22:54:44] (ATTENTION) Restarting the application due to error...
+[22:54:44] (INFO) Logging in via: Google
+[22:54:44] (INFO) Client logged in
+[22:54:45] (INFO) Found 3 Pokestops
+[22:54:46] (POKESTOP) Tanjong Beach Club in 71.4 m distance
+[22:54:46] (NAVIGATION) Distance to target location: 71.4 meters. Will take 8.29 seconds driving at 31kmh
+[22:54:50] (INFO) Found 1 catchable Pokemon
+[22:54:52] (Wild Success) | Rattata 100 V |   10 Cp | 32.05% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
