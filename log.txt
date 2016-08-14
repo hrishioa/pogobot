@@ -42185,3 +42185,35 @@
 [01:28:34] (NAVIGATION) Distance to target location: 146.09 meters. Will take 18.78 seconds driving at 28kmh
 [01:28:50] (INFO) Found 1 catchable Pokemon
 [01:28:52] (Wild Success) | Mankey 128 V |  167 Cp | 35.86% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[01:28:54] (INFO) Found 1 pokemon to transfer...
+[01:28:56] (TRANSFER) Mankey 128 V |  167 Cp | 35.86% | Lvl 08 | Best: [Mankey 141 V |  158 Cp | 67.79% | Lvl 07] | Candy: 33
+[01:28:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[01:28:57] (INFO) Found 4 Recyclable Items:
+[01:28:58] (RECYCLING) RazzBerry x 1
+[01:28:59] (RECYCLING) PokeBall x 3
+[01:29:00] (RECYCLING) Potion x 4
+[01:29:01] (RECYCLING) Revive x 1
+[01:29:04] (POKESTOP) The Dragon Hut in 177.12 m distance
+[01:29:04] (NAVIGATION) Distance to target location: 177.12 meters. Will take 19.93 seconds driving at 32kmh
+[01:29:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 3 x ItemPokeBall
+[01:29:25] (POKESTOP) Guardian of the Grove in 86.57 m distance
+[01:29:25] (NAVIGATION) Distance to target location: 86.57 meters. Will take 10.39 seconds driving at 30kmh
+[01:29:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:29:35] (POKESTOP) Singapore. Park insects in 77.97 m distance
+[01:29:35] (NAVIGATION) Distance to target location: 77.97 meters. Will take 9.05 seconds driving at 31kmh
+[01:29:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 4 x ItemPokeBall
+[01:29:43] (POKESTOP) Sentosa Nature Discovery Centre in 126.12 m distance
+[01:29:43] (NAVIGATION) Distance to target location: 126.12 meters. Will take 14.19 seconds driving at 32kmh
+[01:29:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:29:57] (POKESTOP) Tiger Sky Tower in 89.01 m distance
+[01:29:57] (NAVIGATION) Distance to target location: 89.01 meters. Will take 10.01 seconds driving at 32kmh
+[01:30:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:30:07] (INFO) Found 3 Recyclable Items:
+[01:30:08] (RECYCLING) RazzBerry x 2
+[01:30:09] (RECYCLING) PokeBall x 9
+[01:30:09] (RECYCLING) Revive x 2
+[01:30:12] (POKESTOP) Bengali Tigers in 56.4 m distance
+[01:30:12] (NAVIGATION) Distance to target location: 56.4 meters. Will take 6.55 seconds driving at 31kmh
+[01:30:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemUltraBall
+[01:30:18] (INFO) Found 1 catchable Pokemon
+[01:30:20] (Wild Success) | Voltorb 151 V |  198 Cp | 68.79% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
