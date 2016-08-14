@@ -45649,3 +45649,13 @@
 [03:14:52] (NAVIGATION) Distance to target location: 388.54 meters. Will take 19.98 seconds driving at 70kmh
 [03:15:01] (INFO) Found 1 catchable Pokemon
 [03:15:03] (Wild Success) | Rattata 140 V |  316 Cp | 41.14% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[03:15:04] (INFO) Found 1 pokemon to transfer...
+[03:15:06] (TRANSFER) Rattata 140 V |  316 Cp | 41.14% | Lvl 23 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 444
+[03:15:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:15:14] (POKESTOP) Pandanus Tectorius in 26.6 m distance
+[03:15:14] (NAVIGATION) Distance to target location: 26.6 meters. Will take 3.42 seconds driving at 28kmh
+[03:15:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[03:15:17] (POKESTOP) Labrador Nature Reserve in 332.92 m distance
+[03:15:17] (NAVIGATION) Distance to target location: 332.92 meters. Will take 19.98 seconds driving at 60kmh
+[03:15:36] (INFO) Found 1 catchable Pokemon
+[03:15:37] (Wild Success) | Ekans 73 V |  173 Cp | 28.95% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
