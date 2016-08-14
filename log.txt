@@ -31882,3 +31882,8 @@
 [14:24:52] (INFO) Found 2 catchable Pokemon
 [14:24:54] (Wild Success) | Spearow 81 V |   23 Cp | 18.71% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [14:24:55] (Wild Success) | Bellsprout 109 V |   71 Cp | 37.36% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[14:24:57] (INFO) Found 2 pokemon to transfer...
+[14:24:59] (TRANSFER) Spearow 81 V |   23 Cp | 18.71% | Lvl 02 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 337
+[14:25:00] (TRANSFER) Bellsprout 109 V |   71 Cp | 37.36% | Lvl 03 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 376
+[14:25:02] (INFO) Found 1 catchable Pokemon
+[14:25:03] (Wild Success) | Rattata 128 V |   54 Cp | 61.12% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
