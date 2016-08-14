@@ -41361,3 +41361,22 @@
 [01:03:41] (NAVIGATION) Distance to target location: 561.4 meters. Will take 28.87 seconds driving at 70kmh
 [01:03:43] (INFO) Found 1 catchable Pokemon
 [01:03:44] (Wild Success) | Voltorb 135 V |  147 Cp | 58.39% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[01:03:46] (INFO) Found 1 pokemon to transfer...
+[01:03:48] (TRANSFER) Voltorb 135 V |  147 Cp | 58.39% | Lvl 07 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 140
+[01:04:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[01:04:11] (INFO) Found 3 Recyclable Items:
+[01:04:11] (RECYCLING) RazzBerry x 3
+[01:04:13] (RECYCLING) PokeBall x 8
+[01:04:14] (RECYCLING) Revive x 1
+[01:04:17] (POKESTOP) Egyptian Slaves in 79.1 m distance
+[01:04:17] (NAVIGATION) Distance to target location: 79.1 meters. Will take 10.17 seconds driving at 28kmh
+[01:04:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
+[01:04:25] (ATTENTION) No locations in your area...
+[01:04:31] (INFO) Found 94 Pokestops
+[01:04:32] (POKESTOP) Triple Flying Dino in 82.65 m distance
+[01:04:32] (NAVIGATION) Distance to target location: 82.65 meters. Will take 10.63 seconds driving at 28kmh
+[01:04:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:04:41] (POKESTOP) Spitalamosaurus in 59.4 m distance
+[01:04:41] (NAVIGATION) Distance to target location: 59.4 meters. Will take 7.64 seconds driving at 28kmh
+[01:04:43] (INFO) Found 1 catchable Pokemon
+[01:04:45] (Wild Success) | Pikachu 87 V |   32 Cp | 23.74% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
