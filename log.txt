@@ -39337,3 +39337,17 @@
 [00:03:36] (NAVIGATION) Distance to target location: 103.18 meters. Will take 12.38 seconds driving at 30kmh
 [00:03:46] (INFO) Found 1 catchable Pokemon
 [00:03:47] (Wild Success) | Magnemite 129 V |   35 Cp | 60.46% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[00:03:48] (INFO) Found 1 pokemon to transfer...
+[00:03:51] (TRANSFER) Magnemite 129 V |   35 Cp | 60.46% | Lvl 02 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 58
+[00:03:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:03:54] (POKESTOP) IOS Mural in 40.24 m distance
+[00:03:54] (NAVIGATION) Distance to target location: 40.24 meters. Will take 4.67 seconds driving at 31kmh
+[00:03:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[00:03:58] (INFO) Found 3 Recyclable Items:
+[00:03:59] (RECYCLING) RazzBerry x 2
+[00:04:00] (RECYCLING) PokeBall x 8
+[00:04:00] (RECYCLING) Revive x 1
+[00:04:03] (POKESTOP) Star Dots in 223.11 m distance
+[00:04:03] (NAVIGATION) Distance to target location: 223.11 meters. Will take 19.59 seconds driving at 41kmh
+[00:04:09] (INFO) Found 1 catchable Pokemon
+[00:04:11] (Wild Success) | Abra 136 V |   83 Cp | 48.00% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
