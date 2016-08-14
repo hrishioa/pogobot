@@ -30575,3 +30575,4 @@
 [13:38:10] (NAVIGATION) Distance to target location: 351.3 meters. Will take 19.76 seconds driving at 64kmh
 [13:38:12] (INFO) Found 2 catchable Pokemon
 [13:38:14] (Wild Success) | Oddish 184 V |  352 Cp | 89.31% | Lvl 11 | Chance: 0.54 | with a GreatBall and received XP 210
+[13:38:15] (Wild Success) | Zubat 107 V |  149 Cp | 31.85% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
