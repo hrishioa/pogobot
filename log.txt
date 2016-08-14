@@ -39908,3 +39908,7 @@
 [00:21:50] (NAVIGATION) Distance to target location: 105.37 meters. Will take 12.24 seconds driving at 31kmh
 [00:21:53] (INFO) Found 1 catchable Pokemon
 [00:21:54] (Wild Success) | Vulpix 80 V |   71 Cp | 27.79% | Lvl 04 | Chance: 0.46 | with a GreatBall and received XP 210
+[00:21:56] (INFO) Found 1 pokemon to transfer...
+[00:21:57] (TRANSFER) Vulpix 80 V |   71 Cp | 27.79% | Lvl 04 | Best: [Vulpix 171 V |   86 Cp | 96.64% | Lvl 04] | Candy: 24
+[00:21:59] (INFO) Found 1 catchable Pokemon
+[00:22:00] (Wild Success) | Abra 169 V |  287 Cp | 60.16% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
