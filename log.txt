@@ -37622,3 +37622,13 @@
 [23:01:41] (NAVIGATION) Distance to target location: 234.64 meters. Will take 19.64 seconds driving at 43kmh
 [23:01:53] (INFO) Found 1 catchable Pokemon
 [23:01:55] (Wild Success) | Magikarp 74 V |   33 Cp | 45.72% | Lvl 06 | Chance: 0.87 | with a PokeBall and received XP 210
+[23:01:56] (INFO) Found 1 pokemon to transfer...
+[23:01:58] (TRANSFER) Magikarp 74 V |   33 Cp | 45.72% | Lvl 06 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 225
+[23:02:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[23:02:02] (ATTENTION) No locations in your area...
+[23:02:07] (INFO) Found 4 Pokestops
+[23:02:08] (POKESTOP) Malay Wall Lady in 373.26 m distance
+[23:02:08] (NAVIGATION) Distance to target location: 373.26 meters. Will take 19.76 seconds driving at 68kmh
+[23:02:13] (INFO) Found 1 catchable Pokemon
+[23:02:14] (BERRY) ItemRazzBerry used, remaining: 45
+[23:02:15] (Wild Success) | Electrode 254 V | 1038 Cp | 77.66% | Lvl 23 | Chance: 0.12 | with a GreatBall and received XP 210
