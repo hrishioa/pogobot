@@ -37835,3 +37835,5 @@
 [23:08:01] (NAVIGATION) Distance to target location: 587.56 meters. Will take 30.22 seconds driving at 70kmh
 [23:08:28] (INFO) Found 2 catchable Pokemon
 [23:08:30] (Wild Success) | Magikarp 96 V |  106 Cp | 60.31% | Lvl 17 | Chance: 0.5 | with a PokeBall and received XP 210
+[23:08:32] (BERRY) ItemRazzBerry used, remaining: 45
+[23:08:32] (Wild Success) | Squirtle 109 V |  422 Cp | 17.21% | Lvl 18 | Chance: 0.14 | with a UltraBall and received XP 210
