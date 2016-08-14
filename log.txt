@@ -44736,3 +44736,22 @@
 [02:43:27] (NAVIGATION) Distance to target location: 56.07 meters. Will take 6.31 seconds driving at 32kmh
 [02:43:31] (INFO) Found 1 catchable Pokemon
 [02:43:32] (Wild Success) | Voltorb 146 V |  126 Cp | 64.03% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[02:43:34] (INFO) Found 1 pokemon to transfer...
+[02:43:35] (TRANSFER) Voltorb 146 V |  126 Cp | 64.03% | Lvl 06 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 284
+[02:43:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:43:39] (POKESTOP) Coastal Fortifications In Singapore in 144.07 m distance
+[02:43:39] (NAVIGATION) Distance to target location: 144.07 meters. Will take 17.29 seconds driving at 30kmh
+[02:43:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[02:43:56] (POKESTOP) Battery Steps in 82.76 m distance
+[02:43:56] (NAVIGATION) Distance to target location: 82.76 meters. Will take 10.27 seconds driving at 29kmh
+[02:44:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 4 x ItemPokeBall
+[02:44:06] (POKESTOP) Megazipline Gate Dragon in 72.73 m distance
+[02:44:06] (NAVIGATION) Distance to target location: 72.73 meters. Will take 8.18 seconds driving at 32kmh
+[02:44:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:44:14] (INFO) Found 2 Recyclable Items:
+[02:44:15] (RECYCLING) PokeBall x 8
+[02:44:17] (RECYCLING) Revive x 1
+[02:44:18] (EGG) Hatched egg! Ponyta              211 True Value |  830 Cp | 78.04% Perfect | Lvl 20 | Ember/FlameWheel
+[02:44:19] (INFO) Found 1 catchable Pokemon
+[02:44:20] (BERRY) ItemRazzBerry used, remaining: 48
+[02:44:20] (Wild Success) | Gastly 143 V |  432 Cp | 44.59% | Lvl 22 | Chance: 0.25 | with a GreatBall and received XP 210
