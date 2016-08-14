@@ -22252,3 +22252,40 @@
 [08:27:40] (NAVIGATION) Distance to target location: 230.82 meters. Will take 19.78 seconds driving at 42kmh
 [08:27:46] (INFO) Found 1 catchable Pokemon
 [08:27:48] (Wild Success) | Gastly 130 V |  240 Cp | 51.05% | Lvl 12 | Chance: 0.34 | with a UltraBall and received XP 210
+[08:27:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:28:00] (POKESTOP) Brains of Power in 43.93 m distance
+[08:28:00] (NAVIGATION) Distance to target location: 43.93 meters. Will take 5.65 seconds driving at 28kmh
+[08:28:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:28:06] (POKESTOP) Wooden Shell (Right) in 93.72 m distance
+[08:28:06] (NAVIGATION) Distance to target location: 93.72 meters. Will take 11.25 seconds driving at 30kmh
+[08:28:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:28:18] (POKESTOP) Root II by Min Chen in 59.74 m distance
+[08:28:18] (NAVIGATION) Distance to target location: 59.74 meters. Will take 7.42 seconds driving at 29kmh
+[08:28:24] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[08:28:25] (POKESTOP) Mosaic Mural at ITE in 65.77 m distance
+[08:28:25] (NAVIGATION) Distance to target location: 65.77 meters. Will take 7.89 seconds driving at 30kmh
+[08:28:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:28:32] (INFO) Found 2 Recyclable Items:
+[08:28:32] (RECYCLING) PokeBall x 7
+[08:28:33] (RECYCLING) Potion x 2
+[08:28:36] (POKESTOP) SiT main building  in 67.5 m distance
+[08:28:36] (NAVIGATION) Distance to target location: 67.5 meters. Will take 8.38 seconds driving at 29kmh
+[08:28:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[08:28:44] (POKESTOP) Shark Mural in 89.71 m distance
+[08:28:44] (NAVIGATION) Distance to target location: 89.71 meters. Will take 10.77 seconds driving at 30kmh
+[08:28:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:28:55] (POKESTOP) Metal Workshop in 63.84 m distance
+[08:28:55] (NAVIGATION) Distance to target location: 63.84 meters. Will take 7.92 seconds driving at 29kmh
+[08:29:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[08:29:03] (POKESTOP) Fab Lab 2 in 46.83 m distance
+[08:29:03] (NAVIGATION) Distance to target location: 46.83 meters. Will take 5.81 seconds driving at 29kmh
+[08:29:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:29:09] (POKESTOP) Shield Art in 108.76 m distance
+[08:29:09] (NAVIGATION) Distance to target location: 108.76 meters. Will take 13.5 seconds driving at 29kmh
+[08:29:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:29:21] (INFO) Found 2 Recyclable Items:
+[08:29:22] (RECYCLING) RazzBerry x 2
+[08:29:23] (RECYCLING) PokeBall x 8
+[08:29:25] (INFO) Found 1 catchable Pokemon
+[08:29:26] (BERRY) ItemRazzBerry used, remaining: 49
+[08:29:27] (Wild Success) | Golbat 170 V |  512 Cp | 59.34% | Lvl 10 | Chance: 0.18 | with a UltraBall and received XP 210
