@@ -36621,3 +36621,5 @@
 [22:30:33] (INFO) Found 3 catchable Pokemon
 [22:30:35] (Wild Success) | Seel 126 V |  392 Cp | 46.75% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [22:30:37] (Wild Success) | Tentacool 92 V |   35 Cp | 48.53% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[22:30:38] (BERRY) ItemRazzBerry used, remaining: 40
+[22:30:39] (Wild Success) | Voltorb 177 V |  492 Cp | 56.14% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 710
