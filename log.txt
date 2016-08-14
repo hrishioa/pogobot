@@ -36663,3 +36663,4 @@
 [22:31:59] (TRANSFER) Dratini 137 V |  230 Cp | 63.83% | Lvl 09 | Best: [Dratini 195 V |  426 Cp | 77.33% | Lvl 16] | Candy: 14
 [22:32:00] (INFO) Found 2 catchable Pokemon
 [22:32:02] (Wild Success) | Krabby 99 V |  129 Cp | 36.35% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[22:32:04] (Wild Success) | Magikarp 102 V |  121 Cp | 64.86% | Lvl 19 | Chance: 0.48 | with a GreatBall and received XP 210
