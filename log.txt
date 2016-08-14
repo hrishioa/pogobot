@@ -37837,3 +37837,8 @@
 [23:08:30] (Wild Success) | Magikarp 96 V |  106 Cp | 60.31% | Lvl 17 | Chance: 0.5 | with a PokeBall and received XP 210
 [23:08:32] (BERRY) ItemRazzBerry used, remaining: 45
 [23:08:32] (Wild Success) | Squirtle 109 V |  422 Cp | 17.21% | Lvl 18 | Chance: 0.14 | with a UltraBall and received XP 210
+[23:08:34] (INFO) Found 2 pokemon to transfer...
+[23:08:36] (TRANSFER) Squirtle 109 V |  422 Cp | 17.21% | Lvl 18 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 21
+[23:08:38] (TRANSFER) Magikarp 96 V |  106 Cp | 60.31% | Lvl 17 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 233
+[23:08:39] (INFO) Found 1 catchable Pokemon
+[23:08:41] (Wild Success) | Tentacool 107 V |  254 Cp | 55.07% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
