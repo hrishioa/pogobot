@@ -22445,3 +22445,24 @@
 [08:32:20] (INFO) Found 1 catchable Pokemon
 [08:32:20] (BERRY) ItemRazzBerry used, remaining: 46
 [08:32:22] (Wild Success) | Poliwag 183 V |  440 Cp | 87.21% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[08:32:23] (INFO) Found 1 pokemon to transfer...
+[08:32:24] (TRANSFER) Poliwag 169 V |  492 Cp | 60.84% | Lvl 24 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 181
+[08:32:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemGreatBall
+[08:32:28] (POKESTOP) Proverb in a Corner in 62.34 m distance
+[08:32:28] (NAVIGATION) Distance to target location: 62.34 meters. Will take 7.48 seconds driving at 30kmh
+[08:32:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 2 x ItemPokeBall
+[08:32:35] (INFO) Found 4 Recyclable Items:
+[08:32:36] (RECYCLING) PokeBall x 4
+[08:32:36] (RECYCLING) Potion x 3
+[08:32:37] (RECYCLING) SuperPotion x 1
+[08:32:38] (RECYCLING) Revive x 1
+[08:32:41] (POKESTOP) Together Again in 70.92 m distance
+[08:32:41] (NAVIGATION) Distance to target location: 70.92 meters. Will take 8.51 seconds driving at 30kmh
+[08:32:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:32:50] (POKESTOP) Writings on the Wall in 114.01 m distance
+[08:32:50] (NAVIGATION) Distance to target location: 114.01 meters. Will take 12.83 seconds driving at 32kmh
+[08:33:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemUltraBall
+[08:33:02] (POKESTOP) Fingerprint Like Wood Art in 137.14 m distance
+[08:33:02] (NAVIGATION) Distance to target location: 137.14 meters. Will take 16.46 seconds driving at 30kmh
+[08:33:08] (INFO) Found 1 catchable Pokemon
+[08:33:09] (Wild Success) | Venonat 172 V |  355 Cp | 68.64% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
