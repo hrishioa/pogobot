@@ -33907,3 +33907,23 @@
 [20:50:41] (NAVIGATION) Distance to target location: 145 meters. Will take 17.4 seconds driving at 30kmh
 [20:50:49] (INFO) Found 1 catchable Pokemon
 [20:50:50] (Wild Success) | Pidgey 100 V |  141 Cp | 30.90% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:50:52] (INFO) Found 1 pokemon to transfer...
+[20:50:54] (TRANSFER) Pidgey 100 V |  141 Cp | 30.90% | Lvl 09 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 621
+[20:50:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:50:59] (POKESTOP) Education Resource Centre in 129.25 m distance
+[20:50:59] (NAVIGATION) Distance to target location: 129.25 meters. Will take 16.62 seconds driving at 28kmh
+[20:51:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:51:15] (POKESTOP) Swimming Pool @ Utown in 88.65 m distance
+[20:51:15] (NAVIGATION) Distance to target location: 88.65 meters. Will take 10.64 seconds driving at 30kmh
+[20:51:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:51:25] (POKESTOP) ERC UTown Benefactors in 47.07 m distance
+[20:51:25] (NAVIGATION) Distance to target location: 47.07 meters. Will take 6.05 seconds driving at 28kmh
+[20:51:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:51:31] (POKESTOP) Central Park at SRC in 109.53 m distance
+[20:51:31] (NAVIGATION) Distance to target location: 109.53 meters. Will take 13.6 seconds driving at 29kmh
+[20:51:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:51:45] (POKESTOP) Create in 98.96 m distance
+[20:51:45] (NAVIGATION) Distance to target location: 98.96 meters. Will take 12.28 seconds driving at 29kmh
+[20:51:51] (INFO) Found 1 catchable Pokemon
+[20:51:52] (BERRY) ItemRazzBerry used, remaining: 38
+[20:51:53] (Wild Success) | Pidgey 143 V |  356 Cp | 52.41% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
