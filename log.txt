@@ -21524,3 +21524,6 @@
 [08:02:37] (NAVIGATION) Distance to target location: 63.94 meters. Will take 8.22 seconds driving at 28kmh
 [08:02:40] (INFO) Found 1 catchable Pokemon
 [08:02:41] (Wild Success) | Poliwhirl 141 V |  310 Cp | 51.27% | Lvl 09 | Chance: 0.25 | with a GreatBall and received XP 210
+[08:02:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[08:02:46] (INFO) Found 1 catchable Pokemon
+[08:02:48] (Wild Success) | Pidgey 97 V |   92 Cp | 32.61% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
