@@ -28265,3 +28265,16 @@
 [12:06:30] (INFO) Found 1 catchable Pokemon
 [12:06:32] (BERRY) ItemRazzBerry used, remaining: 45
 [12:06:33] (Wild Success) | Zubat 137 V |  374 Cp | 44.92% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[12:06:35] (INFO) Found 1 pokemon to transfer...
+[12:06:36] (TRANSFER) Zubat 137 V |  374 Cp | 44.92% | Lvl 24 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 814
+[12:06:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:06:38] (INFO) Found 2 Recyclable Items:
+[12:06:38] (RECYCLING) PokeBall x 7
+[12:06:39] (RECYCLING) Revive x 3
+[12:06:43] (POKESTOP) Pendulum White Shelter in 97.86 m distance
+[12:06:43] (NAVIGATION) Distance to target location: 97.86 meters. Will take 12.58 seconds driving at 28kmh
+[12:06:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[12:06:55] (POKESTOP) Safety English Chess Table in 89.14 m distance
+[12:06:55] (NAVIGATION) Distance to target location: 89.14 meters. Will take 10.7 seconds driving at 30kmh
+[12:06:57] (INFO) Found 1 catchable Pokemon
+[12:06:58] (Wild Success) | Bellsprout 171 V |  396 Cp | 48.78% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
