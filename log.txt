@@ -34113,3 +34113,8 @@
 [21:00:26] (INFO) Found 2 catchable Pokemon
 [21:00:28] (Wild Success) | Bulbasaur 128 V |  260 Cp | 31.82% | Lvl 10 | Chance: 0.18 | with a UltraBall and received XP 210
 [21:00:30] (Wild Success) | Pidgey 98 V |  189 Cp | 29.22% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[21:00:31] (INFO) Found 2 pokemon to transfer...
+[21:00:33] (TRANSFER) Pidgey 98 V |  189 Cp | 29.22% | Lvl 12 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 649
+[21:00:35] (TRANSFER) Bulbasaur 120 V |  285 Cp | 30.06% | Lvl 11 | Best: [Bulbasaur 174 V |  480 Cp | 40.91% | Lvl 18] | Candy: 37
+[21:00:37] (INFO) Found 1 catchable Pokemon
+[21:00:39] (Wild Success) | Staryu 138 V |  219 Cp | 65.72% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
