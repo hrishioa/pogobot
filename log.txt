@@ -31223,3 +31223,19 @@
 [14:00:45] (NAVIGATION) Distance to target location: 101.16 meters. Will take 12.14 seconds driving at 30kmh
 [14:00:53] (INFO) Found 1 catchable Pokemon
 [14:00:55] (Wild Success) | Zubat 132 V |   91 Cp | 48.40% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[14:00:56] (INFO) Found 1 pokemon to transfer...
+[14:00:58] (TRANSFER) Zubat 132 V |   91 Cp | 48.40% | Lvl 06 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 910
+[14:01:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:01:02] (POKESTOP) West Coast Plaza Triple Fountain in 64.92 m distance
+[14:01:02] (NAVIGATION) Distance to target location: 64.92 meters. Will take 7.79 seconds driving at 30kmh
+[14:01:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[14:01:10] (POKESTOP) Tower Playground in 193.08 m distance
+[14:01:10] (NAVIGATION) Distance to target location: 193.08 meters. Will take 19.86 seconds driving at 35kmh
+[14:01:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:01:30] (POKESTOP) Butterfly Mural in 72.92 m distance
+[14:01:30] (NAVIGATION) Distance to target location: 72.92 meters. Will take 8.75 seconds driving at 30kmh
+[14:01:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[14:01:38] (POKESTOP) Syzygium Campanulatum in 224.98 m distance
+[14:01:38] (NAVIGATION) Distance to target location: 224.98 meters. Will take 19.75 seconds driving at 41kmh
+[14:01:40] (INFO) Found 2 catchable Pokemon
+[14:01:42] (Wild Success) | Weedle 105 V |  161 Cp | 33.79% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
