@@ -42816,3 +42816,13 @@
 [01:47:56] (TRANSFER) Caterpie 101 V |   89 Cp | 36.87% | Lvl 09 | Best: [Caterpie 120 V |  148 Cp | 49.77% | Lvl 14] | Candy: 181
 [01:47:57] (INFO) Found 1 catchable Pokemon
 [01:47:59] (Wild Success) | Magikarp 99 V |   24 Cp | 71.89% | Lvl 04 | Chance: 1 | with a PokeBall and received XP 210
+[01:48:00] (INFO) Found 1 pokemon to transfer...
+[01:48:02] (TRANSFER) Magikarp 99 V |   24 Cp | 71.89% | Lvl 04 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 397
+[01:48:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 3 x ItemPokeBall, 1 x ItemUltraBall
+[01:48:05] (POKESTOP) Siloso Beach in 164.48 m distance
+[01:48:05] (NAVIGATION) Distance to target location: 164.48 meters. Will take 19.74 seconds driving at 30kmh
+[01:48:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:48:25] (POKESTOP) Siloso trapizza Children's castle in 97.07 m distance
+[01:48:25] (NAVIGATION) Distance to target location: 97.07 meters. Will take 11.27 seconds driving at 31kmh
+[01:48:30] (INFO) Found 1 catchable Pokemon
+[01:48:32] (Wild Success) | Shellder 106 V |   10 Cp | 54.81% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
