@@ -38378,3 +38378,4 @@
 [23:28:57] (NAVIGATION) Distance to target location: 455.51 meters. Will take 23.43 seconds driving at 70kmh
 [23:29:02] (INFO) Found 3 catchable Pokemon
 [23:29:03] (Wild Success) | Voltorb 142 V |  215 Cp | 57.81% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[23:29:05] (Wild Success) | Bellsprout 167 V |  380 Cp | 62.47% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
