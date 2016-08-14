@@ -40698,3 +40698,28 @@
 [00:44:19] (INFO) Found 1 catchable Pokemon
 [00:44:20] (BERRY) ItemRazzBerry used, remaining: 47
 [00:44:20] (Wild Success) | Dratini 177 V |  455 Cp | 56.33% | Lvl 18 | Chance: 0.28 | with a GreatBall and received XP 210
+[00:44:22] (INFO) Found 1 pokemon to transfer...
+[00:44:24] (TRANSFER) Dratini 175 V |  549 Cp | 69.72% | Lvl 21 | Best: [Dratini 195 V |  426 Cp | 77.33% | Lvl 16] | Candy: 22
+[00:44:25] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 69.12 m distance
+[00:44:25] (NAVIGATION) Distance to target location: 69.12 meters. Will take 7.78 seconds driving at 32kmh
+[00:44:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[00:44:33] (POKESTOP) Castle and the Knight in 28.92 m distance
+[00:44:33] (NAVIGATION) Distance to target location: 28.92 meters. Will take 3.59 seconds driving at 29kmh
+[00:44:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[00:44:36] (POKESTOP) Coloured Roofs in 112.97 m distance
+[00:44:36] (NAVIGATION) Distance to target location: 112.97 meters. Will take 13.56 seconds driving at 30kmh
+[00:44:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:44:49] (INFO) Found 3 Recyclable Items:
+[00:44:49] (RECYCLING) PokeBall x 12
+[00:44:50] (RECYCLING) SuperPotion x 1
+[00:44:52] (RECYCLING) Revive x 1
+[00:44:54] (POKESTOP) Metal Vines Gateway in 63.5 m distance
+[00:44:54] (NAVIGATION) Distance to target location: 63.5 meters. Will take 7.88 seconds driving at 29kmh
+[00:45:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[00:45:02] (POKESTOP) Sharity Lion Statue in 66.09 m distance
+[00:45:02] (NAVIGATION) Distance to target location: 66.09 meters. Will take 8.2 seconds driving at 29kmh
+[00:45:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[00:45:09] (POKESTOP) River God of Merlion in 60.6 m distance
+[00:45:09] (NAVIGATION) Distance to target location: 60.6 meters. Will take 7.04 seconds driving at 31kmh
+[00:45:13] (INFO) Found 1 catchable Pokemon
+[00:45:15] (Wild Success) | Rattata 102 V |  179 Cp | 21.62% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
