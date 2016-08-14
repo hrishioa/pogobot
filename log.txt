@@ -44803,3 +44803,15 @@
 [02:47:14] (INFO) Found 1 catchable Pokemon
 [02:47:16] (BERRY) ItemRazzBerry used, remaining: 47
 [02:47:16] (Wild Success) | Pinsir 145 V |  497 Cp | 47.87% | Lvl 09 | Chance: 0.3 | with a GreatBall and received XP 210
+[02:47:18] (INFO) Found 1 pokemon to transfer...
+[02:47:19] (TRANSFER) Pinsir 145 V |  497 Cp | 47.87% | Lvl 09 | Best: [Pinsir 259 V | 1146 Cp | 96.84% | Lvl 19] | Candy: 42
+[02:47:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[02:47:23] (POKESTOP) Snail Design Tile Art in 43.79 m distance
+[02:47:23] (NAVIGATION) Distance to target location: 43.79 meters. Will take 5.09 seconds driving at 31kmh
+[02:47:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPotion
+[02:47:28] (INFO) Found 37 Pokestops
+[02:47:29] (POKESTOP) Labrador Nature Reserve in 133.49 m distance
+[02:47:29] (NAVIGATION) Distance to target location: 133.49 meters. Will take 16.57 seconds driving at 29kmh
+[02:47:35] (INFO) Found 1 catchable Pokemon
+[02:47:36] (BERRY) ItemRazzBerry used, remaining: 47
+[02:47:37] (Wild Success) | Ekans 94 V |  438 Cp | 23.44% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
