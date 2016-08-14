@@ -34484,3 +34484,15 @@
 [21:08:10] (TRANSFER) Caterpie 96 V |  128 Cp | 32.72% | Lvl 13 | Best: [Caterpie 120 V |  201 Cp | 50.39% | Lvl 19] | Candy: 203
 [21:08:12] (INFO) Found 1 catchable Pokemon
 [21:08:13] (Wild Success) | Metapod 113 V |  271 Cp | 36.45% | Lvl 25 | Chance: 0.14 | with a UltraBall and received XP 420
+[21:08:15] (INFO) Found 1 pokemon to transfer...
+[21:08:17] (TRANSFER) Metapod 113 V |  271 Cp | 36.45% | Lvl 25 | Best: [Metapod 142 V |  288 Cp | 62.73% | Lvl 24] | Candy: 207
+[21:08:19] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[21:08:20] (POKESTOP) Chinese Women Painting in 45.18 m distance
+[21:08:20] (NAVIGATION) Distance to target location: 45.18 meters. Will take 5.08 seconds driving at 32kmh
+[21:08:25] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[21:08:26] (INFO) Found 1 Recyclable Item:
+[21:08:26] (RECYCLING) HyperPotion x 1
+[21:08:28] (POKESTOP) Kent Ridge Heritage Trail in 76.65 m distance
+[21:08:28] (NAVIGATION) Distance to target location: 76.65 meters. Will take 9.2 seconds driving at 30kmh
+[21:08:34] (INFO) Found 1 catchable Pokemon
+[21:08:37] (Wild Success) | Pidgey 105 V |  112 Cp | 43.77% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
