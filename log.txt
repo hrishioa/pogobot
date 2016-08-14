@@ -41477,3 +41477,17 @@
 [01:09:21] (NAVIGATION) Distance to target location: 95.3 meters. Will take 11.07 seconds driving at 31kmh
 [01:09:29] (INFO) Found 1 catchable Pokemon
 [01:09:31] (Wild Success) | Weedle 78 V |  205 Cp | 26.28% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[01:09:33] (INFO) Found 1 pokemon to transfer...
+[01:09:34] (TRANSFER) Weedle 78 V |  205 Cp | 26.28% | Lvl 21 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 260
+[01:09:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:09:36] (INFO) Found 3 Recyclable Items:
+[01:09:37] (RECYCLING) PokeBall x 7
+[01:09:37] (RECYCLING) Potion x 2
+[01:09:39] (RECYCLING) Revive x 1
+[01:09:41] (POKESTOP) Snake on Road in 68.75 m distance
+[01:09:41] (NAVIGATION) Distance to target location: 68.75 meters. Will take 8.53 seconds driving at 29kmh
+[01:09:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:09:49] (POKESTOP) Beacon of Enlightenment  in 90.5 m distance
+[01:09:49] (NAVIGATION) Distance to target location: 90.5 meters. Will take 10.51 seconds driving at 31kmh
+[01:09:53] (INFO) Found 1 catchable Pokemon
+[01:09:55] (Wild Success) | Zubat 104 V |   91 Cp | 50.21% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
