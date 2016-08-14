@@ -44035,3 +44035,20 @@
 [02:22:41] (INFO) Found 2 catchable Pokemon
 [02:22:43] (Wild Success) | Venonat 165 V |  304 Cp | 72.58% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [02:22:44] (Wild Success) | Caterpie 84 V |   64 Cp | 22.98% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[02:22:46] (INFO) Found 2 pokemon to transfer...
+[02:22:47] (TRANSFER) Caterpie 84 V |   64 Cp | 22.98% | Lvl 07 | Best: [Caterpie 120 V |  148 Cp | 49.77% | Lvl 14] | Candy: 201
+[02:22:50] (TRANSFER) Venonat 165 V |  304 Cp | 72.58% | Lvl 11 | Best: [Venonat 222 V |  583 Cp | 96.62% | Lvl 20] | Candy: 103
+[02:22:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemHyperPotion
+[02:22:51] (INFO) Found 5 Recyclable Items:
+[02:22:52] (RECYCLING) RazzBerry x 3
+[02:22:53] (RECYCLING) PokeBall x 4
+[02:22:54] (RECYCLING) Potion x 4
+[02:22:56] (RECYCLING) SuperPotion x 2
+[02:22:57] (RECYCLING) HyperPotion x 1
+[02:22:58] (POKESTOP) The Great White Shark in 35.33 m distance
+[02:22:59] (NAVIGATION) Distance to target location: 35.33 meters. Will take 4.1 seconds driving at 31kmh
+[02:23:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:23:03] (POKESTOP) Dolphins Lagoon Suite in 111.52 m distance
+[02:23:03] (NAVIGATION) Distance to target location: 111.52 meters. Will take 12.55 seconds driving at 32kmh
+[02:23:04] (INFO) Found 1 catchable Pokemon
+[02:23:06] (Wild Success) | Magikarp 112 V |  139 Cp | 73.28% | Lvl 21 | Chance: 0.45 | with a GreatBall and received XP 210
