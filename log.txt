@@ -37825,3 +37825,13 @@
 [23:07:41] (INFO) Found 1 catchable Pokemon
 [23:07:43] (BERRY) ItemRazzBerry used, remaining: 45
 [23:07:44] (Wild Success) | Ponyta 205 V |  814 Cp | 43.89% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
+[23:07:46] (POKESTOP) Giant Plate And Bowls in 76.37 m distance
+[23:07:46] (NAVIGATION) Distance to target location: 76.37 meters. Will take 9.48 seconds driving at 29kmh
+[23:07:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[23:07:55] (POKESTOP) Sentosa Cove Arrival Hall in 59.82 m distance
+[23:07:55] (NAVIGATION) Distance to target location: 59.82 meters. Will take 6.95 seconds driving at 31kmh
+[23:07:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[23:08:01] (POKESTOP) Obelisk in 587.56 m distance
+[23:08:01] (NAVIGATION) Distance to target location: 587.56 meters. Will take 30.22 seconds driving at 70kmh
+[23:08:28] (INFO) Found 2 catchable Pokemon
+[23:08:30] (Wild Success) | Magikarp 96 V |  106 Cp | 60.31% | Lvl 17 | Chance: 0.5 | with a PokeBall and received XP 210
