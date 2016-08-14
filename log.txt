@@ -38360,3 +38360,21 @@
 [23:28:02] (TRANSFER) Magnemite 151 V |  180 Cp | 60.70% | Lvl 08 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 42
 [23:28:11] (INFO) Found 1 catchable Pokemon
 [23:28:12] (Wild Success) | Voltorb 182 V |  162 Cp | 96.37% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:28:14] (INFO) Found 1 pokemon to transfer...
+[23:28:15] (TRANSFER) Voltorb 182 V |  162 Cp | 96.37% | Lvl 07 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 48
+[23:28:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[23:28:17] (INFO) Found 2 Recyclable Items:
+[23:28:17] (RECYCLING) PokeBall x 7
+[23:28:19] (RECYCLING) Revive x 2
+[23:28:21] (POKESTOP) Giant Painted Art in 88.82 m distance
+[23:28:21] (NAVIGATION) Distance to target location: 88.82 meters. Will take 9.99 seconds driving at 32kmh
+[23:28:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[23:28:30] (ATTENTION) No locations in your area...
+[23:28:36] (INFO) Found 4 Pokestops
+[23:28:36] (POKESTOP) Jars of Clay in 191.39 m distance
+[23:28:36] (NAVIGATION) Distance to target location: 191.39 meters. Will take 19.69 seconds driving at 35kmh
+[23:28:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:28:57] (POKESTOP) Lock Control Tower  in 455.51 m distance
+[23:28:57] (NAVIGATION) Distance to target location: 455.51 meters. Will take 23.43 seconds driving at 70kmh
+[23:29:02] (INFO) Found 3 catchable Pokemon
+[23:29:03] (Wild Success) | Voltorb 142 V |  215 Cp | 57.81% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
