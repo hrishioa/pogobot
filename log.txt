@@ -42486,3 +42486,4 @@
 [01:36:50] (TRANSFER) Kakuna 99 V |   17 Cp | 42.06% | Lvl 02 | Best: [Kakuna 109 V |  124 Cp | 42.11% | Lvl 11] | Candy: 280
 [01:36:51] (INFO) Found 2 catchable Pokemon
 [01:36:53] (Wild Success) | Magikarp 88 V |   85 Cp | 55.31% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
+[01:36:55] (Wild Success) | Psyduck 103 V |   42 Cp | 33.54% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
