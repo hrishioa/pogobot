@@ -42378,3 +42378,4 @@
 [01:32:58] (TRANSFER) Rattata 87 V |   32 Cp | 16.76% | Lvl 03 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 380
 [01:32:59] (INFO) Found 2 catchable Pokemon
 [01:33:00] (Wild Success) | Voltorb 146 V |   11 Cp | 79.56% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[01:33:02] (Wild Success) | Magnemite 105 V |  121 Cp | 31.16% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
