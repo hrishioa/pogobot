@@ -22300,3 +22300,14 @@
 [08:29:53] (BERRY) ItemRazzBerry used, remaining: 47
 [08:29:54] (Wild Success) | Goldeen 180 V |  503 Cp | 83.05% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
 [08:29:56] (Wild Success) | Zubat 117 V |   74 Cp | 50.15% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[08:29:57] (INFO) Found 2 pokemon to transfer...
+[08:29:59] (TRANSFER) Goldeen 173 V |  503 Cp | 61.48% | Lvl 20 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 182
+[08:30:01] (TRANSFER) Zubat 117 V |   74 Cp | 50.15% | Lvl 05 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 714
+[08:30:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:30:04] (POKESTOP) Tree Mural in 33.39 m distance
+[08:30:04] (NAVIGATION) Distance to target location: 33.39 meters. Will take 3.76 seconds driving at 32kmh
+[08:30:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:30:08] (POKESTOP) Happy Doctor Nurse and Patient in 83.42 m distance
+[08:30:08] (NAVIGATION) Distance to target location: 83.42 meters. Will take 10.73 seconds driving at 28kmh
+[08:30:16] (INFO) Found 1 catchable Pokemon
+[08:30:18] (Wild Success) | Rattata 152 V |  307 Cp | 59.00% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
