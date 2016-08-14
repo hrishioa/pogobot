@@ -45713,3 +45713,10 @@
 [03:17:49] (TRANSFER) Caterpie 88 V |  124 Cp | 25.87% | Lvl 13 | Best: [Caterpie 163 V |  244 Cp | 88.98% | Lvl 20] | Candy: 223
 [03:17:51] (INFO) Found 1 catchable Pokemon
 [03:17:52] (Wild Success) | Pidgey 126 V |  173 Cp | 59.03% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[03:17:54] (INFO) Found 1 pokemon to transfer...
+[03:17:56] (TRANSFER) Pidgey 126 V |  173 Cp | 59.03% | Lvl 10 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 800
+[03:17:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemPotion
+[03:18:00] (POKESTOP) Araucaria Excelsa in 1163.87 m distance
+[03:18:00] (NAVIGATION) Distance to target location: 1163.87 meters. Will take 59.86 seconds driving at 70kmh
+[03:18:31] (INFO) Found 1 catchable Pokemon
+[03:18:34] (Wild Success) | Paras 128 V |  252 Cp | 48.43% | Lvl 11 | Chance: 0.36 | with a GreatBall and received XP 210
