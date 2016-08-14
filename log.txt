@@ -39019,3 +39019,12 @@
 [23:53:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
 [23:53:05] (INFO) Found 1 catchable Pokemon
 [23:53:07] (Wild Success) | Tentacool 133 V |  298 Cp | 53.12% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[23:53:09] (INFO) Found 1 pokemon to transfer...
+[23:53:10] (TRANSFER) Tentacool 123 V |  351 Cp | 36.31% | Lvl 16 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 60
+[23:53:11] (POKESTOP) Cove Arrival Plaza in 62.38 m distance
+[23:53:11] (NAVIGATION) Distance to target location: 62.38 meters. Will take 8.02 seconds driving at 28kmh
+[23:53:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:53:18] (POKESTOP) Golden Pineapple in 239.51 m distance
+[23:53:18] (NAVIGATION) Distance to target location: 239.51 meters. Will take 19.6 seconds driving at 44kmh
+[23:53:27] (INFO) Found 1 catchable Pokemon
+[23:53:28] (Wild Success) | Pidgey 109 V |  129 Cp | 40.95% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
