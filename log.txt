@@ -33931,3 +33931,17 @@
 [20:51:56] (TRANSFER) Pidgey 143 V |  356 Cp | 52.41% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 625
 [20:51:58] (INFO) Found 1 catchable Pokemon
 [20:51:59] (Wild Success) | Caterpie 90 V |   87 Cp | 30.62% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:52:01] (INFO) Found 1 pokemon to transfer...
+[20:52:02] (TRANSFER) Caterpie 90 V |   87 Cp | 30.62% | Lvl 09 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 145
+[20:52:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemRazzBerry, 3 x ItemPokeBall
+[20:52:05] (POKESTOP) UT Auditorium 2 in 97.03 m distance
+[20:52:05] (NAVIGATION) Distance to target location: 97.03 meters. Will take 10.92 seconds driving at 32kmh
+[20:52:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:52:17] (POKESTOP) CREATE: Campus for Research Ex in 150.23 m distance
+[20:52:17] (NAVIGATION) Distance to target location: 150.23 meters. Will take 18.03 seconds driving at 30kmh
+[20:52:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:52:36] (POKESTOP) You Hold The Key in 88.04 m distance
+[20:52:36] (NAVIGATION) Distance to target location: 88.04 meters. Will take 11.32 seconds driving at 28kmh
+[20:52:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:52:45] (INFO) Found 1 catchable Pokemon
+[20:52:48] (Wild Success) | Pidgey 70 V |   39 Cp | 16.27% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
