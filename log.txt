@@ -34080,3 +34080,7 @@
 [20:59:10] (TRANSFER) Pidgey 115 V |  343 Cp | 40.81% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 645
 [20:59:25] (INFO) Found 1 catchable Pokemon
 [20:59:27] (Wild Success) | Weedle 101 V |  177 Cp | 27.98% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[20:59:28] (INFO) Found 1 pokemon to transfer...
+[20:59:30] (TRANSFER) Weedle 101 V |  177 Cp | 27.98% | Lvl 18 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 228
+[20:59:31] (INFO) Found 1 catchable Pokemon
+[20:59:33] (Wild Success) | Spearow 85 V |  138 Cp | 20.63% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
