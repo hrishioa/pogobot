@@ -41162,3 +41162,15 @@
 [00:58:55] (NAVIGATION) Distance to target location: 77.51 meters. Will take 9 seconds driving at 31kmh
 [00:59:01] (INFO) Found 1 catchable Pokemon
 [00:59:03] (Wild Success) | Bellsprout 129 V |  212 Cp | 28.04% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:59:05] (INFO) Found 1 pokemon to transfer...
+[00:59:06] (TRANSFER) Bellsprout 129 V |  212 Cp | 28.04% | Lvl 08 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 82
+[00:59:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
+[00:59:08] (INFO) Found 4 Recyclable Items:
+[00:59:09] (RECYCLING) PokeBall x 8
+[00:59:09] (RECYCLING) Potion x 1
+[00:59:10] (RECYCLING) SuperPotion x 1
+[00:59:11] (RECYCLING) Revive x 2
+[00:59:14] (POKESTOP) Merlion - Sentosa Island in 75.3 m distance
+[00:59:14] (NAVIGATION) Distance to target location: 75.3 meters. Will take 9.35 seconds driving at 29kmh
+[00:59:20] (INFO) Found 1 catchable Pokemon
+[00:59:22] (Wild Success) | Weedle 68 V |   77 Cp | 28.00% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
