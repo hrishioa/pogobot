@@ -41730,3 +41730,7 @@
 [01:16:09] (INFO) Found 1 catchable Pokemon
 [01:16:11] (BERRY) ItemRazzBerry used, remaining: 49
 [01:16:11] (Wild Success) | Voltorb 207 V |  551 Cp | 82.98% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[01:16:13] (INFO) Found 1 pokemon to transfer...
+[01:16:15] (TRANSFER) Voltorb 192 V |  452 Cp | 76.97% | Lvl 20 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 148
+[01:16:16] (INFO) Found 1 catchable Pokemon
+[01:16:18] (Wild Success) | Geodude 112 V |   10 Cp | 56.21% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
