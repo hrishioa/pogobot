@@ -35575,3 +35575,12 @@
 [21:50:10] (NAVIGATION) Distance to target location: 94.06 meters. Will take 12.09 seconds driving at 28kmh
 [21:50:13] (INFO) Found 1 catchable Pokemon
 [21:50:16] (Wild Success) | Magikarp 61 V |   83 Cp | 27.51% | Lvl 16 | Chance: 0.52 | with a PokeBall and received XP 210
+[21:50:18] (INFO) Found 1 pokemon to transfer...
+[21:50:19] (TRANSFER) Magikarp 61 V |   83 Cp | 27.51% | Lvl 16 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 218
+[21:50:23] (POKESTOP) UT Auditorium 2 in 95.9 m distance
+[21:50:23] (NAVIGATION) Distance to target location: 95.9 meters. Will take 10.79 seconds driving at 32kmh
+[21:50:33] (POKESTOP) CREATE: Campus for Research Ex in 149.51 m distance
+[21:50:33] (NAVIGATION) Distance to target location: 149.51 meters. Will take 16.82 seconds driving at 32kmh
+[21:50:48] (INFO) Found 1 catchable Pokemon
+[21:50:50] (BERRY) ItemRazzBerry used, remaining: 38
+[21:50:51] (Wild Success) | Spearow 134 V |  368 Cp | 60.24% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
