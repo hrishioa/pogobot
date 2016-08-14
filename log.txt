@@ -43033,3 +43033,25 @@
 [01:53:10] (NAVIGATION) Distance to target location: 79.45 meters. Will take 9.23 seconds driving at 31kmh
 [01:53:15] (INFO) Found 1 catchable Pokemon
 [01:53:17] (Wild Success) | Voltorb 148 V |  235 Cp | 55.36% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:53:18] (INFO) Found 1 pokemon to transfer...
+[01:53:20] (TRANSFER) Voltorb 148 V |  235 Cp | 55.36% | Lvl 11 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 196
+[01:53:22] (INFO) Found 1 catchable Pokemon
+[01:53:23] (BERRY) ItemRazzBerry used, remaining: 48
+[01:53:24] (Wild Escape) | Tentacool 122 V |  530 Cp | 54.70% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[01:53:24] (BERRY) ItemRazzBerry used, remaining: 47
+[01:53:26] (Wild Success Attempt #2) | Tentacool 122 V |  530 Cp | 54.70% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[01:53:27] (INFO) Found 1 pokemon to transfer...
+[01:53:29] (TRANSFER) Tentacool 122 V |  530 Cp | 54.70% | Lvl 23 | Best: [Tentacool 168 V |  561 Cp | 59.98% | Lvl 24] | Candy: 88
+[01:53:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[01:53:31] (POKESTOP) Main Viewing Tank at S.E.A Aquarium  in 76.13 m distance
+[01:53:31] (NAVIGATION) Distance to target location: 76.13 meters. Will take 9.45 seconds driving at 29kmh
+[01:53:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:53:41] (POKESTOP) The Entrance in 159.89 m distance
+[01:53:41] (NAVIGATION) Distance to target location: 159.89 meters. Will take 17.99 seconds driving at 32kmh
+[01:53:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[01:53:59] (INFO) Found 3 Recyclable Items:
+[01:53:59] (RECYCLING) PokeBall x 9
+[01:54:00] (RECYCLING) Potion x 3
+[01:54:01] (RECYCLING) SuperPotion x 1
+[01:54:04] (INFO) Found 1 catchable Pokemon
+[01:54:04] (Wild Success) | Horsea 126 V |   31 Cp | 63.05% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
