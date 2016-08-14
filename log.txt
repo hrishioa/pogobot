@@ -33107,3 +33107,13 @@
 [20:24:21] (NAVIGATION) Distance to target location: 63.36 meters. Will take 8.15 seconds driving at 28kmh
 [20:24:23] (INFO) Found 1 catchable Pokemon
 [20:24:24] (Wild Success) | Rattata 144 V |  192 Cp | 62.86% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
+[20:24:26] (INFO) Found 1 pokemon to transfer...
+[20:24:28] (TRANSFER) Rattata 144 V |  192 Cp | 62.86% | Lvl 13 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 272
+[20:24:31] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:24:33] (POKESTOP) Cat Playground in 160 m distance
+[20:24:33] (NAVIGATION) Distance to target location: 160 meters. Will take 18 seconds driving at 32kmh
+[20:24:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:24:52] (POKESTOP) Clean & Green Singapore at Dover in 130.77 m distance
+[20:24:52] (NAVIGATION) Distance to target location: 130.77 meters. Will take 16.23 seconds driving at 29kmh
+[20:24:56] (INFO) Found 1 catchable Pokemon
+[20:24:57] (Wild Success) | Pidgey 83 V |   92 Cp | 34.23% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
