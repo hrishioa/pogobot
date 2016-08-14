@@ -40005,3 +40005,10 @@
 [00:25:45] (TRANSFER) Meowth 133 V |  311 Cp | 40.30% | Lvl 17 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 49
 [00:25:46] (INFO) Found 1 catchable Pokemon
 [00:25:48] (Wild Success) | Meowth 140 V |  240 Cp | 43.64% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[00:25:50] (INFO) Found 1 pokemon to transfer...
+[00:25:51] (TRANSFER) Meowth 140 V |  240 Cp | 43.64% | Lvl 13 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 53
+[00:25:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[00:25:54] (POKESTOP) Aladin Fountain in 59.8 m distance
+[00:25:54] (NAVIGATION) Distance to target location: 59.8 meters. Will take 7.18 seconds driving at 30kmh
+[00:25:59] (INFO) Found 1 catchable Pokemon
+[00:26:01] (Wild Success) | Voltorb 151 V |  341 Cp | 55.15% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
