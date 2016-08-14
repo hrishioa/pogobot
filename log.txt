@@ -30543,3 +30543,10 @@
 [13:36:36] (NAVIGATION) Distance to target location: 718.8 meters. Will take 36.97 seconds driving at 70kmh
 [13:36:51] (INFO) Found 1 catchable Pokemon
 [13:36:53] (Wild Success) | Venonat 115 V |   13 Cp | 63.88% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[13:36:55] (INFO) Found 1 pokemon to transfer...
+[13:36:57] (TRANSFER) Venonat 115 V |   13 Cp | 63.88% | Lvl 01 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 178
+[13:37:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemMaxPotion, 1 x ItemPokeBall
+[13:37:15] (POKESTOP) West Coast Park in 220.13 m distance
+[13:37:15] (NAVIGATION) Distance to target location: 220.13 meters. Will take 19.81 seconds driving at 40kmh
+[13:37:26] (INFO) Found 1 catchable Pokemon
+[13:37:27] (Wild Success) | Spearow 75 V |   10 Cp | 24.35% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
