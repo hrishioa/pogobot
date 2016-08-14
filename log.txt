@@ -39268,3 +39268,13 @@
 [00:00:13] (NAVIGATION) Distance to target location: 235.44 meters. Will take 19.71 seconds driving at 43kmh
 [00:00:31] (INFO) Found 1 catchable Pokemon
 [00:00:33] (Wild Success) | Magnemite 120 V |  107 Cp | 59.22% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:00:34] (INFO) Found 1 pokemon to transfer...
+[00:00:36] (TRANSFER) Magnemite 120 V |  107 Cp | 59.22% | Lvl 05 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 54
+[00:00:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemUltraBall
+[00:00:38] (INFO) Found 2 Recyclable Items:
+[00:00:38] (RECYCLING) PokeBall x 9
+[00:00:39] (RECYCLING) Revive x 2
+[00:00:42] (POKESTOP) Horseshoe Sculpture at Capella  in 326.47 m distance
+[00:00:42] (NAVIGATION) Distance to target location: 326.47 meters. Will take 19.92 seconds driving at 59kmh
+[00:01:01] (INFO) Found 1 catchable Pokemon
+[00:01:02] (Wild Success) | Spearow 115 V |  153 Cp | 53.15% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
