@@ -31846,3 +31846,16 @@
 [14:23:14] (Wild Success) | Zubat 146 V |  170 Cp | 73.93% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [14:23:15] (BERRY) ItemRazzBerry used, remaining: 45
 [14:23:16] (Wild Success) | Pidgey 100 V |  358 Cp | 13.50% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[14:23:18] (INFO) Found 2 pokemon to transfer...
+[14:23:20] (TRANSFER) Zubat 146 V |  170 Cp | 73.93% | Lvl 10 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 926
+[14:23:22] (TRANSFER) Pidgey 100 V |  358 Cp | 13.50% | Lvl 24 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1294
+[14:23:25] (POKESTOP) West Coast Plaza Triple Fountain in 64.92 m distance
+[14:23:25] (NAVIGATION) Distance to target location: 64.92 meters. Will take 7.79 seconds driving at 30kmh
+[14:23:32] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 43.65 m distance
+[14:23:32] (NAVIGATION) Distance to target location: 43.65 meters. Will take 5.07 seconds driving at 31kmh
+[14:23:37] (POKESTOP) Wall Water Fountain in 52.65 m distance
+[14:23:37] (NAVIGATION) Distance to target location: 52.65 meters. Will take 6.77 seconds driving at 28kmh
+[14:23:44] (POKESTOP) Health Mural in 79.34 m distance
+[14:23:44] (NAVIGATION) Distance to target location: 79.34 meters. Will take 9.85 seconds driving at 29kmh
+[14:23:50] (INFO) Found 1 catchable Pokemon
+[14:23:52] (Wild Success) | Rhyhorn 106 V |  112 Cp | 55.30% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
