@@ -41715,3 +41715,18 @@
 [01:15:11] (NAVIGATION) Distance to target location: 113.87 meters. Will take 13.22 seconds driving at 31kmh
 [01:15:22] (INFO) Found 1 catchable Pokemon
 [01:15:24] (Wild Success) | Kakuna 66 V |  238 Cp | 10.02% | Lvl 24 | Chance: 0.15 | with a GreatBall and received XP 210
+[01:15:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[01:15:27] (POKESTOP) iFly Singapore in 74.47 m distance
+[01:15:27] (NAVIGATION) Distance to target location: 74.47 meters. Will take 8.38 seconds driving at 32kmh
+[01:15:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall
+[01:15:36] (POKESTOP) Musical Eggs in 69.34 m distance
+[01:15:36] (NAVIGATION) Distance to target location: 69.34 meters. Will take 8.61 seconds driving at 29kmh
+[01:15:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:15:44] (POKESTOP) Snakes and Ladders in 74.02 m distance
+[01:15:44] (NAVIGATION) Distance to target location: 74.02 meters. Will take 8.88 seconds driving at 30kmh
+[01:15:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:15:53] (POKESTOP) Star Dots in 442.69 m distance
+[01:15:53] (NAVIGATION) Distance to target location: 442.69 meters. Will take 22.77 seconds driving at 70kmh
+[01:16:09] (INFO) Found 1 catchable Pokemon
+[01:16:11] (BERRY) ItemRazzBerry used, remaining: 49
+[01:16:11] (Wild Success) | Voltorb 207 V |  551 Cp | 82.98% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
