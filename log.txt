@@ -45698,3 +45698,12 @@
 [03:17:17] (INFO) Found 2 catchable Pokemon
 [03:17:18] (Wild Success) | Pidgey 116 V |  132 Cp | 48.13% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [03:17:20] (Wild Success) | Bulbasaur 113 V |   41 Cp | 38.87% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
+[03:17:21] (INFO) Found 2 pokemon to transfer...
+[03:17:23] (TRANSFER) Bulbasaur 113 V |   41 Cp | 38.87% | Lvl 02 | Best: [Bulbasaur 174 V |  480 Cp | 40.91% | Lvl 18] | Candy: 49
+[03:17:26] (TRANSFER) Pidgey 116 V |  132 Cp | 48.13% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 796
+[03:17:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion
+[03:17:31] (POKESTOP) Keppel Club Tennis Hall in 137.27 m distance
+[03:17:31] (NAVIGATION) Distance to target location: 137.27 meters. Will take 15.44 seconds driving at 32kmh
+[03:17:40] (INFO) Found 2 catchable Pokemon
+[03:17:41] (BERRY) ItemRazzBerry used, remaining: 39
+[03:17:42] (Wild Success) | Goldeen 161 V |  559 Cp | 48.23% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
