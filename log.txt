@@ -31293,3 +31293,10 @@
 [14:03:26] (NAVIGATION) Distance to target location: 77.81 meters. Will take 9.34 seconds driving at 30kmh
 [14:03:28] (INFO) Found 1 catchable Pokemon
 [14:03:30] (Wild Success) | Spearow 145 V |  259 Cp | 78.80% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[14:03:32] (INFO) Found 1 pokemon to transfer...
+[14:03:33] (TRANSFER) Spearow 145 V |  259 Cp | 78.80% | Lvl 14 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 333
+[14:03:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[14:03:38] (POKESTOP) Flag Gathering Area in 88.97 m distance
+[14:03:38] (NAVIGATION) Distance to target location: 88.97 meters. Will take 10.01 seconds driving at 32kmh
+[14:03:42] (INFO) Found 1 catchable Pokemon
+[14:03:43] (Wild Success) | Caterpie 98 V |  129 Cp | 35.06% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
