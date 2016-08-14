@@ -31011,3 +31011,27 @@
 [13:54:06] (TRANSFER) Pidgey 113 V |   62 Cp | 52.44% | Lvl 04 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1238
 [13:54:07] (INFO) Found 1 catchable Pokemon
 [13:54:09] (Wild Success) | Pidgey 110 V |   10 Cp | 58.91% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[13:54:11] (INFO) Found 1 pokemon to transfer...
+[13:54:12] (TRANSFER) Pidgey 110 V |   10 Cp | 58.91% | Lvl 01 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1242
+[13:54:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[13:54:16] (POKESTOP) Red Fire Truck in 67.44 m distance
+[13:54:16] (NAVIGATION) Distance to target location: 67.44 meters. Will take 8.09 seconds driving at 30kmh
+[13:54:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:54:24] (POKESTOP) Blue Dragon Boat  in 72.1 m distance
+[13:54:24] (NAVIGATION) Distance to target location: 72.1 meters. Will take 8.65 seconds driving at 30kmh
+[13:54:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[13:54:33] (POKESTOP) Campsite Area in 56.1 m distance
+[13:54:33] (NAVIGATION) Distance to target location: 56.1 meters. Will take 7.21 seconds driving at 28kmh
+[13:54:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:54:40] (POKESTOP) Pyramid Web with Slider in 107.94 m distance
+[13:54:40] (NAVIGATION) Distance to target location: 107.94 meters. Will take 13.88 seconds driving at 28kmh
+[13:54:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemPokeBall
+[13:54:53] (INFO) Found 4 Recyclable Items:
+[13:54:53] (RECYCLING) PokeBall x 7
+[13:54:54] (RECYCLING) Potion x 1
+[13:54:55] (RECYCLING) SuperPotion x 1
+[13:54:57] (RECYCLING) Revive x 1
+[13:54:59] (POKESTOP) Retro Chess Table  in 73.61 m distance
+[13:54:59] (NAVIGATION) Distance to target location: 73.61 meters. Will take 8.28 seconds driving at 32kmh
+[13:55:05] (INFO) Found 1 catchable Pokemon
+[13:55:07] (Wild Success) | Venonat 152 V |  416 Cp | 47.99% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
