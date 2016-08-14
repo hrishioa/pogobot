@@ -34442,3 +34442,20 @@
 [21:06:34] (INFO) Found 2 catchable Pokemon
 [21:06:36] (Wild Success) | Horsea 143 V |  353 Cp | 47.61% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
 [21:06:37] (Wild Success) | Zubat 153 V |  340 Cp | 73.76% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
+[21:06:39] (INFO) Found 1 pokemon to transfer...
+[21:06:41] (TRANSFER) Zubat 153 V |  340 Cp | 73.76% | Lvl 20 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 938
+[21:06:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 2 x ItemGreatBall
+[21:06:43] (POKESTOP) Integration in 53.99 m distance
+[21:06:43] (NAVIGATION) Distance to target location: 53.99 meters. Will take 6.48 seconds driving at 30kmh
+[21:06:47] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[21:06:51] (POKESTOP) The Baroque Scroll in 47.45 m distance
+[21:06:51] (NAVIGATION) Distance to target location: 47.45 meters. Will take 5.69 seconds driving at 30kmh
+[21:06:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:06:56] (POKESTOP) Synergy in Motion in 63.88 m distance
+[21:06:56] (NAVIGATION) Distance to target location: 63.88 meters. Will take 7.42 seconds driving at 31kmh
+[21:07:02] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:07:04] (POKESTOP) Sage In Shaw in 41.24 m distance
+[21:07:04] (NAVIGATION) Distance to target location: 41.24 meters. Will take 5.3 seconds driving at 28kmh
+[21:07:05] (INFO) Found 1 catchable Pokemon
+[21:07:06] (BERRY) ItemRazzBerry used, remaining: 48
+[21:07:08] (Wild Success) | Grimer 162 V |  723 Cp | 47.98% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
