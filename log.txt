@@ -41816,3 +41816,10 @@
 [01:18:42] (INFO) Found 2 catchable Pokemon
 [01:18:43] (Wild Success) | Magnemite 84 V |   54 Cp | 29.12% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [01:18:45] (Wild Success) | Rattata 112 V |  149 Cp | 36.60% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:18:46] (INFO) Found 2 pokemon to transfer...
+[01:18:48] (TRANSFER) Magnemite 84 V |   54 Cp | 29.12% | Lvl 03 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 142
+[01:18:50] (TRANSFER) Rattata 112 V |  149 Cp | 36.60% | Lvl 11 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 364
+[01:18:51] (POKESTOP) Sentosa Play Fountain in 106.49 m distance
+[01:18:51] (NAVIGATION) Distance to target location: 106.49 meters. Will take 13.69 seconds driving at 28kmh
+[01:18:52] (INFO) Found 1 catchable Pokemon
+[01:18:54] (Wild Success) | Meowth 112 V |  210 Cp | 26.21% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
