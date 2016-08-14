@@ -33641,3 +33641,29 @@
 [20:41:32] (NAVIGATION) Distance to target location: 837.93 meters. Will take 43.09 seconds driving at 70kmh
 [20:42:15] (INFO) Found 1 catchable Pokemon
 [20:42:17] (Wild Success) | Spearow 119 V |  268 Cp | 45.34% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
+[20:42:19] (INFO) Found 1 pokemon to transfer...
+[20:42:20] (TRANSFER) Spearow 119 V |  268 Cp | 45.34% | Lvl 16 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 207
+[20:42:22] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPotion, 1 x ItemPokeBall
+[20:42:23] (POKESTOP) Tree Mural in 52.86 m distance
+[20:42:23] (NAVIGATION) Distance to target location: 52.86 meters. Will take 6.56 seconds driving at 29kmh
+[20:42:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:42:28] (INFO) Found 1 Recyclable Item:
+[20:42:29] (RECYCLING) Potion x 1
+[20:42:32] (POKESTOP) Happy Doctor Nurse and Patient in 91.45 m distance
+[20:42:32] (NAVIGATION) Distance to target location: 91.45 meters. Will take 11.35 seconds driving at 29kmh
+[20:42:40] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:42:41] (ATTENTION) No locations in your area...
+[20:42:46] (INFO) Found 86 Pokestops
+[20:42:47] (POKESTOP) SiT main building  in 374.09 m distance
+[20:42:47] (NAVIGATION) Distance to target location: 374.09 meters. Will take 19.8 seconds driving at 68kmh
+[20:43:07] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:43:08] (POKESTOP) Mosaic Mural at ITE in 61.54 m distance
+[20:43:08] (NAVIGATION) Distance to target location: 61.54 meters. Will take 6.92 seconds driving at 32kmh
+[20:43:13] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:43:14] (POKESTOP) Wooden Shell (Right) in 88.71 m distance
+[20:43:14] (NAVIGATION) Distance to target location: 88.71 meters. Will take 11.01 seconds driving at 29kmh
+[20:43:23] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:43:25] (POKESTOP) Root II by Min Chen in 41.25 m distance
+[20:43:25] (NAVIGATION) Distance to target location: 41.25 meters. Will take 5.3 seconds driving at 28kmh
+[20:43:26] (INFO) Found 1 catchable Pokemon
+[20:43:28] (Wild Success) | Zubat 105 V |   10 Cp | 48.91% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
