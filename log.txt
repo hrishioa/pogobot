@@ -40000,3 +40000,8 @@
 [00:25:36] (INFO) Found 2 catchable Pokemon
 [00:25:37] (Wild Success) | Meowth 133 V |  311 Cp | 40.30% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
 [00:25:39] (Wild Success) | Magnemite 86 V |   73 Cp | 16.70% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[00:25:41] (INFO) Found 2 pokemon to transfer...
+[00:25:42] (TRANSFER) Magnemite 86 V |   73 Cp | 16.70% | Lvl 04 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 74
+[00:25:45] (TRANSFER) Meowth 133 V |  311 Cp | 40.30% | Lvl 17 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 49
+[00:25:46] (INFO) Found 1 catchable Pokemon
+[00:25:48] (Wild Success) | Meowth 140 V |  240 Cp | 43.64% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
