@@ -39440,3 +39440,10 @@
 [00:08:10] (INFO) Found 2 catchable Pokemon
 [00:08:11] (Wild Success) | NidoranMale 76 V |   10 Cp | 36.35% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [00:08:14] (Wild Success) | Pidgey 102 V |  315 Cp | 30.14% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[00:08:16] (INFO) Found 2 pokemon to transfer...
+[00:08:19] (TRANSFER) Pidgey 102 V |  315 Cp | 30.14% | Lvl 20 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 673
+[00:08:21] (TRANSFER) NidoranMale 76 V |   10 Cp | 36.35% | Lvl 01 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 26
+[00:08:22] (POKESTOP) Skyline Luge Sentosa in 102.33 m distance
+[00:08:22] (NAVIGATION) Distance to target location: 102.33 meters. Will take 12.28 seconds driving at 30kmh
+[00:08:29] (INFO) Found 1 catchable Pokemon
+[00:08:30] (Wild Success) | Geodude 132 V |  354 Cp | 41.61% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
