@@ -32136,3 +32136,13 @@
 [14:35:56] (NAVIGATION) Distance to target location: 403.66 meters. Will take 20.76 seconds driving at 70kmh
 [14:36:11] (INFO) Found 1 catchable Pokemon
 [14:36:13] (Wild Success) | Poliwag 77 V |   10 Cp | 17.33% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[14:36:14] (INFO) Found 1 pokemon to transfer...
+[14:36:16] (TRANSFER) Poliwag 77 V |   10 Cp | 17.33% | Lvl 01 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 224
+[14:36:20] (POKESTOP) Clementi Woods Fitness Corner in 174.18 m distance
+[14:36:20] (NAVIGATION) Distance to target location: 174.18 meters. Will take 19.59 seconds driving at 32kmh
+[14:36:39] (POKESTOP) West Coast Park Connector in 481.47 m distance
+[14:36:39] (NAVIGATION) Distance to target location: 481.47 meters. Will take 24.76 seconds driving at 70kmh
+[14:37:06] (POKESTOP) West Coast Park Sign in 98.38 m distance
+[14:37:06] (NAVIGATION) Distance to target location: 98.38 meters. Will take 12.65 seconds driving at 28kmh
+[14:37:11] (INFO) Found 1 catchable Pokemon
+[14:37:13] (Wild Success) | Venonat 157 V |  190 Cp | 75.96% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
