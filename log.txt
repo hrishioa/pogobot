@@ -35970,3 +35970,15 @@
 [22:04:39] (TRANSFER) Caterpie 78 V |   81 Cp | 14.52% | Lvl 09 | Best: [Caterpie 120 V |  201 Cp | 50.39% | Lvl 19] | Candy: 215
 [22:04:40] (INFO) Found 1 catchable Pokemon
 [22:04:41] (Wild Success) | Spearow 105 V |   10 Cp | 54.05% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:04:43] (INFO) Found 1 pokemon to transfer...
+[22:04:45] (TRANSFER) Spearow 105 V |   10 Cp | 54.05% | Lvl 01 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 377
+[22:04:48] (POKESTOP) Biological Atom in 42.38 m distance
+[22:04:48] (NAVIGATION) Distance to target location: 42.38 meters. Will take 5.09 seconds driving at 30kmh
+[22:04:52] (POKESTOP) NUS Historial Plaques in 89.8 m distance
+[22:04:52] (NAVIGATION) Distance to target location: 89.8 meters. Will take 10.43 seconds driving at 31kmh
+[22:04:55] (INFO) Found 1 catchable Pokemon
+[22:04:55] (BERRY) ItemRazzBerry used, remaining: 36
+[22:04:56] (Wild Error) | Eevee 160 V |  415 Cp | 53.19% | Lvl 15 | Chance: 0.3 | with a UltraBall 
+[22:05:01] (INFO) Found 2 catchable Pokemon
+[22:05:02] (Wild Error) | Eevee 160 V |  415 Cp | 53.19% | Lvl 15 | Chance: 0.3 | with a UltraBall 
+[22:05:04] (Wild Success) | Caterpie 97 V |   57 Cp | 35.84% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
