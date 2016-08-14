@@ -34817,3 +34817,21 @@
 [21:21:09] (Wild Success) | Spearow 106 V |  181 Cp | 40.62% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 420
 [21:21:11] (Wild Success) | Spearow 122 V |  270 Cp | 48.18% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
 [21:21:13] (Wild Success) | Weedle 84 V |   65 Cp | 23.02% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
+[21:21:15] (INFO) Found 3 pokemon to transfer...
+[21:21:16] (TRANSFER) Spearow 122 V |  270 Cp | 48.18% | Lvl 16 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 352
+[21:21:19] (TRANSFER) Spearow 106 V |  181 Cp | 40.62% | Lvl 11 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 353
+[21:21:20] (TRANSFER) Weedle 84 V |   65 Cp | 23.02% | Lvl 07 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 583
+[21:21:24] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[21:21:26] (POKESTOP) Faculty of Dentistry in 80.21 m distance
+[21:21:26] (NAVIGATION) Distance to target location: 80.21 meters. Will take 9.63 seconds driving at 30kmh
+[21:21:33] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[21:21:36] (POKESTOP) NUS Faculty of Dentistry in 97.09 m distance
+[21:21:36] (NAVIGATION) Distance to target location: 97.09 meters. Will take 12.48 seconds driving at 28kmh
+[21:21:47] (POKESTOP) Owl Statue in 88.89 m distance
+[21:21:47] (NAVIGATION) Distance to target location: 88.89 meters. Will take 10 seconds driving at 32kmh
+[21:21:57] (POKESTOP) Hippocratic Oath in 94.14 m distance
+[21:21:57] (NAVIGATION) Distance to target location: 94.14 meters. Will take 11.69 seconds driving at 29kmh
+[21:22:02] (INFO) Found 2 catchable Pokemon
+[21:22:03] (Wild Escape) | Weedle 52 V |   91 Cp | 11.22% | Lvl 10 | Chance: 0.47 | with a PokeBall 
+[21:22:04] (Wild Success Attempt #2) | Weedle 52 V |   91 Cp | 11.22% | Lvl 10 | Chance: 0.47 | with a PokeBall 
+[21:22:07] (Wild Success) | Pidgey 118 V |  317 Cp | 31.41% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
