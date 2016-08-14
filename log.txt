@@ -43427,3 +43427,10 @@
 [02:04:01] (INFO) Found 1 catchable Pokemon
 [02:04:03] (BERRY) ItemRazzBerry used, remaining: 47
 [02:04:04] (Wild Success) | Mankey 148 V |  438 Cp | 47.14% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[02:04:06] (INFO) Found 1 pokemon to transfer...
+[02:04:07] (TRANSFER) Mankey 139 V |  159 Cp | 70.99% | Lvl 07 | Best: [Mankey 148 V |  438 Cp | 47.14% | Lvl 20] | Candy: 37
+[02:04:10] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall, 2 x ItemPotion, 1 x ItemUltraBall
+[02:04:12] (POKESTOP) Siloso Light Source  in 171.65 m distance
+[02:04:12] (NAVIGATION) Distance to target location: 171.65 meters. Will take 19.93 seconds driving at 31kmh
+[02:04:22] (INFO) Found 1 catchable Pokemon
+[02:04:23] (Wild Success) | Sandshrew 102 V |  190 Cp | 33.30% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
