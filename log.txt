@@ -42878,3 +42878,4 @@
 [01:50:21] (NAVIGATION) Distance to target location: 52.29 meters. Will take 6.72 seconds driving at 28kmh
 [01:50:24] (INFO) Found 2 catchable Pokemon
 [01:50:24] (Wild Success) | Voltorb 144 V |  354 Cp | 46.67% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[01:50:26] (Wild Success) | Growlithe 134 V |  302 Cp | 41.94% | Lvl 09 | Chance: 0.3 | with a UltraBall and received XP 210
