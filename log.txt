@@ -42234,3 +42234,4 @@
 [01:30:51] (TRANSFER) NidoranMale 121 V |  437 Cp | 28.14% | Lvl 22 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 34
 [01:30:52] (INFO) Found 2 catchable Pokemon
 [01:30:54] (Wild Success) | Voltorb 161 V |  242 Cp | 66.90% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:30:55] (Wild Success) | Rattata 130 V |  236 Cp | 44.36% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
