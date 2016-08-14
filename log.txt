@@ -31647,3 +31647,4 @@
 [14:16:04] (Wild Escape Attempt #2) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
 [14:16:06] (Wild Success Attempt #3) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
 [14:16:07] (Wild Success) | Pidgey 121 V |  303 Cp | 51.06% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[14:16:09] (Wild Success) | Staryu 140 V |   40 Cp | 84.39% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
