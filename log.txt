@@ -23901,3 +23901,13 @@
 [09:23:41] (INFO) Found 1 catchable Pokemon
 [09:23:42] (BERRY) ItemRazzBerry used, remaining: 43
 [09:23:43] (Wild Success) | Dodrio 247 V | 1006 Cp | 76.06% | Lvl 20 | Chance: 0.13 | with a GreatBall and received XP 210
+[09:23:45] (INFO) Found 1 pokemon to transfer...
+[09:23:47] (TRANSFER) Dodrio 139 V |   76 Cp | 65.61% | Lvl 02 | Best: [Dodrio 247 V | 1006 Cp | 76.06% | Lvl 20] | Candy: 69
+[09:23:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[09:23:51] (POKESTOP) Majestic Rover in 94.5 m distance
+[09:23:51] (NAVIGATION) Distance to target location: 94.5 meters. Will take 10.63 seconds driving at 32kmh
+[09:24:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[09:24:02] (POKESTOP) Taman Mas Merah Playground in 160.57 m distance
+[09:24:02] (NAVIGATION) Distance to target location: 160.57 meters. Will take 18.06 seconds driving at 32kmh
+[09:24:15] (INFO) Found 1 catchable Pokemon
+[09:24:16] (Wild Success) | Pidgey 103 V |  303 Cp | 17.82% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
