@@ -38119,3 +38119,5 @@
 [23:20:07] (INFO) Found 2 catchable Pokemon
 [23:20:08] (BERRY) ItemRazzBerry used, remaining: 47
 [23:20:09] (Wild Success) | Shellder 164 V |  486 Cp | 60.24% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[23:20:10] (BERRY) ItemRazzBerry used, remaining: 46
+[23:20:12] (Wild Success) | Voltorb 166 V |  399 Cp | 49.11% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
