@@ -35982,3 +35982,529 @@
 [22:05:01] (INFO) Found 2 catchable Pokemon
 [22:05:02] (Wild Error) | Eevee 160 V |  415 Cp | 53.19% | Lvl 15 | Chance: 0.3 | with a UltraBall 
 [22:05:04] (Wild Success) | Caterpie 97 V |   57 Cp | 35.84% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[22:05:06] (INFO) Found 1 pokemon to transfer...
+[22:05:07] (TRANSFER) Caterpie 97 V |   57 Cp | 35.84% | Lvl 06 | Best: [Caterpie 120 V |  201 Cp | 50.39% | Lvl 19] | Candy: 219
+[22:05:08] (INFO) Found 1 catchable Pokemon
+[22:05:09] (ATTENTION) No Pokeballs :( - We missed Eevee 160 V |  415 Cp | 53.19% | Lvl 15
+[22:05:11] (POKESTOP) Tree of Benevolence in 67.58 m distance
+[22:05:11] (NAVIGATION) Distance to target location: 67.58 meters. Will take 8.69 seconds driving at 28kmh
+[22:05:14] (INFO) Found 1 catchable Pokemon
+[22:05:15] (ATTENTION) No Pokeballs :( - We missed Eevee 160 V |  415 Cp | 53.19% | Lvl 15
+[22:05:20] (POKESTOP) Mochtar Riady Building in 62.75 m distance
+[22:05:20] (NAVIGATION) Distance to target location: 62.75 meters. Will take 8.07 seconds driving at 28kmh
+[22:05:22] (INFO) Found 1 catchable Pokemon
+[22:05:23] (ATTENTION) No Pokeballs :( - We missed Eevee 160 V |  415 Cp | 53.19% | Lvl 15
+[22:05:28] (POKESTOP) SeSaMe Center in 61.84 m distance
+[22:05:28] (NAVIGATION) Distance to target location: 61.84 meters. Will take 6.96 seconds driving at 32kmh
+[22:05:34] (POKESTOP) Kent Ridge Hall in 71.4 m distance
+[22:05:34] (NAVIGATION) Distance to target location: 71.4 meters. Will take 8.57 seconds driving at 30kmh
+[22:05:42] (POKESTOP) Waterfall Fountain in 79.13 m distance
+[22:05:42] (NAVIGATION) Distance to target location: 79.13 meters. Will take 9.82 seconds driving at 29kmh
+[22:05:52] (POKESTOP) NUS Business School in 88.33 m distance
+[22:05:52] (NAVIGATION) Distance to target location: 88.33 meters. Will take 10.6 seconds driving at 30kmh
+[22:06:02] (POKESTOP) The Baroque Scroll in 171.78 m distance
+[22:06:02] (NAVIGATION) Distance to target location: 171.78 meters. Will take 19.95 seconds driving at 31kmh
+[22:06:10] (INFO) Found 1 catchable Pokemon
+[22:06:11] (ATTENTION) No Pokeballs :( - We missed Eevee 160 V |  415 Cp | 53.19% | Lvl 15
+[22:06:17] (INFO) Found 1 catchable Pokemon
+[22:06:18] (ATTENTION) No Pokeballs :( - We missed Eevee 160 V |  415 Cp | 53.19% | Lvl 15
+[22:06:23] (POKESTOP) Integration in 41.76 m distance
+[22:06:23] (NAVIGATION) Distance to target location: 41.76 meters. Will take 5.18 seconds driving at 29kmh
+[22:06:24] (INFO) Found 1 catchable Pokemon
+[22:06:25] (ATTENTION) No Pokeballs :( - We missed Eevee 160 V |  415 Cp | 53.19% | Lvl 15
+[22:06:29] (POKESTOP) NUS Graduate Pot in 78.02 m distance
+[22:06:29] (NAVIGATION) Distance to target location: 78.02 meters. Will take 9.36 seconds driving at 30kmh
+[22:06:39] (POKESTOP) NUS 1962-1980 in 79.38 m distance
+[22:06:39] (NAVIGATION) Distance to target location: 79.38 meters. Will take 10.21 seconds driving at 28kmh
+[22:06:48] (POKESTOP) Tiled Falls in 63.39 m distance
+[22:06:48] (NAVIGATION) Distance to target location: 63.39 meters. Will take 7.13 seconds driving at 32kmh
+[22:06:55] (POKESTOP) NUS Model in 40.08 m distance
+[22:06:55] (NAVIGATION) Distance to target location: 40.08 meters. Will take 4.51 seconds driving at 32kmh
+[22:06:59] (POKESTOP) The Deck at Arts Faculty in 120.87 m distance
+[22:06:59] (NAVIGATION) Distance to target location: 120.87 meters. Will take 14.5 seconds driving at 30kmh
+[22:07:05] (INFO) Found 1 catchable Pokemon
+[22:07:06] (ATTENTION) No Pokeballs :( - We missed Zubat 174 V |  347 Cp | 63.70% | Lvl 21
+[22:07:12] (INFO) Found 1 catchable Pokemon
+[22:07:12] (ATTENTION) No Pokeballs :( - We missed Zubat 174 V |  347 Cp | 63.70% | Lvl 21
+[22:07:14] (POKESTOP) Fragrant Plant Garden in 92.68 m distance
+[22:07:14] (NAVIGATION) Distance to target location: 92.68 meters. Will take 10.43 seconds driving at 32kmh
+[22:07:18] (INFO) Found 1 catchable Pokemon
+[22:07:18] (ATTENTION) No Pokeballs :( - We missed Zubat 174 V |  347 Cp | 63.70% | Lvl 21
+[22:07:24] (POKESTOP) Park Gazebos in 54.88 m distance
+[22:07:24] (NAVIGATION) Distance to target location: 54.88 meters. Will take 6.59 seconds driving at 30kmh
+[22:07:25] (INFO) Found 1 catchable Pokemon
+[22:07:25] (ATTENTION) No Pokeballs :( - We missed Pidgey 98 V |  284 Cp | 30.35% | Lvl 18
+[22:07:31] (POKESTOP) Footprint Bench in 157.49 m distance
+[22:07:31] (NAVIGATION) Distance to target location: 157.49 meters. Will take 18.9 seconds driving at 30kmh
+[22:07:33] (INFO) Found 1 catchable Pokemon
+[22:07:33] (ATTENTION) No Pokeballs :( - We missed Pidgey 98 V |  284 Cp | 30.35% | Lvl 18
+[22:07:50] (POKESTOP) Ventus in 91.86 m distance
+[22:07:50] (NAVIGATION) Distance to target location: 91.86 meters. Will take 10.33 seconds driving at 32kmh
+[22:08:00] (POKESTOP) Heritage Time Arc in 71.1 m distance
+[22:08:00] (NAVIGATION) Distance to target location: 71.1 meters. Will take 8.83 seconds driving at 29kmh
+[22:08:07] (POKESTOP) Corridor of Love Mural in 101.15 m distance
+[22:08:07] (NAVIGATION) Distance to target location: 101.15 meters. Will take 12.56 seconds driving at 29kmh
+[22:08:19] (POKESTOP) Eusoff Hall in 68.32 m distance
+[22:08:19] (NAVIGATION) Distance to target location: 68.32 meters. Will take 8.2 seconds driving at 30kmh
+[22:08:26] (POKESTOP) Eusoff Freshies Corner in 113.16 m distance
+[22:08:26] (NAVIGATION) Distance to target location: 113.16 meters. Will take 14.05 seconds driving at 29kmh
+[22:08:33] (INFO) Found 1 catchable Pokemon
+[22:08:33] (ATTENTION) No Pokeballs :( - We missed Spearow 126 V |  203 Cp | 49.14% | Lvl 12
+[22:08:39] (POKESTOP) Temasek Hall in 137.64 m distance
+[22:08:39] (NAVIGATION) Distance to target location: 137.64 meters. Will take 17.09 seconds driving at 29kmh
+[22:08:41] (INFO) Found 1 catchable Pokemon
+[22:08:41] (ATTENTION) No Pokeballs :( - We missed Spearow 126 V |  203 Cp | 49.14% | Lvl 12
+[22:08:48] (INFO) Found 1 catchable Pokemon
+[22:08:48] (ATTENTION) No Pokeballs :( - We missed Spearow 126 V |  203 Cp | 49.14% | Lvl 12
+[22:08:55] (POKESTOP) Rhythm in Space in 46.25 m distance
+[22:08:55] (NAVIGATION) Distance to target location: 46.25 meters. Will take 5.37 seconds driving at 31kmh
+[22:09:00] (POKESTOP) Blueprints Embedded On Stone in 170.19 m distance
+[22:09:00] (NAVIGATION) Distance to target location: 170.19 meters. Will take 19.76 seconds driving at 31kmh
+[22:09:20] (POKESTOP) Chinese Women Painting in 419.5 m distance
+[22:09:20] (NAVIGATION) Distance to target location: 419.5 meters. Will take 21.57 seconds driving at 70kmh
+[22:09:29] (INFO) Found 1 catchable Pokemon
+[22:09:30] (ATTENTION) No Pokeballs :( - We missed Zubat 174 V |  347 Cp | 63.70% | Lvl 21
+[22:09:37] (INFO) Found 1 catchable Pokemon
+[22:09:37] (ATTENTION) No Pokeballs :( - We missed Weedle 47 V |   43 Cp | 10.98% | Lvl 05
+[22:09:43] (POKESTOP) Kent Ridge Heritage Trail in 99.69 m distance
+[22:09:43] (NAVIGATION) Distance to target location: 99.69 meters. Will take 12.82 seconds driving at 28kmh
+[22:09:44] (INFO) Found 1 catchable Pokemon
+[22:09:45] (ATTENTION) No Pokeballs :( - We missed Weedle 85 V |  199 Cp | 9.61% | Lvl 22
+[22:09:50] (INFO) Found 2 catchable Pokemon
+[22:09:51] (ATTENTION) No Pokeballs :( - We missed Pidgey 111 V |  163 Cp | 39.77% | Lvl 10
+[22:09:52] (ATTENTION) No Pokeballs :( - We missed Weedle 85 V |  199 Cp | 9.61% | Lvl 22
+[22:09:56] (POKESTOP) Chinese Scholar Painting in 66.08 m distance
+[22:09:56] (NAVIGATION) Distance to target location: 66.08 meters. Will take 8.5 seconds driving at 28kmh
+[22:09:58] (INFO) Found 1 catchable Pokemon
+[22:09:59] (ATTENTION) No Pokeballs :( - We missed Pidgey 111 V |  163 Cp | 39.77% | Lvl 10
+[22:10:04] (POKESTOP) Centre For Development Of Teaching And Learning in 67.35 m distance
+[22:10:04] (NAVIGATION) Distance to target location: 67.35 meters. Will take 8.36 seconds driving at 29kmh
+[22:10:11] (POKESTOP) CRISP & TMSI in 108.45 m distance
+[22:10:11] (NAVIGATION) Distance to target location: 108.45 meters. Will take 12.2 seconds driving at 32kmh
+[22:10:23] (POKESTOP) Student Service Centre in 121.64 m distance
+[22:10:23] (NAVIGATION) Distance to target location: 121.64 meters. Will take 13.68 seconds driving at 32kmh
+[22:10:36] (POKESTOP) NUSSU Sign in 49.89 m distance
+[22:10:36] (NAVIGATION) Distance to target location: 49.89 meters. Will take 6.19 seconds driving at 29kmh
+[22:10:39] (INFO) Found 2 catchable Pokemon
+[22:10:40] (ATTENTION) No Pokeballs :( - We missed Pidgey 83 V |   59 Cp | 36.86% | Lvl 04
+[22:10:41] (ATTENTION) No Pokeballs :( - We missed Caterpie 83 V |  148 Cp | 17.67% | Lvl 16
+[22:10:45] (POKESTOP) Tree of Light Bulbs in 67.95 m distance
+[22:10:45] (NAVIGATION) Distance to target location: 67.95 meters. Will take 7.64 seconds driving at 32kmh
+[22:10:47] (INFO) Found 1 catchable Pokemon
+[22:10:48] (ATTENTION) No Pokeballs :( - We missed Pidgey 83 V |   59 Cp | 36.86% | Lvl 04
+[22:10:52] (POKESTOP) NUS Sports and Recreation Centre in 80.45 m distance
+[22:10:52] (NAVIGATION) Distance to target location: 80.45 meters. Will take 10.34 seconds driving at 28kmh
+[22:10:54] (INFO) Found 1 catchable Pokemon
+[22:10:55] (ATTENTION) No Pokeballs :( - We missed Poliwag 148 V |  367 Cp | 59.11% | Lvl 18
+[22:11:00] (INFO) Found 1 catchable Pokemon
+[22:11:00] (ATTENTION) No Pokeballs :( - We missed Eevee 143 V |  278 Cp | 55.26% | Lvl 10
+[22:11:03] (POKESTOP) Spring of Gratitude in 78.75 m distance
+[22:11:03] (NAVIGATION) Distance to target location: 78.75 meters. Will take 10.13 seconds driving at 28kmh
+[22:11:09] (INFO) Found 2 catchable Pokemon
+[22:11:09] (ATTENTION) No Pokeballs :( - We missed Eevee 143 V |  278 Cp | 55.26% | Lvl 10
+[22:11:10] (ATTENTION) No Pokeballs :( - We missed Poliwag 148 V |  367 Cp | 59.11% | Lvl 18
+[22:11:14] (INFO) Found 2 catchable Pokemon
+[22:11:15] (ATTENTION) No Pokeballs :( - We missed Caterpie 89 V |  104 Cp | 24.30% | Lvl 11
+[22:11:15] (ATTENTION) No Pokeballs :( - We missed Pidgey 96 V |  220 Cp | 29.23% | Lvl 14
+[22:11:17] (POKESTOP) Painted Glass Soccer Pane in 52.81 m distance
+[22:11:17] (NAVIGATION) Distance to target location: 52.81 meters. Will take 6.34 seconds driving at 30kmh
+[22:11:21] (INFO) Found 2 catchable Pokemon
+[22:11:21] (ATTENTION) No Pokeballs :( - We missed Caterpie 89 V |  104 Cp | 24.30% | Lvl 11
+[22:11:22] (ATTENTION) No Pokeballs :( - We missed Pidgey 96 V |  220 Cp | 29.23% | Lvl 14
+[22:11:25] (POKESTOP) A Spring Of Gratitude  in 77.83 m distance
+[22:11:25] (NAVIGATION) Distance to target location: 77.83 meters. Will take 9.66 seconds driving at 29kmh
+[22:11:28] (INFO) Found 2 catchable Pokemon
+[22:11:28] (ATTENTION) No Pokeballs :( - We missed Caterpie 89 V |  104 Cp | 24.30% | Lvl 11
+[22:11:29] (ATTENTION) No Pokeballs :( - We missed Pidgey 96 V |  220 Cp | 29.23% | Lvl 14
+[22:11:33] (POKESTOP) Catherine's Healing Garden in 52.18 m distance
+[22:11:33] (NAVIGATION) Distance to target location: 52.18 meters. Will take 6.06 seconds driving at 31kmh
+[22:11:36] (INFO) Found 2 catchable Pokemon
+[22:11:36] (ATTENTION) No Pokeballs :( - We missed Pidgey 96 V |  220 Cp | 29.23% | Lvl 14
+[22:11:37] (ATTENTION) No Pokeballs :( - We missed Caterpie 89 V |  104 Cp | 24.30% | Lvl 11
+[22:11:41] (POKESTOP) NUS Ridge View Residences Plaque in 58.81 m distance
+[22:11:41] (NAVIGATION) Distance to target location: 58.81 meters. Will take 6.62 seconds driving at 32kmh
+[22:11:43] (INFO) Found 3 catchable Pokemon
+[22:11:44] (ATTENTION) No Pokeballs :( - We missed Pidgey 96 V |  220 Cp | 29.23% | Lvl 14
+[22:11:44] (ATTENTION) No Pokeballs :( - We missed Pidgey 83 V |  151 Cp | 17.82% | Lvl 10
+[22:11:45] (ATTENTION) No Pokeballs :( - We missed Spearow 96 V |  126 Cp | 32.67% | Lvl 08
+[22:11:49] (INFO) Found 3 catchable Pokemon
+[22:11:50] (ATTENTION) No Pokeballs :( - We missed Pidgey 83 V |  151 Cp | 17.82% | Lvl 10
+[22:11:50] (ATTENTION) No Pokeballs :( - We missed Spearow 96 V |  126 Cp | 32.67% | Lvl 08
+[22:11:51] (ATTENTION) No Pokeballs :( - We missed Poliwag 148 V |  367 Cp | 59.11% | Lvl 18
+[22:11:53] (POKESTOP) Survival (Rocker) in 72.92 m distance
+[22:11:53] (NAVIGATION) Distance to target location: 72.92 meters. Will take 9.05 seconds driving at 29kmh
+[22:11:56] (INFO) Found 2 catchable Pokemon
+[22:11:57] (ATTENTION) No Pokeballs :( - We missed Spearow 96 V |  126 Cp | 32.67% | Lvl 08
+[22:11:58] (ATTENTION) No Pokeballs :( - We missed Pidgey 83 V |  151 Cp | 17.82% | Lvl 10
+[22:12:02] (POKESTOP) Saying By The Founder in 140.58 m distance
+[22:12:02] (NAVIGATION) Distance to target location: 140.58 meters. Will take 18.07 seconds driving at 28kmh
+[22:12:05] (INFO) Found 1 catchable Pokemon
+[22:12:05] (ATTENTION) No Pokeballs :( - We missed Spearow 96 V |  126 Cp | 32.67% | Lvl 08
+[22:12:19] (POKESTOP) The Odyssey in 80.93 m distance
+[22:12:19] (NAVIGATION) Distance to target location: 80.93 meters. Will take 9.1 seconds driving at 32kmh
+[22:12:24] (INFO) Found 1 catchable Pokemon
+[22:12:25] (ATTENTION) No Pokeballs :( - We missed Golbat 116 V |   77 Cp | 48.49% | Lvl 02
+[22:12:29] (POKESTOP) Refugees (Flight II) in 60.35 m distance
+[22:12:29] (NAVIGATION) Distance to target location: 60.35 meters. Will take 7.01 seconds driving at 31kmh
+[22:12:31] (INFO) Found 1 catchable Pokemon
+[22:12:32] (ATTENTION) No Pokeballs :( - We missed Golbat 116 V |   77 Cp | 48.49% | Lvl 02
+[22:12:36] (POKESTOP) The Seagull Nebula in 96.36 m distance
+[22:12:36] (NAVIGATION) Distance to target location: 96.36 meters. Will take 10.84 seconds driving at 32kmh
+[22:12:44] (INFO) Found 1 catchable Pokemon
+[22:12:44] (ATTENTION) No Pokeballs :( - We missed Golbat 116 V |   77 Cp | 48.49% | Lvl 02
+[22:12:49] (POKESTOP) S1A Garden in 243.87 m distance
+[22:12:49] (NAVIGATION) Distance to target location: 243.87 meters. Will take 19.95 seconds driving at 44kmh
+[22:12:51] (INFO) Found 1 catchable Pokemon
+[22:12:51] (ATTENTION) No Pokeballs :( - We missed Golbat 116 V |   77 Cp | 48.49% | Lvl 02
+[22:13:08] ====== User Info ======
+[22:13:08] Name: Toonistic
+[22:13:08] Team: Blue
+[22:13:08] Level: 25 (LvLUp in 0h 51m | 158453/190000 XP)
+[22:13:08] Pokemon: 163
+[22:13:08] Stardust: 18896
+[22:13:08] ====== Items (258) ======
+[22:13:08] RazzBerry x 36
+[22:13:08] PokeBall x 0
+[22:13:08] GreatBall x 0
+[22:13:08] UltraBall x 0
+[22:13:08] Potion x 30
+[22:13:08] SuperPotion x 50
+[22:13:08] HyperPotion x 75
+[22:13:08] MaxPotion x 31
+[22:13:08] IncubatorBasicUnlimited x 1
+[22:13:08] IncubatorBasic x 1
+[22:13:08] Revive x 25
+[22:13:08] IncenseOrdinary x 3
+[22:13:08] LuckyEgg x 0
+[22:13:08] TroyDisk x 6
+[22:13:08] ====== Most Valuable ======
+[22:13:08] *Vaporeon           332 True Value | 2061 Cp | 75.82% Perfect | Lvl 27 | WaterGun/WaterPulse
+[22:13:08] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[22:13:08] Poliwrath           310 True Value | 1803 Cp | 65.99% Perfect | Lvl 27 | MudShot/IcePunch
+[22:13:08] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
+[22:13:08] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[22:13:08] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[22:13:08] Magmar              273 True Value | 1302 Cp | 73.04% Perfect | Lvl 21 | KarateChop/Flamethrower
+[22:13:08] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[22:13:08] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[22:13:08] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[22:13:08] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[22:13:08] Dodrio              247 True Value | 1006 Cp | 76.06% Perfect | Lvl 20 | FeintAttack/DrillPeck
+[22:13:08] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[22:13:08] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[22:13:08] Electrode           246 True Value |  786 Cp | 59.99% Perfect | Lvl 18 | Spark/HyperBeam
+[22:13:08] Seadra              243 True Value | 1052 Cp | 63.15% Perfect | Lvl 23 | WaterGun/HydroPump
+[22:13:08] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[22:13:09] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[22:13:09] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
+[22:13:09] Golbat              235 True Value | 1007 Cp | 78.95% Perfect | Lvl 19 | Bite/PoisonFang
+[22:13:09] ====== Highest CP ======
+[22:13:09] *Vaporeon           332 True Value | 2061 Cp | 75.82% Perfect | Lvl 27 | WaterGun/WaterPulse
+[22:13:09] Poliwrath           310 True Value | 1803 Cp | 65.99% Perfect | Lvl 27 | MudShot/IcePunch
+[22:13:09] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[22:13:09] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
+[22:13:09] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[22:13:09] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[22:13:09] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[22:13:09] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[22:13:09] Magmar              273 True Value | 1302 Cp | 73.04% Perfect | Lvl 21 | KarateChop/Flamethrower
+[22:13:09] Pidgeot             229 True Value | 1296 Cp | 38.79% Perfect | Lvl 24 | WingAttack/AerialAce
+[22:13:09] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[22:13:09] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[22:13:09] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[22:13:09] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[22:13:09] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[22:13:09] Seadra              243 True Value | 1052 Cp | 63.15% Perfect | Lvl 23 | WaterGun/HydroPump
+[22:13:09] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
+[22:13:09] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
+[22:13:09] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
+[22:13:09] Golbat              235 True Value | 1007 Cp | 78.95% Perfect | Lvl 19 | Bite/PoisonFang
+[22:13:09] ====== Most Perfect Genetics ======
+[22:13:09] Bulbasaur           229 True Value |  609 Cp | 97.81% Perfect | Lvl 20 | Tackle/SludgeBomb
+[22:13:09] Goldeen             216 True Value |  597 Cp | 93.69% Perfect | Lvl 22 | Peck/AquaTail
+[22:13:09] Exeggcute           231 True Value |  681 Cp | 93.48% Perfect | Lvl 22 | Confusion/Psychic
+[22:13:09] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[22:13:09] Eevee               217 True Value |  604 Cp | 91.55% Perfect | Lvl 20 | Tackle/Dig
+[22:13:09] Exeggcute           208 True Value |  616 Cp | 91.38% Perfect | Lvl 20 | Confusion/AncientPower
+[22:13:09] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[22:13:09] Persian             194 True Value |  503 Cp | 89.36% Perfect | Lvl 11 | Scratch/NightSlash
+[22:13:09] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[22:13:09] Staryu              203 True Value |  650 Cp | 88.24% Perfect | Lvl 25 | WaterGun/Swift
+[22:13:09] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
+[22:13:10] Poliwag             183 True Value |  440 Cp | 87.21% Perfect | Lvl 20 | Bubble/MudBomb
+[22:13:10] Paras               200 True Value |  431 Cp | 86.95% Perfect | Lvl 17 | BugBite/SeedBomb
+[22:13:10] Abra                200 True Value |  329 Cp | 86.76% Perfect | Lvl 20 | ZenHeadbutt/Psyshock
+[22:13:10] Seel                195 True Value |  614 Cp | 86.53% Perfect | Lvl 20 | WaterGun/IcyWind
+[22:13:10] Mankey              196 True Value |  485 Cp | 86.20% Perfect | Lvl 20 | KarateChop/BrickBreak
+[22:13:10] Aerodactyl          173 True Value |  221 Cp | 86.15% Perfect | Lvl 04 | SteelWing/AncientPower
+[22:13:10] Weepinbell          204 True Value |  379 Cp | 86.13% Perfect | Lvl 08 | Acid/PowerWhip
+[22:13:10] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[22:13:10] Voltorb             208 True Value |  462 Cp | 85.08% Perfect | Lvl 20 | Spark/Thunderbolt
+[22:13:10] (POKESTOP) Water Tank in 156.82 m distance
+[22:13:10] (NAVIGATION) Distance to target location: 156.82 meters. Will take 18.82 seconds driving at 30kmh
+[22:13:28] (POKESTOP) Locked in Tricked Out in 493.33 m distance
+[22:13:28] (NAVIGATION) Distance to target location: 493.33 meters. Will take 25.37 seconds driving at 70kmh
+[22:13:55] (POKESTOP) NUS Engineering in 53.91 m distance
+[22:13:55] (NAVIGATION) Distance to target location: 53.91 meters. Will take 6.06 seconds driving at 32kmh
+[22:14:01] (POKESTOP) Through this Jungle in 95.54 m distance
+[22:14:01] (NAVIGATION) Distance to target location: 95.54 meters. Will take 11.47 seconds driving at 30kmh
+[22:14:11] (POKESTOP) National Oxygen in 96.93 m distance
+[22:14:11] (NAVIGATION) Distance to target location: 96.93 meters. Will take 11.63 seconds driving at 30kmh
+[22:14:23] (POKESTOP) Feeding Chickens in 108.21 m distance
+[22:14:23] (NAVIGATION) Distance to target location: 108.21 meters. Will take 13.43 seconds driving at 29kmh
+[22:14:36] (POKESTOP) Sayings by the Stairs in 100.92 m distance
+[22:14:36] (NAVIGATION) Distance to target location: 100.92 meters. Will take 12.11 seconds driving at 30kmh
+[22:14:47] (POKESTOP) Alice Lee Plaza in 72.18 m distance
+[22:14:47] (NAVIGATION) Distance to target location: 72.18 meters. Will take 8.12 seconds driving at 32kmh
+[22:14:54] (POKESTOP) Yong Siew Toh Conservatory of Music in 94.41 m distance
+[22:14:54] (NAVIGATION) Distance to target location: 94.41 meters. Will take 12.14 seconds driving at 28kmh
+[22:15:06] (POKESTOP) Proverb in a Corner in 70.86 m distance
+[22:15:06] (NAVIGATION) Distance to target location: 70.86 meters. Will take 8.8 seconds driving at 29kmh
+[22:15:14] (POKESTOP) Together Again in 73.47 m distance
+[22:15:14] (NAVIGATION) Distance to target location: 73.47 meters. Will take 8.27 seconds driving at 32kmh
+[22:15:21] (POKESTOP) Inverted Torsos in 89.06 m distance
+[22:15:21] (NAVIGATION) Distance to target location: 89.06 meters. Will take 10.02 seconds driving at 32kmh
+[22:15:32] (POKESTOP) Earth Mural in 51.23 m distance
+[22:15:32] (NAVIGATION) Distance to target location: 51.23 meters. Will take 6.15 seconds driving at 30kmh
+[22:15:38] (POKESTOP) University Cultural Center in 78.6 m distance
+[22:15:38] (NAVIGATION) Distance to target location: 78.6 meters. Will take 9.76 seconds driving at 29kmh
+[22:15:47] (POKESTOP) Bronze Sculpture "Contentment" in 60.14 m distance
+[22:15:47] (NAVIGATION) Distance to target location: 60.14 meters. Will take 7.47 seconds driving at 29kmh
+[22:15:50] (INFO) Found 1 catchable Pokemon
+[22:15:50] (ATTENTION) No Pokeballs :( - We missed Fearow 251 V | 1140 Cp | 72.20% | Lvl 24
+[22:15:56] (POKESTOP) Frustration of a Loner on a Rock in 73.14 m distance
+[22:15:56] (NAVIGATION) Distance to target location: 73.14 meters. Will take 8.78 seconds driving at 30kmh
+[22:15:57] (INFO) Found 1 catchable Pokemon
+[22:15:58] (ATTENTION) No Pokeballs :( - We missed Fearow 251 V | 1140 Cp | 72.20% | Lvl 24
+[22:16:03] (POKESTOP) University Cultural Centre in 95.73 m distance
+[22:16:03] (NAVIGATION) Distance to target location: 95.73 meters. Will take 11.88 seconds driving at 29kmh
+[22:16:12] (INFO) Found 1 catchable Pokemon
+[22:16:12] (ATTENTION) No Pokeballs :( - We missed Pidgey 108 V |   61 Cp | 51.63% | Lvl 04
+[22:16:16] (POKESTOP) FOE Singapore in 111.72 m distance
+[22:16:16] (NAVIGATION) Distance to target location: 111.72 meters. Will take 12.97 seconds driving at 31kmh
+[22:16:18] (INFO) Found 1 catchable Pokemon
+[22:16:19] (ATTENTION) No Pokeballs :( - We missed Pidgey 108 V |   61 Cp | 51.63% | Lvl 04
+[22:16:24] (INFO) Found 2 catchable Pokemon
+[22:16:26] (ATTENTION) No Pokeballs :( - We missed Zubat 138 V |  114 Cp | 67.10% | Lvl 07
+[22:16:26] (ATTENTION) No Pokeballs :( - We missed Pidgey 108 V |   61 Cp | 51.63% | Lvl 04
+[22:16:31] (POKESTOP) Race to the Future Car at FOE in 29.47 m distance
+[22:16:31] (NAVIGATION) Distance to target location: 29.47 meters. Will take 3.42 seconds driving at 31kmh
+[22:16:33] (INFO) Found 1 catchable Pokemon
+[22:16:33] (ATTENTION) No Pokeballs :( - We missed Zubat 138 V |  114 Cp | 67.10% | Lvl 07
+[22:16:36] (POKESTOP) Pavilion at Engineering in 66.71 m distance
+[22:16:36] (NAVIGATION) Distance to target location: 66.71 meters. Will take 7.5 seconds driving at 32kmh
+[22:16:39] (INFO) Found 1 catchable Pokemon
+[22:16:40] (ATTENTION) No Pokeballs :( - We missed Zubat 138 V |  114 Cp | 67.10% | Lvl 07
+[22:16:45] (POKESTOP) NUS GREM Display in 56.04 m distance
+[22:16:45] (NAVIGATION) Distance to target location: 56.04 meters. Will take 6.3 seconds driving at 32kmh
+[22:16:52] (POKESTOP) Masjid Tentera Di Raja in 144.22 m distance
+[22:16:52] (NAVIGATION) Distance to target location: 144.22 meters. Will take 18.54 seconds driving at 28kmh
+[22:17:10] (POKESTOP) Clementi Woods Playground in 399.9 m distance
+[22:17:10] (NAVIGATION) Distance to target location: 399.9 meters. Will take 20.57 seconds driving at 70kmh
+[22:17:31] (POKESTOP) Clementi Woods Fitness Corner in 187.34 m distance
+[22:17:31] (NAVIGATION) Distance to target location: 187.34 meters. Will take 19.84 seconds driving at 34kmh
+[22:17:46] (INFO) Found 1 catchable Pokemon
+[22:17:48] (ATTENTION) No Pokeballs :( - We missed Zubat 131 V |  274 Cp | 38.60% | Lvl 18
+[22:17:52] (POKESTOP) Ten Two Six in 293.71 m distance
+[22:17:52] (NAVIGATION) Distance to target location: 293.71 meters. Will take 19.95 seconds driving at 53kmh
+[22:17:54] (INFO) Found 1 catchable Pokemon
+[22:17:55] (ATTENTION) No Pokeballs :( - We missed Zubat 131 V |  274 Cp | 38.60% | Lvl 18
+[22:18:13] (POKESTOP) Veranda Sculpture in 51.18 m distance
+[22:18:13] (NAVIGATION) Distance to target location: 51.18 meters. Will take 5.94 seconds driving at 31kmh
+[22:18:18] (POKESTOP) Fingerprint Like Wood Art in 310.54 m distance
+[22:18:18] (NAVIGATION) Distance to target location: 310.54 meters. Will take 19.96 seconds driving at 56kmh
+[22:18:21] (INFO) Found 1 catchable Pokemon
+[22:18:22] (ATTENTION) No Pokeballs :( - We missed Ekans 102 V |  213 Cp | 29.03% | Lvl 11
+[22:18:29] (INFO) Found 1 catchable Pokemon
+[22:18:29] (ATTENTION) No Pokeballs :( - We missed Pidgey 108 V |   61 Cp | 51.63% | Lvl 04
+[22:18:35] (INFO) Found 3 catchable Pokemon
+[22:18:35] (ATTENTION) No Pokeballs :( - We missed Zubat 138 V |  114 Cp | 67.10% | Lvl 07
+[22:18:36] (ATTENTION) No Pokeballs :( - We missed Fearow 251 V | 1140 Cp | 72.20% | Lvl 24
+[22:18:37] (ATTENTION) No Pokeballs :( - We missed Pidgey 108 V |   61 Cp | 51.63% | Lvl 04
+[22:18:41] (POKESTOP) Temasek Laboratories at NUS in 104.06 m distance
+[22:18:41] (NAVIGATION) Distance to target location: 104.06 meters. Will take 11.71 seconds driving at 32kmh
+[22:18:43] (INFO) Found 2 catchable Pokemon
+[22:18:44] (ATTENTION) No Pokeballs :( - We missed Fearow 251 V | 1140 Cp | 72.20% | Lvl 24
+[22:18:44] (ATTENTION) No Pokeballs :( - We missed Machop 157 V |  646 Cp | 54.96% | Lvl 23
+[22:18:52] (POKESTOP) Wall Of Innovations And Enterprise in 86.09 m distance
+[22:18:52] (NAVIGATION) Distance to target location: 86.09 meters. Will take 10.69 seconds driving at 29kmh
+[22:18:57] (INFO) Found 1 catchable Pokemon
+[22:18:57] (ATTENTION) No Pokeballs :( - We missed Paras 161 V |  482 Cp | 48.33% | Lvl 21
+[22:19:02] (POKESTOP) Raffles Hall Art Piece (1984/85) in 190.48 m distance
+[22:19:02] (NAVIGATION) Distance to target location: 190.48 meters. Will take 19.59 seconds driving at 35kmh
+[22:19:04] (INFO) Found 1 catchable Pokemon
+[22:19:04] (ATTENTION) No Pokeballs :( - We missed Paras 161 V |  482 Cp | 48.33% | Lvl 21
+[22:19:21] (POKESTOP) Raffles Hall in 105.59 m distance
+[22:19:21] (NAVIGATION) Distance to target location: 105.59 meters. Will take 12.67 seconds driving at 30kmh
+[22:19:34] (POKESTOP) Runme Shaw CFA Studios in 120.12 m distance
+[22:19:34] (NAVIGATION) Distance to target location: 120.12 meters. Will take 14.91 seconds driving at 29kmh
+[22:19:48] (POKESTOP) Fire Painting  in 88.11 m distance
+[22:19:48] (NAVIGATION) Distance to target location: 88.11 meters. Will take 10.94 seconds driving at 29kmh
+[22:19:57] (POKESTOP) Writings on the Wall in 304.98 m distance
+[22:19:57] (NAVIGATION) Distance to target location: 304.98 meters. Will take 19.96 seconds driving at 55kmh
+[22:20:17] (INFO) Found 1 catchable Pokemon
+[22:20:18] (ATTENTION) No Pokeballs :( - We missed Machop 157 V |  646 Cp | 54.96% | Lvl 23
+[22:20:21] (POKESTOP) NUS monolith in 640.53 m distance
+[22:20:21] (NAVIGATION) Distance to target location: 640.53 meters. Will take 32.94 seconds driving at 70kmh
+[22:20:24] (INFO) Found 1 catchable Pokemon
+[22:20:25] (ATTENTION) No Pokeballs :( - We missed Machop 157 V |  646 Cp | 54.96% | Lvl 23
+[22:20:30] (INFO) Found 2 catchable Pokemon
+[22:20:31] (ATTENTION) No Pokeballs :( - We missed Paras 161 V |  482 Cp | 48.33% | Lvl 21
+[22:20:32] (ATTENTION) No Pokeballs :( - We missed Rattata 94 V |   34 Cp | 30.66% | Lvl 03
+[22:20:56] (POKESTOP) Sailing Mural in 466.46 m distance
+[22:20:56] (NAVIGATION) Distance to target location: 466.46 meters. Will take 23.99 seconds driving at 70kmh
+[22:21:04] (INFO) Found 1 catchable Pokemon
+[22:21:05] (ATTENTION) No Pokeballs :( - We missed Pidgey 135 V |  383 Cp | 47.09% | Lvl 23
+[22:21:18] (INFO) Found 2 catchable Pokemon
+[22:21:18] (ATTENTION) No Pokeballs :( - We missed Zubat 102 V |  149 Cp | 32.34% | Lvl 10
+[22:21:19] (ATTENTION) No Pokeballs :( - We missed Zubat 125 V |   93 Cp | 56.09% | Lvl 06
+[22:21:23] (POKESTOP) Focusing Coils in 498.59 m distance
+[22:21:23] (NAVIGATION) Distance to target location: 498.59 meters. Will take 25.64 seconds driving at 70kmh
+[22:21:26] (INFO) Found 2 catchable Pokemon
+[22:21:26] (ATTENTION) No Pokeballs :( - We missed Zubat 172 V |  300 Cp | 67.05% | Lvl 18
+[22:21:27] (ATTENTION) No Pokeballs :( - We missed Zubat 125 V |   93 Cp | 56.09% | Lvl 06
+[22:21:50] (ATTENTION) No locations in your area...
+[22:21:55] (INFO) Found 39 Pokestops
+[22:21:56] (POKESTOP) Focusing Coils in 16.62 m distance
+[22:21:56] (NAVIGATION) Distance to target location: 16.62 meters. Will take 2.14 seconds driving at 28kmh
+[22:21:59] (POKESTOP) West Coast Park in 203.01 m distance
+[22:21:59] (NAVIGATION) Distance to target location: 203.01 meters. Will take 19.75 seconds driving at 37kmh
+[22:22:19] (POKESTOP) Pendulum White Shelter in 111.26 m distance
+[22:22:19] (NAVIGATION) Distance to target location: 111.26 meters. Will take 13.35 seconds driving at 30kmh
+[22:22:24] (INFO) Found 1 catchable Pokemon
+[22:22:25] (ATTENTION) No Pokeballs :( - We missed Weedle 122 V |   53 Cp | 62.47% | Lvl 05
+[22:22:28] (INFO) Found 2 catchable Pokemon
+[22:22:28] (ATTENTION) No Pokeballs :( - We missed Weedle 122 V |   53 Cp | 62.47% | Lvl 05
+[22:22:29] (ATTENTION) No Pokeballs :( - We missed Zubat 109 V |   58 Cp | 52.88% | Lvl 04
+[22:22:34] (POKESTOP) Safety English Chess Table in 73.84 m distance
+[22:22:34] (NAVIGATION) Distance to target location: 73.84 meters. Will take 8.31 seconds driving at 32kmh
+[22:22:36] (INFO) Found 2 catchable Pokemon
+[22:22:36] (ATTENTION) No Pokeballs :( - We missed Zubat 109 V |   58 Cp | 52.88% | Lvl 04
+[22:22:37] (ATTENTION) No Pokeballs :( - We missed Weedle 122 V |   53 Cp | 62.47% | Lvl 05
+[22:22:42] (POKESTOP) Sailing Mural in 264.62 m distance
+[22:22:42] (NAVIGATION) Distance to target location: 264.62 meters. Will take 19.85 seconds driving at 48kmh
+[22:22:44] (INFO) Found 1 catchable Pokemon
+[22:22:44] (ATTENTION) No Pokeballs :( - We missed Zubat 109 V |   58 Cp | 52.88% | Lvl 04
+[22:23:03] (POKESTOP) Eusoff Freshies Corner in 245.97 m distance
+[22:23:03] (NAVIGATION) Distance to target location: 245.97 meters. Will take 19.68 seconds driving at 45kmh
+[22:23:05] (INFO) Found 2 catchable Pokemon
+[22:23:05] (ATTENTION) No Pokeballs :( - We missed Zubat 126 V |  260 Cp | 39.51% | Lvl 17
+[22:24:32] (INFO) Logging in via: Google
+[22:24:34] (INFO) Client logged in
+[22:24:35] ====== User Info ======
+[22:24:35] Name: toonistic2
+[22:24:35] Team: Neutral
+[22:24:35] Level: 23 (LvLUp in 0h 0m | 20655/125000 XP)
+[22:24:35] Pokemon: 113
+[22:24:35] Stardust: 14688
+[22:24:35] ====== Items (352) ======
+[22:24:35] RazzBerry x 39
+[22:24:35] PokeBall x 42
+[22:24:35] GreatBall x 54
+[22:24:35] UltraBall x 18
+[22:24:35] Potion x 30
+[22:24:35] SuperPotion x 50
+[22:24:35] HyperPotion x 75
+[22:24:35] IncubatorBasicUnlimited x 1
+[22:24:35] IncubatorBasic x 5
+[22:24:35] Revive x 25
+[22:24:35] IncenseOrdinary x 8
+[22:24:35] LuckyEgg x 0
+[22:24:35] TroyDisk x 5
+[22:24:35] ====== Transfer Settings ======
+[22:24:35] Keep Above CP:           0
+[22:24:35] Keep Above IV:           0
+[22:24:35] Keep Above V:            0
+[22:24:35] Transfer Below CP:       50
+[22:24:35] Transfer Below IV:       0
+[22:24:35] Transfer Below V:        0
+[22:24:35] Transfer Evolvable:      True
+[22:24:35] PokemonsNotToTransfer:    20
+[22:24:35] Aerodactyl
+[22:24:35] Alakazam
+[22:24:35] Arcanine
+[22:24:35] Charizard
+[22:24:35] Dragonite
+[22:24:35] Exeggutor
+[22:24:35] Farfetchd
+[22:24:35] Grimer
+[22:24:35] Gyarados
+[22:24:35] Kangaskhan
+[22:24:35] Magmar
+[22:24:35] Mew
+[22:24:35] Mewtwo
+[22:24:35] Moltres
+[22:24:35] MrMime
+[22:24:35] Raichu
+[22:24:35] Snorlax
+[22:24:35] Tauros
+[22:24:35] Victreebel
+[22:24:35] Zapdos
+[22:24:35] ====== Most Valuable ======
+[22:24:35] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[22:24:35] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
+[22:24:35] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[22:24:35] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
+[22:24:35] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
+[22:24:35] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
+[22:24:35] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[22:24:35] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[22:24:35] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
+[22:24:35] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[22:24:35] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[22:24:35] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[22:24:35] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
+[22:24:35] Raticate            210 True Value |  348 Cp | 69.86% Perfect | Lvl 09 | Bite/HyperBeam
+[22:24:35] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[22:24:35] Clefairy            205 True Value |  657 Cp | 79.46% Perfect | Lvl 20 | ZenHeadbutt/DisarmingVoice
+[22:24:35] Tangela             198 True Value |  570 Cp | 74.37% Perfect | Lvl 12 | VineWhip/SludgeBomb
+[22:24:35] Parasect            193 True Value |  416 Cp | 61.02% Perfect | Lvl 09 | BugBite/SolarBeam
+[22:24:35] Oddish              193 True Value |  609 Cp | 66.69% Perfect | Lvl 20 | Acid/SludgeBomb
+[22:24:35] Ivysaur             189 True Value |  472 Cp | 55.49% Perfect | Lvl 11 | RazorLeaf/PowerWhip
+[22:24:35] ====== Highest CP ======
+[22:24:35] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
+[22:24:35] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
+[22:24:35] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
+[22:24:35] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
+[22:24:35] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[22:24:35] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
+[22:24:35] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[22:24:35] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[22:24:35] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[22:24:35] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[22:24:35] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
+[22:24:35] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[22:24:35] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[22:24:35] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
+[22:24:35] Clefairy            205 True Value |  657 Cp | 79.46% Perfect | Lvl 20 | ZenHeadbutt/DisarmingVoice
+[22:24:35] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[22:24:35] Oddish              193 True Value |  609 Cp | 66.69% Perfect | Lvl 20 | Acid/SludgeBomb
+[22:24:35] Pidgeotto           142 True Value |  595 Cp | 26.99% Perfect | Lvl 20 | SteelWing/Twister
+[22:24:35] Venonat             171 True Value |  593 Cp | 62.48% Perfect | Lvl 22 | Confusion/PoisonFang
+[22:24:35] Venonat             189 True Value |  582 Cp | 74.06% Perfect | Lvl 21 | Confusion/Psybeam
+[22:24:35] ====== Most Perfect Genetics ======
+[22:24:36] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[22:24:36] Vulpix              171 True Value |   86 Cp | 96.64% Perfect | Lvl 04 | Ember/Flamethrower
+[22:24:36] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[22:24:36] Pidgey              179 True Value |  339 Cp | 89.62% Perfect | Lvl 18 | Tackle/AerialAce
+[22:24:36] Onix                162 True Value |  112 Cp | 89.31% Perfect | Lvl 05 | RockThrow/RockSlide
+[22:24:36] Sandshrew           150 True Value |   57 Cp | 86.77% Perfect | Lvl 03 | Scratch/RockSlide
+[22:24:36] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[22:24:36] Paras               172 True Value |  225 Cp | 84.67% Perfect | Lvl 09 | BugBite/CrossPoison
+[22:24:36] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[22:24:36] Horsea              162 True Value |  194 Cp | 83.45% Perfect | Lvl 09 | WaterGun/FlashCannon
+[22:24:36] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[22:24:36] Parasect            186 True Value |  228 Cp | 82.90% Perfect | Lvl 05 | FuryCutter/SolarBeam
+[22:24:36] Charmander          189 True Value |  523 Cp | 82.47% Perfect | Lvl 20 | Ember/FlameBurst
+[22:24:36] Zubat               182 True Value |  349 Cp | 82.29% Perfect | Lvl 20 | QuickAttack/SludgeBomb
+[22:24:36] Krabby              163 True Value |  345 Cp | 82.06% Perfect | Lvl 16 | Bubble/ViceGrip
+[22:24:36] Magikarp            121 True Value |  138 Cp | 82.05% Perfect | Lvl 20 | Splash/Struggle
+[22:24:36] Horsea              149 True Value |   56 Cp | 81.06% Perfect | Lvl 03 | WaterGun/DragonPulse
+[22:24:36] Zubat               175 True Value |  347 Cp | 80.46% Perfect | Lvl 20 | Bite/AirCutter
+[22:24:36] Staryu              183 True Value |  434 Cp | 80.43% Perfect | Lvl 17 | WaterGun/PowerGem
+[22:24:36] Tangela             174 True Value |  125 Cp | 80.20% Perfect | Lvl 03 | VineWhip/SolarBeam
+[22:24:38] (INFO) Found 19 Pokestops
+[22:24:39] (POKESTOP) Ficus Point in 252.41 m distance
+[22:24:39] (NAVIGATION) Distance to target location: 252.41 meters. Will take 19.75 seconds driving at 46kmh
+[22:24:46] (INFO) Found 4 catchable Pokemon
+[22:24:47] (Wild Success) | Exeggcute 156 V |   47 Cp | 86.21% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
