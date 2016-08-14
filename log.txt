@@ -39686,3 +39686,7 @@
 [00:16:22] (Wild Flee) | Krabby 104 V |  253 Cp | 21.60% | Lvl 14 | Chance: 0.4 | with a GreatBall 
 [00:16:28] (INFO) Found 1 catchable Pokemon
 [00:16:30] (Wild Success) | Magnemite 111 V |  127 Cp | 47.96% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[00:16:32] (INFO) Found 1 pokemon to transfer...
+[00:16:33] (TRANSFER) Magnemite 111 V |  127 Cp | 47.96% | Lvl 06 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 62
+[00:16:34] (INFO) Found 1 catchable Pokemon
+[00:16:36] (Wild Success) | Sandshrew 104 V |   29 Cp | 33.51% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
