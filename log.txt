@@ -38498,3 +38498,21 @@
 [23:34:37] (NAVIGATION) Distance to target location: 549.62 meters. Will take 28.27 seconds driving at 70kmh
 [23:34:45] (INFO) Found 1 catchable Pokemon
 [23:34:47] (Wild Success) | Staryu 126 V |  140 Cp | 62.30% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[23:34:48] (INFO) Found 1 pokemon to transfer...
+[23:34:50] (TRANSFER) Staryu 126 V |  140 Cp | 62.30% | Lvl 06 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 146
+[23:35:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 2 x ItemPotion
+[23:35:07] (POKESTOP) Giant Plate And Bowls in 73.09 m distance
+[23:35:07] (NAVIGATION) Distance to target location: 73.09 meters. Will take 9.07 seconds driving at 29kmh
+[23:35:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:35:15] (POKESTOP) Sentosa Cove Arrival Hall in 66.56 m distance
+[23:35:15] (NAVIGATION) Distance to target location: 66.56 meters. Will take 7.49 seconds driving at 32kmh
+[23:35:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[23:35:23] (POKESTOP) Metallic Symbol of Tranquillity in 838.98 m distance
+[23:35:23] (NAVIGATION) Distance to target location: 838.98 meters. Will take 43.15 seconds driving at 70kmh
+[23:35:32] (INFO) Found 1 catchable Pokemon
+[23:35:33] (Wild Escape) | Goldeen 133 V |  407 Cp | 42.63% | Lvl 17 | Chance: 0.36 | with a GreatBall 
+[23:35:34] (Wild Success Attempt #2) | Goldeen 133 V |  407 Cp | 42.63% | Lvl 17 | Chance: 0.36 | with a GreatBall 
+[23:35:36] (INFO) Found 1 pokemon to transfer...
+[23:35:37] (TRANSFER) Goldeen 133 V |  407 Cp | 42.63% | Lvl 17 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 189
+[23:35:39] (INFO) Found 1 catchable Pokemon
+[23:35:40] (Wild Success) | Voltorb 155 V |   59 Cp | 79.45% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
