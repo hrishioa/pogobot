@@ -20,23 +20,23 @@ Stats:
 [21:02:18] LuckyEgg x 1
 [21:02:18] TroyDisk x 6
 
-[21:22:35] *Vaporeon           332 True Value | 2061 Cp | 75.82% Perfect | Lvl 27 | WaterGun/WaterPulse
-[21:22:35] Poliwrath           310 True Value | 1803 Cp | 65.99% Perfect | Lvl 27 | MudShot/IcePunch
-[21:22:35] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
-[21:22:35] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
-[21:22:35] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
-[21:22:35] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
-[21:22:35] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
-[21:22:35] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
-[21:22:35] Magmar              273 True Value | 1302 Cp | 73.04% Perfect | Lvl 21 | KarateChop/Flamethrower
-[21:22:35] Pidgeot             229 True Value | 1296 Cp | 38.79% Perfect | Lvl 24 | WingAttack/AerialAce
-[21:22:35] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
-[21:22:35] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
-[21:22:35] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
-[21:22:35] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
-[21:22:35] Golbat              218 True Value | 1062 Cp | 52.40% Perfect | Lvl 21 | WingAttack/AirCutter
-[21:22:35] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
-[21:22:35] Seadra              243 True Value | 1052 Cp | 63.15% Perfect | Lvl 23 | WaterGun/HydroPump
-[21:22:35] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
-[21:22:35] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
-[21:22:35] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
+[21:32:38] *Vaporeon           332 True Value | 2061 Cp | 75.82% Perfect | Lvl 27 | WaterGun/WaterPulse
+[21:32:38] Poliwrath           310 True Value | 1803 Cp | 65.99% Perfect | Lvl 27 | MudShot/IcePunch
+[21:32:38] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[21:32:38] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
+[21:32:38] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[21:32:38] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[21:32:38] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[21:32:38] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[21:32:38] Magmar              273 True Value | 1302 Cp | 73.04% Perfect | Lvl 21 | KarateChop/Flamethrower
+[21:32:38] Pidgeot             229 True Value | 1296 Cp | 38.79% Perfect | Lvl 24 | WingAttack/AerialAce
+[21:32:38] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[21:32:38] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[21:32:38] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[21:32:38] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[21:32:38] Golbat              218 True Value | 1062 Cp | 52.40% Perfect | Lvl 21 | WingAttack/AirCutter
+[21:32:38] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[21:32:38] Seadra              243 True Value | 1052 Cp | 63.15% Perfect | Lvl 23 | WaterGun/HydroPump
+[21:32:38] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
+[21:32:38] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
+[21:32:38] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
