@@ -44780,3 +44780,4 @@
 [02:45:47] (TRANSFER) Bellsprout 174 V |  304 Cp | 79.12% | Lvl 10 | Best: [Bellsprout 193 V |  523 Cp | 59.37% | Lvl 18] | Candy: 90
 [02:45:48] (INFO) Found 2 catchable Pokemon
 [02:45:50] (Wild Success) | NidoranMale 90 V |  180 Cp | 33.47% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[02:45:52] (Wild Success) | Grimer 112 V |   51 Cp | 52.11% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 710
