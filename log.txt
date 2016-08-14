@@ -30015,3 +30015,8 @@
 [13:18:56] (NAVIGATION) Distance to target location: 188.72 meters. Will take 19.98 seconds driving at 34kmh
 [13:18:58] (INFO) Found 1 catchable Pokemon
 [13:19:00] (Wild Success) | Meowth 178 V |  309 Cp | 82.28% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[13:19:02] (INFO) Found 1 pokemon to transfer...
+[13:19:04] (TRANSFER) Meowth 167 V |  394 Cp | 65.69% | Lvl 20 | Best: [Meowth 178 V |  309 Cp | 82.28% | Lvl 15] | Candy: 94
+[13:19:11] (INFO) Found 2 catchable Pokemon
+[13:19:12] (BERRY) ItemRazzBerry used, remaining: 50
+[13:19:13] (Wild Success) | Bellsprout 156 V |  574 Cp | 17.30% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
