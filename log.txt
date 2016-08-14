@@ -33223,3 +33223,13 @@
 [20:29:48] (TRANSFER) Staryu 153 V |   68 Cp | 94.34% | Lvl 03 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 118
 [20:29:49] (INFO) Found 1 catchable Pokemon
 [20:29:51] (Wild Success) | Pidgey 74 V |   24 Cp | 31.84% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
+[20:29:52] (INFO) Found 1 pokemon to transfer...
+[20:29:54] (TRANSFER) Pidgey 74 V |   24 Cp | 31.84% | Lvl 02 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 581
+[20:29:56] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:29:59] (POKESTOP) Hippocratic Oath in 71.87 m distance
+[20:29:59] (NAVIGATION) Distance to target location: 71.87 meters. Will take 8.62 seconds driving at 30kmh
+[20:30:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:30:06] (POKESTOP) Owl Statue in 93.58 m distance
+[20:30:06] (NAVIGATION) Distance to target location: 93.58 meters. Will take 12.03 seconds driving at 28kmh
+[20:30:15] (INFO) Found 1 catchable Pokemon
+[20:30:17] (Wild Success) | Zubat 156 V |  189 Cp | 77.16% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
