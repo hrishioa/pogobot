@@ -36866,3 +36866,4 @@
 [22:36:23] (TRANSFER) Pidgey 124 V |  297 Cp | 44.08% | Lvl 18 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 653
 [22:36:24] (INFO) Found 2 catchable Pokemon
 [22:36:26] (Wild Success) | Machop 138 V |  255 Cp | 61.89% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 710
+[22:36:28] (Wild Success) | Magikarp 105 V |   32 Cp | 77.19% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
