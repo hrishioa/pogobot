@@ -33972,3 +33972,16 @@
 [20:53:49] (NAVIGATION) Distance to target location: 172.99 meters. Will take 19.46 seconds driving at 32kmh
 [20:54:01] (INFO) Found 1 catchable Pokemon
 [20:54:03] (Wild Success) | Pidgey 110 V |  233 Cp | 47.05% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[20:54:04] (INFO) Found 1 pokemon to transfer...
+[20:54:06] (TRANSFER) Pidgey 110 V |  233 Cp | 47.05% | Lvl 14 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 633
+[20:54:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:54:12] (POKESTOP) Sayings by the Stairs in 47.03 m distance
+[20:54:12] (NAVIGATION) Distance to target location: 47.03 meters. Will take 5.84 seconds driving at 29kmh
+[20:54:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:54:18] (POKESTOP) Feeding Chickens in 93.2 m distance
+[20:54:18] (NAVIGATION) Distance to target location: 93.2 meters. Will take 10.82 seconds driving at 31kmh
+[20:54:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:54:29] (POKESTOP) NUS Sports and Recreation Centre in 257.04 m distance
+[20:54:29] (NAVIGATION) Distance to target location: 257.04 meters. Will take 19.69 seconds driving at 47kmh
+[20:54:40] (INFO) Found 1 catchable Pokemon
+[20:54:42] (Wild Success) | Goldeen 161 V |  267 Cp | 87.24% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
