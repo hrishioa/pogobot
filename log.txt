@@ -21660,3 +21660,22 @@
 [08:09:58] (TRANSFER) Zubat 119 V |  123 Cp | 46.74% | Lvl 08 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 674
 [08:09:59] (INFO) Found 1 catchable Pokemon
 [08:10:01] (Wild Success) | Zubat 108 V |  164 Cp | 32.14% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[08:10:03] (INFO) Found 1 pokemon to transfer...
+[08:10:04] (TRANSFER) Zubat 108 V |  164 Cp | 32.14% | Lvl 11 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 678
+[08:10:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 2 x ItemPokeBall
+[08:10:07] (POKESTOP) Survival Mask in 42.34 m distance
+[08:10:07] (NAVIGATION) Distance to target location: 42.34 meters. Will take 5.08 seconds driving at 30kmh
+[08:10:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:10:11] (INFO) Found 2 Recyclable Items:
+[08:10:12] (RECYCLING) PokeBall x 9
+[08:10:13] (RECYCLING) Revive x 3
+[08:10:16] (POKESTOP) Lucy's Left Ear in 67.54 m distance
+[08:10:16] (NAVIGATION) Distance to target location: 67.54 meters. Will take 7.84 seconds driving at 31kmh
+[08:10:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemPokeBall
+[08:10:24] (POKESTOP) First the Dream Then the Nightmare in 47.63 m distance
+[08:10:24] (NAVIGATION) Distance to target location: 47.63 meters. Will take 5.72 seconds driving at 30kmh
+[08:10:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[08:10:31] (POKESTOP) Compounds of Five Cubes in 84.01 m distance
+[08:10:31] (NAVIGATION) Distance to target location: 84.01 meters. Will take 10.08 seconds driving at 30kmh
+[08:10:34] (INFO) Found 1 catchable Pokemon
+[08:10:36] (Wild Success) | Eevee 147 V |   14 Cp | 81.43% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
