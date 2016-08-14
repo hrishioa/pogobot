@@ -37197,3 +37197,7 @@
 [22:46:58] (NAVIGATION) Distance to target location: 88.67 meters. Will take 11.4 seconds driving at 28kmh
 [22:47:02] (INFO) Found 1 catchable Pokemon
 [22:47:03] (Wild Success) | Shellder 124 V |  244 Cp | 47.76% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[22:47:05] (INFO) Found 1 pokemon to transfer...
+[22:47:06] (TRANSFER) Shellder 113 V |  160 Cp | 46.77% | Lvl 08 | Best: [Shellder 124 V |  244 Cp | 47.76% | Lvl 12] | Candy: 10
+[22:47:08] (INFO) Found 3 catchable Pokemon
+[22:47:09] (Wild Success) | Psyduck 172 V |  445 Cp | 43.12% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
