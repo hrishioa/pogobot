@@ -44598,3 +44598,16 @@
 [02:41:49] (INFO) Found 2 catchable Pokemon
 [02:41:51] (Wild Success) | Zubat 85 V |  131 Cp | 26.76% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [02:41:53] (Wild Success) | Krabby 112 V |   10 Cp | 57.09% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[02:41:55] (INFO) Found 2 pokemon to transfer...
+[02:41:56] (TRANSFER) Krabby 112 V |   10 Cp | 57.09% | Lvl 01 | Best: [Krabby 176 V |  499 Cp | 68.90% | Lvl 24] | Candy: 186
+[02:41:58] (TRANSFER) Zubat 85 V |  131 Cp | 26.76% | Lvl 09 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 716
+[02:42:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[02:42:02] (POKESTOP) Pirate Queen in 92.74 m distance
+[02:42:02] (NAVIGATION) Distance to target location: 92.74 meters. Will take 10.43 seconds driving at 32kmh
+[02:42:06] (INFO) Found 1 catchable Pokemon
+[02:42:07] (Wild Escape) | Pidgey 66 V |  117 Cp | 13.70% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[02:42:08] (Wild Success Attempt #2) | Pidgey 66 V |  117 Cp | 13.70% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[02:42:10] (INFO) Found 1 pokemon to transfer...
+[02:42:11] (TRANSFER) Pidgey 66 V |  117 Cp | 13.70% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 764
+[02:42:12] (INFO) Found 1 catchable Pokemon
+[02:42:14] (Wild Success) | Magikarp 118 V |   55 Cp | 86.88% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
