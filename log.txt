@@ -37167,3 +37167,21 @@
 [22:45:55] (NAVIGATION) Distance to target location: 89.71 meters. Will take 10.42 seconds driving at 31kmh
 [22:45:59] (INFO) Found 1 catchable Pokemon
 [22:46:00] (Wild Success) | Paras 124 V |  240 Cp | 29.83% | Lvl 11 | Chance: 0.36 | with a UltraBall and received XP 210
+[22:46:02] (INFO) Found 1 pokemon to transfer...
+[22:46:03] (TRANSFER) Paras 124 V |  240 Cp | 29.83% | Lvl 11 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 92
+[22:46:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:46:07] (POKESTOP) Rainbow Sticks Sculpture in 28 m distance
+[22:46:07] (NAVIGATION) Distance to target location: 28 meters. Will take 3.6 seconds driving at 28kmh
+[22:46:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:46:11] (INFO) Found 1 Recyclable Item:
+[22:46:12] (RECYCLING) PokeBall x 8
+[22:46:14] (POKESTOP) Pomegranate Ice Kachang See Saw in 90.69 m distance
+[22:46:14] (NAVIGATION) Distance to target location: 90.69 meters. Will take 11.26 seconds driving at 29kmh
+[22:46:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[22:46:25] (POKESTOP) Beach Station Car Park Tower in 87.78 m distance
+[22:46:25] (NAVIGATION) Distance to target location: 87.78 meters. Will take 10.53 seconds driving at 30kmh
+[22:46:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:46:37] (POKESTOP) Snake on Road in 61.51 m distance
+[22:46:37] (NAVIGATION) Distance to target location: 61.51 meters. Will take 7.14 seconds driving at 31kmh
+[22:46:40] (INFO) Found 1 catchable Pokemon
+[22:46:42] (Wild Success) | Drowzee 148 V |  104 Cp | 68.24% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 710
