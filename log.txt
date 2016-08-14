@@ -28288,3 +28288,50 @@
 [12:07:34] (NAVIGATION) Distance to target location: 96.49 meters. Will take 11.21 seconds driving at 31kmh
 [12:07:36] (INFO) Found 1 catchable Pokemon
 [12:07:38] (Wild Success) | Zubat 156 V |  268 Cp | 68.81% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[12:07:40] (INFO) Found 1 pokemon to transfer...
+[12:07:41] (TRANSFER) Zubat 156 V |  268 Cp | 68.81% | Lvl 16 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 818
+[12:07:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:07:46] (POKESTOP) Corridor of Love Mural in 74.94 m distance
+[12:07:46] (NAVIGATION) Distance to target location: 74.94 meters. Will take 9.3 seconds driving at 29kmh
+[12:07:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:07:55] (INFO) Found 3 Recyclable Items:
+[12:07:55] (RECYCLING) PokeBall x 6
+[12:07:56] (RECYCLING) Potion x 1
+[12:07:58] (RECYCLING) Revive x 3
+[12:08:00] (POKESTOP) Heritage Time Arc in 90.2 m distance
+[12:08:00] (NAVIGATION) Distance to target location: 90.2 meters. Will take 10.15 seconds driving at 32kmh
+[12:08:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[12:08:10] (POKESTOP) Ventus in 88.9 m distance
+[12:08:10] (NAVIGATION) Distance to target location: 88.9 meters. Will take 10.67 seconds driving at 30kmh
+[12:08:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[12:08:20] (POKESTOP) NUS monolith in 109.12 m distance
+[12:08:20] (NAVIGATION) Distance to target location: 109.12 meters. Will take 12.67 seconds driving at 31kmh
+[12:08:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:08:33] (POKESTOP) Metal Robot Structure in 142.7 m distance
+[12:08:33] (NAVIGATION) Distance to target location: 142.7 meters. Will take 18.35 seconds driving at 28kmh
+[12:08:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:08:51] (POKESTOP) Abstact Sculptures At NUS in 126.8 m distance
+[12:08:51] (NAVIGATION) Distance to target location: 126.8 meters. Will take 15.22 seconds driving at 30kmh
+[12:08:53] (INFO) Found 1 catchable Pokemon
+[12:08:55] (Wild Escape) | Kakuna 90 V |   39 Cp | 30.61% | Lvl 04 | Chance: 0.39 | with a GreatBall 
+[12:08:56] (Wild Success Attempt #2) | Kakuna 90 V |   39 Cp | 30.61% | Lvl 04 | Chance: 0.39 | with a GreatBall 
+[12:08:58] (INFO) Found 2 pokemon to transfer...
+[12:08:59] (TRANSFER) Kakuna 81 V |   77 Cp | 40.54% | Lvl 07 | Best: [Kakuna 90 V |   39 Cp | 30.61% | Lvl 04] | Candy: 491
+[12:09:02] (TRANSFER) Kakuna 90 V |   39 Cp | 30.61% | Lvl 04 | Best: [Kakuna 86 V |  227 Cp | 30.65% | Lvl 21] | Candy: 492
+[12:09:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[12:09:06] (INFO) Found 2 Recyclable Items:
+[12:09:06] (RECYCLING) PokeBall x 8
+[12:09:07] (RECYCLING) Revive x 2
+[12:09:10] (POKESTOP) SDE Mural in 112.84 m distance
+[12:09:10] (NAVIGATION) Distance to target location: 112.84 meters. Will take 14.01 seconds driving at 29kmh
+[12:09:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[12:09:24] (POKESTOP) Center for English Language Communication in 112.4 m distance
+[12:09:24] (NAVIGATION) Distance to target location: 112.4 meters. Will take 13.95 seconds driving at 29kmh
+[12:09:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[12:09:37] (POKESTOP) Fragrant Plant Garden in 287.12 m distance
+[12:09:37] (NAVIGATION) Distance to target location: 287.12 meters. Will take 19.88 seconds driving at 52kmh
+[12:09:56] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 5 x ItemPokeBall
+[12:09:58] (POKESTOP) Park Gazebos in 44.99 m distance
+[12:09:58] (NAVIGATION) Distance to target location: 44.99 meters. Will take 5.22 seconds driving at 31kmh
+[12:10:00] (INFO) Found 1 catchable Pokemon
+[12:10:01] (Wild Success) | Pidgey 85 V |   10 Cp | 33.82% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
