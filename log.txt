@@ -31887,3 +31887,9 @@
 [14:25:00] (TRANSFER) Bellsprout 109 V |   71 Cp | 37.36% | Lvl 03 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 376
 [14:25:02] (INFO) Found 1 catchable Pokemon
 [14:25:03] (Wild Success) | Rattata 128 V |   54 Cp | 61.12% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[14:25:05] (INFO) Found 1 pokemon to transfer...
+[14:25:06] (TRANSFER) Rattata 128 V |   54 Cp | 61.12% | Lvl 04 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 741
+[14:25:10] (POKESTOP) Syzygium Campanulatum in 227.86 m distance
+[14:25:10] (NAVIGATION) Distance to target location: 227.86 meters. Will take 19.53 seconds driving at 42kmh
+[14:25:21] (INFO) Found 1 catchable Pokemon
+[14:25:23] (Wild Success) | Pidgey 100 V |  234 Cp | 27.39% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
