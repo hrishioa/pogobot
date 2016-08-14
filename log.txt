@@ -23727,3 +23727,8 @@
 [09:16:39] (INFO) Found 2 catchable Pokemon
 [09:16:40] (Wild Success) | Rattata 130 V |  158 Cp | 53.58% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [09:16:42] (Wild Success) | Rattata 118 V |  139 Cp | 44.06% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[09:16:44] (INFO) Found 2 pokemon to transfer...
+[09:16:45] (TRANSFER) Rattata 130 V |  158 Cp | 53.58% | Lvl 11 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 628
+[09:16:48] (TRANSFER) Rattata 118 V |  139 Cp | 44.06% | Lvl 10 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 629
+[09:16:49] (INFO) Found 1 catchable Pokemon
+[09:16:50] (Wild Success) | Rattata 121 V |   95 Cp | 46.21% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
