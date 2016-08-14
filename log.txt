@@ -38532,3 +38532,5 @@
 [23:36:21] (TRANSFER) Ponyta 171 V |  333 Cp | 87.75% | Lvl 08 | Best: [Ponyta 226 V |  925 Cp | 84.33% | Lvl 22] | Candy: 10
 [23:36:22] (INFO) Found 2 catchable Pokemon
 [23:36:24] (Wild Success) | Caterpie 72 V |   14 Cp | 16.19% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[23:36:25] (BERRY) ItemRazzBerry used, remaining: 42
+[23:36:26] (Wild Success) | Bulbasaur 123 V |  407 Cp | 0.00% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
