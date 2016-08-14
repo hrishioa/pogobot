@@ -39124,3 +39124,13 @@
 [23:57:41] (TRANSFER) Magikarp 92 V |   74 Cp | 60.19% | Lvl 12 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 289
 [23:57:42] (INFO) Found 1 catchable Pokemon
 [23:57:44] (Wild Success) | Magnemite 148 V |  183 Cp | 65.48% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:57:46] (INFO) Found 1 pokemon to transfer...
+[23:57:47] (TRANSFER) Magnemite 148 V |  183 Cp | 65.48% | Lvl 08 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 50
+[23:57:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[23:57:49] (POKESTOP) Fountain by the Sea in 84.21 m distance
+[23:57:49] (NAVIGATION) Distance to target location: 84.21 meters. Will take 9.78 seconds driving at 31kmh
+[23:57:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[23:57:59] (POKESTOP) Tanjong Beach Club in 158.89 m distance
+[23:57:59] (NAVIGATION) Distance to target location: 158.89 meters. Will take 19.72 seconds driving at 29kmh
+[23:58:10] (INFO) Found 1 catchable Pokemon
+[23:58:11] (Wild Success) | Voltorb 133 V |   10 Cp | 62.23% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
