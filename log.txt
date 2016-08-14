@@ -33634,3 +33634,10 @@
 [20:41:07] (NAVIGATION) Distance to target location: 442.81 meters. Will take 22.77 seconds driving at 70kmh
 [20:41:09] (INFO) Found 1 catchable Pokemon
 [20:41:11] (Wild Success) | Poliwag 144 V |  357 Cp | 48.96% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
+[20:41:13] (INFO) Found 1 pokemon to transfer...
+[20:41:14] (TRANSFER) Poliwag 144 V |  357 Cp | 48.96% | Lvl 18 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 109
+[20:41:31] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:41:32] (POKESTOP) Butterfly Mural in 837.93 m distance
+[20:41:32] (NAVIGATION) Distance to target location: 837.93 meters. Will take 43.09 seconds driving at 70kmh
+[20:42:15] (INFO) Found 1 catchable Pokemon
+[20:42:17] (Wild Success) | Spearow 119 V |  268 Cp | 45.34% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
