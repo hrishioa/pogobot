@@ -44388,3 +44388,4 @@
 [02:33:30] (Wild Success) | Magnemite 194 V |  537 Cp | 68.18% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
 [02:33:32] (Wild Success) | Krabby 94 V |   88 Cp | 31.41% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [02:33:34] (Wild Success) | Voltorb 163 V |  222 Cp | 69.46% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:33:36] (Wild Success) | Voltorb 161 V |   82 Cp | 75.86% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
