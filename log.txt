@@ -41823,3 +41823,7 @@
 [01:18:51] (NAVIGATION) Distance to target location: 106.49 meters. Will take 13.69 seconds driving at 28kmh
 [01:18:52] (INFO) Found 1 catchable Pokemon
 [01:18:54] (Wild Success) | Meowth 112 V |  210 Cp | 26.21% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:18:56] (INFO) Found 1 pokemon to transfer...
+[01:18:58] (TRANSFER) Meowth 112 V |  210 Cp | 26.21% | Lvl 12 | Best: [Meowth 169 V |  184 Cp | 81.42% | Lvl 09] | Candy: 81
+[01:18:59] (INFO) Found 2 catchable Pokemon
+[01:19:00] (Wild Success) | Voltorb 165 V |   60 Cp | 86.53% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
