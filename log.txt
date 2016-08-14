@@ -21569,3 +21569,7 @@
 [08:05:31] (NAVIGATION) Distance to target location: 130.03 meters. Will take 15.6 seconds driving at 30kmh
 [08:05:43] (INFO) Found 1 catchable Pokemon
 [08:05:44] (Wild Success) | Weedle 72 V |   24 Cp | 15.24% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[08:05:46] (INFO) Found 1 pokemon to transfer...
+[08:05:48] (TRANSFER) Weedle 72 V |   24 Cp | 15.24% | Lvl 03 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 455
+[08:05:49] (INFO) Found 1 catchable Pokemon
+[08:05:51] (Wild Success) | Diglett 137 V |   87 Cp | 61.29% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
