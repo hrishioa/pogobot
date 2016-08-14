@@ -29656,3 +29656,25 @@
 [13:02:47] (TRANSFER) Golbat 124 V |  131 Cp | 51.27% | Lvl 03 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 870
 [13:02:49] (INFO) Found 1 catchable Pokemon
 [13:02:50] (Wild Success) | Paras 147 V |  238 Cp | 62.65% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
+[13:02:52] (INFO) Found 1 pokemon to transfer...
+[13:02:54] (TRANSFER) Paras 147 V |  238 Cp | 62.65% | Lvl 10 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 130
+[13:02:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[13:02:57] (POKESTOP) Tiled Falls in 30.1 m distance
+[13:02:57] (NAVIGATION) Distance to target location: 30.1 meters. Will take 3.5 seconds driving at 31kmh
+[13:03:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:03:01] (POKESTOP) NUS 1962-1980 in 82.71 m distance
+[13:03:01] (NAVIGATION) Distance to target location: 82.71 meters. Will take 10.63 seconds driving at 28kmh
+[13:03:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:03:11] (INFO) Found 2 Recyclable Items:
+[13:03:11] (RECYCLING) PokeBall x 11
+[13:03:12] (RECYCLING) Potion x 1
+[13:03:15] (POKESTOP) NUS Graduate Pot in 51.42 m distance
+[13:03:15] (NAVIGATION) Distance to target location: 51.42 meters. Will take 5.78 seconds driving at 32kmh
+[13:03:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:03:21] (POKESTOP) Blueprints Embedded On Stone in 78.92 m distance
+[13:03:21] (NAVIGATION) Distance to target location: 78.92 meters. Will take 8.88 seconds driving at 32kmh
+[13:03:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 5 x ItemPokeBall
+[13:03:30] (POKESTOP) Integration in 91.58 m distance
+[13:03:30] (NAVIGATION) Distance to target location: 91.58 meters. Will take 11.37 seconds driving at 29kmh
+[13:03:36] (INFO) Found 1 catchable Pokemon
+[13:03:38] (Wild Success) | Gastly 146 V |  209 Cp | 65.44% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
