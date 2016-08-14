@@ -34380,3 +34380,9 @@
 [21:03:30] (INFO) Found 2 catchable Pokemon
 [21:03:31] (Wild Success) | Jigglypuff 141 V |  411 Cp | 50.50% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
 [21:03:33] (Wild Success) | Poliwag 140 V |   10 Cp | 70.20% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
+[21:03:35] (INFO) Found 2 pokemon to transfer...
+[21:03:36] (TRANSFER) Jigglypuff 141 V |  411 Cp | 50.50% | Lvl 18 | Best: [Jigglypuff 177 V |  444 Cp | 57.86% | Lvl 19] | Candy: 51
+[21:03:39] (TRANSFER) Poliwag 140 V |   10 Cp | 70.20% | Lvl 01 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 215
+[21:03:40] (INFO) Found 1 catchable Pokemon
+[21:03:41] (BERRY) ItemRazzBerry used, remaining: 47
+[21:03:42] (Wild Success) | Voltorb 175 V |  526 Cp | 50.02% | Lvl 25 | Chance: 0.29 | with a UltraBall and received XP 420
