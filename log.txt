@@ -44136,3 +44136,22 @@
 [02:26:21] (INFO) Found 2 catchable Pokemon
 [02:26:23] (Wild Success) | Magnemite 136 V |  171 Cp | 41.80% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [02:26:25] (Wild Success) | Voltorb 136 V |  207 Cp | 45.26% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:26:26] (INFO) Found 2 pokemon to transfer...
+[02:26:28] (TRANSFER) Magnemite 136 V |  171 Cp | 41.80% | Lvl 08 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 233
+[02:26:30] (TRANSFER) Voltorb 136 V |  207 Cp | 45.26% | Lvl 10 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 240
+[02:26:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemRevive, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:26:34] (POKESTOP) |œ>\îr in 64.14 m distance
+[02:26:34] (NAVIGATION) Distance to target location: 64.14 meters. Will take 7.7 seconds driving at 30kmh
+[02:26:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[02:26:41] (INFO) Found 4 Recyclable Items:
+[02:26:41] (RECYCLING) RazzBerry x 2
+[02:26:42] (RECYCLING) PokeBall x 6
+[02:26:43] (RECYCLING) Potion x 2
+[02:26:44] (RECYCLING) Revive x 3
+[02:26:47] (POKESTOP) Merlion - Sentosa Island in 70.43 m distance
+[02:26:47] (NAVIGATION) Distance to target location: 70.43 meters. Will take 8.74 seconds driving at 29kmh
+[02:26:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:26:55] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 69.08 m distance
+[02:26:55] (NAVIGATION) Distance to target location: 69.08 meters. Will take 8.29 seconds driving at 30kmh
+[02:27:00] (INFO) Found 1 catchable Pokemon
+[02:27:03] (Wild Success) | Bellsprout 128 V |  483 Cp | 50.61% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
