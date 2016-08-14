@@ -38683,3 +38683,4 @@
 [23:39:37] (TRANSFER) Horsea 141 V |  140 Cp | 64.52% | Lvl 07 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 52
 [23:39:45] (INFO) Found 2 catchable Pokemon
 [23:39:46] (Wild Success) | Poliwag 100 V |  239 Cp | 24.14% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[23:39:48] (Wild Success) | NidoranFemale 112 V |   76 Cp | 28.60% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
