@@ -38516,3 +38516,15 @@
 [23:35:37] (TRANSFER) Goldeen 133 V |  407 Cp | 42.63% | Lvl 17 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 189
 [23:35:39] (INFO) Found 1 catchable Pokemon
 [23:35:40] (Wild Success) | Voltorb 155 V |   59 Cp | 79.45% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[23:35:42] (INFO) Found 1 pokemon to transfer...
+[23:35:43] (TRANSFER) Voltorb 155 V |   59 Cp | 79.45% | Lvl 03 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 64
+[23:36:08] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[23:36:08] (ATTENTION) Restarting the application due to error...
+[23:36:08] (INFO) Logging in via: Google
+[23:36:09] (INFO) Client logged in
+[23:36:09] (INFO) Found 1 Pokestop
+[23:36:10] (POKESTOP) Metallic Symbol of Tranquillity in 135 m distance
+[23:36:10] (NAVIGATION) Distance to target location: 135 meters. Will take 16.2 seconds driving at 30kmh
+[23:36:15] (INFO) Found 1 catchable Pokemon
+[23:36:17] (BERRY) ItemRazzBerry used, remaining: 43
+[23:36:18] (Wild Success) | Ponyta 226 V |  925 Cp | 84.33% | Lvl 22 | Chance: 0.25 | with a GreatBall and received XP 210
