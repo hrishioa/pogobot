@@ -33698,3 +33698,22 @@
 [20:45:14] (NAVIGATION) Distance to target location: 30.59 meters. Will take 3.93 seconds driving at 28kmh
 [20:45:16] (INFO) Found 1 catchable Pokemon
 [20:45:17] (Wild Success) | Rattata 137 V |  158 Cp | 53.69% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
+[20:45:19] (INFO) Found 1 pokemon to transfer...
+[20:45:20] (TRANSFER) Rattata 137 V |  158 Cp | 53.69% | Lvl 11 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 280
+[20:45:22] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemSuperPotion, 2 x ItemPokeBall
+[20:45:23] (POKESTOP) SUTD Monolith in 155.75 m distance
+[20:45:23] (NAVIGATION) Distance to target location: 155.75 meters. Will take 17.52 seconds driving at 32kmh
+[20:45:40] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:45:40] (INFO) Found 2 Recyclable Items:
+[20:45:41] (RECYCLING) SuperPotion x 1
+[20:45:42] (RECYCLING) HyperPotion x 1
+[20:45:45] (POKESTOP) Let's Get Healthy Together Mural in 126.05 m distance
+[20:45:45] (NAVIGATION) Distance to target location: 126.05 meters. Will take 15.65 seconds driving at 29kmh
+[20:45:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:46:01] (POKESTOP) Brown Rice Lady in 44.57 m distance
+[20:46:01] (NAVIGATION) Distance to target location: 44.57 meters. Will take 5.53 seconds driving at 29kmh
+[20:46:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:46:08] (POKESTOP) Healthy Living Murals in 52.31 m distance
+[20:46:08] (NAVIGATION) Distance to target location: 52.31 meters. Will take 6.49 seconds driving at 29kmh
+[20:46:11] (INFO) Found 1 catchable Pokemon
+[20:46:13] (Wild Success) | Bellsprout 158 V |  543 Cp | 75.02% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
