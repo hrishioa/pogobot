@@ -30939,3 +30939,9 @@
 [13:50:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
 [13:50:54] (INFO) Found 1 catchable Pokemon
 [13:50:56] (Wild Success) | Magikarp 90 V |   91 Cp | 56.41% | Lvl 15 | Chance: 0.54 | with a PokeBall and received XP 210
+[13:50:58] (INFO) Found 1 pokemon to transfer...
+[13:50:59] (TRANSFER) Magikarp 90 V |   91 Cp | 56.41% | Lvl 15 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 198
+[13:51:00] (POKESTOP) Veranda Sculpture in 284.45 m distance
+[13:51:00] (NAVIGATION) Distance to target location: 284.45 meters. Will take 19.69 seconds driving at 52kmh
+[13:51:02] (INFO) Found 2 catchable Pokemon
+[13:51:04] (Wild Success) | Magikarp 100 V |   96 Cp | 65.49% | Lvl 15 | Chance: 0.54 | with a PokeBall and received XP 210
