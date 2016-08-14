@@ -21527,3 +21527,38 @@
 [08:02:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
 [08:02:46] (INFO) Found 1 catchable Pokemon
 [08:02:48] (Wild Success) | Pidgey 97 V |   92 Cp | 32.61% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[08:02:50] (INFO) Found 1 pokemon to transfer...
+[08:02:51] (TRANSFER) Pidgey 97 V |   92 Cp | 32.61% | Lvl 06 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 975
+[08:02:52] (POKESTOP) Masjid Tentera Di Raja in 139 m distance
+[08:02:52] (NAVIGATION) Distance to target location: 139 meters. Will take 15.64 seconds driving at 32kmh
+[08:03:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[08:03:08] (POKESTOP) Clementi Woods Playground in 400.76 m distance
+[08:03:08] (NAVIGATION) Distance to target location: 400.76 meters. Will take 20.61 seconds driving at 70kmh
+[08:03:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:03:30] (INFO) Found 3 Recyclable Items:
+[08:03:30] (RECYCLING) RazzBerry x 1
+[08:03:31] (RECYCLING) PokeBall x 8
+[08:03:32] (RECYCLING) SuperPotion x 2
+[08:03:35] (POKESTOP) Clementi Woods Fitness Corner in 185.45 m distance
+[08:03:35] (NAVIGATION) Distance to target location: 185.45 meters. Will take 19.64 seconds driving at 34kmh
+[08:03:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[08:03:55] (POKESTOP) Fingerprint Like Wood Art in 572.91 m distance
+[08:03:55] (NAVIGATION) Distance to target location: 572.91 meters. Will take 29.46 seconds driving at 70kmh
+[08:04:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 4 x ItemPokeBall
+[08:04:27] (POKESTOP) Temasek Laboratories at NUS in 113.46 m distance
+[08:04:27] (NAVIGATION) Distance to target location: 113.46 meters. Will take 13.18 seconds driving at 31kmh
+[08:04:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:04:40] (POKESTOP) Wall Of Innovations And Enterprise in 83.82 m distance
+[08:04:40] (NAVIGATION) Distance to target location: 83.82 meters. Will take 9.43 seconds driving at 32kmh
+[08:04:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:04:49] (POKESTOP) Raffles Hall Art Piece (1984/85) in 191.22 m distance
+[08:04:49] (NAVIGATION) Distance to target location: 191.22 meters. Will take 19.67 seconds driving at 35kmh
+[08:05:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:05:10] (INFO) Found 3 Recyclable Items:
+[08:05:10] (RECYCLING) PokeBall x 12
+[08:05:11] (RECYCLING) Potion x 3
+[08:05:12] (RECYCLING) Revive x 1
+[08:05:14] (POKESTOP) Raffles Hall in 101 m distance
+[08:05:14] (NAVIGATION) Distance to target location: 101 meters. Will take 11.73 seconds driving at 31kmh
+[08:05:23] (INFO) Found 1 catchable Pokemon
+[08:05:24] (Wild Success) | Eevee 148 V |  221 Cp | 58.74% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 210
