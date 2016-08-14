@@ -42519,3 +42519,13 @@
 [01:38:34] (NAVIGATION) Distance to target location: 66.31 meters. Will take 7.46 seconds driving at 32kmh
 [01:38:37] (INFO) Found 1 catchable Pokemon
 [01:38:38] (Wild Success) | Krabby 134 V |  118 Cp | 64.53% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[01:38:40] (INFO) Found 1 pokemon to transfer...
+[01:38:42] (TRANSFER) Krabby 134 V |  118 Cp | 64.53% | Lvl 06 | Best: [Krabby 176 V |  499 Cp | 68.90% | Lvl 24] | Candy: 166
+[01:38:45] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemRazzBerry, 4 x ItemPokeBall
+[01:38:46] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 69.33 m distance
+[01:38:46] (NAVIGATION) Distance to target location: 69.33 meters. Will take 8.91 seconds driving at 28kmh
+[01:38:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[01:38:55] (POKESTOP) Castle and the Knight in 36.36 m distance
+[01:38:55] (NAVIGATION) Distance to target location: 36.36 meters. Will take 4.67 seconds driving at 28kmh
+[01:38:56] (INFO) Found 1 catchable Pokemon
+[01:38:58] (Wild Success) | Magnemite 152 V |  226 Cp | 56.63% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
