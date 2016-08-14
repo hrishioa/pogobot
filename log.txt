@@ -29778,3 +29778,17 @@
 [13:07:57] (Wild Success) | Caterpie 81 V |   64 Cp | 20.42% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [13:07:58] (BERRY) ItemRazzBerry used, remaining: 48
 [13:08:00] (Wild Success) | Golbat 186 V |  806 Cp | 50.33% | Lvl 16 | Chance: 0.14 | with a GreatBall and received XP 210
+[13:08:01] (INFO) Found 2 pokemon to transfer...
+[13:08:03] (TRANSFER) Caterpie 81 V |   64 Cp | 20.42% | Lvl 07 | Best: [Caterpie 105 V |  190 Cp | 35.84% | Lvl 19] | Candy: 167
+[13:08:05] (TRANSFER) Golbat 186 V |  806 Cp | 50.33% | Lvl 16 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 882
+[13:08:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:08:09] (POKESTOP) Pendulum White Shelter in 255.95 m distance
+[13:08:09] (NAVIGATION) Distance to target location: 255.95 meters. Will take 19.6 seconds driving at 47kmh
+[13:08:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:08:30] (POKESTOP) Safety English Chess Table in 76.78 m distance
+[13:08:30] (NAVIGATION) Distance to target location: 76.78 meters. Will take 9.53 seconds driving at 29kmh
+[13:08:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemPokeBall
+[13:08:40] (POKESTOP) West Coast Park in 128.59 m distance
+[13:08:40] (NAVIGATION) Distance to target location: 128.59 meters. Will take 15.96 seconds driving at 29kmh
+[13:08:52] (INFO) Found 1 catchable Pokemon
+[13:08:54] (Wild Success) | Bellsprout 72 V |   13 Cp | 42.44% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
