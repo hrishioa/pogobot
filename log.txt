@@ -23156,3 +23156,11 @@
 [08:58:16] (BERRY) ItemRazzBerry used, remaining: 50
 [08:58:18] (Wild Success) | Pidgey 116 V |  372 Cp | 24.46% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
 [08:58:19] (Wild Success) | Golbat 141 V |  135 Cp | 66.62% | Lvl 03 | Chance: 0.37 | with a GreatBall and received XP 210
+[08:58:21] (INFO) Found 2 pokemon to transfer...
+[08:58:22] (TRANSFER) Golbat 141 V |  135 Cp | 66.62% | Lvl 03 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 782
+[08:58:25] (TRANSFER) Pidgey 116 V |  372 Cp | 24.46% | Lvl 24 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1063
+[08:58:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[08:58:30] (POKESTOP) The Odyssey in 63.87 m distance
+[08:58:30] (NAVIGATION) Distance to target location: 63.87 meters. Will take 7.19 seconds driving at 32kmh
+[08:58:34] (INFO) Found 2 catchable Pokemon
+[08:58:35] (Wild Success) | Spearow 109 V |   27 Cp | 69.36% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
