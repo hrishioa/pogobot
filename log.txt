@@ -29201,3 +29201,11 @@
 [12:40:11] (INFO) Found 2 catchable Pokemon
 [12:40:13] (Wild Success) | Paras 144 V |  303 Cp | 54.06% | Lvl 13 | Chance: 0.33 | with a UltraBall and received XP 210
 [12:40:15] (Wild Success) | Spearow 105 V |   27 Cp | 62.02% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[12:40:17] (INFO) Found 2 pokemon to transfer...
+[12:40:19] (TRANSFER) Spearow 105 V |   27 Cp | 62.02% | Lvl 02 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 325
+[12:40:21] (TRANSFER) Paras 144 V |  303 Cp | 54.06% | Lvl 13 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 122
+[12:40:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[12:40:23] (POKESTOP) Catherine's Healing Garden in 81.96 m distance
+[12:40:23] (NAVIGATION) Distance to target location: 81.96 meters. Will take 9.52 seconds driving at 31kmh
+[12:40:29] (INFO) Found 2 catchable Pokemon
+[12:40:31] (Wild Success) | Ekans 152 V |  368 Cp | 47.88% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
