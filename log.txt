@@ -44155,3 +44155,8 @@
 [02:26:55] (NAVIGATION) Distance to target location: 69.08 meters. Will take 8.29 seconds driving at 30kmh
 [02:27:00] (INFO) Found 1 catchable Pokemon
 [02:27:03] (Wild Success) | Bellsprout 128 V |  483 Cp | 50.61% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[02:27:04] (INFO) Found 1 pokemon to transfer...
+[02:27:05] (TRANSFER) Bellsprout 128 V |  483 Cp | 50.61% | Lvl 17 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 86
+[02:27:07] (INFO) Found 1 catchable Pokemon
+[02:27:08] (BERRY) ItemRazzBerry used, remaining: 50
+[02:27:09] (Wild Success) | Magnemite 180 V |  513 Cp | 67.23% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
