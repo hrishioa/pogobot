@@ -35012,3 +35012,15 @@
 [21:27:26] (INFO) Found 1 catchable Pokemon
 [21:27:27] (BERRY) ItemRazzBerry used, remaining: 45
 [21:27:28] (Wild Success) | Bulbasaur 108 V |  368 Cp | 9.34% | Lvl 15 | Chance: 0.15 | with a UltraBall and received XP 420
+[21:27:30] (INFO) Found 1 pokemon to transfer...
+[21:27:31] (TRANSFER) Bulbasaur 108 V |  368 Cp | 9.34% | Lvl 15 | Best: [Bulbasaur 229 V |  609 Cp | 97.81% | Lvl 20] | Candy: 100
+[21:27:35] (ATTENTION) No locations in your area...
+[21:27:40] (INFO) Found 91 Pokestops
+[21:27:41] (POKESTOP) Wall Of Innovations And Enterprise in 0 m distance
+[21:27:41] (NAVIGATION) Distance to target location: 0 meters. Will take 0 seconds driving at 29kmh
+[21:27:44] (POKESTOP) Temasek Laboratories at NUS in 72.38 m distance
+[21:27:44] (NAVIGATION) Distance to target location: 72.38 meters. Will take 8.69 seconds driving at 30kmh
+[21:27:52] (POKESTOP) Fingerprint Like Wood Art in 121.61 m distance
+[21:27:52] (NAVIGATION) Distance to target location: 121.61 meters. Will take 15.64 seconds driving at 28kmh
+[21:28:08] (INFO) Found 1 catchable Pokemon
+[21:28:09] (Wild Success) | Pidgey 95 V |  205 Cp | 29.63% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
