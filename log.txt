@@ -34412,3 +34412,28 @@
 [21:05:06] (NAVIGATION) Distance to target location: 156.2 meters. Will take 18.74 seconds driving at 30kmh
 [21:05:21] (INFO) Found 1 catchable Pokemon
 [21:05:22] (Wild Success) | Exeggcute 157 V |  429 Cp | 58.54% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 420
+[21:05:24] (INFO) Found 1 pokemon to transfer...
+[21:05:26] (TRANSFER) Exeggcute 157 V |  429 Cp | 58.54% | Lvl 15 | Best: [Exeggcute 231 V |  681 Cp | 93.48% | Lvl 22] | Candy: 61
+[21:05:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:05:29] (POKESTOP) NUS Business School in 113.73 m distance
+[21:05:29] (NAVIGATION) Distance to target location: 113.73 meters. Will take 13.21 seconds driving at 31kmh
+[21:05:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:05:44] (POKESTOP) Keio Cute Center in 53.22 m distance
+[21:05:44] (NAVIGATION) Distance to target location: 53.22 meters. Will take 6.84 seconds driving at 28kmh
+[21:05:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:05:51] (POKESTOP) Waterfall Fountain in 74.03 m distance
+[21:05:51] (NAVIGATION) Distance to target location: 74.03 meters. Will take 8.88 seconds driving at 30kmh
+[21:05:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:06:01] (POKESTOP) SeSaMe Center in 86.14 m distance
+[21:06:01] (NAVIGATION) Distance to target location: 86.14 meters. Will take 10.34 seconds driving at 30kmh
+[21:06:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:06:11] (POKESTOP) Mochtar Riady Building in 49.27 m distance
+[21:06:11] (NAVIGATION) Distance to target location: 49.27 meters. Will take 5.54 seconds driving at 32kmh
+[21:06:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:06:17] (POKESTOP) Tree of Benevolence in 72.94 m distance
+[21:06:17] (NAVIGATION) Distance to target location: 72.94 meters. Will take 8.21 seconds driving at 32kmh
+[21:06:24] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:06:25] (POKESTOP) NUS Historial Plaques in 56.49 m distance
+[21:06:25] (NAVIGATION) Distance to target location: 56.49 meters. Will take 7.26 seconds driving at 28kmh
+[21:06:27] (INFO) Found 1 catchable Pokemon
+[21:06:28] (Wild Success) | Caterpie 97 V |  135 Cp | 28.14% | Lvl 14 | Chance: 0.4 | with a UltraBall and received XP 420
