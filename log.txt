@@ -44624,3 +44624,4 @@
 [02:42:35] (TRANSFER) Caterpie 68 V |   10 Cp | 12.21% | Lvl 01 | Best: [Caterpie 163 V |  244 Cp | 88.98% | Lvl 20] | Candy: 211
 [02:42:36] (INFO) Found 2 catchable Pokemon
 [02:42:38] (Wild Success) | Magikarp 113 V |  127 Cp | 74.64% | Lvl 19 | Chance: 0.48 | with a GreatBall and received XP 210
+[02:42:40] (Wild Success) | Magikarp 97 V |   50 Cp | 66.53% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
