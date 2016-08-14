@@ -30638,3 +30638,10 @@
 [13:40:46] (NAVIGATION) Distance to target location: 83.77 meters. Will take 9.42 seconds driving at 32kmh
 [13:40:52] (INFO) Found 1 catchable Pokemon
 [13:40:54] (Wild Success) | Pidgey 120 V |  116 Cp | 53.45% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[13:40:56] (INFO) Found 1 pokemon to transfer...
+[13:40:57] (TRANSFER) Pidgey 120 V |  116 Cp | 53.45% | Lvl 07 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1206
+[13:40:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:41:01] (POKESTOP) Mythical Creature Mural in 68.88 m distance
+[13:41:01] (NAVIGATION) Distance to target location: 68.88 meters. Will take 8.27 seconds driving at 30kmh
+[13:41:06] (INFO) Found 2 catchable Pokemon
+[13:41:07] (Wild Success) | Pidgey 97 V |  249 Cp | 26.74% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
