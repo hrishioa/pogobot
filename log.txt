@@ -23518,3 +23518,29 @@
 [09:10:31] (NAVIGATION) Distance to target location: 135.67 meters. Will take 15.75 seconds driving at 31kmh
 [09:10:42] (INFO) Found 1 catchable Pokemon
 [09:10:44] (Wild Success) | Pidgey 130 V |  303 Cp | 50.44% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[09:10:45] (INFO) Found 1 pokemon to transfer...
+[09:10:47] (TRANSFER) Pidgey 130 V |  303 Cp | 50.44% | Lvl 18 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1083
+[09:10:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:10:52] (POKESTOP) Temasek Laboratories at NUS in 65.31 m distance
+[09:10:52] (NAVIGATION) Distance to target location: 65.31 meters. Will take 7.35 seconds driving at 32kmh
+[09:10:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:10:59] (POKESTOP) Fingerprint Like Wood Art in 123.65 m distance
+[09:10:59] (NAVIGATION) Distance to target location: 123.65 meters. Will take 14.84 seconds driving at 30kmh
+[09:11:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[09:11:14] (POKESTOP) Race to the Future Car at FOE in 69.85 m distance
+[09:11:14] (NAVIGATION) Distance to target location: 69.85 meters. Will take 8.98 seconds driving at 28kmh
+[09:11:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:11:23] (INFO) Found 2 Recyclable Items:
+[09:11:23] (RECYCLING) PokeBall x 2
+[09:11:24] (RECYCLING) Revive x 1
+[09:11:27] (POKESTOP) FOE Singapore in 44.5 m distance
+[09:11:27] (NAVIGATION) Distance to target location: 44.5 meters. Will take 5.01 seconds driving at 32kmh
+[09:11:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[09:11:32] (POKESTOP) Pavilion at Engineering in 69.44 m distance
+[09:11:32] (NAVIGATION) Distance to target location: 69.44 meters. Will take 8.93 seconds driving at 28kmh
+[09:11:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:11:40] (POKESTOP) NUS GREM Display in 64.51 m distance
+[09:11:40] (NAVIGATION) Distance to target location: 64.51 meters. Will take 7.26 seconds driving at 32kmh
+[09:11:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:11:46] (INFO) Found 1 catchable Pokemon
+[09:11:49] (Wild Success) | Caterpie 105 V |  190 Cp | 35.84% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
