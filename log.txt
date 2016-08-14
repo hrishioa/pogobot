@@ -43568,3 +43568,19 @@
 [02:09:36] (NAVIGATION) Distance to target location: 191.81 meters. Will take 19.73 seconds driving at 35kmh
 [02:09:53] (INFO) Found 2 catchable Pokemon
 [02:09:56] (Wild Success) | Caterpie 100 V |  140 Cp | 36.21% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:09:57] (Wild Flee) | Bulbasaur 100 V |  222 Cp | 13.10% | Lvl 09 | Chance: 0.2 | with a GreatBall 
+[02:09:59] (INFO) Found 1 pokemon to transfer...
+[02:10:00] (TRANSFER) Caterpie 100 V |  140 Cp | 36.21% | Lvl 14 | Best: [Caterpie 120 V |  148 Cp | 49.77% | Lvl 14] | Candy: 193
+[02:10:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:10:02] (POKESTOP) Underwater World  in 50.7 m distance
+[02:10:02] (NAVIGATION) Distance to target location: 50.7 meters. Will take 6.08 seconds driving at 30kmh
+[02:10:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:10:09] (POKESTOP) Wall Of Frogs in 125.81 m distance
+[02:10:09] (NAVIGATION) Distance to target location: 125.81 meters. Will take 14.15 seconds driving at 32kmh
+[02:10:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemSuperPotion
+[02:10:21] (INFO) Found 3 Recyclable Items:
+[02:10:23] (RECYCLING) PokeBall x 9
+[02:10:23] (RECYCLING) SuperPotion x 2
+[02:10:24] (RECYCLING) Revive x 2
+[02:10:27] (INFO) Found 1 catchable Pokemon
+[02:10:28] (Wild Success) | Caterpie 83 V |   54 Cp | 22.93% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
