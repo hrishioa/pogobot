@@ -24031,3 +24031,14 @@
 [09:25:52] (INFO) Found 1 catchable Pokemon
 [09:25:53] (BERRY) ItemRazzBerry used, remaining: 44
 [09:25:54] (Wild Success) | Jigglypuff 177 V |  444 Cp | 57.86% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[09:25:55] (INFO) Found 1 pokemon to transfer...
+[09:25:58] (TRANSFER) Jigglypuff 139 V |  183 Cp | 55.79% | Lvl 08 | Best: [Jigglypuff 177 V |  444 Cp | 57.86% | Lvl 19] | Candy: 47
+[09:26:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[09:26:02] (INFO) Found 3 Recyclable Items:
+[09:26:02] (RECYCLING) PokeBall x 8
+[09:26:03] (RECYCLING) SuperPotion x 1
+[09:26:04] (RECYCLING) Revive x 2
+[09:26:07] (POKESTOP) West Coast Plaza Triple Fountain in 205.14 m distance
+[09:26:07] (NAVIGATION) Distance to target location: 205.14 meters. Will take 19.96 seconds driving at 37kmh
+[09:26:13] (INFO) Found 1 catchable Pokemon
+[09:26:14] (Wild Success) | Spearow 96 V |  128 Cp | 36.14% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
