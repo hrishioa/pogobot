@@ -22240,3 +22240,15 @@
 [08:27:21] (INFO) Found 2 catchable Pokemon
 [08:27:23] (Wild Success) | Spearow 69 V |   57 Cp | 22.54% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [08:27:25] (Wild Success) | Weedle 90 V |  134 Cp | 22.13% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[08:27:27] (INFO) Found 2 pokemon to transfer...
+[08:27:28] (TRANSFER) Weedle 90 V |  134 Cp | 22.13% | Lvl 14 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 459
+[08:27:30] (TRANSFER) Spearow 69 V |   57 Cp | 22.54% | Lvl 04 | Best: [Spearow 147 V |  311 Cp | 55.82% | Lvl 18] | Candy: 285
+[08:27:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:27:35] (INFO) Found 3 Recyclable Items:
+[08:27:35] (RECYCLING) RazzBerry x 3
+[08:27:36] (RECYCLING) PokeBall x 4
+[08:27:37] (RECYCLING) Revive x 2
+[08:27:40] (POKESTOP) Commemorative Plaque in 230.82 m distance
+[08:27:40] (NAVIGATION) Distance to target location: 230.82 meters. Will take 19.78 seconds driving at 42kmh
+[08:27:46] (INFO) Found 1 catchable Pokemon
+[08:27:48] (Wild Success) | Gastly 130 V |  240 Cp | 51.05% | Lvl 12 | Chance: 0.34 | with a UltraBall and received XP 210
