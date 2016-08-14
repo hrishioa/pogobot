@@ -43231,3 +43231,5 @@
 [02:00:09] (NAVIGATION) Distance to target location: 139.43 meters. Will take 16.73 seconds driving at 30kmh
 [02:00:22] (INFO) Found 3 catchable Pokemon
 [02:00:23] (Wild Success) | Voltorb 153 V |  148 Cp | 61.08% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[02:00:25] (BERRY) ItemRazzBerry used, remaining: 49
+[02:00:26] (Wild Success) | Voltorb 179 V |  417 Cp | 65.27% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
