@@ -41120,3 +41120,8 @@
 [00:57:08] (NAVIGATION) Distance to target location: 101.5 meters. Will take 12.6 seconds driving at 29kmh
 [00:57:16] (INFO) Found 1 catchable Pokemon
 [00:57:18] (Wild Success) | Koffing 172 V |  480 Cp | 58.95% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:57:20] (INFO) Found 1 pokemon to transfer...
+[00:57:22] (TRANSFER) Koffing 154 V |  394 Cp | 63.14% | Lvl 13 | Best: [Koffing 180 V |  314 Cp | 79.21% | Lvl 10] | Candy: 18
+[00:57:23] (INFO) Found 1 catchable Pokemon
+[00:57:24] (BERRY) ItemRazzBerry used, remaining: 47
+[00:57:25] (Wild Success) | Meowth 156 V |  407 Cp | 60.28% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
