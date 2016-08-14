@@ -40605,3 +40605,8 @@
 [00:41:19] (Wild Success) | Magikarp 92 V |   49 Cp | 62.25% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
 [00:41:20] (BERRY) ItemRazzBerry used, remaining: 46
 [00:41:21] (Wild Success) | Horsea 124 V |  427 Cp | 29.14% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[00:41:23] (INFO) Found 2 pokemon to transfer...
+[00:41:25] (TRANSFER) Horsea 124 V |  427 Cp | 29.14% | Lvl 23 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 56
+[00:41:27] (TRANSFER) Magikarp 92 V |   49 Cp | 62.25% | Lvl 08 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 317
+[00:41:28] (INFO) Found 3 catchable Pokemon
+[00:41:30] (Wild Success) | Voltorb 149 V |   83 Cp | 78.60% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
