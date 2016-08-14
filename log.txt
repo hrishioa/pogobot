@@ -31541,3 +31541,4 @@
 [14:11:48] (INFO) Found 2 catchable Pokemon
 [14:11:49] (BERRY) ItemRazzBerry used, remaining: 50
 [14:11:50] (Wild Success) | Pinsir 193 V |  853 Cp | 60.79% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 210
+[14:11:52] (Wild Success) | Goldeen 146 V |  148 Cp | 69.44% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
