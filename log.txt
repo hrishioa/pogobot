@@ -45530,3 +45530,17 @@
 [03:12:55] (TRANSFER) Tentacool 109 V |  216 Cp | 73.04% | Lvl 09 | Best: [Tentacool 173 V |  546 Cp | 66.03% | Lvl 23] | Candy: 104
 [03:12:56] (INFO) Found 1 catchable Pokemon
 [03:12:57] (Wild Success) | Pidgey 115 V |  180 Cp | 41.74% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[03:12:59] (INFO) Found 1 pokemon to transfer...
+[03:13:01] (TRANSFER) Pidgey 115 V |  180 Cp | 41.74% | Lvl 11 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 792
+[03:13:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemHyperPotion, 1 x ItemPotion, 1 x ItemUltraBall
+[03:13:04] (POKESTOP) ARC Fountain in 79.69 m distance
+[03:13:04] (NAVIGATION) Distance to target location: 79.69 meters. Will take 9.25 seconds driving at 31kmh
+[03:13:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[03:13:14] (POKESTOP) Seafoam Shell Vase in 183.3 m distance
+[03:13:14] (NAVIGATION) Distance to target location: 183.3 meters. Will take 20 seconds driving at 33kmh
+[03:13:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[03:13:34] (POKESTOP) Portico Horse in 65.54 m distance
+[03:13:34] (NAVIGATION) Distance to target location: 65.54 meters. Will take 8.43 seconds driving at 28kmh
+[03:13:37] (INFO) Found 1 catchable Pokemon
+[03:13:38] (BERRY) ItemRazzBerry used, remaining: 40
+[03:13:39] (Wild Success) | Staryu 202 V |  603 Cp | 91.57% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
