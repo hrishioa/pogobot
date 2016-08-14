@@ -39351,3 +39351,11 @@
 [00:04:03] (NAVIGATION) Distance to target location: 223.11 meters. Will take 19.59 seconds driving at 41kmh
 [00:04:09] (INFO) Found 1 catchable Pokemon
 [00:04:11] (Wild Success) | Abra 136 V |   83 Cp | 48.00% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[00:04:12] (INFO) Found 1 pokemon to transfer...
+[00:04:14] (TRANSFER) Abra 136 V |   83 Cp | 48.00% | Lvl 06 | Best: [Abra 173 V |  127 Cp | 79.52% | Lvl 08] | Candy: 14
+[00:04:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
+[00:04:24] (POKESTOP) Sci Fi Auditorium in 65.76 m distance
+[00:04:24] (NAVIGATION) Distance to target location: 65.76 meters. Will take 7.64 seconds driving at 31kmh
+[00:04:30] (INFO) Found 3 catchable Pokemon
+[00:04:30] (BERRY) ItemRazzBerry used, remaining: 49
+[00:04:32] (Wild Success) | Squirtle 142 V |  484 Cp | 48.54% | Lvl 19 | Chance: 0.13 | with a GreatBall and received XP 210
