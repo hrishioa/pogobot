@@ -35810,3 +35810,8 @@
 [22:00:13] (INFO) Found 2 catchable Pokemon
 [22:00:14] (Wild Success) | Weedle 56 V |  101 Cp | 14.09% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
 [22:00:16] (Wild Success) | Weedle 100 V |   91 Cp | 35.99% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[22:00:18] (INFO) Found 2 pokemon to transfer...
+[22:00:19] (TRANSFER) Weedle 100 V |   91 Cp | 35.99% | Lvl 09 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 622
+[22:00:21] (TRANSFER) Weedle 56 V |  101 Cp | 14.09% | Lvl 11 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 623
+[22:00:23] (INFO) Found 1 catchable Pokemon
+[22:00:24] (Wild Success) | Rattata 109 V |   77 Cp | 33.70% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
