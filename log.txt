@@ -30588,3 +30588,15 @@
 [13:38:37] (NAVIGATION) Distance to target location: 97.22 meters. Will take 11.29 seconds driving at 31kmh
 [13:38:41] (INFO) Found 1 catchable Pokemon
 [13:38:43] (Wild Success) | Psyduck 144 V |  381 Cp | 33.85% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[13:38:44] (INFO) Found 1 pokemon to transfer...
+[13:38:46] (TRANSFER) Psyduck 144 V |  381 Cp | 33.85% | Lvl 14 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 93
+[13:38:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:38:50] (POKESTOP) Syzygium Campanulatum in 1123.52 m distance
+[13:38:50] (NAVIGATION) Distance to target location: 1123.52 meters. Will take 57.78 seconds driving at 70kmh
+[13:38:54] (INFO) Found 1 catchable Pokemon
+[13:38:55] (Wild Escape) | Magikarp 99 V |  102 Cp | 64.49% | Lvl 16 | Chance: 0.52 | with a PokeBall 
+[13:38:57] (Wild Success Attempt #2) | Magikarp 99 V |  102 Cp | 64.49% | Lvl 16 | Chance: 0.52 | with a PokeBall 
+[13:38:58] (INFO) Found 1 pokemon to transfer...
+[13:39:00] (TRANSFER) Magikarp 99 V |  102 Cp | 64.49% | Lvl 16 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 190
+[13:39:15] (INFO) Found 1 catchable Pokemon
+[13:39:16] (Wild Success) | Horsea 167 V |  376 Cp | 69.08% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
