@@ -21641,3 +21641,16 @@
 [08:09:06] (INFO) Found 1 catchable Pokemon
 [08:09:08] (BERRY) ItemRazzBerry used, remaining: 50
 [08:09:08] (Wild Success) | Pidgeotto 162 V |  526 Cp | 43.52% | Lvl 17 | Chance: 0.18 | with a GreatBall and received XP 210
+[08:09:10] (INFO) Found 1 pokemon to transfer...
+[08:09:11] (TRANSFER) Pidgeotto 134 V |  278 Cp | 46.46% | Lvl 09 | Best: [Pidgeotto 162 V |  526 Cp | 43.52% | Lvl 17] | Candy: 983
+[08:09:12] (POKESTOP) Metal Robot Structure in 107.83 m distance
+[08:09:12] (NAVIGATION) Distance to target location: 107.83 meters. Will take 12.13 seconds driving at 32kmh
+[08:09:22] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemUltraBall, 1 x ItemGreatBall, 3 x ItemPokeBall
+[08:09:24] (POKESTOP) SDE Mural in 110.64 m distance
+[08:09:24] (NAVIGATION) Distance to target location: 110.64 meters. Will take 12.45 seconds driving at 32kmh
+[08:09:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:09:37] (POKESTOP) NUS Central Library in 234.7 m distance
+[08:09:37] (NAVIGATION) Distance to target location: 234.7 meters. Will take 19.65 seconds driving at 43kmh
+[08:09:49] (INFO) Found 2 catchable Pokemon
+[08:09:49] (BERRY) ItemRazzBerry used, remaining: 49
+[08:09:51] (Wild Success) | Zubat 131 V |  377 Cp | 48.15% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
