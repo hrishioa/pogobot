@@ -23892,3 +23892,12 @@
 [09:23:26] (Wild Success) | Golbat 192 V |  630 Cp | 74.11% | Lvl 12 | Chance: 0.17 | with a GreatBall and received XP 210
 [09:23:27] (BERRY) ItemRazzBerry used, remaining: 44
 [09:23:28] (Wild Success) | Kingler 206 V |  922 Cp | 60.10% | Lvl 19 | Chance: 0.13 | with a GreatBall and received XP 210
+[09:23:30] (INFO) Found 2 pokemon to transfer...
+[09:23:32] (TRANSFER) Kingler 140 V |  420 Cp | 42.62% | Lvl 09 | Best: [Kingler 206 V |  922 Cp | 60.10% | Lvl 19] | Candy: 157
+[09:23:34] (TRANSFER) Golbat 192 V |  630 Cp | 74.11% | Lvl 12 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 798
+[09:23:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[09:23:36] (POKESTOP) West Coast Recreation Centre in 136.21 m distance
+[09:23:36] (NAVIGATION) Distance to target location: 136.21 meters. Will take 15.32 seconds driving at 32kmh
+[09:23:41] (INFO) Found 1 catchable Pokemon
+[09:23:42] (BERRY) ItemRazzBerry used, remaining: 43
+[09:23:43] (Wild Success) | Dodrio 247 V | 1006 Cp | 76.06% | Lvl 20 | Chance: 0.13 | with a GreatBall and received XP 210
