@@ -35044,3 +35044,11 @@
 [21:28:54] (NAVIGATION) Distance to target location: 76.54 meters. Will take 9.18 seconds driving at 30kmh
 [21:29:02] (INFO) Found 1 catchable Pokemon
 [21:29:04] (Wild Success) | Weedle 95 V |  179 Cp | 45.20% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 420
+[21:29:06] (INFO) Found 1 pokemon to transfer...
+[21:29:08] (TRANSFER) Weedle 95 V |  179 Cp | 45.20% | Lvl 17 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 591
+[21:29:08] (POKESTOP) Proverb in a Corner in 81.18 m distance
+[21:29:08] (NAVIGATION) Distance to target location: 81.18 meters. Will take 9.43 seconds driving at 31kmh
+[21:29:17] (POKESTOP) Yong Siew Toh Conservatory of Music in 51.82 m distance
+[21:29:17] (NAVIGATION) Distance to target location: 51.82 meters. Will take 6.22 seconds driving at 30kmh
+[21:29:22] (INFO) Found 1 catchable Pokemon
+[21:29:24] (Wild Success) | Zubat 147 V |  192 Cp | 53.44% | Lvl 12 | Chance: 0.43 | with a PokeBall and received XP 420
