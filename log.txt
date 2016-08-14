@@ -44941,3 +44941,4 @@
 [02:52:50] (INFO) Found 2 catchable Pokemon
 [02:52:51] (BERRY) ItemRazzBerry used, remaining: 47
 [02:52:52] (Wild Success) | Psyduck 151 V |  509 Cp | 28.24% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[02:52:54] (Wild Success) | Magikarp 83 V |   59 Cp | 52.25% | Lvl 10 | Chance: 0.66 | with a PokeBall and received XP 210
