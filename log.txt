@@ -38228,3 +38228,16 @@
 [23:25:55] (INFO) Found 1 catchable Pokemon
 [23:25:56] (BERRY) ItemRazzBerry used, remaining: 43
 [23:25:57] (Wild Success) | Jigglypuff 176 V |  486 Cp | 54.57% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[23:25:59] (INFO) Found 1 pokemon to transfer...
+[23:26:00] (TRANSFER) Jigglypuff 140 V |  433 Cp | 32.28% | Lvl 20 | Best: [Jigglypuff 176 V |  486 Cp | 54.57% | Lvl 21] | Candy: 30
+[23:26:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:26:03] (POKESTOP) Giant Plate And Bowls in 55.43 m distance
+[23:26:03] (NAVIGATION) Distance to target location: 55.43 meters. Will take 7.13 seconds driving at 28kmh
+[23:26:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:26:10] (INFO) Found 2 Recyclable Items:
+[23:26:10] (RECYCLING) PokeBall x 11
+[23:26:11] (RECYCLING) Potion x 1
+[23:26:13] (POKESTOP) Sentosa Cove Arrival Hall in 63.75 m distance
+[23:26:13] (NAVIGATION) Distance to target location: 63.75 meters. Will take 7.65 seconds driving at 30kmh
+[23:26:19] (INFO) Found 1 catchable Pokemon
+[23:26:21] (Wild Success) | Psyduck 110 V |  179 Cp | 19.89% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
