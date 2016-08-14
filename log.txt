@@ -28159,3 +28159,11 @@
 [12:04:33] (BERRY) ItemRazzBerry used, remaining: 46
 [12:04:34] (Wild Success) | Zubat 139 V |  389 Cp | 45.19% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
 [12:04:36] (Wild Success) | Pidgey 104 V |  207 Cp | 33.47% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[12:04:37] (INFO) Found 2 pokemon to transfer...
+[12:04:39] (TRANSFER) Zubat 139 V |  389 Cp | 45.19% | Lvl 25 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 810
+[12:04:41] (TRANSFER) Pidgey 104 V |  207 Cp | 33.47% | Lvl 13 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1126
+[12:04:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[12:04:46] (POKESTOP) Focusing Coils in 498.59 m distance
+[12:04:46] (NAVIGATION) Distance to target location: 498.59 meters. Will take 25.64 seconds driving at 70kmh
+[12:04:49] (INFO) Found 1 catchable Pokemon
+[12:04:50] (Wild Success) | Krabby 127 V |  162 Cp | 64.01% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
