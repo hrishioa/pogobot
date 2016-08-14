@@ -29241,3 +29241,4 @@
 [12:41:43] (Wild Success) | Pidgey 106 V |  373 Cp | 13.77% | Lvl 25 | Chance: 0.29 | with a UltraBall and received XP 210
 [12:41:44] (BERRY) ItemRazzBerry used, remaining: 48
 [12:41:45] (Wild Success) | Zubat 156 V |  408 Cp | 60.10% | Lvl 25 | Chance: 0.29 | with a UltraBall and received XP 210
+[12:41:47] (Wild Success) | Pidgey 91 V |  220 Cp | 29.22% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
