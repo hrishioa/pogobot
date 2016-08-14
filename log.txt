@@ -31263,3 +31263,20 @@
 [14:02:16] (NAVIGATION) Distance to target location: 162.66 meters. Will take 19.52 seconds driving at 30kmh
 [14:02:24] (INFO) Found 1 catchable Pokemon
 [14:02:26] (Wild Success) | Pidgey 92 V |   74 Cp | 30.12% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[14:02:27] (INFO) Found 1 pokemon to transfer...
+[14:02:29] (TRANSFER) Pidgey 92 V |   74 Cp | 30.12% | Lvl 05 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1250
+[14:02:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[14:02:36] (POKESTOP) Playground Between Block 709&712 in 54.37 m distance
+[14:02:36] (NAVIGATION) Distance to target location: 54.37 meters. Will take 6.99 seconds driving at 28kmh
+[14:02:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:02:42] (POKESTOP) Herbs Garden in 74.08 m distance
+[14:02:42] (NAVIGATION) Distance to target location: 74.08 meters. Will take 8.33 seconds driving at 32kmh
+[14:02:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[14:02:51] (INFO) Found 3 Recyclable Items:
+[14:02:51] (RECYCLING) PokeBall x 9
+[14:02:52] (RECYCLING) SuperPotion x 1
+[14:02:53] (RECYCLING) Revive x 2
+[14:02:55] (POKESTOP) West Coast Mural Art in 87.57 m distance
+[14:02:55] (NAVIGATION) Distance to target location: 87.57 meters. Will take 10.17 seconds driving at 31kmh
+[14:03:01] (INFO) Found 1 catchable Pokemon
+[14:03:03] (Wild Success) | Bulbasaur 109 V |  298 Cp | 13.67% | Lvl 12 | Chance: 0.17 | with a GreatBall and received XP 210
