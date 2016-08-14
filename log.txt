@@ -39092,3 +39092,16 @@
 [23:56:08] (NAVIGATION) Distance to target location: 342.07 meters. Will take 19.86 seconds driving at 62kmh
 [23:56:18] (INFO) Found 1 catchable Pokemon
 [23:56:19] (Wild Success) | Krabby 81 V |   84 Cp | 18.83% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[23:56:21] (INFO) Found 1 pokemon to transfer...
+[23:56:23] (TRANSFER) Krabby 81 V |   84 Cp | 18.83% | Lvl 05 | Best: [Krabby 166 V |  322 Cp | 80.04% | Lvl 15] | Candy: 134
+[23:56:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:56:29] (INFO) Found 4 Recyclable Items:
+[23:56:29] (RECYCLING) RazzBerry x 2
+[23:56:30] (RECYCLING) PokeBall x 4
+[23:56:32] (RECYCLING) Potion x 1
+[23:56:33] (RECYCLING) SuperPotion x 1
+[23:56:35] (INFO) Found 5 Pokestops
+[23:56:36] (POKESTOP) Sgc Entrance in 705.08 m distance
+[23:56:36] (NAVIGATION) Distance to target location: 705.08 meters. Will take 36.26 seconds driving at 70kmh
+[23:57:09] (INFO) Found 1 catchable Pokemon
+[23:57:11] (Wild Success) | Caterpie 94 V |   67 Cp | 31.99% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
