@@ -41203,3 +41203,144 @@
 [01:00:15] (NAVIGATION) Distance to target location: 81.22 meters. Will take 9.14 seconds driving at 32kmh
 [01:00:21] (INFO) Found 1 catchable Pokemon
 [01:00:22] (Wild Success) | Psyduck 124 V |  266 Cp | 25.28% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[01:00:24] (INFO) Found 1 pokemon to transfer...
+[01:00:25] (TRANSFER) Psyduck 124 V |  266 Cp | 25.28% | Lvl 10 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 161
+[01:00:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:00:28] ====== User Info ======
+[01:00:28] Name: toonistic2
+[01:00:29] Team: Neutral
+[01:00:29] Level: 24 (LvLUp in 3h 14m | 12275/150000 XP)
+[01:00:29] Pokemon: 144
+[01:00:29] Stardust: 59124
+[01:00:29] ====== Items (341) ======
+[01:00:29] RazzBerry x 48
+[01:00:29] PokeBall x 52
+[01:00:29] GreatBall x 33
+[01:00:29] UltraBall x 10
+[01:00:29] Potion x 30
+[01:00:29] SuperPotion x 50
+[01:00:29] HyperPotion x 75
+[01:00:29] IncubatorBasicUnlimited x 1
+[01:00:29] IncubatorBasic x 4
+[01:00:29] Revive x 25
+[01:00:29] IncenseOrdinary x 8
+[01:00:29] LuckyEgg x 0
+[01:00:29] TroyDisk x 5
+[01:00:29] ====== Most Valuable ======
+[01:00:29] Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
+[01:00:29] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[01:00:29] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
+[01:00:29] Electrode           254 True Value | 1031 Cp | 73.67% Perfect | Lvl 23 | Spark/Thunderbolt
+[01:00:29] Electrode           254 True Value | 1038 Cp | 77.66% Perfect | Lvl 23 | Spark/Discharge
+[01:00:29] Kabutops            250 True Value | 1170 Cp | 75.85% Perfect | Lvl 20 | MudShot/AncientPower
+[01:00:29] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[01:00:29] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
+[01:00:29] Tentacruel          248 True Value | 1339 Cp | 46.62% Perfect | Lvl 23 | Acid/SludgeWave
+[01:00:29] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
+[01:00:29] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
+[01:00:29] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[01:00:29] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[01:00:29] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
+[01:00:29] Tangela             232 True Value |  717 Cp | 78.48% Perfect | Lvl 15 | VineWhip/SolarBeam
+[01:00:29] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[01:00:29] Ponyta              226 True Value |  925 Cp | 84.33% Perfect | Lvl 22 | Tackle/FlameCharge
+[01:00:29] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[01:00:29] Venonat             222 True Value |  583 Cp | 96.62% Perfect | Lvl 20 | BugBite/SignalBeam
+[01:00:29] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[01:00:29] ====== Highest CP ======
+[01:00:29] Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
+[01:00:29] Tentacruel          248 True Value | 1339 Cp | 46.62% Perfect | Lvl 23 | Acid/SludgeWave
+[01:00:29] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
+[01:00:29] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
+[01:00:29] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
+[01:00:29] Kabutops            250 True Value | 1170 Cp | 75.85% Perfect | Lvl 20 | MudShot/AncientPower
+[01:00:29] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
+[01:00:29] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[01:00:29] Electrode           254 True Value | 1038 Cp | 77.66% Perfect | Lvl 23 | Spark/Discharge
+[01:00:29] Electrode           254 True Value | 1031 Cp | 73.67% Perfect | Lvl 23 | Spark/Thunderbolt
+[01:00:29] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
+[01:00:29] Ponyta              226 True Value |  925 Cp | 84.33% Perfect | Lvl 22 | Tackle/FlameCharge
+[01:00:29] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[01:00:30] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[01:00:30] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[01:00:30] Ponyta              207 True Value |  790 Cp | 53.00% Perfect | Lvl 20 | Ember/FireBlast
+[01:00:30] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[01:00:30] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
+[01:00:30] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[01:00:30] Pidgeotto           203 True Value |  752 Cp | 68.00% Perfect | Lvl 23 | WingAttack/AerialAce
+[01:00:30] ====== Most Perfect Genetics ======
+[01:00:30] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[01:00:30] Vulpix              171 True Value |   86 Cp | 96.64% Perfect | Lvl 04 | Ember/Flamethrower
+[01:00:30] Venonat             222 True Value |  583 Cp | 96.62% Perfect | Lvl 20 | BugBite/SignalBeam
+[01:00:30] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[01:00:30] Magikarp            131 True Value |  145 Cp | 92.08% Perfect | Lvl 20 | Splash/Struggle
+[01:00:30] Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
+[01:00:30] Pidgey              179 True Value |  339 Cp | 89.62% Perfect | Lvl 18 | Tackle/AerialAce
+[01:00:30] Goldeen             185 True Value |  240 Cp | 89.32% Perfect | Lvl 09 | MudShot/AquaTail
+[01:00:30] Onix                162 True Value |  112 Cp | 89.31% Perfect | Lvl 05 | RockThrow/RockSlide
+[01:00:30] Sandshrew           150 True Value |   57 Cp | 86.77% Perfect | Lvl 03 | Scratch/RockSlide
+[01:00:30] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[01:00:30] Voltorb             199 True Value |  439 Cp | 84.92% Perfect | Lvl 19 | Tackle/Thunderbolt
+[01:00:30] Geodude             197 True Value |  467 Cp | 84.88% Perfect | Lvl 20 | RockThrow/Dig
+[01:00:30] Paras               172 True Value |  225 Cp | 84.67% Perfect | Lvl 09 | BugBite/CrossPoison
+[01:00:30] Ponyta              226 True Value |  925 Cp | 84.33% Perfect | Lvl 22 | Tackle/FlameCharge
+[01:00:30] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[01:00:30] Seel                151 True Value |  273 Cp | 83.59% Perfect | Lvl 09 | WaterGun/AquaJet
+[01:00:30] Horsea              162 True Value |  194 Cp | 83.45% Perfect | Lvl 09 | WaterGun/FlashCannon
+[01:00:30] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[01:00:30] Parasect            186 True Value |  228 Cp | 82.90% Perfect | Lvl 05 | FuryCutter/SolarBeam
+[01:00:31] (POKESTOP) Cap'n Wheel By The River in 38.78 m distance
+[01:00:31] (NAVIGATION) Distance to target location: 38.78 meters. Will take 4.5 seconds driving at 31kmh
+[01:00:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[01:00:35] (POKESTOP) Ports of Lost Wonders Ship in 43.72 m distance
+[01:00:35] (NAVIGATION) Distance to target location: 43.72 meters. Will take 5.25 seconds driving at 30kmh
+[01:00:39] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemSuperPotion, 3 x ItemPokeBall, 1 x ItemPotion
+[01:00:41] (POKESTOP) Keg Shelter at Port of Lost Wonder in 76 m distance
+[01:00:41] (NAVIGATION) Distance to target location: 76 meters. Will take 9.12 seconds driving at 30kmh
+[01:00:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:00:49] (POKESTOP) Fruit Lady Totem in 112.03 m distance
+[01:00:49] (NAVIGATION) Distance to target location: 112.03 meters. Will take 14.4 seconds driving at 28kmh
+[01:01:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:01:02] (INFO) Found 3 Recyclable Items:
+[01:01:03] (RECYCLING) PokeBall x 6
+[01:01:04] (RECYCLING) Potion x 2
+[01:01:04] (RECYCLING) SuperPotion x 1
+[01:01:08] (POKESTOP) Bikini Lady with Hat in 46.01 m distance
+[01:01:08] (NAVIGATION) Distance to target location: 46.01 meters. Will take 5.71 seconds driving at 29kmh
+[01:01:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:01:13] (POKESTOP) Ice Cream  in 104.32 m distance
+[01:01:13] (NAVIGATION) Distance to target location: 104.32 meters. Will take 11.74 seconds driving at 32kmh
+[01:01:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[01:01:25] (POKESTOP) Arid Garden in 68.47 m distance
+[01:01:25] (NAVIGATION) Distance to target location: 68.47 meters. Will take 8.22 seconds driving at 30kmh
+[01:01:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:01:33] (POKESTOP) Southern Most Point Of Continental Asia  in 83.11 m distance
+[01:01:34] (NAVIGATION) Distance to target location: 83.11 meters. Will take 10.69 seconds driving at 28kmh
+[01:01:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:01:44] (POKESTOP) Horseshoe Sculpture at Capella  in 300.1 m distance
+[01:01:44] (NAVIGATION) Distance to target location: 300.1 meters. Will take 19.64 seconds driving at 55kmh
+[01:02:01] (INFO) Found 1 catchable Pokemon
+[01:02:02] (Wild Escape) | Weedle 110 V |  211 Cp | 33.70% | Lvl 21 | Chance: 0.32 | with a GreatBall 
+[01:02:03] (Wild Success Attempt #2) | Weedle 110 V |  211 Cp | 33.70% | Lvl 21 | Chance: 0.32 | with a GreatBall 
+[01:02:04] (EGG) Hatched egg! Growlithe           231 True Value |  740 Cp | 85.12% Perfect | Lvl 20 | Bite/BodySlam
+[01:02:04] (EGG) Hatched egg! Paras               146 True Value |   91 Cp | 81.65% Perfect | Lvl 04 | Scratch/CrossPoison
+[01:02:04] (EGG) Hatched egg! Pidgey              165 True Value |  361 Cp | 74.13% Perfect | Lvl 20 | Tackle/AerialAce
+[01:02:05] (EGG) Added 5km egg to incubator
+[01:02:06] (INFO) Found 4 pokemon to transfer...
+[01:02:07] (TRANSFER) Paras 146 V |   91 Cp | 81.65% | Lvl 04 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 124
+[01:02:10] (TRANSFER) Growlithe 173 V |  327 Cp | 79.93% | Lvl 09 | Best: [Growlithe 231 V |  740 Cp | 85.12% | Lvl 20] | Candy: 49
+[01:02:12] (TRANSFER) Weedle 110 V |  211 Cp | 33.70% | Lvl 21 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 256
+[01:02:14] (TRANSFER) Pidgey 143 V |  262 Cp | 62.29% | Lvl 15 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 696
+[01:02:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 2 x ItemPokeBall
+[01:02:16] (INFO) Found 4 Recyclable Items:
+[01:02:18] (RECYCLING) PokeBall x 8
+[01:02:18] (RECYCLING) Potion x 1
+[01:02:19] (RECYCLING) SuperPotion x 2
+[01:02:20] (RECYCLING) Revive x 1
+[01:02:23] (POKESTOP) Spa Botania in 259.93 m distance
+[01:02:23] (NAVIGATION) Distance to target location: 259.93 meters. Will take 19.91 seconds driving at 47kmh
+[01:02:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:02:45] (POKESTOP) The 4 Pines in 124.7 m distance
+[01:02:45] (NAVIGATION) Distance to target location: 124.7 meters. Will take 15.48 seconds driving at 29kmh
+[01:02:56] (INFO) Found 1 catchable Pokemon
+[01:02:57] (Wild Success) | Pidgey 104 V |  131 Cp | 45.63% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
