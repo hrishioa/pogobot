@@ -21581,3 +21581,46 @@
 [08:06:02] (NAVIGATION) Distance to target location: 281.95 meters. Will take 19.9 seconds driving at 51kmh
 [08:06:17] (INFO) Found 1 catchable Pokemon
 [08:06:20] (Wild Success) | Pidgey 109 V |  112 Cp | 42.66% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[08:06:21] (INFO) Found 1 pokemon to transfer...
+[08:06:22] (TRANSFER) Pidgey 109 V |  112 Cp | 42.66% | Lvl 07 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 979
+[08:06:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:06:27] (POKESTOP) Writings on the Wall in 476.2 m distance
+[08:06:27] (NAVIGATION) Distance to target location: 476.2 meters. Will take 24.49 seconds driving at 70kmh
+[08:06:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemGreatBall
+[08:06:53] (INFO) Found 2 Recyclable Items:
+[08:06:53] (RECYCLING) PokeBall x 3
+[08:06:54] (RECYCLING) Potion x 3
+[08:06:56] (ATTENTION) No locations in your area...
+[08:07:02] (INFO) Found 80 Pokestops
+[08:07:03] (POKESTOP) Sayings by the Stairs in 71.4 m distance
+[08:07:03] (NAVIGATION) Distance to target location: 71.4 meters. Will take 8.29 seconds driving at 31kmh
+[08:07:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:07:11] (POKESTOP) Alice Lee Plaza in 53 m distance
+[08:07:11] (NAVIGATION) Distance to target location: 53 meters. Will take 6.81 seconds driving at 28kmh
+[08:07:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[08:07:18] (POKESTOP) Yong Siew Toh Conservatory of Music in 81.92 m distance
+[08:07:18] (NAVIGATION) Distance to target location: 81.92 meters. Will take 9.51 seconds driving at 31kmh
+[08:07:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[08:07:27] (POKESTOP) Proverb in a Corner in 73.36 m distance
+[08:07:27] (NAVIGATION) Distance to target location: 73.36 meters. Will take 8.25 seconds driving at 32kmh
+[08:07:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:07:36] (POKESTOP) Together Again in 72.57 m distance
+[08:07:36] (NAVIGATION) Distance to target location: 72.57 meters. Will take 9.01 seconds driving at 29kmh
+[08:07:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[08:07:44] (INFO) Found 3 Recyclable Items:
+[08:07:45] (RECYCLING) PokeBall x 10
+[08:07:46] (RECYCLING) Potion x 1
+[08:07:46] (RECYCLING) Revive x 3
+[08:07:49] (POKESTOP) Inverted Torsos in 82.73 m distance
+[08:07:49] (NAVIGATION) Distance to target location: 82.73 meters. Will take 10.27 seconds driving at 29kmh
+[08:07:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemGreatBall
+[08:07:59] (POKESTOP) Earth Mural in 52.99 m distance
+[08:07:59] (NAVIGATION) Distance to target location: 52.99 meters. Will take 5.96 seconds driving at 32kmh
+[08:08:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:08:05] (POKESTOP) University Cultural Center in 82.62 m distance
+[08:08:05] (NAVIGATION) Distance to target location: 82.62 meters. Will take 9.59 seconds driving at 31kmh
+[08:08:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:08:14] (POKESTOP) Bronze Sculpture "Contentment" in 60.29 m distance
+[08:08:14] (NAVIGATION) Distance to target location: 60.29 meters. Will take 7.75 seconds driving at 28kmh
+[08:08:16] (INFO) Found 1 catchable Pokemon
+[08:08:19] (Wild Success) | Zubat 149 V |  220 Cp | 71.66% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
