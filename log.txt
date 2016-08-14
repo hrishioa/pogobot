@@ -38097,3 +38097,25 @@
 [23:18:57] (NAVIGATION) Distance to target location: 587.56 meters. Will take 30.22 seconds driving at 70kmh
 [23:19:25] (INFO) Found 3 catchable Pokemon
 [23:19:26] (Wild Success) | Rattata 105 V |   35 Cp | 41.46% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[23:19:28] (Wild Escape) | Goldeen 166 V |  450 Cp | 59.27% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[23:19:29] (Wild Success Attempt #2) | Goldeen 166 V |  450 Cp | 59.27% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[23:19:30] (BERRY) ItemRazzBerry used, remaining: 48
+[23:19:31] (Wild Escape) | Seaking 143 V |  374 Cp | 61.93% | Lvl 07 | Chance: 0.22 | with a GreatBall 
+[23:19:31] (BERRY) ItemRazzBerry used, remaining: 47
+[23:19:32] (Wild Success Attempt #2) | Seaking 143 V |  374 Cp | 61.93% | Lvl 07 | Chance: 0.22 | with a GreatBall 
+[23:19:34] (INFO) Found 2 pokemon to transfer...
+[23:19:36] (TRANSFER) Rattata 105 V |   35 Cp | 41.46% | Lvl 03 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 336
+[23:19:38] (TRANSFER) Goldeen 166 V |  450 Cp | 59.27% | Lvl 18 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 185
+[23:19:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[23:19:43] (POKESTOP) Giant Painted Art in 65.55 m distance
+[23:19:43] (NAVIGATION) Distance to target location: 65.55 meters. Will take 7.61 seconds driving at 31kmh
+[23:19:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 4 x ItemPokeBall, 1 x ItemPotion
+[23:19:50] (INFO) Found 3 Recyclable Items:
+[23:19:51] (RECYCLING) PokeBall x 13
+[23:19:52] (RECYCLING) Potion x 1
+[23:19:53] (RECYCLING) Revive x 1
+[23:19:54] (POKESTOP) Tabebuia Argentea in 345.8 m distance
+[23:19:54] (NAVIGATION) Distance to target location: 345.8 meters. Will take 19.76 seconds driving at 63kmh
+[23:20:07] (INFO) Found 2 catchable Pokemon
+[23:20:08] (BERRY) ItemRazzBerry used, remaining: 47
+[23:20:09] (Wild Success) | Shellder 164 V |  486 Cp | 60.24% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
