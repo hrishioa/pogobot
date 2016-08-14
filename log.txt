@@ -32193,3 +32193,24 @@
 [14:38:37] (NAVIGATION) Distance to target location: 43.79 meters. Will take 4.93 seconds driving at 32kmh
 [14:38:42] (INFO) Found 1 catchable Pokemon
 [14:38:44] (Wild Success) | Bellsprout 117 V |   42 Cp | 31.24% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[14:38:45] (INFO) Found 1 pokemon to transfer...
+[14:38:47] (TRANSFER) Bellsprout 117 V |   42 Cp | 31.24% | Lvl 02 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 400
+[14:38:48] (POKESTOP) West Coast Park Amphitheatre in 113.08 m distance
+[14:38:48] (NAVIGATION) Distance to target location: 113.08 meters. Will take 14.54 seconds driving at 28kmh
+[14:39:01] (POKESTOP) Gantry Entrance in 230.75 m distance
+[14:39:01] (NAVIGATION) Distance to target location: 230.75 meters. Will take 19.78 seconds driving at 42kmh
+[14:39:21] (POKESTOP) Sun Moon Mural in 97.7 m distance
+[14:39:21] (NAVIGATION) Distance to target location: 97.7 meters. Will take 12.13 seconds driving at 29kmh
+[14:39:29] (INFO) Found 1 catchable Pokemon
+[14:39:31] (Wild Escape) | Pidgey 103 V |  197 Cp | 43.50% | Lvl 12 | Chance: 0.43 | with a GreatBall 
+[14:39:32] (Wild Success Attempt #2) | Pidgey 103 V |  197 Cp | 43.50% | Lvl 12 | Chance: 0.43 | with a GreatBall 
+[14:39:34] (INFO) Found 1 pokemon to transfer...
+[14:39:35] (TRANSFER) Pidgey 103 V |  197 Cp | 43.50% | Lvl 12 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1334
+[14:39:39] (POKESTOP) Marsh Garden in 115.6 m distance
+[14:39:39] (NAVIGATION) Distance to target location: 115.6 meters. Will take 13.42 seconds driving at 31kmh
+[14:39:52] (POKESTOP) Jungle Walkpath in 144.01 m distance
+[14:39:52] (NAVIGATION) Distance to target location: 144.01 meters. Will take 17.28 seconds driving at 30kmh
+[14:40:08] (POKESTOP) Wall Of Innovations And Enterprise in 1292.6 m distance
+[14:40:08] (NAVIGATION) Distance to target location: 1292.6 meters. Will take 1.11 minutes driving at 70kmh
+[14:40:17] (INFO) Found 1 catchable Pokemon
+[14:40:19] (Wild Success) | Rattata 147 V |  315 Cp | 52.86% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
