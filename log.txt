@@ -33985,3 +33985,14 @@
 [20:54:29] (NAVIGATION) Distance to target location: 257.04 meters. Will take 19.69 seconds driving at 47kmh
 [20:54:40] (INFO) Found 1 catchable Pokemon
 [20:54:42] (Wild Success) | Goldeen 161 V |  267 Cp | 87.24% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[20:54:44] (INFO) Found 1 pokemon to transfer...
+[20:54:45] (TRANSFER) Goldeen 161 V |  267 Cp | 87.24% | Lvl 10 | Best: [Goldeen 180 V |  394 Cp | 79.31% | Lvl 15] | Candy: 138
+[20:54:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[20:54:49] (POKESTOP) Tree of Light Bulbs in 81.99 m distance
+[20:54:49] (NAVIGATION) Distance to target location: 81.99 meters. Will take 10.54 seconds driving at 28kmh
+[20:54:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:54:59] (POKESTOP) Student Service Centre in 65.38 m distance
+[20:54:59] (NAVIGATION) Distance to target location: 65.38 meters. Will take 8.12 seconds driving at 29kmh
+[20:55:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:55:08] (INFO) Found 1 catchable Pokemon
+[20:55:10] (Wild Success) | Pidgey 80 V |  226 Cp | 17.18% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
