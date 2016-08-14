@@ -44611,3 +44611,10 @@
 [02:42:11] (TRANSFER) Pidgey 66 V |  117 Cp | 13.70% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 764
 [02:42:12] (INFO) Found 1 catchable Pokemon
 [02:42:14] (Wild Success) | Magikarp 118 V |   55 Cp | 86.88% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
+[02:42:16] (INFO) Found 1 pokemon to transfer...
+[02:42:18] (TRANSFER) Magikarp 118 V |   55 Cp | 86.88% | Lvl 08 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 441
+[02:42:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:42:21] (POKESTOP) Wave Check In  in 67.25 m distance
+[02:42:21] (NAVIGATION) Distance to target location: 67.25 meters. Will take 8.35 seconds driving at 29kmh
+[02:42:26] (INFO) Found 2 catchable Pokemon
+[02:42:28] (Wild Success) | Rattata 130 V |  319 Cp | 31.34% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
