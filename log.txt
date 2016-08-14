@@ -44095,3 +44095,8 @@
 [02:25:06] (NAVIGATION) Distance to target location: 89.07 meters. Will take 11.06 seconds driving at 29kmh
 [02:25:13] (INFO) Found 1 catchable Pokemon
 [02:25:14] (Wild Success) | Rattata 107 V |   35 Cp | 38.42% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[02:25:16] (INFO) Found 1 pokemon to transfer...
+[02:25:17] (TRANSFER) Rattata 107 V |   35 Cp | 38.42% | Lvl 03 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 412
+[02:25:18] (INFO) Found 2 catchable Pokemon
+[02:25:20] (BERRY) ItemRazzBerry used, remaining: 51
+[02:25:21] (Wild Success) | Voltorb 180 V |  524 Cp | 63.27% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
