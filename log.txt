@@ -23208,3 +23208,9 @@
 [09:00:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [09:00:23] (INFO) Found 1 catchable Pokemon
 [09:00:25] (Wild Success) | Pidgey 107 V |  331 Cp | 29.44% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[09:00:26] (INFO) Found 1 pokemon to transfer...
+[09:00:28] (TRANSFER) Pidgey 107 V |  331 Cp | 29.44% | Lvl 21 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1071
+[09:00:29] (POKESTOP) CREATE: Campus for Research Ex in 96.93 m distance
+[09:00:29] (NAVIGATION) Distance to target location: 96.93 meters. Will take 10.9 seconds driving at 32kmh
+[09:00:36] (INFO) Found 1 catchable Pokemon
+[09:00:38] (Wild Success) | Spearow 133 V |  267 Cp | 65.83% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
