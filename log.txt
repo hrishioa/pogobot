@@ -35489,3 +35489,19 @@
 [21:45:10] (NAVIGATION) Distance to target location: 69.99 meters. Will take 8.13 seconds driving at 31kmh
 [21:45:11] (INFO) Found 1 catchable Pokemon
 [21:45:13] (Wild Success) | Spearow 126 V |  317 Cp | 44.24% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[21:45:15] (INFO) Found 1 pokemon to transfer...
+[21:45:17] (TRANSFER) Spearow 126 V |  317 Cp | 44.24% | Lvl 19 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 365
+[21:45:20] (POKESTOP) Yong Siew Toh Conservatory of Music in 80.4 m distance
+[21:45:20] (NAVIGATION) Distance to target location: 80.4 meters. Will take 9.34 seconds driving at 31kmh
+[21:45:30] (POKESTOP) Proverb in a Corner in 66.34 m distance
+[21:45:30] (NAVIGATION) Distance to target location: 66.34 meters. Will take 8.24 seconds driving at 29kmh
+[21:45:38] (POKESTOP) Together Again in 71.71 m distance
+[21:45:38] (NAVIGATION) Distance to target location: 71.71 meters. Will take 9.22 seconds driving at 28kmh
+[21:45:46] (POKESTOP) Inverted Torsos in 86.94 m distance
+[21:45:46] (NAVIGATION) Distance to target location: 86.94 meters. Will take 10.79 seconds driving at 29kmh
+[21:45:56] (POKESTOP) Earth Mural in 52.11 m distance
+[21:45:56] (NAVIGATION) Distance to target location: 52.11 meters. Will take 6.25 seconds driving at 30kmh
+[21:46:02] (POKESTOP) University Cultural Center in 77.36 m distance
+[21:46:02] (NAVIGATION) Distance to target location: 77.36 meters. Will take 8.7 seconds driving at 32kmh
+[21:46:06] (INFO) Found 1 catchable Pokemon
+[21:46:08] (Wild Success) | Zubat 158 V |  132 Cp | 69.55% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
