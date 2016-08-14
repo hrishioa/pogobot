@@ -37774,3 +37774,15 @@
 [23:05:22] (NAVIGATION) Distance to target location: 591.12 meters. Will take 30.4 seconds driving at 70kmh
 [23:05:25] (INFO) Found 1 catchable Pokemon
 [23:05:27] (Wild Success) | Magnemite 151 V |  180 Cp | 60.70% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:05:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[23:05:53] (INFO) Found 5 Recyclable Items:
+[23:05:54] (RECYCLING) PokeBall x 2
+[23:05:54] (RECYCLING) Potion x 2
+[23:05:55] (RECYCLING) SuperPotion x 1
+[23:05:56] (RECYCLING) HyperPotion x 1
+[23:05:57] (RECYCLING) Revive x 1
+[23:06:00] (INFO) Found 9 Pokestops
+[23:06:02] (POKESTOP) Corda Mauro in 180.76 m distance
+[23:06:02] (NAVIGATION) Distance to target location: 180.76 meters. Will take 19.72 seconds driving at 33kmh
+[23:06:06] (INFO) Found 1 catchable Pokemon
+[23:06:07] (Wild Success) | Weedle 78 V |  186 Cp | 27.48% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
