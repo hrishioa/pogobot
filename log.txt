@@ -34391,3 +34391,24 @@
 [21:03:47] (NAVIGATION) Distance to target location: 103.62 meters. Will take 12.03 seconds driving at 31kmh
 [21:03:53] (INFO) Found 1 catchable Pokemon
 [21:03:54] (Wild Success) | Spearow 124 V |  217 Cp | 44.59% | Lvl 13 | Chance: 0.41 | with a UltraBall and received XP 420
+[21:03:56] (INFO) Found 1 pokemon to transfer...
+[21:03:57] (TRANSFER) Spearow 124 V |  217 Cp | 44.59% | Lvl 13 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 345
+[21:04:01] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemGreatBall
+[21:04:02] (POKESTOP) Central Lagoon in 84.4 m distance
+[21:04:02] (NAVIGATION) Distance to target location: 84.4 meters. Will take 10.13 seconds driving at 30kmh
+[21:04:10] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemGreatBall, 1 x ItemPotion
+[21:04:12] (POKESTOP) S1A Garden in 96.66 m distance
+[21:04:12] (NAVIGATION) Distance to target location: 96.66 meters. Will take 11.6 seconds driving at 30kmh
+[21:04:22] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:04:23] (POKESTOP) Water Tank in 173.14 m distance
+[21:04:23] (NAVIGATION) Distance to target location: 173.14 meters. Will take 19.48 seconds driving at 32kmh
+[21:04:42] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[21:04:43] (INFO) Found 1 Recyclable Item:
+[21:04:43] (RECYCLING) Potion x 1
+[21:04:45] (POKESTOP) Temasek Lifesciences Laboratory in 160.56 m distance
+[21:04:46] (NAVIGATION) Distance to target location: 160.56 meters. Will take 19.93 seconds driving at 29kmh
+[21:05:04] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:05:06] (POKESTOP) IMRE in 156.2 m distance
+[21:05:06] (NAVIGATION) Distance to target location: 156.2 meters. Will take 18.74 seconds driving at 30kmh
+[21:05:21] (INFO) Found 1 catchable Pokemon
+[21:05:22] (Wild Success) | Exeggcute 157 V |  429 Cp | 58.54% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 420
