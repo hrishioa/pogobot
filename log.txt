@@ -21328,3 +21328,50 @@
 [07:57:25] (INFO) Found 2 catchable Pokemon
 [07:57:26] (Wild Success) | Zubat 136 V |   97 Cp | 71.42% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [07:57:28] (Wild Success) | Zubat 108 V |  244 Cp | 39.04% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[07:57:30] (INFO) Found 2 pokemon to transfer...
+[07:57:31] (TRANSFER) Zubat 136 V |   97 Cp | 71.42% | Lvl 06 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 661
+[07:57:34] (TRANSFER) Zubat 108 V |  244 Cp | 39.04% | Lvl 16 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 662
+[07:57:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:57:38] (POKESTOP) Refugees (Flight II) in 45.97 m distance
+[07:57:38] (NAVIGATION) Distance to target location: 45.97 meters. Will take 5.17 seconds driving at 32kmh
+[07:57:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[07:57:43] (INFO) Found 4 Recyclable Items:
+[07:57:43] (RECYCLING) RazzBerry x 1
+[07:57:44] (RECYCLING) PokeBall x 11
+[07:57:45] (RECYCLING) Potion x 2
+[07:57:46] (RECYCLING) Revive x 1
+[07:57:49] (POKESTOP) The Seagull Nebula in 83.77 m distance
+[07:57:49] (NAVIGATION) Distance to target location: 83.77 meters. Will take 10.05 seconds driving at 30kmh
+[07:57:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[07:57:58] (POKESTOP) S1A Garden in 218.02 m distance
+[07:57:58] (NAVIGATION) Distance to target location: 218.02 meters. Will take 19.62 seconds driving at 40kmh
+[07:58:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[07:58:19] (POKESTOP) Water Tank in 156.5 m distance
+[07:58:19] (NAVIGATION) Distance to target location: 156.5 meters. Will take 18.78 seconds driving at 30kmh
+[07:58:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[07:58:37] (POKESTOP) Locked in Tricked Out in 496.52 m distance
+[07:58:37] (NAVIGATION) Distance to target location: 496.52 meters. Will take 25.54 seconds driving at 70kmh
+[07:59:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall
+[07:59:04] (POKESTOP) NUS Engineering in 62.8 m distance
+[07:59:04] (NAVIGATION) Distance to target location: 62.8 meters. Will take 7.54 seconds driving at 30kmh
+[07:59:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[07:59:12] (INFO) Found 3 Recyclable Items:
+[07:59:12] (RECYCLING) RazzBerry x 1
+[07:59:13] (RECYCLING) PokeBall x 11
+[07:59:15] (RECYCLING) Potion x 2
+[07:59:17] (POKESTOP) Through this Jungle in 91.51 m distance
+[07:59:17] (NAVIGATION) Distance to target location: 91.51 meters. Will take 10.63 seconds driving at 31kmh
+[07:59:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[07:59:27] (POKESTOP) National Oxygen in 98.01 m distance
+[07:59:27] (NAVIGATION) Distance to target location: 98.01 meters. Will take 11.38 seconds driving at 31kmh
+[07:59:37] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 3 x ItemGreatBall, 2 x ItemPokeBall
+[07:59:38] (POKESTOP) Feeding Chickens in 107.37 m distance
+[07:59:38] (NAVIGATION) Distance to target location: 107.37 meters. Will take 12.88 seconds driving at 30kmh
+[07:59:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[07:59:51] (POKESTOP) Sayings by the Stairs in 104.17 m distance
+[07:59:51] (NAVIGATION) Distance to target location: 104.17 meters. Will take 11.72 seconds driving at 32kmh
+[08:00:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 3 x ItemPokeBall
+[08:00:02] (POKESTOP) Alice Lee Plaza in 67.75 m distance
+[08:00:02] (NAVIGATION) Distance to target location: 67.75 meters. Will take 8.71 seconds driving at 28kmh
+[08:00:04] (INFO) Found 1 catchable Pokemon
+[08:00:06] (Wild Success) | Pidgey 95 V |  109 Cp | 34.45% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
