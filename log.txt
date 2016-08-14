@@ -34940,3 +34940,9 @@
 [21:22:53] (INFO) Found 1 catchable Pokemon
 [21:22:54] (BERRY) ItemRazzBerry used, remaining: 47
 [21:22:55] (Wild Success) | Pidgey 143 V |  376 Cp | 55.29% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
+[21:22:57] (INFO) Found 1 pokemon to transfer...
+[21:22:59] (TRANSFER) Pidgey 143 V |  376 Cp | 55.29% | Lvl 22 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1354
+[21:23:03] (POKESTOP) I Carry Your Heart in 108.11 m distance
+[21:23:03] (NAVIGATION) Distance to target location: 108.11 meters. Will take 12.16 seconds driving at 32kmh
+[21:23:14] (INFO) Found 1 catchable Pokemon
+[21:23:15] (Wild Success) | Pidgey 107 V |  265 Cp | 26.11% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 420
