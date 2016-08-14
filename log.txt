@@ -30385,3 +30385,4 @@
 [13:33:05] (Wild Success) | Dratini 185 V |  295 Cp | 80.42% | Lvl 11 | Chance: 0.36 | with a GreatBall and received XP 210
 [13:33:06] (BERRY) ItemRazzBerry used, remaining: 48
 [13:33:07] (Wild Success) | Golduck 144 V |  415 Cp | 27.17% | Lvl 07 | Chance: 0.22 | with a GreatBall and received XP 210
+[13:33:08] (Wild Success) | Magikarp 65 V |  110 Cp | 29.19% | Lvl 21 | Chance: 0.45 | with a GreatBall and received XP 210
