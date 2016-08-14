@@ -30605,3 +30605,36 @@
 [13:39:35] (INFO) Found 2 catchable Pokemon
 [13:39:37] (Wild Success) | Psyduck 145 V |  438 Cp | 36.18% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
 [13:39:38] (Wild Success) | Tentacruel 182 V |  280 Cp | 58.83% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 710
+[13:39:40] (INFO) Found 1 pokemon to transfer...
+[13:39:41] (TRANSFER) Psyduck 145 V |  438 Cp | 36.18% | Lvl 16 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 97
+[13:39:49] (INFO) Found 57 Pokestops
+[13:39:51] (POKESTOP) Syzygium Campanulatum in 2.28 m distance
+[13:39:51] (NAVIGATION) Distance to target location: 2.28 meters. Will take 0.28 seconds driving at 29kmh
+[13:39:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[13:39:54] (POKESTOP) Playground at Block 714 in 44.09 m distance
+[13:39:54] (NAVIGATION) Distance to target location: 44.09 meters. Will take 4.96 seconds driving at 32kmh
+[13:39:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:40:01] (POKESTOP) The Mermaid Mural in 27.88 m distance
+[13:40:01] (NAVIGATION) Distance to target location: 27.88 meters. Will take 3.24 seconds driving at 31kmh
+[13:40:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[13:40:04] (INFO) Found 5 Recyclable Items:
+[13:40:05] (RECYCLING) RazzBerry x 3
+[13:40:06] (RECYCLING) PokeBall x 5
+[13:40:07] (RECYCLING) Potion x 1
+[13:40:07] (RECYCLING) SuperPotion x 1
+[13:40:09] (RECYCLING) Revive x 1
+[13:40:11] (POKESTOP) Three Portals Make A Field in 165.48 m distance
+[13:40:11] (NAVIGATION) Distance to target location: 165.48 meters. Will take 18.62 seconds driving at 32kmh
+[13:40:23] (INFO) Found 1 catchable Pokemon
+[13:40:24] (Wild Flee) | Rattata 135 V |  335 Cp | 33.74% | Lvl 25 | Chance: 0.29 | with a GreatBall 
+[13:40:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[13:40:31] (POKESTOP) Playground Between Block 709&712 in 51.22 m distance
+[13:40:31] (NAVIGATION) Distance to target location: 51.22 meters. Will take 6.15 seconds driving at 30kmh
+[13:40:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemMaxPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[13:40:37] (POKESTOP) Herbs Garden in 74.04 m distance
+[13:40:37] (NAVIGATION) Distance to target location: 74.04 meters. Will take 9.19 seconds driving at 29kmh
+[13:40:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[13:40:46] (POKESTOP) West Coast Mural Art in 83.77 m distance
+[13:40:46] (NAVIGATION) Distance to target location: 83.77 meters. Will take 9.42 seconds driving at 32kmh
+[13:40:52] (INFO) Found 1 catchable Pokemon
+[13:40:54] (Wild Success) | Pidgey 120 V |  116 Cp | 53.45% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
