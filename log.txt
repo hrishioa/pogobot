@@ -30261,3 +30261,28 @@
 [13:27:01] (NAVIGATION) Distance to target location: 81.14 meters. Will take 9.74 seconds driving at 30kmh
 [13:27:04] (INFO) Found 1 catchable Pokemon
 [13:27:05] (Wild Success) | Krabby 128 V |   77 Cp | 73.12% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[13:27:07] (INFO) Found 1 pokemon to transfer...
+[13:27:08] (TRANSFER) Krabby 128 V |   77 Cp | 73.12% | Lvl 04 | Best: [Krabby 178 V |  430 Cp | 80.74% | Lvl 20] | Candy: 189
+[13:27:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[13:27:13] (POKESTOP) Temasek Hall in 32.78 m distance
+[13:27:13] (NAVIGATION) Distance to target location: 32.78 meters. Will take 4.07 seconds driving at 29kmh
+[13:27:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[13:27:21] (POKESTOP) Buttercup Playground in 166.87 m distance
+[13:27:21] (NAVIGATION) Distance to target location: 166.87 meters. Will take 19.38 seconds driving at 31kmh
+[13:27:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[13:27:40] (INFO) Found 2 Recyclable Items:
+[13:27:40] (RECYCLING) PokeBall x 8
+[13:27:41] (RECYCLING) Potion x 2
+[13:27:44] (POKESTOP) Masjid Hussain Sulaiman in 88.95 m distance
+[13:27:44] (NAVIGATION) Distance to target location: 88.95 meters. Will take 10.01 seconds driving at 32kmh
+[13:27:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 2 x ItemPokeBall
+[13:27:54] (POKESTOP) Pavilion In the Park in 275.86 m distance
+[13:27:54] (NAVIGATION) Distance to target location: 275.86 meters. Will take 19.86 seconds driving at 50kmh
+[13:28:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[13:28:16] (POKESTOP) Retro Chess Table  in 1211.17 m distance
+[13:28:16] (NAVIGATION) Distance to target location: 1211.17 meters. Will take 1.04 minutes driving at 70kmh
+[13:28:38] (INFO) Found 2 catchable Pokemon
+[13:28:38] (Wild Escape) | Caterpie 93 V |  198 Cp | 22.84% | Lvl 21 | Chance: 0.32 | with a UltraBall 
+[13:28:39] (Wild Success Attempt #2) | Caterpie 93 V |  198 Cp | 22.84% | Lvl 21 | Chance: 0.32 | with a UltraBall 
+[13:28:41] (BERRY) ItemRazzBerry used, remaining: 48
+[13:28:41] (Wild Success) | Paras 184 V |  353 Cp | 84.43% | Lvl 14 | Chance: 0.32 | with a UltraBall and received XP 210
