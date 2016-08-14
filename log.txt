@@ -44190,3 +44190,37 @@
 [02:28:16] (NAVIGATION) Distance to target location: 146.33 meters. Will take 16.99 seconds driving at 31kmh
 [02:28:26] (INFO) Found 1 catchable Pokemon
 [02:28:28] (Wild Success) | Magikarp 83 V |   60 Cp | 52.38% | Lvl 10 | Chance: 0.66 | with a PokeBall and received XP 210
+[02:28:29] (INFO) Found 1 pokemon to transfer...
+[02:28:31] (TRANSFER) Magikarp 83 V |   60 Cp | 52.38% | Lvl 10 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 421
+[02:28:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemUltraBall
+[02:28:36] (POKESTOP) Rainbow Tentacle in 45.78 m distance
+[02:28:36] (NAVIGATION) Distance to target location: 45.78 meters. Will take 5.68 seconds driving at 29kmh
+[02:28:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:28:41] (INFO) Found 2 Recyclable Items:
+[02:28:42] (RECYCLING) PokeBall x 5
+[02:28:43] (RECYCLING) Revive x 2
+[02:28:45] (POKESTOP) Sand Bar in 62.41 m distance
+[02:28:45] (NAVIGATION) Distance to target location: 62.41 meters. Will take 7.25 seconds driving at 31kmh
+[02:28:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemSuperPotion, 1 x ItemUltraBall
+[02:28:52] (POKESTOP) Skyline Luge Sentosa in 48.44 m distance
+[02:28:52] (NAVIGATION) Distance to target location: 48.44 meters. Will take 5.45 seconds driving at 32kmh
+[02:28:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:28:59] (POKESTOP) Oscar and Co in 41.1 m distance
+[02:28:59] (NAVIGATION) Distance to target location: 41.1 meters. Will take 4.62 seconds driving at 32kmh
+[02:29:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:29:05] (POKESTOP) Beacon of Enlightenment  in 70.79 m distance
+[02:29:05] (NAVIGATION) Distance to target location: 70.79 meters. Will take 7.96 seconds driving at 32kmh
+[02:29:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:29:13] (POKESTOP) iFly Singapore in 60.47 m distance
+[02:29:13] (NAVIGATION) Distance to target location: 60.47 meters. Will take 7.51 seconds driving at 29kmh
+[02:29:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:29:20] (INFO) Found 4 Recyclable Items:
+[02:29:20] (RECYCLING) RazzBerry x 1
+[02:29:21] (RECYCLING) PokeBall x 2
+[02:29:21] (RECYCLING) SuperPotion x 2
+[02:29:23] (RECYCLING) Revive x 2
+[02:29:25] (POKESTOP) Jingle Bells Gateways in 86.29 m distance
+[02:29:25] (NAVIGATION) Distance to target location: 86.29 meters. Will take 10.35 seconds driving at 30kmh
+[02:29:31] (INFO) Found 1 catchable Pokemon
+[02:29:32] (BERRY) ItemRazzBerry used, remaining: 49
+[02:29:33] (Wild Success) | Magnemite 156 V |  496 Cp | 40.67% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
