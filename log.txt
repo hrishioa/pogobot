@@ -41344,3 +41344,10 @@
 [01:02:45] (NAVIGATION) Distance to target location: 124.7 meters. Will take 15.48 seconds driving at 29kmh
 [01:02:56] (INFO) Found 1 catchable Pokemon
 [01:02:57] (Wild Success) | Pidgey 104 V |  131 Cp | 45.63% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[01:02:59] (INFO) Found 1 pokemon to transfer...
+[01:03:01] (TRANSFER) Pidgey 104 V |  131 Cp | 45.63% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 700
+[01:03:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:03:05] (POKESTOP) Ficus Point in 133.24 m distance
+[01:03:05] (NAVIGATION) Distance to target location: 133.24 meters. Will take 15.99 seconds driving at 30kmh
+[01:03:09] (INFO) Found 1 catchable Pokemon
+[01:03:11] (Wild Success) | Shellder 126 V |  100 Cp | 64.01% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
