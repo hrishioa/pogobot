@@ -44619,3 +44619,8 @@
 [02:42:26] (INFO) Found 2 catchable Pokemon
 [02:42:28] (Wild Success) | Rattata 130 V |  319 Cp | 31.34% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
 [02:42:29] (Wild Success) | Caterpie 68 V |   10 Cp | 12.21% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[02:42:31] (INFO) Found 2 pokemon to transfer...
+[02:42:33] (TRANSFER) Rattata 130 V |  319 Cp | 31.34% | Lvl 24 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 436
+[02:42:35] (TRANSFER) Caterpie 68 V |   10 Cp | 12.21% | Lvl 01 | Best: [Caterpie 163 V |  244 Cp | 88.98% | Lvl 20] | Candy: 211
+[02:42:36] (INFO) Found 2 catchable Pokemon
+[02:42:38] (Wild Success) | Magikarp 113 V |  127 Cp | 74.64% | Lvl 19 | Chance: 0.48 | with a GreatBall and received XP 210
