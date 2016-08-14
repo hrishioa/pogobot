@@ -37190,3 +37190,10 @@
 [22:46:46] (NAVIGATION) Distance to target location: 85.28 meters. Will take 9.9 seconds driving at 31kmh
 [22:46:48] (INFO) Found 1 catchable Pokemon
 [22:46:49] (Wild Success) | Sandshrew 116 V |  112 Cp | 40.79% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[22:46:51] (INFO) Found 1 pokemon to transfer...
+[22:46:53] (TRANSFER) Sandshrew 116 V |  112 Cp | 40.79% | Lvl 06 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 42
+[22:46:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:46:58] (POKESTOP) Skyline Luge Sentosa in 88.67 m distance
+[22:46:58] (NAVIGATION) Distance to target location: 88.67 meters. Will take 11.4 seconds driving at 28kmh
+[22:47:02] (INFO) Found 1 catchable Pokemon
+[22:47:03] (Wild Success) | Shellder 124 V |  244 Cp | 47.76% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
