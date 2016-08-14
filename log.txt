@@ -40019,3 +40019,7 @@
 [00:26:06] (NAVIGATION) Distance to target location: 53.28 meters. Will take 6.39 seconds driving at 30kmh
 [00:26:08] (INFO) Found 1 catchable Pokemon
 [00:26:09] (Wild Success) | Magnemite 113 V |  315 Cp | 31.38% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[00:26:11] (INFO) Found 1 pokemon to transfer...
+[00:26:13] (TRANSFER) Magnemite 113 V |  315 Cp | 31.38% | Lvl 15 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 78
+[00:26:14] (INFO) Found 1 catchable Pokemon
+[00:26:16] (Wild Success) | Magnemite 154 V |  402 Cp | 52.27% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
