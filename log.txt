@@ -24060,3 +24060,25 @@
 [09:26:53] (INFO) Found 2 catchable Pokemon
 [09:26:55] (Wild Success) | Psyduck 119 V |  263 Cp | 20.77% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [09:26:57] (Wild Success) | Magikarp 90 V |   62 Cp | 58.95% | Lvl 10 | Chance: 0.66 | with a PokeBall and received XP 210
+[09:26:59] (INFO) Found 2 pokemon to transfer...
+[09:27:00] (TRANSFER) Magikarp 90 V |   62 Cp | 58.95% | Lvl 10 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 174
+[09:27:02] (TRANSFER) Psyduck 119 V |  263 Cp | 20.77% | Lvl 10 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 78
+[09:27:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[09:27:07] (POKESTOP) West Coast Park Connector in 41.97 m distance
+[09:27:07] (NAVIGATION) Distance to target location: 41.97 meters. Will take 5.04 seconds driving at 30kmh
+[09:27:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemSuperPotion
+[09:27:12] (INFO) Found 4 Recyclable Items:
+[09:27:13] (RECYCLING) PokeBall x 8
+[09:27:14] (RECYCLING) Potion x 1
+[09:27:15] (RECYCLING) SuperPotion x 1
+[09:27:16] (RECYCLING) Revive x 2
+[09:27:19] (POKESTOP) Clementi Woods Park in 55.63 m distance
+[09:27:19] (NAVIGATION) Distance to target location: 55.63 meters. Will take 6.46 seconds driving at 31kmh
+[09:27:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[09:27:26] (POKESTOP) Clementi Woods Fitness Corner in 105.12 m distance
+[09:27:26] (NAVIGATION) Distance to target location: 105.12 meters. Will take 12.21 seconds driving at 31kmh
+[09:27:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall
+[09:27:38] (POKESTOP) West Coast Fitness Corner in 483.8 m distance
+[09:27:38] (NAVIGATION) Distance to target location: 483.8 meters. Will take 24.88 seconds driving at 70kmh
+[09:27:52] (INFO) Found 1 catchable Pokemon
+[09:27:53] (Wild Success) | Ekans 132 V |  277 Cp | 36.66% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
