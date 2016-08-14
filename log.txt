@@ -38138,3 +38138,8 @@
 [23:20:45] (INFO) Found 2 catchable Pokemon
 [23:20:47] (Wild Success) | Magikarp 93 V |   87 Cp | 59.44% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
 [23:20:48] (Wild Success) | Rhyhorn 113 V |   47 Cp | 55.76% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 710
+[23:20:50] (INFO) Found 2 pokemon to transfer...
+[23:20:51] (TRANSFER) Magikarp 93 V |   87 Cp | 59.44% | Lvl 14 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 257
+[23:20:54] (TRANSFER) Rhyhorn 113 V |   47 Cp | 55.76% | Lvl 02 | Best: [NONE] | Candy: 4
+[23:20:55] (INFO) Found 1 catchable Pokemon
+[23:20:57] (Wild Success) | Poliwag 116 V |   30 Cp | 51.28% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
