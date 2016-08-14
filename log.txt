@@ -34441,3 +34441,4 @@
 [21:06:32] (TRANSFER) Caterpie 97 V |  135 Cp | 28.14% | Lvl 14 | Best: [Caterpie 120 V |  201 Cp | 50.39% | Lvl 19] | Candy: 199
 [21:06:34] (INFO) Found 2 catchable Pokemon
 [21:06:36] (Wild Success) | Horsea 143 V |  353 Cp | 47.61% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
+[21:06:37] (Wild Success) | Zubat 153 V |  340 Cp | 73.76% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
