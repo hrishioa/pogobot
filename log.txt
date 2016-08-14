@@ -37867,3 +37867,8 @@
 [23:09:35] (NAVIGATION) Distance to target location: 432 meters. Will take 22.22 seconds driving at 70kmh
 [23:09:49] (INFO) Found 1 catchable Pokemon
 [23:09:51] (Wild Success) | Poliwag 111 V |  225 Cp | 29.67% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:09:53] (INFO) Found 1 pokemon to transfer...
+[23:09:55] (TRANSFER) Poliwag 111 V |  225 Cp | 29.67% | Lvl 12 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 117
+[23:09:56] (INFO) Found 1 catchable Pokemon
+[23:09:57] (BERRY) ItemRazzBerry used, remaining: 45
+[23:09:58] (Wild Success) | Voltorb 192 V |  452 Cp | 76.97% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
