@@ -42114,3 +42114,19 @@
 [01:25:56] (NAVIGATION) Distance to target location: 82.83 meters. Will take 9.94 seconds driving at 30kmh
 [01:26:04] (INFO) Found 1 catchable Pokemon
 [01:26:05] (Wild Success) | Pidgey 90 V |  202 Cp | 25.11% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[01:26:07] (INFO) Found 1 pokemon to transfer...
+[01:26:08] (TRANSFER) Pidgey 90 V |  202 Cp | 25.11% | Lvl 13 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 712
+[01:26:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
+[01:26:13] (POKESTOP) Seahorse Hideaway  in 33.78 m distance
+[01:26:13] (NAVIGATION) Distance to target location: 33.78 meters. Will take 3.8 seconds driving at 32kmh
+[01:26:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[01:26:16] (POKESTOP) In the Mood for Intimacy in 137.51 m distance
+[01:26:16] (NAVIGATION) Distance to target location: 137.51 meters. Will take 16.5 seconds driving at 30kmh
+[01:26:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:26:32] (INFO) Found 2 Recyclable Items:
+[01:26:32] (RECYCLING) PokeBall x 7
+[01:26:34] (RECYCLING) Revive x 4
+[01:26:36] (POKESTOP) Battery Steps in 210.91 m distance
+[01:26:36] (NAVIGATION) Distance to target location: 210.91 meters. Will take 19.98 seconds driving at 38kmh
+[01:26:42] (INFO) Found 1 catchable Pokemon
+[01:26:44] (Wild Success) | Venonat 172 V |  435 Cp | 65.73% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
