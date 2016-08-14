@@ -28986,3 +28986,23 @@
 [12:32:56] (NAVIGATION) Distance to target location: 99.81 meters. Will take 11.98 seconds driving at 30kmh
 [12:33:06] (INFO) Found 1 catchable Pokemon
 [12:33:08] (Wild Success) | Caterpie 88 V |  169 Cp | 21.20% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[12:33:09] (INFO) Found 1 pokemon to transfer...
+[12:33:10] (TRANSFER) Caterpie 88 V |  169 Cp | 21.20% | Lvl 18 | Best: [Caterpie 105 V |  190 Cp | 35.84% | Lvl 19] | Candy: 163
+[12:33:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[12:33:13] (INFO) Found 2 Recyclable Items:
+[12:33:13] (RECYCLING) PokeBall x 6
+[12:33:14] (RECYCLING) Revive x 1
+[12:33:17] (POKESTOP) Chinese Scholar Painting in 70.94 m distance
+[12:33:17] (NAVIGATION) Distance to target location: 70.94 meters. Will take 8.51 seconds driving at 30kmh
+[12:33:23] (INFO) Found 1 catchable Pokemon
+[12:33:24] (Wild Escape) | Squirtle 104 V |  186 Cp | 20.24% | Lvl 08 | Chance: 0.21 | with a GreatBall 
+[12:33:25] (Wild Escape Attempt #2) | Squirtle 104 V |  186 Cp | 20.24% | Lvl 08 | Chance: 0.21 | with a GreatBall 
+[12:33:26] (Wild Success Attempt #3) | Squirtle 104 V |  186 Cp | 20.24% | Lvl 08 | Chance: 0.21 | with a GreatBall 
+[12:33:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:33:30] (POKESTOP) Centre For Development Of Teaching And Learning in 62.55 m distance
+[12:33:30] (NAVIGATION) Distance to target location: 62.55 meters. Will take 7.04 seconds driving at 32kmh
+[12:33:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:33:37] (POKESTOP) CRISP & TMSI in 109.98 m distance
+[12:33:37] (NAVIGATION) Distance to target location: 109.98 meters. Will take 13.2 seconds driving at 30kmh
+[12:33:38] (INFO) Found 1 catchable Pokemon
+[12:33:40] (Wild Success) | Pidgey 95 V |   78 Cp | 46.52% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
