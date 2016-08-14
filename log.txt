@@ -37794,3 +37794,5 @@
 [23:06:39] (INFO) Found 5 catchable Pokemon
 [23:06:41] (Wild Success) | Seel 94 V |   13 Cp | 28.15% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [23:06:42] (Wild Success) | Magikarp 77 V |   10 Cp | 51.47% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[23:06:44] (BERRY) ItemRazzBerry used, remaining: 45
+[23:06:45] (Wild Success) | Magnemite 152 V |  439 Cp | 46.03% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
