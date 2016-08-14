@@ -41978,3 +41978,16 @@
 [01:21:24] (RECYCLING) SuperPotion x 1
 [01:21:27] (INFO) Found 1 catchable Pokemon
 [01:21:29] (Wild Success) | Pikachu 113 V |  188 Cp | 29.31% | Lvl 09 | Chance: 0.2 | with a GreatBall and received XP 210
+[01:21:30] (INFO) Found 1 pokemon to transfer...
+[01:21:32] (TRANSFER) Pikachu 113 V |  188 Cp | 29.31% | Lvl 09 | Best: [Pikachu 159 V |  385 Cp | 55.84% | Lvl 17] | Candy: 70
+[01:21:33] (POKESTOP) Lord Farquad Coat of Arms in 57.19 m distance
+[01:21:33] (NAVIGATION) Distance to target location: 57.19 meters. Will take 7.35 seconds driving at 28kmh
+[01:21:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[01:21:40] (POKESTOP) Ogre Adventure in 52.38 m distance
+[01:21:40] (NAVIGATION) Distance to target location: 52.38 meters. Will take 5.89 seconds driving at 32kmh
+[01:21:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:21:46] (POKESTOP) Beware! Ogres in 78.36 m distance
+[01:21:46] (NAVIGATION) Distance to target location: 78.36 meters. Will take 9.73 seconds driving at 29kmh
+[01:21:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
+[01:21:55] (INFO) Found 1 catchable Pokemon
+[01:21:57] (Wild Success) | Pikachu 89 V |   10 Cp | 28.22% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 210
