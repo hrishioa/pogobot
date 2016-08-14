@@ -36576,3 +36576,7 @@
 [22:27:26] (NAVIGATION) Distance to target location: 704.64 meters. Will take 36.24 seconds driving at 70kmh
 [22:27:34] (INFO) Found 1 catchable Pokemon
 [22:27:36] (Wild Success) | NidoranMale 94 V |   32 Cp | 41.94% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[22:27:37] (INFO) Found 1 pokemon to transfer...
+[22:27:38] (TRANSFER) NidoranMale 94 V |   32 Cp | 41.94% | Lvl 02 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 18
+[22:28:01] (INFO) Found 1 catchable Pokemon
+[22:28:03] (Wild Success) | Magnemite 118 V |  338 Cp | 33.55% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 710
