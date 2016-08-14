@@ -33945,3 +33945,9 @@
 [20:52:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
 [20:52:45] (INFO) Found 1 catchable Pokemon
 [20:52:48] (Wild Success) | Pidgey 70 V |   39 Cp | 16.27% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[20:52:50] (INFO) Found 1 pokemon to transfer...
+[20:52:51] (TRANSFER) Pidgey 70 V |   39 Cp | 16.27% | Lvl 03 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 629
+[20:52:52] (POKESTOP) University Cultural Center in 378.79 m distance
+[20:52:52] (NAVIGATION) Distance to target location: 378.79 meters. Will take 19.76 seconds driving at 69kmh
+[20:53:07] (INFO) Found 1 catchable Pokemon
+[20:53:08] (Wild Success) | Weedle 105 V |  216 Cp | 27.98% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
