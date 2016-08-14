@@ -30604,3 +30604,4 @@
 [13:39:19] (TRANSFER) Horsea 160 V |  440 Cp | 54.39% | Lvl 22 | Best: [Horsea 167 V |  376 Cp | 69.08% | Lvl 18] | Candy: 86
 [13:39:35] (INFO) Found 2 catchable Pokemon
 [13:39:37] (Wild Success) | Psyduck 145 V |  438 Cp | 36.18% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[13:39:38] (Wild Success) | Tentacruel 182 V |  280 Cp | 58.83% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 710
