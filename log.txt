@@ -22189,3 +22189,22 @@
 [08:25:14] (NAVIGATION) Distance to target location: 81.98 meters. Will take 9.84 seconds driving at 30kmh
 [08:25:21] (INFO) Found 1 catchable Pokemon
 [08:25:22] (Wild Success) | Pidgey 119 V |  277 Cp | 40.74% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[08:25:24] (INFO) Found 1 pokemon to transfer...
+[08:25:25] (TRANSFER) Pidgey 119 V |  277 Cp | 40.74% | Lvl 17 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 1015
+[08:25:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:25:28] (INFO) Found 2 Recyclable Items:
+[08:25:29] (RECYCLING) PokeBall x 6
+[08:25:29] (RECYCLING) Potion x 3
+[08:25:33] (POKESTOP) The Tarantula Nebula in 46.33 m distance
+[08:25:33] (NAVIGATION) Distance to target location: 46.33 meters. Will take 5.21 seconds driving at 32kmh
+[08:25:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[08:25:39] (POKESTOP) Raffles Museum in 80.24 m distance
+[08:25:39] (NAVIGATION) Distance to target location: 80.24 meters. Will take 9.03 seconds driving at 32kmh
+[08:25:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:25:48] (POKESTOP) Level 6 Art in 84.28 m distance
+[08:25:48] (NAVIGATION) Distance to target location: 84.28 meters. Will take 9.48 seconds driving at 32kmh
+[08:25:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[08:25:57] (POKESTOP) Portrait of Yong Loo Lin in 119.85 m distance
+[08:25:57] (NAVIGATION) Distance to target location: 119.85 meters. Will take 14.88 seconds driving at 29kmh
+[08:26:07] (INFO) Found 1 catchable Pokemon
+[08:26:08] (Wild Success) | Pidgey 88 V |   41 Cp | 28.88% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
