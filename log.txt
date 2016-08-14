@@ -23544,3 +23544,16 @@
 [09:11:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
 [09:11:46] (INFO) Found 1 catchable Pokemon
 [09:11:49] (Wild Success) | Caterpie 105 V |  190 Cp | 35.84% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[09:11:50] (INFO) Found 1 pokemon to transfer...
+[09:11:52] (TRANSFER) Caterpie 92 V |   68 Cp | 34.80% | Lvl 07 | Best: [Caterpie 105 V |  190 Cp | 35.84% | Lvl 19] | Candy: 155
+[09:11:52] (POKESTOP) Masjid Tentera Di Raja in 153.87 m distance
+[09:11:52] (NAVIGATION) Distance to target location: 153.87 meters. Will take 17.31 seconds driving at 32kmh
+[09:12:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:12:10] (POKESTOP) Abstact Sculptures At NUS in 133.56 m distance
+[09:12:10] (NAVIGATION) Distance to target location: 133.56 meters. Will take 16.58 seconds driving at 29kmh
+[09:12:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:12:25] (INFO) Found 2 Recyclable Items:
+[09:12:26] (RECYCLING) RazzBerry x 1
+[09:12:27] (RECYCLING) PokeBall x 1
+[09:12:29] (INFO) Found 1 catchable Pokemon
+[09:12:30] (Wild Success) | Pidgey 100 V |   60 Cp | 43.63% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
