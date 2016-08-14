@@ -41815,3 +41815,4 @@
 [01:18:39] (RECYCLING) Potion x 1
 [01:18:42] (INFO) Found 2 catchable Pokemon
 [01:18:43] (Wild Success) | Magnemite 84 V |   54 Cp | 29.12% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[01:18:45] (Wild Success) | Rattata 112 V |  149 Cp | 36.60% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
