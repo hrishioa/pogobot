@@ -35584,3 +35584,9 @@
 [21:50:48] (INFO) Found 1 catchable Pokemon
 [21:50:50] (BERRY) ItemRazzBerry used, remaining: 38
 [21:50:51] (Wild Success) | Spearow 134 V |  368 Cp | 60.24% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[21:50:53] (INFO) Found 1 pokemon to transfer...
+[21:50:54] (TRANSFER) Spearow 134 V |  368 Cp | 60.24% | Lvl 21 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 369
+[21:50:55] (POKESTOP) You Hold The Key in 91.32 m distance
+[21:50:55] (NAVIGATION) Distance to target location: 91.32 meters. Will take 10.27 seconds driving at 32kmh
+[21:51:03] (INFO) Found 1 catchable Pokemon
+[21:51:05] (Wild Success) | Rattata 120 V |  193 Cp | 41.48% | Lvl 14 | Chance: 0.4 | with a PokeBall and received XP 210
