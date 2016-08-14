@@ -37274,3 +37274,8 @@
 [22:50:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
 [22:50:14] (INFO) Found 1 catchable Pokemon
 [22:50:16] (Wild Success) | Ponyta 171 V |  333 Cp | 87.75% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 710
+[22:50:18] (POKESTOP) Trapped Humanoid in 69.14 m distance
+[22:50:18] (NAVIGATION) Distance to target location: 69.14 meters. Will take 8.03 seconds driving at 31kmh
+[22:50:21] (INFO) Found 2 catchable Pokemon
+[22:50:22] (BERRY) ItemRazzBerry used, remaining: 46
+[22:50:24] (Wild Success) | Drowzee 179 V |  631 Cp | 51.09% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
