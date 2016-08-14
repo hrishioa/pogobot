@@ -44501,3 +44501,11 @@
 [02:37:49] (Wild Success) | Poliwag 148 V |  305 Cp | 58.72% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
 [02:37:50] (BERRY) ItemRazzBerry used, remaining: 43
 [02:37:51] (Wild Success) | Magmar 173 V |  534 Cp | 50.34% | Lvl 09 | Chance: 0.3 | with a UltraBall and received XP 210
+[02:37:53] (INFO) Found 3 pokemon to transfer...
+[02:37:54] (TRANSFER) Zubat 128 V |  145 Cp | 58.73% | Lvl 09 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 712
+[02:37:56] (TRANSFER) Poliwag 148 V |  305 Cp | 58.72% | Lvl 15 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 187
+[02:37:59] (TRANSFER) Poliwag 112 V |  188 Cp | 31.19% | Lvl 10 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 188
+[02:38:00] (INFO) Found 2 catchable Pokemon
+[02:38:01] (Wild Escape) | Rattata 116 V |  260 Cp | 25.36% | Lvl 20 | Chance: 0.33 | with a GreatBall 
+[02:38:02] (Wild Success Attempt #2) | Rattata 116 V |  260 Cp | 25.36% | Lvl 20 | Chance: 0.33 | with a GreatBall 
+[02:38:04] (Wild Success) | Pidgey 74 V |   23 Cp | 16.82% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
