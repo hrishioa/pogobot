@@ -37537,3 +37537,5 @@
 [22:58:10] (NAVIGATION) Distance to target location: 384.7 meters. Will take 19.78 seconds driving at 70kmh
 [22:58:27] (INFO) Found 2 catchable Pokemon
 [22:58:29] (Wild Success) | Horsea 140 V |  278 Cp | 51.95% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[22:58:30] (BERRY) ItemRazzBerry used, remaining: 44
+[22:58:31] (Wild Success) | Tentacruel 175 V |  630 Cp | 36.64% | Lvl 11 | Chance: 0.18 | with a GreatBall and received XP 710
