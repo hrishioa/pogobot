@@ -44111,3 +44111,15 @@
 [02:25:36] (INFO) Found 1 catchable Pokemon
 [02:25:38] (BERRY) ItemRazzBerry used, remaining: 50
 [02:25:38] (Wild Success) | Magnemite 157 V |  507 Cp | 33.76% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[02:25:40] (INFO) Found 1 pokemon to transfer...
+[02:25:41] (TRANSFER) Magnemite 157 V |  507 Cp | 33.76% | Lvl 24 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 225
+[02:25:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:25:43] (INFO) Found 3 Recyclable Items:
+[02:25:44] (RECYCLING) PokeBall x 7
+[02:25:44] (RECYCLING) Potion x 2
+[02:25:45] (RECYCLING) Revive x 1
+[02:25:49] (POKESTOP) Fountain Of Everlasting Life in 53.54 m distance
+[02:25:49] (NAVIGATION) Distance to target location: 53.54 meters. Will take 6.02 seconds driving at 32kmh
+[02:25:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
+[02:25:54] (INFO) Found 1 catchable Pokemon
+[02:25:55] (Wild Success) | Magnemite 95 V |   52 Cp | 18.00% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
