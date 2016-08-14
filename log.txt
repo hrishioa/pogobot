@@ -45113,3 +45113,5 @@
 [02:57:33] (INFO) Found 4 catchable Pokemon
 [02:57:34] (BERRY) ItemRazzBerry used, remaining: 45
 [02:57:35] (Wild Success) | Paras 161 V |  425 Cp | 58.67% | Lvl 18 | Chance: 0.28 | with a GreatBall and received XP 210
+[02:57:37] (BERRY) ItemRazzBerry used, remaining: 44
+[02:57:37] (Wild Success) | Ekans 130 V |  450 Cp | 32.54% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
