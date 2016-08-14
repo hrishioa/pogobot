@@ -22289,3 +22289,10 @@
 [08:29:25] (INFO) Found 1 catchable Pokemon
 [08:29:26] (BERRY) ItemRazzBerry used, remaining: 49
 [08:29:27] (Wild Success) | Golbat 170 V |  512 Cp | 59.34% | Lvl 10 | Chance: 0.18 | with a UltraBall and received XP 210
+[08:29:29] (INFO) Found 1 pokemon to transfer...
+[08:29:30] (TRANSFER) Golbat 170 V |  512 Cp | 59.34% | Lvl 10 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 710
+[08:29:31] (POKESTOP) Butterfly Mural in 359 m distance
+[08:29:31] (NAVIGATION) Distance to target location: 359 meters. Will take 19.88 seconds driving at 65kmh
+[08:29:46] (INFO) Found 1 catchable Pokemon
+[08:29:47] (BERRY) ItemRazzBerry used, remaining: 48
+[08:29:49] (Wild Success) | Koffing 203 V |  651 Cp | 73.22% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
