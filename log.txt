@@ -43392,3 +43392,4 @@
 [02:02:47] (BERRY) ItemRazzBerry used, remaining: 48
 [02:02:49] (Wild Success) | Poliwag 124 V |  396 Cp | 32.16% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
 [02:02:50] (Wild Success) | Seel 151 V |  393 Cp | 47.42% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:02:52] (Wild Success) | Rattata 127 V |  323 Cp | 34.53% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
