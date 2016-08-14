@@ -29717,3 +29717,10 @@
 [13:04:59] (NAVIGATION) Distance to target location: 136.57 meters. Will take 17.56 seconds driving at 28kmh
 [13:05:10] (INFO) Found 1 catchable Pokemon
 [13:05:12] (Wild Success) | Rattata 155 V |  296 Cp | 62.57% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[13:05:13] (INFO) Found 1 pokemon to transfer...
+[13:05:15] (TRANSFER) Rattata 155 V |  296 Cp | 62.57% | Lvl 20 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 665
+[13:05:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemGreatBall
+[13:05:19] (POKESTOP) Buttercup Playground in 182.54 m distance
+[13:05:19] (NAVIGATION) Distance to target location: 182.54 meters. Will take 19.91 seconds driving at 33kmh
+[13:05:22] (INFO) Found 1 catchable Pokemon
+[13:05:24] (Wild Success) | Zubat 130 V |  271 Cp | 53.01% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
