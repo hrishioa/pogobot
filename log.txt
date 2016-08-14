@@ -43493,3 +43493,12 @@
 [02:06:12] (Wild Success) | Growlithe 156 V |  412 Cp | 49.56% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 210
 [02:06:14] (Wild Success) | Mankey 128 V |  200 Cp | 55.54% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [02:06:16] (Wild Success) | NidoranMale 130 V |  231 Cp | 47.61% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:06:18] (INFO) Found 3 pokemon to transfer...
+[02:06:19] (TRANSFER) Growlithe 156 V |  412 Cp | 49.56% | Lvl 12 | Best: [Growlithe 231 V |  740 Cp | 85.12% | Lvl 20] | Candy: 57
+[02:06:22] (TRANSFER) NidoranMale 130 V |  231 Cp | 47.61% | Lvl 11 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 46
+[02:06:23] (TRANSFER) Mankey 128 V |  200 Cp | 55.54% | Lvl 09 | Best: [Mankey 148 V |  438 Cp | 47.14% | Lvl 20] | Candy: 41
+[02:06:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:06:27] (POKESTOP) iFly Singapore in 62.34 m distance
+[02:06:27] (NAVIGATION) Distance to target location: 62.34 meters. Will take 7.01 seconds driving at 32kmh
+[02:06:31] (INFO) Found 1 catchable Pokemon
+[02:06:32] (Wild Success) | Pidgey 105 V |  334 Cp | 32.50% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
