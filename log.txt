@@ -36559,3 +36559,8 @@
 [22:26:52] (INFO) Found 2 catchable Pokemon
 [22:26:53] (Wild Success) | Psyduck 126 V |  343 Cp | 22.31% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [22:26:55] (Wild Success) | Spearow 100 V |  192 Cp | 31.17% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[22:26:56] (INFO) Found 2 pokemon to transfer...
+[22:26:58] (TRANSFER) Psyduck 126 V |  343 Cp | 22.31% | Lvl 13 | Best: [Psyduck 163 V |  309 Cp | 46.89% | Lvl 11] | Candy: 82
+[22:27:00] (TRANSFER) Spearow 100 V |  192 Cp | 31.17% | Lvl 12 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 223
+[22:27:02] (INFO) Found 1 catchable Pokemon
+[22:27:03] (Wild Success) | Eevee 128 V |   14 Cp | 67.32% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
