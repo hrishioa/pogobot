@@ -39329,3 +39329,11 @@
 [00:03:15] (NAVIGATION) Distance to target location: 70.65 meters. Will take 8.2 seconds driving at 31kmh
 [00:03:18] (INFO) Found 1 catchable Pokemon
 [00:03:20] (Wild Success) | Pikachu 117 V |  335 Cp | 8.35% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
+[00:03:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[00:03:25] (POKESTOP) Tu Tank Hamen Statue in 88.3 m distance
+[00:03:25] (NAVIGATION) Distance to target location: 88.3 meters. Will take 10.96 seconds driving at 29kmh
+[00:03:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:03:36] (POKESTOP) Ranger Stn Wave Hse Mural in 103.18 m distance
+[00:03:36] (NAVIGATION) Distance to target location: 103.18 meters. Will take 12.38 seconds driving at 30kmh
+[00:03:46] (INFO) Found 1 catchable Pokemon
+[00:03:47] (Wild Success) | Magnemite 129 V |   35 Cp | 60.46% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
