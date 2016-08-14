@@ -39171,3 +39171,4 @@
 [23:59:32] (TRANSFER) Voltorb 148 V |  331 Cp | 44.62% | Lvl 16 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 80
 [23:59:33] (INFO) Found 2 catchable Pokemon
 [23:59:35] (Wild Success) | Krabby 144 V |  145 Cp | 77.82% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:59:37] (Wild Success) | Krabby 170 V |  320 Cp | 78.72% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
