@@ -22592,3 +22592,13 @@
 [08:39:08] (NAVIGATION) Distance to target location: 405.85 meters. Will take 20.87 seconds driving at 70kmh
 [08:39:21] (INFO) Found 1 catchable Pokemon
 [08:39:22] (Wild Success) | Staryu 144 V |  309 Cp | 53.43% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[08:39:24] (INFO) Found 1 pokemon to transfer...
+[08:39:25] (TRANSFER) Staryu 144 V |  309 Cp | 53.43% | Lvl 13 | Best: [Staryu 177 V |  504 Cp | 75.41% | Lvl 20] | Candy: 96
+[08:39:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemPotion, 1 x ItemPokeBall
+[08:39:31] (POKESTOP) I Carry Your Heart in 110 m distance
+[08:39:31] (NAVIGATION) Distance to target location: 110 meters. Will take 14.14 seconds driving at 28kmh
+[08:39:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:39:45] (POKESTOP) SUTD Hostel Main Mural in 604.36 m distance
+[08:39:45] (NAVIGATION) Distance to target location: 604.36 meters. Will take 31.08 seconds driving at 70kmh
+[08:39:48] (INFO) Found 1 catchable Pokemon
+[08:39:50] (Wild Success) | Zubat 119 V |  234 Cp | 46.50% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
