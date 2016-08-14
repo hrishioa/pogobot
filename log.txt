@@ -23166,3 +23166,21 @@
 [08:58:35] (Wild Success) | Spearow 109 V |   27 Cp | 69.36% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [08:58:37] (BERRY) ItemRazzBerry used, remaining: 49
 [08:58:37] (Wild Success) | Staryu 184 V |  598 Cp | 71.51% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[08:58:39] (INFO) Found 2 pokemon to transfer...
+[08:58:40] (TRANSFER) Staryu 177 V |  504 Cp | 75.41% | Lvl 20 | Best: [Staryu 184 V |  598 Cp | 71.51% | Lvl 24] | Candy: 108
+[08:58:43] (TRANSFER) Spearow 109 V |   27 Cp | 69.36% | Lvl 02 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 305
+[08:58:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:58:47] (INFO) Found 3 Recyclable Items:
+[08:58:47] (RECYCLING) PokeBall x 6
+[08:58:48] (RECYCLING) SuperPotion x 1
+[08:58:49] (RECYCLING) Revive x 1
+[08:58:53] (POKESTOP) Refugees (Flight II) in 45.97 m distance
+[08:58:53] (NAVIGATION) Distance to target location: 45.97 meters. Will take 5.71 seconds driving at 29kmh
+[08:58:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[08:58:59] (POKESTOP) The Seagull Nebula in 87.27 m distance
+[08:58:59] (NAVIGATION) Distance to target location: 87.27 meters. Will take 9.82 seconds driving at 32kmh
+[08:59:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:59:08] (POKESTOP) Butterfly Mural in 582.84 m distance
+[08:59:08] (NAVIGATION) Distance to target location: 582.84 meters. Will take 29.97 seconds driving at 70kmh
+[08:59:21] (INFO) Found 1 catchable Pokemon
+[08:59:22] (Wild Success) | Pidgey 103 V |  192 Cp | 34.24% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
