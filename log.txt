@@ -30755,3 +30755,9 @@
 [13:44:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall, 1 x ItemSuperPotion
 [13:44:52] (INFO) Found 1 catchable Pokemon
 [13:44:54] (Wild Success) | Rattata 92 V |   10 Cp | 31.29% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[13:44:55] (INFO) Found 1 pokemon to transfer...
+[13:44:57] (TRANSFER) Rattata 92 V |   10 Cp | 31.29% | Lvl 01 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 693
+[13:44:57] (POKESTOP) Cempaka 2004 in 206.85 m distance
+[13:44:57] (NAVIGATION) Distance to target location: 206.85 meters. Will take 19.6 seconds driving at 38kmh
+[13:45:00] (INFO) Found 1 catchable Pokemon
+[13:45:01] (Wild Success) | Goldeen 116 V |   39 Cp | 65.28% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
