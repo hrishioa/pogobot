@@ -22212,3 +22212,30 @@
 [08:26:12] (TRANSFER) Pidgey 88 V |   41 Cp | 28.88% | Lvl 03 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 1019
 [08:26:13] (INFO) Found 1 catchable Pokemon
 [08:26:14] (Wild Success) | Pidgey 95 V |  157 Cp | 29.12% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[08:26:16] (INFO) Found 1 pokemon to transfer...
+[08:26:18] (TRANSFER) Pidgey 95 V |  157 Cp | 29.12% | Lvl 10 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 1023
+[08:26:20] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 4 x ItemPokeBall
+[08:26:21] (POKESTOP) Medical Abstracts in 58.94 m distance
+[08:26:21] (NAVIGATION) Distance to target location: 58.94 meters. Will take 6.63 seconds driving at 32kmh
+[08:26:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:26:28] (INFO) Found 4 Recyclable Items:
+[08:26:28] (RECYCLING) RazzBerry x 1
+[08:26:29] (RECYCLING) PokeBall x 8
+[08:26:30] (RECYCLING) Potion x 2
+[08:26:31] (RECYCLING) Revive x 1
+[08:26:34] (POKESTOP) Hippocratic Oath in 61.37 m distance
+[08:26:34] (NAVIGATION) Distance to target location: 61.37 meters. Will take 7.62 seconds driving at 29kmh
+[08:26:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:26:41] (POKESTOP) Owl Statue in 103.27 m distance
+[08:26:41] (NAVIGATION) Distance to target location: 103.27 meters. Will take 12.82 seconds driving at 29kmh
+[08:26:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemGreatBall
+[08:26:53] (POKESTOP) NUS Faculty of Dentistry in 99.81 m distance
+[08:26:53] (NAVIGATION) Distance to target location: 99.81 meters. Will take 11.59 seconds driving at 31kmh
+[08:27:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:27:05] (POKESTOP) Faculty of Dentistry in 75.18 m distance
+[08:27:05] (NAVIGATION) Distance to target location: 75.18 meters. Will take 9.02 seconds driving at 30kmh
+[08:27:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[08:27:13] (POKESTOP) Scientific Exhibit #1 at Level 6 in 106.94 m distance
+[08:27:13] (NAVIGATION) Distance to target location: 106.94 meters. Will take 12.03 seconds driving at 32kmh
+[08:27:21] (INFO) Found 2 catchable Pokemon
+[08:27:23] (Wild Success) | Spearow 69 V |   57 Cp | 22.54% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
