@@ -38684,3 +38684,14 @@
 [23:39:45] (INFO) Found 2 catchable Pokemon
 [23:39:46] (Wild Success) | Poliwag 100 V |  239 Cp | 24.14% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [23:39:48] (Wild Success) | NidoranFemale 112 V |   76 Cp | 28.60% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[23:39:50] (INFO) Found 2 pokemon to transfer...
+[23:39:52] (TRANSFER) NidoranFemale 112 V |   76 Cp | 28.60% | Lvl 04 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 53
+[23:39:53] (TRANSFER) Poliwag 100 V |  239 Cp | 24.14% | Lvl 13 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 132
+[23:39:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[23:39:56] (POKESTOP) Lock Control Tower  in 450.78 m distance
+[23:39:56] (NAVIGATION) Distance to target location: 450.78 meters. Will take 23.18 seconds driving at 70kmh
+[23:40:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:40:21] (POKESTOP) Egyptian Art Gallery  in 353.86 m distance
+[23:40:21] (NAVIGATION) Distance to target location: 353.86 meters. Will take 19.9 seconds driving at 64kmh
+[23:40:29] (INFO) Found 1 catchable Pokemon
+[23:40:31] (Wild Success) | Magikarp 112 V |  114 Cp | 75.84% | Lvl 17 | Chance: 0.5 | with a PokeBall and received XP 210
