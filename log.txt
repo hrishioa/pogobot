@@ -44541,3 +44541,13 @@
 [02:39:16] (NAVIGATION) Distance to target location: 191.08 meters. Will take 19.65 seconds driving at 35kmh
 [02:39:34] (INFO) Found 1 catchable Pokemon
 [02:39:35] (Wild Success) | Krabby 101 V |  204 Cp | 30.58% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:39:37] (INFO) Found 1 pokemon to transfer...
+[02:39:39] (TRANSFER) Krabby 101 V |  204 Cp | 30.58% | Lvl 11 | Best: [Krabby 176 V |  499 Cp | 68.90% | Lvl 24] | Candy: 182
+[02:39:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[02:39:41] (POKESTOP) The Great White Shark in 51.16 m distance
+[02:39:41] (NAVIGATION) Distance to target location: 51.16 meters. Will take 6.35 seconds driving at 29kmh
+[02:39:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[02:39:47] (POKESTOP) Dolphins Lagoon Suite in 114.48 m distance
+[02:39:47] (NAVIGATION) Distance to target location: 114.48 meters. Will take 14.21 seconds driving at 29kmh
+[02:39:56] (INFO) Found 3 catchable Pokemon
+[02:39:57] (Wild Success) | Seaking 167 V |  258 Cp | 61.19% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 210
