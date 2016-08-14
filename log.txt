@@ -34787,3 +34787,31 @@
 [21:19:11] (NAVIGATION) Distance to target location: 476.94 meters. Will take 24.53 seconds driving at 70kmh
 [21:19:33] (INFO) Found 1 catchable Pokemon
 [21:19:34] (Wild Success) | Psyduck 113 V |  372 Cp | 24.45% | Lvl 14 | Chance: 0.4 | with a PokeBall and received XP 420
+[21:19:36] (INFO) Found 1 pokemon to transfer...
+[21:19:38] (TRANSFER) Psyduck 113 V |  372 Cp | 24.45% | Lvl 14 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 105
+[21:19:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[21:19:42] (POKESTOP) Level 6 Art in 306.77 m distance
+[21:19:42] (NAVIGATION) Distance to target location: 306.77 meters. Will take 19.72 seconds driving at 56kmh
+[21:20:01] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:20:02] (POKESTOP) Raffles Museum in 95.97 m distance
+[21:20:02] (NAVIGATION) Distance to target location: 95.97 meters. Will take 11.52 seconds driving at 30kmh
+[21:20:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:20:14] (POKESTOP) The Tarantula Nebula in 88.2 m distance
+[21:20:14] (NAVIGATION) Distance to target location: 88.2 meters. Will take 11.34 seconds driving at 28kmh
+[21:20:23] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:20:25] (POKESTOP) Sagittarius Jewels in 50.45 m distance
+[21:20:25] (NAVIGATION) Distance to target location: 50.45 meters. Will take 6.26 seconds driving at 29kmh
+[21:20:30] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:20:33] (POKESTOP) M7 In Scorpius in 85.1 m distance
+[21:20:33] (NAVIGATION) Distance to target location: 85.1 meters. Will take 10.94 seconds driving at 28kmh
+[21:20:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:20:43] (POKESTOP) Tree of the Elements in 79.28 m distance
+[21:20:43] (NAVIGATION) Distance to target location: 79.28 meters. Will take 9.21 seconds driving at 31kmh
+[21:20:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:20:52] (POKESTOP) The War And Peace Nebula in 58.54 m distance
+[21:20:52] (NAVIGATION) Distance to target location: 58.54 meters. Will take 6.8 seconds driving at 31kmh
+[21:20:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:20:58] (POKESTOP) Scientific Exhibit #1 at Level 6 in 158.11 m distance
+[21:20:58] (NAVIGATION) Distance to target location: 158.11 meters. Will take 19.63 seconds driving at 29kmh
+[21:21:08] (INFO) Found 3 catchable Pokemon
+[21:21:09] (Wild Success) | Spearow 106 V |  181 Cp | 40.62% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 420
