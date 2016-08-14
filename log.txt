@@ -37355,3 +37355,7 @@
 [22:53:48] (INFO) Found 1 catchable Pokemon
 [22:53:50] (BERRY) ItemRazzBerry used, remaining: 46
 [22:53:50] (Wild Success) | Growlithe 186 V |  696 Cp | 55.88% | Lvl 20 | Chance: 0.2 | with a GreatBall and received XP 210
+[22:53:52] (INFO) Found 1 pokemon to transfer...
+[22:53:54] (TRANSFER) Growlithe 149 V |  200 Cp | 53.97% | Lvl 06 | Best: [Growlithe 186 V |  696 Cp | 55.88% | Lvl 20] | Candy: 25
+[22:53:55] (INFO) Found 1 catchable Pokemon
+[22:53:57] (Wild Success) | Pidgey 104 V |  350 Cp | 19.49% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
