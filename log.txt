@@ -28401,3 +28401,8 @@
 [12:12:30] (INFO) Found 1 catchable Pokemon
 [12:12:31] (BERRY) ItemRazzBerry used, remaining: 47
 [12:12:33] (Wild Success) | Bellsprout 154 V |  543 Cp | 32.58% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[12:12:34] (INFO) Found 1 pokemon to transfer...
+[12:12:36] (TRANSFER) Bellsprout 154 V |  543 Cp | 32.58% | Lvl 20 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 261
+[12:12:37] (INFO) Found 2 catchable Pokemon
+[12:12:38] (BERRY) ItemRazzBerry used, remaining: 46
+[12:12:39] (Wild Success) | Bellsprout 135 V |  667 Cp | 41.38% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
