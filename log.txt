@@ -42158,3 +42158,12 @@
 [01:27:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
 [01:27:50] (INFO) Found 1 catchable Pokemon
 [01:27:51] (Wild Success) | Pidgey 122 V |  261 Cp | 40.95% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
+[01:27:53] (INFO) Found 1 pokemon to transfer...
+[01:27:55] (TRANSFER) Pidgey 122 V |  261 Cp | 40.95% | Lvl 16 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 716
+[01:27:56] (POKESTOP) Pillbox in 55.23 m distance
+[01:27:56] (NAVIGATION) Distance to target location: 55.23 meters. Will take 6.63 seconds driving at 30kmh
+[01:28:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:28:03] (POKESTOP) Wave Check In  in 71.22 m distance
+[01:28:03] (NAVIGATION) Distance to target location: 71.22 meters. Will take 9.16 seconds driving at 28kmh
+[01:28:04] (INFO) Found 1 catchable Pokemon
+[01:28:06] (Wild Success) | Oddish 117 V |  134 Cp | 37.29% | Lvl 05 | Chance: 0.82 | with a PokeBall and received XP 210
