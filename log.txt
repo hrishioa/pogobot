@@ -43406,3 +43406,24 @@
 [02:03:29] (INFO) Found 1 catchable Pokemon
 [02:03:29] (BERRY) ItemRazzBerry used, remaining: 48
 [02:03:31] (Wild Success) | Magnemite 148 V |  448 Cp | 53.41% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[02:03:31] (EGG) Hatched egg! Weedle              166 True Value |  245 Cp | 86.87% Perfect | Lvl 20 | BugBite/Struggle
+[02:03:31] (EGG) Hatched egg! Magnemite           208 True Value |  492 Cp | 87.41% Perfect | Lvl 20 | Spark/Discharge
+[02:03:33] (EGG) Added 2km egg to incubator
+[02:03:33] (EGG) Added 5km egg to incubator
+[02:03:34] (INFO) Found 3 pokemon to transfer...
+[02:03:35] (TRANSFER) Magnemite 169 V |  416 Cp | 64.58% | Lvl 18 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 220
+[02:03:38] (TRANSFER) Magnemite 148 V |  448 Cp | 53.41% | Lvl 20 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 221
+[02:03:40] (TRANSFER) Weedle 122 V |  120 Cp | 55.42% | Lvl 11 | Best: [Weedle 166 V |  245 Cp | 86.87% | Lvl 20] | Candy: 308
+[02:03:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:03:44] (INFO) Found 3 Recyclable Items:
+[02:03:45] (RECYCLING) PokeBall x 11
+[02:03:46] (RECYCLING) Potion x 1
+[02:03:47] (RECYCLING) Revive x 2
+[02:03:50] (POKESTOP) Guardian of the Grove in 58.01 m distance
+[02:03:50] (NAVIGATION) Distance to target location: 58.01 meters. Will take 6.53 seconds driving at 32kmh
+[02:03:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:03:57] (POKESTOP) The Dragon Hut in 87.96 m distance
+[02:03:57] (NAVIGATION) Distance to target location: 87.96 meters. Will take 10.21 seconds driving at 31kmh
+[02:04:01] (INFO) Found 1 catchable Pokemon
+[02:04:03] (BERRY) ItemRazzBerry used, remaining: 47
+[02:04:04] (Wild Success) | Mankey 148 V |  438 Cp | 47.14% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
