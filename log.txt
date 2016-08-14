@@ -39447,3 +39447,20 @@
 [00:08:22] (NAVIGATION) Distance to target location: 102.33 meters. Will take 12.28 seconds driving at 30kmh
 [00:08:29] (INFO) Found 1 catchable Pokemon
 [00:08:30] (Wild Success) | Geodude 132 V |  354 Cp | 41.61% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[00:08:32] (INFO) Found 1 pokemon to transfer...
+[00:08:35] (TRANSFER) Geodude 132 V |  354 Cp | 41.61% | Lvl 17 | Best: [Geodude 197 V |  467 Cp | 84.88% | Lvl 20] | Candy: 36
+[00:08:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:08:40] (POKESTOP) Musical Eggs in 160.98 m distance
+[00:08:40] (NAVIGATION) Distance to target location: 160.98 meters. Will take 19.98 seconds driving at 29kmh
+[00:08:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:08:59] (INFO) Found 3 Recyclable Items:
+[00:09:00] (RECYCLING) PokeBall x 7
+[00:09:01] (RECYCLING) SuperPotion x 1
+[00:09:03] (RECYCLING) Revive x 2
+[00:09:05] (POKESTOP) Snakes and Ladders in 72.86 m distance
+[00:09:05] (NAVIGATION) Distance to target location: 72.86 meters. Will take 8.74 seconds driving at 30kmh
+[00:09:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 4 x ItemPokeBall
+[00:09:15] (POKESTOP) Coloured Roofs in 167.04 m distance
+[00:09:15] (NAVIGATION) Distance to target location: 167.04 meters. Will take 19.4 seconds driving at 31kmh
+[00:09:25] (INFO) Found 1 catchable Pokemon
+[00:09:26] (Wild Success) | Staryu 130 V |  262 Cp | 54.13% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
