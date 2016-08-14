@@ -40481,3 +40481,9 @@
 [00:39:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRazzBerry
 [00:39:43] (INFO) Found 1 catchable Pokemon
 [00:39:45] (Wild Success) | Caterpie 90 V |  123 Cp | 22.54% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[00:39:47] (INFO) Found 1 pokemon to transfer...
+[00:39:48] (TRANSFER) Caterpie 90 V |  123 Cp | 22.54% | Lvl 13 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 173
+[00:39:49] (POKESTOP) Maritime Museum Exhibit in 140.35 m distance
+[00:39:49] (NAVIGATION) Distance to target location: 140.35 meters. Will take 18.04 seconds driving at 28kmh
+[00:40:04] (INFO) Found 1 catchable Pokemon
+[00:40:06] (Wild Success) | Staryu 121 V |  234 Cp | 47.58% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
