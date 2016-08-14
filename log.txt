@@ -28480,3 +28480,10 @@
 [12:15:16] (NAVIGATION) Distance to target location: 86.65 meters. Will take 11.14 seconds driving at 28kmh
 [12:15:21] (INFO) Found 1 catchable Pokemon
 [12:15:23] (Wild Success) | Pidgey 122 V |  134 Cp | 53.92% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[12:15:25] (INFO) Found 1 pokemon to transfer...
+[12:15:26] (TRANSFER) Pidgey 122 V |  134 Cp | 53.92% | Lvl 08 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1158
+[12:15:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[12:15:31] (POKESTOP) RSYC Childrens Playground in 696.54 m distance
+[12:15:31] (NAVIGATION) Distance to target location: 696.54 meters. Will take 35.82 seconds driving at 70kmh
+[12:15:35] (INFO) Found 1 catchable Pokemon
+[12:15:36] (Wild Success) | Venonat 117 V |   41 Cp | 58.38% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
