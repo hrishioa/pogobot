@@ -43919,3 +43919,22 @@
 [02:21:08] (NAVIGATION) Distance to target location: 113.71 meters. Will take 14.12 seconds driving at 29kmh
 [02:21:12] (INFO) Found 1 catchable Pokemon
 [02:21:14] (Wild Success) | NidoranFemale 123 V |  130 Cp | 58.50% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[02:21:16] (INFO) Found 1 pokemon to transfer...
+[02:21:18] (TRANSFER) NidoranFemale 123 V |  130 Cp | 58.50% | Lvl 06 | Best: [NidoranFemale 165 V |  397 Cp | 50.44% | Lvl 18] | Candy: 69
+[02:21:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:21:22] (INFO) Found 2 Recyclable Items:
+[02:21:22] (RECYCLING) PokeBall x 8
+[02:21:24] (RECYCLING) Potion x 2
+[02:21:26] (POKESTOP) Siloso West Washroom in 86.02 m distance
+[02:21:26] (NAVIGATION) Distance to target location: 86.02 meters. Will take 10.32 seconds driving at 30kmh
+[02:21:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[02:21:37] (POKESTOP) Siloso trapizza Children's castle in 103.5 m distance
+[02:21:37] (NAVIGATION) Distance to target location: 103.5 meters. Will take 12.42 seconds driving at 30kmh
+[02:21:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemUltraBall
+[02:21:49] (POKESTOP) Siloso Beach in 98.08 m distance
+[02:21:49] (NAVIGATION) Distance to target location: 98.08 meters. Will take 11.03 seconds driving at 32kmh
+[02:21:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[02:22:00] (POKESTOP) 3 Cycle Wheels in 112.84 m distance
+[02:22:00] (NAVIGATION) Distance to target location: 112.84 meters. Will take 14.51 seconds driving at 28kmh
+[02:22:08] (INFO) Found 1 catchable Pokemon
+[02:22:09] (Wild Success) | Rhyhorn 161 V |  475 Cp | 70.78% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
