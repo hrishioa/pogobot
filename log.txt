@@ -30928,3 +30928,14 @@
 [13:50:24] (NAVIGATION) Distance to target location: 76.94 meters. Will take 8.93 seconds driving at 31kmh
 [13:50:30] (INFO) Found 1 catchable Pokemon
 [13:50:32] (Wild Success) | Poliwag 113 V |  171 Cp | 37.47% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[13:50:34] (INFO) Found 1 pokemon to transfer...
+[13:50:35] (TRANSFER) Poliwag 113 V |  171 Cp | 37.47% | Lvl 09 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 208
+[13:50:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemGreatBall
+[13:50:37] (INFO) Found 2 Recyclable Items:
+[13:50:38] (RECYCLING) PokeBall x 8
+[13:50:38] (RECYCLING) Revive x 1
+[13:50:41] (POKESTOP) Clementi West Street 1 Circle in 111.22 m distance
+[13:50:41] (NAVIGATION) Distance to target location: 111.22 meters. Will take 14.3 seconds driving at 28kmh
+[13:50:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[13:50:54] (INFO) Found 1 catchable Pokemon
+[13:50:56] (Wild Success) | Magikarp 90 V |   91 Cp | 56.41% | Lvl 15 | Chance: 0.54 | with a PokeBall and received XP 210
