@@ -30056,3 +30056,20 @@
 [13:20:52] (INFO) Found 1 catchable Pokemon
 [13:20:53] (BERRY) ItemRazzBerry used, remaining: 49
 [13:20:55] (Wild Success) | Eevee 182 V |  542 Cp | 66.48% | Lvl 19 | Chance: 0.27 | with a UltraBall and received XP 210
+[13:20:56] (INFO) Found 1 pokemon to transfer...
+[13:20:58] (TRANSFER) Eevee 182 V |  542 Cp | 66.48% | Lvl 19 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 96
+[13:21:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[13:21:12] (INFO) Found 4 Recyclable Items:
+[13:21:12] (RECYCLING) PokeBall x 6
+[13:21:14] (RECYCLING) Potion x 1
+[13:21:14] (RECYCLING) SuperPotion x 1
+[13:21:15] (RECYCLING) Revive x 2
+[13:21:18] (POKESTOP) Republic of Singapore Yacht Club Entrance in 117.37 m distance
+[13:21:18] (NAVIGATION) Distance to target location: 117.37 meters. Will take 14.57 seconds driving at 29kmh
+[13:21:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:21:31] (INFO) Found 5 Pokestops
+[13:21:33] (POKESTOP) Focusing Coils in 319.01 m distance
+[13:21:33] (NAVIGATION) Distance to target location: 319.01 meters. Will take 19.8 seconds driving at 58kmh
+[13:21:44] (INFO) Found 1 catchable Pokemon
+[13:21:45] (BERRY) ItemRazzBerry used, remaining: 48
+[13:21:46] (Wild Success) | Bellsprout 149 V |  610 Cp | 23.23% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
