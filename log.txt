@@ -37029,3 +37029,106 @@
 [22:44:08] (TRANSFER) Mankey 125 V |   10 Cp | 48.81% | Lvl 01 | Best: [Mankey 141 V |  158 Cp | 67.79% | Lvl 07] | Candy: 21
 [22:44:09] (INFO) Found 1 catchable Pokemon
 [22:44:11] (Wild Success) | Voltorb 175 V |   61 Cp | 92.10% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[22:44:12] (INFO) Found 1 pokemon to transfer...
+[22:44:14] (TRANSFER) Voltorb 175 V |   61 Cp | 92.10% | Lvl 03 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 21
+[22:44:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:44:18] (POKESTOP) Arid Garden in 48.46 m distance
+[22:44:18] (NAVIGATION) Distance to target location: 48.46 meters. Will take 5.45 seconds driving at 32kmh
+[22:44:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[22:44:23] (INFO) Found 2 Recyclable Items:
+[22:44:23] (RECYCLING) PokeBall x 6
+[22:44:25] (RECYCLING) Revive x 2
+[22:44:27] (POKESTOP) Southern Most Point Of Continental Asia  in 78.5 m distance
+[22:44:27] (NAVIGATION) Distance to target location: 78.5 meters. Will take 9.42 seconds driving at 30kmh
+[22:44:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[22:44:36] (INFO) Found 36 Pokestops
+[22:44:37] (POKESTOP) Palawan Beach Map in 94.9 m distance
+[22:44:37] (NAVIGATION) Distance to target location: 94.9 meters. Will take 11.02 seconds driving at 31kmh
+[22:44:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemRazzBerry
+[22:44:47] ====== User Info ======
+[22:44:47] Name: toonistic2
+[22:44:47] Team: Neutral
+[22:44:47] Level: 23 (LvLUp in 1h 27m | 42395/125000 XP)
+[22:44:47] Pokemon: 127
+[22:44:47] Stardust: 24050
+[22:44:47] ====== Items (346) ======
+[22:44:47] RazzBerry x 45
+[22:44:47] PokeBall x 51
+[22:44:47] GreatBall x 39
+[22:44:47] UltraBall x 12
+[22:44:47] Potion x 30
+[22:44:47] SuperPotion x 50
+[22:44:47] HyperPotion x 76
+[22:44:47] IncubatorBasicUnlimited x 1
+[22:44:47] IncubatorBasic x 4
+[22:44:47] Revive x 25
+[22:44:47] IncenseOrdinary x 8
+[22:44:47] LuckyEgg x 0
+[22:44:47] TroyDisk x 5
+[22:44:47] ====== Most Valuable ======
+[22:44:47] Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
+[22:44:47] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[22:44:47] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
+[22:44:47] Electrode           254 True Value | 1031 Cp | 73.67% Perfect | Lvl 23 | Spark/Thunderbolt
+[22:44:47] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[22:44:47] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
+[22:44:47] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
+[22:44:47] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
+[22:44:47] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[22:44:47] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[22:44:47] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
+[22:44:47] Tangela             232 True Value |  717 Cp | 78.48% Perfect | Lvl 15 | VineWhip/SolarBeam
+[22:44:47] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[22:44:47] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[22:44:47] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[22:44:47] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
+[22:44:47] Raticate            210 True Value |  348 Cp | 69.86% Perfect | Lvl 09 | Bite/HyperBeam
+[22:44:47] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[22:44:47] Persian             205 True Value |  731 Cp | 56.63% Perfect | Lvl 17 | FeintAttack/PlayRough
+[22:44:47] Clefairy            205 True Value |  657 Cp | 79.46% Perfect | Lvl 20 | ZenHeadbutt/DisarmingVoice
+[22:44:47] ====== Highest CP ======
+[22:44:47] Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
+[22:44:47] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
+[22:44:47] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
+[22:44:47] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
+[22:44:47] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
+[22:44:47] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[22:44:47] Electrode           254 True Value | 1031 Cp | 73.67% Perfect | Lvl 23 | Spark/Thunderbolt
+[22:44:47] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
+[22:44:47] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[22:44:47] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[22:44:47] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[22:44:47] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[22:44:47] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
+[22:44:47] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[22:44:47] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[22:44:47] Persian             205 True Value |  731 Cp | 56.63% Perfect | Lvl 17 | FeintAttack/PlayRough
+[22:44:47] Tangela             232 True Value |  717 Cp | 78.48% Perfect | Lvl 15 | VineWhip/SolarBeam
+[22:44:47] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
+[22:44:47] Clefairy            205 True Value |  657 Cp | 79.46% Perfect | Lvl 20 | ZenHeadbutt/DisarmingVoice
+[22:44:47] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[22:44:47] ====== Most Perfect Genetics ======
+[22:44:47] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[22:44:47] Vulpix              171 True Value |   86 Cp | 96.64% Perfect | Lvl 04 | Ember/Flamethrower
+[22:44:47] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[22:44:47] Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
+[22:44:47] Pidgey              179 True Value |  339 Cp | 89.62% Perfect | Lvl 18 | Tackle/AerialAce
+[22:44:47] Goldeen             185 True Value |  240 Cp | 89.32% Perfect | Lvl 09 | MudShot/AquaTail
+[22:44:47] Onix                162 True Value |  112 Cp | 89.31% Perfect | Lvl 05 | RockThrow/RockSlide
+[22:44:47] Sandshrew           150 True Value |   57 Cp | 86.77% Perfect | Lvl 03 | Scratch/RockSlide
+[22:44:47] Gloom               169 True Value |  122 Cp | 85.14% Perfect | Lvl 03 | RazorLeaf/SludgeBomb
+[22:44:47] Voltorb             199 True Value |  439 Cp | 84.92% Perfect | Lvl 19 | Tackle/Thunderbolt
+[22:44:47] Paras               172 True Value |  225 Cp | 84.67% Perfect | Lvl 09 | BugBite/CrossPoison
+[22:44:47] Staryu              188 True Value |  515 Cp | 83.98% Perfect | Lvl 20 | QuickAttack/BubbleBeam
+[22:44:47] Seel                151 True Value |  273 Cp | 83.59% Perfect | Lvl 09 | WaterGun/AquaJet
+[22:44:47] Horsea              162 True Value |  194 Cp | 83.45% Perfect | Lvl 09 | WaterGun/FlashCannon
+[22:44:47] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[22:44:47] Parasect            186 True Value |  228 Cp | 82.90% Perfect | Lvl 05 | FuryCutter/SolarBeam
+[22:44:47] Charmander          189 True Value |  523 Cp | 82.47% Perfect | Lvl 20 | Ember/FlameBurst
+[22:44:47] Zubat               182 True Value |  349 Cp | 82.29% Perfect | Lvl 20 | QuickAttack/SludgeBomb
+[22:44:47] Krabby              163 True Value |  345 Cp | 82.06% Perfect | Lvl 16 | Bubble/ViceGrip
+[22:44:47] Magikarp            121 True Value |  138 Cp | 82.05% Perfect | Lvl 20 | Splash/Struggle
+[22:44:49] (POKESTOP) Bikini Lady with Hat in 107.29 m distance
+[22:44:49] (NAVIGATION) Distance to target location: 107.29 meters. Will take 12.87 seconds driving at 30kmh
+[22:44:56] (INFO) Found 1 catchable Pokemon
+[22:44:58] (Wild Success) | Magikarp 103 V |   31 Cp | 75.24% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
