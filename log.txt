@@ -23787,3 +23787,4 @@
 [09:18:37] (NAVIGATION) Distance to target location: 261.95 meters. Will take 19.65 seconds driving at 48kmh
 [09:18:50] (INFO) Found 2 catchable Pokemon
 [09:18:51] (Wild Success) | Exeggcute 189 V |  337 Cp | 89.51% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[09:18:54] (Wild Success) | Paras 139 V |   88 Cp | 65.32% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
