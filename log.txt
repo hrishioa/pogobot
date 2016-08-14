@@ -37606,3 +37606,4 @@
 [23:01:06] (NAVIGATION) Distance to target location: 248.7 meters. Will take 19.9 seconds driving at 45kmh
 [23:01:16] (INFO) Found 2 catchable Pokemon
 [23:01:19] (Wild Success) | Shellder 128 V |  301 Cp | 42.94% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[23:01:20] (Wild Success) | Rattata 105 V |   21 Cp | 36.40% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
