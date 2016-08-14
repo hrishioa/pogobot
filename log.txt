@@ -41623,3 +41623,11 @@
 [01:11:45] (INFO) Found 1 catchable Pokemon
 [01:11:47] (BERRY) ItemRazzBerry used, remaining: 50
 [01:11:48] (Wild Success) | Ponyta 209 V |  871 Cp | 77.45% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
+[01:11:50] (INFO) Found 1 pokemon to transfer...
+[01:11:51] (TRANSFER) Ponyta 207 V |  790 Cp | 53.00% | Lvl 20 | Best: [Ponyta 226 V |  925 Cp | 84.33% | Lvl 22] | Candy: 22
+[01:11:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:11:55] (POKESTOP) Sentosa Nature Discovery Centre in 121.47 m distance
+[01:11:55] (NAVIGATION) Distance to target location: 121.47 meters. Will take 14.11 seconds driving at 31kmh
+[01:12:05] (INFO) Found 1 catchable Pokemon
+[01:12:06] (BERRY) ItemRazzBerry used, remaining: 49
+[01:12:07] (Wild Success) | Poliwag 160 V |  469 Cp | 43.86% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
