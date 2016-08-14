@@ -23184,3 +23184,10 @@
 [08:59:08] (NAVIGATION) Distance to target location: 582.84 meters. Will take 29.97 seconds driving at 70kmh
 [08:59:21] (INFO) Found 1 catchable Pokemon
 [08:59:22] (Wild Success) | Pidgey 103 V |  192 Cp | 34.24% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[08:59:24] (INFO) Found 1 pokemon to transfer...
+[08:59:26] (TRANSFER) Pidgey 103 V |  192 Cp | 34.24% | Lvl 12 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1067
+[08:59:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:59:40] (POKESTOP) Tree Mural in 51.44 m distance
+[08:59:40] (NAVIGATION) Distance to target location: 51.44 meters. Will take 5.79 seconds driving at 32kmh
+[08:59:41] (INFO) Found 1 catchable Pokemon
+[08:59:42] (Wild Success) | Machop 139 V |  224 Cp | 59.94% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
