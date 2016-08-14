@@ -31245,3 +31245,21 @@
 [14:01:49] (TRANSFER) Weedle 105 V |  161 Cp | 33.79% | Lvl 16 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 551
 [14:01:50] (INFO) Found 1 catchable Pokemon
 [14:01:52] (Wild Success) | Weedle 105 V |   49 Cp | 44.55% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[14:01:53] (INFO) Found 1 pokemon to transfer...
+[14:01:55] (TRANSFER) Weedle 105 V |   49 Cp | 44.55% | Lvl 05 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 555
+[14:01:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[14:01:59] (INFO) Found 3 Recyclable Items:
+[14:02:00] (RECYCLING) RazzBerry x 1
+[14:02:01] (RECYCLING) PokeBall x 9
+[14:02:02] (RECYCLING) Potion x 1
+[14:02:04] (INFO) Found 53 Pokestops
+[14:02:05] (POKESTOP) The Mermaid Mural in 58 m distance
+[14:02:05] (NAVIGATION) Distance to target location: 58 meters. Will take 6.96 seconds driving at 30kmh
+[14:02:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[14:02:12] (POKESTOP) Playground at Block 714 in 29.06 m distance
+[14:02:12] (NAVIGATION) Distance to target location: 29.06 meters. Will take 3.27 seconds driving at 32kmh
+[14:02:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[14:02:16] (POKESTOP) Three Portals Make A Field in 162.66 m distance
+[14:02:16] (NAVIGATION) Distance to target location: 162.66 meters. Will take 19.52 seconds driving at 30kmh
+[14:02:24] (INFO) Found 1 catchable Pokemon
+[14:02:26] (Wild Success) | Pidgey 92 V |   74 Cp | 30.12% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
