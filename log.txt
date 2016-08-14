@@ -45769,3 +45769,13 @@
 [03:20:58] (NAVIGATION) Distance to target location: 102.79 meters. Will take 11.56 seconds driving at 32kmh
 [03:21:00] (INFO) Found 1 catchable Pokemon
 [03:21:01] (Wild Success) | Pidgey 112 V |  130 Cp | 44.14% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[03:21:03] (INFO) Found 1 pokemon to transfer...
+[03:21:04] (TRANSFER) Pidgey 112 V |  130 Cp | 44.14% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 804
+[03:21:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[03:21:10] (POKESTOP) Telok Blangah Community Club in 152.43 m distance
+[03:21:10] (NAVIGATION) Distance to target location: 152.43 meters. Will take 17.7 seconds driving at 31kmh
+[03:21:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[03:21:28] (POKESTOP) Block 74 Playground in 87.62 m distance
+[03:21:28] (NAVIGATION) Distance to target location: 87.62 meters. Will take 10.88 seconds driving at 29kmh
+[03:21:33] (INFO) Found 1 catchable Pokemon
+[03:21:34] (Wild Success) | Spearow 146 V |  313 Cp | 58.34% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
