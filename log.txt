@@ -36867,3 +36867,16 @@
 [22:36:24] (INFO) Found 2 catchable Pokemon
 [22:36:26] (Wild Success) | Machop 138 V |  255 Cp | 61.89% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 710
 [22:36:28] (Wild Success) | Magikarp 105 V |   32 Cp | 77.19% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
+[22:36:29] (INFO) Found 1 pokemon to transfer...
+[22:36:31] (TRANSFER) Magikarp 105 V |   32 Cp | 77.19% | Lvl 05 | Best: [Magikarp 121 V |  138 Cp | 82.05% | Lvl 20] | Candy: 201
+[22:36:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:36:34] (INFO) Found 4 Recyclable Items:
+[22:36:35] (RECYCLING) PokeBall x 2
+[22:36:36] (RECYCLING) Potion x 2
+[22:36:36] (RECYCLING) HyperPotion x 1
+[22:36:37] (RECYCLING) Revive x 3
+[22:36:40] (POKESTOP) Tu Tank Hamen Statue in 56.4 m distance
+[22:36:40] (NAVIGATION) Distance to target location: 56.4 meters. Will take 6.55 seconds driving at 31kmh
+[22:36:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:36:46] (INFO) Found 1 catchable Pokemon
+[22:36:47] (Wild Success) | Pikachu 102 V |  120 Cp | 25.01% | Lvl 06 | Chance: 0.24 | with a GreatBall and received XP 710
