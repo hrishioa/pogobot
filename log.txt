@@ -43728,3 +43728,4 @@
 [02:13:03] (NAVIGATION) Distance to target location: 164.46 meters. Will take 19.1 seconds driving at 31kmh
 [02:13:16] (INFO) Found 3 catchable Pokemon
 [02:13:18] (Wild Success) | Krabby 137 V |   78 Cp | 77.16% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[02:13:19] (Wild Success) | Psyduck 171 V |  311 Cp | 50.39% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
