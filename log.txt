@@ -37879,3 +37879,10 @@
 [23:10:05] (NAVIGATION) Distance to target location: 248.7 meters. Will take 19.9 seconds driving at 45kmh
 [23:10:16] (INFO) Found 1 catchable Pokemon
 [23:10:18] (Wild Success) | Rattata 84 V |   19 Cp | 16.67% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[23:10:19] (INFO) Found 1 pokemon to transfer...
+[23:10:21] (TRANSFER) Rattata 84 V |   19 Cp | 16.67% | Lvl 02 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 332
+[23:10:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[23:10:25] (POKESTOP) Cove Gazebo #3 in 244.1 m distance
+[23:10:25] (NAVIGATION) Distance to target location: 244.1 meters. Will take 19.97 seconds driving at 44kmh
+[23:10:29] (INFO) Found 1 catchable Pokemon
+[23:10:31] (Wild Success) | Tentacool 98 V |  310 Cp | 39.70% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
