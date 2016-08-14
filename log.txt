@@ -44487,3 +44487,9 @@
 [02:36:53] (INFO) Found 2 catchable Pokemon
 [02:36:55] (Wild Success) | Oddish 179 V |  485 Cp | 64.17% | Lvl 16 | Chance: 0.44 | with a GreatBall and received XP 210
 [02:36:56] (Wild Success) | Sandshrew 131 V |  348 Cp | 38.56% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[02:36:58] (INFO) Found 2 pokemon to transfer...
+[02:36:59] (TRANSFER) Oddish 160 V |  439 Cp | 49.07% | Lvl 15 | Best: [Oddish 193 V |  609 Cp | 66.69% | Lvl 20] | Candy: 41
+[02:37:02] (TRANSFER) Sandshrew 131 V |  348 Cp | 38.56% | Lvl 18 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 70
+[02:37:03] (INFO) Found 1 catchable Pokemon
+[02:37:04] (BERRY) ItemRazzBerry used, remaining: 44
+[02:37:05] (Wild Success) | Raticate 167 V |  615 Cp | 35.02% | Lvl 17 | Chance: 0.14 | with a UltraBall and received XP 210
