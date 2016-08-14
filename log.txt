@@ -30706,3 +30706,10 @@
 [13:43:23] (INFO) Found 1 catchable Pokemon
 [13:43:24] (BERRY) ItemRazzBerry used, remaining: 49
 [13:43:25] (Wild Success) | Paras 184 V |  529 Cp | 65.63% | Lvl 22 | Chance: 0.25 | with a GreatBall and received XP 210
+[13:43:27] (INFO) Found 1 pokemon to transfer...
+[13:43:28] (TRANSFER) Paras 184 V |  529 Cp | 65.63% | Lvl 22 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 138
+[13:43:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:43:31] (POKESTOP) Wall Water Fountain in 56.62 m distance
+[13:43:31] (NAVIGATION) Distance to target location: 56.62 meters. Will take 7.03 seconds driving at 29kmh
+[13:43:36] (INFO) Found 1 catchable Pokemon
+[13:43:38] (Wild Success) | Magikarp 107 V |  130 Cp | 69.45% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
