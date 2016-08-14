@@ -22606,3 +22606,11 @@
 [08:39:53] (TRANSFER) Zubat 119 V |  234 Cp | 46.50% | Lvl 15 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 738
 [08:39:54] (INFO) Found 1 catchable Pokemon
 [08:39:55] (Wild Success) | Jigglypuff 127 V |   35 Cp | 47.65% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[08:39:57] (INFO) Found 1 pokemon to transfer...
+[08:39:59] (TRANSFER) Jigglypuff 127 V |   35 Cp | 47.65% | Lvl 02 | Best: [Jigglypuff 144 V |  158 Cp | 55.79% | Lvl 07] | Candy: 43
+[08:40:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[08:40:19] (POKESTOP) SUTD Blue Wall Mural in 33.18 m distance
+[08:40:19] (NAVIGATION) Distance to target location: 33.18 meters. Will take 3.85 seconds driving at 31kmh
+[08:40:21] (INFO) Found 1 catchable Pokemon
+[08:40:22] (BERRY) ItemRazzBerry used, remaining: 50
+[08:40:23] (Wild Success) | Spearow 155 V |  424 Cp | 63.26% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
