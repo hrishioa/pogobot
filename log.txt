@@ -33783,3 +33783,15 @@
 [20:48:35] (NAVIGATION) Distance to target location: 96.77 meters. Will take 11.61 seconds driving at 30kmh
 [20:48:41] (INFO) Found 1 catchable Pokemon
 [20:48:43] (Wild Success) | Metapod 79 V |  220 Cp | 7.24% | Lvl 23 | Chance: 0.15 | with a UltraBall and received XP 420
+[20:48:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:48:48] (POKESTOP) Leaves Pattern on the Floor in 116.05 m distance
+[20:48:48] (NAVIGATION) Distance to target location: 116.05 meters. Will take 13.06 seconds driving at 32kmh
+[20:48:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:49:03] (POKESTOP) Sp Art Gallery in 143.1 m distance
+[20:49:03] (NAVIGATION) Distance to target location: 143.1 meters. Will take 18.4 seconds driving at 28kmh
+[20:49:19] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:49:21] (POKESTOP) Medway Park in 168.73 m distance
+[20:49:21] (NAVIGATION) Distance to target location: 168.73 meters. Will take 18.98 seconds driving at 32kmh
+[20:49:22] (INFO) Found 1 catchable Pokemon
+[20:49:23] (BERRY) ItemRazzBerry used, remaining: 40
+[20:49:24] (Wild Success) | Spearow 148 V |  376 Cp | 52.55% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
