@@ -30073,3 +30073,21 @@
 [13:21:44] (INFO) Found 1 catchable Pokemon
 [13:21:45] (BERRY) ItemRazzBerry used, remaining: 48
 [13:21:46] (Wild Success) | Bellsprout 149 V |  610 Cp | 23.23% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[13:21:48] (INFO) Found 1 pokemon to transfer...
+[13:21:49] (TRANSFER) Bellsprout 149 V |  610 Cp | 23.23% | Lvl 23 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 328
+[13:21:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[13:21:54] (POKESTOP) West Coast Park in 204.32 m distance
+[13:21:54] (NAVIGATION) Distance to target location: 204.32 meters. Will take 19.88 seconds driving at 37kmh
+[13:22:22] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[13:22:22] (ATTENTION) Restarting the application due to error...
+[13:22:22] (INFO) Logging in via: Google
+[13:22:23] (INFO) Client logged in
+[13:22:23] (INFO) Found 22 Pokestops
+[13:22:24] (POKESTOP) West Coast Park in 20.15 m distance
+[13:22:24] (NAVIGATION) Distance to target location: 20.15 meters. Will take 2.42 seconds driving at 30kmh
+[13:22:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:22:28] (POKESTOP) Pendulum White Shelter in 98.75 m distance
+[13:22:28] (NAVIGATION) Distance to target location: 98.75 meters. Will take 11.11 seconds driving at 32kmh
+[13:22:30] (INFO) Found 1 catchable Pokemon
+[13:22:31] (BERRY) ItemRazzBerry used, remaining: 47
+[13:22:32] (Wild Success) | Ekans 102 V |  482 Cp | 27.29% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
