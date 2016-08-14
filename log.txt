@@ -28766,3 +28766,7 @@
 [12:25:24] (INFO) Found 1 catchable Pokemon
 [12:25:25] (BERRY) ItemRazzBerry used, remaining: 50
 [12:25:26] (Wild Success) | Rattata 145 V |  352 Cp | 47.54% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
+[12:25:28] (INFO) Found 1 pokemon to transfer...
+[12:25:29] (TRANSFER) Rattata 145 V |  352 Cp | 47.54% | Lvl 25 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 657
+[12:25:30] (INFO) Found 1 catchable Pokemon
+[12:25:32] (Wild Success) | Rattata 121 V |  154 Cp | 46.18% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
