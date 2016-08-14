@@ -41798,3 +41798,20 @@
 [01:18:05] (NAVIGATION) Distance to target location: 44.29 meters. Will take 5.14 seconds driving at 31kmh
 [01:18:08] (INFO) Found 1 catchable Pokemon
 [01:18:10] (Wild Success) | Krabby 115 V |   94 Cp | 54.40% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[01:18:11] (EGG) Hatched egg! Zubat               160 True Value |  342 Cp | 75.62% Perfect | Lvl 20 | QuickAttack/AirCutter
+[01:18:12] (EGG) Added 2km egg to incubator
+[01:18:13] (INFO) Found 2 pokemon to transfer...
+[01:18:14] (TRANSFER) Krabby 115 V |   94 Cp | 54.40% | Lvl 05 | Best: [Krabby 170 V |  320 Cp | 78.72% | Lvl 15] | Candy: 158
+[01:18:16] (TRANSFER) Zubat 160 V |  342 Cp | 75.62% | Lvl 20 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 700
+[01:18:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 3 x ItemPokeBall
+[01:18:19] (POKESTOP) Universal Studios Store in 95.74 m distance
+[01:18:19] (NAVIGATION) Distance to target location: 95.74 meters. Will take 11.49 seconds driving at 30kmh
+[01:18:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:18:30] (POKESTOP) Bronze Film Director Sculpture in 68.69 m distance
+[01:18:30] (NAVIGATION) Distance to target location: 68.69 meters. Will take 7.73 seconds driving at 32kmh
+[01:18:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:18:38] (INFO) Found 2 Recyclable Items:
+[01:18:38] (RECYCLING) PokeBall x 8
+[01:18:39] (RECYCLING) Potion x 1
+[01:18:42] (INFO) Found 2 catchable Pokemon
+[01:18:43] (Wild Success) | Magnemite 84 V |   54 Cp | 29.12% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
