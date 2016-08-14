@@ -37146,3 +37146,4 @@
 [22:45:17] (NAVIGATION) Distance to target location: 103.75 meters. Will take 12.88 seconds driving at 29kmh
 [22:45:23] (INFO) Found 2 catchable Pokemon
 [22:45:25] (Wild Success) | Bellsprout 174 V |  304 Cp | 79.12% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[22:45:27] (Wild Success) | Abra 147 V |  321 Cp | 37.53% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
