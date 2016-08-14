@@ -28373,3 +28373,4 @@
 [12:11:39] (TRANSFER) Weedle 79 V |   44 Cp | 19.92% | Lvl 05 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 496
 [12:11:40] (INFO) Found 2 catchable Pokemon
 [12:11:42] (Wild Success) | Zubat 130 V |  182 Cp | 36.82% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[12:11:44] (Wild Success) | Pidgey 119 V |  201 Cp | 48.59% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
