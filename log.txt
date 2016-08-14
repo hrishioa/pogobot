@@ -38137,3 +38137,4 @@
 [23:20:44] (TRANSFER) Tentacool 88 V |  353 Cp | 38.72% | Lvl 16 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 37
 [23:20:45] (INFO) Found 2 catchable Pokemon
 [23:20:47] (Wild Success) | Magikarp 93 V |   87 Cp | 59.44% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
+[23:20:48] (Wild Success) | Rhyhorn 113 V |   47 Cp | 55.76% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 710
