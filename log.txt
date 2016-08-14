@@ -33621,3 +33621,16 @@
 [20:40:36] (NAVIGATION) Distance to target location: 75.06 meters. Will take 8.44 seconds driving at 32kmh
 [20:40:42] (INFO) Found 1 catchable Pokemon
 [20:40:43] (Wild Success) | Staryu 149 V |  430 Cp | 55.73% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
+[20:40:45] (INFO) Found 1 pokemon to transfer...
+[20:40:47] (TRANSFER) Staryu 149 V |  430 Cp | 55.73% | Lvl 18 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 122
+[20:40:50] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:40:53] (POKESTOP) NUS Central Library in 80.73 m distance
+[20:40:53] (NAVIGATION) Distance to target location: 80.73 meters. Will take 9.69 seconds driving at 30kmh
+[20:41:00] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:41:02] (POKESTOP) Chinese Women Painting in 44.11 m distance
+[20:41:02] (NAVIGATION) Distance to target location: 44.11 meters. Will take 4.96 seconds driving at 32kmh
+[20:41:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:41:07] (POKESTOP) Water Tank in 442.81 m distance
+[20:41:07] (NAVIGATION) Distance to target location: 442.81 meters. Will take 22.77 seconds driving at 70kmh
+[20:41:09] (INFO) Found 1 catchable Pokemon
+[20:41:11] (Wild Success) | Poliwag 144 V |  357 Cp | 48.96% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
