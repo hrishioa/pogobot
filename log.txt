@@ -35219,3 +35219,13 @@
 [21:33:27] (NAVIGATION) Distance to target location: 92.96 meters. Will take 11.54 seconds driving at 29kmh
 [21:33:31] (INFO) Found 1 catchable Pokemon
 [21:33:33] (Wild Success) | Weedle 65 V |   15 Cp | 31.40% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[21:33:35] (INFO) Found 1 pokemon to transfer...
+[21:33:36] (TRANSFER) Weedle 65 V |   15 Cp | 31.40% | Lvl 02 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 599
+[21:33:40] (POKESTOP) NUS Central Library in 47.63 m distance
+[21:33:40] (NAVIGATION) Distance to target location: 47.63 meters. Will take 5.36 seconds driving at 32kmh
+[21:33:45] (POKESTOP) Survival Mask in 41.06 m distance
+[21:33:45] (NAVIGATION) Distance to target location: 41.06 meters. Will take 4.93 seconds driving at 30kmh
+[21:33:50] (POKESTOP) Lucy's Left Ear in 60.61 m distance
+[21:33:50] (NAVIGATION) Distance to target location: 60.61 meters. Will take 7.52 seconds driving at 29kmh
+[21:33:52] (INFO) Found 2 catchable Pokemon
+[21:33:54] (Wild Success) | Zubat 116 V |   24 Cp | 48.63% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
