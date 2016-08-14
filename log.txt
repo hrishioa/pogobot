@@ -44755,3 +44755,13 @@
 [02:44:19] (INFO) Found 1 catchable Pokemon
 [02:44:20] (BERRY) ItemRazzBerry used, remaining: 48
 [02:44:20] (Wild Success) | Gastly 143 V |  432 Cp | 44.59% | Lvl 22 | Chance: 0.25 | with a GreatBall and received XP 210
+[02:44:22] (INFO) Found 2 pokemon to transfer...
+[02:44:24] (TRANSFER) Ponyta 209 V |  871 Cp | 77.45% | Lvl 21 | Best: [Ponyta 226 V |  925 Cp | 84.33% | Lvl 22] | Candy: 45
+[02:44:26] (TRANSFER) Gastly 115 V |  133 Cp | 41.90% | Lvl 07 | Best: [Gastly 143 V |  432 Cp | 44.59% | Lvl 22] | Candy: 14
+[02:44:27] (POKESTOP) The Dragon Hut in 209.21 m distance
+[02:44:27] (NAVIGATION) Distance to target location: 209.21 meters. Will take 19.82 seconds driving at 38kmh
+[02:44:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemHyperPotion
+[02:44:47] (POKESTOP) Siloso Light Source  in 181.18 m distance
+[02:44:47] (NAVIGATION) Distance to target location: 181.18 meters. Will take 19.77 seconds driving at 33kmh
+[02:45:01] (INFO) Found 1 catchable Pokemon
+[02:45:03] (Wild Success) | Pidgey 82 V |   10 Cp | 36.13% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
