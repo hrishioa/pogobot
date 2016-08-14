@@ -36954,3 +36954,8 @@
 [22:40:24] (INFO) Found 2 catchable Pokemon
 [22:40:26] (Wild Success) | Magnemite 119 V |   10 Cp | 45.71% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [22:40:28] (Wild Success) | Rattata 127 V |  166 Cp | 42.62% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[22:40:30] (INFO) Found 2 pokemon to transfer...
+[22:40:31] (TRANSFER) Rattata 127 V |  166 Cp | 42.62% | Lvl 12 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 300
+[22:40:33] (TRANSFER) Magnemite 119 V |   10 Cp | 45.71% | Lvl 01 | Best: [Magnemite 148 V |  459 Cp | 29.70% | Lvl 22] | Candy: 18
+[22:40:35] (INFO) Found 1 catchable Pokemon
+[22:40:36] (Wild Success) | Shellder 113 V |  160 Cp | 46.77% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
