@@ -34095,3 +34095,18 @@
 [20:59:46] (INFO) Found 1 catchable Pokemon
 [20:59:47] (BERRY) ItemRazzBerry used, remaining: 39
 [20:59:48] (Wild Success) | Zubat 158 V |  361 Cp | 61.70% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[20:59:50] (INFO) Found 1 pokemon to transfer...
+[20:59:51] (TRANSFER) Zubat 158 V |  361 Cp | 61.70% | Lvl 22 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 656
+[20:59:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[20:59:56] (INFO) Found 1 Recyclable Item:
+[20:59:56] (RECYCLING) Potion x 2
+[20:59:59] (POKESTOP) A Spring Of Gratitude  in 48.5 m distance
+[20:59:59] (NAVIGATION) Distance to target location: 48.5 meters. Will take 6.24 seconds driving at 28kmh
+[21:00:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[21:00:05] (POKESTOP) Survival (Rocker) in 95.8 m distance
+[21:00:05] (NAVIGATION) Distance to target location: 95.8 meters. Will take 12.32 seconds driving at 28kmh
+[21:00:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[21:00:16] (POKESTOP) Saying By The Founder in 157.25 m distance
+[21:00:16] (NAVIGATION) Distance to target location: 157.25 meters. Will take 18.26 seconds driving at 31kmh
+[21:00:19] (INFO) Found 1 catchable Pokemon
+[21:00:21] (Wild Success) | Koffing 154 V |  394 Cp | 63.14% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
