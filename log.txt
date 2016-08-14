@@ -22579,3 +22579,16 @@
 [08:38:50] (INFO) Found 2 catchable Pokemon
 [08:38:51] (Wild Success) | Goldeen 147 V |  296 Cp | 54.88% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [08:38:53] (Wild Success) | Jigglypuff 139 V |  183 Cp | 55.79% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[08:38:55] (INFO) Found 2 pokemon to transfer...
+[08:38:56] (TRANSFER) Jigglypuff 134 V |  130 Cp | 45.54% | Lvl 06 | Best: [Jigglypuff 144 V |  158 Cp | 55.79% | Lvl 07] | Candy: 39
+[08:38:59] (TRANSFER) Goldeen 147 V |  296 Cp | 54.88% | Lvl 12 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 186
+[08:39:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:39:02] (INFO) Found 4 Recyclable Items:
+[08:39:02] (RECYCLING) RazzBerry x 2
+[08:39:03] (RECYCLING) PokeBall x 5
+[08:39:05] (RECYCLING) SuperPotion x 1
+[08:39:05] (RECYCLING) Revive x 2
+[08:39:08] (POKESTOP) Hope Sculpture in 405.85 m distance
+[08:39:08] (NAVIGATION) Distance to target location: 405.85 meters. Will take 20.87 seconds driving at 70kmh
+[08:39:21] (INFO) Found 1 catchable Pokemon
+[08:39:22] (Wild Success) | Staryu 144 V |  309 Cp | 53.43% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
