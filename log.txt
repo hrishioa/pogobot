@@ -23386,3 +23386,77 @@
 [09:04:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
 [09:04:36] (INFO) Found 1 catchable Pokemon
 [09:04:38] (Wild Success) | Eevee 154 V |  196 Cp | 69.41% | Lvl 07 | Chance: 0.45 | with a GreatBall and received XP 210
+[09:04:39] (INFO) Found 1 pokemon to transfer...
+[09:04:41] (TRANSFER) Eevee 154 V |  196 Cp | 69.41% | Lvl 07 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 64
+[09:04:41] (POKESTOP) West Coast Community Centre in 94.63 m distance
+[09:04:41] (NAVIGATION) Distance to target location: 94.63 meters. Will take 10.65 seconds driving at 32kmh
+[09:04:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 3 x ItemPokeBall
+[09:04:52] (INFO) Found 3 Recyclable Items:
+[09:04:52] (RECYCLING) PokeBall x 9
+[09:04:53] (RECYCLING) Potion x 1
+[09:04:54] (RECYCLING) Revive x 1
+[09:04:56] (POKESTOP) Clementi Bible Center in 69.96 m distance
+[09:04:56] (NAVIGATION) Distance to target location: 69.96 meters. Will take 8.68 seconds driving at 29kmh
+[09:05:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[09:05:05] (POKESTOP) West Coast Park Connector in 46.96 m distance
+[09:05:05] (NAVIGATION) Distance to target location: 46.96 meters. Will take 5.28 seconds driving at 32kmh
+[09:05:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
+[09:05:10] (POKESTOP) Clementi Woods Park in 63.31 m distance
+[09:05:10] (NAVIGATION) Distance to target location: 63.31 meters. Will take 7.86 seconds driving at 29kmh
+[09:05:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[09:05:19] (POKESTOP) Clementi Woods Fitness Corner in 105.66 m distance
+[09:05:19] (NAVIGATION) Distance to target location: 105.66 meters. Will take 11.89 seconds driving at 32kmh
+[09:05:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:05:31] (POKESTOP) Clementi Woods Playground in 163.01 m distance
+[09:05:31] (NAVIGATION) Distance to target location: 163.01 meters. Will take 19.56 seconds driving at 30kmh
+[09:05:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:05:50] (INFO) Found 2 Recyclable Items:
+[09:05:50] (RECYCLING) PokeBall x 4
+[09:05:51] (RECYCLING) Revive x 1
+[09:05:54] (POKESTOP) Ten Two Six in 310.07 m distance
+[09:05:54] (NAVIGATION) Distance to target location: 310.07 meters. Will take 19.93 seconds driving at 56kmh
+[09:06:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[09:06:15] (POKESTOP) Veranda Sculpture in 52.21 m distance
+[09:06:15] (NAVIGATION) Distance to target location: 52.21 meters. Will take 6.71 seconds driving at 28kmh
+[09:06:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:06:21] (ATTENTION) No locations in your area...
+[09:06:26] (INFO) Found 64 Pokestops
+[09:06:27] (POKESTOP) University Cultural Centre in 202.46 m distance
+[09:06:27] (NAVIGATION) Distance to target location: 202.46 meters. Will take 19.7 seconds driving at 37kmh
+[09:06:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:06:47] (POKESTOP) Bronze Sculpture "Contentment" in 94.79 m distance
+[09:06:47] (NAVIGATION) Distance to target location: 94.79 meters. Will take 12.19 seconds driving at 28kmh
+[09:06:58] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[09:06:59] (POKESTOP) University Cultural Center in 79.53 m distance
+[09:06:59] (NAVIGATION) Distance to target location: 79.53 meters. Will take 9.87 seconds driving at 29kmh
+[09:07:01] (INFO) Found 1 catchable Pokemon
+[09:07:02] (BERRY) ItemRazzBerry used, remaining: 49
+[09:07:02] (Wild Escape) | Paras 187 V |  463 Cp | 70.99% | Lvl 19 | Chance: 0.27 | with a GreatBall 
+[09:07:03] (BERRY) ItemRazzBerry used, remaining: 48
+[09:07:04] (Wild Success Attempt #2) | Paras 187 V |  463 Cp | 70.99% | Lvl 19 | Chance: 0.27 | with a GreatBall 
+[09:07:06] (INFO) Found 1 pokemon to transfer...
+[09:07:07] (TRANSFER) Paras 186 V |  372 Cp | 78.57% | Lvl 15 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 110
+[09:07:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[09:07:11] (INFO) Found 1 Recyclable Item:
+[09:07:12] (RECYCLING) PokeBall x 4
+[09:07:14] (POKESTOP) Earth Mural in 59.2 m distance
+[09:07:14] (NAVIGATION) Distance to target location: 59.2 meters. Will take 6.88 seconds driving at 31kmh
+[09:07:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[09:07:21] (POKESTOP) Inverted Torsos in 74.26 m distance
+[09:07:21] (NAVIGATION) Distance to target location: 74.26 meters. Will take 8.35 seconds driving at 32kmh
+[09:07:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[09:07:30] (POKESTOP) Frustration of a Loner on a Rock in 64.7 m distance
+[09:07:30] (NAVIGATION) Distance to target location: 64.7 meters. Will take 7.51 seconds driving at 31kmh
+[09:07:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:07:38] (POKESTOP) Together Again in 111.89 m distance
+[09:07:38] (NAVIGATION) Distance to target location: 111.89 meters. Will take 12.59 seconds driving at 32kmh
+[09:07:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:07:49] (POKESTOP) Proverb in a Corner in 92.3 m distance
+[09:07:49] (NAVIGATION) Distance to target location: 92.3 meters. Will take 10.38 seconds driving at 32kmh
+[09:07:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:07:59] (INFO) Found 1 Recyclable Item:
+[09:08:00] (RECYCLING) PokeBall x 5
+[09:08:03] (POKESTOP) Yong Siew Toh Conservatory of Music in 52.78 m distance
+[09:08:03] (NAVIGATION) Distance to target location: 52.78 meters. Will take 6.55 seconds driving at 29kmh
+[09:08:04] (INFO) Found 1 catchable Pokemon
+[09:08:06] (Wild Success) | Zubat 125 V |  142 Cp | 51.43% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
