@@ -30917,3 +30917,7 @@
 [13:50:09] (INFO) Found 1 catchable Pokemon
 [13:50:10] (BERRY) ItemRazzBerry used, remaining: 47
 [13:50:12] (Wild Success) | Pinsir 217 V |  764 Cp | 80.80% | Lvl 13 | Chance: 0.24 | with a GreatBall and received XP 210
+[13:50:13] (INFO) Found 1 pokemon to transfer...
+[13:50:15] (TRANSFER) Pinsir 217 V |  764 Cp | 80.80% | Lvl 13 | Best: [Pinsir 273 V | 1370 Cp | 88.98% | Lvl 23] | Candy: 56
+[13:50:16] (INFO) Found 1 catchable Pokemon
+[13:50:18] (Wild Success) | Weedle 121 V |  249 Cp | 40.84% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
