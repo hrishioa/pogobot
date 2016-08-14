@@ -41495,3 +41495,10 @@
 [01:09:59] (TRANSFER) Zubat 104 V |   91 Cp | 50.21% | Lvl 06 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 692
 [01:10:00] (INFO) Found 1 catchable Pokemon
 [01:10:01] (Wild Success) | Goldeen 114 V |   38 Cp | 60.66% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[01:10:03] (INFO) Found 1 pokemon to transfer...
+[01:10:05] (TRANSFER) Goldeen 114 V |   38 Cp | 60.66% | Lvl 02 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 221
+[01:10:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[01:10:09] (POKESTOP) Oscar and Co in 61.74 m distance
+[01:10:09] (NAVIGATION) Distance to target location: 61.74 meters. Will take 7.41 seconds driving at 30kmh
+[01:10:13] (INFO) Found 1 catchable Pokemon
+[01:10:15] (Wild Success) | Oddish 134 V |  421 Cp | 32.32% | Lvl 15 | Chance: 0.46 | with a GreatBall and received XP 210
