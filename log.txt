@@ -38418,3 +38418,11 @@
 [23:31:05] (NAVIGATION) Distance to target location: 251.78 meters. Will take 19.7 seconds driving at 46kmh
 [23:31:11] (INFO) Found 1 catchable Pokemon
 [23:31:12] (Wild Success) | NidoranMale 114 V |  247 Cp | 40.26% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:31:13] (EGG) Hatched egg! Geodude             197 True Value |  467 Cp | 84.88% Perfect | Lvl 20 | RockThrow/Dig
+[23:31:14] (EGG) Added 2km egg to incubator
+[23:31:15] (INFO) Found 2 pokemon to transfer...
+[23:31:16] (TRANSFER) Geodude 131 V |  372 Cp | 39.27% | Lvl 18 | Best: [Geodude 197 V |  467 Cp | 84.88% | Lvl 20] | Candy: 32
+[23:31:18] (TRANSFER) NidoranMale 114 V |  247 Cp | 40.26% | Lvl 12 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 22
+[23:31:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:31:26] (INFO) Found 1 catchable Pokemon
+[23:31:27] (Wild Success) | Shellder 119 V |  292 Cp | 33.12% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
