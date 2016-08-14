@@ -38438,3 +38438,33 @@
 [23:31:51] (TRANSFER) Meowth 106 V |   10 Cp | 43.35% | Lvl 01 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 37
 [23:31:52] (INFO) Found 1 catchable Pokemon
 [23:31:54] (Wild Success) | Voltorb 129 V |  100 Cp | 53.62% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[23:31:56] (INFO) Found 1 pokemon to transfer...
+[23:31:58] (TRANSFER) Voltorb 129 V |  100 Cp | 53.62% | Lvl 05 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 56
+[23:32:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:32:01] (POKESTOP) Armillary Sphere Sundial in 55.6 m distance
+[23:32:01] (NAVIGATION) Distance to target location: 55.6 meters. Will take 6.9 seconds driving at 29kmh
+[23:32:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:32:09] (POKESTOP) Cove Arrival Plaza in 58.12 m distance
+[23:32:09] (NAVIGATION) Distance to target location: 58.12 meters. Will take 6.54 seconds driving at 32kmh
+[23:32:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
+[23:32:16] (POKESTOP) Malay Wall Lady in 660.06 m distance
+[23:32:16] (NAVIGATION) Distance to target location: 660.06 meters. Will take 33.95 seconds driving at 70kmh
+[23:32:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[23:32:51] (INFO) Found 4 Recyclable Items:
+[23:32:52] (RECYCLING) PokeBall x 7
+[23:32:52] (RECYCLING) Potion x 1
+[23:32:54] (RECYCLING) SuperPotion x 1
+[23:32:55] (RECYCLING) Revive x 1
+[23:32:57] (INFO) Found 9 Pokestops
+[23:32:58] (POKESTOP) Animal Statue in 97.67 m distance
+[23:32:58] (NAVIGATION) Distance to target location: 97.67 meters. Will take 11.34 seconds driving at 31kmh
+[23:33:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:33:10] (POKESTOP) Children Playground in 171.69 m distance
+[23:33:10] (NAVIGATION) Distance to target location: 171.69 meters. Will take 19.32 seconds driving at 32kmh
+[23:33:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
+[23:33:30] (POKESTOP) Giant Bowl Water Fountain  in 72.41 m distance
+[23:33:30] (NAVIGATION) Distance to target location: 72.41 meters. Will take 9.31 seconds driving at 28kmh
+[23:33:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemHyperPotion, 1 x ItemUltraBall
+[23:33:38] (INFO) Found 1 catchable Pokemon
+[23:33:39] (BERRY) ItemRazzBerry used, remaining: 42
+[23:33:40] (Wild Success) | Horsea 146 V |  390 Cp | 45.24% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
