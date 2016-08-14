@@ -34529,3 +34529,14 @@
 [21:09:50] (NAVIGATION) Distance to target location: 75.13 meters. Will take 8.72 seconds driving at 31kmh
 [21:09:55] (INFO) Found 1 catchable Pokemon
 [21:09:57] (Wild Success) | Staryu 131 V |  215 Cp | 58.92% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
+[21:09:59] (INFO) Found 1 pokemon to transfer...
+[21:10:00] (TRANSFER) Staryu 131 V |  215 Cp | 58.92% | Lvl 09 | Best: [Staryu 184 V |  598 Cp | 71.51% | Lvl 24] | Candy: 140
+[21:10:04] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:10:05] (POKESTOP) Spring of Gratitude in 78.71 m distance
+[21:10:05] (NAVIGATION) Distance to target location: 78.71 meters. Will take 10.12 seconds driving at 28kmh
+[21:10:13] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:10:14] (POKESTOP) Painted Glass Soccer Pane in 71.14 m distance
+[21:10:14] (NAVIGATION) Distance to target location: 71.14 meters. Will take 8.83 seconds driving at 29kmh
+[21:10:16] (INFO) Found 1 catchable Pokemon
+[21:10:17] (BERRY) ItemRazzBerry used, remaining: 48
+[21:10:19] (Wild Success) | Zubat 150 V |  384 Cp | 67.10% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 420
