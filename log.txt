@@ -35052,3 +35052,11 @@
 [21:29:17] (NAVIGATION) Distance to target location: 51.82 meters. Will take 6.22 seconds driving at 30kmh
 [21:29:22] (INFO) Found 1 catchable Pokemon
 [21:29:24] (Wild Success) | Zubat 147 V |  192 Cp | 53.44% | Lvl 12 | Chance: 0.43 | with a PokeBall and received XP 420
+[21:29:26] (INFO) Found 1 pokemon to transfer...
+[21:29:27] (TRANSFER) Zubat 147 V |  192 Cp | 53.44% | Lvl 12 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 970
+[21:29:28] (POKESTOP) Writings on the Wall in 89.88 m distance
+[21:29:28] (NAVIGATION) Distance to target location: 89.88 meters. Will take 11.56 seconds driving at 28kmh
+[21:29:39] (POKESTOP) Sayings by the Stairs in 82.29 m distance
+[21:29:39] (NAVIGATION) Distance to target location: 82.29 meters. Will take 9.26 seconds driving at 32kmh
+[21:29:43] (INFO) Found 1 catchable Pokemon
+[21:29:44] (Wild Success) | Zubat 149 V |  266 Cp | 47.01% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 420
