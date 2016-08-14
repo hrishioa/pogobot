@@ -45708,3 +45708,8 @@
 [03:17:41] (BERRY) ItemRazzBerry used, remaining: 39
 [03:17:42] (Wild Success) | Goldeen 161 V |  559 Cp | 48.23% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
 [03:17:44] (Wild Success) | Caterpie 88 V |  124 Cp | 25.87% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[03:17:46] (INFO) Found 2 pokemon to transfer...
+[03:17:48] (TRANSFER) Goldeen 161 V |  559 Cp | 48.23% | Lvl 23 | Best: [Goldeen 205 V |  618 Cp | 71.35% | Lvl 24] | Candy: 268
+[03:17:49] (TRANSFER) Caterpie 88 V |  124 Cp | 25.87% | Lvl 13 | Best: [Caterpie 163 V |  244 Cp | 88.98% | Lvl 20] | Candy: 223
+[03:17:51] (INFO) Found 1 catchable Pokemon
+[03:17:52] (Wild Success) | Pidgey 126 V |  173 Cp | 59.03% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
