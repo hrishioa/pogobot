@@ -42029,3 +42029,4 @@
 [01:23:05] (NAVIGATION) Distance to target location: 73.19 meters. Will take 8.78 seconds driving at 30kmh
 [01:23:09] (INFO) Found 2 catchable Pokemon
 [01:23:10] (Wild Success) | Poliwag 87 V |   87 Cp | 25.68% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[01:23:12] (Wild Success) | Goldeen 124 V |  239 Cp | 42.77% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
