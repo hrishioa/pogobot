@@ -23265,3 +23265,8 @@
 [09:02:57] (Wild Success) | Pidgey 105 V |  112 Cp | 44.21% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [09:02:58] (BERRY) ItemRazzBerry used, remaining: 47
 [09:02:59] (Wild Success) | Dodrio 162 V |  381 Cp | 53.72% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
+[09:03:01] (INFO) Found 2 pokemon to transfer...
+[09:03:03] (TRANSFER) Pidgey 105 V |  112 Cp | 44.21% | Lvl 07 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1075
+[09:03:05] (TRANSFER) Dodrio 124 V |  316 Cp | 31.50% | Lvl 07 | Best: [Dodrio 162 V |  381 Cp | 53.72% | Lvl 08] | Candy: 65
+[09:03:06] (INFO) Found 1 catchable Pokemon
+[09:03:07] (Wild Success) | Psyduck 139 V |  249 Cp | 44.48% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
