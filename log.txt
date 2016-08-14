@@ -43240,3 +43240,10 @@
 [02:00:35] (TRANSFER) Voltorb 116 V |   53 Cp | 40.60% | Lvl 03 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 216
 [02:00:37] (INFO) Found 1 catchable Pokemon
 [02:00:38] (Wild Success) | Rattata 99 V |  164 Cp | 18.07% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[02:00:40] (INFO) Found 1 pokemon to transfer...
+[02:00:41] (TRANSFER) Rattata 99 V |  164 Cp | 18.07% | Lvl 13 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 400
+[02:00:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:00:45] (POKESTOP) Sentosa Play Fountain in 59.91 m distance
+[02:00:45] (NAVIGATION) Distance to target location: 59.91 meters. Will take 6.96 seconds driving at 31kmh
+[02:00:49] (INFO) Found 1 catchable Pokemon
+[02:00:51] (Wild Success) | Voltorb 175 V |  313 Cp | 72.26% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
