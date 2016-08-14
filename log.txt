@@ -44069,3 +44069,20 @@
 [02:23:39] (NAVIGATION) Distance to target location: 789.42 meters. Will take 40.6 seconds driving at 70kmh
 [02:24:18] (INFO) Found 1 catchable Pokemon
 [02:24:21] (Wild Success) | NidoranFemale 100 V |  218 Cp | 45.77% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:24:22] (INFO) Found 1 pokemon to transfer...
+[02:24:24] (TRANSFER) NidoranFemale 100 V |  218 Cp | 45.77% | Lvl 10 | Best: [NidoranFemale 165 V |  397 Cp | 50.44% | Lvl 18] | Candy: 73
+[02:24:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[02:24:25] (INFO) Found 5 Recyclable Items:
+[02:24:26] (RECYCLING) RazzBerry x 5
+[02:24:28] (RECYCLING) PokeBall x 8
+[02:24:28] (RECYCLING) Potion x 1
+[02:24:29] (RECYCLING) SuperPotion x 1
+[02:24:30] (RECYCLING) Revive x 1
+[02:24:33] (POKESTOP) Water Walls in 63.54 m distance
+[02:24:33] (NAVIGATION) Distance to target location: 63.54 meters. Will take 7.38 seconds driving at 31kmh
+[02:24:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemRazzBerry
+[02:24:41] (POKESTOP) Big Apple in 95.59 m distance
+[02:24:41] (NAVIGATION) Distance to target location: 95.59 meters. Will take 11.87 seconds driving at 29kmh
+[02:24:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:24:52] (INFO) Found 1 catchable Pokemon
+[02:24:54] (Wild Success) | Rattata 101 V |   48 Cp | 28.54% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
