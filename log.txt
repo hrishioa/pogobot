@@ -31939,3 +31939,18 @@
 [14:27:09] (TRANSFER) Rattata 162 V |  186 Cp | 77.95% | Lvl 12 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 753
 [14:27:10] (INFO) Found 1 catchable Pokemon
 [14:27:11] (Wild Success) | Pidgey 94 V |  308 Cp | 22.57% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[14:27:13] (INFO) Found 1 pokemon to transfer...
+[14:27:15] (TRANSFER) Pidgey 94 V |  308 Cp | 22.57% | Lvl 20 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1314
+[14:27:18] (POKESTOP) Flag Gathering Area in 88.85 m distance
+[14:27:18] (NAVIGATION) Distance to target location: 88.85 meters. Will take 11.42 seconds driving at 28kmh
+[14:27:23] (INFO) Found 1 catchable Pokemon
+[14:27:24] (BERRY) ItemRazzBerry used, remaining: 44
+[14:27:25] (Wild Escape) | Eevee 179 V |  513 Cp | 66.02% | Lvl 18 | Chance: 0.28 | with a GreatBall 
+[14:27:25] (BERRY) ItemRazzBerry used, remaining: 43
+[14:27:26] (Wild Success Attempt #2) | Eevee 179 V |  513 Cp | 66.02% | Lvl 18 | Chance: 0.28 | with a GreatBall 
+[14:27:28] (INFO) Found 1 pokemon to transfer...
+[14:27:29] (TRANSFER) Eevee 179 V |  513 Cp | 66.02% | Lvl 18 | Best: [Eevee 217 V |  604 Cp | 91.55% | Lvl 20] | Candy: 120
+[14:27:33] (POKESTOP) The Right Horn Sculpture in 185.54 m distance
+[14:27:33] (NAVIGATION) Distance to target location: 185.54 meters. Will take 19.65 seconds driving at 34kmh
+[14:27:44] (INFO) Found 1 catchable Pokemon
+[14:27:46] (Wild Success) | Rattata 119 V |  215 Cp | 35.01% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
