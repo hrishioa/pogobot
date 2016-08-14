@@ -45213,3 +45213,4 @@
 [03:01:55] (NAVIGATION) Distance to target location: 81.15 meters. Will take 10.43 seconds driving at 28kmh
 [03:02:01] (INFO) Found 4 catchable Pokemon
 [03:02:03] (Wild Success) | Weedle 99 V |  110 Cp | 33.11% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[03:02:04] (Wild Success) | Psyduck 164 V |  361 Cp | 42.66% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
