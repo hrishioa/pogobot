@@ -39912,3 +39912,7 @@
 [00:21:57] (TRANSFER) Vulpix 80 V |   71 Cp | 27.79% | Lvl 04 | Best: [Vulpix 171 V |   86 Cp | 96.64% | Lvl 04] | Candy: 24
 [00:21:59] (INFO) Found 1 catchable Pokemon
 [00:22:00] (Wild Success) | Abra 169 V |  287 Cp | 60.16% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[00:22:02] (INFO) Found 1 pokemon to transfer...
+[00:22:04] (TRANSFER) Abra 147 V |  321 Cp | 37.53% | Lvl 23 | Best: [Abra 173 V |  127 Cp | 79.52% | Lvl 08] | Candy: 18
+[00:22:05] (INFO) Found 1 catchable Pokemon
+[00:22:06] (Wild Success) | Goldeen 157 V |  250 Cp | 59.80% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
