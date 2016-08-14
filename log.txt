@@ -31697,3 +31697,4 @@
 [14:18:16] (INFO) Found 3 catchable Pokemon
 [14:18:18] (Wild Success) | Rattata 165 V |  232 Cp | 76.54% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [14:18:20] (Wild Success) | Pidgey 146 V |  106 Cp | 79.76% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[14:18:21] (Wild Success) | Horsea 143 V |  325 Cp | 59.26% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
