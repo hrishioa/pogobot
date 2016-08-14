@@ -33737,3 +33737,19 @@
 [20:46:51] (INFO) Found 1 catchable Pokemon
 [20:46:52] (BERRY) ItemRazzBerry used, remaining: 43
 [20:46:53] (Wild Success) | Staryu 164 V |  531 Cp | 59.36% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
+[20:46:55] (INFO) Found 1 pokemon to transfer...
+[20:46:56] (TRANSFER) Staryu 164 V |  531 Cp | 59.36% | Lvl 22 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 126
+[20:46:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[20:47:01] (POKESTOP) Golden Penda 2010 in 63.73 m distance
+[20:47:01] (NAVIGATION) Distance to target location: 63.73 meters. Will take 7.91 seconds driving at 29kmh
+[20:47:07] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:47:08] (POKESTOP) Sheltered Court in 80.47 m distance
+[20:47:08] (NAVIGATION) Distance to target location: 80.47 meters. Will take 9.05 seconds driving at 32kmh
+[20:47:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:47:17] (POKESTOP) Dover Playground at Block 3 and 4 in 63.46 m distance
+[20:47:17] (NAVIGATION) Distance to target location: 63.46 meters. Will take 7.62 seconds driving at 30kmh
+[20:47:23] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:47:25] (POKESTOP) Cat Playground in 138.88 m distance
+[20:47:25] (NAVIGATION) Distance to target location: 138.88 meters. Will take 16.13 seconds driving at 31kmh
+[20:47:33] (INFO) Found 1 catchable Pokemon
+[20:47:35] (Wild Success) | Pidgey 115 V |  226 Cp | 37.19% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 420
