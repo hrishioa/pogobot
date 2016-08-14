@@ -42387,3 +42387,10 @@
 [01:33:12] (NAVIGATION) Distance to target location: 67.02 meters. Will take 8.62 seconds driving at 28kmh
 [01:33:16] (INFO) Found 1 catchable Pokemon
 [01:33:18] (Wild Success) | Shellder 137 V |  253 Cp | 60.40% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:33:20] (INFO) Found 1 pokemon to transfer...
+[01:33:21] (TRANSFER) Shellder 135 V |  167 Cp | 61.45% | Lvl 08 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 66
+[01:33:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:33:26] (POKESTOP) Cowboy Mural in 154.77 m distance
+[01:33:26] (NAVIGATION) Distance to target location: 154.77 meters. Will take 19.21 seconds driving at 29kmh
+[01:33:35] (INFO) Found 2 catchable Pokemon
+[01:33:37] (Wild Success) | Magikarp 112 V |  133 Cp | 74.15% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
