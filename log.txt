@@ -30742,3 +30742,4 @@
 [13:44:21] (INFO) Found 2 catchable Pokemon
 [13:44:22] (BERRY) ItemRazzBerry used, remaining: 46
 [13:44:23] (Wild Success) | Krabby 139 V |  392 Cp | 48.38% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[13:44:24] (Wild Success) | Weedle 89 V |  116 Cp | 45.35% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
