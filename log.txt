@@ -40734,3 +40734,4 @@
 [00:45:43] (INFO) Found 2 catchable Pokemon
 [00:45:44] (BERRY) ItemRazzBerry used, remaining: 48
 [00:45:45] (Wild Success) | Machop 151 V |  574 Cp | 43.54% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[00:45:47] (Wild Success) | Sandshrew 127 V |  326 Cp | 36.72% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
