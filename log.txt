@@ -34084,3 +34084,14 @@
 [20:59:30] (TRANSFER) Weedle 101 V |  177 Cp | 27.98% | Lvl 18 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 228
 [20:59:31] (INFO) Found 1 catchable Pokemon
 [20:59:33] (Wild Success) | Spearow 85 V |  138 Cp | 20.63% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[20:59:34] (INFO) Found 1 pokemon to transfer...
+[20:59:36] (TRANSFER) Spearow 85 V |  138 Cp | 20.63% | Lvl 09 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 219
+[20:59:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[20:59:38] (POKESTOP) Spring of Gratitude in 48 m distance
+[20:59:38] (NAVIGATION) Distance to target location: 48 meters. Will take 5.76 seconds driving at 30kmh
+[20:59:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:59:45] (POKESTOP) Catherine's Healing Garden in 87.62 m distance
+[20:59:45] (NAVIGATION) Distance to target location: 87.62 meters. Will take 11.27 seconds driving at 28kmh
+[20:59:46] (INFO) Found 1 catchable Pokemon
+[20:59:47] (BERRY) ItemRazzBerry used, remaining: 39
+[20:59:48] (Wild Success) | Zubat 158 V |  361 Cp | 61.70% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
