@@ -33367,3 +33367,13 @@
 [20:32:27] (TRANSFER) Pidgey 87 V |   92 Cp | 32.76% | Lvl 06 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 593
 [20:32:35] (INFO) Found 1 catchable Pokemon
 [20:32:37] (Wild Success) | Poliwag 135 V |   98 Cp | 65.85% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
+[20:32:38] (INFO) Found 1 pokemon to transfer...
+[20:32:40] (TRANSFER) Poliwag 135 V |   98 Cp | 65.85% | Lvl 05 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 101
+[20:32:44] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:32:45] (POKESTOP) Central Lagoon in 84.4 m distance
+[20:32:45] (NAVIGATION) Distance to target location: 84.4 meters. Will take 10.48 seconds driving at 29kmh
+[20:32:54] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:32:55] (POKESTOP) S1A Garden in 92.54 m distance
+[20:32:55] (NAVIGATION) Distance to target location: 92.54 meters. Will take 10.75 seconds driving at 31kmh
+[20:33:02] (INFO) Found 1 catchable Pokemon
+[20:33:04] (Wild Success) | Horsea 149 V |   56 Cp | 81.06% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
