@@ -39899,3 +39899,12 @@
 [00:21:37] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
 [00:21:37] (INFO) Found 1 catchable Pokemon
 [00:21:40] (Wild Success) | Ekans 108 V |  151 Cp | 26.11% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:21:41] (INFO) Found 1 pokemon to transfer...
+[00:21:43] (TRANSFER) Ekans 108 V |  151 Cp | 26.11% | Lvl 08 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 106
+[00:21:43] (POKESTOP) Siloso Light Source  in 65.66 m distance
+[00:21:43] (NAVIGATION) Distance to target location: 65.66 meters. Will take 8.44 seconds driving at 28kmh
+[00:21:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:21:50] (POKESTOP) Pillbox in 105.37 m distance
+[00:21:50] (NAVIGATION) Distance to target location: 105.37 meters. Will take 12.24 seconds driving at 31kmh
+[00:21:53] (INFO) Found 1 catchable Pokemon
+[00:21:54] (Wild Success) | Vulpix 80 V |   71 Cp | 27.79% | Lvl 04 | Chance: 0.46 | with a GreatBall and received XP 210
