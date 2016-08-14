@@ -42105,3 +42105,12 @@
 [01:25:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
 [01:25:44] (INFO) Found 1 catchable Pokemon
 [01:25:45] (Wild Success) | Pidgey 85 V |  264 Cp | 9.26% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[01:25:47] (INFO) Found 1 pokemon to transfer...
+[01:25:48] (TRANSFER) Pidgey 85 V |  264 Cp | 9.26% | Lvl 18 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 708
+[01:25:49] (POKESTOP) Bats Sculpture in 62.74 m distance
+[01:25:49] (NAVIGATION) Distance to target location: 62.74 meters. Will take 7.53 seconds driving at 30kmh
+[01:25:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:25:56] (POKESTOP) Water World in 82.83 m distance
+[01:25:56] (NAVIGATION) Distance to target location: 82.83 meters. Will take 9.94 seconds driving at 30kmh
+[01:26:04] (INFO) Found 1 catchable Pokemon
+[01:26:05] (Wild Success) | Pidgey 90 V |  202 Cp | 25.11% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
