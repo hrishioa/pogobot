@@ -42718,3 +42718,11 @@
 [01:43:17] (NAVIGATION) Distance to target location: 225.22 meters. Will take 19.78 seconds driving at 41kmh
 [01:43:19] (INFO) Found 1 catchable Pokemon
 [01:43:20] (Wild Success) | Staryu 164 V |  376 Cp | 74.21% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[01:43:22] (INFO) Found 1 pokemon to transfer...
+[01:43:23] (TRANSFER) Staryu 164 V |  376 Cp | 74.21% | Lvl 15 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 166
+[01:43:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:43:39] (POKESTOP) Pyramid Totem in 1201.71 m distance
+[01:43:39] (NAVIGATION) Distance to target location: 1201.71 meters. Will take 1.03 minutes driving at 70kmh
+[01:43:46] (INFO) Found 1 catchable Pokemon
+[01:43:47] (BERRY) ItemRazzBerry used, remaining: 50
+[01:43:48] (Wild Success) | Pikachu 144 V |  473 Cp | 21.69% | Lvl 23 | Chance: 0.12 | with a GreatBall and received XP 210
