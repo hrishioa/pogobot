@@ -35261,3 +35261,27 @@
 [21:36:24] (NAVIGATION) Distance to target location: 126.24 meters. Will take 14.66 seconds driving at 31kmh
 [21:36:37] (INFO) Found 1 catchable Pokemon
 [21:36:39] (Wild Success) | Zubat 134 V |  289 Cp | 54.59% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[21:36:41] (INFO) Found 1 pokemon to transfer...
+[21:36:42] (TRANSFER) Zubat 134 V |  289 Cp | 54.59% | Lvl 18 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 990
+[21:36:44] (POKESTOP) SDE Mural in 112.33 m distance
+[21:36:44] (NAVIGATION) Distance to target location: 112.33 meters. Will take 14.44 seconds driving at 28kmh
+[21:36:56] (POKESTOP) Center for English Language Communication in 114.98 m distance
+[21:36:56] (NAVIGATION) Distance to target location: 114.98 meters. Will take 14.27 seconds driving at 29kmh
+[21:37:10] (POKESTOP) Kent Ridge Heritage Trail in 156.21 m distance
+[21:37:10] (NAVIGATION) Distance to target location: 156.21 meters. Will take 17.57 seconds driving at 32kmh
+[21:37:26] (POKESTOP) Fire Painting  in 173.98 m distance
+[21:37:26] (NAVIGATION) Distance to target location: 173.98 meters. Will take 19.57 seconds driving at 32kmh
+[21:37:45] (POKESTOP) Runme Shaw CFA Studios in 84.8 m distance
+[21:37:45] (NAVIGATION) Distance to target location: 84.8 meters. Will take 10.18 seconds driving at 30kmh
+[21:37:55] (POKESTOP) NUSSU Sign in 80.19 m distance
+[21:37:55] (NAVIGATION) Distance to target location: 80.19 meters. Will take 9.31 seconds driving at 31kmh
+[21:38:03] (POKESTOP) Student Service Centre in 60.54 m distance
+[21:38:03] (NAVIGATION) Distance to target location: 60.54 meters. Will take 7.52 seconds driving at 29kmh
+[21:38:10] (POKESTOP) Tree of Light Bulbs in 64.8 m distance
+[21:38:10] (NAVIGATION) Distance to target location: 64.8 meters. Will take 7.29 seconds driving at 32kmh
+[21:38:17] (POKESTOP) NUS Sports and Recreation Centre in 85.53 m distance
+[21:38:17] (NAVIGATION) Distance to target location: 85.53 meters. Will take 10.26 seconds driving at 30kmh
+[21:38:27] (POKESTOP) Spring of Gratitude in 80.09 m distance
+[21:38:27] (NAVIGATION) Distance to target location: 80.09 meters. Will take 9.61 seconds driving at 30kmh
+[21:38:31] (INFO) Found 1 catchable Pokemon
+[21:38:33] (Wild Success) | Spearow 125 V |  186 Cp | 49.18% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
