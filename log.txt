@@ -38468,3 +38468,9 @@
 [23:33:38] (INFO) Found 1 catchable Pokemon
 [23:33:39] (BERRY) ItemRazzBerry used, remaining: 42
 [23:33:40] (Wild Success) | Horsea 146 V |  390 Cp | 45.24% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[23:33:42] (INFO) Found 1 pokemon to transfer...
+[23:33:44] (TRANSFER) Horsea 146 V |  390 Cp | 45.24% | Lvl 20 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 48
+[23:33:44] (POKESTOP) Cove Gazebo #3 in 323.04 m distance
+[23:33:44] (NAVIGATION) Distance to target location: 323.04 meters. Will take 19.71 seconds driving at 59kmh
+[23:33:46] (INFO) Found 1 catchable Pokemon
+[23:33:48] (Wild Success) | Voltorb 139 V |   10 Cp | 67.64% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
