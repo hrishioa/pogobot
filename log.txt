@@ -29248,3 +29248,27 @@
 [12:41:55] (TRANSFER) Pidgey 91 V |  220 Cp | 29.22% | Lvl 14 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1178
 [12:41:56] (INFO) Found 1 catchable Pokemon
 [12:41:58] (Wild Success) | Zubat 107 V |   74 Cp | 49.55% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[12:42:00] (INFO) Found 1 pokemon to transfer...
+[12:42:01] (TRANSFER) Zubat 107 V |   74 Cp | 49.55% | Lvl 05 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 858
+[12:42:04] (POKESTOP) CMMAC in 103.62 m distance
+[12:42:04] (NAVIGATION) Distance to target location: 103.62 meters. Will take 12.86 seconds driving at 29kmh
+[12:42:15] (POKESTOP) Central Lagoon in 100.34 m distance
+[12:42:15] (NAVIGATION) Distance to target location: 100.34 meters. Will take 11.29 seconds driving at 32kmh
+[12:42:26] (POKESTOP) Institute of Systems Science in 502.79 m distance
+[12:42:26] (NAVIGATION) Distance to target location: 502.79 meters. Will take 25.86 seconds driving at 70kmh
+[12:42:53] (POKESTOP) Beautiful Waterfall in 104.2 m distance
+[12:42:53] (NAVIGATION) Distance to target location: 104.2 meters. Will take 12.5 seconds driving at 30kmh
+[12:43:05] (POKESTOP) Beacon of Hope in 107.39 m distance
+[12:43:05] (NAVIGATION) Distance to target location: 107.39 meters. Will take 12.89 seconds driving at 30kmh
+[12:43:19] (POKESTOP) Moai Statue at APEC Secretariat in 87.23 m distance
+[12:43:19] (NAVIGATION) Distance to target location: 87.23 meters. Will take 9.81 seconds driving at 32kmh
+[12:43:29] (POKESTOP) Institute of Microelectronics in 197.25 m distance
+[12:43:29] (NAVIGATION) Distance to target location: 197.25 meters. Will take 19.73 seconds driving at 36kmh
+[12:43:48] (POKESTOP) PhD Geyser in 123.15 m distance
+[12:43:48] (NAVIGATION) Distance to target location: 123.15 meters. Will take 15.29 seconds driving at 29kmh
+[12:44:03] (POKESTOP) Dry Waterfall in 134.51 m distance
+[12:44:03] (NAVIGATION) Distance to target location: 134.51 meters. Will take 16.14 seconds driving at 30kmh
+[12:44:20] (POKESTOP) Science Park 2 Pond in 62.4 m distance
+[12:44:20] (NAVIGATION) Distance to target location: 62.4 meters. Will take 8.02 seconds driving at 28kmh
+[12:44:26] (INFO) Found 1 catchable Pokemon
+[12:44:27] (Wild Success) | Psyduck 127 V |   14 Cp | 55.91% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
