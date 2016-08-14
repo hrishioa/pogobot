@@ -40823,3 +40823,7 @@
 [00:48:52] (NAVIGATION) Distance to target location: 600.66 meters. Will take 30.89 seconds driving at 70kmh
 [00:49:03] (INFO) Found 1 catchable Pokemon
 [00:49:04] (Wild Success) | Horsea 119 V |  321 Cp | 35.14% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[00:49:06] (INFO) Found 1 pokemon to transfer...
+[00:49:08] (TRANSFER) Horsea 119 V |  321 Cp | 35.14% | Lvl 17 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 60
+[00:49:23] (INFO) Found 1 catchable Pokemon
+[00:49:24] (Wild Success) | Oddish 151 V |  233 Cp | 53.68% | Lvl 08 | Chance: 0.63 | with a PokeBall and received XP 210
