@@ -39083,3 +39083,4 @@
 [23:55:52] (TRANSFER) Krabby 113 V |   10 Cp | 54.79% | Lvl 01 | Best: [Krabby 166 V |  322 Cp | 80.04% | Lvl 15] | Candy: 130
 [23:55:55] (INFO) Found 2 catchable Pokemon
 [23:55:57] (Wild Success) | Oddish 160 V |  439 Cp | 49.07% | Lvl 15 | Chance: 0.46 | with a GreatBall and received XP 210
+[23:55:58] (Wild Success) | Goldeen 147 V |  225 Cp | 62.85% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
