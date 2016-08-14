@@ -38069,3 +38069,4 @@
 [23:17:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
 [23:17:53] (INFO) Found 2 catchable Pokemon
 [23:17:54] (Wild Success) | Seel 145 V |  375 Cp | 59.62% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[23:17:56] (Wild Success) | Goldeen 93 V |   11 Cp | 35.21% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
