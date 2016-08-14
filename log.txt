@@ -36825,3 +36825,19 @@
 [22:35:02] (INFO) Found 1 catchable Pokemon
 [22:35:03] (BERRY) ItemRazzBerry used, remaining: 41
 [22:35:05] (Wild Success) | Psyduck 179 V |  598 Cp | 33.85% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[22:35:06] (INFO) Found 1 pokemon to transfer...
+[22:35:08] (TRANSFER) Psyduck 163 V |  309 Cp | 46.89% | Lvl 11 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 90
+[22:35:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:35:10] (POKESTOP) Castle and the Knight in 66.56 m distance
+[22:35:10] (NAVIGATION) Distance to target location: 66.56 meters. Will take 7.99 seconds driving at 30kmh
+[22:35:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:35:18] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 33.54 m distance
+[22:35:18] (NAVIGATION) Distance to target location: 33.54 meters. Will take 4.16 seconds driving at 29kmh
+[22:35:21] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[22:35:22] (INFO) Found 2 Recyclable Items:
+[22:35:23] (RECYCLING) SuperPotion x 1
+[22:35:23] (RECYCLING) Revive x 1
+[22:35:25] (POKESTOP) Bumblebee Art in 244.22 m distance
+[22:35:25] (NAVIGATION) Distance to target location: 244.22 meters. Will take 19.98 seconds driving at 44kmh
+[22:35:39] (INFO) Found 2 catchable Pokemon
+[22:35:40] (Wild Success) | Rattata 129 V |  221 Cp | 42.44% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
