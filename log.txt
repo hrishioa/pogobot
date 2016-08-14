@@ -39061,3 +39061,4 @@
 [23:55:04] (NAVIGATION) Distance to target location: 174.23 meters. Will take 19.6 seconds driving at 32kmh
 [23:55:15] (INFO) Found 2 catchable Pokemon
 [23:55:16] (Wild Success) | Magikarp 97 V |  112 Cp | 60.69% | Lvl 18 | Chance: 0.49 | with a GreatBall and received XP 210
+[23:55:18] (Wild Success) | Psyduck 97 V |  209 Cp | 24.18% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
