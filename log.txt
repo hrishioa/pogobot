@@ -37247,3 +37247,14 @@
 [22:49:05] (NAVIGATION) Distance to target location: 66.05 meters. Will take 7.43 seconds driving at 32kmh
 [22:49:10] (INFO) Found 1 catchable Pokemon
 [22:49:13] (Wild Success) | Jigglypuff 95 V |   10 Cp | 28.92% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:49:15] (INFO) Found 1 pokemon to transfer...
+[22:49:17] (TRANSFER) Jigglypuff 95 V |   10 Cp | 28.92% | Lvl 01 | Best: [Jigglypuff 146 V |  350 Cp | 35.58% | Lvl 16] | Candy: 26
+[22:49:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[22:49:19] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 35.35 m distance
+[22:49:19] (NAVIGATION) Distance to target location: 35.35 meters. Will take 4.11 seconds driving at 31kmh
+[22:49:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[22:49:22] (POKESTOP) Bumblebee Art in 244.76 m distance
+[22:49:22] (NAVIGATION) Distance to target location: 244.76 meters. Will take 19.58 seconds driving at 45kmh
+[22:49:31] (INFO) Found 1 catchable Pokemon
+[22:49:33] (BERRY) ItemRazzBerry used, remaining: 45
+[22:49:33] (Wild Success) | Kabutops 250 V | 1170 Cp | 75.85% | Lvl 20 | Chance: 0.1 | with a GreatBall and received XP 710
