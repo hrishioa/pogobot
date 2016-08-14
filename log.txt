@@ -29992,3 +29992,4 @@
 [13:18:12] (TRANSFER) Rattata 109 V |   36 Cp | 44.74% | Lvl 03 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 669
 [13:18:15] (INFO) Found 2 catchable Pokemon
 [13:18:16] (Wild Success) | Bellsprout 181 V |  432 Cp | 56.11% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[13:18:18] (Wild Success) | Rattata 160 V |  285 Cp | 66.75% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
