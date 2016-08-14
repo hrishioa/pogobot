@@ -38181,3 +38181,20 @@
 [23:22:26] (NAVIGATION) Distance to target location: 589.38 meters. Will take 30.31 seconds driving at 70kmh
 [23:22:55] (INFO) Found 1 catchable Pokemon
 [23:22:56] (Wild Success) | Geodude 148 V |  156 Cp | 77.00% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:22:58] (INFO) Found 1 pokemon to transfer...
+[23:22:59] (TRANSFER) Geodude 113 V |  347 Cp | 16.17% | Lvl 18 | Best: [Geodude 148 V |  156 Cp | 77.00% | Lvl 07] | Candy: 22
+[23:23:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[23:23:04] (POKESTOP) Metallic Symbol of Tranquillity in 750.17 m distance
+[23:23:04] (NAVIGATION) Distance to target location: 750.17 meters. Will take 38.58 seconds driving at 70kmh
+[23:23:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:23:44] (ATTENTION) No locations in your area...
+[23:23:49] (INFO) Found 1 Pokestop
+[23:23:50] (POKESTOP) 4 Greetings Flamingos in 601.9 m distance
+[23:23:50] (NAVIGATION) Distance to target location: 601.9 meters. Will take 30.95 seconds driving at 70kmh
+[23:24:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[23:24:22] (ATTENTION) No locations in your area...
+[23:24:27] (INFO) Found 7 Pokestops
+[23:24:28] (POKESTOP) Golden Pineapple in 299.99 m distance
+[23:24:28] (NAVIGATION) Distance to target location: 299.99 meters. Will take 20 seconds driving at 54kmh
+[23:24:47] (INFO) Found 1 catchable Pokemon
+[23:24:49] (Wild Success) | Psyduck 117 V |  156 Cp | 30.77% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
