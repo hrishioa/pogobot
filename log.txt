@@ -30292,3 +30292,10 @@
 [13:29:01] (INFO) Found 2 catchable Pokemon
 [13:29:03] (Wild Flee) | Magikarp 104 V |   10 Cp | 77.99% | Lvl 02 | Chance: 1 | with a PokeBall 
 [13:29:04] (Wild Success) | Zubat 128 V |  125 Cp | 50.97% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[13:29:06] (INFO) Found 1 pokemon to transfer...
+[13:29:08] (TRANSFER) Zubat 128 V |  125 Cp | 50.97% | Lvl 08 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 894
+[13:29:16] (INFO) Found 1 catchable Pokemon
+[13:29:17] (Wild Flee) | Eevee 158 V |  309 Cp | 60.04% | Lvl 11 | Chance: 0.36 | with a GreatBall 
+[13:29:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemSuperPotion
+[13:29:23] (INFO) Found 1 catchable Pokemon
+[13:29:24] (Wild Success) | Pidgey 103 V |   60 Cp | 41.85% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
