@@ -43151,3 +43151,42 @@
 [01:57:05] (NAVIGATION) Distance to target location: 73.24 meters. Will take 8.51 seconds driving at 31kmh
 [01:57:10] (INFO) Found 1 catchable Pokemon
 [01:57:12] (Wild Success) | Zubat 100 V |   71 Cp | 38.25% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[01:57:14] (INFO) Found 1 pokemon to transfer...
+[01:57:15] (TRANSFER) Zubat 100 V |   71 Cp | 38.25% | Lvl 05 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 704
+[01:57:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[01:57:19] (INFO) Found 4 Recyclable Items:
+[01:57:20] (RECYCLING) PokeBall x 4
+[01:57:21] (RECYCLING) Potion x 1
+[01:57:22] (RECYCLING) SuperPotion x 1
+[01:57:23] (RECYCLING) Revive x 1
+[01:57:25] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 69.33 m distance
+[01:57:25] (NAVIGATION) Distance to target location: 69.33 meters. Will take 8.91 seconds driving at 28kmh
+[01:57:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:57:33] (POKESTOP) Castle and the Knight in 37.04 m distance
+[01:57:33] (NAVIGATION) Distance to target location: 37.04 meters. Will take 4.17 seconds driving at 32kmh
+[01:57:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemUltraBall
+[01:57:38] (POKESTOP) Coloured Roofs in 107.86 m distance
+[01:57:38] (NAVIGATION) Distance to target location: 107.86 meters. Will take 13.87 seconds driving at 28kmh
+[01:57:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:57:50] (POKESTOP) Metal Vines Gateway in 63.05 m distance
+[01:57:50] (NAVIGATION) Distance to target location: 63.05 meters. Will take 8.11 seconds driving at 28kmh
+[01:57:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:57:58] (POKESTOP) Sharity Lion Statue in 72.15 m distance
+[01:57:58] (NAVIGATION) Distance to target location: 72.15 meters. Will take 8.12 seconds driving at 32kmh
+[01:58:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:58:06] (INFO) Found 2 Recyclable Items:
+[01:58:06] (RECYCLING) PokeBall x 8
+[01:58:07] (RECYCLING) Revive x 2
+[01:58:09] (POKESTOP) River God of Merlion in 54.69 m distance
+[01:58:09] (NAVIGATION) Distance to target location: 54.69 meters. Will take 6.15 seconds driving at 32kmh
+[01:58:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 4 x ItemPokeBall, 1 x ItemHyperPotion, 1 x ItemPotion
+[01:58:15] (POKESTOP) Lady In Wood in 127 m distance
+[01:58:15] (NAVIGATION) Distance to target location: 127 meters. Will take 14.75 seconds driving at 31kmh
+[01:58:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:58:30] (POKESTOP) Images of Singapore in 98.58 m distance
+[01:58:30] (NAVIGATION) Distance to target location: 98.58 meters. Will take 12.24 seconds driving at 29kmh
+[01:58:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:58:42] (POKESTOP) Heritage Tree Leban Malayan Teak in 48.09 m distance
+[01:58:42] (NAVIGATION) Distance to target location: 48.09 meters. Will take 5.41 seconds driving at 32kmh
+[01:58:44] (INFO) Found 1 catchable Pokemon
+[01:58:46] (Wild Success) | Voltorb 159 V |  365 Cp | 57.89% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
