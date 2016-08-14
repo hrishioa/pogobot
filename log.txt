@@ -38402,3 +38402,19 @@
 [23:30:24] (INFO) Found 2 catchable Pokemon
 [23:30:26] (BERRY) ItemRazzBerry used, remaining: 43
 [23:30:27] (Wild Success) | Tentacruel 248 V | 1339 Cp | 46.62% | Lvl 23 | Chance: 0.12 | with a UltraBall and received XP 210
+[23:30:28] (ATTENTION) Encounter problem: EncounterClosed
+[23:30:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPotion
+[23:30:40] (ATTENTION) No locations in your area...
+[23:30:46] (INFO) Found 6 Pokestops
+[23:30:47] (POKESTOP) Golden Pineapple in 107.64 m distance
+[23:30:47] (NAVIGATION) Distance to target location: 107.64 meters. Will take 12.5 seconds driving at 31kmh
+[23:30:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[23:30:58] (INFO) Found 4 Recyclable Items:
+[23:31:00] (RECYCLING) PokeBall x 6
+[23:31:01] (RECYCLING) Potion x 3
+[23:31:01] (RECYCLING) HyperPotion x 1
+[23:31:02] (RECYCLING) Revive x 1
+[23:31:05] (POKESTOP) 4 Greetings Flamingos in 251.78 m distance
+[23:31:05] (NAVIGATION) Distance to target location: 251.78 meters. Will take 19.7 seconds driving at 46kmh
+[23:31:11] (INFO) Found 1 catchable Pokemon
+[23:31:12] (Wild Success) | NidoranMale 114 V |  247 Cp | 40.26% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
