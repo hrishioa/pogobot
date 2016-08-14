@@ -36511,3 +36511,15 @@
 [22:24:49] (Wild Success) | Zubat 85 V |   70 Cp | 33.32% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [22:24:51] (Wild Success) | Caterpie 90 V |  166 Cp | 17.71% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
 [22:24:52] (Wild Success) | Horsea 103 V |  126 Cp | 28.03% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[22:24:54] (INFO) Found 4 pokemon to transfer...
+[22:24:55] (TRANSFER) Exeggcute 156 V |   47 Cp | 86.21% | Lvl 02 | Best: [Exeggcute 180 V |  494 Cp | 65.57% | Lvl 17] | Candy: 42
+[22:24:58] (TRANSFER) Caterpie 90 V |  166 Cp | 17.71% | Lvl 18 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 149
+[22:25:00] (TRANSFER) Horsea 103 V |  126 Cp | 28.03% | Lvl 07 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 36
+[22:25:02] (TRANSFER) Zubat 85 V |   70 Cp | 33.32% | Lvl 05 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 664
+[22:25:04] (INFO) Found 1 catchable Pokemon
+[22:25:05] (Wild Flee) | Paras 125 V |  344 Cp | 25.54% | Lvl 16 | Chance: 0.29 | with a GreatBall 
+[22:25:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemHyperPotion, 2 x ItemPotion
+[22:25:10] (POKESTOP) The 4 Pines in 133.24 m distance
+[22:25:10] (NAVIGATION) Distance to target location: 133.24 meters. Will take 16.54 seconds driving at 29kmh
+[22:25:18] (INFO) Found 1 catchable Pokemon
+[22:25:20] (Wild Success) | Bellsprout 134 V |  158 Cp | 35.82% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
