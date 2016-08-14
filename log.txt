@@ -22430,3 +22430,13 @@
 [08:31:55] (Wild Success) | Pidgey 116 V |  148 Cp | 45.68% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [08:31:57] (BERRY) ItemRazzBerry used, remaining: 46
 [08:31:58] (Wild Success) | Eevee 200 V |  607 Cp | 71.93% | Lvl 21 | Chance: 0.26 | with a UltraBall and received XP 210
+[08:32:00] (INFO) Found 2 pokemon to transfer...
+[08:32:01] (TRANSFER) Eevee 171 V |  234 Cp | 83.49% | Lvl 08 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 60
+[08:32:04] (TRANSFER) Pidgey 116 V |  148 Cp | 45.68% | Lvl 09 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 1031
+[08:32:04] (POKESTOP) Alice Lee Plaza in 64.37 m distance
+[08:32:04] (NAVIGATION) Distance to target location: 64.37 meters. Will take 7.72 seconds driving at 30kmh
+[08:32:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemGreatBall
+[08:32:12] (POKESTOP) Yong Siew Toh Conservatory of Music in 96.35 m distance
+[08:32:12] (NAVIGATION) Distance to target location: 96.35 meters. Will take 11.96 seconds driving at 29kmh
+[08:32:13] (INFO) Found 1 catchable Pokemon
+[08:32:15] (Wild Success) | Zubat 131 V |  217 Cp | 44.48% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
