@@ -33384,3 +33384,25 @@
 [20:33:12] (NAVIGATION) Distance to target location: 140 meters. Will take 16.26 seconds driving at 31kmh
 [20:33:23] (INFO) Found 1 catchable Pokemon
 [20:33:24] (Wild Success) | Meowth 143 V |   72 Cp | 66.23% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 420
+[20:33:26] (INFO) Found 1 pokemon to transfer...
+[20:33:27] (TRANSFER) Meowth 143 V |   72 Cp | 66.23% | Lvl 04 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 26
+[20:33:30] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:33:32] (POKESTOP) Reaching Out in 42.14 m distance
+[20:33:32] (NAVIGATION) Distance to target location: 42.14 meters. Will take 4.89 seconds driving at 31kmh
+[20:33:37] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:33:38] (POKESTOP) The Odyssey in 32.97 m distance
+[20:33:38] (NAVIGATION) Distance to target location: 32.97 meters. Will take 3.83 seconds driving at 31kmh
+[20:33:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:33:42] (POKESTOP) Saying By The Founder in 84.84 m distance
+[20:33:42] (NAVIGATION) Distance to target location: 84.84 meters. Will take 9.85 seconds driving at 31kmh
+[20:33:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:33:51] (POKESTOP) The Seagull Nebula in 93.85 m distance
+[20:33:51] (NAVIGATION) Distance to target location: 93.85 meters. Will take 10.9 seconds driving at 31kmh
+[20:34:00] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:34:03] (POKESTOP) Waves and Particles - NUS Science Faculty in 142.43 m distance
+[20:34:03] (NAVIGATION) Distance to target location: 142.43 meters. Will take 17.09 seconds driving at 30kmh
+[20:34:19] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:34:20] (POKESTOP) Survival (Rocker) in 280.61 m distance
+[20:34:20] (NAVIGATION) Distance to target location: 280.61 meters. Will take 19.81 seconds driving at 51kmh
+[20:34:36] (INFO) Found 1 catchable Pokemon
+[20:34:38] (Wild Success) | Bulbasaur 120 V |  285 Cp | 30.06% | Lvl 11 | Chance: 0.18 | with a UltraBall and received XP 420
