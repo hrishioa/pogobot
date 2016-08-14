@@ -34544,3 +34544,19 @@
 [21:10:22] (TRANSFER) Zubat 150 V |  384 Cp | 67.10% | Lvl 23 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 942
 [21:10:23] (INFO) Found 1 catchable Pokemon
 [21:10:25] (Wild Success) | Zubat 100 V |  137 Cp | 40.53% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
+[21:10:27] (INFO) Found 1 pokemon to transfer...
+[21:10:28] (TRANSFER) Zubat 100 V |  137 Cp | 40.53% | Lvl 09 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 946
+[21:10:31] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall, 1 x ItemPotion
+[21:10:32] (INFO) Found 2 Recyclable Items:
+[21:10:32] (RECYCLING) Potion x 1
+[21:10:33] (RECYCLING) HyperPotion x 1
+[21:10:35] (POKESTOP) A Spring Of Gratitude  in 65.31 m distance
+[21:10:35] (NAVIGATION) Distance to target location: 65.31 meters. Will take 8.4 seconds driving at 28kmh
+[21:10:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:10:43] (POKESTOP) Catherine's Healing Garden in 58.6 m distance
+[21:10:43] (NAVIGATION) Distance to target location: 58.6 meters. Will take 7.03 seconds driving at 30kmh
+[21:10:48] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:10:50] (POKESTOP) NUS Ridge View Residences Plaque in 82.95 m distance
+[21:10:50] (NAVIGATION) Distance to target location: 82.95 meters. Will take 9.63 seconds driving at 31kmh
+[21:10:58] (INFO) Found 2 catchable Pokemon
+[21:10:59] (Wild Success) | Zubat 137 V |  341 Cp | 58.33% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
