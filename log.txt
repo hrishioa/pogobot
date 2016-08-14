@@ -37598,3 +37598,11 @@
 [23:00:54] (Wild Success) | Machop 127 V |  323 Cp | 38.07% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [23:00:56] (Wild Success) | Rattata 109 V |  181 Cp | 23.79% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [23:00:57] (Wild Success) | Magnemite 118 V |   10 Cp | 45.37% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:00:59] (INFO) Found 2 pokemon to transfer...
+[23:01:00] (TRANSFER) Magnemite 118 V |   10 Cp | 45.37% | Lvl 01 | Best: [Magnemite 148 V |  459 Cp | 29.70% | Lvl 22] | Candy: 26
+[23:01:02] (TRANSFER) Rattata 109 V |  181 Cp | 23.79% | Lvl 14 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 324
+[23:01:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:01:06] (POKESTOP) Tabebuia Argentea in 248.7 m distance
+[23:01:06] (NAVIGATION) Distance to target location: 248.7 meters. Will take 19.9 seconds driving at 45kmh
+[23:01:16] (INFO) Found 2 catchable Pokemon
+[23:01:19] (Wild Success) | Shellder 128 V |  301 Cp | 42.94% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
