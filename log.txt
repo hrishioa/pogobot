@@ -31182,3 +31182,22 @@
 [13:58:53] (INFO) Found 2 catchable Pokemon
 [13:58:55] (Wild Success) | Eevee 165 V |  345 Cp | 69.41% | Lvl 12 | Chance: 0.34 | with a GreatBall and received XP 210
 [13:58:56] (Wild Success) | Rattata 136 V |   70 Cp | 64.27% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[13:58:58] (INFO) Found 2 pokemon to transfer...
+[13:59:00] (TRANSFER) Rattata 136 V |   70 Cp | 64.27% | Lvl 05 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 709
+[13:59:02] (TRANSFER) Eevee 165 V |  345 Cp | 69.41% | Lvl 12 | Best: [Eevee 217 V |  604 Cp | 91.55% | Lvl 20] | Candy: 112
+[13:59:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:59:05] (INFO) Found 3 Recyclable Items:
+[13:59:06] (RECYCLING) RazzBerry x 1
+[13:59:07] (RECYCLING) PokeBall x 8
+[13:59:08] (RECYCLING) Potion x 1
+[13:59:11] (POKESTOP) Clementi Woods Playground in 971.21 m distance
+[13:59:11] (NAVIGATION) Distance to target location: 971.21 meters. Will take 49.95 seconds driving at 70kmh
+[13:59:17] (INFO) Found 1 catchable Pokemon
+[13:59:18] (BERRY) ItemRazzBerry used, remaining: 49
+[13:59:18] (Wild Escape) | Pidgeot 229 V | 1296 Cp | 38.79% | Lvl 24 | Chance: 0.07 | with a GreatBall 
+[13:59:19] (BERRY) ItemRazzBerry used, remaining: 48
+[13:59:20] (Wild Success Attempt #2) | Pidgeot 229 V | 1296 Cp | 38.79% | Lvl 24 | Chance: 0.07 | with a GreatBall 
+[13:59:22] (INFO) Found 1 pokemon to transfer...
+[13:59:23] (TRANSFER) Pidgeot 207 V |  710 Cp | 45.62% | Lvl 13 | Best: [Pidgeot 253 V | 1365 Cp | 57.24% | Lvl 25] | Candy: 1246
+[13:59:38] (INFO) Found 1 catchable Pokemon
+[13:59:40] (Wild Success) | Poliwag 130 V |   32 Cp | 67.83% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
