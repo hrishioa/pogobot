@@ -45519,3 +45519,10 @@
 [03:12:30] (NAVIGATION) Distance to target location: 90.07 meters. Will take 10.81 seconds driving at 30kmh
 [03:12:36] (INFO) Found 1 catchable Pokemon
 [03:12:38] (Wild Success) | Zubat 134 V |  162 Cp | 57.73% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[03:12:39] (INFO) Found 1 pokemon to transfer...
+[03:12:41] (TRANSFER) Zubat 134 V |  162 Cp | 57.73% | Lvl 10 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 760
+[03:12:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:12:45] (POKESTOP) Sugar And Spice in 83.93 m distance
+[03:12:45] (NAVIGATION) Distance to target location: 83.93 meters. Will take 10.42 seconds driving at 29kmh
+[03:12:49] (INFO) Found 1 catchable Pokemon
+[03:12:51] (Wild Success) | Tentacool 109 V |  216 Cp | 73.04% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
