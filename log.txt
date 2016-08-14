@@ -36932,3 +36932,14 @@
 [22:39:28] (BERRY) ItemRazzBerry used, remaining: 38
 [22:39:29] (Wild Success Attempt #3) | Onix 166 V |  479 Cp | 56.15% | Lvl 22 | Chance: 0.12 | with a GreatBall 
 [22:39:30] (Wild Success) | Voltorb 172 V |  182 Cp | 84.92% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[22:39:32] (INFO) Found 2 pokemon to transfer...
+[22:39:34] (TRANSFER) Onix 153 V |   82 Cp | 69.75% | Lvl 04 | Best: [Onix 166 V |  479 Cp | 56.15% | Lvl 22] | Candy: 38
+[22:39:36] (TRANSFER) Voltorb 165 V |  261 Cp | 61.74% | Lvl 12 | Best: [Voltorb 177 V |  492 Cp | 56.14% | Lvl 23] | Candy: 10
+[22:39:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:39:40] (POKESTOP) Sentosa Golf Club in 80.79 m distance
+[22:39:40] (NAVIGATION) Distance to target location: 80.79 meters. Will take 9.09 seconds driving at 32kmh
+[22:39:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:39:49] (POKESTOP) Sentosa Golf Course in 58.27 m distance
+[22:39:49] (NAVIGATION) Distance to target location: 58.27 meters. Will take 6.56 seconds driving at 32kmh
+[22:39:50] (INFO) Found 1 catchable Pokemon
+[22:39:53] (Wild Success) | Zubat 110 V |  133 Cp | 31.71% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
