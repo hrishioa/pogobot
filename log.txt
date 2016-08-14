@@ -39733,3 +39733,7 @@
 [00:17:57] (INFO) Found 1 catchable Pokemon
 [00:17:58] (BERRY) ItemRazzBerry used, remaining: 49
 [00:17:59] (Wild Success) | Staryu 171 V |  540 Cp | 65.25% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
+[00:18:00] (INFO) Found 1 pokemon to transfer...
+[00:18:25] (TRANSFER) Staryu 171 V |  540 Cp | 65.25% | Lvl 22 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 154
+[00:18:26] (INFO) Found 1 catchable Pokemon
+[00:18:28] (Wild Success) | Squirtle 99 V |   86 Cp | 19.51% | Lvl 04 | Chance: 0.31 | with a GreatBall and received XP 210
