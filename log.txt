@@ -31367,3 +31367,31 @@
 [14:06:10] (TRANSFER) Pidgey 91 V |   10 Cp | 50.14% | Lvl 01 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1262
 [14:06:12] (INFO) Found 1 catchable Pokemon
 [14:06:13] (Wild Success) | Rattata 114 V |   36 Cp | 43.04% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[14:06:15] (INFO) Found 1 pokemon to transfer...
+[14:06:16] (TRANSFER) Rattata 114 V |   36 Cp | 43.04% | Lvl 03 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 721
+[14:06:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[14:06:20] (POKESTOP) West Coast Green Zone in 42.03 m distance
+[14:06:20] (NAVIGATION) Distance to target location: 42.03 meters. Will take 5.4 seconds driving at 28kmh
+[14:06:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:06:24] (INFO) Found 4 Recyclable Items:
+[14:06:25] (RECYCLING) PokeBall x 8
+[14:06:26] (RECYCLING) Potion x 1
+[14:06:27] (RECYCLING) SuperPotion x 1
+[14:06:27] (RECYCLING) Revive x 1
+[14:06:30] (POKESTOP) West Coast Road Sculpture in 53.33 m distance
+[14:06:30] (NAVIGATION) Distance to target location: 53.33 meters. Will take 6 seconds driving at 32kmh
+[14:06:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[14:06:36] (POKESTOP) Pasir Panjang Garden in 117.08 m distance
+[14:06:36] (NAVIGATION) Distance to target location: 117.08 meters. Will take 14.53 seconds driving at 29kmh
+[14:06:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[14:06:50] (POKESTOP) West Coast Public Stage in 61.51 m distance
+[14:06:50] (NAVIGATION) Distance to target location: 61.51 meters. Will take 6.92 seconds driving at 32kmh
+[14:06:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 4 x ItemPokeBall
+[14:06:56] (POKESTOP) Metallic Windmill in 99.1 m distance
+[14:06:56] (NAVIGATION) Distance to target location: 99.1 meters. Will take 12.74 seconds driving at 28kmh
+[14:07:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[14:07:09] (POKESTOP) Block 701 Mini Playground in 146.71 m distance
+[14:07:09] (NAVIGATION) Distance to target location: 146.71 meters. Will take 17.61 seconds driving at 30kmh
+[14:07:24] (INFO) Found 1 catchable Pokemon
+[14:07:24] (BERRY) ItemRazzBerry used, remaining: 48
+[14:07:26] (Wild Success) | Eevee 163 V |  478 Cp | 60.14% | Lvl 17 | Chance: 0.29 | with a GreatBall and received XP 210
