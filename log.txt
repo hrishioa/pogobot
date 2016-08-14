@@ -39105,3 +39105,8 @@
 [23:56:36] (NAVIGATION) Distance to target location: 705.08 meters. Will take 36.26 seconds driving at 70kmh
 [23:57:09] (INFO) Found 1 catchable Pokemon
 [23:57:11] (Wild Success) | Caterpie 94 V |   67 Cp | 31.99% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:57:12] (INFO) Found 1 pokemon to transfer...
+[23:57:14] (TRANSFER) Caterpie 94 V |   67 Cp | 31.99% | Lvl 07 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 165
+[23:57:16] (INFO) Found 1 catchable Pokemon
+[23:57:16] (BERRY) ItemRazzBerry used, remaining: 49
+[23:57:18] (Wild Success) | Psyduck 192 V |  660 Cp | 55.73% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
