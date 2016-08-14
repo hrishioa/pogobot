@@ -38965,3 +38965,4 @@
 [23:50:59] (TRANSFER) Seel 133 V |  499 Cp | 42.78% | Lvl 18 | Best: [Seel 151 V |  273 Cp | 83.59% | Lvl 09] | Candy: 26
 [23:51:00] (INFO) Found 2 catchable Pokemon
 [23:51:02] (Wild Success) | Magikarp 97 V |  112 Cp | 60.88% | Lvl 18 | Chance: 0.49 | with a GreatBall and received XP 210
+[23:51:03] (Wild Success) | Poliwag 91 V |   10 Cp | 28.31% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
