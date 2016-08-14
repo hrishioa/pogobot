@@ -44933,3 +44933,11 @@
 [02:52:13] (NAVIGATION) Distance to target location: 146.65 meters. Will take 18.2 seconds driving at 29kmh
 [02:52:23] (INFO) Found 1 catchable Pokemon
 [02:52:25] (Wild Success) | Zubat 128 V |   26 Cp | 75.29% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[02:52:27] (INFO) Found 1 pokemon to transfer...
+[02:52:29] (TRANSFER) Zubat 128 V |   26 Cp | 75.29% | Lvl 02 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 720
+[02:52:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[02:52:33] (POKESTOP) Direction Sign  Halfway Along Creek in 273.98 m distance
+[02:52:33] (NAVIGATION) Distance to target location: 273.98 meters. Will take 19.73 seconds driving at 50kmh
+[02:52:50] (INFO) Found 2 catchable Pokemon
+[02:52:51] (BERRY) ItemRazzBerry used, remaining: 47
+[02:52:52] (Wild Success) | Psyduck 151 V |  509 Cp | 28.24% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
