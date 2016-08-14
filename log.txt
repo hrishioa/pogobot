@@ -30729,3 +30729,11 @@
 [13:44:00] (INFO) Found 1 catchable Pokemon
 [13:44:01] (BERRY) ItemRazzBerry used, remaining: 48
 [13:44:02] (Wild Success) | Pidgeot 207 V |  710 Cp | 45.62% | Lvl 13 | Chance: 0.1 | with a GreatBall and received XP 210
+[13:44:04] (INFO) Found 1 pokemon to transfer...
+[13:44:05] (TRANSFER) Pidgeot 124 V |   85 Cp | 50.61% | Lvl 02 | Best: [Pidgeot 253 V | 1365 Cp | 57.24% | Lvl 25] | Candy: 1222
+[13:44:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[13:44:08] (POKESTOP) Clementi West White Orchid Mural in 87.42 m distance
+[13:44:08] (NAVIGATION) Distance to target location: 87.42 meters. Will take 11.24 seconds driving at 28kmh
+[13:44:14] (INFO) Found 1 catchable Pokemon
+[13:44:15] (BERRY) ItemRazzBerry used, remaining: 47
+[13:44:16] (Wild Success) | Poliwag 141 V |  471 Cp | 31.62% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
