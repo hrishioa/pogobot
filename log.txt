@@ -23773,3 +23773,17 @@
 [09:18:15] (INFO) Found 1 catchable Pokemon
 [09:18:16] (BERRY) ItemRazzBerry used, remaining: 49
 [09:18:17] (Wild Success) | Goldeen 164 V |  530 Cp | 63.58% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[09:18:18] (INFO) Found 1 pokemon to transfer...
+[09:18:20] (TRANSFER) Goldeen 164 V |  530 Cp | 63.58% | Lvl 21 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 190
+[09:18:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[09:18:23] (POKESTOP) West Coast Fitness Corner in 76.31 m distance
+[09:18:23] (NAVIGATION) Distance to target location: 76.31 meters. Will take 9.81 seconds driving at 28kmh
+[09:18:35] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[09:18:35] (ATTENTION) Restarting the application due to error...
+[09:18:35] (INFO) Logging in via: Google
+[09:18:36] (INFO) Client logged in
+[09:18:36] (INFO) Found 44 Pokestops
+[09:18:37] (POKESTOP) West Coast Playground in 261.95 m distance
+[09:18:37] (NAVIGATION) Distance to target location: 261.95 meters. Will take 19.65 seconds driving at 48kmh
+[09:18:50] (INFO) Found 2 catchable Pokemon
+[09:18:51] (Wild Success) | Exeggcute 189 V |  337 Cp | 89.51% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
