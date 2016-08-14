@@ -32092,3 +32092,15 @@
 [14:32:44] (NAVIGATION) Distance to target location: 165.94 meters. Will take 19.91 seconds driving at 30kmh
 [14:32:57] (INFO) Found 1 catchable Pokemon
 [14:32:59] (Wild Success) | Magikarp 75 V |   62 Cp | 43.65% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
+[14:33:00] (INFO) Found 1 pokemon to transfer...
+[14:33:02] (TRANSFER) Magikarp 75 V |   62 Cp | 43.65% | Lvl 11 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 214
+[14:33:06] (POKESTOP) Veranda Sculpture in 230.5 m distance
+[14:33:06] (NAVIGATION) Distance to target location: 230.5 meters. Will take 19.76 seconds driving at 42kmh
+[14:33:26] (POKESTOP) Ten Two Six in 64.51 m distance
+[14:33:26] (NAVIGATION) Distance to target location: 64.51 meters. Will take 7.49 seconds driving at 31kmh
+[14:33:34] (POKESTOP) University Cultural Centre in 195.87 m distance
+[14:33:34] (NAVIGATION) Distance to target location: 195.87 meters. Will take 19.59 seconds driving at 36kmh
+[14:33:54] (POKESTOP) Bronze Sculpture "Contentment" in 92.23 m distance
+[14:33:54] (NAVIGATION) Distance to target location: 92.23 meters. Will take 10.38 seconds driving at 32kmh
+[14:34:03] (INFO) Found 2 catchable Pokemon
+[14:34:05] (Wild Success) | Pidgey 130 V |  333 Cp | 46.98% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
