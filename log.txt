@@ -40433,3 +40433,4 @@
 [00:38:15] (TRANSFER) Magikarp 105 V |   98 Cp | 69.50% | Lvl 15 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 305
 [00:38:17] (INFO) Found 3 catchable Pokemon
 [00:38:18] (Wild Success) | Magikarp 108 V |   87 Cp | 74.42% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
+[00:38:20] (Wild Success) | Shellder 129 V |  189 Cp | 60.17% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
