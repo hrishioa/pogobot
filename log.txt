@@ -39865,3 +39865,37 @@
 [00:20:10] (INFO) Found 1 catchable Pokemon
 [00:20:10] (BERRY) ItemRazzBerry used, remaining: 49
 [00:20:12] (Wild Success) | Ponyta 207 V |  790 Cp | 53.00% | Lvl 20 | Chance: 0.26 | with a GreatBall and received XP 210
+[00:20:14] (INFO) Found 1 pokemon to transfer...
+[00:20:15] (TRANSFER) Ponyta 205 V |  814 Cp | 43.89% | Lvl 21 | Best: [Ponyta 226 V |  925 Cp | 84.33% | Lvl 22] | Candy: 14
+[00:20:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:20:17] (INFO) Found 3 Recyclable Items:
+[00:20:18] (RECYCLING) PokeBall x 7
+[00:20:19] (RECYCLING) Potion x 1
+[00:20:20] (RECYCLING) Revive x 1
+[00:20:23] (POKESTOP) Oscar and Co in 60.23 m distance
+[00:20:23] (NAVIGATION) Distance to target location: 60.23 meters. Will take 7.48 seconds driving at 29kmh
+[00:20:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPotion
+[00:20:30] (POKESTOP) Skyline Luge Sentosa in 52.18 m distance
+[00:20:30] (NAVIGATION) Distance to target location: 52.18 meters. Will take 6.71 seconds driving at 28kmh
+[00:20:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemPotion
+[00:20:36] (POKESTOP) Sand Bar in 67.91 m distance
+[00:20:36] (NAVIGATION) Distance to target location: 67.91 meters. Will take 8.43 seconds driving at 29kmh
+[00:20:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:20:45] (POKESTOP) Rainbow Tentacle in 59.65 m distance
+[00:20:45] (NAVIGATION) Distance to target location: 59.65 meters. Will take 6.71 seconds driving at 32kmh
+[00:20:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:20:52] (POKESTOP) Rainbow Waves in 55.21 m distance
+[00:20:52] (NAVIGATION) Distance to target location: 55.21 meters. Will take 6.62 seconds driving at 30kmh
+[00:20:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:20:59] (INFO) Found 3 Recyclable Items:
+[00:21:00] (RECYCLING) PokeBall x 4
+[00:21:01] (RECYCLING) Potion x 3
+[00:21:02] (RECYCLING) Revive x 1
+[00:21:04] (POKESTOP) Zebra Thrones in 163.77 m distance
+[00:21:04] (NAVIGATION) Distance to target location: 163.77 meters. Will take 19.65 seconds driving at 30kmh
+[00:21:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 2 x ItemPotion
+[00:21:24] (POKESTOP) Mamba Beach Club  in 128.3 m distance
+[00:21:24] (NAVIGATION) Distance to target location: 128.3 meters. Will take 15.4 seconds driving at 30kmh
+[00:21:37] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[00:21:37] (INFO) Found 1 catchable Pokemon
+[00:21:40] (Wild Success) | Ekans 108 V |  151 Cp | 26.11% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
