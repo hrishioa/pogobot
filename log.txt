@@ -39636,3 +39636,4 @@
 [00:14:02] (INFO) Found 3 catchable Pokemon
 [00:14:03] (Wild Success) | Venonat 150 V |  386 Cp | 43.52% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [00:14:05] (Wild Success) | Voltorb 145 V |  172 Cp | 62.68% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:14:07] (Wild Success) | Spearow 99 V |  128 Cp | 35.91% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
