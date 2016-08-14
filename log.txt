@@ -42529,3 +42529,34 @@
 [01:38:55] (NAVIGATION) Distance to target location: 36.36 meters. Will take 4.67 seconds driving at 28kmh
 [01:38:56] (INFO) Found 1 catchable Pokemon
 [01:38:58] (Wild Success) | Magnemite 152 V |  226 Cp | 56.63% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[01:38:59] (INFO) Found 1 pokemon to transfer...
+[01:39:01] (TRANSFER) Magnemite 152 V |  226 Cp | 56.63% | Lvl 10 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 165
+[01:39:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemUltraBall
+[01:39:03] (INFO) Found 2 Recyclable Items:
+[01:39:04] (RECYCLING) PokeBall x 9
+[01:39:04] (RECYCLING) Revive x 5
+[01:39:07] (POKESTOP) Coloured Roofs in 105.44 m distance
+[01:39:07] (NAVIGATION) Distance to target location: 105.44 meters. Will take 12.24 seconds driving at 31kmh
+[01:39:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:39:19] (POKESTOP) Metal Vines Gateway in 62.44 m distance
+[01:39:19] (NAVIGATION) Distance to target location: 62.44 meters. Will take 8.03 seconds driving at 28kmh
+[01:39:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPotion, 1 x ItemUltraBall
+[01:39:27] (POKESTOP) Lady In Wood in 204.75 m distance
+[01:39:27] (NAVIGATION) Distance to target location: 204.75 meters. Will take 19.92 seconds driving at 37kmh
+[01:39:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[01:39:47] (POKESTOP) Rainbow Waves in 144.22 m distance
+[01:39:47] (NAVIGATION) Distance to target location: 144.22 meters. Will take 16.23 seconds driving at 32kmh
+[01:40:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:40:03] (POKESTOP) Rainbow Tentacle in 50.5 m distance
+[01:40:03] (NAVIGATION) Distance to target location: 50.5 meters. Will take 6.06 seconds driving at 30kmh
+[01:40:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemSuperPotion, 1 x ItemHyperPotion, 1 x ItemPotion
+[01:40:09] (INFO) Found 5 Recyclable Items:
+[01:40:10] (RECYCLING) RazzBerry x 1
+[01:40:11] (RECYCLING) PokeBall x 5
+[01:40:12] (RECYCLING) Potion x 3
+[01:40:13] (RECYCLING) SuperPotion x 2
+[01:40:14] (RECYCLING) HyperPotion x 1
+[01:40:16] (POKESTOP) Sand Bar in 70.1 m distance
+[01:40:16] (NAVIGATION) Distance to target location: 70.1 meters. Will take 9.01 seconds driving at 28kmh
+[01:40:22] (INFO) Found 1 catchable Pokemon
+[01:40:23] (Wild Success) | Magikarp 114 V |   75 Cp | 80.54% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
