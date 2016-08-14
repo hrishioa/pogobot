@@ -33519,3 +33519,8 @@
 [20:40:05] (Wild Success) | Weedle 55 V |  118 Cp | 11.22% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
 [20:40:06] (BERRY) ItemRazzBerry used, remaining: 43
 [20:40:07] (Wild Success) | Golbat 183 V |  526 Cp | 75.26% | Lvl 10 | Chance: 0.18 | with a UltraBall and received XP 420
+[20:40:09] (INFO) Found 2 pokemon to transfer...
+[20:40:11] (TRANSFER) Golbat 183 V |  526 Cp | 75.26% | Lvl 10 | Best: [Golbat 242 V | 1208 Cp | 61.50% | Lvl 24] | Candy: 648
+[20:40:13] (TRANSFER) Weedle 55 V |  118 Cp | 11.22% | Lvl 13 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 216
+[20:40:15] (INFO) Found 1 catchable Pokemon
+[20:40:16] (Wild Success) | Pidgey 133 V |  258 Cp | 57.49% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 420
