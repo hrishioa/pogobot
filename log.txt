@@ -29955,3 +29955,16 @@
 [13:16:54] (NAVIGATION) Distance to target location: 99.4 meters. Will take 12.34 seconds driving at 29kmh
 [13:17:04] (INFO) Found 1 catchable Pokemon
 [13:17:05] (Wild Success) | Pidgey 109 V |   61 Cp | 47.96% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[13:17:07] (INFO) Found 1 pokemon to transfer...
+[13:17:08] (TRANSFER) Pidgey 109 V |   61 Cp | 47.96% | Lvl 04 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1182
+[13:17:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[13:17:11] (POKESTOP) Retro Chess Table  in 81.1 m distance
+[13:17:11] (NAVIGATION) Distance to target location: 81.1 meters. Will take 9.12 seconds driving at 32kmh
+[13:17:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:17:20] (POKESTOP) Pyramid Web with Slider in 71.13 m distance
+[13:17:20] (NAVIGATION) Distance to target location: 71.13 meters. Will take 8.26 seconds driving at 31kmh
+[13:17:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:17:28] (POKESTOP) 4 Mega Zip Lines in 67.09 m distance
+[13:17:28] (NAVIGATION) Distance to target location: 67.09 meters. Will take 7.79 seconds driving at 31kmh
+[13:17:31] (INFO) Found 1 catchable Pokemon
+[13:17:33] (Wild Success) | Venomoth 159 V |  288 Cp | 55.33% | Lvl 06 | Chance: 0.24 | with a UltraBall and received XP 210
