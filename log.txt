@@ -36959,3 +36959,16 @@
 [22:40:33] (TRANSFER) Magnemite 119 V |   10 Cp | 45.71% | Lvl 01 | Best: [Magnemite 148 V |  459 Cp | 29.70% | Lvl 22] | Candy: 18
 [22:40:35] (INFO) Found 1 catchable Pokemon
 [22:40:36] (Wild Success) | Shellder 113 V |  160 Cp | 46.77% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[22:40:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[22:40:39] (INFO) Found 3 Recyclable Items:
+[22:40:40] (RECYCLING) PokeBall x 5
+[22:40:41] (RECYCLING) Potion x 1
+[22:40:42] (RECYCLING) Revive x 3
+[22:40:44] (POKESTOP) Butterfly Primer in 146.29 m distance
+[22:40:44] (NAVIGATION) Distance to target location: 146.29 meters. Will take 16.46 seconds driving at 32kmh
+[22:40:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:41:00] (POKESTOP) Resident Wildfire Area in 706.15 m distance
+[22:41:00] (NAVIGATION) Distance to target location: 706.15 meters. Will take 36.32 seconds driving at 70kmh
+[22:41:03] (INFO) Found 1 catchable Pokemon
+[22:41:04] (BERRY) ItemRazzBerry used, remaining: 39
+[22:41:05] (Wild Success) | Voltorb 199 V |  439 Cp | 84.92% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
