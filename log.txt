@@ -38432,3 +38432,5 @@
 [23:31:31] (NAVIGATION) Distance to target location: 305.04 meters. Will take 19.97 seconds driving at 55kmh
 [23:31:39] (INFO) Found 1 catchable Pokemon
 [23:31:42] (Wild Success) | Golduck 139 V |  295 Cp | 43.75% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 710
+[23:31:46] (INFO) Found 1 catchable Pokemon
+[23:31:48] (Wild Success) | Meowth 106 V |   10 Cp | 43.35% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
