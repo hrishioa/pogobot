@@ -38379,3 +38379,18 @@
 [23:29:02] (INFO) Found 3 catchable Pokemon
 [23:29:03] (Wild Success) | Voltorb 142 V |  215 Cp | 57.81% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [23:29:05] (Wild Success) | Bellsprout 167 V |  380 Cp | 62.47% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[23:29:07] (BERRY) ItemRazzBerry used, remaining: 44
+[23:29:07] (Wild Escape) | Poliwhirl 164 V |  592 Cp | 53.34% | Lvl 17 | Chance: 0.18 | with a GreatBall 
+[23:29:08] (BERRY) ItemRazzBerry used, remaining: 43
+[23:29:08] (Wild Success Attempt #2) | Poliwhirl 164 V |  592 Cp | 53.34% | Lvl 17 | Chance: 0.18 | with a GreatBall 
+[23:29:10] (INFO) Found 2 pokemon to transfer...
+[23:29:12] (TRANSFER) Voltorb 142 V |  215 Cp | 57.81% | Lvl 10 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 52
+[23:29:14] (TRANSFER) Bellsprout 167 V |  380 Cp | 62.47% | Lvl 13 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 78
+[23:29:16] (INFO) Found 1 catchable Pokemon
+[23:29:16] (Wild Flee) | Oddish 123 V |  222 Cp | 33.87% | Lvl 08 | Chance: 0.63 | with a PokeBall 
+[23:29:21] (POKESTOP) Egyptian Art Gallery  in 350.16 m distance
+[23:29:21] (NAVIGATION) Distance to target location: 350.16 meters. Will take 19.7 seconds driving at 64kmh
+[23:29:24] (INFO) Found 1 catchable Pokemon
+[23:29:25] (Wild Flee) | Krabby 124 V |  406 Cp | 28.93% | Lvl 22 | Chance: 0.31 | with a PokeBall 
+[23:29:30] (INFO) Found 1 catchable Pokemon
+[23:29:31] (Wild Success) | Horsea 141 V |  386 Cp | 42.25% | Lvl 20 | Chance: 0.33 | with a PokeBall and received XP 210
