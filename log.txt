@@ -44583,3 +44583,17 @@
 [02:41:19] (TRANSFER) Rattata 93 V |  186 Cp | 13.88% | Lvl 15 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 432
 [02:41:21] (INFO) Found 1 catchable Pokemon
 [02:41:22] (Wild Success) | Magikarp 69 V |   76 Cp | 35.99% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
+[02:41:24] (INFO) Found 1 pokemon to transfer...
+[02:41:26] (TRANSFER) Magikarp 69 V |   76 Cp | 35.99% | Lvl 14 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 437
+[02:41:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[02:41:28] (POKESTOP) Siloso West Washroom in 92.84 m distance
+[02:41:28] (NAVIGATION) Distance to target location: 92.84 meters. Will take 10.44 seconds driving at 32kmh
+[02:41:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemGreatBall, 1 x ItemPokeBall
+[02:41:38] (INFO) Found 3 Recyclable Items:
+[02:41:39] (RECYCLING) PokeBall x 5
+[02:41:40] (RECYCLING) Potion x 2
+[02:41:41] (RECYCLING) HyperPotion x 1
+[02:41:43] (POKESTOP) Sapphire Pavillion  in 87.9 m distance
+[02:41:43] (NAVIGATION) Distance to target location: 87.9 meters. Will take 10.91 seconds driving at 29kmh
+[02:41:49] (INFO) Found 2 catchable Pokemon
+[02:41:51] (Wild Success) | Zubat 85 V |  131 Cp | 26.76% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
