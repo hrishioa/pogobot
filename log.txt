@@ -33146,3 +33146,32 @@
 [20:25:59] (INFO) Found 2 catchable Pokemon
 [20:26:01] (Wild Success) | Bellsprout 147 V |  441 Cp | 38.10% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
 [20:26:02] (Wild Success) | Oddish 136 V |   46 Cp | 63.56% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
+[20:26:04] (INFO) Found 2 pokemon to transfer...
+[20:26:05] (TRANSFER) Bellsprout 147 V |  441 Cp | 38.10% | Lvl 16 | Best: [Bellsprout 182 V |  485 Cp | 51.98% | Lvl 17] | Candy: 62
+[20:26:07] (TRANSFER) Oddish 136 V |   46 Cp | 63.56% | Lvl 02 | Best: [Oddish 153 V |  268 Cp | 59.10% | Lvl 09] | Candy: 17
+[20:26:11] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:26:12] (POKESTOP) Aldersgate Chapel in 287.32 m distance
+[20:26:12] (NAVIGATION) Distance to target location: 287.32 meters. Will take 19.89 seconds driving at 52kmh
+[20:26:32] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:26:34] (POKESTOP) Insead in 135.15 m distance
+[20:26:34] (NAVIGATION) Distance to target location: 135.15 meters. Will take 17.38 seconds driving at 28kmh
+[20:26:48] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:26:51] (POKESTOP) Circle of Life Statue in 84.69 m distance
+[20:26:51] (NAVIGATION) Distance to target location: 84.69 meters. Will take 9.84 seconds driving at 31kmh
+[20:26:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:27:01] (POKESTOP) Education in 53.49 m distance
+[20:27:01] (NAVIGATION) Distance to target location: 53.49 meters. Will take 6.42 seconds driving at 30kmh
+[20:27:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:27:07] (POKESTOP) Ayer Rajah Industrial Estate in 75.5 m distance
+[20:27:07] (NAVIGATION) Distance to target location: 75.5 meters. Will take 9.37 seconds driving at 29kmh
+[20:27:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:27:16] (POKESTOP) Frog on Lily in 130.89 m distance
+[20:27:16] (NAVIGATION) Distance to target location: 130.89 meters. Will take 15.71 seconds driving at 30kmh
+[20:27:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:27:31] (POKESTOP) Mural at Block 71 in 329.89 m distance
+[20:27:31] (NAVIGATION) Distance to target location: 329.89 meters. Will take 19.79 seconds driving at 60kmh
+[20:27:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:27:54] (POKESTOP) JFDI the Frog in 100.59 m distance
+[20:27:54] (NAVIGATION) Distance to target location: 100.59 meters. Will take 12.93 seconds driving at 28kmh
+[20:28:00] (INFO) Found 2 catchable Pokemon
+[20:28:02] (Wild Success) | Zubat 154 V |  114 Cp | 67.73% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
