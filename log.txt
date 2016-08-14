@@ -38333,3 +38333,11 @@
 [23:26:40] (INFO) Found 2 catchable Pokemon
 [23:26:42] (Wild Success) | Squirtle 89 V |  116 Cp | 36.74% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 210
 [23:26:43] (Wild Success) | Psyduck 112 V |  375 Cp | 1.84% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[23:26:45] (INFO) Found 2 pokemon to transfer...
+[23:26:46] (TRANSFER) Psyduck 112 V |  375 Cp | 1.84% | Lvl 15 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 130
+[23:26:49] (TRANSFER) Squirtle 89 V |  116 Cp | 36.74% | Lvl 05 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 25
+[23:27:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:27:04] (POKESTOP) Cove Gazebo #3 in 319.23 m distance
+[23:27:04] (NAVIGATION) Distance to target location: 319.23 meters. Will take 19.81 seconds driving at 58kmh
+[23:27:24] (INFO) Found 1 catchable Pokemon
+[23:27:25] (Wild Success) | Shellder 135 V |  167 Cp | 61.45% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
