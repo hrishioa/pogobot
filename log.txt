@@ -30006,3 +30006,12 @@
 [13:18:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemGreatBall
 [13:18:37] (INFO) Found 1 catchable Pokemon
 [13:18:39] (Wild Success) | Bellsprout 134 V |  159 Cp | 38.49% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[13:18:40] (INFO) Found 1 pokemon to transfer...
+[13:18:42] (TRANSFER) Bellsprout 134 V |  159 Cp | 38.49% | Lvl 06 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 316
+[13:18:43] (POKESTOP) West Coast Park Amphitheatre in 113.2 m distance
+[13:18:43] (NAVIGATION) Distance to target location: 113.2 meters. Will take 14.05 seconds driving at 29kmh
+[13:18:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[13:18:56] (POKESTOP) Volleyball Arena in 188.72 m distance
+[13:18:56] (NAVIGATION) Distance to target location: 188.72 meters. Will take 19.98 seconds driving at 34kmh
+[13:18:58] (INFO) Found 1 catchable Pokemon
+[13:19:00] (Wild Success) | Meowth 178 V |  309 Cp | 82.28% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
