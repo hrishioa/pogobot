@@ -33188,3 +33188,5 @@
 [20:28:35] (Wild Success) | Rattata 114 V |  150 Cp | 38.74% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
 [20:28:36] (BERRY) ItemRazzBerry used, remaining: 46
 [20:28:37] (Wild Success) | Pidgey 137 V |  359 Cp | 55.51% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
+[20:28:38] (BERRY) ItemRazzBerry used, remaining: 45
+[20:28:39] (Wild Success) | Venonat 171 V |  593 Cp | 62.48% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
