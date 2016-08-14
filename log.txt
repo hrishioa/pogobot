@@ -45075,3 +45075,10 @@
 [02:56:09] (NAVIGATION) Distance to target location: 333.73 meters. Will take 19.7 seconds driving at 61kmh
 [02:56:18] (INFO) Found 1 catchable Pokemon
 [02:56:20] (Wild Success) | Zubat 141 V |  280 Cp | 63.10% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[02:56:21] (INFO) Found 1 pokemon to transfer...
+[02:56:23] (TRANSFER) Zubat 141 V |  280 Cp | 63.10% | Lvl 17 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 724
+[02:56:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[02:56:30] (POKESTOP) Telok Blangah Play Court in 111.53 m distance
+[02:56:30] (NAVIGATION) Distance to target location: 111.53 meters. Will take 12.95 seconds driving at 31kmh
+[02:56:38] (INFO) Found 2 catchable Pokemon
+[02:56:40] (Wild Success) | Poliwag 131 V |  183 Cp | 60.56% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
