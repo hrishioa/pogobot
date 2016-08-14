@@ -30897,3 +30897,15 @@
 [13:48:43] (Wild Success) | Rattata 161 V |  358 Cp | 65.13% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
 [13:48:45] (Wild Success) | Staryu 109 V |  134 Cp | 46.22% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [13:48:46] (Wild Success) | Pidgey 132 V |  304 Cp | 52.06% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[13:48:48] (INFO) Found 3 pokemon to transfer...
+[13:48:50] (TRANSFER) Pidgey 132 V |  304 Cp | 52.06% | Lvl 18 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1226
+[13:48:52] (TRANSFER) Staryu 109 V |  134 Cp | 46.22% | Lvl 06 | Best: [Staryu 184 V |  598 Cp | 71.51% | Lvl 24] | Candy: 120
+[13:48:55] (TRANSFER) Rattata 161 V |  358 Cp | 65.13% | Lvl 24 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 697
+[13:48:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:48:59] (POKESTOP) The Fishman in 336.92 m distance
+[13:48:59] (NAVIGATION) Distance to target location: 336.92 meters. Will take 19.88 seconds driving at 61kmh
+[13:49:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[13:49:21] (POKESTOP) Jalan Mas Kuning Playground in 534.55 m distance
+[13:49:21] (NAVIGATION) Distance to target location: 534.55 meters. Will take 27.49 seconds driving at 70kmh
+[13:49:36] (INFO) Found 1 catchable Pokemon
+[13:49:38] (Wild Success) | Eevee 159 V |  169 Cp | 77.18% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
