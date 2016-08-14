@@ -38979,3 +38979,4 @@
 [23:51:19] (NAVIGATION) Distance to target location: 234.64 meters. Will take 19.64 seconds driving at 43kmh
 [23:51:30] (INFO) Found 3 catchable Pokemon
 [23:51:32] (Wild Success) | Poliwhirl 98 V |   87 Cp | 36.96% | Lvl 03 | Chance: 0.46 | with a GreatBall and received XP 210
+[23:51:34] (Wild Success) | Tentacool 123 V |  351 Cp | 36.31% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
