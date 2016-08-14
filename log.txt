@@ -37500,3 +37500,4 @@
 [22:56:41] (NAVIGATION) Distance to target location: 447.55 meters. Will take 23.02 seconds driving at 70kmh
 [22:56:49] (INFO) Found 2 catchable Pokemon
 [22:56:51] (Wild Success) | Slowpoke 94 V |   46 Cp | 33.91% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[22:56:53] (Wild Success) | Vulpix 106 V |  182 Cp | 42.87% | Lvl 09 | Chance: 0.3 | with a GreatBall and received XP 210
