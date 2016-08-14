@@ -31563,3 +31563,17 @@
 [14:12:30] (INFO) Found 1 catchable Pokemon
 [14:12:30] (BERRY) ItemRazzBerry used, remaining: 49
 [14:12:32] (Wild Success) | Dratini 167 V |  399 Cp | 77.33% | Lvl 15 | Chance: 0.3 | with a GreatBall and received XP 210
+[14:12:33] (INFO) Found 1 pokemon to transfer...
+[14:12:34] (TRANSFER) Dratini 145 V |  208 Cp | 73.73% | Lvl 08 | Best: [Dratini 185 V |  295 Cp | 80.42% | Lvl 11] | Candy: 18
+[14:12:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:12:43] (POKESTOP) Ten Two Six in 68.05 m distance
+[14:12:43] (NAVIGATION) Distance to target location: 68.05 meters. Will take 8.17 seconds driving at 30kmh
+[14:12:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 2 x ItemPokeBall
+[14:12:51] (POKESTOP) Clementi Woods Fitness Corner in 289.75 m distance
+[14:12:51] (NAVIGATION) Distance to target location: 289.75 meters. Will take 19.68 seconds driving at 53kmh
+[14:13:11] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 4 x ItemPokeBall, 1 x ItemSuperPotion
+[14:13:12] (POKESTOP) Sun Moon Mural in 624.53 m distance
+[14:13:12] (NAVIGATION) Distance to target location: 624.53 meters. Will take 32.12 seconds driving at 70kmh
+[14:13:37] (INFO) Found 2 catchable Pokemon
+[14:13:39] (BERRY) ItemRazzBerry used, remaining: 49
+[14:13:40] (Wild Success) | Bellsprout 115 V |  638 Cp | 24.32% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
