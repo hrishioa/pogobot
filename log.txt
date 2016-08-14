@@ -35771,3 +35771,4 @@
 [21:57:40] (INFO) Found 2 catchable Pokemon
 [21:57:42] (BERRY) ItemRazzBerry used, remaining: 37
 [21:57:43] (Wild Success) | Poliwag 176 V |  434 Cp | 63.83% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[21:57:44] (Wild Success) | Weedle 73 V |   48 Cp | 36.25% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
