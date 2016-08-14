@@ -44465,3 +44465,4 @@
 [02:36:09] (TRANSFER) Pikachu 129 V |  401 Cp | 14.06% | Lvl 20 | Best: [Pikachu 163 V |  515 Cp | 36.29% | Lvl 24] | Candy: 94
 [02:36:10] (INFO) Found 2 catchable Pokemon
 [02:36:12] (Wild Success) | Magnemite 123 V |  295 Cp | 32.87% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:36:13] (Wild Success) | Voltorb 146 V |  213 Cp | 54.70% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
