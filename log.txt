@@ -35815,3 +35815,9 @@
 [22:00:21] (TRANSFER) Weedle 56 V |  101 Cp | 14.09% | Lvl 11 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 623
 [22:00:23] (INFO) Found 1 catchable Pokemon
 [22:00:24] (Wild Success) | Rattata 109 V |   77 Cp | 33.70% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[22:00:26] (INFO) Found 1 pokemon to transfer...
+[22:00:28] (TRANSFER) Rattata 109 V |   77 Cp | 33.70% | Lvl 06 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 773
+[22:00:31] (POKESTOP) Wu Tai Shan  in 64.92 m distance
+[22:00:31] (NAVIGATION) Distance to target location: 64.92 meters. Will take 8.35 seconds driving at 28kmh
+[22:00:36] (INFO) Found 1 catchable Pokemon
+[22:00:37] (Wild Success) | Zubat 117 V |   10 Cp | 50.73% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
