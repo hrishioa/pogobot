@@ -38994,3 +38994,16 @@
 [23:51:55] (TRANSFER) Goldeen 103 V |   11 Cp | 45.25% | Lvl 01 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 197
 [23:52:11] (INFO) Found 1 catchable Pokemon
 [23:52:13] (Wild Success) | Tentacool 68 V |   82 Cp | 46.16% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[23:52:14] (INFO) Found 1 pokemon to transfer...
+[23:52:16] (TRANSFER) Tentacool 68 V |   82 Cp | 46.16% | Lvl 04 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 56
+[23:52:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:52:20] (POKESTOP) Giant Plate And Bowls in 55.44 m distance
+[23:52:20] (NAVIGATION) Distance to target location: 55.44 meters. Will take 6.44 seconds driving at 31kmh
+[23:52:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:52:27] (POKESTOP) Sentosa Cove Arrival Hall in 63.73 m distance
+[23:52:27] (NAVIGATION) Distance to target location: 63.73 meters. Will take 7.4 seconds driving at 31kmh
+[23:52:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:52:34] (POKESTOP) Porcelain Egg Statue in 130.29 m distance
+[23:52:34] (NAVIGATION) Distance to target location: 130.29 meters. Will take 16.75 seconds driving at 28kmh
+[23:52:44] (INFO) Found 1 catchable Pokemon
+[23:52:46] (Wild Success) | Poliwag 123 V |  326 Cp | 38.05% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
