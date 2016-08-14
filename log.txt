@@ -35230,3 +35230,34 @@
 [21:33:52] (INFO) Found 2 catchable Pokemon
 [21:33:54] (Wild Success) | Zubat 116 V |   24 Cp | 48.63% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [21:33:55] (Wild Success) | Zubat 128 V |  126 Cp | 55.03% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[21:33:57] (INFO) Found 2 pokemon to transfer...
+[21:33:59] (TRANSFER) Zubat 128 V |  126 Cp | 55.03% | Lvl 08 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 985
+[21:34:01] (TRANSFER) Zubat 116 V |   24 Cp | 48.63% | Lvl 02 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 986
+[21:34:05] (POKESTOP) First the Dream Then the Nightmare in 32.58 m distance
+[21:34:05] (NAVIGATION) Distance to target location: 32.58 meters. Will take 3.91 seconds driving at 30kmh
+[21:34:08] (POKESTOP) Compounds of Five Cubes in 89.77 m distance
+[21:34:08] (NAVIGATION) Distance to target location: 89.77 meters. Will take 10.1 seconds driving at 32kmh
+[21:34:18] (POKESTOP) Synergy in Motion in 138.45 m distance
+[21:34:18] (NAVIGATION) Distance to target location: 138.45 meters. Will take 16.61 seconds driving at 30kmh
+[21:34:34] (POKESTOP) Sage In Shaw in 46.1 m distance
+[21:34:34] (NAVIGATION) Distance to target location: 46.1 meters. Will take 5.72 seconds driving at 29kmh
+[21:34:39] (POKESTOP) The Deck at Arts Faculty in 142.4 m distance
+[21:34:39] (NAVIGATION) Distance to target location: 142.4 meters. Will take 16.02 seconds driving at 32kmh
+[21:34:55] (POKESTOP) Fragrant Plant Garden in 119.34 m distance
+[21:34:55] (NAVIGATION) Distance to target location: 119.34 meters. Will take 14.32 seconds driving at 30kmh
+[21:35:08] (POKESTOP) Park Gazebos in 53.62 m distance
+[21:35:08] (NAVIGATION) Distance to target location: 53.62 meters. Will take 6.89 seconds driving at 28kmh
+[21:35:15] (POKESTOP) Footprint Bench in 162.77 m distance
+[21:35:15] (NAVIGATION) Distance to target location: 162.77 meters. Will take 18.9 seconds driving at 31kmh
+[21:35:34] (POKESTOP) Ventus in 96.92 m distance
+[21:35:34] (NAVIGATION) Distance to target location: 96.92 meters. Will take 12.46 seconds driving at 28kmh
+[21:35:45] (POKESTOP) Heritage Time Arc in 69.62 m distance
+[21:35:45] (NAVIGATION) Distance to target location: 69.62 meters. Will take 7.83 seconds driving at 32kmh
+[21:35:53] (POKESTOP) NUS monolith in 134.3 m distance
+[21:35:53] (NAVIGATION) Distance to target location: 134.3 meters. Will take 15.6 seconds driving at 31kmh
+[21:36:07] (POKESTOP) Metal Robot Structure in 146.4 m distance
+[21:36:07] (NAVIGATION) Distance to target location: 146.4 meters. Will take 18.17 seconds driving at 29kmh
+[21:36:24] (POKESTOP) Abstact Sculptures At NUS in 126.24 m distance
+[21:36:24] (NAVIGATION) Distance to target location: 126.24 meters. Will take 14.66 seconds driving at 31kmh
+[21:36:37] (INFO) Found 1 catchable Pokemon
+[21:36:39] (Wild Success) | Zubat 134 V |  289 Cp | 54.59% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
