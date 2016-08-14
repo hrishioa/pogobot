@@ -28365,3 +28365,7 @@
 [12:11:20] (TRANSFER) Pidgey 85 V |   41 Cp | 30.84% | Lvl 03 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1134
 [12:11:21] (INFO) Found 1 catchable Pokemon
 [12:11:23] (Wild Success) | Pidgey 108 V |  161 Cp | 37.19% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[12:11:25] (INFO) Found 1 pokemon to transfer...
+[12:11:26] (TRANSFER) Pidgey 108 V |  161 Cp | 37.19% | Lvl 10 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1138
+[12:11:34] (INFO) Found 1 catchable Pokemon
+[12:11:36] (Wild Success) | Weedle 79 V |   44 Cp | 19.92% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
