@@ -37798,3 +37798,4 @@
 [23:06:45] (Wild Success) | Magnemite 152 V |  439 Cp | 46.03% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
 [23:06:46] (BERRY) ItemRazzBerry used, remaining: 44
 [23:06:47] (Wild Success) | Goldeen 187 V |  569 Cp | 73.33% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[23:06:48] (Wild Success) | Goldeen 157 V |  304 Cp | 65.19% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
