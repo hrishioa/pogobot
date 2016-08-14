@@ -44517,3 +44517,27 @@
 [02:38:13] (NAVIGATION) Distance to target location: 56.83 meters. Will take 7.05 seconds driving at 29kmh
 [02:38:17] (INFO) Found 1 catchable Pokemon
 [02:38:18] (Wild Success) | Oddish 167 V |  629 Cp | 39.31% | Lvl 22 | Chance: 0.38 | with a GreatBall and received XP 210
+[02:38:20] (INFO) Found 1 pokemon to transfer...
+[02:38:21] (TRANSFER) Oddish 167 V |  629 Cp | 39.31% | Lvl 22 | Best: [Oddish 193 V |  609 Cp | 66.69% | Lvl 20] | Candy: 45
+[02:38:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[02:38:25] (POKESTOP) Rasa Waterfall in 68.24 m distance
+[02:38:25] (NAVIGATION) Distance to target location: 68.24 meters. Will take 8.77 seconds driving at 28kmh
+[02:38:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[02:38:33] (POKESTOP) 7 Inch Gun in 85.01 m distance
+[02:38:33] (NAVIGATION) Distance to target location: 85.01 meters. Will take 9.56 seconds driving at 32kmh
+[02:38:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[02:38:43] (POKESTOP) Toot's Garden in 125.05 m distance
+[02:38:43] (NAVIGATION) Distance to target location: 125.05 meters. Will take 14.07 seconds driving at 32kmh
+[02:38:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:38:56] (INFO) Found 3 Recyclable Items:
+[02:38:57] (RECYCLING) PokeBall x 9
+[02:38:58] (RECYCLING) Potion x 2
+[02:38:59] (RECYCLING) HyperPotion x 1
+[02:39:01] (POKESTOP) Frog Pool  in 117.1 m distance
+[02:39:01] (NAVIGATION) Distance to target location: 117.1 meters. Will take 14.05 seconds driving at 30kmh
+[02:39:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[02:39:14] (INFO) Found 27 Pokestops
+[02:39:16] (POKESTOP) Underwater World  in 191.08 m distance
+[02:39:16] (NAVIGATION) Distance to target location: 191.08 meters. Will take 19.65 seconds driving at 35kmh
+[02:39:34] (INFO) Found 1 catchable Pokemon
+[02:39:35] (Wild Success) | Krabby 101 V |  204 Cp | 30.58% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
