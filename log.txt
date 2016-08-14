@@ -34700,3 +34700,10 @@
 [21:14:03] (NAVIGATION) Distance to target location: 137.81 meters. Will take 16 seconds driving at 31kmh
 [21:14:13] (INFO) Found 1 catchable Pokemon
 [21:14:14] (Wild Success) | Goldeen 154 V |  224 Cp | 59.99% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
+[21:14:16] (INFO) Found 1 pokemon to transfer...
+[21:14:18] (TRANSFER) Goldeen 154 V |  224 Cp | 59.99% | Lvl 09 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 222
+[21:14:21] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:14:22] (POKESTOP) Race to the Future Car at FOE in 74.7 m distance
+[21:14:22] (NAVIGATION) Distance to target location: 74.7 meters. Will take 8.96 seconds driving at 30kmh
+[21:14:25] (INFO) Found 1 catchable Pokemon
+[21:14:27] (Wild Success) | Zubat 112 V |   24 Cp | 45.43% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
