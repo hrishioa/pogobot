@@ -42777,3 +42777,32 @@
 [01:46:02] (NAVIGATION) Distance to target location: 56.81 meters. Will take 6.82 seconds driving at 30kmh
 [01:46:07] (INFO) Found 1 catchable Pokemon
 [01:46:09] (Wild Success) | Weedle 97 V |  174 Cp | 24.62% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[01:46:10] (INFO) Found 1 pokemon to transfer...
+[01:46:12] (TRANSFER) Weedle 97 V |  174 Cp | 24.62% | Lvl 18 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 288
+[01:46:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[01:46:15] (POKESTOP) Rasa Waterfall in 68.02 m distance
+[01:46:15] (NAVIGATION) Distance to target location: 68.02 meters. Will take 8.44 seconds driving at 29kmh
+[01:46:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:46:23] (POKESTOP) 7 Inch Gun in 85.33 m distance
+[01:46:23] (NAVIGATION) Distance to target location: 85.33 meters. Will take 9.91 seconds driving at 31kmh
+[01:46:31] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemRazzBerry, 2 x ItemPokeBall, 2 x ItemPotion
+[01:46:32] (POKESTOP) Guardroom in 110.28 m distance
+[01:46:32] (NAVIGATION) Distance to target location: 110.28 meters. Will take 12.81 seconds driving at 31kmh
+[01:46:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[01:46:45] (POKESTOP) 7 Inch RML Gun in 86.55 m distance
+[01:46:45] (NAVIGATION) Distance to target location: 86.55 meters. Will take 10.74 seconds driving at 29kmh
+[01:46:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:46:56] (INFO) Found 3 Recyclable Items:
+[01:46:57] (RECYCLING) PokeBall x 10
+[01:46:58] (RECYCLING) Potion x 5
+[01:46:59] (RECYCLING) Revive x 1
+[01:47:01] (POKESTOP) 64 pounder RML Guns in 153.92 m distance
+[01:47:01] (NAVIGATION) Distance to target location: 153.92 meters. Will take 19.79 seconds driving at 28kmh
+[01:47:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[01:47:20] (POKESTOP) Toot's Garden in 232.85 m distance
+[01:47:20] (NAVIGATION) Distance to target location: 232.85 meters. Will take 19.96 seconds driving at 42kmh
+[01:47:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[01:47:41] (POKESTOP) Frog Pool  in 127.61 m distance
+[01:47:41] (NAVIGATION) Distance to target location: 127.61 meters. Will take 15.31 seconds driving at 30kmh
+[01:47:43] (INFO) Found 1 catchable Pokemon
+[01:47:44] (Wild Success) | Pidgey 112 V |  215 Cp | 45.39% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
