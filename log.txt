@@ -33758,3 +33758,13 @@
 [20:47:40] (INFO) Found 1 catchable Pokemon
 [20:47:42] (BERRY) ItemRazzBerry used, remaining: 42
 [20:47:43] (Wild Success) | Pinsir 259 V | 1146 Cp | 96.84% | Lvl 19 | Chance: 0.2 | with a UltraBall and received XP 420
+[20:47:44] (INFO) Found 1 pokemon to transfer...
+[20:47:46] (TRANSFER) Pinsir 222 V |  874 Cp | 75.46% | Lvl 15 | Best: [Pinsir 259 V | 1146 Cp | 96.84% | Lvl 19] | Candy: 38
+[20:47:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[20:47:47] (INFO) Found 1 Recyclable Item:
+[20:47:48] (RECYCLING) SuperPotion x 1
+[20:47:50] (POKESTOP) Clean & Green Singapore at Dover in 123.29 m distance
+[20:47:50] (NAVIGATION) Distance to target location: 123.29 meters. Will take 14.79 seconds driving at 30kmh
+[20:47:56] (INFO) Found 2 catchable Pokemon
+[20:47:58] (BERRY) ItemRazzBerry used, remaining: 41
+[20:47:58] (Wild Success) | Staryu 142 V |  434 Cp | 39.26% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 420
