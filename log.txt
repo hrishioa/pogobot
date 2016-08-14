@@ -23232,3 +23232,23 @@
 [09:01:24] (INFO) Found 2 catchable Pokemon
 [09:01:25] (Wild Success) | Rattata 149 V |  248 Cp | 58.59% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
 [09:01:27] (Wild Success) | Psyduck 91 V |  126 Cp | 26.35% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[09:01:28] (INFO) Found 2 pokemon to transfer...
+[09:01:30] (TRANSFER) Rattata 149 V |  248 Cp | 58.59% | Lvl 17 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 609
+[09:01:32] (TRANSFER) Psyduck 91 V |  126 Cp | 26.35% | Lvl 05 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 70
+[09:01:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:01:36] (INFO) Found 2 Recyclable Items:
+[09:01:37] (RECYCLING) PokeBall x 7
+[09:01:38] (RECYCLING) Revive x 1
+[09:01:41] (POKESTOP) Swimming Pool @ Utown in 65.78 m distance
+[09:01:41] (NAVIGATION) Distance to target location: 65.78 meters. Will take 8.46 seconds driving at 28kmh
+[09:01:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[09:01:48] (POKESTOP) ERC UTown Benefactors in 49.66 m distance
+[09:01:48] (NAVIGATION) Distance to target location: 49.66 meters. Will take 5.96 seconds driving at 30kmh
+[09:01:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[09:01:54] (POKESTOP) UT Auditorium 2 in 136.21 m distance
+[09:01:54] (NAVIGATION) Distance to target location: 136.21 meters. Will take 15.32 seconds driving at 32kmh
+[09:02:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[09:02:09] (POKESTOP) West Coast Fan in 331.55 m distance
+[09:02:09] (NAVIGATION) Distance to target location: 331.55 meters. Will take 19.89 seconds driving at 60kmh
+[09:02:27] (INFO) Found 1 catchable Pokemon
+[09:02:29] (Wild Success) | Magikarp 105 V |   79 Cp | 72.00% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
