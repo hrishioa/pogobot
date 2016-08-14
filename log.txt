@@ -45707,3 +45707,4 @@
 [03:17:40] (INFO) Found 2 catchable Pokemon
 [03:17:41] (BERRY) ItemRazzBerry used, remaining: 39
 [03:17:42] (Wild Success) | Goldeen 161 V |  559 Cp | 48.23% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[03:17:44] (Wild Success) | Caterpie 88 V |  124 Cp | 25.87% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
