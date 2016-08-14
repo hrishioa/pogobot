@@ -31536,3 +31536,8 @@
 [14:11:39] (NAVIGATION) Distance to target location: 95.73 meters. Will take 11.49 seconds driving at 30kmh
 [14:11:41] (INFO) Found 1 catchable Pokemon
 [14:11:43] (Wild Success) | Ekans 153 V |  165 Cp | 56.62% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[14:11:45] (INFO) Found 1 pokemon to transfer...
+[14:11:47] (TRANSFER) Ekans 153 V |  165 Cp | 56.62% | Lvl 08 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 216
+[14:11:48] (INFO) Found 2 catchable Pokemon
+[14:11:49] (BERRY) ItemRazzBerry used, remaining: 50
+[14:11:50] (Wild Success) | Pinsir 193 V |  853 Cp | 60.79% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 210
