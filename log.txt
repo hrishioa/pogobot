@@ -23887,3 +23887,6 @@
 [09:23:17] (INFO) Found 1 catchable Pokemon
 [09:23:18] (BERRY) ItemRazzBerry used, remaining: 46
 [09:23:19] (Wild Success) | Poliwhirl 161 V |  390 Cp | 62.06% | Lvl 11 | Chance: 0.22 | with a GreatBall and received XP 210
+[09:23:24] (INFO) Found 2 catchable Pokemon
+[09:23:25] (BERRY) ItemRazzBerry used, remaining: 45
+[09:23:26] (Wild Success) | Golbat 192 V |  630 Cp | 74.11% | Lvl 12 | Chance: 0.17 | with a GreatBall and received XP 210
