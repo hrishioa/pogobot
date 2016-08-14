@@ -37575,3 +37575,4 @@
 [22:59:43] (NAVIGATION) Distance to target location: 306.62 meters. Will take 19.71 seconds driving at 56kmh
 [22:59:52] (INFO) Found 4 catchable Pokemon
 [22:59:54] (Wild Success) | Seel 99 V |  129 Cp | 39.46% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[22:59:56] (Wild Success) | Magikarp 108 V |  131 Cp | 70.34% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
