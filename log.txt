@@ -44553,3 +44553,29 @@
 [02:39:57] (Wild Success) | Seaking 167 V |  258 Cp | 61.19% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 210
 [02:39:59] (Wild Success) | Magikarp 89 V |   85 Cp | 55.95% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
 [02:40:00] (Wild Success) | Psyduck 161 V |  334 Cp | 43.44% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[02:40:01] (EGG) Hatched egg! Caterpie            163 True Value |  244 Cp | 88.98% Perfect | Lvl 20 | Tackle/Struggle
+[02:40:02] (EGG) Added 2km egg to incubator
+[02:40:03] (INFO) Found 3 pokemon to transfer...
+[02:40:04] (TRANSFER) Psyduck 161 V |  334 Cp | 43.44% | Lvl 12 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 185
+[02:40:06] (TRANSFER) Caterpie 107 V |  182 Cp | 38.62% | Lvl 18 | Best: [Caterpie 163 V |  244 Cp | 88.98% | Lvl 20] | Candy: 207
+[02:40:09] (TRANSFER) Magikarp 89 V |   85 Cp | 55.95% | Lvl 14 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 433
+[02:40:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[02:40:14] (POKESTOP) Giant Crab Anatomy in 85.6 m distance
+[02:40:14] (NAVIGATION) Distance to target location: 85.6 meters. Will take 10.63 seconds driving at 29kmh
+[02:40:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:40:24] (INFO) Found 2 Recyclable Items:
+[02:40:24] (RECYCLING) PokeBall x 9
+[02:40:25] (RECYCLING) Potion x 1
+[02:40:28] (POKESTOP) Pyramid Totem in 76.31 m distance
+[02:40:28] (NAVIGATION) Distance to target location: 76.31 meters. Will take 8.59 seconds driving at 32kmh
+[02:40:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[02:40:37] (POKESTOP) 3 Cycle Wheels in 212.36 m distance
+[02:40:37] (NAVIGATION) Distance to target location: 212.36 meters. Will take 19.6 seconds driving at 39kmh
+[02:40:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[02:40:58] (POKESTOP) Siloso Beach in 104.47 m distance
+[02:40:58] (NAVIGATION) Distance to target location: 104.47 meters. Will take 12.13 seconds driving at 31kmh
+[02:41:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[02:41:11] (POKESTOP) Siloso trapizza Children's castle in 93.48 m distance
+[02:41:11] (NAVIGATION) Distance to target location: 93.48 meters. Will take 10.86 seconds driving at 31kmh
+[02:41:14] (INFO) Found 1 catchable Pokemon
+[02:41:15] (Wild Success) | Rattata 93 V |  186 Cp | 13.88% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
