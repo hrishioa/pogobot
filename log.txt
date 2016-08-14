@@ -23116,3 +23116,4 @@
 [08:56:46] (NAVIGATION) Distance to target location: 77.51 meters. Will take 9.62 seconds driving at 29kmh
 [08:56:50] (INFO) Found 3 catchable Pokemon
 [08:56:52] (Wild Success) | Zubat 149 V |  327 Cp | 61.09% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[08:56:54] (Wild Success) | Zubat 110 V |   24 Cp | 47.67% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
