@@ -36976,3 +36976,8 @@
 [22:41:08] (TRANSFER) Voltorb 172 V |  182 Cp | 84.92% | Lvl 08 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 14
 [22:41:10] (INFO) Found 3 catchable Pokemon
 [22:41:12] (Wild Success) | Rattata 125 V |  302 Cp | 28.44% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[22:41:13] (BERRY) ItemRazzBerry used, remaining: 38
+[22:41:13] (Wild Escape) | Electrode 254 V | 1031 Cp | 73.67% | Lvl 23 | Chance: 0.12 | with a GreatBall 
+[22:41:14] (BERRY) ItemRazzBerry used, remaining: 37
+[22:41:15] (Wild Success Attempt #2) | Electrode 254 V | 1031 Cp | 73.67% | Lvl 23 | Chance: 0.12 | with a GreatBall 
+[22:41:17] (Wild Success) | Rattata 97 V |   48 Cp | 27.24% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
