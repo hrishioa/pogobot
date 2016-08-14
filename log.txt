@@ -37331,3 +37331,8 @@
 [22:52:48] (INFO) Found 2 catchable Pokemon
 [22:52:50] (Wild Success) | Caterpie 93 V |   58 Cp | 36.57% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [22:52:51] (Wild Success) | Voltorb 156 V |  223 Cp | 71.97% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[22:52:53] (INFO) Found 2 pokemon to transfer...
+[22:52:54] (TRANSFER) Caterpie 93 V |   58 Cp | 36.57% | Lvl 06 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 157
+[22:52:57] (TRANSFER) Voltorb 156 V |  223 Cp | 71.97% | Lvl 10 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 25
+[22:52:58] (INFO) Found 2 catchable Pokemon
+[22:53:00] (Wild Success) | Weedle 72 V |  164 Cp | 24.18% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
