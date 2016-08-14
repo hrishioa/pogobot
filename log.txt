@@ -28335,3 +28335,25 @@
 [12:09:58] (NAVIGATION) Distance to target location: 44.99 meters. Will take 5.22 seconds driving at 31kmh
 [12:10:00] (INFO) Found 1 catchable Pokemon
 [12:10:01] (Wild Success) | Pidgey 85 V |   10 Cp | 33.82% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[12:10:03] (INFO) Found 1 pokemon to transfer...
+[12:10:04] (TRANSFER) Pidgey 85 V |   10 Cp | 33.82% | Lvl 01 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1130
+[12:10:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:10:08] (POKESTOP) Tiled Falls in 121.06 m distance
+[12:10:08] (NAVIGATION) Distance to target location: 121.06 meters. Will take 14.53 seconds driving at 30kmh
+[12:10:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:10:21] (INFO) Found 2 Recyclable Items:
+[12:10:22] (RECYCLING) PokeBall x 10
+[12:10:23] (RECYCLING) Revive x 1
+[12:10:25] (POKESTOP) NUS 1962-1980 in 89.57 m distance
+[12:10:25] (NAVIGATION) Distance to target location: 89.57 meters. Will take 10.75 seconds driving at 30kmh
+[12:10:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[12:10:36] (POKESTOP) Rhythm in Space in 81.53 m distance
+[12:10:36] (NAVIGATION) Distance to target location: 81.53 meters. Will take 10.12 seconds driving at 29kmh
+[12:10:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[12:10:46] (POKESTOP) Temasek Hall in 43.67 m distance
+[12:10:46] (NAVIGATION) Distance to target location: 43.67 meters. Will take 4.91 seconds driving at 32kmh
+[12:10:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemMaxPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:10:51] (POKESTOP) West Coast Park Connector in 1145.39 m distance
+[12:10:51] (NAVIGATION) Distance to target location: 1145.39 meters. Will take 58.91 seconds driving at 70kmh
+[12:11:07] (INFO) Found 1 catchable Pokemon
+[12:11:09] (Wild Success) | Zubat 116 V |   76 Cp | 58.11% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
