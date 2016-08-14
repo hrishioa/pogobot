@@ -23492,3 +23492,10 @@
 [09:09:33] (NAVIGATION) Distance to target location: 85.88 meters. Will take 9.66 seconds driving at 32kmh
 [09:09:41] (INFO) Found 1 catchable Pokemon
 [09:09:43] (Wild Success) | Zubat 103 V |   89 Cp | 43.97% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[09:09:44] (INFO) Found 1 pokemon to transfer...
+[09:09:46] (TRANSFER) Zubat 103 V |   89 Cp | 43.97% | Lvl 06 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 790
+[09:09:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[09:09:49] (POKESTOP) Runme Shaw CFA Studios in 133.6 m distance
+[09:09:49] (NAVIGATION) Distance to target location: 133.6 meters. Will take 16.03 seconds driving at 30kmh
+[09:09:55] (INFO) Found 1 catchable Pokemon
+[09:09:56] (Wild Success) | Pidgey 119 V |   45 Cp | 60.48% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
