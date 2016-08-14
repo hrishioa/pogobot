@@ -44486,3 +44486,4 @@
 [02:36:52] (TRANSFER) Voltorb 138 V |  231 Cp | 50.41% | Lvl 11 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 276
 [02:36:53] (INFO) Found 2 catchable Pokemon
 [02:36:55] (Wild Success) | Oddish 179 V |  485 Cp | 64.17% | Lvl 16 | Chance: 0.44 | with a GreatBall and received XP 210
+[02:36:56] (Wild Success) | Sandshrew 131 V |  348 Cp | 38.56% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
