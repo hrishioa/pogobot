@@ -22428,3 +22428,5 @@
 [08:31:54] Eevee               171 True Value |  234 Cp | 83.49% Perfect | Lvl 08 | Tackle/Dig
 [08:31:55] (INFO) Found 2 catchable Pokemon
 [08:31:55] (Wild Success) | Pidgey 116 V |  148 Cp | 45.68% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[08:31:57] (BERRY) ItemRazzBerry used, remaining: 46
+[08:31:58] (Wild Success) | Eevee 200 V |  607 Cp | 71.93% | Lvl 21 | Chance: 0.26 | with a UltraBall and received XP 210
