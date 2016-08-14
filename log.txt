@@ -30226,3 +30226,38 @@
 [13:25:19] (INFO) Found 1 catchable Pokemon
 [13:25:20] (BERRY) ItemRazzBerry used, remaining: 44
 [13:25:21] (Wild Success) | Magmar 273 V | 1302 Cp | 73.04% | Lvl 21 | Chance: 0.19 | with a UltraBall and received XP 210
+[13:25:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:25:26] (INFO) Found 4 Recyclable Items:
+[13:25:27] (RECYCLING) PokeBall x 9
+[13:25:28] (RECYCLING) Potion x 1
+[13:25:28] (RECYCLING) SuperPotion x 1
+[13:25:30] (RECYCLING) Revive x 2
+[13:25:32] (POKESTOP) Ventus in 96.12 m distance
+[13:25:32] (NAVIGATION) Distance to target location: 96.12 meters. Will take 11.16 seconds driving at 31kmh
+[13:25:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemSuperPotion
+[13:25:44] (POKESTOP) Footprint Bench in 81.27 m distance
+[13:25:44] (NAVIGATION) Distance to target location: 81.27 meters. Will take 10.45 seconds driving at 28kmh
+[13:25:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[13:25:54] (POKESTOP) NUS monolith in 95.82 m distance
+[13:25:54] (NAVIGATION) Distance to target location: 95.82 meters. Will take 10.78 seconds driving at 32kmh
+[13:26:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:26:06] (POKESTOP) Park Gazebos in 238.85 m distance
+[13:26:06] (NAVIGATION) Distance to target location: 238.85 meters. Will take 20 seconds driving at 43kmh
+[13:26:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:26:28] (POKESTOP) Fragrant Plant Garden in 38.7 m distance
+[13:26:28] (NAVIGATION) Distance to target location: 38.7 meters. Will take 4.35 seconds driving at 32kmh
+[13:26:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[13:26:31] (INFO) Found 3 Recyclable Items:
+[13:26:32] (RECYCLING) PokeBall x 12
+[13:26:32] (RECYCLING) SuperPotion x 1
+[13:26:33] (RECYCLING) Revive x 1
+[13:26:36] (POKESTOP) Tiled Falls in 127.39 m distance
+[13:26:36] (NAVIGATION) Distance to target location: 127.39 meters. Will take 15.29 seconds driving at 30kmh
+[13:26:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[13:26:51] (POKESTOP) NUS 1962-1980 in 85.44 m distance
+[13:26:51] (NAVIGATION) Distance to target location: 85.44 meters. Will take 10.99 seconds driving at 28kmh
+[13:27:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:27:01] (POKESTOP) Rhythm in Space in 81.14 m distance
+[13:27:01] (NAVIGATION) Distance to target location: 81.14 meters. Will take 9.74 seconds driving at 30kmh
+[13:27:04] (INFO) Found 1 catchable Pokemon
+[13:27:05] (Wild Success) | Krabby 128 V |   77 Cp | 73.12% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
