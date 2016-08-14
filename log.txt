@@ -35532,3 +35532,13 @@
 [21:47:13] (TRANSFER) Zubat 131 V |   96 Cp | 66.18% | Lvl 06 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 1022
 [21:47:14] (INFO) Found 1 catchable Pokemon
 [21:47:16] (Wild Success) | Pidgey 91 V |   59 Cp | 40.04% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[21:47:18] (INFO) Found 1 pokemon to transfer...
+[21:47:19] (TRANSFER) Pidgey 91 V |   59 Cp | 40.04% | Lvl 04 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1378
+[21:47:22] (POKESTOP) NUS GREM Display in 55.14 m distance
+[21:47:22] (NAVIGATION) Distance to target location: 55.14 meters. Will take 6.4 seconds driving at 31kmh
+[21:47:29] (POKESTOP) Masjid Tentera Di Raja in 148.71 m distance
+[21:47:29] (NAVIGATION) Distance to target location: 148.71 meters. Will take 17.84 seconds driving at 30kmh
+[21:47:47] (POKESTOP) Clementi Woods Playground in 400.78 m distance
+[21:47:47] (NAVIGATION) Distance to target location: 400.78 meters. Will take 20.61 seconds driving at 70kmh
+[21:47:55] (INFO) Found 2 catchable Pokemon
+[21:47:57] (Wild Success) | Poliwhirl 147 V |  170 Cp | 70.55% | Lvl 05 | Chance: 0.34 | with a UltraBall and received XP 210
