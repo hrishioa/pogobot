@@ -31610,3 +31610,4 @@
 [14:15:02] (INFO) Found 2 catchable Pokemon
 [14:15:03] (BERRY) ItemRazzBerry used, remaining: 47
 [14:15:04] (Wild Success) | Pidgeotto 161 V |  744 Cp | 27.09% | Lvl 25 | Chance: 0.14 | with a UltraBall and received XP 210
+[14:15:05] (Wild Success) | Magikarp 89 V |   10 Cp | 62.96% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
