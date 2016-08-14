@@ -44401,3 +44401,8 @@
 [02:33:55] (INFO) Found 2 catchable Pokemon
 [02:33:57] (Wild Success) | Pidgey 104 V |  228 Cp | 40.75% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [02:33:58] (Wild Success) | Voltorb 165 V |  153 Cp | 73.17% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[02:34:00] (INFO) Found 2 pokemon to transfer...
+[02:34:01] (TRANSFER) Voltorb 165 V |  153 Cp | 73.17% | Lvl 07 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 260
+[02:34:04] (TRANSFER) Pidgey 104 V |  228 Cp | 40.75% | Lvl 14 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 752
+[02:34:05] (INFO) Found 5 catchable Pokemon
+[02:34:07] (Wild Success) | Voltorb 194 V |  356 Cp | 95.56% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
