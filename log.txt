@@ -30667,3 +30667,15 @@
 [13:41:49] (INFO) Found 2 catchable Pokemon
 [13:41:51] (Wild Success) | Oddish 122 V |   45 Cp | 50.77% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [13:41:53] (Wild Success) | Rattata 148 V |  208 Cp | 64.66% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[13:41:54] (INFO) Found 2 pokemon to transfer...
+[13:41:56] (TRANSFER) Oddish 122 V |   45 Cp | 50.77% | Lvl 02 | Best: [Oddish 215 V |  600 Cp | 83.01% | Lvl 19] | Candy: 75
+[13:41:58] (TRANSFER) Rattata 148 V |  208 Cp | 64.66% | Lvl 14 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 689
+[13:42:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[13:42:02] (POKESTOP) Tower Playground in 92.75 m distance
+[13:42:02] (NAVIGATION) Distance to target location: 92.75 meters. Will take 11.51 seconds driving at 29kmh
+[13:42:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[13:42:13] (POKESTOP) Butterfly Mural in 83.02 m distance
+[13:42:13] (NAVIGATION) Distance to target location: 83.02 meters. Will take 10.31 seconds driving at 29kmh
+[13:42:20] (INFO) Found 1 catchable Pokemon
+[13:42:20] (BERRY) ItemRazzBerry used, remaining: 52
+[13:42:21] (Wild Success) | Eevee 217 V |  604 Cp | 91.55% | Lvl 20 | Chance: 0.26 | with a GreatBall and received XP 210
