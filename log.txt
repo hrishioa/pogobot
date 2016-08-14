@@ -45430,3 +45430,10 @@
 [03:08:43] (NAVIGATION) Distance to target location: 156.93 meters. Will take 19.48 seconds driving at 29kmh
 [03:08:48] (INFO) Found 1 catchable Pokemon
 [03:08:49] (Wild Success) | Zubat 119 V |  121 Cp | 41.98% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[03:08:51] (INFO) Found 1 pokemon to transfer...
+[03:08:52] (TRANSFER) Zubat 119 V |  121 Cp | 41.98% | Lvl 08 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 740
+[03:09:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:09:01] (POKESTOP) Pavillion of Serenity in 125.46 m distance
+[03:09:01] (NAVIGATION) Distance to target location: 125.46 meters. Will take 15.05 seconds driving at 30kmh
+[03:09:10] (INFO) Found 1 catchable Pokemon
+[03:09:11] (Wild Success) | Pidgey 99 V |  290 Cp | 20.11% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
