@@ -31280,3 +31280,16 @@
 [14:02:55] (NAVIGATION) Distance to target location: 87.57 meters. Will take 10.17 seconds driving at 31kmh
 [14:03:01] (INFO) Found 1 catchable Pokemon
 [14:03:03] (Wild Success) | Bulbasaur 109 V |  298 Cp | 13.67% | Lvl 12 | Chance: 0.17 | with a GreatBall and received XP 210
+[14:03:04] (INFO) Found 1 pokemon to transfer...
+[14:03:06] (TRANSFER) Bulbasaur 109 V |  298 Cp | 13.67% | Lvl 12 | Best: [Bulbasaur 229 V |  609 Cp | 97.81% | Lvl 20] | Candy: 89
+[14:03:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[14:03:11] (POKESTOP) Mythical Creature Mural in 60.97 m distance
+[14:03:11] (NAVIGATION) Distance to target location: 60.97 meters. Will take 7.84 seconds driving at 28kmh
+[14:03:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemGreatBall
+[14:03:18] (POKESTOP) West Coast Playground in 72.54 m distance
+[14:03:18] (NAVIGATION) Distance to target location: 72.54 meters. Will take 8.42 seconds driving at 31kmh
+[14:03:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[14:03:26] (POKESTOP) West Coast Fitness Corner in 77.81 m distance
+[14:03:26] (NAVIGATION) Distance to target location: 77.81 meters. Will take 9.34 seconds driving at 30kmh
+[14:03:28] (INFO) Found 1 catchable Pokemon
+[14:03:30] (Wild Success) | Spearow 145 V |  259 Cp | 78.80% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
