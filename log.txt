@@ -42830,3 +42830,21 @@
 [01:48:35] (TRANSFER) Shellder 106 V |   10 Cp | 54.81% | Lvl 01 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 70
 [01:48:37] (INFO) Found 1 catchable Pokemon
 [01:48:38] (Wild Success) | Goldeen 93 V |   86 Cp | 37.19% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[01:48:40] (INFO) Found 1 pokemon to transfer...
+[01:48:41] (TRANSFER) Goldeen 93 V |   86 Cp | 37.19% | Lvl 04 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 237
+[01:48:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[01:48:44] (INFO) Found 4 Recyclable Items:
+[01:48:45] (RECYCLING) RazzBerry x 4
+[01:48:45] (RECYCLING) PokeBall x 2
+[01:49:07] (RECYCLING) Potion x 2
+[01:49:07] (RECYCLING) SuperPotion x 1
+[01:49:10] (POKESTOP) Siloso West Washroom in 88.18 m distance
+[01:49:10] (NAVIGATION) Distance to target location: 88.18 meters. Will take 10.24 seconds driving at 31kmh
+[01:49:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemUltraBall
+[01:49:20] (POKESTOP) Sapphire Pavillion  in 84.92 m distance
+[01:49:20] (NAVIGATION) Distance to target location: 84.92 meters. Will take 10.92 seconds driving at 28kmh
+[01:49:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[01:49:31] (POKESTOP) Pirate Queen in 114.21 m distance
+[01:49:31] (NAVIGATION) Distance to target location: 114.21 meters. Will take 14.18 seconds driving at 29kmh
+[01:49:37] (INFO) Found 1 catchable Pokemon
+[01:49:39] (Wild Success) | Rattata 122 V |  150 Cp | 39.59% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
