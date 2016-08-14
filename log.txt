@@ -34707,3 +34707,22 @@
 [21:14:22] (NAVIGATION) Distance to target location: 74.7 meters. Will take 8.96 seconds driving at 30kmh
 [21:14:25] (INFO) Found 1 catchable Pokemon
 [21:14:27] (Wild Success) | Zubat 112 V |   24 Cp | 45.43% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
+[21:14:29] (INFO) Found 1 pokemon to transfer...
+[21:14:30] (TRANSFER) Zubat 112 V |   24 Cp | 45.43% | Lvl 02 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 954
+[21:14:33] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[21:14:36] (POKESTOP) FOE Singapore in 29.47 m distance
+[21:14:36] (NAVIGATION) Distance to target location: 29.47 meters. Will take 3.42 seconds driving at 31kmh
+[21:14:39] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:14:40] (POKESTOP) Pavilion at Engineering in 65.07 m distance
+[21:14:40] (NAVIGATION) Distance to target location: 65.07 meters. Will take 8.37 seconds driving at 28kmh
+[21:14:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:14:48] (POKESTOP) NUS GREM Display in 61.8 m distance
+[21:14:48] (NAVIGATION) Distance to target location: 61.8 meters. Will take 7.67 seconds driving at 29kmh
+[21:14:54] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:14:56] (POKESTOP) Masjid Tentera Di Raja in 154.45 m distance
+[21:14:56] (NAVIGATION) Distance to target location: 154.45 meters. Will take 17.94 seconds driving at 31kmh
+[21:15:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:15:14] (POKESTOP) Abstact Sculptures At NUS in 132.76 m distance
+[21:15:14] (NAVIGATION) Distance to target location: 132.76 meters. Will take 14.94 seconds driving at 32kmh
+[21:15:27] (INFO) Found 1 catchable Pokemon
+[21:15:28] (Wild Success) | Eevee 137 V |   44 Cp | 71.29% | Lvl 02 | Chance: 0.96 | with a PokeBall and received XP 420
