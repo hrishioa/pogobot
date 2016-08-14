@@ -41136,3 +41136,29 @@
 [00:57:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
 [00:57:44] (INFO) Found 1 catchable Pokemon
 [00:57:46] (Wild Success) | Meowth 123 V |  187 Cp | 48.85% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[00:57:47] (INFO) Found 1 pokemon to transfer...
+[00:57:49] (TRANSFER) Meowth 123 V |  187 Cp | 48.85% | Lvl 10 | Best: [Meowth 169 V |  184 Cp | 81.42% | Lvl 09] | Candy: 77
+[00:57:49] (POKESTOP) Adam & Eve in 67.2 m distance
+[00:57:49] (NAVIGATION) Distance to target location: 67.2 meters. Will take 8.06 seconds driving at 30kmh
+[00:57:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:57:57] (POKESTOP) Wine Art in 71.49 m distance
+[00:57:57] (NAVIGATION) Distance to target location: 71.49 meters. Will take 8.04 seconds driving at 32kmh
+[00:58:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[00:58:05] (INFO) Found 1 Recyclable Item:
+[00:58:05] (RECYCLING) PokeBall x 15
+[00:58:08] (POKESTOP) Casino in 113.72 m distance
+[00:58:08] (NAVIGATION) Distance to target location: 113.72 meters. Will take 13.21 seconds driving at 31kmh
+[00:58:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:58:22] (POKESTOP) Water Walls in 126.62 m distance
+[00:58:22] (NAVIGATION) Distance to target location: 126.62 meters. Will take 14.7 seconds driving at 31kmh
+[00:58:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[00:58:36] (POKESTOP) Pavillion at Sentosa in 85.9 m distance
+[00:58:36] (NAVIGATION) Distance to target location: 85.9 meters. Will take 10.31 seconds driving at 30kmh
+[00:58:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:58:46] (POKESTOP) Sentosa in 82.01 m distance
+[00:58:46] (NAVIGATION) Distance to target location: 82.01 meters. Will take 9.23 seconds driving at 32kmh
+[00:58:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[00:58:55] (POKESTOP) |œ>\îr in 77.51 m distance
+[00:58:55] (NAVIGATION) Distance to target location: 77.51 meters. Will take 9 seconds driving at 31kmh
+[00:59:01] (INFO) Found 1 catchable Pokemon
+[00:59:03] (Wild Success) | Bellsprout 129 V |  212 Cp | 28.04% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
