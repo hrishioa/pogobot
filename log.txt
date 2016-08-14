@@ -45670,3 +45670,26 @@
 [03:15:48] (NAVIGATION) Distance to target location: 272.27 meters. Will take 19.6 seconds driving at 50kmh
 [03:16:01] (INFO) Found 1 catchable Pokemon
 [03:16:02] (Wild Success) | Magikarp 84 V |   10 Cp | 58.14% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[03:16:04] (INFO) Found 1 pokemon to transfer...
+[03:16:05] (TRANSFER) Magikarp 84 V |   10 Cp | 58.14% | Lvl 01 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 477
+[03:16:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[03:16:10] (POKESTOP) Calophyllum Inophyllum in 80.8 m distance
+[03:16:10] (NAVIGATION) Distance to target location: 80.8 meters. Will take 10.39 seconds driving at 28kmh
+[03:16:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[03:16:20] (POKESTOP) Pongamia Piñata  Tree Sign in 107.97 m distance
+[03:16:20] (NAVIGATION) Distance to target location: 107.97 meters. Will take 12.54 seconds driving at 31kmh
+[03:16:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[03:16:32] (POKESTOP) Podocarpus Polystachyas in 70.54 m distance
+[03:16:32] (NAVIGATION) Distance to target location: 70.54 meters. Will take 8.47 seconds driving at 30kmh
+[03:16:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:16:41] (POKESTOP) Graffiti Wall at Beach Resort in 148.59 m distance
+[03:16:41] (NAVIGATION) Distance to target location: 148.59 meters. Will take 16.72 seconds driving at 32kmh
+[03:16:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[03:16:58] (INFO) Found 2 Recyclable Items:
+[03:16:58] (RECYCLING) PokeBall x 10
+[03:16:59] (RECYCLING) Potion x 1
+[03:17:01] (POKESTOP) Commemorative Plague for Opening of Upgraded Facilities in 273.38 m distance
+[03:17:01] (NAVIGATION) Distance to target location: 273.38 meters. Will take 19.68 seconds driving at 50kmh
+[03:17:09] (INFO) Found 1 catchable Pokemon
+[03:17:11] (BERRY) ItemRazzBerry used, remaining: 40
+[03:17:12] (Wild Success) | Dodrio 193 V |  673 Cp | 50.85% | Lvl 14 | Chance: 0.16 | with a GreatBall and received XP 210
