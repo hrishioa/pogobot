@@ -37021,3 +37021,11 @@
 [22:43:54] (INFO) Found 3 catchable Pokemon
 [22:43:56] (Wild Success) | Mankey 125 V |   10 Cp | 48.81% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [22:43:58] (Wild Success) | Mankey 139 V |  159 Cp | 70.99% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[22:43:59] (Wild Escape) | Goldeen 145 V |  375 Cp | 59.80% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[22:44:00] (Wild Success Attempt #2) | Goldeen 145 V |  375 Cp | 59.80% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[22:44:02] (INFO) Found 3 pokemon to transfer...
+[22:44:04] (TRANSFER) Goldeen 145 V |  375 Cp | 59.80% | Lvl 15 | Best: [Goldeen 185 V |  240 Cp | 89.32% | Lvl 09] | Candy: 150
+[22:44:06] (TRANSFER) Mankey 134 V |  201 Cp | 57.20% | Lvl 09 | Best: [Mankey 141 V |  158 Cp | 67.79% | Lvl 07] | Candy: 20
+[22:44:08] (TRANSFER) Mankey 125 V |   10 Cp | 48.81% | Lvl 01 | Best: [Mankey 141 V |  158 Cp | 67.79% | Lvl 07] | Candy: 21
+[22:44:09] (INFO) Found 1 catchable Pokemon
+[22:44:11] (Wild Success) | Voltorb 175 V |   61 Cp | 92.10% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
