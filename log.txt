@@ -43434,3 +43434,10 @@
 [02:04:12] (NAVIGATION) Distance to target location: 171.65 meters. Will take 19.93 seconds driving at 31kmh
 [02:04:22] (INFO) Found 1 catchable Pokemon
 [02:04:23] (Wild Success) | Sandshrew 102 V |  190 Cp | 33.30% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:04:25] (INFO) Found 1 pokemon to transfer...
+[02:04:27] (TRANSFER) Sandshrew 102 V |  190 Cp | 33.30% | Lvl 10 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 66
+[02:04:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:04:32] (POKESTOP) Mamba Beach Club  in 75.43 m distance
+[02:04:32] (NAVIGATION) Distance to target location: 75.43 meters. Will take 9.05 seconds driving at 30kmh
+[02:04:35] (INFO) Found 1 catchable Pokemon
+[02:04:36] (Wild Success) | NidoranMale 108 V |  162 Cp | 40.40% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
