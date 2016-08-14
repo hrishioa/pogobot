@@ -35749,3 +35749,25 @@
 [21:56:09] (INFO) Found 2 catchable Pokemon
 [21:56:11] (Wild Success) | Paras 150 V |  240 Cp | 65.88% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
 [21:56:14] (Wild Success) | Horsea 135 V |   76 Cp | 66.92% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[21:56:15] (INFO) Found 2 pokemon to transfer...
+[21:56:16] (TRANSFER) Horsea 135 V |   76 Cp | 66.92% | Lvl 04 | Best: [Horsea 167 V |  376 Cp | 69.08% | Lvl 18] | Candy: 48
+[21:56:19] (TRANSFER) Paras 150 V |  240 Cp | 65.88% | Lvl 10 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 150
+[21:56:22] (POKESTOP) Runme Shaw CFA Studios in 73.02 m distance
+[21:56:22] (NAVIGATION) Distance to target location: 73.02 meters. Will take 8.21 seconds driving at 32kmh
+[21:56:29] (POKESTOP) Fire Painting  in 69.68 m distance
+[21:56:29] (NAVIGATION) Distance to target location: 69.68 meters. Will take 7.84 seconds driving at 32kmh
+[21:56:38] (POKESTOP) Locked in Tricked Out in 95.03 m distance
+[21:56:38] (NAVIGATION) Distance to target location: 95.03 meters. Will take 11.4 seconds driving at 30kmh
+[21:56:49] (POKESTOP) NUS Engineering in 56.9 m distance
+[21:56:49] (NAVIGATION) Distance to target location: 56.9 meters. Will take 6.83 seconds driving at 30kmh
+[21:56:55] (POKESTOP) Through this Jungle in 88.84 m distance
+[21:56:55] (NAVIGATION) Distance to target location: 88.84 meters. Will take 9.99 seconds driving at 32kmh
+[21:57:05] (POKESTOP) National Oxygen in 87.16 m distance
+[21:57:05] (NAVIGATION) Distance to target location: 87.16 meters. Will take 9.8 seconds driving at 32kmh
+[21:57:14] (POKESTOP) Pavilion at Engineering in 230.59 m distance
+[21:57:14] (NAVIGATION) Distance to target location: 230.59 meters. Will take 19.76 seconds driving at 42kmh
+[21:57:34] (POKESTOP) NUS GREM Display in 77.9 m distance
+[21:57:34] (NAVIGATION) Distance to target location: 77.9 meters. Will take 9.05 seconds driving at 31kmh
+[21:57:40] (INFO) Found 2 catchable Pokemon
+[21:57:42] (BERRY) ItemRazzBerry used, remaining: 37
+[21:57:43] (Wild Success) | Poliwag 176 V |  434 Cp | 63.83% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
