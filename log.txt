@@ -38198,3 +38198,16 @@
 [23:24:28] (NAVIGATION) Distance to target location: 299.99 meters. Will take 20 seconds driving at 54kmh
 [23:24:47] (INFO) Found 1 catchable Pokemon
 [23:24:49] (Wild Success) | Psyduck 117 V |  156 Cp | 30.77% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[23:24:51] (INFO) Found 1 pokemon to transfer...
+[23:24:52] (TRANSFER) Psyduck 117 V |  156 Cp | 30.77% | Lvl 06 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 122
+[23:24:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:24:54] (INFO) Found 3 Recyclable Items:
+[23:24:54] (RECYCLING) PokeBall x 9
+[23:24:56] (RECYCLING) Potion x 2
+[23:24:56] (RECYCLING) Revive x 1
+[23:24:59] (POKESTOP) Cove Arrival Plaza in 230.8 m distance
+[23:24:59] (NAVIGATION) Distance to target location: 230.8 meters. Will take 19.78 seconds driving at 42kmh
+[23:25:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:25:19] (INFO) Found 1 catchable Pokemon
+[23:25:20] (BERRY) ItemRazzBerry used, remaining: 44
+[23:25:21] (Wild Success) | Shellder 125 V |  373 Cp | 35.67% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
