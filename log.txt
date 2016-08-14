@@ -31542,3 +31542,17 @@
 [14:11:49] (BERRY) ItemRazzBerry used, remaining: 50
 [14:11:50] (Wild Success) | Pinsir 193 V |  853 Cp | 60.79% | Lvl 15 | Chance: 0.23 | with a GreatBall and received XP 210
 [14:11:52] (Wild Success) | Goldeen 146 V |  148 Cp | 69.44% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[14:11:53] (INFO) Found 2 pokemon to transfer...
+[14:11:55] (TRANSFER) Goldeen 146 V |  148 Cp | 69.44% | Lvl 06 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 214
+[14:11:57] (TRANSFER) Pinsir 193 V |  853 Cp | 60.79% | Lvl 15 | Best: [Pinsir 273 V | 1370 Cp | 88.98% | Lvl 23] | Candy: 60
+[14:12:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemGreatBall
+[14:12:01] (POKESTOP) Clementi West Street 1 Circle in 86.64 m distance
+[14:12:01] (NAVIGATION) Distance to target location: 86.64 meters. Will take 10.4 seconds driving at 30kmh
+[14:12:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[14:12:11] (INFO) Found 4 Recyclable Items:
+[14:12:11] (RECYCLING) PokeBall x 4
+[14:12:12] (RECYCLING) Potion x 2
+[14:12:13] (RECYCLING) SuperPotion x 1
+[14:12:14] (RECYCLING) Revive x 1
+[14:12:16] (INFO) Found 1 catchable Pokemon
+[14:12:18] (Wild Success) | Pidgey 116 V |  249 Cp | 45.75% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
