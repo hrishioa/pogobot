@@ -34369,3 +34369,13 @@
 [21:03:09] (INFO) Found 1 catchable Pokemon
 [21:03:10] (BERRY) ItemRazzBerry used, remaining: 48
 [21:03:11] (Wild Success) | Bulbasaur 144 V |  417 Cp | 31.82% | Lvl 16 | Chance: 0.14 | with a UltraBall and received XP 420
+[21:03:13] (INFO) Found 1 pokemon to transfer...
+[21:03:14] (TRANSFER) Bulbasaur 144 V |  417 Cp | 31.82% | Lvl 16 | Best: [Bulbasaur 229 V |  609 Cp | 97.81% | Lvl 20] | Candy: 96
+[21:03:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:03:19] (INFO) Found 2 Recyclable Items:
+[21:03:19] (RECYCLING) Potion x 2
+[21:03:19] (RECYCLING) Revive x 1
+[21:03:22] (POKESTOP) Waves and Particles - NUS Science Faculty in 143.43 m distance
+[21:03:22] (NAVIGATION) Distance to target location: 143.43 meters. Will take 16.14 seconds driving at 32kmh
+[21:03:30] (INFO) Found 2 catchable Pokemon
+[21:03:31] (Wild Success) | Jigglypuff 141 V |  411 Cp | 50.50% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
