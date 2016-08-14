@@ -38143,3 +38143,10 @@
 [23:20:54] (TRANSFER) Rhyhorn 113 V |   47 Cp | 55.76% | Lvl 02 | Best: [NONE] | Candy: 4
 [23:20:55] (INFO) Found 1 catchable Pokemon
 [23:20:57] (Wild Success) | Poliwag 116 V |   30 Cp | 51.28% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[23:20:58] (INFO) Found 1 pokemon to transfer...
+[23:21:00] (TRANSFER) Poliwag 116 V |   30 Cp | 51.28% | Lvl 02 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 121
+[23:21:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:21:02] (POKESTOP) Animal Statue in 324.23 m distance
+[23:21:02] (NAVIGATION) Distance to target location: 324.23 meters. Will take 19.78 seconds driving at 59kmh
+[23:21:08] (INFO) Found 1 catchable Pokemon
+[23:21:10] (Wild Success) | Staryu 134 V |   92 Cp | 74.72% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
