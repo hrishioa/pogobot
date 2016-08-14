@@ -40321,3 +40321,10 @@
 [00:33:41] (INFO) Found 2 catchable Pokemon
 [00:33:43] (Wild Success) | Voltorb 117 V |   10 Cp | 47.31% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [00:33:45] (Wild Success) | Voltorb 125 V |   97 Cp | 42.88% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:33:46] (INFO) Found 2 pokemon to transfer...
+[00:33:48] (TRANSFER) Voltorb 125 V |   97 Cp | 42.88% | Lvl 05 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 111
+[00:33:50] (TRANSFER) Voltorb 117 V |   10 Cp | 47.31% | Lvl 01 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 112
+[00:34:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[00:34:12] (INFO) Found 1 catchable Pokemon
+[00:34:14] (BERRY) ItemRazzBerry used, remaining: 43
+[00:34:14] (Wild Success) | Pikachu 119 V |  370 Cp | 21.57% | Lvl 18 | Chance: 0.14 | with a GreatBall and received XP 210
