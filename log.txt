@@ -44052,3 +44052,7 @@
 [02:23:03] (NAVIGATION) Distance to target location: 111.52 meters. Will take 12.55 seconds driving at 32kmh
 [02:23:04] (INFO) Found 1 catchable Pokemon
 [02:23:06] (Wild Success) | Magikarp 112 V |  139 Cp | 73.28% | Lvl 21 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:23:07] (INFO) Found 1 pokemon to transfer...
+[02:23:09] (TRANSFER) Magikarp 112 V |  139 Cp | 73.28% | Lvl 21 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 413
+[02:23:11] (INFO) Found 1 catchable Pokemon
+[02:23:12] (Wild Success) | Magikarp 93 V |  145 Cp | 54.39% | Lvl 24 | Chance: 0.42 | with a GreatBall and received XP 210
