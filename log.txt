@@ -40270,3 +40270,25 @@
 [00:32:04] (NAVIGATION) Distance to target location: 125.66 meters. Will take 15.08 seconds driving at 30kmh
 [00:32:13] (INFO) Found 1 catchable Pokemon
 [00:32:14] (Wild Success) | Pikachu 140 V |  279 Cp | 36.81% | Lvl 13 | Chance: 0.16 | with a UltraBall and received XP 210
+[00:32:16] (INFO) Found 1 pokemon to transfer...
+[00:32:17] (TRANSFER) Pikachu 140 V |  279 Cp | 36.81% | Lvl 13 | Best: [Pikachu 154 V |  466 Cp | 32.31% | Lvl 22] | Candy: 34
+[00:32:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:32:21] (POKESTOP) Big Bird Emporium in 80.93 m distance
+[00:32:21] (NAVIGATION) Distance to target location: 80.93 meters. Will take 9.71 seconds driving at 30kmh
+[00:32:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[00:32:31] (POKESTOP) Spaghetti Space Chase in 54.22 m distance
+[00:32:31] (NAVIGATION) Distance to target location: 54.22 meters. Will take 6.3 seconds driving at 31kmh
+[00:32:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPotion
+[00:32:37] (POKESTOP) Bronze Film Director Sculpture in 97.48 m distance
+[00:32:37] (NAVIGATION) Distance to target location: 97.48 meters. Will take 10.97 seconds driving at 32kmh
+[00:32:39] (INFO) Found 1 catchable Pokemon
+[00:32:40] (BERRY) ItemRazzBerry used, remaining: 46
+[00:32:41] (Wild Escape) | Pidgeotto 203 V |  752 Cp | 68.00% | Lvl 23 | Chance: 0.15 | with a GreatBall 
+[00:32:41] (BERRY) ItemRazzBerry used, remaining: 45
+[00:32:42] (Wild Escape Attempt #2) | Pidgeotto 203 V |  752 Cp | 68.00% | Lvl 23 | Chance: 0.15 | with a GreatBall 
+[00:32:43] (BERRY) ItemRazzBerry used, remaining: 44
+[00:32:43] (Wild Success Attempt #3) | Pidgeotto 203 V |  752 Cp | 68.00% | Lvl 23 | Chance: 0.15 | with a GreatBall 
+[00:32:45] (INFO) Found 1 pokemon to transfer...
+[00:32:46] (TRANSFER) Pidgeotto 142 V |  595 Cp | 26.99% | Lvl 20 | Best: [Pidgeotto 203 V |  752 Cp | 68.00% | Lvl 23] | Candy: 681
+[00:32:48] (INFO) Found 1 catchable Pokemon
+[00:32:49] (Wild Success) | Magnemite 143 V |  317 Cp | 34.03% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
