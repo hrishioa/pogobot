@@ -39651,3 +39651,21 @@
 [00:14:35] (NAVIGATION) Distance to target location: 102.03 meters. Will take 11.48 seconds driving at 32kmh
 [00:14:44] (INFO) Found 1 catchable Pokemon
 [00:14:45] (Wild Success) | NidoranFemale 117 V |   98 Cp | 31.66% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[00:14:47] (INFO) Found 1 pokemon to transfer...
+[00:14:48] (TRANSFER) NidoranFemale 117 V |   98 Cp | 31.66% | Lvl 05 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 57
+[00:14:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRevive
+[00:14:52] (POKESTOP) Sentosa Golf Course in 44.21 m distance
+[00:14:52] (NAVIGATION) Distance to target location: 44.21 meters. Will take 5.68 seconds driving at 28kmh
+[00:14:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:14:56] (INFO) Found 3 Recyclable Items:
+[00:14:57] (RECYCLING) PokeBall x 4
+[00:14:57] (RECYCLING) SuperPotion x 1
+[00:14:58] (RECYCLING) Revive x 2
+[00:15:01] (POKESTOP) Sgc Entrance in 83.62 m distance
+[00:15:01] (NAVIGATION) Distance to target location: 83.62 meters. Will take 10.03 seconds driving at 30kmh
+[00:15:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:15:11] (POKESTOP) Tanjong Beach Club in 146.84 m distance
+[00:15:11] (NAVIGATION) Distance to target location: 146.84 meters. Will take 18.88 seconds driving at 28kmh
+[00:15:27] (INFO) Found 1 catchable Pokemon
+[00:15:28] (BERRY) ItemRazzBerry used, remaining: 49
+[00:15:29] (Wild Success) | Sandshrew 123 V |  372 Cp | 25.95% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
