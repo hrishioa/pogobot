@@ -36602,3 +36602,15 @@
 [22:29:17] (NAVIGATION) Distance to target location: 78.61 meters. Will take 9.76 seconds driving at 29kmh
 [22:29:18] (INFO) Found 1 catchable Pokemon
 [22:29:20] (Wild Success) | Psyduck 173 V |  511 Cp | 51.59% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[22:29:22] (INFO) Found 1 pokemon to transfer...
+[22:29:24] (TRANSFER) Psyduck 161 V |  307 Cp | 45.20% | Lvl 11 | Best: [Psyduck 173 V |  511 Cp | 51.59% | Lvl 18] | Candy: 86
+[22:29:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:29:28] (POKESTOP) Stone Gargoyle in 47.61 m distance
+[22:29:28] (NAVIGATION) Distance to target location: 47.61 meters. Will take 6.12 seconds driving at 28kmh
+[22:29:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:29:34] (INFO) Found 1 Recyclable Item:
+[22:29:35] (RECYCLING) SuperPotion x 1
+[22:29:37] (POKESTOP) Sentosa Gantry in 187.04 m distance
+[22:29:37] (NAVIGATION) Distance to target location: 187.04 meters. Will take 19.8 seconds driving at 34kmh
+[22:29:45] (INFO) Found 1 catchable Pokemon
+[22:29:47] (Wild Success) | Shellder 122 V |  227 Cp | 52.32% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 710
