@@ -43384,3 +43384,5 @@
 [02:02:29] (TRANSFER) Pikachu 114 V |  267 Cp | 22.17% | Lvl 13 | Best: [Pikachu 163 V |  515 Cp | 36.29% | Lvl 24] | Candy: 90
 [02:02:38] (INFO) Found 2 catchable Pokemon
 [02:02:39] (Wild Success) | Magneton 129 V |  129 Cp | 55.60% | Lvl 03 | Chance: 0.37 | with a GreatBall and received XP 210
+[02:02:41] (BERRY) ItemRazzBerry used, remaining: 49
+[02:02:41] (Wild Success) | Voltorb 207 V |  521 Cp | 77.60% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
