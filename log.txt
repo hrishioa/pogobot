@@ -39068,3 +39068,4 @@
 [23:55:25] (INFO) Found 2 catchable Pokemon
 [23:55:25] (BERRY) ItemRazzBerry used, remaining: 51
 [23:55:27] (Wild Success) | Spearow 140 V |  381 Cp | 42.01% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[23:55:28] (Wild Success) | Tentacool 104 V |  172 Cp | 35.49% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
