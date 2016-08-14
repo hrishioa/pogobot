@@ -28454,3 +28454,22 @@
 [12:14:11] (BERRY) ItemRazzBerry used, remaining: 50
 [12:14:12] (Wild Success) | Bellsprout 160 V |  602 Cp | 35.36% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
 [12:14:14] (Wild Success) | Rattata 151 V |  343 Cp | 52.10% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[12:14:16] (INFO) Found 2 pokemon to transfer...
+[12:14:17] (TRANSFER) Rattata 151 V |  343 Cp | 52.10% | Lvl 24 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 649
+[12:14:19] (TRANSFER) Bellsprout 160 V |  602 Cp | 35.36% | Lvl 22 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 277
+[12:14:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemSuperPotion
+[12:14:24] (POKESTOP) Chilling Area in 130.35 m distance
+[12:14:24] (NAVIGATION) Distance to target location: 130.35 meters. Will take 15.14 seconds driving at 31kmh
+[12:14:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[12:14:39] (POKESTOP) Marsh Garden in 140.79 m distance
+[12:14:39] (NAVIGATION) Distance to target location: 140.79 meters. Will take 17.48 seconds driving at 29kmh
+[12:14:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:14:55] (INFO) Found 4 Recyclable Items:
+[12:14:56] (RECYCLING) RazzBerry x 1
+[12:14:57] (RECYCLING) PokeBall x 6
+[12:14:58] (RECYCLING) Potion x 1
+[12:15:00] (RECYCLING) SuperPotion x 1
+[12:15:02] (POKESTOP) Gantry Entrance in 83.73 m distance
+[12:15:02] (NAVIGATION) Distance to target location: 83.73 meters. Will take 10.05 seconds driving at 30kmh
+[12:15:08] (INFO) Found 1 catchable Pokemon
+[12:15:10] (Wild Success) | Weedle 85 V |   72 Cp | 45.51% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
