@@ -30286,3 +30286,9 @@
 [13:28:39] (Wild Success Attempt #2) | Caterpie 93 V |  198 Cp | 22.84% | Lvl 21 | Chance: 0.32 | with a UltraBall 
 [13:28:41] (BERRY) ItemRazzBerry used, remaining: 48
 [13:28:41] (Wild Success) | Paras 184 V |  353 Cp | 84.43% | Lvl 14 | Chance: 0.32 | with a UltraBall and received XP 210
+[13:28:43] (INFO) Found 2 pokemon to transfer...
+[13:28:45] (TRANSFER) Paras 184 V |  353 Cp | 84.43% | Lvl 14 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 134
+[13:28:47] (TRANSFER) Caterpie 93 V |  198 Cp | 22.84% | Lvl 21 | Best: [Caterpie 105 V |  190 Cp | 35.84% | Lvl 19] | Candy: 175
+[13:29:01] (INFO) Found 2 catchable Pokemon
+[13:29:03] (Wild Flee) | Magikarp 104 V |   10 Cp | 77.99% | Lvl 02 | Chance: 1 | with a PokeBall 
+[13:29:04] (Wild Success) | Zubat 128 V |  125 Cp | 50.97% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
