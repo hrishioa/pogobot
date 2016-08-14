@@ -39278,3 +39278,30 @@
 [00:00:42] (NAVIGATION) Distance to target location: 326.47 meters. Will take 19.92 seconds driving at 59kmh
 [00:01:01] (INFO) Found 1 catchable Pokemon
 [00:01:02] (Wild Success) | Spearow 115 V |  153 Cp | 53.15% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:01:04] (INFO) Found 1 pokemon to transfer...
+[00:01:06] (TRANSFER) Spearow 115 V |  153 Cp | 53.15% | Lvl 09 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 231
+[00:01:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:01:08] (POKESTOP) Jurassic Waterfall in 246.14 m distance
+[00:01:08] (NAVIGATION) Distance to target location: 246.14 meters. Will take 19.69 seconds driving at 45kmh
+[00:01:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[00:01:28] (POKESTOP) Hostile Raptor in 83.96 m distance
+[00:01:28] (NAVIGATION) Distance to target location: 83.96 meters. Will take 9.45 seconds driving at 32kmh
+[00:01:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[00:01:37] (POKESTOP) Spitalamosaurus in 89.25 m distance
+[00:01:37] (NAVIGATION) Distance to target location: 89.25 meters. Will take 10.71 seconds driving at 30kmh
+[00:01:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[00:01:48] (POKESTOP) Triple Flying Dino in 52.84 m distance
+[00:01:48] (NAVIGATION) Distance to target location: 52.84 meters. Will take 6.14 seconds driving at 31kmh
+[00:01:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 3 x ItemPokeBall
+[00:01:53] (INFO) Found 4 Recyclable Items:
+[00:01:54] (RECYCLING) PokeBall x 9
+[00:01:55] (RECYCLING) SuperPotion x 1
+[00:01:56] (RECYCLING) HyperPotion x 1
+[00:01:57] (RECYCLING) Revive x 1
+[00:01:59] (POKESTOP) Stone Gargoyle in 54.39 m distance
+[00:01:59] (NAVIGATION) Distance to target location: 54.39 meters. Will take 6.32 seconds driving at 31kmh
+[00:02:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
+[00:02:05] (POKESTOP) USS WaterWorld Toy Fuel Tank in 90.59 m distance
+[00:02:05] (NAVIGATION) Distance to target location: 90.59 meters. Will take 11.65 seconds driving at 28kmh
+[00:02:07] (INFO) Found 1 catchable Pokemon
+[00:02:09] (Wild Success) | Rattata 134 V |  287 Cp | 39.64% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
