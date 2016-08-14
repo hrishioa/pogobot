@@ -32126,3 +32126,13 @@
 [14:35:17] (NAVIGATION) Distance to target location: 74.17 meters. Will take 8.61 seconds driving at 31kmh
 [14:35:22] (INFO) Found 1 catchable Pokemon
 [14:35:25] (Wild Success) | Ekans 154 V |  276 Cp | 60.60% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[14:35:27] (INFO) Found 1 pokemon to transfer...
+[14:35:28] (TRANSFER) Ekans 154 V |  276 Cp | 60.60% | Lvl 13 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 220
+[14:35:31] (POKESTOP) NUS GREM Display in 56.89 m distance
+[14:35:31] (NAVIGATION) Distance to target location: 56.89 meters. Will take 7.06 seconds driving at 29kmh
+[14:35:37] (POKESTOP) Masjid Tentera Di Raja in 155.04 m distance
+[14:35:37] (NAVIGATION) Distance to target location: 155.04 meters. Will take 19.93 seconds driving at 28kmh
+[14:35:56] (POKESTOP) Clementi Woods Playground in 403.66 m distance
+[14:35:56] (NAVIGATION) Distance to target location: 403.66 meters. Will take 20.76 seconds driving at 70kmh
+[14:36:11] (INFO) Found 1 catchable Pokemon
+[14:36:13] (Wild Success) | Poliwag 77 V |   10 Cp | 17.33% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
