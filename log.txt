@@ -30713,3 +30713,14 @@
 [13:43:31] (NAVIGATION) Distance to target location: 56.62 meters. Will take 7.03 seconds driving at 29kmh
 [13:43:36] (INFO) Found 1 catchable Pokemon
 [13:43:38] (Wild Success) | Magikarp 107 V |  130 Cp | 69.45% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
+[13:43:39] (INFO) Found 1 pokemon to transfer...
+[13:43:41] (TRANSFER) Magikarp 107 V |  130 Cp | 69.45% | Lvl 20 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 194
+[13:43:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[13:43:42] (INFO) Found 3 Recyclable Items:
+[13:43:43] (RECYCLING) PokeBall x 9
+[13:43:44] (RECYCLING) Potion x 2
+[13:43:45] (RECYCLING) Revive x 2
+[13:43:48] (POKESTOP) Health Mural in 81.21 m distance
+[13:43:48] (NAVIGATION) Distance to target location: 81.21 meters. Will take 9.14 seconds driving at 32kmh
+[13:43:53] (INFO) Found 1 catchable Pokemon
+[13:43:55] (Wild Success) | Weedle 76 V |   44 Cp | 17.43% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
