@@ -36685,3 +36685,19 @@
 [22:32:37] (INFO) Found 1 catchable Pokemon
 [22:32:38] (BERRY) ItemRazzBerry used, remaining: 41
 [22:32:39] (Wild Success) | Paras 168 V |  421 Cp | 55.95% | Lvl 18 | Chance: 0.28 | with a UltraBall and received XP 210
+[22:32:41] (INFO) Found 1 pokemon to transfer...
+[22:32:42] (TRANSFER) Paras 168 V |  421 Cp | 55.95% | Lvl 18 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 88
+[22:32:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[22:32:45] (POKESTOP) Pomegranate Ice Kachang See Saw in 97.81 m distance
+[22:32:45] (NAVIGATION) Distance to target location: 97.81 meters. Will take 11 seconds driving at 32kmh
+[22:32:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:32:57] (POKESTOP) Beach Station Car Park Tower in 89.88 m distance
+[22:32:57] (NAVIGATION) Distance to target location: 89.88 meters. Will take 11.16 seconds driving at 29kmh
+[22:33:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[22:33:09] (POKESTOP) Snake on Road in 68.01 m distance
+[22:33:09] (NAVIGATION) Distance to target location: 68.01 meters. Will take 7.9 seconds driving at 31kmh
+[22:33:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:33:17] (POKESTOP) Beacon of Enlightenment  in 90.58 m distance
+[22:33:17] (NAVIGATION) Distance to target location: 90.58 meters. Will take 10.19 seconds driving at 32kmh
+[22:33:25] (INFO) Found 1 catchable Pokemon
+[22:33:27] (Wild Success) | Poliwag 117 V |   53 Cp | 59.60% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
