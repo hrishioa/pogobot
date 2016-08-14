@@ -22560,3 +22560,10 @@
 [08:37:38] (NAVIGATION) Distance to target location: 223.56 meters. Will take 19.63 seconds driving at 41kmh
 [08:37:43] (INFO) Found 1 catchable Pokemon
 [08:37:44] (Wild Success) | Zubat 115 V |  190 Cp | 51.09% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[08:37:46] (INFO) Found 1 pokemon to transfer...
+[08:37:47] (TRANSFER) Zubat 115 V |  190 Cp | 51.09% | Lvl 12 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 734
+[08:37:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[08:37:59] (POKESTOP) Institute of Systems Science in 220.38 m distance
+[08:37:59] (NAVIGATION) Distance to target location: 220.38 meters. Will take 19.83 seconds driving at 40kmh
+[08:38:10] (INFO) Found 3 catchable Pokemon
+[08:38:11] (Wild Success) | Sandshrew 149 V |  268 Cp | 62.28% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
