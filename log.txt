@@ -31859,3 +31859,9 @@
 [14:23:44] (NAVIGATION) Distance to target location: 79.34 meters. Will take 9.85 seconds driving at 29kmh
 [14:23:50] (INFO) Found 1 catchable Pokemon
 [14:23:52] (Wild Success) | Rhyhorn 106 V |  112 Cp | 55.30% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[14:23:55] (POKESTOP) Clementi West White Orchid Mural in 92.64 m distance
+[14:23:55] (NAVIGATION) Distance to target location: 92.64 meters. Will take 11.91 seconds driving at 28kmh
+[14:24:06] (POKESTOP) Clementi West Green Alien Mural in 60.52 m distance
+[14:24:06] (NAVIGATION) Distance to target location: 60.52 meters. Will take 7.03 seconds driving at 31kmh
+[14:24:10] (INFO) Found 1 catchable Pokemon
+[14:24:12] (Wild Success) | Rattata 146 V |  271 Cp | 51.76% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
