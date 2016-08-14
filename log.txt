@@ -39999,3 +39999,4 @@
 [00:25:30] (NAVIGATION) Distance to target location: 81.55 meters. Will take 9.79 seconds driving at 30kmh
 [00:25:36] (INFO) Found 2 catchable Pokemon
 [00:25:37] (Wild Success) | Meowth 133 V |  311 Cp | 40.30% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[00:25:39] (Wild Success) | Magnemite 86 V |   73 Cp | 16.70% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
