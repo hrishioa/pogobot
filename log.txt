@@ -36558,3 +36558,4 @@
 [22:26:44] (NAVIGATION) Distance to target location: 146.42 meters. Will take 17.57 seconds driving at 30kmh
 [22:26:52] (INFO) Found 2 catchable Pokemon
 [22:26:53] (Wild Success) | Psyduck 126 V |  343 Cp | 22.31% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[22:26:55] (Wild Success) | Spearow 100 V |  192 Cp | 31.17% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
