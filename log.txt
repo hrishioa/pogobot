@@ -42341,3 +42341,4 @@
 [01:31:50] (NAVIGATION) Distance to target location: 165.32 meters. Will take 19.84 seconds driving at 30kmh
 [01:32:06] (INFO) Found 3 catchable Pokemon
 [01:32:08] (Wild Success) | Voltorb 139 V |  102 Cp | 59.37% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[01:32:09] (Wild Success) | Shellder 111 V |  272 Cp | 32.29% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
