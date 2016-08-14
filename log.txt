@@ -39916,3 +39916,47 @@
 [00:22:04] (TRANSFER) Abra 147 V |  321 Cp | 37.53% | Lvl 23 | Best: [Abra 173 V |  127 Cp | 79.52% | Lvl 08] | Candy: 18
 [00:22:05] (INFO) Found 1 catchable Pokemon
 [00:22:06] (Wild Success) | Goldeen 157 V |  250 Cp | 59.80% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[00:22:08] (INFO) Found 1 pokemon to transfer...
+[00:22:10] (TRANSFER) Goldeen 157 V |  250 Cp | 59.80% | Lvl 10 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 205
+[00:22:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:22:13] (POKESTOP) Silso Dream Sculpture in 42.14 m distance
+[00:22:13] (NAVIGATION) Distance to target location: 42.14 meters. Will take 5.42 seconds driving at 28kmh
+[00:22:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:22:17] (INFO) Found 3 Recyclable Items:
+[00:22:18] (RECYCLING) PokeBall x 5
+[00:22:19] (RECYCLING) Potion x 4
+[00:22:19] (RECYCLING) Revive x 2
+[00:22:23] (POKESTOP) Siloso Resort Fountain in 57.2 m distance
+[00:22:23] (NAVIGATION) Distance to target location: 57.2 meters. Will take 7.1 seconds driving at 29kmh
+[00:22:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:22:30] (POKESTOP) Lady Statue in 46.98 m distance
+[00:22:30] (NAVIGATION) Distance to target location: 46.98 meters. Will take 5.46 seconds driving at 31kmh
+[00:22:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[00:22:36] (POKESTOP) Pirate Queen in 112.95 m distance
+[00:22:36] (NAVIGATION) Distance to target location: 112.95 meters. Will take 13.55 seconds driving at 30kmh
+[00:22:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:22:49] (POKESTOP) Wave Check In  in 63.6 m distance
+[00:22:49] (NAVIGATION) Distance to target location: 63.6 meters. Will take 7.9 seconds driving at 29kmh
+[00:22:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:22:57] (POKESTOP) The Dragon Hut in 223.59 m distance
+[00:22:57] (NAVIGATION) Distance to target location: 223.59 meters. Will take 19.63 seconds driving at 41kmh
+[00:23:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:23:17] (INFO) Found 2 Recyclable Items:
+[00:23:17] (RECYCLING) PokeBall x 5
+[00:23:19] (RECYCLING) Potion x 3
+[00:23:21] (POKESTOP) Guardian of the Grove in 92.67 m distance
+[00:23:21] (NAVIGATION) Distance to target location: 92.67 meters. Will take 10.76 seconds driving at 31kmh
+[00:23:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:23:32] (POKESTOP) Singapore. Park insects in 80.41 m distance
+[00:23:32] (NAVIGATION) Distance to target location: 80.41 meters. Will take 9.98 seconds driving at 29kmh
+[00:23:40] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemGreatBall, 1 x ItemSuperPotion, 2 x ItemPokeBall
+[00:23:41] (POKESTOP) Sentosa Nature Discovery Centre in 125.62 m distance
+[00:23:41] (NAVIGATION) Distance to target location: 125.62 meters. Will take 16.15 seconds driving at 28kmh
+[00:23:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:23:57] (POKESTOP) Tiger Sky Tower in 88.48 m distance
+[00:23:57] (NAVIGATION) Distance to target location: 88.48 meters. Will take 9.95 seconds driving at 32kmh
+[00:24:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:24:08] (POKESTOP) Bengali Tigers in 54.42 m distance
+[00:24:08] (NAVIGATION) Distance to target location: 54.42 meters. Will take 7 seconds driving at 28kmh
+[00:24:11] (INFO) Found 1 catchable Pokemon
+[00:24:12] (Wild Success) | Magnemite 97 V |  206 Cp | 26.22% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
