@@ -34496,3 +34496,25 @@
 [21:08:28] (NAVIGATION) Distance to target location: 76.65 meters. Will take 9.2 seconds driving at 30kmh
 [21:08:34] (INFO) Found 1 catchable Pokemon
 [21:08:37] (Wild Success) | Pidgey 105 V |  112 Cp | 43.77% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
+[21:08:38] (INFO) Found 1 pokemon to transfer...
+[21:08:40] (TRANSFER) Pidgey 105 V |  112 Cp | 43.77% | Lvl 07 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1338
+[21:08:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:08:42] (POKESTOP) Chinese Scholar Painting in 76.85 m distance
+[21:08:42] (NAVIGATION) Distance to target location: 76.85 meters. Will take 9.54 seconds driving at 29kmh
+[21:08:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:08:52] (POKESTOP) Centre For Development Of Teaching And Learning in 62.99 m distance
+[21:08:52] (NAVIGATION) Distance to target location: 62.99 meters. Will take 7.31 seconds driving at 31kmh
+[21:08:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:08:59] (POKESTOP) CRISP & TMSI in 109.26 m distance
+[21:08:59] (NAVIGATION) Distance to target location: 109.26 meters. Will take 12.29 seconds driving at 32kmh
+[21:09:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:09:11] (POKESTOP) Student Service Centre in 129.69 m distance
+[21:09:11] (NAVIGATION) Distance to target location: 129.69 meters. Will take 16.67 seconds driving at 28kmh
+[21:09:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:09:28] (POKESTOP) NUSSU Sign in 50.72 m distance
+[21:09:28] (NAVIGATION) Distance to target location: 50.72 meters. Will take 6.09 seconds driving at 30kmh
+[21:09:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:09:34] (POKESTOP) Tree of Light Bulbs in 67.09 m distance
+[21:09:34] (NAVIGATION) Distance to target location: 67.09 meters. Will take 7.79 seconds driving at 31kmh
+[21:09:36] (INFO) Found 1 catchable Pokemon
+[21:09:37] (Wild Success) | Oddish 139 V |   46 Cp | 61.85% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
