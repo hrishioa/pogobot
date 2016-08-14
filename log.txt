@@ -21926,3 +21926,15 @@
 [08:18:02] (INFO) Found 2 catchable Pokemon
 [08:18:03] (BERRY) ItemRazzBerry used, remaining: 47
 [08:18:04] (Wild Success) | Staryu 177 V |  504 Cp | 75.41% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[08:18:15] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[08:18:15] (ATTENTION) Restarting the application due to error...
+[08:18:15] (INFO) Logging in via: Google
+[08:18:16] (INFO) Client logged in
+[08:18:16] (INFO) Found 96 Pokestops
+[08:18:17] (POKESTOP) Saying By The Founder in 21.27 m distance
+[08:18:17] (NAVIGATION) Distance to target location: 21.27 meters. Will take 2.47 seconds driving at 31kmh
+[08:18:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:18:20] (POKESTOP) The Odyssey in 70.37 m distance
+[08:18:20] (NAVIGATION) Distance to target location: 70.37 meters. Will take 8.44 seconds driving at 30kmh
+[08:18:22] (INFO) Found 1 catchable Pokemon
+[08:18:24] (Wild Success) | Venonat 140 V |  412 Cp | 44.31% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
