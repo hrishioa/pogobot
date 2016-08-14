@@ -37562,3 +37562,16 @@
 [22:59:03] (NAVIGATION) Distance to target location: 146.75 meters. Will take 18.22 seconds driving at 29kmh
 [22:59:19] (INFO) Found 1 catchable Pokemon
 [22:59:20] (Wild Success) | Goldeen 126 V |  115 Cp | 51.67% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[22:59:22] (INFO) Found 1 pokemon to transfer...
+[22:59:24] (TRANSFER) Goldeen 126 V |  115 Cp | 51.67% | Lvl 05 | Best: [Goldeen 185 V |  240 Cp | 89.32% | Lvl 09] | Candy: 162
+[22:59:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[22:59:28] (POKESTOP) Giant Plate And Bowls in 57.35 m distance
+[22:59:28] (NAVIGATION) Distance to target location: 57.35 meters. Will take 6.88 seconds driving at 30kmh
+[22:59:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[22:59:35] (POKESTOP) Sentosa Cove Arrival Hall in 63.49 m distance
+[22:59:35] (NAVIGATION) Distance to target location: 63.49 meters. Will take 7.88 seconds driving at 29kmh
+[22:59:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[22:59:43] (POKESTOP) 4 Greetings Flamingos in 306.62 m distance
+[22:59:43] (NAVIGATION) Distance to target location: 306.62 meters. Will take 19.71 seconds driving at 56kmh
+[22:59:52] (INFO) Found 4 catchable Pokemon
+[22:59:54] (Wild Success) | Seel 99 V |  129 Cp | 39.46% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
