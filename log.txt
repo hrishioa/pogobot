@@ -31976,3 +31976,23 @@
 [14:28:30] (TRANSFER) Weedle 78 V |   10 Cp | 21.98% | Lvl 01 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 571
 [14:28:31] (INFO) Found 1 catchable Pokemon
 [14:28:33] (Wild Success) | Weedle 105 V |  142 Cp | 36.41% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[14:28:34] (INFO) Found 1 pokemon to transfer...
+[14:28:36] (TRANSFER) Weedle 105 V |  142 Cp | 36.41% | Lvl 14 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 575
+[14:28:39] (POKESTOP) Pasir Panjang Garden in 98.89 m distance
+[14:28:39] (NAVIGATION) Distance to target location: 98.89 meters. Will take 11.13 seconds driving at 32kmh
+[14:28:49] (POKESTOP) West Coast Public Stage in 62.88 m distance
+[14:28:49] (NAVIGATION) Distance to target location: 62.88 meters. Will take 7.55 seconds driving at 30kmh
+[14:28:56] (POKESTOP) Metallic Windmill in 96.04 m distance
+[14:28:56] (NAVIGATION) Distance to target location: 96.04 meters. Will take 10.8 seconds driving at 32kmh
+[14:29:07] (POKESTOP) Block 701 Mini Playground in 144.93 m distance
+[14:29:07] (NAVIGATION) Distance to target location: 144.93 meters. Will take 17.99 seconds driving at 29kmh
+[14:29:25] (POKESTOP) West Coast Playground in 135.88 m distance
+[14:29:25] (NAVIGATION) Distance to target location: 135.88 meters. Will take 16.31 seconds driving at 30kmh
+[14:29:40] (POKESTOP) West Coast Town Council Fitness Corner in 112.39 m distance
+[14:29:40] (NAVIGATION) Distance to target location: 112.39 meters. Will take 13.49 seconds driving at 30kmh
+[14:29:53] (POKESTOP) Jalan Mas Kuning Playground in 417.46 m distance
+[14:29:53] (NAVIGATION) Distance to target location: 417.46 meters. Will take 21.47 seconds driving at 70kmh
+[14:30:15] (POKESTOP) The Kingdom City's Gate in 479.77 m distance
+[14:30:15] (NAVIGATION) Distance to target location: 479.77 meters. Will take 24.67 seconds driving at 70kmh
+[14:30:39] (INFO) Found 1 catchable Pokemon
+[14:30:41] (Wild Success) | Poliwag 112 V |   92 Cp | 43.83% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
