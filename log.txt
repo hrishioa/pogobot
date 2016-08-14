@@ -23788,3 +23788,15 @@
 [09:18:50] (INFO) Found 2 catchable Pokemon
 [09:18:51] (Wild Success) | Exeggcute 189 V |  337 Cp | 89.51% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [09:18:54] (Wild Success) | Paras 139 V |   88 Cp | 65.32% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
+[09:18:55] (INFO) Found 2 pokemon to transfer...
+[09:18:57] (TRANSFER) Exeggcute 189 V |  337 Cp | 89.51% | Lvl 11 | Best: [Exeggcute 231 V |  681 Cp | 93.48% | Lvl 22] | Candy: 53
+[09:18:59] (TRANSFER) Paras 139 V |   88 Cp | 65.32% | Lvl 04 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 114
+[09:19:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 3 x ItemPokeBall
+[09:19:03] (POKESTOP) West Coast Town Council Fitness Corner in 94.35 m distance
+[09:19:03] (NAVIGATION) Distance to target location: 94.35 meters. Will take 10.61 seconds driving at 32kmh
+[09:19:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[09:19:14] (POKESTOP) Caged Court in 119.67 m distance
+[09:19:14] (NAVIGATION) Distance to target location: 119.67 meters. Will take 14.86 seconds driving at 29kmh
+[09:19:27] (INFO) Found 1 catchable Pokemon
+[09:19:29] (BERRY) ItemRazzBerry used, remaining: 48
+[09:19:29] (Wild Success) | Staryu 177 V |  572 Cp | 70.47% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
