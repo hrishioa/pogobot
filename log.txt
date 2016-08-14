@@ -34067,3 +34067,16 @@
 [20:58:12] (NAVIGATION) Distance to target location: 372.24 meters. Will take 19.71 seconds driving at 68kmh
 [20:58:31] (INFO) Found 1 catchable Pokemon
 [20:58:32] (Wild Success) | Psyduck 117 V |   71 Cp | 37.64% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[20:58:34] (INFO) Found 1 pokemon to transfer...
+[20:58:36] (TRANSFER) Psyduck 117 V |   71 Cp | 37.64% | Lvl 03 | Best: [Psyduck 163 V |  309 Cp | 46.89% | Lvl 11] | Candy: 78
+[20:58:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[20:58:39] (POKESTOP) Painted Glass Soccer Pane in 925.25 m distance
+[20:58:39] (NAVIGATION) Distance to target location: 925.25 meters. Will take 47.58 seconds driving at 70kmh
+[20:59:04] (INFO) Found 1 catchable Pokemon
+[20:59:05] (Wild Escape) | Pidgey 115 V |  343 Cp | 40.81% | Lvl 21 | Chance: 0.32 | with a GreatBall 
+[20:59:06] (Wild Escape Attempt #2) | Pidgey 115 V |  343 Cp | 40.81% | Lvl 21 | Chance: 0.32 | with a GreatBall 
+[20:59:07] (Wild Success Attempt #3) | Pidgey 115 V |  343 Cp | 40.81% | Lvl 21 | Chance: 0.32 | with a GreatBall 
+[20:59:09] (INFO) Found 1 pokemon to transfer...
+[20:59:10] (TRANSFER) Pidgey 115 V |  343 Cp | 40.81% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 645
+[20:59:25] (INFO) Found 1 catchable Pokemon
+[20:59:27] (Wild Success) | Weedle 101 V |  177 Cp | 27.98% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
