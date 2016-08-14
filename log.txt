@@ -40735,3 +40735,38 @@
 [00:45:44] (BERRY) ItemRazzBerry used, remaining: 48
 [00:45:45] (Wild Success) | Machop 151 V |  574 Cp | 43.54% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
 [00:45:47] (Wild Success) | Sandshrew 127 V |  326 Cp | 36.72% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[00:45:49] (INFO) Found 2 pokemon to transfer...
+[00:45:50] (TRANSFER) Machop 127 V |  323 Cp | 38.07% | Lvl 12 | Best: [Machop 151 V |  574 Cp | 43.54% | Lvl 21] | Candy: 10
+[00:45:52] (TRANSFER) Sandshrew 127 V |  326 Cp | 36.72% | Lvl 17 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 58
+[00:45:54] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 4 x ItemPokeBall, 1 x ItemHyperPotion, 1 x ItemPotion
+[00:45:55] (INFO) Found 5 Recyclable Items:
+[00:45:55] (RECYCLING) PokeBall x 13
+[00:45:56] (RECYCLING) Potion x 3
+[00:45:58] (RECYCLING) SuperPotion x 1
+[00:45:59] (RECYCLING) HyperPotion x 1
+[00:46:00] (RECYCLING) Revive x 2
+[00:46:03] (POKESTOP) Heritage Tree Leban Malayan Teak in 30.23 m distance
+[00:46:03] (NAVIGATION) Distance to target location: 30.23 meters. Will take 3.63 seconds driving at 30kmh
+[00:46:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[00:46:05] (POKESTOP) Tiger Sky Tower in 55.49 m distance
+[00:46:05] (NAVIGATION) Distance to target location: 55.49 meters. Will take 6.44 seconds driving at 31kmh
+[00:46:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[00:46:12] (POKESTOP) Bengali Tigers in 50.69 m distance
+[00:46:12] (NAVIGATION) Distance to target location: 50.69 meters. Will take 6.52 seconds driving at 28kmh
+[00:46:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:46:18] (POKESTOP) Sentosa Nature Discovery Centre in 110.37 m distance
+[00:46:18] (NAVIGATION) Distance to target location: 110.37 meters. Will take 13.7 seconds driving at 29kmh
+[00:46:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:46:31] (POKESTOP) Big Temptation in 192.51 m distance
+[00:46:31] (NAVIGATION) Distance to target location: 192.51 meters. Will take 19.8 seconds driving at 35kmh
+[00:46:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:46:51] (INFO) Found 2 Recyclable Items:
+[00:46:52] (RECYCLING) PokeBall x 13
+[00:46:53] (RECYCLING) SuperPotion x 1
+[00:46:55] (POKESTOP) Big Apple in 56.57 m distance
+[00:46:55] (NAVIGATION) Distance to target location: 56.57 meters. Will take 6.57 seconds driving at 31kmh
+[00:47:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[00:47:01] (POKESTOP) Sentosa Play Fountain in 173.36 m distance
+[00:47:01] (NAVIGATION) Distance to target location: 173.36 meters. Will take 19.5 seconds driving at 32kmh
+[00:47:10] (INFO) Found 2 catchable Pokemon
+[00:47:12] (Wild Success) | Meowth 91 V |   80 Cp | 17.60% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
