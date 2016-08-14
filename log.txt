@@ -35208,3 +35208,5 @@
 [21:33:06] (TRANSFER) Goldeen 153 V |  324 Cp | 58.83% | Lvl 13 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 230
 [21:33:08] (INFO) Found 2 catchable Pokemon
 [21:33:09] (Wild Success) | Psyduck 155 V |  199 Cp | 62.91% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[21:33:10] (BERRY) ItemRazzBerry used, remaining: 44
+[21:33:12] (Wild Success) | Golbat 157 V |  641 Cp | 37.85% | Lvl 13 | Chance: 0.16 | with a UltraBall and received XP 210
