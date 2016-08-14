@@ -21573,3 +21573,11 @@
 [08:05:48] (TRANSFER) Weedle 72 V |   24 Cp | 15.24% | Lvl 03 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 455
 [08:05:49] (INFO) Found 1 catchable Pokemon
 [08:05:51] (Wild Success) | Diglett 137 V |   87 Cp | 61.29% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[08:05:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemUltraBall, 1 x ItemPokeBall
+[08:05:55] (POKESTOP) Fire Painting  in 62.98 m distance
+[08:05:55] (NAVIGATION) Distance to target location: 62.98 meters. Will take 7.09 seconds driving at 32kmh
+[08:06:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:06:02] (POKESTOP) Center for English Language Communication in 281.95 m distance
+[08:06:02] (NAVIGATION) Distance to target location: 281.95 meters. Will take 19.9 seconds driving at 51kmh
+[08:06:17] (INFO) Found 1 catchable Pokemon
+[08:06:20] (Wild Success) | Pidgey 109 V |  112 Cp | 42.66% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
