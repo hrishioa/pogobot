@@ -40791,3 +40791,4 @@
 [00:47:54] (NAVIGATION) Distance to target location: 83.61 meters. Will take 10.75 seconds driving at 28kmh
 [00:47:56] (INFO) Found 2 catchable Pokemon
 [00:47:57] (Wild Success) | Gastly 110 V |   10 Cp | 39.16% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[00:47:59] (Wild Success) | Spearow 68 V |   10 Cp | 27.47% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
