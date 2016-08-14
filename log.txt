@@ -37020,3 +37020,4 @@
 [22:43:25] (NAVIGATION) Distance to target location: 642.85 meters. Will take 33.06 seconds driving at 70kmh
 [22:43:54] (INFO) Found 3 catchable Pokemon
 [22:43:56] (Wild Success) | Mankey 125 V |   10 Cp | 48.81% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:43:58] (Wild Success) | Mankey 139 V |  159 Cp | 70.99% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
