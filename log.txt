@@ -41764,3 +41764,8 @@
 [01:17:08] (TRANSFER) Mankey 95 V |   32 Cp | 34.51% | Lvl 02 | Best: [Mankey 141 V |  158 Cp | 67.79% | Lvl 07] | Candy: 29
 [01:17:09] (INFO) Found 1 catchable Pokemon
 [01:17:11] (Wild Success) | Rhyhorn 138 V |  314 Cp | 67.05% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[01:17:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 3 x ItemPokeBall, 1 x ItemPotion
+[01:17:15] (POKESTOP) Big Bird Emporium in 80.93 m distance
+[01:17:15] (NAVIGATION) Distance to target location: 80.93 meters. Will take 10.41 seconds driving at 28kmh
+[01:17:23] (INFO) Found 1 catchable Pokemon
+[01:17:24] (Wild Success) | Caterpie 120 V |  148 Cp | 49.77% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
