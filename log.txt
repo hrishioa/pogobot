@@ -44029,3 +44029,8 @@
 [02:22:31] (INFO) Found 2 catchable Pokemon
 [02:22:33] (Wild Success) | Pidgey 129 V |  327 Cp | 40.85% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
 [02:22:34] (Wild Success) | Weedle 65 V |  141 Cp | 18.76% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[02:22:36] (INFO) Found 2 pokemon to transfer...
+[02:22:37] (TRANSFER) Pidgey 129 V |  327 Cp | 40.85% | Lvl 20 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 740
+[02:22:40] (TRANSFER) Weedle 65 V |  141 Cp | 18.76% | Lvl 15 | Best: [Weedle 166 V |  245 Cp | 86.87% | Lvl 20] | Candy: 315
+[02:22:41] (INFO) Found 2 catchable Pokemon
+[02:22:43] (Wild Success) | Venonat 165 V |  304 Cp | 72.58% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
