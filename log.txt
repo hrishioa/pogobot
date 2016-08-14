@@ -33465,3 +33465,11 @@
 [20:37:18] (NAVIGATION) Distance to target location: 96.32 meters. Will take 11.19 seconds driving at 31kmh
 [20:37:27] (INFO) Found 1 catchable Pokemon
 [20:37:28] (Wild Success) | Zubat 138 V |  145 Cp | 59.09% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
+[20:37:30] (INFO) Found 1 pokemon to transfer...
+[20:37:32] (TRANSFER) Zubat 138 V |  145 Cp | 59.09% | Lvl 09 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 640
+[20:37:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:37:34] (POKESTOP) Alice Lee Plaza in 71.88 m distance
+[20:37:34] (NAVIGATION) Distance to target location: 71.88 meters. Will take 8.63 seconds driving at 30kmh
+[20:37:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:37:43] (INFO) Found 1 catchable Pokemon
+[20:37:45] (Wild Success) | Zubat 121 V |   10 Cp | 54.68% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
