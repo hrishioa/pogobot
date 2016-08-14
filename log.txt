@@ -28407,3 +28407,14 @@
 [12:12:38] (BERRY) ItemRazzBerry used, remaining: 46
 [12:12:39] (Wild Success) | Bellsprout 135 V |  667 Cp | 41.38% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
 [12:12:41] (Wild Success) | Pidgey 84 V |   10 Cp | 43.49% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[12:12:43] (INFO) Found 2 pokemon to transfer...
+[12:12:44] (TRANSFER) Bellsprout 135 V |  667 Cp | 41.38% | Lvl 24 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 265
+[12:12:46] (TRANSFER) Pidgey 84 V |   10 Cp | 43.49% | Lvl 01 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1150
+[12:12:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 2 x ItemPokeBall
+[12:12:50] (POKESTOP) 4 Mega Zip Lines in 61.04 m distance
+[12:12:50] (NAVIGATION) Distance to target location: 61.04 meters. Will take 7.58 seconds driving at 29kmh
+[12:12:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemUltraBall, 3 x ItemPokeBall
+[12:12:58] (POKESTOP) Red Fire Truck in 103.51 m distance
+[12:12:58] (NAVIGATION) Distance to target location: 103.51 meters. Will take 11.65 seconds driving at 32kmh
+[12:13:01] (INFO) Found 1 catchable Pokemon
+[12:13:03] (Wild Success) | Weedle 116 V |  138 Cp | 47.20% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
