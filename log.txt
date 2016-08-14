@@ -34946,3 +34946,33 @@
 [21:23:03] (NAVIGATION) Distance to target location: 108.11 meters. Will take 12.16 seconds driving at 32kmh
 [21:23:14] (INFO) Found 1 catchable Pokemon
 [21:23:15] (Wild Success) | Pidgey 107 V |  265 Cp | 26.11% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 420
+[21:23:17] (INFO) Found 1 pokemon to transfer...
+[21:23:19] (TRANSFER) Pidgey 107 V |  265 Cp | 26.11% | Lvl 17 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1358
+[21:23:20] (POKESTOP) SUTD Hostel Main Mural in 605.7 m distance
+[21:23:20] (NAVIGATION) Distance to target location: 605.7 meters. Will take 31.15 seconds driving at 70kmh
+[21:23:54] (POKESTOP) SUTD Blue Wall Mural in 24.69 m distance
+[21:23:54] (NAVIGATION) Distance to target location: 24.69 meters. Will take 2.87 seconds driving at 31kmh
+[21:23:57] (POKESTOP) SUTD Building in 93.23 m distance
+[21:23:57] (NAVIGATION) Distance to target location: 93.23 meters. Will take 11.19 seconds driving at 30kmh
+[21:24:07] (POKESTOP) Commemorative Plaque in 148.69 m distance
+[21:24:07] (NAVIGATION) Distance to target location: 148.69 meters. Will take 17.84 seconds driving at 30kmh
+[21:24:25] (POKESTOP) Brains of Power in 42.85 m distance
+[21:24:25] (NAVIGATION) Distance to target location: 42.85 meters. Will take 4.82 seconds driving at 32kmh
+[21:24:30] (POKESTOP) Wooden Shell (Right) in 88.59 m distance
+[21:24:30] (NAVIGATION) Distance to target location: 88.59 meters. Will take 11 seconds driving at 29kmh
+[21:24:40] (POKESTOP) Root II by Min Chen in 61.45 m distance
+[21:24:40] (NAVIGATION) Distance to target location: 61.45 meters. Will take 7.63 seconds driving at 29kmh
+[21:24:47] (POKESTOP) Mosaic Mural at ITE in 66.55 m distance
+[21:24:47] (NAVIGATION) Distance to target location: 66.55 meters. Will take 7.99 seconds driving at 30kmh
+[21:24:54] (POKESTOP) SiT main building  in 66.48 m distance
+[21:24:54] (NAVIGATION) Distance to target location: 66.48 meters. Will take 8.55 seconds driving at 28kmh
+[21:25:01] (POKESTOP) Shark Mural in 90.19 m distance
+[21:25:01] (NAVIGATION) Distance to target location: 90.19 meters. Will take 10.47 seconds driving at 31kmh
+[21:25:11] (POKESTOP) Metal Workshop in 62.01 m distance
+[21:25:11] (NAVIGATION) Distance to target location: 62.01 meters. Will take 7.2 seconds driving at 31kmh
+[21:25:18] (POKESTOP) Fab Lab 2 in 47.45 m distance
+[21:25:18] (NAVIGATION) Distance to target location: 47.45 meters. Will take 5.89 seconds driving at 29kmh
+[21:25:24] (POKESTOP) Shield Art in 111.68 m distance
+[21:25:24] (NAVIGATION) Distance to target location: 111.68 meters. Will take 12.97 seconds driving at 31kmh
+[21:25:34] (INFO) Found 1 catchable Pokemon
+[21:25:35] (Wild Success) | Zubat 160 V |  275 Cp | 76.77% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
