@@ -38765,3 +38765,24 @@
 [23:44:18] (NAVIGATION) Distance to target location: 176.61 meters. Will take 19.87 seconds driving at 32kmh
 [23:44:29] (INFO) Found 1 catchable Pokemon
 [23:44:30] (Wild Success) | Psyduck 77 V |   68 Cp | 17.72% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[23:44:32] (INFO) Found 1 pokemon to transfer...
+[23:44:33] (TRANSFER) Psyduck 77 V |   68 Cp | 17.72% | Lvl 03 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 141
+[23:44:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRazzBerry
+[23:44:38] (POKESTOP) Giant Bowl Water Fountain  in 76.97 m distance
+[23:44:38] (NAVIGATION) Distance to target location: 76.97 meters. Will take 8.66 seconds driving at 32kmh
+[23:44:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[23:44:46] (ATTENTION) No locations in your area...
+[23:44:52] (INFO) Found 3 Pokestops
+[23:44:53] (POKESTOP) 4 Greetings Flamingos in 500.33 m distance
+[23:44:53] (NAVIGATION) Distance to target location: 500.33 meters. Will take 25.73 seconds driving at 70kmh
+[23:45:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[23:45:20] (INFO) Found 2 Recyclable Items:
+[23:45:20] (RECYCLING) PokeBall x 9
+[23:45:21] (RECYCLING) Potion x 2
+[23:45:24] (POKESTOP) Corda Mauro in 168.86 m distance
+[23:45:24] (NAVIGATION) Distance to target location: 168.86 meters. Will take 19.61 seconds driving at 31kmh
+[23:45:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:45:43] (POKESTOP) Metallic Symbol of Tranquillity in 723.72 m distance
+[23:45:43] (NAVIGATION) Distance to target location: 723.72 meters. Will take 37.22 seconds driving at 70kmh
+[23:46:15] (INFO) Found 2 catchable Pokemon
+[23:46:18] (Wild Success) | Voltorb 176 V |  375 Cp | 67.94% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
