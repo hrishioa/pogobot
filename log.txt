@@ -43448,3 +43448,4 @@
 [02:04:44] (NAVIGATION) Distance to target location: 103.98 meters. Will take 12.91 seconds driving at 29kmh
 [02:04:48] (INFO) Found 2 catchable Pokemon
 [02:04:50] (Wild Success) | Poliwag 89 V |   68 Cp | 30.15% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[02:04:51] (Wild Success) | Psyduck 152 V |  466 Cp | 14.80% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
