@@ -45697,3 +45697,4 @@
 [03:17:15] (TRANSFER) Dodrio 193 V |  673 Cp | 50.85% | Lvl 14 | Best: [Dodrio 270 V | 1213 Cp | 78.57% | Lvl 24] | Candy: 33
 [03:17:17] (INFO) Found 2 catchable Pokemon
 [03:17:18] (Wild Success) | Pidgey 116 V |  132 Cp | 48.13% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[03:17:20] (Wild Success) | Bulbasaur 113 V |   41 Cp | 38.87% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
