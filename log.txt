@@ -38121,3 +38121,8 @@
 [23:20:09] (Wild Success) | Shellder 164 V |  486 Cp | 60.24% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
 [23:20:10] (BERRY) ItemRazzBerry used, remaining: 46
 [23:20:12] (Wild Success) | Voltorb 166 V |  399 Cp | 49.11% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[23:20:13] (INFO) Found 2 pokemon to transfer...
+[23:20:15] (TRANSFER) Shellder 128 V |  301 Cp | 42.94% | Lvl 15 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 26
+[23:20:16] (TRANSFER) Voltorb 166 V |  399 Cp | 49.11% | Lvl 19 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 44
+[23:20:18] (INFO) Found 1 catchable Pokemon
+[23:20:19] (Wild Success) | Magikarp 111 V |   81 Cp | 78.19% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
