@@ -29698,3 +29698,12 @@
 [13:04:22] (INFO) Found 1 catchable Pokemon
 [13:04:23] (BERRY) ItemRazzBerry used, remaining: 46
 [13:04:24] (Wild Success) | Eevee 199 V |  620 Cp | 81.57% | Lvl 21 | Chance: 0.26 | with a UltraBall and received XP 210
+[13:04:25] (INFO) Found 1 pokemon to transfer...
+[13:04:27] (TRANSFER) Eevee 179 V |  236 Cp | 87.71% | Lvl 08 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 88
+[13:04:28] (POKESTOP) Park Gazebos in 45.02 m distance
+[13:04:28] (NAVIGATION) Distance to target location: 45.02 meters. Will take 5.59 seconds driving at 29kmh
+[13:04:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemRazzBerry
+[13:04:33] (POKESTOP) Rhythm in Space in 180.6 m distance
+[13:04:33] (NAVIGATION) Distance to target location: 180.6 meters. Will take 19.7 seconds driving at 33kmh
+[13:04:42] (INFO) Found 1 catchable Pokemon
+[13:04:44] (Wild Success) | Weedle 93 V |   78 Cp | 29.51% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
