@@ -23681,3 +23681,7 @@
 [09:14:52] (NAVIGATION) Distance to target location: 87.42 meters. Will take 11.24 seconds driving at 28kmh
 [09:14:56] (INFO) Found 1 catchable Pokemon
 [09:14:57] (Wild Success) | Kakuna 79 V |   76 Cp | 38.61% | Lvl 07 | Chance: 0.28 | with a UltraBall and received XP 210
+[09:14:59] (INFO) Found 1 pokemon to transfer...
+[09:15:01] (TRANSFER) Kakuna 79 V |   76 Cp | 38.61% | Lvl 07 | Best: [Kakuna 86 V |  227 Cp | 30.65% | Lvl 21] | Candy: 471
+[09:15:02] (INFO) Found 1 catchable Pokemon
+[09:15:04] (Wild Success) | Pidgey 112 V |   96 Cp | 46.60% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
