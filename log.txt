@@ -38070,3 +38070,30 @@
 [23:17:53] (INFO) Found 2 catchable Pokemon
 [23:17:54] (Wild Success) | Seel 145 V |  375 Cp | 59.62% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [23:17:56] (Wild Success) | Goldeen 93 V |   11 Cp | 35.21% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:17:58] (INFO) Found 2 pokemon to transfer...
+[23:17:59] (TRANSFER) Seel 126 V |  392 Cp | 46.75% | Lvl 14 | Best: [Seel 151 V |  273 Cp | 83.59% | Lvl 09] | Candy: 18
+[23:18:02] (TRANSFER) Goldeen 93 V |   11 Cp | 35.21% | Lvl 01 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 178
+[23:18:03] (POKESTOP) Armillary Sphere Sundial in 63.47 m distance
+[23:18:03] (NAVIGATION) Distance to target location: 63.47 meters. Will take 7.62 seconds driving at 30kmh
+[23:18:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPotion
+[23:18:11] (POKESTOP) Porcelain Egg Statue in 62.64 m distance
+[23:18:11] (NAVIGATION) Distance to target location: 62.64 meters. Will take 7.52 seconds driving at 30kmh
+[23:18:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[23:18:17] (INFO) Found 4 Recyclable Items:
+[23:18:18] (RECYCLING) PokeBall x 6
+[23:18:19] (RECYCLING) Potion x 2
+[23:18:20] (RECYCLING) SuperPotion x 1
+[23:18:21] (RECYCLING) Revive x 2
+[23:18:23] (POKESTOP) Cardboard Couch in 142.3 m distance
+[23:18:23] (NAVIGATION) Distance to target location: 142.3 meters. Will take 18.3 seconds driving at 28kmh
+[23:18:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[23:18:41] (POKESTOP) Giant Plate And Bowls in 69.58 m distance
+[23:18:41] (NAVIGATION) Distance to target location: 69.58 meters. Will take 8.08 seconds driving at 31kmh
+[23:18:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:18:49] (POKESTOP) Sentosa Cove Arrival Hall in 60.83 m distance
+[23:18:49] (NAVIGATION) Distance to target location: 60.83 meters. Will take 7.3 seconds driving at 30kmh
+[23:18:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[23:18:57] (POKESTOP) Obelisk in 587.56 m distance
+[23:18:57] (NAVIGATION) Distance to target location: 587.56 meters. Will take 30.22 seconds driving at 70kmh
+[23:19:25] (INFO) Found 3 catchable Pokemon
+[23:19:26] (Wild Success) | Rattata 105 V |   35 Cp | 41.46% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
