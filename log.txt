@@ -36620,3 +36620,4 @@
 [22:30:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
 [22:30:33] (INFO) Found 3 catchable Pokemon
 [22:30:35] (Wild Success) | Seel 126 V |  392 Cp | 46.75% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[22:30:37] (Wild Success) | Tentacool 92 V |   35 Cp | 48.53% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
