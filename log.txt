@@ -42438,3 +42438,4 @@
 [01:35:30] (Wild Success) | Slowpoke 136 V |  357 Cp | 29.98% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [01:35:31] (BERRY) ItemRazzBerry used, remaining: 46
 [01:35:32] (Wild Success) | Tentacool 168 V |  561 Cp | 59.98% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[01:35:34] (Wild Success) | Psyduck 136 V |  192 Cp | 47.25% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
