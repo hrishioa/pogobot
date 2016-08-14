@@ -38638,3 +38638,23 @@
 [23:37:42] (NAVIGATION) Distance to target location: 138.97 meters. Will take 16.68 seconds driving at 30kmh
 [23:37:55] (INFO) Found 1 catchable Pokemon
 [23:37:57] (Wild Success) | Magikarp 87 V |  129 Cp | 48.99% | Lvl 22 | Chance: 0.44 | with a GreatBall and received XP 210
+[23:37:58] (INFO) Found 1 pokemon to transfer...
+[23:38:00] (TRANSFER) Magikarp 87 V |  129 Cp | 48.99% | Lvl 22 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 265
+[23:38:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[23:38:03] (POKESTOP) Cove Arrival Plaza in 229.71 m distance
+[23:38:03] (NAVIGATION) Distance to target location: 229.71 meters. Will take 19.69 seconds driving at 42kmh
+[23:38:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[23:38:24] (POKESTOP) Armillary Sphere Sundial in 55.38 m distance
+[23:38:24] (NAVIGATION) Distance to target location: 55.38 meters. Will take 6.65 seconds driving at 30kmh
+[23:38:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:38:30] (POKESTOP) Porcelain Egg Statue in 69.24 m distance
+[23:38:30] (NAVIGATION) Distance to target location: 69.24 meters. Will take 8.6 seconds driving at 29kmh
+[23:38:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:38:39] (INFO) Found 2 Recyclable Items:
+[23:38:39] (RECYCLING) PokeBall x 10
+[23:38:40] (RECYCLING) Revive x 2
+[23:38:43] (POKESTOP) Obelisk in 447.92 m distance
+[23:38:43] (NAVIGATION) Distance to target location: 447.92 meters. Will take 23.04 seconds driving at 70kmh
+[23:38:48] (INFO) Found 1 catchable Pokemon
+[23:38:50] (BERRY) ItemRazzBerry used, remaining: 44
+[23:38:51] (Wild Success) | Tentacool 116 V |  404 Cp | 25.64% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
