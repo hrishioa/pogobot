@@ -31679,3 +31679,20 @@
 [14:16:59] (INFO) Found 1 catchable Pokemon
 [14:17:01] (BERRY) ItemRazzBerry used, remaining: 46
 [14:17:02] (Wild Success) | Pidgey 147 V |  365 Cp | 60.72% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[14:17:04] (INFO) Found 1 pokemon to transfer...
+[14:17:05] (TRANSFER) Pidgey 146 V |  343 Cp | 56.62% | Lvl 20 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1286
+[14:17:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[14:17:09] (POKESTOP) West Coast Park Connector in 90.95 m distance
+[14:17:09] (NAVIGATION) Distance to target location: 90.95 meters. Will take 10.23 seconds driving at 32kmh
+[14:17:18] (POKESTOP) 4 Mega Zip Lines in 164.65 m distance
+[14:17:18] (NAVIGATION) Distance to target location: 164.65 meters. Will take 19.76 seconds driving at 30kmh
+[14:17:37] (ATTENTION) No locations in your area...
+[14:17:43] (INFO) Found 18 Pokestops
+[14:17:43] (POKESTOP) 4 Mega Zip Lines in 21.8 m distance
+[14:17:43] (NAVIGATION) Distance to target location: 21.8 meters. Will take 2.62 seconds driving at 30kmh
+[14:17:47] (POKESTOP) West Coast Park Connector in 172.22 m distance
+[14:17:47] (NAVIGATION) Distance to target location: 172.22 meters. Will take 19.38 seconds driving at 32kmh
+[14:18:05] (POKESTOP) Focusing Coils in 496.16 m distance
+[14:18:05] (NAVIGATION) Distance to target location: 496.16 meters. Will take 25.52 seconds driving at 70kmh
+[14:18:16] (INFO) Found 3 catchable Pokemon
+[14:18:18] (Wild Success) | Rattata 165 V |  232 Cp | 76.54% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
