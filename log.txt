@@ -41081,3 +41081,11 @@
 [00:55:56] (NAVIGATION) Distance to target location: 79.77 meters. Will take 9.26 seconds driving at 31kmh
 [00:56:04] (INFO) Found 1 catchable Pokemon
 [00:56:05] (Wild Success) | Goldeen 185 V |  458 Cp | 66.72% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[00:56:07] (INFO) Found 1 pokemon to transfer...
+[00:56:09] (TRANSFER) Goldeen 185 V |  458 Cp | 66.72% | Lvl 18 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 217
+[00:56:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:56:11] (POKESTOP) Metal Stix Art in 58.96 m distance
+[00:56:11] (NAVIGATION) Distance to target location: 58.96 meters. Will take 6.85 seconds driving at 31kmh
+[00:56:13] (INFO) Found 1 catchable Pokemon
+[00:56:14] (BERRY) ItemRazzBerry used, remaining: 49
+[00:56:15] (Wild Success) | Voltorb 183 V |  462 Cp | 66.54% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
