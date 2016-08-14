@@ -30189,3 +30189,15 @@
 [13:23:57] (INFO) Found 1 catchable Pokemon
 [13:23:57] (BERRY) ItemRazzBerry used, remaining: 46
 [13:23:59] (Wild Success) | Bellsprout 144 V |  490 Cp | 13.15% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[13:24:00] (INFO) Found 1 pokemon to transfer...
+[13:24:02] (TRANSFER) Bellsprout 144 V |  490 Cp | 13.15% | Lvl 19 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 332
+[13:24:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 3 x ItemPokeBall
+[13:24:05] (INFO) Found 3 Recyclable Items:
+[13:24:06] (RECYCLING) PokeBall x 12
+[13:24:07] (RECYCLING) SuperPotion x 1
+[13:24:08] (RECYCLING) Revive x 1
+[13:24:10] (POKESTOP) Sailing Mural in 270.17 m distance
+[13:24:10] (NAVIGATION) Distance to target location: 270.17 meters. Will take 19.85 seconds driving at 49kmh
+[13:24:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[13:24:31] (INFO) Found 1 catchable Pokemon
+[13:24:33] (Wild Success) | Zubat 109 V |  109 Cp | 53.01% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
