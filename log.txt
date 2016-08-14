@@ -40590,3 +40590,16 @@
 [00:40:36] (TRANSFER) Goldeen 156 V |  550 Cp | 42.10% | Lvl 23 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 213
 [00:40:37] (INFO) Found 1 catchable Pokemon
 [00:40:39] (Wild Success) | Seel 126 V |  245 Cp | 37.45% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:40:41] (INFO) Found 1 pokemon to transfer...
+[00:40:42] (TRANSFER) Seel 126 V |  245 Cp | 37.45% | Lvl 09 | Best: [Seel 151 V |  273 Cp | 83.59% | Lvl 09] | Candy: 30
+[00:40:44] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 4 x ItemPokeBall
+[00:40:45] (POKESTOP) Adventure Cove in 106.97 m distance
+[00:40:45] (NAVIGATION) Distance to target location: 106.97 meters. Will take 12.03 seconds driving at 32kmh
+[00:40:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:40:57] (POKESTOP) Hard Rock Hotel Singapore in 91.99 m distance
+[00:40:57] (NAVIGATION) Distance to target location: 91.99 meters. Will take 11.83 seconds driving at 28kmh
+[00:41:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[00:41:08] (POKESTOP) Happy Doggie Roundabout in 153.56 m distance
+[00:41:08] (NAVIGATION) Distance to target location: 153.56 meters. Will take 18.43 seconds driving at 30kmh
+[00:41:17] (INFO) Found 2 catchable Pokemon
+[00:41:19] (Wild Success) | Magikarp 92 V |   49 Cp | 62.25% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
