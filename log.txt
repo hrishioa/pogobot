@@ -28394,3 +28394,10 @@
 [12:12:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemGreatBall
 [12:12:23] (INFO) Found 1 catchable Pokemon
 [12:12:25] (Wild Success) | Bellsprout 124 V |   71 Cp | 37.38% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[12:12:26] (INFO) Found 1 pokemon to transfer...
+[12:12:28] (TRANSFER) Bellsprout 124 V |   71 Cp | 37.38% | Lvl 03 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 257
+[12:12:28] (POKESTOP) Pyramid Web with Slider in 72.01 m distance
+[12:12:28] (NAVIGATION) Distance to target location: 72.01 meters. Will take 8.1 seconds driving at 32kmh
+[12:12:30] (INFO) Found 1 catchable Pokemon
+[12:12:31] (BERRY) ItemRazzBerry used, remaining: 47
+[12:12:33] (Wild Success) | Bellsprout 154 V |  543 Cp | 32.58% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
