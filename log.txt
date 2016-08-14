@@ -37860,3 +37860,10 @@
 [23:09:25] (INFO) Found 2 catchable Pokemon
 [23:09:27] (Wild Success) | Magikarp 101 V |   10 Cp | 75.24% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [23:09:29] (Wild Success) | Magikarp 99 V |   58 Cp | 68.47% | Lvl 09 | Chance: 0.7 | with a PokeBall and received XP 210
+[23:09:30] (INFO) Found 2 pokemon to transfer...
+[23:09:32] (TRANSFER) Magikarp 101 V |   10 Cp | 75.24% | Lvl 01 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 240
+[23:09:34] (TRANSFER) Magikarp 99 V |   58 Cp | 68.47% | Lvl 09 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 241
+[23:09:35] (POKESTOP) Golden Pineapple in 432 m distance
+[23:09:35] (NAVIGATION) Distance to target location: 432 meters. Will take 22.22 seconds driving at 70kmh
+[23:09:49] (INFO) Found 1 catchable Pokemon
+[23:09:51] (Wild Success) | Poliwag 111 V |  225 Cp | 29.67% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
