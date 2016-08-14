@@ -41380,3 +41380,46 @@
 [01:04:41] (NAVIGATION) Distance to target location: 59.4 meters. Will take 7.64 seconds driving at 28kmh
 [01:04:43] (INFO) Found 1 catchable Pokemon
 [01:04:45] (Wild Success) | Pikachu 87 V |   32 Cp | 23.74% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
+[01:04:47] (INFO) Found 1 pokemon to transfer...
+[01:04:48] (TRANSFER) Pikachu 87 V |   32 Cp | 23.74% | Lvl 02 | Best: [Pikachu 159 V |  385 Cp | 55.84% | Lvl 17] | Candy: 62
+[01:04:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[01:04:53] (POKESTOP) Stone Gargoyle in 45.09 m distance
+[01:04:53] (NAVIGATION) Distance to target location: 45.09 meters. Will take 5.6 seconds driving at 29kmh
+[01:04:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:04:59] (POKESTOP) Mummy Mural in 54.03 m distance
+[01:04:59] (NAVIGATION) Distance to target location: 54.03 meters. Will take 6.95 seconds driving at 28kmh
+[01:05:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:05:05] (INFO) Found 3 Recyclable Items:
+[01:05:06] (RECYCLING) PokeBall x 6
+[01:05:07] (RECYCLING) Potion x 1
+[01:05:08] (RECYCLING) Revive x 2
+[01:05:11] (POKESTOP) Water World in 56.47 m distance
+[01:05:11] (NAVIGATION) Distance to target location: 56.47 meters. Will take 6.56 seconds driving at 31kmh
+[01:05:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 3 x ItemPokeBall
+[01:05:18] (POKESTOP) Royal Fountain in 118.79 m distance
+[01:05:18] (NAVIGATION) Distance to target location: 118.79 meters. Will take 15.27 seconds driving at 28kmh
+[01:05:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:05:33] (POKESTOP) Lord Farquad Coat of Arms in 56.83 m distance
+[01:05:33] (NAVIGATION) Distance to target location: 56.83 meters. Will take 6.82 seconds driving at 30kmh
+[01:05:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[01:05:40] (POKESTOP) Ogre Adventure in 39.83 m distance
+[01:05:40] (NAVIGATION) Distance to target location: 39.83 meters. Will take 4.48 seconds driving at 32kmh
+[01:05:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:05:44] (POKESTOP) Beware! Ogres in 82.3 m distance
+[01:05:44] (NAVIGATION) Distance to target location: 82.3 meters. Will take 9.88 seconds driving at 30kmh
+[01:05:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:05:54] (INFO) Found 1 Recyclable Item:
+[01:05:55] (RECYCLING) PokeBall x 7
+[01:05:57] (POKESTOP) Casa De Wild Food Court in 71.79 m distance
+[01:05:57] (NAVIGATION) Distance to target location: 71.79 meters. Will take 8.08 seconds driving at 32kmh
+[01:06:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall, 1 x ItemPotion
+[01:06:05] (POKESTOP) The Frog Prince in 53.39 m distance
+[01:06:05] (NAVIGATION) Distance to target location: 53.39 meters. Will take 6.86 seconds driving at 28kmh
+[01:06:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemSuperPotion, 1 x ItemPotion
+[01:06:12] (POKESTOP) Obelisk of Ra in 104.34 m distance
+[01:06:12] (NAVIGATION) Distance to target location: 104.34 meters. Will take 11.74 seconds driving at 32kmh
+[01:06:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:06:24] (POKESTOP) Trapped Humanoid in 77.09 m distance
+[01:06:24] (NAVIGATION) Distance to target location: 77.09 meters. Will take 8.67 seconds driving at 32kmh
+[01:06:30] (INFO) Found 1 catchable Pokemon
+[01:06:32] (Wild Success) | Slowpoke 135 V |  373 Cp | 47.98% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
