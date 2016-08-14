@@ -43877,3 +43877,35 @@
 [02:19:45] (INFO) Found 2 catchable Pokemon
 [02:19:47] (Wild Success) | Abra 131 V |  154 Cp | 38.84% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [02:19:48] (Wild Success) | Krabby 165 V |  237 Cp | 81.85% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:19:50] (INFO) Found 2 pokemon to transfer...
+[02:19:51] (TRANSFER) Abra 131 V |  154 Cp | 38.84% | Lvl 11 | Best: [Abra 173 V |  127 Cp | 79.52% | Lvl 08] | Candy: 26
+[02:19:54] (TRANSFER) Krabby 165 V |  237 Cp | 81.85% | Lvl 11 | Best: [Krabby 176 V |  499 Cp | 68.90% | Lvl 24] | Candy: 174
+[02:19:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:19:59] (POKESTOP) island Beside Sentosa in 991.05 m distance
+[02:19:59] (NAVIGATION) Distance to target location: 991.05 meters. Will take 50.97 seconds driving at 70kmh
+[02:20:16] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[02:20:16] (ATTENTION) Restarting the application due to error...
+[02:20:16] (INFO) Logging in via: Google
+[02:20:17] (INFO) Client logged in
+[02:20:17] (INFO) Found 73 Pokestops
+[02:20:18] (POKESTOP) Lady Statue in 33.29 m distance
+[02:20:18] (NAVIGATION) Distance to target location: 33.29 meters. Will take 3.99 seconds driving at 30kmh
+[02:20:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
+[02:20:22] (POKESTOP) Siloso Resort Fountain in 46.16 m distance
+[02:20:22] (NAVIGATION) Distance to target location: 46.16 meters. Will take 5.93 seconds driving at 28kmh
+[02:20:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[02:20:27] (INFO) Found 4 Recyclable Items:
+[02:20:28] (RECYCLING) RazzBerry x 1
+[02:20:29] (RECYCLING) PokeBall x 6
+[02:20:30] (RECYCLING) Potion x 2
+[02:20:31] (RECYCLING) Revive x 2
+[02:20:33] (POKESTOP) Silso Dream Sculpture in 52.25 m distance
+[02:20:33] (NAVIGATION) Distance to target location: 52.25 meters. Will take 6.27 seconds driving at 30kmh
+[02:20:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[02:20:39] (POKESTOP) Pillbox in 58.72 m distance
+[02:20:39] (NAVIGATION) Distance to target location: 58.72 meters. Will take 7.29 seconds driving at 29kmh
+[02:20:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:20:47] (POKESTOP) Wave Check In  in 70.25 m distance
+[02:20:47] (NAVIGATION) Distance to target location: 70.25 meters. Will take 7.9 seconds driving at 32kmh
+[02:20:53] (INFO) Found 1 catchable Pokemon
+[02:20:55] (Wild Success) | Magikarp 129 V |  170 Cp | 86.88% | Lvl 24 | Chance: 0.42 | with a GreatBall and received XP 310
