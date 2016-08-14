@@ -43462,3 +43462,32 @@
 [02:05:07] (NAVIGATION) Distance to target location: 150.02 meters. Will take 18 seconds driving at 30kmh
 [02:05:12] (INFO) Found 1 catchable Pokemon
 [02:05:13] (Wild Success) | Zubat 149 V |  337 Cp | 54.93% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[02:05:16] (INFO) Found 1 pokemon to transfer...
+[02:05:17] (TRANSFER) Zubat 149 V |  337 Cp | 54.93% | Lvl 21 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 708
+[02:05:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[02:05:25] (POKESTOP) Rainbow Tentacle in 69.87 m distance
+[02:05:25] (NAVIGATION) Distance to target location: 69.87 meters. Will take 8.67 seconds driving at 29kmh
+[02:05:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[02:05:34] (INFO) Found 1 catchable Pokemon
+[02:05:35] (Wild Escape) | Kakuna 52 V |   68 Cp | 12.77% | Lvl 07 | Chance: 0.28 | with a GreatBall 
+[02:05:36] (Wild Success Attempt #2) | Kakuna 52 V |   68 Cp | 12.77% | Lvl 07 | Chance: 0.28 | with a GreatBall 
+[02:05:38] (POKESTOP) Sand Bar in 62.45 m distance
+[02:05:38] (NAVIGATION) Distance to target location: 62.45 meters. Will take 8.03 seconds driving at 28kmh
+[02:05:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[02:05:46] (POKESTOP) Skyline Luge Sentosa in 46.31 m distance
+[02:05:46] (NAVIGATION) Distance to target location: 46.31 meters. Will take 5.21 seconds driving at 32kmh
+[02:05:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[02:05:51] (POKESTOP) Oscar and Co in 49.79 m distance
+[02:05:51] (NAVIGATION) Distance to target location: 49.79 meters. Will take 6.18 seconds driving at 29kmh
+[02:05:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall, 1 x ItemPotion
+[02:05:57] (INFO) Found 5 Recyclable Items:
+[02:05:57] (RECYCLING) PokeBall x 9
+[02:05:59] (RECYCLING) Potion x 4
+[02:05:59] (RECYCLING) SuperPotion x 1
+[02:06:00] (RECYCLING) HyperPotion x 1
+[02:06:02] (RECYCLING) Revive x 1
+[02:06:04] (POKESTOP) Beacon of Enlightenment  in 81.65 m distance
+[02:06:04] (NAVIGATION) Distance to target location: 81.65 meters. Will take 9.19 seconds driving at 32kmh
+[02:06:10] (INFO) Found 3 catchable Pokemon
+[02:06:11] (BERRY) ItemRazzBerry used, remaining: 48
+[02:06:12] (Wild Success) | Growlithe 156 V |  412 Cp | 49.56% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 210
