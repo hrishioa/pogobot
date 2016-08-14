@@ -33810,3 +33810,4 @@
 [20:50:09] (INFO) Found 2 catchable Pokemon
 [20:50:10] (BERRY) ItemRazzBerry used, remaining: 39
 [20:50:11] (Wild Success) | Raticate 183 V |  601 Cp | 53.12% | Lvl 16 | Chance: 0.14 | with a GreatBall and received XP 420
+[20:50:13] (Wild Success) | Rattata 127 V |  195 Cp | 45.36% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 420
