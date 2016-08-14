@@ -31958,3 +31958,9 @@
 [14:27:49] (TRANSFER) Rattata 119 V |  215 Cp | 35.01% | Lvl 16 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 757
 [14:27:50] (INFO) Found 1 catchable Pokemon
 [14:27:52] (Wild Success) | NidoranMale 121 V |  212 Cp | 51.16% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[14:27:53] (INFO) Found 1 pokemon to transfer...
+[14:27:55] (TRANSFER) NidoranMale 121 V |  212 Cp | 51.16% | Lvl 10 | Best: [NidoranMale 175 V |  499 Cp | 76.41% | Lvl 22] | Candy: 24
+[14:27:58] (POKESTOP) Cempaka 2004 in 189.7 m distance
+[14:27:58] (NAVIGATION) Distance to target location: 189.7 meters. Will take 19.51 seconds driving at 35kmh
+[14:28:05] (INFO) Found 1 catchable Pokemon
+[14:28:06] (Wild Success) | Caterpie 103 V |  166 Cp | 30.95% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
