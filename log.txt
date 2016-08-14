@@ -41351,3 +41351,13 @@
 [01:03:05] (NAVIGATION) Distance to target location: 133.24 meters. Will take 15.99 seconds driving at 30kmh
 [01:03:09] (INFO) Found 1 catchable Pokemon
 [01:03:11] (Wild Success) | Shellder 126 V |  100 Cp | 64.01% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[01:03:12] (INFO) Found 1 pokemon to transfer...
+[01:03:14] (TRANSFER) Shellder 126 V |  100 Cp | 64.01% | Lvl 05 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 54
+[01:03:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 3 x ItemPokeBall
+[01:03:21] (POKESTOP) Resident Wildfire Area in 234.5 m distance
+[01:03:21] (NAVIGATION) Distance to target location: 234.5 meters. Will take 19.63 seconds driving at 43kmh
+[01:03:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[01:03:41] (POKESTOP) Dinosaur in 561.4 m distance
+[01:03:41] (NAVIGATION) Distance to target location: 561.4 meters. Will take 28.87 seconds driving at 70kmh
+[01:03:43] (INFO) Found 1 catchable Pokemon
+[01:03:44] (Wild Success) | Voltorb 135 V |  147 Cp | 58.39% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
