@@ -30413,3 +30413,4 @@
 [13:33:52] (TRANSFER) Horsea 139 V |  284 Cp | 58.82% | Lvl 14 | Best: [Horsea 163 V |  473 Cp | 63.63% | Lvl 23] | Candy: 82
 [13:33:54] (INFO) Found 2 catchable Pokemon
 [13:33:55] (Wild Success) | Weedle 80 V |   54 Cp | 19.92% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[13:33:57] (Wild Success) | Pidgey 84 V |   24 Cp | 27.00% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
