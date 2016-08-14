@@ -45733,3 +45733,15 @@
 [03:19:12] (NAVIGATION) Distance to target location: 136.17 meters. Will take 15.81 seconds driving at 31kmh
 [03:19:25] (INFO) Found 1 catchable Pokemon
 [03:19:27] (Wild Success) | Zubat 140 V |  282 Cp | 46.82% | Lvl 18 | Chance: 0.35 | with a PokeBall and received XP 210
+[03:19:29] (INFO) Found 1 pokemon to transfer...
+[03:19:30] (TRANSFER) Zubat 140 V |  282 Cp | 46.82% | Lvl 18 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 768
+[03:19:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[03:19:33] (ATTENTION) No locations in your area...
+[03:19:38] (INFO) Found 66 Pokestops
+[03:19:39] (POKESTOP) Araucaria Excelsa in 132.12 m distance
+[03:19:39] (NAVIGATION) Distance to target location: 132.12 meters. Will take 15.85 seconds driving at 30kmh
+[03:19:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[03:19:54] (POKESTOP) Pavillion of Serenity in 158.11 m distance
+[03:19:54] (NAVIGATION) Distance to target location: 158.11 meters. Will take 19.63 seconds driving at 29kmh
+[03:20:07] (INFO) Found 1 catchable Pokemon
+[03:20:08] (Wild Success) | Poliwag 142 V |  245 Cp | 59.11% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
