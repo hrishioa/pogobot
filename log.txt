@@ -35289,3 +35289,15 @@
 [21:38:37] (TRANSFER) Spearow 125 V |  186 Cp | 49.18% | Lvl 11 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 361
 [21:38:38] (INFO) Found 1 catchable Pokemon
 [21:38:40] (Wild Success) | Weedle 71 V |  154 Cp | 24.18% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
+[21:38:42] (INFO) Found 1 pokemon to transfer...
+[21:38:44] (TRANSFER) Weedle 71 V |  154 Cp | 24.18% | Lvl 16 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 603
+[21:38:47] (POKESTOP) Painted Glass Soccer Pane in 51.26 m distance
+[21:38:47] (NAVIGATION) Distance to target location: 51.26 meters. Will take 6.59 seconds driving at 28kmh
+[21:38:53] (POKESTOP) A Spring Of Gratitude  in 76.28 m distance
+[21:38:53] (NAVIGATION) Distance to target location: 76.28 meters. Will take 9.15 seconds driving at 30kmh
+[21:39:02] (POKESTOP) Catherine's Healing Garden in 53.97 m distance
+[21:39:02] (NAVIGATION) Distance to target location: 53.97 meters. Will take 6.48 seconds driving at 30kmh
+[21:39:08] (POKESTOP) NUS Ridge View Residences Plaque in 75.05 m distance
+[21:39:08] (NAVIGATION) Distance to target location: 75.05 meters. Will take 9.65 seconds driving at 28kmh
+[21:39:14] (INFO) Found 2 catchable Pokemon
+[21:39:15] (Wild Success) | Krabby 128 V |   32 Cp | 67.93% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
