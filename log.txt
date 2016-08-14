@@ -37796,3 +37796,5 @@
 [23:06:42] (Wild Success) | Magikarp 77 V |   10 Cp | 51.47% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [23:06:44] (BERRY) ItemRazzBerry used, remaining: 45
 [23:06:45] (Wild Success) | Magnemite 152 V |  439 Cp | 46.03% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[23:06:46] (BERRY) ItemRazzBerry used, remaining: 44
+[23:06:47] (Wild Success) | Goldeen 187 V |  569 Cp | 73.33% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
