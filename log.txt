@@ -34352,3 +34352,4 @@
 [21:02:34] (Wild Success) | Krabby 120 V |  116 Cp | 57.65% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
 [21:02:36] (BERRY) ItemRazzBerry used, remaining: 49
 [21:02:37] (Wild Success) | Staryu 168 V |  516 Cp | 65.72% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
+[21:02:38] (Wild Success) | Zubat 93 V |   24 Cp | 45.65% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
