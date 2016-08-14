@@ -40469,3 +40469,4 @@
 [00:39:19] (INFO) Found 2 catchable Pokemon
 [00:39:20] (BERRY) ItemRazzBerry used, remaining: 45
 [00:39:21] (Wild Success) | Squirtle 128 V |  404 Cp | 22.69% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
+[00:39:22] (Wild Success) | Goldeen 107 V |   86 Cp | 36.16% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
