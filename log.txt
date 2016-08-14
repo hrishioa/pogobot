@@ -45133,3 +45133,50 @@
 [02:58:03] (NAVIGATION) Distance to target location: 222.34 meters. Will take 19.52 seconds driving at 41kmh
 [02:58:20] (INFO) Found 1 catchable Pokemon
 [02:58:22] (Wild Success) | Zubat 124 V |  112 Cp | 63.20% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[02:58:23] (INFO) Found 1 pokemon to transfer...
+[02:58:24] (TRANSFER) Zubat 124 V |  112 Cp | 63.20% | Lvl 07 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 732
+[02:58:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:58:28] (POKESTOP) Pasir Panjang Tamil Methodist Church in 103.01 m distance
+[02:58:28] (NAVIGATION) Distance to target location: 103.01 meters. Will take 13.24 seconds driving at 28kmh
+[02:58:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[02:58:41] (POKESTOP) Foresta Water Feature  in 64.32 m distance
+[02:58:41] (NAVIGATION) Distance to target location: 64.32 meters. Will take 7.24 seconds driving at 32kmh
+[02:58:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 2 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[02:58:48] (INFO) Found 4 Recyclable Items:
+[02:58:48] (RECYCLING) PokeBall x 3
+[02:58:49] (RECYCLING) Potion x 3
+[02:58:50] (RECYCLING) SuperPotion x 1
+[02:58:50] (RECYCLING) Revive x 3
+[02:58:54] (POKESTOP) Christian Community Chapel in 67.12 m distance
+[02:58:54] (NAVIGATION) Distance to target location: 67.12 meters. Will take 7.79 seconds driving at 31kmh
+[02:59:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[02:59:01] (POKESTOP) Grace Methodist Church in 81.73 m distance
+[02:59:01] (NAVIGATION) Distance to target location: 81.73 meters. Will take 10.15 seconds driving at 29kmh
+[02:59:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[02:59:12] (POKESTOP) Telok Ayer Chinese Methodist Church  in 72.64 m distance
+[02:59:12] (NAVIGATION) Distance to target location: 72.64 meters. Will take 9.02 seconds driving at 29kmh
+[02:59:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[02:59:20] (POKESTOP) Dalmations Mural in 64.76 m distance
+[02:59:20] (NAVIGATION) Distance to target location: 64.76 meters. Will take 7.52 seconds driving at 31kmh
+[02:59:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:59:27] (POKESTOP) Reflections Fountain in 152.29 m distance
+[02:59:27] (NAVIGATION) Distance to target location: 152.29 meters. Will take 17.13 seconds driving at 32kmh
+[02:59:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:59:43] (INFO) Found 4 Recyclable Items:
+[02:59:45] (RECYCLING) PokeBall x 4
+[02:59:45] (RECYCLING) Potion x 3
+[02:59:46] (RECYCLING) SuperPotion x 1
+[02:59:47] (RECYCLING) Revive x 1
+[02:59:50] (POKESTOP) Chermin Village in 247.87 m distance
+[02:59:50] (NAVIGATION) Distance to target location: 247.87 meters. Will take 19.83 seconds driving at 45kmh
+[03:00:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:00:11] (POKESTOP) PSA Club in 82.23 m distance
+[03:00:11] (NAVIGATION) Distance to target location: 82.23 meters. Will take 9.87 seconds driving at 30kmh
+[03:00:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:00:20] (POKESTOP) Epic Golden House in 245.05 m distance
+[03:00:20] (NAVIGATION) Distance to target location: 245.05 meters. Will take 19.6 seconds driving at 45kmh
+[03:00:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[03:00:41] (POKESTOP) Labrador Coastal Walk Signboard in 327 m distance
+[03:00:41] (NAVIGATION) Distance to target location: 327 meters. Will take 19.95 seconds driving at 59kmh
+[03:00:42] (INFO) Found 1 catchable Pokemon
+[03:00:44] (Wild Success) | Magikarp 79 V |  108 Cp | 43.04% | Lvl 19 | Chance: 0.48 | with a GreatBall and received XP 210
