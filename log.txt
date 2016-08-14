@@ -38434,3 +38434,7 @@
 [23:31:42] (Wild Success) | Golduck 139 V |  295 Cp | 43.75% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 710
 [23:31:46] (INFO) Found 1 catchable Pokemon
 [23:31:48] (Wild Success) | Meowth 106 V |   10 Cp | 43.35% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:31:50] (INFO) Found 1 pokemon to transfer...
+[23:31:51] (TRANSFER) Meowth 106 V |   10 Cp | 43.35% | Lvl 01 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 37
+[23:31:52] (INFO) Found 1 catchable Pokemon
+[23:31:54] (Wild Success) | Voltorb 129 V |  100 Cp | 53.62% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
