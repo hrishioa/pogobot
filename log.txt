@@ -33201,3 +33201,11 @@
 [20:28:56] (NAVIGATION) Distance to target location: 108.11 meters. Will take 13.42 seconds driving at 29kmh
 [20:29:06] (INFO) Found 1 catchable Pokemon
 [20:29:07] (Wild Success) | Spearow 133 V |  329 Cp | 39.97% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
+[20:29:09] (INFO) Found 1 pokemon to transfer...
+[20:29:10] (TRANSFER) Spearow 133 V |  329 Cp | 39.97% | Lvl 20 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 199
+[20:29:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:29:14] (POKESTOP) Medical Abstracts in 113.38 m distance
+[20:29:14] (NAVIGATION) Distance to target location: 113.38 meters. Will take 14.08 seconds driving at 29kmh
+[20:29:26] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:29:27] (INFO) Found 3 catchable Pokemon
+[20:29:29] (Wild Success) | Pidgey 93 V |  171 Cp | 25.55% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
