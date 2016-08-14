@@ -34769,3 +34769,14 @@
 [21:18:15] (NAVIGATION) Distance to target location: 88.42 meters. Will take 10.27 seconds driving at 31kmh
 [21:18:19] (INFO) Found 1 catchable Pokemon
 [21:18:20] (Wild Success) | Weedle 118 V |  227 Cp | 40.17% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
+[21:18:22] (INFO) Found 1 pokemon to transfer...
+[21:18:24] (TRANSFER) Weedle 118 V |  227 Cp | 40.17% | Lvl 22 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 579
+[21:18:27] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[21:18:28] (POKESTOP) Kent Ridge Hall in 208.39 m distance
+[21:18:28] (NAVIGATION) Distance to target location: 208.39 meters. Will take 19.74 seconds driving at 38kmh
+[21:18:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:18:49] (POKESTOP) Institute of Systems Science in 215.38 m distance
+[21:18:49] (NAVIGATION) Distance to target location: 215.38 meters. Will take 19.88 seconds driving at 39kmh
+[21:18:59] (INFO) Found 1 catchable Pokemon
+[21:19:00] (BERRY) ItemRazzBerry used, remaining: 47
+[21:19:01] (Wild Success) | Paras 171 V |  446 Cp | 56.49% | Lvl 19 | Chance: 0.27 | with a UltraBall and received XP 420
