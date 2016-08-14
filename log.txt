@@ -28780,3 +28780,16 @@
 [12:26:00] (NAVIGATION) Distance to target location: 109.98 meters. Will take 12.37 seconds driving at 32kmh
 [12:26:11] (INFO) Found 1 catchable Pokemon
 [12:26:12] (Wild Success) | Scyther 145 V |   86 Cp | 60.74% | Lvl 02 | Chance: 0.72 | with a PokeBall and received XP 710
+[12:26:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[12:26:15] (INFO) Found 4 Recyclable Items:
+[12:26:16] (RECYCLING) PokeBall x 7
+[12:26:17] (RECYCLING) Potion x 1
+[12:26:18] (RECYCLING) SuperPotion x 3
+[12:26:19] (RECYCLING) Revive x 1
+[12:26:22] (POKESTOP) West Coast Park in 69.7 m distance
+[12:26:22] (NAVIGATION) Distance to target location: 69.7 meters. Will take 8.65 seconds driving at 29kmh
+[12:26:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[12:26:30] (POKESTOP) Pavilion In the Park in 210.68 m distance
+[12:26:30] (NAVIGATION) Distance to target location: 210.68 meters. Will take 19.96 seconds driving at 38kmh
+[12:26:34] (INFO) Found 1 catchable Pokemon
+[12:26:35] (Wild Success) | Pidgey 86 V |  106 Cp | 25.33% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
