@@ -45105,3 +45105,11 @@
 [02:57:11] (TRANSFER) Weedle 77 V |   27 Cp | 41.87% | Lvl 03 | Best: [Weedle 166 V |  245 Cp | 86.87% | Lvl 20] | Candy: 319
 [02:57:13] (INFO) Found 1 catchable Pokemon
 [02:57:15] (Wild Success) | Spearow 101 V |   26 Cp | 48.36% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[02:57:16] (INFO) Found 1 pokemon to transfer...
+[02:57:18] (TRANSFER) Spearow 101 V |   26 Cp | 48.36% | Lvl 02 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 251
+[02:57:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[02:57:21] (POKESTOP) Blangah Court Sign in 160.14 m distance
+[02:57:21] (NAVIGATION) Distance to target location: 160.14 meters. Will take 19.88 seconds driving at 29kmh
+[02:57:33] (INFO) Found 4 catchable Pokemon
+[02:57:34] (BERRY) ItemRazzBerry used, remaining: 45
+[02:57:35] (Wild Success) | Paras 161 V |  425 Cp | 58.67% | Lvl 18 | Chance: 0.28 | with a GreatBall and received XP 210
