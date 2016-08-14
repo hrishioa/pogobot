@@ -37872,3 +37872,10 @@
 [23:09:56] (INFO) Found 1 catchable Pokemon
 [23:09:57] (BERRY) ItemRazzBerry used, remaining: 45
 [23:09:58] (Wild Success) | Voltorb 192 V |  452 Cp | 76.97% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[23:09:59] (INFO) Found 1 pokemon to transfer...
+[23:10:02] (TRANSFER) Voltorb 177 V |  492 Cp | 56.14% | Lvl 23 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 36
+[23:10:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[23:10:05] (POKESTOP) Tabebuia Argentea in 248.7 m distance
+[23:10:05] (NAVIGATION) Distance to target location: 248.7 meters. Will take 19.9 seconds driving at 45kmh
+[23:10:16] (INFO) Found 1 catchable Pokemon
+[23:10:18] (Wild Success) | Rattata 84 V |   19 Cp | 16.67% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
