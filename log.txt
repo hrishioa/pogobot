@@ -31871,3 +31871,13 @@
 [14:24:17] (NAVIGATION) Distance to target location: 98.37 meters. Will take 11.8 seconds driving at 30kmh
 [14:24:23] (INFO) Found 1 catchable Pokemon
 [14:24:25] (Wild Success) | Rattata 140 V |  160 Cp | 57.32% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[14:24:27] (INFO) Found 1 pokemon to transfer...
+[14:24:29] (TRANSFER) Rattata 140 V |  160 Cp | 57.32% | Lvl 11 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 737
+[14:24:32] (POKESTOP) Happy Sunshine Mural in 63.85 m distance
+[14:24:32] (NAVIGATION) Distance to target location: 63.85 meters. Will take 7.18 seconds driving at 32kmh
+[14:24:39] (POKESTOP) Tower Playground in 108.47 m distance
+[14:24:39] (NAVIGATION) Distance to target location: 108.47 meters. Will take 12.2 seconds driving at 32kmh
+[14:24:50] (POKESTOP) Butterfly Mural in 84.48 m distance
+[14:24:50] (NAVIGATION) Distance to target location: 84.48 meters. Will take 9.81 seconds driving at 31kmh
+[14:24:52] (INFO) Found 2 catchable Pokemon
+[14:24:54] (Wild Success) | Spearow 81 V |   23 Cp | 18.71% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
