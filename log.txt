@@ -28649,3 +28649,42 @@
 [12:20:21] (NAVIGATION) Distance to target location: 75.34 meters. Will take 9.04 seconds driving at 30kmh
 [12:20:27] (INFO) Found 1 catchable Pokemon
 [12:20:29] (Wild Success) | Paras 132 V |  136 Cp | 57.58% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
+[12:20:30] (INFO) Found 1 pokemon to transfer...
+[12:20:32] (TRANSFER) Paras 132 V |  136 Cp | 57.58% | Lvl 06 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 118
+[12:20:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:20:34] (INFO) Found 2 Recyclable Items:
+[12:20:35] (RECYCLING) PokeBall x 8
+[12:20:36] (RECYCLING) Potion x 2
+[12:20:39] (POKESTOP) Blueprints Embedded On Stone in 70.15 m distance
+[12:20:39] (NAVIGATION) Distance to target location: 70.15 meters. Will take 7.89 seconds driving at 32kmh
+[12:20:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[12:20:46] (POKESTOP) Tree of Benevolence in 98.56 m distance
+[12:20:46] (NAVIGATION) Distance to target location: 98.56 meters. Will take 11.45 seconds driving at 31kmh
+[12:20:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[12:20:56] (POKESTOP) NUS Historial Plaques in 63.09 m distance
+[12:20:56] (NAVIGATION) Distance to target location: 63.09 meters. Will take 7.1 seconds driving at 32kmh
+[12:21:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[12:21:02] (POKESTOP) Integration in 47.55 m distance
+[12:21:02] (NAVIGATION) Distance to target location: 47.55 meters. Will take 6.11 seconds driving at 28kmh
+[12:21:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:21:08] (POKESTOP) The Baroque Scroll in 55.65 m distance
+[12:21:08] (NAVIGATION) Distance to target location: 55.65 meters. Will take 6.46 seconds driving at 31kmh
+[12:21:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:21:14] (INFO) Found 3 Recyclable Items:
+[12:21:15] (RECYCLING) PokeBall x 6
+[12:21:16] (RECYCLING) Potion x 1
+[12:21:16] (RECYCLING) Revive x 1
+[12:21:19] (POKESTOP) Synergy in Motion in 55.33 m distance
+[12:21:19] (NAVIGATION) Distance to target location: 55.33 meters. Will take 7.11 seconds driving at 28kmh
+[12:21:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[12:21:26] (POKESTOP) Sage In Shaw in 44.56 m distance
+[12:21:26] (NAVIGATION) Distance to target location: 44.56 meters. Will take 5.17 seconds driving at 31kmh
+[12:21:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[12:21:32] (POKESTOP) Biological Atom in 54.87 m distance
+[12:21:32] (NAVIGATION) Distance to target location: 54.87 meters. Will take 6.58 seconds driving at 30kmh
+[12:21:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 5 x ItemPokeBall
+[12:21:39] (POKESTOP) NUS Business School in 111.81 m distance
+[12:21:39] (NAVIGATION) Distance to target location: 111.81 meters. Will take 12.98 seconds driving at 31kmh
+[12:21:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:21:51] (INFO) Found 1 catchable Pokemon
+[12:21:53] (Wild Success) | Rattata 139 V |  347 Cp | 44.07% | Lvl 25 | Chance: 0.29 | with a UltraBall and received XP 210
