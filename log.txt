@@ -34033,3 +34033,25 @@
 [20:56:46] (NAVIGATION) Distance to target location: 126.23 meters. Will take 14.66 seconds driving at 31kmh
 [20:56:49] (INFO) Found 1 catchable Pokemon
 [20:56:51] (Wild Success) | Paras 128 V |   62 Cp | 62.21% | Lvl 03 | Chance: 0.74 | with a PokeBall and received XP 210
+[20:56:52] (EGG) Hatched egg! Clefairy            205 True Value |  657 Cp | 79.46% Perfect | Lvl 20 | ZenHeadbutt/DisarmingVoice
+[20:56:53] (EGG) Added 2km egg to incubator
+[20:56:54] (INFO) Found 2 pokemon to transfer...
+[20:56:55] (TRANSFER) Paras 128 V |   62 Cp | 62.21% | Lvl 03 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 84
+[20:56:58] (TRANSFER) Clefairy 166 V |  600 Cp | 19.05% | Lvl 21 | Best: [Clefairy 205 V |  657 Cp | 79.46% | Lvl 20] | Candy: 69
+[20:57:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[20:57:03] (POKESTOP) Race to the Future Car at FOE in 72.9 m distance
+[20:57:03] (NAVIGATION) Distance to target location: 72.9 meters. Will take 8.47 seconds driving at 31kmh
+[20:57:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:57:12] (POKESTOP) FOE Singapore in 46.5 m distance
+[20:57:12] (NAVIGATION) Distance to target location: 46.5 meters. Will take 5.4 seconds driving at 31kmh
+[20:57:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:57:18] (POKESTOP) Pavilion at Engineering in 71.35 m distance
+[20:57:18] (NAVIGATION) Distance to target location: 71.35 meters. Will take 8.03 seconds driving at 32kmh
+[20:57:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:57:25] (POKESTOP) NUS GREM Display in 64.04 m distance
+[20:57:25] (NAVIGATION) Distance to target location: 64.04 meters. Will take 7.2 seconds driving at 32kmh
+[20:57:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:57:32] (POKESTOP) Masjid Tentera Di Raja in 154.41 m distance
+[20:57:32] (NAVIGATION) Distance to target location: 154.41 meters. Will take 17.37 seconds driving at 32kmh
+[20:57:34] (INFO) Found 2 catchable Pokemon
+[20:57:36] (Wild Success) | Pidgey 85 V |   41 Cp | 30.86% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
