@@ -34726,3 +34726,46 @@
 [21:15:14] (NAVIGATION) Distance to target location: 132.76 meters. Will take 14.94 seconds driving at 32kmh
 [21:15:27] (INFO) Found 1 catchable Pokemon
 [21:15:28] (Wild Success) | Eevee 137 V |   44 Cp | 71.29% | Lvl 02 | Chance: 0.96 | with a PokeBall and received XP 420
+[21:15:30] (INFO) Found 1 pokemon to transfer...
+[21:15:31] (TRANSFER) Eevee 137 V |   44 Cp | 71.29% | Lvl 02 | Best: [Eevee 217 V |  604 Cp | 91.55% | Lvl 20] | Candy: 61
+[21:15:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:15:35] (POKESTOP) Metal Robot Structure in 127.25 m distance
+[21:15:35] (NAVIGATION) Distance to target location: 127.25 meters. Will take 16.36 seconds driving at 28kmh
+[21:15:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:15:51] (POKESTOP) SDE Mural in 112.66 m distance
+[21:15:51] (NAVIGATION) Distance to target location: 112.66 meters. Will take 13.08 seconds driving at 31kmh
+[21:16:03] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:16:04] (POKESTOP) Center for English Language Communication in 101.87 m distance
+[21:16:04] (NAVIGATION) Distance to target location: 101.87 meters. Will take 12.65 seconds driving at 29kmh
+[21:16:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:16:17] (POKESTOP) NUS monolith in 219.75 m distance
+[21:16:17] (NAVIGATION) Distance to target location: 219.75 meters. Will take 19.78 seconds driving at 40kmh
+[21:16:36] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:16:37] (POKESTOP) Ventus in 104.72 m distance
+[21:16:37] (NAVIGATION) Distance to target location: 104.72 meters. Will take 13.46 seconds driving at 28kmh
+[21:16:50] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[21:16:52] (POKESTOP) Heritage Time Arc in 90.59 m distance
+[21:16:52] (NAVIGATION) Distance to target location: 90.59 meters. Will take 10.19 seconds driving at 32kmh
+[21:17:01] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:17:03] (POKESTOP) Footprint Bench in 76.72 m distance
+[21:17:03] (NAVIGATION) Distance to target location: 76.72 meters. Will take 8.91 seconds driving at 31kmh
+[21:17:11] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:17:12] (POKESTOP) Park Gazebos in 151.87 m distance
+[21:17:12] (NAVIGATION) Distance to target location: 151.87 meters. Will take 18.22 seconds driving at 30kmh
+[21:17:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:17:31] (POKESTOP) Fragrant Plant Garden in 45.25 m distance
+[21:17:31] (NAVIGATION) Distance to target location: 45.25 meters. Will take 5.82 seconds driving at 28kmh
+[21:17:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:17:37] (POKESTOP) The Deck at Arts Faculty in 117.93 m distance
+[21:17:37] (NAVIGATION) Distance to target location: 117.93 meters. Will take 14.64 seconds driving at 29kmh
+[21:17:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:17:53] (POKESTOP) NUS Model in 94.11 m distance
+[21:17:53] (NAVIGATION) Distance to target location: 94.11 meters. Will take 10.59 seconds driving at 32kmh
+[21:18:02] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:18:03] (POKESTOP) NUS Graduate Pot in 95.73 m distance
+[21:18:03] (NAVIGATION) Distance to target location: 95.73 meters. Will take 11.12 seconds driving at 31kmh
+[21:18:13] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:18:15] (POKESTOP) Blueprints Embedded On Stone in 88.42 m distance
+[21:18:15] (NAVIGATION) Distance to target location: 88.42 meters. Will take 10.27 seconds driving at 31kmh
+[21:18:19] (INFO) Found 1 catchable Pokemon
+[21:18:20] (Wild Success) | Weedle 118 V |  227 Cp | 40.17% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
