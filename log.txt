@@ -39359,3 +39359,4 @@
 [00:04:30] (INFO) Found 3 catchable Pokemon
 [00:04:30] (BERRY) ItemRazzBerry used, remaining: 49
 [00:04:32] (Wild Success) | Squirtle 142 V |  484 Cp | 48.54% | Lvl 19 | Chance: 0.13 | with a GreatBall and received XP 210
+[00:04:34] (Wild Success) | Rattata 135 V |  242 Cp | 51.23% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
