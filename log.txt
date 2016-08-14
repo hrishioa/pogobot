@@ -30020,3 +30020,24 @@
 [13:19:11] (INFO) Found 2 catchable Pokemon
 [13:19:12] (BERRY) ItemRazzBerry used, remaining: 50
 [13:19:13] (Wild Success) | Bellsprout 156 V |  574 Cp | 17.30% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[13:19:15] (Wild Escape) | Rattata 141 V |  325 Cp | 48.58% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[13:19:16] (Wild Success Attempt #2) | Rattata 141 V |  325 Cp | 48.58% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[13:19:17] (INFO) Found 2 pokemon to transfer...
+[13:19:19] (TRANSFER) Rattata 141 V |  325 Cp | 48.58% | Lvl 23 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 677
+[13:19:21] (TRANSFER) Bellsprout 156 V |  574 Cp | 17.30% | Lvl 22 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 320
+[13:19:24] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemRevive, 2 x ItemPokeBall
+[13:19:25] (INFO) Found 4 Recyclable Items:
+[13:19:26] (RECYCLING) RazzBerry x 1
+[13:19:27] (RECYCLING) PokeBall x 4
+[13:19:28] (RECYCLING) Potion x 6
+[13:19:29] (RECYCLING) Revive x 2
+[13:19:31] (POKESTOP) Chilling Area in 130.35 m distance
+[13:19:31] (NAVIGATION) Distance to target location: 130.35 meters. Will take 15.14 seconds driving at 31kmh
+[13:19:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[13:19:46] (POKESTOP) Marsh Garden in 141.85 m distance
+[13:19:46] (NAVIGATION) Distance to target location: 141.85 meters. Will take 18.24 seconds driving at 28kmh
+[13:20:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:20:04] (POKESTOP) Gantry Entrance in 83.79 m distance
+[13:20:04] (NAVIGATION) Distance to target location: 83.79 meters. Will take 10.4 seconds driving at 29kmh
+[13:20:11] (INFO) Found 1 catchable Pokemon
+[13:20:12] (Wild Success) | Caterpie 96 V |   36 Cp | 36.71% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
