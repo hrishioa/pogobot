@@ -33412,3 +33412,27 @@
 [20:34:50] (INFO) Found 2 catchable Pokemon
 [20:34:52] (Wild Success) | Spearow 120 V |  276 Cp | 55.38% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
 [20:34:53] (Wild Success) | Pidgey 131 V |  348 Cp | 45.82% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
+[20:34:55] (INFO) Found 2 pokemon to transfer...
+[20:34:57] (TRANSFER) Spearow 120 V |  276 Cp | 55.38% | Lvl 16 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 203
+[20:34:59] (TRANSFER) Pidgey 131 V |  348 Cp | 45.82% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 597
+[20:35:00] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:35:01] (POKESTOP) A Spring Of Gratitude  in 64.95 m distance
+[20:35:01] (NAVIGATION) Distance to target location: 64.95 meters. Will take 7.54 seconds driving at 31kmh
+[20:35:07] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:35:09] (POKESTOP) Painted Glass Soccer Pane in 79.63 m distance
+[20:35:09] (NAVIGATION) Distance to target location: 79.63 meters. Will take 9.25 seconds driving at 31kmh
+[20:35:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:35:19] (POKESTOP) Spring of Gratitude in 55.59 m distance
+[20:35:19] (NAVIGATION) Distance to target location: 55.59 meters. Will take 7.15 seconds driving at 28kmh
+[20:35:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:35:26] (POKESTOP) NUS Sports and Recreation Centre in 95.54 m distance
+[20:35:26] (NAVIGATION) Distance to target location: 95.54 meters. Will take 11.86 seconds driving at 29kmh
+[20:35:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:35:37] (POKESTOP) Tree of Light Bulbs in 73.51 m distance
+[20:35:37] (NAVIGATION) Distance to target location: 73.51 meters. Will take 9.12 seconds driving at 29kmh
+[20:35:44] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:35:45] (POKESTOP) Student Service Centre in 73.92 m distance
+[20:35:45] (NAVIGATION) Distance to target location: 73.92 meters. Will take 8.32 seconds driving at 32kmh
+[20:35:48] (INFO) Found 1 catchable Pokemon
+[20:35:49] (BERRY) ItemRazzBerry used, remaining: 44
+[20:35:51] (Wild Success) | Seadra 183 V |  501 Cp | 60.58% | Lvl 11 | Chance: 0.18 | with a UltraBall and received XP 420
