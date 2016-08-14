@@ -33176,3 +33176,11 @@
 [20:28:00] (INFO) Found 2 catchable Pokemon
 [20:28:02] (Wild Success) | Zubat 154 V |  114 Cp | 67.73% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 420
 [20:28:04] (Wild Success) | Spearow 89 V |   95 Cp | 41.82% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
+[20:28:05] (INFO) Found 2 pokemon to transfer...
+[20:28:06] (TRANSFER) Zubat 154 V |  114 Cp | 67.73% | Lvl 07 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 616
+[20:28:09] (TRANSFER) Spearow 89 V |   95 Cp | 41.82% | Lvl 06 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 195
+[20:28:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:28:13] (POKESTOP) I Carry Your Heart in 437.73 m distance
+[20:28:13] (NAVIGATION) Distance to target location: 437.73 meters. Will take 22.51 seconds driving at 70kmh
+[20:28:30] (INFO) Found 5 catchable Pokemon
+[20:28:31] (Wild Success) | Zubat 136 V |  306 Cp | 40.06% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
