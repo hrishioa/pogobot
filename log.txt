@@ -37632,3 +37632,16 @@
 [23:02:13] (INFO) Found 1 catchable Pokemon
 [23:02:14] (BERRY) ItemRazzBerry used, remaining: 45
 [23:02:15] (Wild Success) | Electrode 254 V | 1038 Cp | 77.66% | Lvl 23 | Chance: 0.12 | with a GreatBall and received XP 210
+[23:02:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:02:29] (INFO) Found 3 Recyclable Items:
+[23:02:29] (RECYCLING) PokeBall x 3
+[23:02:30] (RECYCLING) Potion x 1
+[23:02:30] (RECYCLING) Revive x 2
+[23:02:34] (POKESTOP) Animal Statue in 76.6 m distance
+[23:02:34] (NAVIGATION) Distance to target location: 76.6 meters. Will take 8.9 seconds driving at 31kmh
+[23:02:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[23:02:43] (POKESTOP) Children Playground in 173.26 m distance
+[23:02:43] (NAVIGATION) Distance to target location: 173.26 meters. Will take 19.49 seconds driving at 32kmh
+[23:02:53] (INFO) Found 1 catchable Pokemon
+[23:02:56] (BERRY) ItemRazzBerry used, remaining: 45
+[23:02:57] (Wild Success) | Dratini 175 V |  549 Cp | 69.72% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
