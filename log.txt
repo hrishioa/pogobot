@@ -29272,3 +29272,13 @@
 [12:44:20] (NAVIGATION) Distance to target location: 62.4 meters. Will take 8.02 seconds driving at 28kmh
 [12:44:26] (INFO) Found 1 catchable Pokemon
 [12:44:27] (Wild Success) | Psyduck 127 V |   14 Cp | 55.91% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[12:44:29] (INFO) Found 1 pokemon to transfer...
+[12:44:30] (TRANSFER) Psyduck 127 V |   14 Cp | 55.91% | Lvl 01 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 82
+[12:44:32] (POKESTOP) Pasir Panjang Christ Church in 197.51 m distance
+[12:44:32] (NAVIGATION) Distance to target location: 197.51 meters. Will take 19.75 seconds driving at 36kmh
+[12:44:52] (POKESTOP) Emmanuel Evangelical Free Church  in 71.77 m distance
+[12:44:52] (NAVIGATION) Distance to target location: 71.77 meters. Will take 8.61 seconds driving at 30kmh
+[12:45:00] (POKESTOP) Singapore Science Park II in 140.63 m distance
+[12:45:00] (NAVIGATION) Distance to target location: 140.63 meters. Will take 16.88 seconds driving at 30kmh
+[12:45:15] (INFO) Found 2 catchable Pokemon
+[12:45:17] (Wild Success) | Magikarp 87 V |   35 Cp | 58.03% | Lvl 06 | Chance: 0.87 | with a PokeBall and received XP 210
