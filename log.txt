@@ -41108,3 +41108,4 @@
 [00:56:52] (INFO) Found 2 catchable Pokemon
 [00:56:53] (BERRY) ItemRazzBerry used, remaining: 48
 [00:56:54] (Wild Success) | Abra 171 V |  360 Cp | 57.73% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[00:56:56] (Wild Success) | Voltorb 142 V |  211 Cp | 51.21% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
