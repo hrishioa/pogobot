@@ -29724,3 +29724,27 @@
 [13:05:19] (NAVIGATION) Distance to target location: 182.54 meters. Will take 19.91 seconds driving at 33kmh
 [13:05:22] (INFO) Found 1 catchable Pokemon
 [13:05:24] (Wild Success) | Zubat 130 V |  271 Cp | 53.01% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[13:05:25] (INFO) Found 1 pokemon to transfer...
+[13:05:27] (TRANSFER) Zubat 130 V |  271 Cp | 53.01% | Lvl 17 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 878
+[13:05:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[13:05:39] (INFO) Found 3 Recyclable Items:
+[13:05:39] (RECYCLING) PokeBall x 1
+[13:05:41] (RECYCLING) Potion x 2
+[13:05:41] (RECYCLING) SuperPotion x 1
+[13:05:44] (POKESTOP) Masjid Hussain Sulaiman in 98.05 m distance
+[13:05:44] (NAVIGATION) Distance to target location: 98.05 meters. Will take 12.61 seconds driving at 28kmh
+[13:05:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[13:05:55] (POKESTOP) West Coast Park in 236.08 m distance
+[13:05:55] (NAVIGATION) Distance to target location: 236.08 meters. Will take 19.77 seconds driving at 43kmh
+[13:06:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 5 x ItemPokeBall
+[13:06:16] (POKESTOP) Pavillion Fountain in 87.9 m distance
+[13:06:16] (NAVIGATION) Distance to target location: 87.9 meters. Will take 10.55 seconds driving at 30kmh
+[13:06:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:06:27] (POKESTOP) Pavillion Area 1  in 93.42 m distance
+[13:06:27] (NAVIGATION) Distance to target location: 93.42 meters. Will take 10.85 seconds driving at 31kmh
+[13:06:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:06:38] (POKESTOP) West Coast Park Dog Run  in 304.84 m distance
+[13:06:38] (NAVIGATION) Distance to target location: 304.84 meters. Will take 19.95 seconds driving at 55kmh
+[13:06:44] (INFO) Found 2 catchable Pokemon
+[13:06:45] (BERRY) ItemRazzBerry used, remaining: 49
+[13:06:46] (Wild Success) | Eevee 192 V |  678 Cp | 62.40% | Lvl 24 | Chance: 0.24 | with a GreatBall and received XP 210
