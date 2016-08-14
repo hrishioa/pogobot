@@ -29006,3 +29006,11 @@
 [12:33:37] (NAVIGATION) Distance to target location: 109.98 meters. Will take 13.2 seconds driving at 30kmh
 [12:33:38] (INFO) Found 1 catchable Pokemon
 [12:33:40] (Wild Success) | Pidgey 95 V |   78 Cp | 46.52% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[12:33:41] (INFO) Found 1 pokemon to transfer...
+[12:33:43] (TRANSFER) Pidgey 95 V |   78 Cp | 46.52% | Lvl 05 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1166
+[12:33:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[12:33:51] (POKESTOP) Student Service Centre in 125.69 m distance
+[12:33:51] (NAVIGATION) Distance to target location: 125.69 meters. Will take 15.08 seconds driving at 30kmh
+[12:34:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[12:34:04] (INFO) Found 1 catchable Pokemon
+[12:34:06] (Wild Success) | Krabby 156 V |  147 Cp | 82.44% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
