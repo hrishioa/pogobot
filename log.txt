@@ -30971,3 +30971,5 @@
 [13:52:45] (INFO) Found 3 catchable Pokemon
 [13:52:47] (Wild Success) | Pidgey 164 V |  376 Cp | 70.91% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
 [13:52:48] (Wild Success) | Rattata 127 V |  196 Cp | 46.89% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[13:52:50] (BERRY) ItemRazzBerry used, remaining: 48
+[13:52:51] (Wild Success) | Bellsprout 185 V |  683 Cp | 34.90% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
