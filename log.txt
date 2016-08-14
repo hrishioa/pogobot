@@ -42470,3 +42470,14 @@
 [01:36:25] (TRANSFER) Magikarp 71 V |   10 Cp | 45.38% | Lvl 01 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 373
 [01:36:26] (INFO) Found 1 catchable Pokemon
 [01:36:28] (Wild Success) | Magikarp 125 V |   34 Cp | 96.64% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
+[01:36:30] (INFO) Found 2 pokemon to transfer...
+[01:36:31] (TRANSFER) Magikarp 121 V |  138 Cp | 82.05% | Lvl 20 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 377
+[01:36:34] (TRANSFER) Magikarp 125 V |   34 Cp | 96.64% | Lvl 05 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 378
+[01:36:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[01:36:37] (POKESTOP) Operation Jaywick Commemorative Plaque in 25.84 m distance
+[01:36:37] (NAVIGATION) Distance to target location: 25.84 meters. Will take 3.1 seconds driving at 30kmh
+[01:36:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[01:36:41] (POKESTOP) Treasures from the Sea Sculpture in 114.26 m distance
+[01:36:41] (NAVIGATION) Distance to target location: 114.26 meters. Will take 12.85 seconds driving at 32kmh
+[01:36:43] (INFO) Found 1 catchable Pokemon
+[01:36:44] (Wild Success) | Kakuna 99 V |   17 Cp | 42.06% | Lvl 02 | Chance: 0.6 | with a PokeBall and received XP 210
