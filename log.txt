@@ -39561,3 +39561,23 @@
 [00:09:56] (TRANSFER) Weedle 59 V |   84 Cp | 19.34% | Lvl 09 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 244
 [00:09:58] (INFO) Found 1 catchable Pokemon
 [00:09:59] (Wild Success) | Weedle 84 V |  104 Cp | 19.45% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[00:10:01] (INFO) Found 1 pokemon to transfer...
+[00:10:03] (TRANSFER) Weedle 84 V |  104 Cp | 19.45% | Lvl 11 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 248
+[00:10:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemPotion
+[00:10:07] (POKESTOP) Castle and the Knight in 67.58 m distance
+[00:10:07] (NAVIGATION) Distance to target location: 67.58 meters. Will take 8.39 seconds driving at 29kmh
+[00:10:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:10:15] (INFO) Found 6 Recyclable Items:
+[00:10:16] (RECYCLING) RazzBerry x 2
+[00:10:17] (RECYCLING) PokeBall x 8
+[00:10:18] (RECYCLING) Potion x 1
+[00:10:19] (RECYCLING) SuperPotion x 1
+[00:10:20] (RECYCLING) HyperPotion x 2
+[00:10:21] (RECYCLING) Revive x 1
+[00:10:24] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 42.59 m distance
+[00:10:24] (NAVIGATION) Distance to target location: 42.59 meters. Will take 4.79 seconds driving at 32kmh
+[00:10:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemPokeBall
+[00:10:29] (POKESTOP) Bumblebee Art in 242.7 m distance
+[00:10:29] (NAVIGATION) Distance to target location: 242.7 meters. Will take 19.86 seconds driving at 44kmh
+[00:10:30] (INFO) Found 1 catchable Pokemon
+[00:10:33] (Wild Success) | Voltorb 135 V |  249 Cp | 45.29% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
