@@ -29764,3 +29764,11 @@
 [13:07:07] (NAVIGATION) Distance to target location: 587.64 meters. Will take 30.22 seconds driving at 70kmh
 [13:07:15] (INFO) Found 1 catchable Pokemon
 [13:07:17] (Wild Success) | Goldeen 150 V |  261 Cp | 77.25% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[13:07:19] (INFO) Found 1 pokemon to transfer...
+[13:07:20] (TRANSFER) Goldeen 150 V |  261 Cp | 77.25% | Lvl 10 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 194
+[13:07:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemMaxPotion, 2 x ItemPokeBall
+[13:07:40] (POKESTOP) Sailing Mural in 361.09 m distance
+[13:07:40] (NAVIGATION) Distance to target location: 361.09 meters. Will take 20 seconds driving at 65kmh
+[13:07:43] (INFO) Found 1 catchable Pokemon
+[13:07:43] (BERRY) ItemRazzBerry used, remaining: 49
+[13:07:44] (Wild Success) | Bellsprout 139 V |  625 Cp | 49.99% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
