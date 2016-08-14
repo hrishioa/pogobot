@@ -42675,3 +42675,26 @@
 [01:41:43] (TRANSFER) Paras 147 V |  451 Cp | 42.16% | Lvl 20 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 128
 [01:41:44] (INFO) Found 1 catchable Pokemon
 [01:41:46] (Wild Success) | Tentacool 120 V |  359 Cp | 44.73% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[01:41:47] (INFO) Found 1 pokemon to transfer...
+[01:41:49] (TRANSFER) Tentacool 120 V |  359 Cp | 44.73% | Lvl 16 | Best: [Tentacool 168 V |  561 Cp | 59.98% | Lvl 24] | Candy: 84
+[01:41:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:41:52] (INFO) Found 2 Recyclable Items:
+[01:41:53] (RECYCLING) PokeBall x 9
+[01:41:53] (RECYCLING) Potion x 2
+[01:41:56] (POKESTOP) Dinosaur in 66.12 m distance
+[01:41:56] (NAVIGATION) Distance to target location: 66.12 meters. Will take 7.68 seconds driving at 31kmh
+[01:42:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[01:42:03] (POKESTOP) Egyptian Slaves in 48.89 m distance
+[01:42:03] (NAVIGATION) Distance to target location: 48.89 meters. Will take 6.07 seconds driving at 29kmh
+[01:42:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[01:42:09] (POKESTOP) Water World in 91.74 m distance
+[01:42:09] (NAVIGATION) Distance to target location: 91.74 meters. Will take 11.01 seconds driving at 30kmh
+[01:42:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:42:20] (POKESTOP) Mummy Mural in 66.06 m distance
+[01:42:20] (NAVIGATION) Distance to target location: 66.06 meters. Will take 7.93 seconds driving at 30kmh
+[01:42:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[01:42:28] (POKESTOP) Triple Flying Dino in 52.97 m distance
+[01:42:28] (NAVIGATION) Distance to target location: 52.97 meters. Will take 6.36 seconds driving at 30kmh
+[01:42:31] (INFO) Found 1 catchable Pokemon
+[01:42:32] (BERRY) ItemRazzBerry used, remaining: 50
+[01:42:33] (Wild Success) | Pikachu 163 V |  515 Cp | 36.29% | Lvl 24 | Chance: 0.12 | with a GreatBall and received XP 210
