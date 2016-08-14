@@ -31556,3 +31556,10 @@
 [14:12:14] (RECYCLING) Revive x 1
 [14:12:16] (INFO) Found 1 catchable Pokemon
 [14:12:18] (Wild Success) | Pidgey 116 V |  249 Cp | 45.75% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[14:12:20] (INFO) Found 1 pokemon to transfer...
+[14:12:21] (TRANSFER) Pidgey 116 V |  249 Cp | 45.75% | Lvl 15 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1270
+[14:12:22] (POKESTOP) Veranda Sculpture in 280.33 m distance
+[14:12:22] (NAVIGATION) Distance to target location: 280.33 meters. Will take 19.79 seconds driving at 51kmh
+[14:12:30] (INFO) Found 1 catchable Pokemon
+[14:12:30] (BERRY) ItemRazzBerry used, remaining: 49
+[14:12:32] (Wild Success) | Dratini 167 V |  399 Cp | 77.33% | Lvl 15 | Chance: 0.3 | with a GreatBall and received XP 210
