@@ -31899,3 +31899,11 @@
 [14:25:30] (NAVIGATION) Distance to target location: 58.22 meters. Will take 6.55 seconds driving at 32kmh
 [14:25:35] (INFO) Found 1 catchable Pokemon
 [14:25:37] (Wild Success) | Rattata 131 V |   39 Cp | 66.66% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[14:25:39] (INFO) Found 1 pokemon to transfer...
+[14:25:41] (TRANSFER) Rattata 131 V |   39 Cp | 66.66% | Lvl 03 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 745
+[14:25:41] (POKESTOP) The Mermaid Mural in 31.17 m distance
+[14:25:41] (NAVIGATION) Distance to target location: 31.17 meters. Will take 4.01 seconds driving at 28kmh
+[14:25:44] (POKESTOP) Three Portals Make A Field in 169.42 m distance
+[14:25:44] (NAVIGATION) Distance to target location: 169.42 meters. Will take 19.67 seconds driving at 31kmh
+[14:25:49] (INFO) Found 1 catchable Pokemon
+[14:25:51] (Wild Success) | Pidgey 100 V |  262 Cp | 23.69% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
