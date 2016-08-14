@@ -30909,3 +30909,11 @@
 [13:49:21] (NAVIGATION) Distance to target location: 534.55 meters. Will take 27.49 seconds driving at 70kmh
 [13:49:36] (INFO) Found 1 catchable Pokemon
 [13:49:38] (Wild Success) | Eevee 159 V |  169 Cp | 77.18% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
+[13:49:40] (INFO) Found 1 pokemon to transfer...
+[13:49:41] (TRANSFER) Eevee 159 V |  169 Cp | 77.18% | Lvl 06 | Best: [Eevee 217 V |  604 Cp | 91.55% | Lvl 20] | Candy: 108
+[13:49:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[13:49:50] (POKESTOP) The Kingdom City's Gate in 491.28 m distance
+[13:49:50] (NAVIGATION) Distance to target location: 491.28 meters. Will take 25.27 seconds driving at 70kmh
+[13:50:09] (INFO) Found 1 catchable Pokemon
+[13:50:10] (BERRY) ItemRazzBerry used, remaining: 47
+[13:50:12] (Wild Success) | Pinsir 217 V |  764 Cp | 80.80% | Lvl 13 | Chance: 0.24 | with a GreatBall and received XP 210
