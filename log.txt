@@ -32223,3 +32223,9 @@
 [14:40:55] (TRANSFER) Zubat 165 V |  378 Cp | 62.07% | Lvl 23 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 930
 [14:41:10] (INFO) Found 1 catchable Pokemon
 [14:41:12] (Wild Success) | Ekans 112 V |   52 Cp | 42.34% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[14:41:13] (INFO) Found 1 pokemon to transfer...
+[14:41:15] (TRANSFER) Ekans 112 V |   52 Cp | 42.34% | Lvl 03 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 224
+[14:41:19] (POKESTOP) Temasek Laboratories at NUS in 65.31 m distance
+[14:41:19] (NAVIGATION) Distance to target location: 65.31 meters. Will take 7.35 seconds driving at 32kmh
+[14:41:23] (INFO) Found 1 catchable Pokemon
+[14:41:26] (Wild Success) | Caterpie 74 V |   24 Cp | 22.18% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
