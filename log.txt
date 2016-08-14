@@ -36981,3 +36981,13 @@
 [22:41:14] (BERRY) ItemRazzBerry used, remaining: 37
 [22:41:15] (Wild Success Attempt #2) | Electrode 254 V | 1031 Cp | 73.67% | Lvl 23 | Chance: 0.12 | with a GreatBall 
 [22:41:17] (Wild Success) | Rattata 97 V |   48 Cp | 27.24% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[22:41:18] (INFO) Found 2 pokemon to transfer...
+[22:41:20] (TRANSFER) Rattata 125 V |  302 Cp | 28.44% | Lvl 23 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 307
+[22:41:22] (TRANSFER) Rattata 97 V |   48 Cp | 27.24% | Lvl 04 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 308
+[22:41:37] (INFO) Found 1 catchable Pokemon
+[22:41:38] (Wild Flee) | Spearow 103 V |   64 Cp | 59.83% | Lvl 04 | Chance: 0.78 | with a PokeBall 
+[22:41:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[22:41:41] (POKESTOP) Horseshoe Sculpture at Capella  in 338.98 m distance
+[22:41:41] (NAVIGATION) Distance to target location: 338.98 meters. Will take 19.68 seconds driving at 62kmh
+[22:41:50] (INFO) Found 1 catchable Pokemon
+[22:41:51] (Wild Success) | Rattata 117 V |  165 Cp | 41.08% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
