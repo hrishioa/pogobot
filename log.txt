@@ -41093,3 +41093,13 @@
 [00:56:18] (TRANSFER) Voltorb 183 V |  462 Cp | 66.54% | Lvl 21 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 132
 [00:56:20] (INFO) Found 1 catchable Pokemon
 [00:56:21] (Wild Success) | Shellder 109 V |  180 Cp | 44.10% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:56:23] (INFO) Found 1 pokemon to transfer...
+[00:56:25] (TRANSFER) Shellder 109 V |  180 Cp | 44.10% | Lvl 09 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 50
+[00:56:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemUltraBall
+[00:56:28] (POKESTOP) Crane Dance Laser Show in 59.99 m distance
+[00:56:28] (NAVIGATION) Distance to target location: 59.99 meters. Will take 7.2 seconds driving at 30kmh
+[00:56:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:56:34] (POKESTOP) Bronze Film Director Sculpture in 262.94 m distance
+[00:56:34] (NAVIGATION) Distance to target location: 262.94 meters. Will take 19.72 seconds driving at 48kmh
+[00:56:46] (INFO) Found 1 catchable Pokemon
+[00:56:47] (Wild Success) | Pidgey 65 V |  161 Cp | 8.99% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
