@@ -42463,3 +42463,4 @@
 [01:36:12] (INFO) Found 3 catchable Pokemon
 [01:36:13] (Wild Success) | Magikarp 81 V |   47 Cp | 51.44% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
 [01:36:16] (Wild Success) | Magikarp 95 V |   94 Cp | 61.48% | Lvl 15 | Chance: 0.54 | with a PokeBall and received XP 210
+[01:36:17] (Wild Success) | Magikarp 71 V |   10 Cp | 45.38% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
