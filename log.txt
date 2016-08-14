@@ -31611,3 +31611,39 @@
 [14:15:03] (BERRY) ItemRazzBerry used, remaining: 47
 [14:15:04] (Wild Success) | Pidgeotto 161 V |  744 Cp | 27.09% | Lvl 25 | Chance: 0.14 | with a UltraBall and received XP 210
 [14:15:05] (Wild Success) | Magikarp 89 V |   10 Cp | 62.96% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[14:15:07] (INFO) Found 2 pokemon to transfer...
+[14:15:09] (TRANSFER) Magikarp 89 V |   10 Cp | 62.96% | Lvl 02 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 210
+[14:15:11] (TRANSFER) Pidgeotto 154 V |  638 Cp | 35.32% | Lvl 21 | Best: [Pidgeotto 162 V |  526 Cp | 43.52% | Lvl 17] | Candy: 1278
+[14:15:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[14:15:14] (POKESTOP) West Coast Park Amphitheatre in 166.79 m distance
+[14:15:14] (NAVIGATION) Distance to target location: 166.79 meters. Will take 19.37 seconds driving at 31kmh
+[14:15:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:15:33] (INFO) Found 3 Recyclable Items:
+[14:15:34] (RECYCLING) PokeBall x 9
+[14:15:35] (RECYCLING) Potion x 4
+[14:15:36] (RECYCLING) Revive x 1
+[14:15:38] (INFO) Found 1 catchable Pokemon
+[14:15:39] (Wild Flee) | Pidgey 121 V |  153 Cp | 56.32% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[14:15:41] (POKESTOP) Red Fire Truck in 79.27 m distance
+[14:15:41] (NAVIGATION) Distance to target location: 79.27 meters. Will take 9.21 seconds driving at 31kmh
+[14:15:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[14:15:50] (POKESTOP) Blue Dragon Boat  in 67.37 m distance
+[14:15:50] (NAVIGATION) Distance to target location: 67.37 meters. Will take 8.08 seconds driving at 30kmh
+[14:15:52] (INFO) Found 2 catchable Pokemon
+[14:15:53] (Wild Escape) | Paras 175 V |  407 Cp | 64.09% | Lvl 17 | Chance: 0.29 | with a GreatBall 
+[14:15:53] (Wild Escape Attempt #2) | Paras 175 V |  407 Cp | 64.09% | Lvl 17 | Chance: 0.29 | with a GreatBall 
+[14:15:54] (Wild Flee Attempt #3) | Paras 175 V |  407 Cp | 64.09% | Lvl 17 | Chance: 0.29 | with a GreatBall 
+[14:15:55] (Wild Escape) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:15:56] (Wild Escape Attempt #2) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:15:57] (Wild Escape Attempt #3) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:15:57] (Wild Escape Attempt #4) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:15:58] (Wild Escape Attempt #5) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:15:58] (Wild Escape Attempt #6) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:15:59] (Wild Escape Attempt #7) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:16:00] (Wild Escape Attempt #8) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:16:00] (Wild Escape Attempt #9) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:16:03] (INFO) Found 3 catchable Pokemon
+[14:16:04] (Wild Escape) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:16:04] (Wild Escape Attempt #2) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:16:06] (Wild Success Attempt #3) | Ivysaur 210 V |  766 Cp | 50.98% | Lvl 18 | Chance: 0.07 | with a PokeBall 
+[14:16:07] (Wild Success) | Pidgey 121 V |  303 Cp | 51.06% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
