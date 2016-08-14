@@ -41833,3 +41833,10 @@
 [01:19:08] (TRANSFER) Voltorb 165 V |   60 Cp | 86.53% | Lvl 03 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 152
 [01:19:09] (INFO) Found 1 catchable Pokemon
 [01:19:11] (Wild Success) | Voltorb 174 V |  208 Cp | 88.05% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[01:19:13] (INFO) Found 1 pokemon to transfer...
+[01:19:14] (TRANSFER) Voltorb 174 V |  208 Cp | 88.05% | Lvl 09 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 156
+[01:19:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:19:18] (POKESTOP) Fountain of Dreams at RWS in 59.91 m distance
+[01:19:18] (NAVIGATION) Distance to target location: 59.91 meters. Will take 7.19 seconds driving at 30kmh
+[01:19:22] (INFO) Found 2 catchable Pokemon
+[01:19:23] (Wild Success) | Voltorb 157 V |  325 Cp | 60.44% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
