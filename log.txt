@@ -32105,3 +32105,24 @@
 [14:34:03] (INFO) Found 2 catchable Pokemon
 [14:34:05] (Wild Success) | Pidgey 130 V |  333 Cp | 46.98% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
 [14:34:07] (Wild Success) | Pidgey 62 V |   55 Cp | 16.50% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[14:34:08] (INFO) Found 2 pokemon to transfer...
+[14:34:11] (TRANSFER) Pidgey 130 V |  333 Cp | 46.98% | Lvl 20 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1321
+[14:34:13] (TRANSFER) Pidgey 62 V |   55 Cp | 16.50% | Lvl 04 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1322
+[14:34:14] (POKESTOP) University Cultural Center in 77.89 m distance
+[14:34:14] (NAVIGATION) Distance to target location: 77.89 meters. Will take 9.05 seconds driving at 31kmh
+[14:34:22] (POKESTOP) Earth Mural in 64.82 m distance
+[14:34:22] (NAVIGATION) Distance to target location: 64.82 meters. Will take 7.78 seconds driving at 30kmh
+[14:34:30] (POKESTOP) Inverted Torsos in 65.37 m distance
+[14:34:30] (NAVIGATION) Distance to target location: 65.37 meters. Will take 7.35 seconds driving at 32kmh
+[14:34:37] (POKESTOP) Frustration of a Loner on a Rock in 63.01 m distance
+[14:34:37] (NAVIGATION) Distance to target location: 63.01 meters. Will take 7.32 seconds driving at 31kmh
+[14:34:44] (POKESTOP) Fingerprint Like Wood Art in 149.19 m distance
+[14:34:44] (NAVIGATION) Distance to target location: 149.19 meters. Will take 17.9 seconds driving at 30kmh
+[14:35:01] (POKESTOP) Race to the Future Car at FOE in 94.02 m distance
+[14:35:01] (NAVIGATION) Distance to target location: 94.02 meters. Will take 12.09 seconds driving at 28kmh
+[14:35:12] (POKESTOP) FOE Singapore in 45.81 m distance
+[14:35:12] (NAVIGATION) Distance to target location: 45.81 meters. Will take 5.89 seconds driving at 28kmh
+[14:35:17] (POKESTOP) Pavilion at Engineering in 74.17 m distance
+[14:35:17] (NAVIGATION) Distance to target location: 74.17 meters. Will take 8.61 seconds driving at 31kmh
+[14:35:22] (INFO) Found 1 catchable Pokemon
+[14:35:25] (Wild Success) | Ekans 154 V |  276 Cp | 60.60% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
