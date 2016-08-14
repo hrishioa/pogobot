@@ -29972,3 +29972,4 @@
 [13:17:36] (TRANSFER) Venomoth 150 V |  133 Cp | 66.92% | Lvl 03 | Best: [Venomoth 234 V |  784 Cp | 81.20% | Lvl 15] | Candy: 170
 [13:17:37] (INFO) Found 2 catchable Pokemon
 [13:17:39] (Wild Success) | Bellsprout 73 V |   43 Cp | 41.90% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[13:17:40] (Wild Success) | Pidgey 125 V |  279 Cp | 42.43% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
