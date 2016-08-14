@@ -40052,3 +40052,19 @@
 [00:26:54] (NAVIGATION) Distance to target location: 113.78 meters. Will take 14.12 seconds driving at 29kmh
 [00:27:00] (INFO) Found 1 catchable Pokemon
 [00:27:02] (Wild Success) | Pidgey 100 V |  125 Cp | 32.86% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:27:03] (INFO) Found 1 pokemon to transfer...
+[00:27:05] (TRANSFER) Pidgey 100 V |  125 Cp | 32.86% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 677
+[00:27:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[00:27:10] (POKESTOP) |œ>\îr in 75.11 m distance
+[00:27:10] (NAVIGATION) Distance to target location: 75.11 meters. Will take 9.01 seconds driving at 30kmh
+[00:27:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemUltraBall
+[00:27:19] (POKESTOP) Merlion - Sentosa Island in 69.93 m distance
+[00:27:19] (NAVIGATION) Distance to target location: 69.93 meters. Will take 8.12 seconds driving at 31kmh
+[00:27:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[00:27:26] (POKESTOP) Mövenpick Heritage Hotel Sentosa in 69.61 m distance
+[00:27:26] (NAVIGATION) Distance to target location: 69.61 meters. Will take 7.83 seconds driving at 32kmh
+[00:27:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[00:27:34] (POKESTOP) Castle and the Knight in 28.7 m distance
+[00:27:34] (NAVIGATION) Distance to target location: 28.7 meters. Will take 3.23 seconds driving at 32kmh
+[00:27:36] (INFO) Found 1 catchable Pokemon
+[00:27:37] (Wild Success) | Tentacool 111 V |  153 Cp | 44.33% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
