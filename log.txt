@@ -37258,3 +37258,19 @@
 [22:49:31] (INFO) Found 1 catchable Pokemon
 [22:49:33] (BERRY) ItemRazzBerry used, remaining: 45
 [22:49:33] (Wild Success) | Kabutops 250 V | 1170 Cp | 75.85% | Lvl 20 | Chance: 0.1 | with a GreatBall and received XP 710
+[22:49:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:49:42] (POKESTOP) Sci Fi Auditorium in 61.88 m distance
+[22:49:42] (NAVIGATION) Distance to target location: 61.88 meters. Will take 7.68 seconds driving at 29kmh
+[22:49:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[22:49:51] (POKESTOP) Star Dots in 50.12 m distance
+[22:49:51] (NAVIGATION) Distance to target location: 50.12 meters. Will take 5.64 seconds driving at 32kmh
+[22:49:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 7 x ItemPokeBall
+[22:49:56] (INFO) Found 3 Recyclable Items:
+[22:49:57] (RECYCLING) PokeBall x 15
+[22:49:57] (RECYCLING) SuperPotion x 1
+[22:49:58] (RECYCLING) HyperPotion x 1
+[22:50:01] (POKESTOP) Giant Egypt Statue in 100.18 m distance
+[22:50:01] (NAVIGATION) Distance to target location: 100.18 meters. Will take 12.44 seconds driving at 29kmh
+[22:50:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:50:14] (INFO) Found 1 catchable Pokemon
+[22:50:16] (Wild Success) | Ponyta 171 V |  333 Cp | 87.75% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 710
