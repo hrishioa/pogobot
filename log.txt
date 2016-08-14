@@ -38954,3 +38954,10 @@
 [23:50:39] (TRANSFER) Pidgey 83 V |  103 Cp | 18.20% | Lvl 07 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 665
 [23:50:40] (INFO) Found 1 catchable Pokemon
 [23:50:42] (Wild Success) | Magikarp 111 V |  133 Cp | 73.10% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
+[23:50:43] (INFO) Found 1 pokemon to transfer...
+[23:50:45] (TRANSFER) Magikarp 111 V |  133 Cp | 73.10% | Lvl 20 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 277
+[23:50:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:50:47] (POKESTOP) Cove Gazebo #3 in 324.47 m distance
+[23:50:47] (NAVIGATION) Distance to target location: 324.47 meters. Will take 19.8 seconds driving at 59kmh
+[23:50:53] (INFO) Found 1 catchable Pokemon
+[23:50:55] (Wild Success) | Seel 133 V |  499 Cp | 42.78% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
