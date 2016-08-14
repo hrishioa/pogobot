@@ -41696,3 +41696,22 @@
 [01:14:32] (NAVIGATION) Distance to target location: 122.32 meters. Will take 13.76 seconds driving at 32kmh
 [01:14:36] (INFO) Found 1 catchable Pokemon
 [01:14:37] (Wild Success) | Voltorb 167 V |  366 Cp | 58.10% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[01:14:39] (INFO) Found 1 pokemon to transfer...
+[01:14:41] (TRANSFER) Voltorb 167 V |  366 Cp | 58.10% | Lvl 17 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 144
+[01:14:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:14:45] (POKESTOP) Metal Vines Gateway in 51.96 m distance
+[01:14:45] (NAVIGATION) Distance to target location: 51.96 meters. Will take 6.03 seconds driving at 31kmh
+[01:14:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[01:14:51] (POKESTOP) Sharity Lion Statue in 67.17 m distance
+[01:14:51] (NAVIGATION) Distance to target location: 67.17 meters. Will take 8.64 seconds driving at 28kmh
+[01:14:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:15:00] (POKESTOP) River God of Merlion in 56.45 m distance
+[01:15:00] (NAVIGATION) Distance to target location: 56.45 meters. Will take 7.01 seconds driving at 29kmh
+[01:15:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:15:06] (INFO) Found 2 Recyclable Items:
+[01:15:07] (RECYCLING) PokeBall x 5
+[01:15:08] (RECYCLING) Revive x 1
+[01:15:11] (POKESTOP) Jingle Bells Gateways in 113.87 m distance
+[01:15:11] (NAVIGATION) Distance to target location: 113.87 meters. Will take 13.22 seconds driving at 31kmh
+[01:15:22] (INFO) Found 1 catchable Pokemon
+[01:15:24] (Wild Success) | Kakuna 66 V |  238 Cp | 10.02% | Lvl 24 | Chance: 0.15 | with a GreatBall and received XP 210
