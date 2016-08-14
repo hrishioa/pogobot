@@ -35736,3 +35736,15 @@
 [21:55:20] (NAVIGATION) Distance to target location: 95.64 meters. Will take 11.11 seconds driving at 31kmh
 [21:55:28] (INFO) Found 1 catchable Pokemon
 [21:55:30] (Wild Success) | Pidgey 117 V |  276 Cp | 38.62% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[21:55:32] (INFO) Found 1 pokemon to transfer...
+[21:55:34] (TRANSFER) Pidgey 117 V |  276 Cp | 38.62% | Lvl 17 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1382
+[21:55:37] (POKESTOP) NUS Sports and Recreation Centre in 122.91 m distance
+[21:55:37] (NAVIGATION) Distance to target location: 122.91 meters. Will take 15.26 seconds driving at 29kmh
+[21:55:51] (POKESTOP) Tree of Light Bulbs in 89.44 m distance
+[21:55:51] (NAVIGATION) Distance to target location: 89.44 meters. Will take 10.06 seconds driving at 32kmh
+[21:56:01] (POKESTOP) Student Service Centre in 61.45 m distance
+[21:56:01] (NAVIGATION) Distance to target location: 61.45 meters. Will take 7.14 seconds driving at 31kmh
+[21:56:07] (POKESTOP) NUSSU Sign in 47.55 m distance
+[21:56:07] (NAVIGATION) Distance to target location: 47.55 meters. Will take 6.11 seconds driving at 28kmh
+[21:56:09] (INFO) Found 2 catchable Pokemon
+[21:56:11] (Wild Success) | Paras 150 V |  240 Cp | 65.88% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
