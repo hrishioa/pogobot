@@ -38348,3 +38348,11 @@
 [23:27:30] (NAVIGATION) Distance to target location: 243.62 meters. Will take 19.93 seconds driving at 44kmh
 [23:27:37] (INFO) Found 1 catchable Pokemon
 [23:27:39] (Wild Success) | Magikarp 92 V |   36 Cp | 63.20% | Lvl 06 | Chance: 0.87 | with a PokeBall and received XP 210
+[23:27:40] (INFO) Found 1 pokemon to transfer...
+[23:27:42] (TRANSFER) Magikarp 92 V |   36 Cp | 63.20% | Lvl 06 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 261
+[23:27:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemUltraBall
+[23:27:51] (POKESTOP) Obelisk in 321.88 m distance
+[23:27:51] (NAVIGATION) Distance to target location: 321.88 meters. Will take 19.98 seconds driving at 58kmh
+[23:27:57] (INFO) Found 1 catchable Pokemon
+[23:27:59] (BERRY) ItemRazzBerry used, remaining: 43
+[23:27:59] (Wild Success) | Magnemite 155 V |  445 Cp | 51.32% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
