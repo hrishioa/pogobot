@@ -45642,3 +45642,10 @@
 [03:14:27] (NAVIGATION) Distance to target location: 289.65 meters. Will take 19.67 seconds driving at 53kmh
 [03:14:46] (INFO) Found 1 catchable Pokemon
 [03:14:47] (Wild Success) | Zubat 113 V |   88 Cp | 38.60% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[03:14:49] (INFO) Found 1 pokemon to transfer...
+[03:14:50] (TRANSFER) Zubat 113 V |   88 Cp | 38.60% | Lvl 06 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 764
+[03:14:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 4 x ItemPokeBall, 2 x ItemPotion
+[03:14:52] (POKESTOP) Rhizophora Stylosa in 388.54 m distance
+[03:14:52] (NAVIGATION) Distance to target location: 388.54 meters. Will take 19.98 seconds driving at 70kmh
+[03:15:01] (INFO) Found 1 catchable Pokemon
+[03:15:03] (Wild Success) | Rattata 140 V |  316 Cp | 41.14% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
