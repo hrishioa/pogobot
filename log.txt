@@ -43252,3 +43252,17 @@
 [02:00:56] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 3 x ItemPokeBall
 [02:00:57] (INFO) Found 1 catchable Pokemon
 [02:00:59] (Wild Success) | Magnemite 169 V |  416 Cp | 64.58% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[02:01:00] (INFO) Found 1 pokemon to transfer...
+[02:01:02] (TRANSFER) Magnemite 166 V |  369 Cp | 63.58% | Lvl 16 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 189
+[02:01:02] (POKESTOP) Bronze Film Director Sculpture in 90.53 m distance
+[02:01:02] (NAVIGATION) Distance to target location: 90.53 meters. Will take 10.86 seconds driving at 30kmh
+[02:01:11] (INFO) Found 1 catchable Pokemon
+[02:01:12] (Wild Escape) | Weedle 93 V |  187 Cp | 41.53% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[02:01:13] (Wild Success Attempt #2) | Weedle 93 V |  187 Cp | 41.53% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[02:01:15] (INFO) Found 1 pokemon to transfer...
+[02:01:16] (TRANSFER) Weedle 93 V |  187 Cp | 41.53% | Lvl 18 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 296
+[02:01:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
+[02:01:19] (POKESTOP) Spaghetti Space Chase in 106.05 m distance
+[02:01:19] (NAVIGATION) Distance to target location: 106.05 meters. Will take 11.93 seconds driving at 32kmh
+[02:01:25] (INFO) Found 1 catchable Pokemon
+[02:01:26] (Wild Success) | Magnemite 141 V |  153 Cp | 54.03% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
