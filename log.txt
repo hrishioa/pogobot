@@ -43190,3 +43190,22 @@
 [01:58:42] (NAVIGATION) Distance to target location: 48.09 meters. Will take 5.41 seconds driving at 32kmh
 [01:58:44] (INFO) Found 1 catchable Pokemon
 [01:58:46] (Wild Success) | Voltorb 159 V |  365 Cp | 57.89% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[01:58:48] (INFO) Found 1 pokemon to transfer...
+[01:58:49] (TRANSFER) Voltorb 159 V |  365 Cp | 57.89% | Lvl 17 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 204
+[01:58:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemUltraBall
+[01:58:53] (POKESTOP) Tiger Sky Tower in 59.59 m distance
+[01:58:53] (NAVIGATION) Distance to target location: 59.59 meters. Will take 7.4 seconds driving at 29kmh
+[01:58:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:59:00] (INFO) Found 5 Recyclable Items:
+[01:59:01] (RECYCLING) RazzBerry x 2
+[01:59:02] (RECYCLING) PokeBall x 6
+[01:59:02] (RECYCLING) Potion x 1
+[01:59:04] (RECYCLING) HyperPotion x 1
+[01:59:05] (RECYCLING) Revive x 1
+[01:59:08] (POKESTOP) Bengali Tigers in 58.68 m distance
+[01:59:08] (NAVIGATION) Distance to target location: 58.68 meters. Will take 6.6 seconds driving at 32kmh
+[01:59:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[01:59:15] (POKESTOP) Sentosa Nature Discovery Centre in 112.92 m distance
+[01:59:15] (NAVIGATION) Distance to target location: 112.92 meters. Will take 13.11 seconds driving at 31kmh
+[01:59:21] (INFO) Found 1 catchable Pokemon
+[01:59:22] (Wild Success) | Rattata 135 V |  306 Cp | 44.14% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 310
