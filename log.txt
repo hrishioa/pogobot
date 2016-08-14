@@ -22825,3 +22825,22 @@
 [08:46:37] (INFO) Found 1 catchable Pokemon
 [08:46:39] (BERRY) ItemRazzBerry used, remaining: 49
 [08:46:40] (Wild Success) | Golbat 189 V |  721 Cp | 62.46% | Lvl 14 | Chance: 0.16 | with a GreatBall and received XP 210
+[08:46:42] (INFO) Found 1 pokemon to transfer...
+[08:46:43] (TRANSFER) Golbat 189 V |  721 Cp | 62.46% | Lvl 14 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 746
+[08:46:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 3 x ItemPokeBall, 1 x ItemSuperPotion
+[08:46:49] (POKESTOP) NUS Engineering in 57.92 m distance
+[08:46:49] (NAVIGATION) Distance to target location: 57.92 meters. Will take 7.19 seconds driving at 29kmh
+[08:46:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:46:54] (INFO) Found 2 Recyclable Items:
+[08:46:55] (RECYCLING) PokeBall x 11
+[08:46:55] (RECYCLING) SuperPotion x 2
+[08:46:58] (POKESTOP) Through this Jungle in 91.14 m distance
+[08:46:58] (NAVIGATION) Distance to target location: 91.14 meters. Will take 10.58 seconds driving at 31kmh
+[08:47:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 3 x ItemPokeBall
+[08:47:09] (POKESTOP) National Oxygen in 94.23 m distance
+[08:47:09] (NAVIGATION) Distance to target location: 94.23 meters. Will take 11.31 seconds driving at 30kmh
+[08:47:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:47:20] (POKESTOP) Pavilion at Engineering in 229.3 m distance
+[08:47:20] (NAVIGATION) Distance to target location: 229.3 meters. Will take 19.65 seconds driving at 42kmh
+[08:47:31] (INFO) Found 1 catchable Pokemon
+[08:47:33] (Wild Success) | Staryu 177 V |  412 Cp | 84.06% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
