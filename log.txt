@@ -42011,3 +42011,4 @@
 [01:22:29] (NAVIGATION) Distance to target location: 127.8 meters. Will take 14.84 seconds driving at 31kmh
 [01:22:35] (INFO) Found 3 catchable Pokemon
 [01:22:37] (Wild Success) | Squirtle 91 V |  110 Cp | 15.44% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 210
+[01:22:39] (Wild Success) | Seel 90 V |  207 Cp | 21.81% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
