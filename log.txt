@@ -36623,3 +36623,32 @@
 [22:30:37] (Wild Success) | Tentacool 92 V |   35 Cp | 48.53% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [22:30:38] (BERRY) ItemRazzBerry used, remaining: 40
 [22:30:39] (Wild Success) | Voltorb 177 V |  492 Cp | 56.14% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 710
+[22:30:41] (INFO) Found 1 pokemon to transfer...
+[22:30:43] (TRANSFER) Tentacool 92 V |   35 Cp | 48.53% | Lvl 02 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 18
+[22:30:43] (POKESTOP) Arid Garden in 54.49 m distance
+[22:30:43] (NAVIGATION) Distance to target location: 54.49 meters. Will take 6.76 seconds driving at 29kmh
+[22:30:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:30:50] (POKESTOP) Southern Most Point Of Continental Asia  in 80.51 m distance
+[22:30:50] (NAVIGATION) Distance to target location: 80.51 meters. Will take 9.66 seconds driving at 30kmh
+[22:30:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:30:58] (INFO) Found 36 Pokestops
+[22:31:00] (POKESTOP) Palawan Beach Map in 94.38 m distance
+[22:31:00] (NAVIGATION) Distance to target location: 94.38 meters. Will take 10.62 seconds driving at 32kmh
+[22:31:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[22:31:10] (INFO) Found 2 Recyclable Items:
+[22:31:11] (RECYCLING) HyperPotion x 1
+[22:31:11] (RECYCLING) Revive x 1
+[22:31:14] (POKESTOP) Bikini Lady with Hat in 99.48 m distance
+[22:31:14] (NAVIGATION) Distance to target location: 99.48 meters. Will take 12.35 seconds driving at 29kmh
+[22:31:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[22:31:25] (POKESTOP) Fruit Lady Totem in 54.33 m distance
+[22:31:25] (NAVIGATION) Distance to target location: 54.33 meters. Will take 6.52 seconds driving at 30kmh
+[22:31:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:31:32] (POKESTOP) Keg Shelter at Port of Lost Wonder in 113.59 m distance
+[22:31:32] (NAVIGATION) Distance to target location: 113.59 meters. Will take 13.63 seconds driving at 30kmh
+[22:31:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:31:44] (POKESTOP) Cap'n Wheel By The River in 60.83 m distance
+[22:31:44] (NAVIGATION) Distance to target location: 60.83 meters. Will take 7.06 seconds driving at 31kmh
+[22:31:48] (INFO) Found 1 catchable Pokemon
+[22:31:49] (BERRY) ItemRazzBerry used, remaining: 41
+[22:31:50] (Wild Success) | Dratini 195 V |  426 Cp | 77.33% | Lvl 16 | Chance: 0.29 | with a GreatBall and received XP 210
