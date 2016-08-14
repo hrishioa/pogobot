@@ -28153,3 +28153,8 @@
 [12:04:14] (NAVIGATION) Distance to target location: 417.66 meters. Will take 21.48 seconds driving at 70kmh
 [12:04:25] (INFO) Found 1 catchable Pokemon
 [12:04:27] (Wild Success) | Eevee 149 V |  166 Cp | 71.73% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
+[12:04:29] (INFO) Found 1 pokemon to transfer...
+[12:04:31] (TRANSFER) Eevee 149 V |  166 Cp | 71.73% | Lvl 06 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 72
+[12:04:32] (INFO) Found 2 catchable Pokemon
+[12:04:33] (BERRY) ItemRazzBerry used, remaining: 46
+[12:04:34] (Wild Success) | Zubat 139 V |  389 Cp | 45.19% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
