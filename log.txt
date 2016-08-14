@@ -39007,3 +39007,15 @@
 [23:52:34] (NAVIGATION) Distance to target location: 130.29 meters. Will take 16.75 seconds driving at 28kmh
 [23:52:44] (INFO) Found 1 catchable Pokemon
 [23:52:46] (Wild Success) | Poliwag 123 V |  326 Cp | 38.05% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[23:52:48] (INFO) Found 1 pokemon to transfer...
+[23:52:50] (TRANSFER) Poliwag 123 V |  326 Cp | 38.05% | Lvl 17 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 152
+[23:52:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:52:53] (INFO) Found 3 Recyclable Items:
+[23:52:54] (RECYCLING) RazzBerry x 1
+[23:52:56] (RECYCLING) PokeBall x 9
+[23:52:56] (RECYCLING) Revive x 1
+[23:52:59] (POKESTOP) Armillary Sphere Sundial in 55.6 m distance
+[23:52:59] (NAVIGATION) Distance to target location: 55.6 meters. Will take 7.15 seconds driving at 28kmh
+[23:53:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[23:53:05] (INFO) Found 1 catchable Pokemon
+[23:53:07] (Wild Success) | Tentacool 133 V |  298 Cp | 53.12% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
