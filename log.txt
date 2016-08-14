@@ -31333,3 +31333,7 @@
 [14:04:55] (NAVIGATION) Distance to target location: 74.97 meters. Will take 9 seconds driving at 30kmh
 [14:04:58] (INFO) Found 1 catchable Pokemon
 [14:04:59] (Wild Success) | Goldeen 162 V |  448 Cp | 58.00% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[14:05:01] (INFO) Found 1 pokemon to transfer...
+[14:05:02] (TRANSFER) Goldeen 162 V |  448 Cp | 58.00% | Lvl 18 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 206
+[14:05:04] (INFO) Found 1 catchable Pokemon
+[14:05:06] (Wild Success) | Staryu 159 V |  416 Cp | 64.73% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
