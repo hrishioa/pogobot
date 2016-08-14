@@ -39110,3 +39110,13 @@
 [23:57:16] (INFO) Found 1 catchable Pokemon
 [23:57:16] (BERRY) ItemRazzBerry used, remaining: 49
 [23:57:18] (Wild Success) | Psyduck 192 V |  660 Cp | 55.73% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[23:57:20] (INFO) Found 1 pokemon to transfer...
+[23:57:21] (TRANSFER) Psyduck 173 V |  511 Cp | 51.59% | Lvl 18 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 149
+[23:57:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
+[23:57:24] (POKESTOP) Sentosa Golf Course in 75.16 m distance
+[23:57:24] (NAVIGATION) Distance to target location: 75.16 meters. Will take 8.46 seconds driving at 32kmh
+[23:57:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:57:33] (POKESTOP) Sentosa Golf Club in 48.89 m distance
+[23:57:33] (NAVIGATION) Distance to target location: 48.89 meters. Will take 5.5 seconds driving at 32kmh
+[23:57:35] (INFO) Found 1 catchable Pokemon
+[23:57:37] (Wild Success) | Magikarp 92 V |   74 Cp | 60.19% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
