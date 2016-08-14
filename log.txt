@@ -29707,3 +29707,13 @@
 [13:04:33] (NAVIGATION) Distance to target location: 180.6 meters. Will take 19.7 seconds driving at 33kmh
 [13:04:42] (INFO) Found 1 catchable Pokemon
 [13:04:44] (Wild Success) | Weedle 93 V |   78 Cp | 29.51% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[13:04:45] (INFO) Found 1 pokemon to transfer...
+[13:04:47] (TRANSFER) Weedle 93 V |   78 Cp | 29.51% | Lvl 08 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 527
+[13:04:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:04:54] (POKESTOP) Temasek Hall in 42.13 m distance
+[13:04:54] (NAVIGATION) Distance to target location: 42.13 meters. Will take 4.89 seconds driving at 31kmh
+[13:04:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemGreatBall
+[13:04:59] (POKESTOP) Eusoff Freshies Corner in 136.57 m distance
+[13:04:59] (NAVIGATION) Distance to target location: 136.57 meters. Will take 17.56 seconds driving at 28kmh
+[13:05:10] (INFO) Found 1 catchable Pokemon
+[13:05:12] (Wild Success) | Rattata 155 V |  296 Cp | 62.57% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
