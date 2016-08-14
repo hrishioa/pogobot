@@ -31923,3 +31923,15 @@
 [14:26:21] (TRANSFER) Pidgey 83 V |   42 Cp | 38.65% | Lvl 03 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1310
 [14:26:23] (INFO) Found 1 catchable Pokemon
 [14:26:24] (Wild Success) | Rattata 145 V |  149 Cp | 65.15% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[14:26:26] (INFO) Found 1 pokemon to transfer...
+[14:26:28] (TRANSFER) Rattata 145 V |  149 Cp | 65.15% | Lvl 10 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 749
+[14:26:30] (POKESTOP) West Coast Mural Art in 91.73 m distance
+[14:26:30] (NAVIGATION) Distance to target location: 91.73 meters. Will take 10.32 seconds driving at 32kmh
+[14:26:40] (POKESTOP) Mythical Creature Mural in 82.37 m distance
+[14:26:40] (NAVIGATION) Distance to target location: 82.37 meters. Will take 10.59 seconds driving at 28kmh
+[14:26:49] (POKESTOP) West Coast Playground in 75.49 m distance
+[14:26:49] (NAVIGATION) Distance to target location: 75.49 meters. Will take 9.71 seconds driving at 28kmh
+[14:26:58] (POKESTOP) West Coast Fitness Corner in 76.83 m distance
+[14:26:58] (NAVIGATION) Distance to target location: 76.83 meters. Will take 9.88 seconds driving at 28kmh
+[14:27:03] (INFO) Found 1 catchable Pokemon
+[14:27:06] (Wild Success) | Rattata 163 V |  203 Cp | 80.64% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
