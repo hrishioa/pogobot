@@ -38943,3 +38943,10 @@
 [23:50:08] (NAVIGATION) Distance to target location: 179.7 meters. Will take 19.6 seconds driving at 33kmh
 [23:50:21] (INFO) Found 1 catchable Pokemon
 [23:50:22] (Wild Success) | Magnemite 85 V |   54 Cp | 30.37% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[23:50:24] (INFO) Found 1 pokemon to transfer...
+[23:50:25] (TRANSFER) Magnemite 85 V |   54 Cp | 30.37% | Lvl 03 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 46
+[23:50:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemRazzBerry, 1 x ItemPokeBall
+[23:50:30] (POKESTOP) Giant Bowl Water Fountain  in 55.68 m distance
+[23:50:30] (NAVIGATION) Distance to target location: 55.68 meters. Will take 7.16 seconds driving at 28kmh
+[23:50:34] (INFO) Found 1 catchable Pokemon
+[23:50:36] (Wild Success) | Pidgey 83 V |  103 Cp | 18.20% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
