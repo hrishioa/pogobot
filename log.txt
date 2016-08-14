@@ -39669,3 +39669,7 @@
 [00:15:27] (INFO) Found 1 catchable Pokemon
 [00:15:28] (BERRY) ItemRazzBerry used, remaining: 49
 [00:15:29] (Wild Success) | Sandshrew 123 V |  372 Cp | 25.95% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[00:15:32] (INFO) Found 1 pokemon to transfer...
+[00:15:33] (TRANSFER) Sandshrew 123 V |  372 Cp | 25.95% | Lvl 20 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 50
+[00:15:35] (INFO) Found 1 catchable Pokemon
+[00:15:36] (Wild Success) | Shellder 98 V |   94 Cp | 42.10% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
