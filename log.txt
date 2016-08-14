@@ -29678,3 +29678,7 @@
 [13:03:30] (NAVIGATION) Distance to target location: 91.58 meters. Will take 11.37 seconds driving at 29kmh
 [13:03:36] (INFO) Found 1 catchable Pokemon
 [13:03:38] (Wild Success) | Gastly 146 V |  209 Cp | 65.44% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
+[13:03:40] (INFO) Found 1 pokemon to transfer...
+[13:03:41] (TRANSFER) Gastly 130 V |  240 Cp | 51.05% | Lvl 12 | Best: [Gastly 165 V |  263 Cp | 54.34% | Lvl 13] | Candy: 22
+[13:03:43] (INFO) Found 1 catchable Pokemon
+[13:03:44] (Wild Success) | Zubat 162 V |  184 Cp | 68.81% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
