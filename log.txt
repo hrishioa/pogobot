@@ -23732,3 +23732,18 @@
 [09:16:48] (TRANSFER) Rattata 118 V |  139 Cp | 44.06% | Lvl 10 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 629
 [09:16:49] (INFO) Found 1 catchable Pokemon
 [09:16:50] (Wild Success) | Rattata 121 V |   95 Cp | 46.21% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[09:16:52] (INFO) Found 1 pokemon to transfer...
+[09:16:54] (TRANSFER) Rattata 121 V |   95 Cp | 46.21% | Lvl 07 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 633
+[09:16:56] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemRevive, 3 x ItemPokeBall
+[09:16:57] (POKESTOP) The Mermaid Mural in 26.72 m distance
+[09:16:57] (NAVIGATION) Distance to target location: 26.72 meters. Will take 3.43 seconds driving at 28kmh
+[09:17:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:17:01] (INFO) Found 4 Recyclable Items:
+[09:17:01] (RECYCLING) PokeBall x 7
+[09:17:03] (RECYCLING) Potion x 3
+[09:17:03] (RECYCLING) SuperPotion x 1
+[09:17:05] (RECYCLING) Revive x 1
+[09:17:07] (POKESTOP) Three Portals Make A Field in 160.35 m distance
+[09:17:07] (NAVIGATION) Distance to target location: 160.35 meters. Will take 19.24 seconds driving at 30kmh
+[09:17:19] (INFO) Found 2 catchable Pokemon
+[09:17:21] (Wild Success) | Pidgeot 124 V |   85 Cp | 50.61% | Lvl 02 | Chance: 0.3 | with a UltraBall and received XP 210
