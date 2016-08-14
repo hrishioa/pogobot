@@ -22470,3 +22470,35 @@
 [08:33:13] (TRANSFER) Venonat 172 V |  355 Cp | 68.64% | Lvl 13 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 142
 [08:33:14] (INFO) Found 1 catchable Pokemon
 [08:33:16] (Wild Success) | Zubat 122 V |  186 Cp | 43.25% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[08:33:18] (INFO) Found 1 pokemon to transfer...
+[08:33:19] (TRANSFER) Zubat 122 V |  186 Cp | 43.25% | Lvl 12 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 726
+[08:33:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:33:24] (POKESTOP) Race to the Future Car at FOE in 74.7 m distance
+[08:33:24] (NAVIGATION) Distance to target location: 74.7 meters. Will take 8.96 seconds driving at 30kmh
+[08:33:32] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemGreatBall, 3 x ItemPokeBall
+[08:33:34] (POKESTOP) FOE Singapore in 45.75 m distance
+[08:33:34] (NAVIGATION) Distance to target location: 45.75 meters. Will take 5.88 seconds driving at 28kmh
+[08:33:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[08:33:39] (INFO) Found 3 Recyclable Items:
+[08:33:40] (RECYCLING) PokeBall x 9
+[08:33:41] (RECYCLING) Potion x 1
+[08:33:42] (RECYCLING) Revive x 3
+[08:33:44] (POKESTOP) Pavilion at Engineering in 72.23 m distance
+[08:33:44] (NAVIGATION) Distance to target location: 72.23 meters. Will take 8.67 seconds driving at 30kmh
+[08:33:50] (INFO) Found 1 catchable Pokemon
+[08:33:52] (Wild Escape) | Spearow 120 V |  258 Cp | 53.80% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[08:33:53] (Wild Success Attempt #2) | Spearow 120 V |  258 Cp | 53.80% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[08:33:54] (INFO) Found 1 pokemon to transfer...
+[08:33:56] (TRANSFER) Spearow 120 V |  258 Cp | 53.80% | Lvl 15 | Best: [Spearow 147 V |  311 Cp | 55.82% | Lvl 18] | Candy: 289
+[08:33:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[08:33:58] (POKESTOP) NUS GREM Display in 64.48 m distance
+[08:33:58] (NAVIGATION) Distance to target location: 64.48 meters. Will take 8 seconds driving at 29kmh
+[08:34:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:34:05] (POKESTOP) Masjid Tentera Di Raja in 154.74 m distance
+[08:34:05] (NAVIGATION) Distance to target location: 154.74 meters. Will take 19.21 seconds driving at 29kmh
+[08:34:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemRevive
+[08:34:24] (POKESTOP) Abstact Sculptures At NUS in 135.01 m distance
+[08:34:24] (NAVIGATION) Distance to target location: 135.01 meters. Will take 15.19 seconds driving at 32kmh
+[08:34:32] (INFO) Found 1 catchable Pokemon
+[08:34:33] (BERRY) ItemRazzBerry used, remaining: 48
+[08:34:35] (Wild Success) | Zubat 149 V |  392 Cp | 60.13% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
