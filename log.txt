@@ -41748,3 +41748,13 @@
 [01:16:35] (BERRY) ItemRazzBerry used, remaining: 49
 [01:16:37] (Wild Success) | Pikachu 158 V |  522 Cp | 41.27% | Lvl 24 | Chance: 0.12 | with a GreatBall and received XP 210
 [01:16:38] (Wild Success) | Rattata 126 V |  112 Cp | 50.48% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[01:16:40] (INFO) Found 2 pokemon to transfer...
+[01:16:41] (TRANSFER) Rattata 126 V |  112 Cp | 50.48% | Lvl 08 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 360
+[01:16:44] (TRANSFER) Pikachu 156 V |  480 Cp | 42.82% | Lvl 22 | Best: [Pikachu 159 V |  385 Cp | 55.84% | Lvl 17] | Candy: 66
+[01:16:44] (POKESTOP) Sci Fi Auditorium in 37.69 m distance
+[01:16:44] (NAVIGATION) Distance to target location: 37.69 meters. Will take 4.68 seconds driving at 29kmh
+[01:16:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemHyperPotion
+[01:16:48] (POKESTOP) The Mighty Lion in 114.89 m distance
+[01:16:48] (NAVIGATION) Distance to target location: 114.89 meters. Will take 14.77 seconds driving at 28kmh
+[01:16:59] (INFO) Found 2 catchable Pokemon
+[01:17:01] (Wild Success) | Shellder 122 V |  123 Cp | 63.21% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
