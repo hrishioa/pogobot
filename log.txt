@@ -39166,3 +39166,8 @@
 [23:59:23] (INFO) Found 2 catchable Pokemon
 [23:59:25] (Wild Success) | Zubat 124 V |  318 Cp | 36.87% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
 [23:59:26] (Wild Success) | Voltorb 148 V |  331 Cp | 44.62% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[23:59:28] (INFO) Found 2 pokemon to transfer...
+[23:59:30] (TRANSFER) Zubat 124 V |  318 Cp | 36.87% | Lvl 21 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 684
+[23:59:32] (TRANSFER) Voltorb 148 V |  331 Cp | 44.62% | Lvl 16 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 80
+[23:59:33] (INFO) Found 2 catchable Pokemon
+[23:59:35] (Wild Success) | Krabby 144 V |  145 Cp | 77.82% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
