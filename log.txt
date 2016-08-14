@@ -31201,3 +31201,25 @@
 [13:59:23] (TRANSFER) Pidgeot 207 V |  710 Cp | 45.62% | Lvl 13 | Best: [Pidgeot 253 V | 1365 Cp | 57.24% | Lvl 25] | Candy: 1246
 [13:59:38] (INFO) Found 1 catchable Pokemon
 [13:59:40] (Wild Success) | Poliwag 130 V |   32 Cp | 67.83% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[13:59:42] (INFO) Found 1 pokemon to transfer...
+[13:59:43] (TRANSFER) Poliwag 130 V |   32 Cp | 67.83% | Lvl 02 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 212
+[14:00:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[14:00:02] (POKESTOP) Clementi Woods Park in 136.73 m distance
+[14:00:02] (NAVIGATION) Distance to target location: 136.73 meters. Will take 15.38 seconds driving at 32kmh
+[14:00:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[14:00:17] (POKESTOP) West Coast Park Connector in 75.73 m distance
+[14:00:17] (NAVIGATION) Distance to target location: 75.73 meters. Will take 9.4 seconds driving at 29kmh
+[14:00:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[14:00:27] (POKESTOP) Clementi Bible Center in 51.08 m distance
+[14:00:27] (NAVIGATION) Distance to target location: 51.08 meters. Will take 6.13 seconds driving at 30kmh
+[14:00:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[14:00:33] (POKESTOP) West Coast Community Centre in 70.27 m distance
+[14:00:33] (NAVIGATION) Distance to target location: 70.27 meters. Will take 8.43 seconds driving at 30kmh
+[14:00:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemUltraBall, 2 x ItemPokeBall
+[14:00:40] (INFO) Found 2 Recyclable Items:
+[14:00:41] (RECYCLING) PokeBall x 10
+[14:00:42] (RECYCLING) Revive x 1
+[14:00:45] (POKESTOP) Wu Tai Shan  in 101.16 m distance
+[14:00:45] (NAVIGATION) Distance to target location: 101.16 meters. Will take 12.14 seconds driving at 30kmh
+[14:00:53] (INFO) Found 1 catchable Pokemon
+[14:00:55] (Wild Success) | Zubat 132 V |   91 Cp | 48.40% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
