@@ -30519,3 +30519,27 @@
 [13:35:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemRevive, 1 x ItemPokeBall
 [13:35:47] (INFO) Found 1 catchable Pokemon
 [13:35:49] (Wild Success) | Psyduck 90 V |   40 Cp | 20.70% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[13:35:51] (INFO) Found 1 pokemon to transfer...
+[13:35:52] (TRANSFER) Psyduck 90 V |   40 Cp | 20.70% | Lvl 02 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 89
+[13:35:53] (POKESTOP) Clementi Bible Center in 64.82 m distance
+[13:35:53] (NAVIGATION) Distance to target location: 64.82 meters. Will take 7.53 seconds driving at 31kmh
+[13:35:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[13:36:00] (POKESTOP) West Coast Park Connector in 41.43 m distance
+[13:36:00] (NAVIGATION) Distance to target location: 41.43 meters. Will take 4.81 seconds driving at 31kmh
+[13:36:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[13:36:05] (POKESTOP) Clementi Woods Park in 65.73 m distance
+[13:36:05] (NAVIGATION) Distance to target location: 65.73 meters. Will take 8.45 seconds driving at 28kmh
+[13:36:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:36:13] (INFO) Found 3 Recyclable Items:
+[13:36:13] (RECYCLING) PokeBall x 9
+[13:36:14] (RECYCLING) SuperPotion x 1
+[13:36:15] (RECYCLING) Revive x 5
+[13:36:16] (EGG) Hatched egg! Seel                195 True Value |  614 Cp | 86.53% Perfect | Lvl 20 | WaterGun/IcyWind
+[13:36:17] (EGG) Added 5km egg to incubator
+[13:36:18] (POKESTOP) Clementi Woods Playground in 143.08 m distance
+[13:36:18] (NAVIGATION) Distance to target location: 143.08 meters. Will take 17.76 seconds driving at 29kmh
+[13:36:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemPotion, 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:36:36] (POKESTOP) Focusing Coils in 718.8 m distance
+[13:36:36] (NAVIGATION) Distance to target location: 718.8 meters. Will take 36.97 seconds driving at 70kmh
+[13:36:51] (INFO) Found 1 catchable Pokemon
+[13:36:53] (Wild Success) | Venonat 115 V |   13 Cp | 63.88% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
