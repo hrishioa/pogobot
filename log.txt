@@ -37597,3 +37597,4 @@
 [23:00:52] (INFO) Found 3 catchable Pokemon
 [23:00:54] (Wild Success) | Machop 127 V |  323 Cp | 38.07% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [23:00:56] (Wild Success) | Rattata 109 V |  181 Cp | 23.79% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[23:00:57] (Wild Success) | Magnemite 118 V |   10 Cp | 45.37% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
