@@ -43502,3 +43502,24 @@
 [02:06:27] (NAVIGATION) Distance to target location: 62.34 meters. Will take 7.01 seconds driving at 32kmh
 [02:06:31] (INFO) Found 1 catchable Pokemon
 [02:06:32] (Wild Success) | Pidgey 105 V |  334 Cp | 32.50% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[02:06:34] (INFO) Found 1 pokemon to transfer...
+[02:06:36] (TRANSFER) Pidgey 105 V |  334 Cp | 32.50% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 736
+[02:06:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall, 2 x ItemPotion
+[02:06:39] (POKESTOP) Jingle Bells Gateways in 69.44 m distance
+[02:06:39] (NAVIGATION) Distance to target location: 69.44 meters. Will take 7.81 seconds driving at 32kmh
+[02:06:45] (INFO) Found 1 catchable Pokemon
+[02:06:45] (BERRY) ItemRazzBerry used, remaining: 48
+[02:06:46] (Wild Escape) | Slowpoke 185 V |  715 Cp | 48.12% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[02:06:46] (BERRY) ItemRazzBerry used, remaining: 47
+[02:06:48] (Wild Success Attempt #2) | Slowpoke 185 V |  715 Cp | 48.12% | Lvl 23 | Chance: 0.31 | with a GreatBall 
+[02:06:49] (INFO) Found 1 pokemon to transfer...
+[02:06:51] (TRANSFER) Slowpoke 141 V |  284 Cp | 57.96% | Lvl 09 | Best: [Slowpoke 185 V |  715 Cp | 48.12% | Lvl 23] | Candy: 54
+[02:06:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPotion
+[02:06:54] (POKESTOP) Musical Eggs in 68.33 m distance
+[02:06:54] (NAVIGATION) Distance to target location: 68.33 meters. Will take 8.79 seconds driving at 28kmh
+[02:07:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:07:02] (POKESTOP) Snakes and Ladders in 75.19 m distance
+[02:07:02] (NAVIGATION) Distance to target location: 75.19 meters. Will take 9.67 seconds driving at 28kmh
+[02:07:06] (INFO) Found 1 catchable Pokemon
+[02:07:07] (BERRY) ItemRazzBerry used, remaining: 46
+[02:07:08] (Wild Success) | Ponyta 173 V |  681 Cp | 60.41% | Lvl 17 | Chance: 0.29 | with a GreatBall and received XP 210
