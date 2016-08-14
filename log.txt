@@ -41467,3 +41467,13 @@
 [01:08:18] (NAVIGATION) Distance to target location: 666.35 meters. Will take 34.27 seconds driving at 70kmh
 [01:08:49] (INFO) Found 1 catchable Pokemon
 [01:08:52] (Wild Success) | NidoranFemale 165 V |  397 Cp | 50.44% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[01:08:54] (INFO) Found 1 pokemon to transfer...
+[01:08:55] (TRANSFER) NidoranFemale 126 V |  220 Cp | 49.27% | Lvl 10 | Best: [NidoranFemale 165 V |  397 Cp | 50.44% | Lvl 18] | Candy: 61
+[01:08:58] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 3 x ItemPokeBall, 1 x ItemPotion
+[01:09:00] (POKESTOP) Pomegranate Ice Kachang See Saw in 341.85 m distance
+[01:09:00] (NAVIGATION) Distance to target location: 341.85 meters. Will take 19.85 seconds driving at 62kmh
+[01:09:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:09:21] (POKESTOP) Beach Station Car Park Tower in 95.3 m distance
+[01:09:21] (NAVIGATION) Distance to target location: 95.3 meters. Will take 11.07 seconds driving at 31kmh
+[01:09:29] (INFO) Found 1 catchable Pokemon
+[01:09:31] (Wild Success) | Weedle 78 V |  205 Cp | 26.28% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
