@@ -40040,3 +40040,15 @@
 [00:26:39] (TRANSFER) Magnemite 135 V |  334 Cp | 51.79% | Lvl 15 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 86
 [00:26:41] (INFO) Found 1 catchable Pokemon
 [00:26:42] (Wild Success) | Magnemite 135 V |  223 Cp | 51.45% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[00:26:44] (INFO) Found 1 pokemon to transfer...
+[00:26:45] (TRANSFER) Magnemite 135 V |  223 Cp | 51.45% | Lvl 10 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 90
+[00:26:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[00:26:47] (INFO) Found 4 Recyclable Items:
+[00:26:48] (RECYCLING) PokeBall x 9
+[00:26:49] (RECYCLING) Potion x 4
+[00:26:50] (RECYCLING) SuperPotion x 2
+[00:26:51] (RECYCLING) Revive x 2
+[00:26:54] (POKESTOP) Sentosa in 113.78 m distance
+[00:26:54] (NAVIGATION) Distance to target location: 113.78 meters. Will take 14.12 seconds driving at 29kmh
+[00:27:00] (INFO) Found 1 catchable Pokemon
+[00:27:02] (Wild Success) | Pidgey 100 V |  125 Cp | 32.86% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
