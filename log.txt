@@ -23815,3 +23815,4 @@
 [09:19:51] (NAVIGATION) Distance to target location: 120.36 meters. Will take 14.44 seconds driving at 30kmh
 [09:19:57] (INFO) Found 2 catchable Pokemon
 [09:20:00] (Wild Success) | Rattata 126 V |   53 Cp | 60.56% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[09:20:01] (Wild Success) | Bellsprout 117 V |   79 Cp | 80.01% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
