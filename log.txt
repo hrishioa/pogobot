@@ -23106,3 +23106,13 @@
 [08:56:05] (NAVIGATION) Distance to target location: 280.02 meters. Will take 19.77 seconds driving at 51kmh
 [08:56:17] (INFO) Found 1 catchable Pokemon
 [08:56:19] (Wild Success) | Spearow 142 V |  322 Cp | 49.92% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[08:56:21] (INFO) Found 1 pokemon to transfer...
+[08:56:22] (TRANSFER) Spearow 142 V |  322 Cp | 49.92% | Lvl 19 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 301
+[08:56:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemRazzBerry
+[08:56:26] (POKESTOP) NUS Ridge View Residences Plaque in 175.41 m distance
+[08:56:26] (NAVIGATION) Distance to target location: 175.41 meters. Will take 19.73 seconds driving at 32kmh
+[08:56:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[08:56:46] (POKESTOP) Catherine's Healing Garden in 77.51 m distance
+[08:56:46] (NAVIGATION) Distance to target location: 77.51 meters. Will take 9.62 seconds driving at 29kmh
+[08:56:50] (INFO) Found 3 catchable Pokemon
+[08:56:52] (Wild Success) | Zubat 149 V |  327 Cp | 61.09% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
