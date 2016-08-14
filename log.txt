@@ -44819,3 +44819,7 @@
 [02:47:40] (TRANSFER) Ekans 94 V |  438 Cp | 23.44% | Lvl 23 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 114
 [02:47:41] (INFO) Found 1 catchable Pokemon
 [02:47:44] (Wild Success) | Caterpie 132 V |  165 Cp | 60.74% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[02:47:45] (INFO) Found 1 pokemon to transfer...
+[02:47:46] (TRANSFER) Caterpie 120 V |  148 Cp | 49.77% | Lvl 14 | Best: [Caterpie 163 V |  244 Cp | 88.98% | Lvl 20] | Candy: 215
+[02:47:48] (INFO) Found 1 catchable Pokemon
+[02:47:49] (Wild Success) | Ekans 108 V |   30 Cp | 37.75% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
