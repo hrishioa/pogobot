@@ -23191,3 +23191,15 @@
 [08:59:40] (NAVIGATION) Distance to target location: 51.44 meters. Will take 5.79 seconds driving at 32kmh
 [08:59:41] (INFO) Found 1 catchable Pokemon
 [08:59:42] (Wild Success) | Machop 139 V |  224 Cp | 59.94% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[08:59:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:59:48] (POKESTOP) Happy Doctor Nurse and Patient in 90.99 m distance
+[08:59:48] (NAVIGATION) Distance to target location: 90.99 meters. Will take 11.7 seconds driving at 28kmh
+[08:59:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:59:58] (INFO) Found 2 Recyclable Items:
+[08:59:59] (RECYCLING) PokeBall x 8
+[08:59:59] (RECYCLING) SuperPotion x 1
+[09:00:02] (POKESTOP) You Hold The Key in 348.32 m distance
+[09:00:02] (NAVIGATION) Distance to target location: 348.32 meters. Will take 19.9 seconds driving at 63kmh
+[09:00:08] (INFO) Found 1 catchable Pokemon
+[09:00:09] (BERRY) ItemRazzBerry used, remaining: 48
+[09:00:11] (Wild Success) | Poliwag 168 V |  425 Cp | 74.29% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
