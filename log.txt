@@ -33498,3 +33498,10 @@
 [20:38:54] (NAVIGATION) Distance to target location: 81.91 meters. Will take 9.22 seconds driving at 32kmh
 [20:38:57] (INFO) Found 1 catchable Pokemon
 [20:38:59] (Wild Success) | Pidgey 117 V |  350 Cp | 32.41% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
+[20:39:01] (INFO) Found 1 pokemon to transfer...
+[20:39:02] (TRANSFER) Pidgey 117 V |  350 Cp | 32.41% | Lvl 22 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 601
+[20:39:05] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:39:08] (POKESTOP) NUS Ridge View Residences Plaque in 276.3 m distance
+[20:39:08] (NAVIGATION) Distance to target location: 276.3 meters. Will take 19.89 seconds driving at 50kmh
+[20:39:25] (INFO) Found 2 catchable Pokemon
+[20:39:27] (Wild Success) | Pidgey 100 V |  318 Cp | 17.94% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
