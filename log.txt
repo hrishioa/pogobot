@@ -37336,3 +37336,4 @@
 [22:52:57] (TRANSFER) Voltorb 156 V |  223 Cp | 71.97% | Lvl 10 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 25
 [22:52:58] (INFO) Found 2 catchable Pokemon
 [22:53:00] (Wild Success) | Weedle 72 V |  164 Cp | 24.18% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[22:53:01] (Wild Success) | Zubat 118 V |  215 Cp | 21.18% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
