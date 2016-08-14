@@ -39988,3 +39988,14 @@
 [00:25:09] (NAVIGATION) Distance to target location: 103.37 meters. Will take 11.63 seconds driving at 32kmh
 [00:25:18] (INFO) Found 1 catchable Pokemon
 [00:25:19] (Wild Success) | Magnemite 150 V |  297 Cp | 60.46% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[00:25:21] (INFO) Found 1 pokemon to transfer...
+[00:25:23] (TRANSFER) Magnemite 150 V |  297 Cp | 60.46% | Lvl 13 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 70
+[00:25:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:25:25] (INFO) Found 3 Recyclable Items:
+[00:25:26] (RECYCLING) PokeBall x 8
+[00:25:26] (RECYCLING) Potion x 1
+[00:25:27] (RECYCLING) Revive x 1
+[00:25:30] (POKESTOP) Casino in 81.55 m distance
+[00:25:30] (NAVIGATION) Distance to target location: 81.55 meters. Will take 9.79 seconds driving at 30kmh
+[00:25:36] (INFO) Found 2 catchable Pokemon
+[00:25:37] (Wild Success) | Meowth 133 V |  311 Cp | 40.30% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
