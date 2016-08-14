@@ -42064,3 +42064,44 @@
 [01:24:05] (BERRY) ItemRazzBerry used, remaining: 47
 [01:24:07] (Wild Success) | Clefairy 164 V |  681 Cp | 33.67% | Lvl 23 | Chance: 0.18 | with a GreatBall and received XP 210
 [01:24:08] (Wild Success) | Tentacool 104 V |  276 Cp | 25.64% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[01:24:10] (INFO) Found 2 pokemon to transfer...
+[01:24:12] (TRANSFER) Clefairy 164 V |  681 Cp | 33.67% | Lvl 23 | Best: [Clefairy 205 V |  657 Cp | 79.46% | Lvl 20] | Candy: 73
+[01:24:14] (TRANSFER) Tentacool 104 V |  276 Cp | 25.64% | Lvl 13 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 76
+[01:24:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[01:24:16] (POKESTOP) Maritime Museum Exhibit in 135.84 m distance
+[01:24:16] (NAVIGATION) Distance to target location: 135.84 meters. Will take 16.3 seconds driving at 30kmh
+[01:24:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:24:32] (POKESTOP) SEA Aquarium Stilt Fishermen in 50.44 m distance
+[01:24:32] (NAVIGATION) Distance to target location: 50.44 meters. Will take 5.86 seconds driving at 31kmh
+[01:24:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[01:24:38] (POKESTOP) Manta Ray Floor Art in 88.93 m distance
+[01:24:38] (NAVIGATION) Distance to target location: 88.93 meters. Will take 11.04 seconds driving at 29kmh
+[01:24:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[01:24:48] (INFO) Found 3 Recyclable Items:
+[01:24:49] (RECYCLING) PokeBall x 11
+[01:24:50] (RECYCLING) Potion x 2
+[01:24:51] (RECYCLING) SuperPotion x 2
+[01:24:54] (POKESTOP) The Entrance in 41.38 m distance
+[01:24:54] (NAVIGATION) Distance to target location: 41.38 meters. Will take 4.66 seconds driving at 32kmh
+[01:24:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[01:25:00] (POKESTOP) Old Display Junk in 62.43 m distance
+[01:25:00] (NAVIGATION) Distance to target location: 62.43 meters. Will take 7.75 seconds driving at 29kmh
+[01:25:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[01:25:06] (POKESTOP) Pavilions by the Sea in 111.36 m distance
+[01:25:06] (NAVIGATION) Distance to target location: 111.36 meters. Will take 12.93 seconds driving at 31kmh
+[01:25:18] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 6 x ItemPokeBall, 1 x ItemPotion
+[01:25:19] (POKESTOP) Adventure Cove in 56.75 m distance
+[01:25:19] (NAVIGATION) Distance to target location: 56.75 meters. Will take 7.3 seconds driving at 28kmh
+[01:25:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:25:26] (POKESTOP) Orchid Waterfall in 70.22 m distance
+[01:25:26] (NAVIGATION) Distance to target location: 70.22 meters. Will take 7.9 seconds driving at 32kmh
+[01:25:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:25:33] (INFO) Found 3 Recyclable Items:
+[01:25:34] (RECYCLING) PokeBall x 8
+[01:25:34] (RECYCLING) Potion x 2
+[01:25:35] (RECYCLING) Revive x 1
+[01:25:38] (POKESTOP) Hard Rock Hotel Singapore in 54.67 m distance
+[01:25:38] (NAVIGATION) Distance to target location: 54.67 meters. Will take 6.15 seconds driving at 32kmh
+[01:25:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:25:44] (INFO) Found 1 catchable Pokemon
+[01:25:45] (Wild Success) | Pidgey 85 V |  264 Cp | 9.26% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
