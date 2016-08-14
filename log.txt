@@ -33349,3 +33349,17 @@
 [20:31:44] (INFO) Found 2 catchable Pokemon
 [20:31:46] (Wild Success) | Pidgey 138 V |  335 Cp | 49.08% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
 [20:31:48] (Wild Success) | Pidgey 102 V |  188 Cp | 27.54% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 420
+[20:31:50] (INFO) Found 2 pokemon to transfer...
+[20:31:51] (TRANSFER) Pidgey 138 V |  335 Cp | 49.08% | Lvl 20 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 588
+[20:31:54] (TRANSFER) Pidgey 102 V |  188 Cp | 27.54% | Lvl 12 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 589
+[20:31:57] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:32:00] (POKESTOP) Faculty of Dentistry in 80.21 m distance
+[20:32:00] (NAVIGATION) Distance to target location: 80.21 meters. Will take 9.96 seconds driving at 29kmh
+[20:32:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:32:09] (POKESTOP) NUS Faculty of Dentistry in 91.52 m distance
+[20:32:09] (NAVIGATION) Distance to target location: 91.52 meters. Will take 10.98 seconds driving at 30kmh
+[20:32:19] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:32:20] (POKESTOP) CMMAC in 302.83 m distance
+[20:32:20] (NAVIGATION) Distance to target location: 302.83 meters. Will take 19.82 seconds driving at 55kmh
+[20:32:22] (INFO) Found 1 catchable Pokemon
+[20:32:24] (Wild Success) | Pidgey 87 V |   92 Cp | 32.76% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
