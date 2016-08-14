@@ -30724,3 +30724,8 @@
 [13:43:48] (NAVIGATION) Distance to target location: 81.21 meters. Will take 9.14 seconds driving at 32kmh
 [13:43:53] (INFO) Found 1 catchable Pokemon
 [13:43:55] (Wild Success) | Weedle 76 V |   44 Cp | 17.43% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[13:43:56] (INFO) Found 1 pokemon to transfer...
+[13:43:57] (TRANSFER) Weedle 76 V |   44 Cp | 17.43% | Lvl 05 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 539
+[13:44:00] (INFO) Found 1 catchable Pokemon
+[13:44:01] (BERRY) ItemRazzBerry used, remaining: 48
+[13:44:02] (Wild Success) | Pidgeot 207 V |  710 Cp | 45.62% | Lvl 13 | Chance: 0.1 | with a GreatBall and received XP 210
