@@ -40968,3 +40968,9 @@
 [00:51:52] (INFO) Found 1 catchable Pokemon
 [00:51:54] (BERRY) ItemRazzBerry used, remaining: 49
 [00:51:55] (Wild Success) | Pikachu 159 V |  385 Cp | 55.84% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
+[00:51:57] (INFO) Found 1 pokemon to transfer...
+[00:51:58] (TRANSFER) Pikachu 154 V |  466 Cp | 32.31% | Lvl 22 | Best: [Pikachu 159 V |  385 Cp | 55.84% | Lvl 17] | Candy: 50
+[00:51:59] (POKESTOP) Trapped Humanoid in 75.95 m distance
+[00:51:59] (NAVIGATION) Distance to target location: 75.95 meters. Will take 9.43 seconds driving at 29kmh
+[00:52:00] (INFO) Found 2 catchable Pokemon
+[00:52:02] (Wild Success) | Paras 146 V |  214 Cp | 65.06% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
