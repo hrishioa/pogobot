@@ -43380,3 +43380,7 @@
 [02:02:22] (NAVIGATION) Distance to target location: 383.43 meters. Will take 19.72 seconds driving at 70kmh
 [02:02:24] (INFO) Found 1 catchable Pokemon
 [02:02:26] (Wild Success) | Pikachu 114 V |  267 Cp | 22.17% | Lvl 13 | Chance: 0.16 | with a UltraBall and received XP 210
+[02:02:27] (INFO) Found 1 pokemon to transfer...
+[02:02:29] (TRANSFER) Pikachu 114 V |  267 Cp | 22.17% | Lvl 13 | Best: [Pikachu 163 V |  515 Cp | 36.29% | Lvl 24] | Candy: 90
+[02:02:38] (INFO) Found 2 catchable Pokemon
+[02:02:39] (Wild Success) | Magneton 129 V |  129 Cp | 55.60% | Lvl 03 | Chance: 0.37 | with a GreatBall and received XP 210
