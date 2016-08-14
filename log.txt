@@ -37337,3 +37337,13 @@
 [22:52:58] (INFO) Found 2 catchable Pokemon
 [22:53:00] (Wild Success) | Weedle 72 V |  164 Cp | 24.18% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
 [22:53:01] (Wild Success) | Zubat 118 V |  215 Cp | 21.18% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[22:53:03] (INFO) Found 2 pokemon to transfer...
+[22:53:05] (TRANSFER) Zubat 118 V |  215 Cp | 21.18% | Lvl 15 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 672
+[22:53:07] (TRANSFER) Weedle 72 V |  164 Cp | 24.18% | Lvl 17 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 232
+[22:53:10] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[22:53:10] (ATTENTION) No locations in your area...
+[22:53:15] (INFO) Found 16 Pokestops
+[22:53:16] (POKESTOP) Fountain by the Sea in 418.7 m distance
+[22:53:16] (NAVIGATION) Distance to target location: 418.7 meters. Will take 21.53 seconds driving at 70kmh
+[22:53:35] (INFO) Found 1 catchable Pokemon
+[22:53:37] (Wild Success) | Magnemite 113 V |   11 Cp | 52.39% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
