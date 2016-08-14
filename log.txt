@@ -31664,3 +31664,18 @@
 [14:16:28] (NAVIGATION) Distance to target location: 102.89 meters. Will take 11.57 seconds driving at 32kmh
 [14:16:30] (INFO) Found 1 catchable Pokemon
 [14:16:32] (Wild Success) | Caterpie 120 V |  201 Cp | 50.39% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[14:16:34] (INFO) Found 1 pokemon to transfer...
+[14:16:35] (TRANSFER) Caterpie 105 V |  190 Cp | 35.84% | Lvl 19 | Best: [Caterpie 120 V |  201 Cp | 50.39% | Lvl 19] | Candy: 187
+[14:16:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:16:40] (POKESTOP) Retro Chess Table  in 75.15 m distance
+[14:16:40] (NAVIGATION) Distance to target location: 75.15 meters. Will take 9.33 seconds driving at 29kmh
+[14:16:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemGreatBall
+[14:16:48] (INFO) Found 3 Recyclable Items:
+[14:16:49] (RECYCLING) Potion x 2
+[14:16:50] (RECYCLING) SuperPotion x 1
+[14:16:52] (RECYCLING) Revive x 1
+[14:16:54] (POKESTOP) West Coast Park Sign in 83.16 m distance
+[14:16:54] (NAVIGATION) Distance to target location: 83.16 meters. Will take 9.36 seconds driving at 32kmh
+[14:16:59] (INFO) Found 1 catchable Pokemon
+[14:17:01] (BERRY) ItemRazzBerry used, remaining: 46
+[14:17:02] (Wild Success) | Pidgey 147 V |  365 Cp | 60.72% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
