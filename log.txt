@@ -38695,3 +38695,15 @@
 [23:40:21] (NAVIGATION) Distance to target location: 353.86 meters. Will take 19.9 seconds driving at 64kmh
 [23:40:29] (INFO) Found 1 catchable Pokemon
 [23:40:31] (Wild Success) | Magikarp 112 V |  114 Cp | 75.84% | Lvl 17 | Chance: 0.5 | with a PokeBall and received XP 210
+[23:40:32] (INFO) Found 1 pokemon to transfer...
+[23:40:34] (TRANSFER) Magikarp 112 V |  114 Cp | 75.84% | Lvl 17 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 269
+[23:40:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:40:41] (INFO) Found 4 Recyclable Items:
+[23:40:42] (RECYCLING) PokeBall x 3
+[23:40:43] (RECYCLING) Potion x 2
+[23:40:44] (RECYCLING) HyperPotion x 1
+[23:40:45] (RECYCLING) Revive x 1
+[23:40:47] (POKESTOP) Cove Gazebo #3 in 1414.09 m distance
+[23:40:47] (NAVIGATION) Distance to target location: 1414.09 meters. Will take 1.21 minutes driving at 70kmh
+[23:41:21] (INFO) Found 2 catchable Pokemon
+[23:41:23] (Wild Success) | Magikarp 89 V |   42 Cp | 59.71% | Lvl 07 | Chance: 0.8 | with a PokeBall and received XP 210
