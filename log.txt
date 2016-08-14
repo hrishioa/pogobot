@@ -36580,3 +36580,12 @@
 [22:27:38] (TRANSFER) NidoranMale 94 V |   32 Cp | 41.94% | Lvl 02 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 18
 [22:28:01] (INFO) Found 1 catchable Pokemon
 [22:28:03] (Wild Success) | Magnemite 118 V |  338 Cp | 33.55% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 710
+[22:28:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[22:28:07] (INFO) Found 3 Recyclable Items:
+[22:28:08] (RECYCLING) SuperPotion x 1
+[22:28:09] (RECYCLING) HyperPotion x 1
+[22:28:10] (RECYCLING) Revive x 2
+[22:28:12] (POKESTOP) Horseshoe Sculpture at Capella  in 338.57 m distance
+[22:28:12] (NAVIGATION) Distance to target location: 338.57 meters. Will take 19.98 seconds driving at 61kmh
+[22:28:31] (INFO) Found 1 catchable Pokemon
+[22:28:34] (Wild Success) | Sandshrew 108 V |  108 Cp | 30.26% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
