@@ -22182,3 +22182,10 @@
 [08:25:02] (NAVIGATION) Distance to target location: 53.43 meters. Will take 6.87 seconds driving at 28kmh
 [08:25:07] (INFO) Found 1 catchable Pokemon
 [08:25:09] (Wild Success) | Rattata 127 V |   22 Cp | 59.52% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[08:25:10] (INFO) Found 1 pokemon to transfer...
+[08:25:12] (TRANSFER) Rattata 127 V |   22 Cp | 59.52% | Lvl 02 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 601
+[08:25:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 2 x ItemPokeBall
+[08:25:14] (POKESTOP) Sagittarius Jewels in 81.98 m distance
+[08:25:14] (NAVIGATION) Distance to target location: 81.98 meters. Will take 9.84 seconds driving at 30kmh
+[08:25:21] (INFO) Found 1 catchable Pokemon
+[08:25:22] (Wild Success) | Pidgey 119 V |  277 Cp | 40.74% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
