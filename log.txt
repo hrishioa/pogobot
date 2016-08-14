@@ -42030,3 +42030,9 @@
 [01:23:09] (INFO) Found 2 catchable Pokemon
 [01:23:10] (Wild Success) | Poliwag 87 V |   87 Cp | 25.68% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [01:23:12] (Wild Success) | Goldeen 124 V |  239 Cp | 42.77% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[01:23:13] (INFO) Found 2 pokemon to transfer...
+[01:23:15] (TRANSFER) Goldeen 124 V |  239 Cp | 42.77% | Lvl 10 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 225
+[01:23:17] (TRANSFER) Poliwag 87 V |   87 Cp | 25.68% | Lvl 05 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 168
+[01:23:18] (INFO) Found 3 catchable Pokemon
+[01:23:20] (BERRY) ItemRazzBerry used, remaining: 49
+[01:23:21] (Wild Success) | Voltorb 179 V |  439 Cp | 65.47% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
