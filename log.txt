@@ -38356,3 +38356,7 @@
 [23:27:57] (INFO) Found 1 catchable Pokemon
 [23:27:59] (BERRY) ItemRazzBerry used, remaining: 43
 [23:27:59] (Wild Success) | Magnemite 155 V |  445 Cp | 51.32% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[23:28:01] (INFO) Found 1 pokemon to transfer...
+[23:28:02] (TRANSFER) Magnemite 151 V |  180 Cp | 60.70% | Lvl 08 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 42
+[23:28:11] (INFO) Found 1 catchable Pokemon
+[23:28:12] (Wild Success) | Voltorb 182 V |  162 Cp | 96.37% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
