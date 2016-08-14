@@ -40959,3 +40959,12 @@
 [00:51:30] (NAVIGATION) Distance to target location: 45.48 meters. Will take 5.12 seconds driving at 32kmh
 [00:51:32] (INFO) Found 1 catchable Pokemon
 [00:51:33] (Wild Success) | Krabby 160 V |  340 Cp | 76.35% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:51:35] (INFO) Found 1 pokemon to transfer...
+[00:51:37] (TRANSFER) Krabby 160 V |  340 Cp | 76.35% | Lvl 16 | Best: [Krabby 170 V |  320 Cp | 78.72% | Lvl 15] | Candy: 154
+[00:51:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:51:42] (POKESTOP) Tu Tank Hamen Statue in 95.33 m distance
+[00:51:42] (NAVIGATION) Distance to target location: 95.33 meters. Will take 11.83 seconds driving at 29kmh
+[00:51:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:51:52] (INFO) Found 1 catchable Pokemon
+[00:51:54] (BERRY) ItemRazzBerry used, remaining: 49
+[00:51:55] (Wild Success) | Pikachu 159 V |  385 Cp | 55.84% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
