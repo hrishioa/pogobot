@@ -38667,3 +38667,15 @@
 [23:39:02] (INFO) Found 1 catchable Pokemon
 [23:39:03] (BERRY) ItemRazzBerry used, remaining: 43
 [23:39:04] (Wild Success) | Tentacool 94 V |  457 Cp | 33.51% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[23:39:06] (INFO) Found 1 pokemon to transfer...
+[23:39:07] (TRANSFER) Tentacool 94 V |  457 Cp | 33.51% | Lvl 21 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 48
+[23:39:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemHyperPotion, 1 x ItemPotion, 1 x ItemUltraBall
+[23:39:12] (POKESTOP) Giant Painted Art in 65.55 m distance
+[23:39:12] (NAVIGATION) Distance to target location: 65.55 meters. Will take 8.14 seconds driving at 29kmh
+[23:39:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPotion, 1 x ItemUltraBall
+[23:39:20] (ATTENTION) No locations in your area...
+[23:39:25] (INFO) Found 4 Pokestops
+[23:39:26] (POKESTOP) Jars of Clay in 196.72 m distance
+[23:39:26] (NAVIGATION) Distance to target location: 196.72 meters. Will take 19.67 seconds driving at 36kmh
+[23:39:32] (INFO) Found 1 catchable Pokemon
+[23:39:33] (Wild Success) | Horsea 141 V |  140 Cp | 64.52% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
