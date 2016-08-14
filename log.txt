@@ -30989,3 +30989,21 @@
 [13:53:20] (TRANSFER) Caterpie 102 V |  233 Cp | 28.76% | Lvl 24 | Best: [Caterpie 119 V |  190 Cp | 49.77% | Lvl 18] | Candy: 179
 [13:53:21] (INFO) Found 1 catchable Pokemon
 [13:53:23] (Wild Success) | Pidgey 88 V |  106 Cp | 26.93% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[13:53:24] (INFO) Found 1 pokemon to transfer...
+[13:53:26] (TRANSFER) Pidgey 88 V |  106 Cp | 26.93% | Lvl 07 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1234
+[13:53:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[13:53:29] (POKESTOP) Jungle Walkpath in 38.37 m distance
+[13:53:29] (NAVIGATION) Distance to target location: 38.37 meters. Will take 4.46 seconds driving at 31kmh
+[13:53:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 2 x ItemPokeBall
+[13:53:34] (POKESTOP) Volleyball Arena in 138.04 m distance
+[13:53:34] (NAVIGATION) Distance to target location: 138.04 meters. Will take 15.53 seconds driving at 32kmh
+[13:53:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[13:53:49] (INFO) Found 4 Recyclable Items:
+[13:53:50] (RECYCLING) PokeBall x 7
+[13:53:51] (RECYCLING) Potion x 3
+[13:53:52] (RECYCLING) SuperPotion x 1
+[13:53:53] (RECYCLING) Revive x 2
+[13:53:55] (POKESTOP) West Coast Park Amphitheatre in 177.09 m distance
+[13:53:55] (NAVIGATION) Distance to target location: 177.09 meters. Will take 19.92 seconds driving at 32kmh
+[13:54:01] (INFO) Found 1 catchable Pokemon
+[13:54:03] (Wild Success) | Pidgey 113 V |   62 Cp | 52.44% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
