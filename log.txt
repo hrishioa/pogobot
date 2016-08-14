@@ -42560,3 +42560,20 @@
 [01:40:16] (NAVIGATION) Distance to target location: 70.1 meters. Will take 9.01 seconds driving at 28kmh
 [01:40:22] (INFO) Found 1 catchable Pokemon
 [01:40:23] (Wild Success) | Magikarp 114 V |   75 Cp | 80.54% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
+[01:40:25] (INFO) Found 1 pokemon to transfer...
+[01:40:26] (TRANSFER) Magikarp 90 V |   97 Cp | 54.98% | Lvl 16 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 389
+[01:40:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPotion, 1 x ItemUltraBall
+[01:40:29] (POKESTOP) Oscar and Co in 68.89 m distance
+[01:40:29] (NAVIGATION) Distance to target location: 68.89 meters. Will take 8.86 seconds driving at 28kmh
+[01:40:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:40:37] (POKESTOP) Giant Egypt Statue in 658.08 m distance
+[01:40:37] (NAVIGATION) Distance to target location: 658.08 meters. Will take 33.84 seconds driving at 70kmh
+[01:41:10] (INFO) Found 1 catchable Pokemon
+[01:41:12] (BERRY) ItemRazzBerry used, remaining: 50
+[01:41:12] (Wild Escape) | Pikachu 135 V |  400 Cp | 30.20% | Lvl 19 | Chance: 0.13 | with a UltraBall 
+[01:41:13] (BERRY) ItemRazzBerry used, remaining: 49
+[01:41:13] (Wild Success Attempt #2) | Pikachu 135 V |  400 Cp | 30.20% | Lvl 19 | Chance: 0.13 | with a UltraBall 
+[01:41:15] (INFO) Found 1 pokemon to transfer...
+[01:41:17] (TRANSFER) Pikachu 135 V |  400 Cp | 30.20% | Lvl 19 | Best: [Pikachu 159 V |  385 Cp | 55.84% | Lvl 17] | Candy: 78
+[01:41:19] (INFO) Found 1 catchable Pokemon
+[01:41:20] (Wild Success) | Rattata 119 V |  212 Cp | 30.60% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
