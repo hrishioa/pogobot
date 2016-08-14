@@ -39028,3 +39028,22 @@
 [23:53:18] (NAVIGATION) Distance to target location: 239.51 meters. Will take 19.6 seconds driving at 44kmh
 [23:53:27] (INFO) Found 1 catchable Pokemon
 [23:53:28] (Wild Success) | Pidgey 109 V |  129 Cp | 40.95% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:53:30] (INFO) Found 1 pokemon to transfer...
+[23:53:32] (TRANSFER) Pidgey 109 V |  129 Cp | 40.95% | Lvl 08 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 669
+[23:53:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[23:53:37] (ATTENTION) No locations in your area...
+[23:53:43] (INFO) Found 5 Pokestops
+[23:53:43] (POKESTOP) Corda Mauro in 117.44 m distance
+[23:53:43] (NAVIGATION) Distance to target location: 117.44 meters. Will take 14.09 seconds driving at 30kmh
+[23:53:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall
+[23:53:57] (POKESTOP) 4 Greetings Flamingos in 183.75 m distance
+[23:53:57] (NAVIGATION) Distance to target location: 183.75 meters. Will take 19.46 seconds driving at 34kmh
+[23:54:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:54:16] (INFO) Found 3 Recyclable Items:
+[23:54:16] (RECYCLING) RazzBerry x 2
+[23:54:17] (RECYCLING) PokeBall x 6
+[23:54:19] (RECYCLING) Revive x 1
+[23:54:21] (POKESTOP) Obelisk in 513.28 m distance
+[23:54:21] (NAVIGATION) Distance to target location: 513.28 meters. Will take 26.4 seconds driving at 70kmh
+[23:54:34] (INFO) Found 1 catchable Pokemon
+[23:54:35] (Wild Success) | Weedle 95 V |   89 Cp | 31.00% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
