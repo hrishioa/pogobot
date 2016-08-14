@@ -37894,3 +37894,33 @@
 [23:10:42] (TRANSFER) Magikarp 96 V |   63 Cp | 64.77% | Lvl 10 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 245
 [23:10:43] (INFO) Found 1 catchable Pokemon
 [23:10:44] (Wild Success) | Magikarp 120 V |  157 Cp | 78.83% | Lvl 23 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:10:46] (INFO) Found 1 pokemon to transfer...
+[23:10:48] (TRANSFER) Magikarp 120 V |  157 Cp | 78.83% | Lvl 23 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 249
+[23:10:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[23:10:51] (ATTENTION) No locations in your area...
+[23:10:56] (INFO) Found 5 Pokestops
+[23:10:57] (POKESTOP) 4 Greetings Flamingos in 351.8 m distance
+[23:10:57] (NAVIGATION) Distance to target location: 351.8 meters. Will take 19.79 seconds driving at 64kmh
+[23:11:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[23:11:19] (POKESTOP) Malay Wall Lady in 298.09 m distance
+[23:11:19] (NAVIGATION) Distance to target location: 298.09 meters. Will take 19.87 seconds driving at 54kmh
+[23:11:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[23:11:38] (INFO) Found 3 Recyclable Items:
+[23:11:39] (RECYCLING) PokeBall x 6
+[23:11:40] (RECYCLING) Potion x 2
+[23:11:40] (RECYCLING) HyperPotion x 1
+[23:11:44] (POKESTOP) Animal Statue in 97.85 m distance
+[23:11:44] (NAVIGATION) Distance to target location: 97.85 meters. Will take 12.58 seconds driving at 28kmh
+[23:11:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:11:56] (POKESTOP) Children Playground in 176.7 m distance
+[23:11:56] (NAVIGATION) Distance to target location: 176.7 meters. Will take 19.88 seconds driving at 32kmh
+[23:12:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[23:12:16] (POKESTOP) Giant Bowl Water Fountain  in 79.99 m distance
+[23:12:16] (NAVIGATION) Distance to target location: 79.99 meters. Will take 9 seconds driving at 32kmh
+[23:12:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[23:12:24] (INFO) Found 2 Pokestops
+[23:12:25] (POKESTOP) Corda Mauro in 582.81 m distance
+[23:12:25] (NAVIGATION) Distance to target location: 582.81 meters. Will take 29.97 seconds driving at 70kmh
+[23:12:30] (INFO) Found 1 catchable Pokemon
+[23:12:32] (BERRY) ItemRazzBerry used, remaining: 47
+[23:12:32] (Wild Success) | Voltorb 183 V |  480 Cp | 62.95% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
