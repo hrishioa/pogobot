@@ -44923,3 +44923,13 @@
 [02:51:51] (NAVIGATION) Distance to target location: 69.18 meters. Will take 7.78 seconds driving at 32kmh
 [02:51:56] (INFO) Found 1 catchable Pokemon
 [02:51:58] (Wild Success) | Ekans 123 V |  199 Cp | 38.46% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:52:00] (INFO) Found 1 pokemon to transfer...
+[02:52:01] (TRANSFER) Ekans 123 V |  199 Cp | 38.46% | Lvl 10 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 130
+[02:52:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemHyperPotion
+[02:52:03] (POKESTOP) Labrador Performance Gazebo  in 74.31 m distance
+[02:52:03] (NAVIGATION) Distance to target location: 74.31 meters. Will take 9.55 seconds driving at 28kmh
+[02:52:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:52:13] (POKESTOP) Labrador Nature Reserve in 146.65 m distance
+[02:52:13] (NAVIGATION) Distance to target location: 146.65 meters. Will take 18.2 seconds driving at 29kmh
+[02:52:23] (INFO) Found 1 catchable Pokemon
+[02:52:25] (Wild Success) | Zubat 128 V |   26 Cp | 75.29% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
