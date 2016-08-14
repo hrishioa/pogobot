@@ -43000,3 +43000,13 @@
 [01:51:45] (NAVIGATION) Distance to target location: 73.3 meters. Will take 9.1 seconds driving at 29kmh
 [01:51:51] (INFO) Found 1 catchable Pokemon
 [01:51:52] (Wild Success) | Caterpie 90 V |   97 Cp | 29.69% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[01:51:54] (INFO) Found 1 pokemon to transfer...
+[01:51:55] (TRANSFER) Caterpie 90 V |   97 Cp | 29.69% | Lvl 10 | Best: [Caterpie 120 V |  148 Cp | 49.77% | Lvl 14] | Candy: 185
+[01:51:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:51:59] (POKESTOP) In the Mood for Intimacy in 223.04 m distance
+[01:51:59] (NAVIGATION) Distance to target location: 223.04 meters. Will take 19.58 seconds driving at 41kmh
+[01:52:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:52:19] (POKESTOP) Seahorse Hideaway  in 141.56 m distance
+[01:52:19] (NAVIGATION) Distance to target location: 141.56 meters. Will take 17.57 seconds driving at 29kmh
+[01:52:26] (INFO) Found 1 catchable Pokemon
+[01:52:27] (Wild Success) | Magnemite 135 V |  241 Cp | 46.50% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
