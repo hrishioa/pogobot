@@ -45185,3 +45185,8 @@
 [03:00:49] (INFO) Found 1 catchable Pokemon
 [03:00:50] (BERRY) ItemRazzBerry used, remaining: 46
 [03:00:52] (Wild Success) | Psyduck 126 V |  504 Cp | 23.72% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[03:00:53] (INFO) Found 1 pokemon to transfer...
+[03:00:55] (TRANSFER) Psyduck 126 V |  504 Cp | 23.72% | Lvl 19 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 193
+[03:00:56] (INFO) Found 1 catchable Pokemon
+[03:00:57] (BERRY) ItemRazzBerry used, remaining: 45
+[03:00:58] (Wild Success) | Psyduck 152 V |  534 Cp | 26.84% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
