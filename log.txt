@@ -31167,3 +31167,10 @@
 [13:58:18] (NAVIGATION) Distance to target location: 86.72 meters. Will take 11.15 seconds driving at 28kmh
 [13:58:20] (INFO) Found 1 catchable Pokemon
 [13:58:22] (Wild Success) | Zubat 123 V |  285 Cp | 49.85% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[13:58:24] (INFO) Found 1 pokemon to transfer...
+[13:58:25] (TRANSFER) Zubat 123 V |  285 Cp | 49.85% | Lvl 18 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 906
+[13:58:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:58:30] (POKESTOP) Republic of Singapore Yacht Club Entrance in 352.79 m distance
+[13:58:30] (NAVIGATION) Distance to target location: 352.79 meters. Will take 19.84 seconds driving at 64kmh
+[13:58:33] (INFO) Found 1 catchable Pokemon
+[13:58:35] (Wild Success) | Staryu 125 V |   90 Cp | 66.24% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
