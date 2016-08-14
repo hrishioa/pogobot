@@ -33406,3 +33406,8 @@
 [20:34:20] (NAVIGATION) Distance to target location: 280.61 meters. Will take 19.81 seconds driving at 51kmh
 [20:34:36] (INFO) Found 1 catchable Pokemon
 [20:34:38] (Wild Success) | Bulbasaur 120 V |  285 Cp | 30.06% | Lvl 11 | Chance: 0.18 | with a UltraBall and received XP 420
+[20:34:43] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:34:44] (POKESTOP) Catherine's Healing Garden in 71.99 m distance
+[20:34:44] (NAVIGATION) Distance to target location: 71.99 meters. Will take 8.64 seconds driving at 30kmh
+[20:34:50] (INFO) Found 2 catchable Pokemon
+[20:34:52] (Wild Success) | Spearow 120 V |  276 Cp | 55.38% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
