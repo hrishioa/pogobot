@@ -39379,3 +39379,50 @@
 [00:05:18] (NAVIGATION) Distance to target location: 35.2 meters. Will take 4.22 seconds driving at 30kmh
 [00:05:20] (INFO) Found 1 catchable Pokemon
 [00:05:21] (Wild Success) | Magikarp 97 V |  113 Cp | 61.46% | Lvl 18 | Chance: 0.49 | with a GreatBall and received XP 210
+[00:05:23] (INFO) Found 1 pokemon to transfer...
+[00:05:25] (TRANSFER) Magikarp 97 V |  113 Cp | 61.46% | Lvl 18 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 293
+[00:05:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:05:27] (INFO) Found 2 Recyclable Items:
+[00:05:27] (RECYCLING) PokeBall x 12
+[00:05:28] (RECYCLING) Potion x 1
+[00:05:31] (POKESTOP) Ports of Lost Wonders Ship in 59.69 m distance
+[00:05:31] (NAVIGATION) Distance to target location: 59.69 meters. Will take 7.41 seconds driving at 29kmh
+[00:05:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:05:38] (POKESTOP) Old Pelican with a  New Twist in 89.61 m distance
+[00:05:38] (NAVIGATION) Distance to target location: 89.61 meters. Will take 11.52 seconds driving at 28kmh
+[00:05:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:05:50] (POKESTOP) Rainbow Sticks Sculpture in 37.92 m distance
+[00:05:50] (NAVIGATION) Distance to target location: 37.92 meters. Will take 4.27 seconds driving at 32kmh
+[00:05:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[00:05:54] (POKESTOP) Bikini Lady with Hat in 191.5 m distance
+[00:05:54] (NAVIGATION) Distance to target location: 191.5 meters. Will take 19.7 seconds driving at 35kmh
+[00:06:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[00:06:15] (POKESTOP) Fruit Lady Totem in 55.6 m distance
+[00:06:15] (NAVIGATION) Distance to target location: 55.6 meters. Will take 6.46 seconds driving at 31kmh
+[00:06:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:06:21] (INFO) Found 2 Recyclable Items:
+[00:06:22] (RECYCLING) PokeBall x 10
+[00:06:23] (RECYCLING) Revive x 1
+[00:06:26] (POKESTOP) Palawan Beach Map in 92.16 m distance
+[00:06:26] (NAVIGATION) Distance to target location: 92.16 meters. Will take 10.7 seconds driving at 31kmh
+[00:06:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:06:36] (POKESTOP) Ice Cream  in 43.04 m distance
+[00:06:36] (NAVIGATION) Distance to target location: 43.04 meters. Will take 5 seconds driving at 31kmh
+[00:06:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemUltraBall
+[00:06:41] (POKESTOP) Arid Garden in 63.54 m distance
+[00:06:41] (NAVIGATION) Distance to target location: 63.54 meters. Will take 7.15 seconds driving at 32kmh
+[00:06:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemPotion
+[00:06:49] (POKESTOP) Southern Most Point Of Continental Asia  in 77.34 m distance
+[00:06:49] (NAVIGATION) Distance to target location: 77.34 meters. Will take 9.6 seconds driving at 29kmh
+[00:06:57] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[00:06:57] (ATTENTION) No locations in your area...
+[00:07:03] (INFO) Found 23 Pokestops
+[00:07:04] (POKESTOP) Pomegranate Ice Kachang See Saw in 430.98 m distance
+[00:07:04] (NAVIGATION) Distance to target location: 430.98 meters. Will take 22.16 seconds driving at 70kmh
+[00:07:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:07:28] (INFO) Found 3 Recyclable Items:
+[00:07:29] (RECYCLING) PokeBall x 6
+[00:07:30] (RECYCLING) Potion x 1
+[00:07:32] (RECYCLING) Revive x 2
+[00:07:34] (INFO) Found 1 catchable Pokemon
+[00:07:36] (Wild Success) | Meowth 109 V |  125 Cp | 41.90% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
