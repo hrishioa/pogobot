@@ -29298,3 +29298,236 @@
 [12:46:38] (NAVIGATION) Distance to target location: 82.67 meters. Will take 9.92 seconds driving at 30kmh
 [12:46:40] (INFO) Found 2 catchable Pokemon
 [12:46:41] (Wild Success) | Zubat 88 V |  202 Cp | 23.15% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 310
+[12:46:42] (BERRY) ItemRazzBerry used, remaining: 47
+[12:46:43] (Wild Escape) | Weepinbell 235 V | 1011 Cp | 62.18% | Lvl 22 | Chance: 0.15 | with a GreatBall 
+[12:46:44] (BERRY) ItemRazzBerry used, remaining: 46
+[12:46:44] (Wild Escape Attempt #2) | Weepinbell 235 V | 1011 Cp | 62.18% | Lvl 22 | Chance: 0.15 | with a GreatBall 
+[12:46:45] (BERRY) ItemRazzBerry used, remaining: 45
+[12:46:46] (Wild Success Attempt #3) | Weepinbell 235 V | 1011 Cp | 62.18% | Lvl 22 | Chance: 0.15 | with a GreatBall 
+[12:46:48] (INFO) Found 1 pokemon to transfer...
+[12:46:49] (TRANSFER) Zubat 88 V |  202 Cp | 23.15% | Lvl 14 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 862
+[12:46:51] (INFO) Found 2 catchable Pokemon
+[12:46:52] (Wild Flee) | Bulbasaur 100 V |   89 Cp | 5.65% | Lvl 04 | Chance: 0.31 | with a UltraBall 
+[12:46:54] (Wild Flee) | Nidorino 150 V |  588 Cp | 38.72% | Lvl 17 | Chance: 0.18 | with a UltraBall 
+[12:46:57] (POKESTOP) Kent Ridge Hall in 164.62 m distance
+[12:46:57] (NAVIGATION) Distance to target location: 164.62 meters. Will take 19.75 seconds driving at 30kmh
+[12:47:16] (POKESTOP) Benjamin Henry Sheares in 89.73 m distance
+[12:47:16] (NAVIGATION) Distance to target location: 89.73 meters. Will take 11.14 seconds driving at 29kmh
+[12:47:25] (INFO) Found 1 catchable Pokemon
+[12:47:26] (Wild Flee) | Eevee 159 V |  424 Cp | 62.44% | Lvl 15 | Chance: 0.3 | with a PokeBall 
+[12:47:29] (POKESTOP) Blueprints Embedded On Stone in 270.8 m distance
+[12:47:29] (NAVIGATION) Distance to target location: 270.8 meters. Will take 19.9 seconds driving at 49kmh
+[12:47:49] (POKESTOP) NUS Graduate Pot in 87.25 m distance
+[12:47:49] (NAVIGATION) Distance to target location: 87.25 meters. Will take 10.47 seconds driving at 30kmh
+[12:47:51] (INFO) Found 1 catchable Pokemon
+[12:47:52] (SOFT BAN) Detected a soft ban, let's chill out a moment.
+[12:47:52] (Wild Flee) | Nidorino 145 V |  503 Cp | 56.49% | Lvl 14 | Chance: 0.2 | with a PokeBall 
+[12:47:58] (POKESTOP) NUS 1962-1980 in 72.83 m distance
+[12:47:58] (NAVIGATION) Distance to target location: 72.83 meters. Will take 8.74 seconds driving at 30kmh
+[12:48:04] (POKESTOP) Tiled Falls in 71.51 m distance
+[12:48:04] (NAVIGATION) Distance to target location: 71.51 meters. Will take 8.58 seconds driving at 30kmh
+[12:48:11] (POKESTOP) NUS Model in 42.56 m distance
+[12:48:11] (NAVIGATION) Distance to target location: 42.56 meters. Will take 4.79 seconds driving at 32kmh
+[12:48:14] (POKESTOP) The Deck at Arts Faculty in 119.9 m distance
+[12:48:14] (NAVIGATION) Distance to target location: 119.9 meters. Will take 14.88 seconds driving at 29kmh
+[12:48:26] (POKESTOP) Fragrant Plant Garden in 92.89 m distance
+[12:48:26] (NAVIGATION) Distance to target location: 92.89 meters. Will take 11.53 seconds driving at 29kmh
+[12:48:36] (POKESTOP) Park Gazebos in 51.12 m distance
+[12:48:36] (NAVIGATION) Distance to target location: 51.12 meters. Will take 5.75 seconds driving at 32kmh
+[12:48:39] (POKESTOP) Footprint Bench in 168.2 m distance
+[12:48:39] (NAVIGATION) Distance to target location: 168.2 meters. Will take 19.53 seconds driving at 31kmh
+[12:48:56] (POKESTOP) Ventus in 103.02 m distance
+[12:48:56] (NAVIGATION) Distance to target location: 103.02 meters. Will take 12.36 seconds driving at 30kmh
+[12:49:07] (POKESTOP) Heritage Time Arc in 68.6 m distance
+[12:49:07] (NAVIGATION) Distance to target location: 68.6 meters. Will take 8.52 seconds driving at 29kmh
+[12:49:13] ====== User Info ======
+[12:49:13] Name: Toonistic
+[12:49:13] Team: Blue
+[12:49:13] Level: 25 (LvLUp in 4h 43m | 52708/190000 XP)
+[12:49:13] Pokemon: 152
+[12:49:13] Stardust: 73262
+[12:49:13] ====== Items (329) ======
+[12:49:13] RazzBerry x 45
+[12:49:13] PokeBall x 49
+[12:49:13] GreatBall x 44
+[12:49:13] UltraBall x 13
+[12:49:13] Potion x 32
+[12:49:13] SuperPotion x 50
+[12:49:13] HyperPotion x 59
+[12:49:13] MaxPotion x 3
+[12:49:13] IncubatorBasicUnlimited x 1
+[12:49:13] IncubatorBasic x 0
+[12:49:13] Revive x 26
+[12:49:13] IncenseOrdinary x 2
+[12:49:13] LuckyEgg x 0
+[12:49:13] TroyDisk x 5
+[12:49:13] ====== Most Valuable ======
+[12:49:13] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[12:49:13] *Vaporeon           316 True Value | 1905 Cp | 75.82% Perfect | Lvl 25 | WaterGun/WaterPulse
+[12:49:13] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[12:49:13] Poliwrath           297 True Value | 1667 Cp | 65.99% Perfect | Lvl 25 | MudShot/IcePunch
+[12:49:13] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[12:49:13] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[12:49:13] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[12:49:13] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[12:49:13] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[12:49:13] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[12:49:13] Dodrio              247 True Value | 1006 Cp | 76.06% Perfect | Lvl 20 | FeintAttack/DrillPeck
+[12:49:13] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[12:49:13] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[12:49:13] Electrode           246 True Value |  786 Cp | 59.99% Perfect | Lvl 18 | Spark/HyperBeam
+[12:49:14] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[12:49:17] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[12:49:20] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
+[12:49:23] Venomoth            234 True Value |  784 Cp | 81.20% Perfect | Lvl 15 | BugBite/BugBuzz
+[12:49:26] Exeggcute           231 True Value |  681 Cp | 93.48% Perfect | Lvl 22 | Confusion/Psychic
+[12:49:29] Bulbasaur           229 True Value |  609 Cp | 97.81% Perfect | Lvl 20 | Tackle/SludgeBomb
+[12:49:32] ====== Highest CP ======
+[12:49:32] *Vaporeon           316 True Value | 1905 Cp | 75.82% Perfect | Lvl 25 | WaterGun/WaterPulse
+[12:49:33] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[12:49:34] Poliwrath           297 True Value | 1667 Cp | 65.99% Perfect | Lvl 25 | MudShot/IcePunch
+[12:49:35] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[12:49:35] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[12:49:36] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[12:49:37] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[12:49:38] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[12:49:39] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[12:49:40] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[12:49:41] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[12:49:42] Golbat              218 True Value | 1062 Cp | 52.40% Perfect | Lvl 21 | WingAttack/AirCutter
+[12:49:42] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[12:49:43] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[12:49:44] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
+[12:49:45] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
+[12:49:46] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
+[12:49:47] Dodrio              247 True Value | 1006 Cp | 76.06% Perfect | Lvl 20 | FeintAttack/DrillPeck
+[12:49:48] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[12:49:49] Primeape            197 True Value |  955 Cp | 66.48% Perfect | Lvl 19 | LowKick/NightSlash
+[12:49:50] ====== Most Perfect Genetics ======
+[12:50:00] Bulbasaur           229 True Value |  609 Cp | 97.81% Perfect | Lvl 20 | Tackle/SludgeBomb
+[12:50:00] Goldeen             216 True Value |  597 Cp | 93.69% Perfect | Lvl 22 | Peck/AquaTail
+[12:50:00] Exeggcute           231 True Value |  681 Cp | 93.48% Perfect | Lvl 22 | Confusion/Psychic
+[12:50:00] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[12:50:00] Exeggcute           208 True Value |  616 Cp | 91.38% Perfect | Lvl 20 | Confusion/AncientPower
+[12:50:00] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[12:50:00] Meowth              172 True Value |  231 Cp | 89.05% Perfect | Lvl 11 | Scratch/DarkPulse
+[12:50:00] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[12:50:00] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[12:50:00] Eevee               179 True Value |  236 Cp | 87.71% Perfect | Lvl 08 | Tackle/BodySlam
+[12:50:00] Poliwag             183 True Value |  440 Cp | 87.21% Perfect | Lvl 20 | Bubble/MudBomb
+[12:50:00] Paras               200 True Value |  431 Cp | 86.95% Perfect | Lvl 17 | BugBite/SeedBomb
+[12:50:01] Abra                200 True Value |  329 Cp | 86.76% Perfect | Lvl 20 | ZenHeadbutt/Psyshock
+[12:50:02] Mankey              196 True Value |  485 Cp | 86.20% Perfect | Lvl 20 | KarateChop/BrickBreak
+[12:50:03] Aerodactyl          173 True Value |  221 Cp | 86.15% Perfect | Lvl 04 | SteelWing/AncientPower
+[12:50:04] Weepinbell          204 True Value |  379 Cp | 86.13% Perfect | Lvl 08 | Acid/PowerWhip
+[12:50:05] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[12:50:05] Voltorb             208 True Value |  462 Cp | 85.08% Perfect | Lvl 20 | Spark/Thunderbolt
+[12:50:06] Electrode           169 True Value |  119 Cp | 84.90% Perfect | Lvl 03 | Spark/Discharge
+[12:50:07] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[12:50:10] (POKESTOP) Corridor of Love Mural in 104.59 m distance
+[12:50:10] (NAVIGATION) Distance to target location: 104.59 meters. Will take 12.55 seconds driving at 30kmh
+[12:50:20] (POKESTOP) Eusoff Hall in 68.67 m distance
+[12:50:20] (NAVIGATION) Distance to target location: 68.67 meters. Will take 8.52 seconds driving at 29kmh
+[12:50:26] (POKESTOP) Eusoff Freshies Corner in 120.03 m distance
+[12:50:26] (NAVIGATION) Distance to target location: 120.03 meters. Will take 14.4 seconds driving at 30kmh
+[12:52:11] (FATAL ERROR) Unhandled exception encountered: A task was canceled..
+[12:52:11] (ATTENTION) Restarting the application due to error...
+[12:52:11] (INFO) Logging in via: Google
+[12:52:12] (INFO) Client logged in
+[12:52:12] (INFO) Found 74 Pokestops
+[12:52:12] (POKESTOP) Eusoff Hall in 20.8 m distance
+[12:52:12] (NAVIGATION) Distance to target location: 20.8 meters. Will take 2.58 seconds driving at 29kmh
+[12:52:14] (POKESTOP) Corridor of Love Mural in 64.71 m distance
+[12:52:14] (NAVIGATION) Distance to target location: 64.71 meters. Will take 7.77 seconds driving at 30kmh
+[12:52:20] (POKESTOP) Heritage Time Arc in 90.47 m distance
+[12:52:20] (NAVIGATION) Distance to target location: 90.47 meters. Will take 10.51 seconds driving at 31kmh
+[12:52:28] (POKESTOP) Ventus in 96.97 m distance
+[12:52:28] (NAVIGATION) Distance to target location: 96.97 meters. Will take 11.64 seconds driving at 30kmh
+[12:52:38] (POKESTOP) Footprint Bench in 82.11 m distance
+[12:52:38] (NAVIGATION) Distance to target location: 82.11 meters. Will take 9.24 seconds driving at 32kmh
+[12:52:45] (POKESTOP) NUS monolith in 96.76 m distance
+[12:52:45] (NAVIGATION) Distance to target location: 96.76 meters. Will take 11.61 seconds driving at 30kmh
+[12:52:54] (POKESTOP) Metal Robot Structure in 148.52 m distance
+[12:52:54] (NAVIGATION) Distance to target location: 148.52 meters. Will take 17.25 seconds driving at 31kmh
+[12:53:09] (POKESTOP) Abstact Sculptures At NUS in 125.61 m distance
+[12:53:09] (NAVIGATION) Distance to target location: 125.61 meters. Will take 15.59 seconds driving at 29kmh
+[12:53:22] (POKESTOP) SDE Mural in 111.25 m distance
+[12:53:22] (NAVIGATION) Distance to target location: 111.25 meters. Will take 12.52 seconds driving at 32kmh
+[12:53:32] (POKESTOP) Center for English Language Communication in 114.57 m distance
+[12:53:32] (NAVIGATION) Distance to target location: 114.57 meters. Will take 13.3 seconds driving at 31kmh
+[12:53:43] (POKESTOP) NUS Central Library in 163.56 m distance
+[12:53:43] (NAVIGATION) Distance to target location: 163.56 meters. Will take 19.63 seconds driving at 30kmh
+[12:54:01] (POKESTOP) Survival Mask in 61.32 m distance
+[12:54:01] (NAVIGATION) Distance to target location: 61.32 meters. Will take 7.36 seconds driving at 30kmh
+[12:54:06] (POKESTOP) Lucy's Left Ear in 72.92 m distance
+[12:54:06] (NAVIGATION) Distance to target location: 72.92 meters. Will take 8.75 seconds driving at 30kmh
+[12:54:12] (POKESTOP) First the Dream Then the Nightmare in 56.23 m distance
+[12:54:12] (NAVIGATION) Distance to target location: 56.23 meters. Will take 6.33 seconds driving at 32kmh
+[12:54:17] (POKESTOP) Compounds of Five Cubes in 92.08 m distance
+[12:54:17] (NAVIGATION) Distance to target location: 92.08 meters. Will take 11.43 seconds driving at 29kmh
+[12:54:25] (POKESTOP) Synergy in Motion in 144.96 m distance
+[12:54:25] (NAVIGATION) Distance to target location: 144.96 meters. Will take 18.64 seconds driving at 28kmh
+[12:54:41] (POKESTOP) Sage In Shaw in 45.5 m distance
+[12:54:41] (NAVIGATION) Distance to target location: 45.5 meters. Will take 5.46 seconds driving at 30kmh
+[12:54:44] (POKESTOP) Biological Atom in 68.77 m distance
+[12:54:44] (NAVIGATION) Distance to target location: 68.77 meters. Will take 8.25 seconds driving at 30kmh
+[12:54:50] (POKESTOP) NUS Historial Plaques in 93.21 m distance
+[12:54:50] (NAVIGATION) Distance to target location: 93.21 meters. Will take 10.82 seconds driving at 31kmh
+[12:54:59] (POKESTOP) Tree of Benevolence in 73.21 m distance
+[12:54:59] (NAVIGATION) Distance to target location: 73.21 meters. Will take 8.79 seconds driving at 30kmh
+[12:55:06] (POKESTOP) Mochtar Riady Building in 71.51 m distance
+[12:55:06] (NAVIGATION) Distance to target location: 71.51 meters. Will take 8.05 seconds driving at 32kmh
+[12:55:12] (POKESTOP) SeSaMe Center in 69.38 m distance
+[12:55:12] (NAVIGATION) Distance to target location: 69.38 meters. Will take 8.33 seconds driving at 30kmh
+[12:55:18] (POKESTOP) Kent Ridge Hall in 76.04 m distance
+[12:55:18] (NAVIGATION) Distance to target location: 76.04 meters. Will take 8.83 seconds driving at 31kmh
+[12:55:25] (POKESTOP) Benjamin Henry Sheares in 108.91 m distance
+[12:55:25] (NAVIGATION) Distance to target location: 108.91 meters. Will take 12.65 seconds driving at 31kmh
+[12:55:35] (POKESTOP) Institute of Systems Science in 140.08 m distance
+[12:55:35] (NAVIGATION) Distance to target location: 140.08 meters. Will take 16.81 seconds driving at 30kmh
+[12:55:49] (POKESTOP) Beautiful Waterfall in 131.78 m distance
+[12:55:49] (NAVIGATION) Distance to target location: 131.78 meters. Will take 16.94 seconds driving at 28kmh
+[12:56:04] (POKESTOP) Beacon of Hope in 103.28 m distance
+[12:56:04] (NAVIGATION) Distance to target location: 103.28 meters. Will take 13.28 seconds driving at 28kmh
+[12:56:15] (POKESTOP) Moai Statue at APEC Secretariat in 93.27 m distance
+[12:56:15] (NAVIGATION) Distance to target location: 93.27 meters. Will take 10.83 seconds driving at 31kmh
+[12:56:24] (POKESTOP) Salvation Army Sign in 271.87 m distance
+[12:56:24] (NAVIGATION) Distance to target location: 271.87 meters. Will take 19.97 seconds driving at 49kmh
+[12:56:43] (POKESTOP) Gold Coast Fountain of Wealth in 163.44 m distance
+[12:56:43] (NAVIGATION) Distance to target location: 163.44 meters. Will take 19.61 seconds driving at 30kmh
+[12:57:00] (POKESTOP) Nazareth Bible-Presbyterian Church in 82.31 m distance
+[12:57:00] (NAVIGATION) Distance to target location: 82.31 meters. Will take 9.88 seconds driving at 30kmh
+[12:57:07] (POKESTOP) Waterfall Fountain in 278.88 m distance
+[12:57:07] (NAVIGATION) Distance to target location: 278.88 meters. Will take 19.69 seconds driving at 51kmh
+[12:57:26] (POKESTOP) Keio Cute Center in 86.38 m distance
+[12:57:26] (NAVIGATION) Distance to target location: 86.38 meters. Will take 10.72 seconds driving at 29kmh
+[12:57:34] (POKESTOP) NUS Business School in 56.09 m distance
+[12:57:34] (NAVIGATION) Distance to target location: 56.09 meters. Will take 6.73 seconds driving at 30kmh
+[12:57:39] (POKESTOP) IMRE in 118.83 m distance
+[12:57:39] (NAVIGATION) Distance to target location: 118.83 meters. Will take 14.75 seconds driving at 29kmh
+[12:57:51] (POKESTOP) Temasek Lifesciences Laboratory in 174.44 m distance
+[12:57:51] (NAVIGATION) Distance to target location: 174.44 meters. Will take 19.62 seconds driving at 32kmh
+[12:58:09] (POKESTOP) Water Tank in 158.92 m distance
+[12:58:09] (NAVIGATION) Distance to target location: 158.92 meters. Will take 19.73 seconds driving at 29kmh
+[12:58:26] (POKESTOP) S1A Garden in 154.54 m distance
+[12:58:26] (NAVIGATION) Distance to target location: 154.54 meters. Will take 19.18 seconds driving at 29kmh
+[12:58:43] (POKESTOP) CRISP & TMSI in 439.57 m distance
+[12:58:43] (NAVIGATION) Distance to target location: 439.57 meters. Will take 22.61 seconds driving at 70kmh
+[12:59:06] (POKESTOP) Centre For Development Of Teaching And Learning in 107.73 m distance
+[12:59:06] (NAVIGATION) Distance to target location: 107.73 meters. Will take 12.93 seconds driving at 30kmh
+[12:59:16] (POKESTOP) Chinese Scholar Painting in 66.6 m distance
+[12:59:16] (NAVIGATION) Distance to target location: 66.6 meters. Will take 8.56 seconds driving at 28kmh
+[12:59:22] (POKESTOP) Locked in Tricked Out in 88.33 m distance
+[12:59:22] (NAVIGATION) Distance to target location: 88.33 meters. Will take 9.94 seconds driving at 32kmh
+[12:59:30] (POKESTOP) NUS Engineering in 70.06 m distance
+[12:59:30] (NAVIGATION) Distance to target location: 70.06 meters. Will take 9.01 seconds driving at 28kmh
+[12:59:36] (POKESTOP) Through this Jungle in 101.05 m distance
+[12:59:36] (NAVIGATION) Distance to target location: 101.05 meters. Will take 12.13 seconds driving at 30kmh
+[12:59:47] (POKESTOP) Fire Painting  in 95.2 m distance
+[12:59:47] (NAVIGATION) Distance to target location: 95.2 meters. Will take 11.06 seconds driving at 31kmh
+[12:59:55] (POKESTOP) NUSSU Sign in 126.68 m distance
+[12:59:55] (NAVIGATION) Distance to target location: 126.68 meters. Will take 14.25 seconds driving at 32kmh
+[13:00:08] (SOFT BAN) The ban was lifted after 00:12:15.4468250!
+[13:00:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[13:00:08] (INFO) Found 3 catchable Pokemon
+[13:00:10] (Wild Success) | Eevee 175 V |  111 Cp | 96.75% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
