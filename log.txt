@@ -39165,3 +39165,4 @@
 [23:59:17] (NAVIGATION) Distance to target location: 134.42 meters. Will take 16.13 seconds driving at 30kmh
 [23:59:23] (INFO) Found 2 catchable Pokemon
 [23:59:25] (Wild Success) | Zubat 124 V |  318 Cp | 36.87% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[23:59:26] (Wild Success) | Voltorb 148 V |  331 Cp | 44.62% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
