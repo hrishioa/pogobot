@@ -45459,3 +45459,11 @@
 [03:09:59] (NAVIGATION) Distance to target location: 152.89 meters. Will take 18.35 seconds driving at 30kmh
 [03:10:11] (INFO) Found 1 catchable Pokemon
 [03:10:13] (Wild Success) | Zubat 113 V |   91 Cp | 49.39% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[03:10:15] (INFO) Found 1 pokemon to transfer...
+[03:10:16] (TRANSFER) Zubat 113 V |   91 Cp | 49.39% | Lvl 06 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 744
+[03:10:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[03:10:20] (POKESTOP) Block 74 Playground in 87.37 m distance
+[03:10:20] (NAVIGATION) Distance to target location: 87.37 meters. Will take 9.83 seconds driving at 32kmh
+[03:10:24] (INFO) Found 1 catchable Pokemon
+[03:10:26] (BERRY) ItemRazzBerry used, remaining: 41
+[03:10:27] (Wild Success) | Golbat 174 V |  654 Cp | 48.91% | Lvl 13 | Chance: 0.16 | with a GreatBall and received XP 210
