@@ -40394,3 +40394,12 @@
 [00:36:55] (INFO) Found 1 catchable Pokemon
 [00:36:56] (BERRY) ItemRazzBerry used, remaining: 48
 [00:36:57] (Wild Success) | Pikachu 156 V |  480 Cp | 42.82% | Lvl 22 | Chance: 0.12 | with a UltraBall and received XP 210
+[00:36:59] (INFO) Found 1 pokemon to transfer...
+[00:37:00] (TRANSFER) Pikachu 144 V |  370 Cp | 42.07% | Lvl 17 | Best: [Pikachu 156 V |  480 Cp | 42.82% | Lvl 22] | Candy: 46
+[00:37:01] (POKESTOP) Lord Farquad Coat of Arms in 55.12 m distance
+[00:37:01] (NAVIGATION) Distance to target location: 55.12 meters. Will take 7.09 seconds driving at 28kmh
+[00:37:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:37:07] (POKESTOP) Ogre Adventure in 56.72 m distance
+[00:37:07] (NAVIGATION) Distance to target location: 56.72 meters. Will take 6.81 seconds driving at 30kmh
+[00:37:09] (INFO) Found 1 catchable Pokemon
+[00:37:10] (Wild Success) | Magnemite 189 V |  422 Cp | 69.57% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
