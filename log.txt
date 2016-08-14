@@ -35821,3 +35821,32 @@
 [22:00:31] (NAVIGATION) Distance to target location: 64.92 meters. Will take 8.35 seconds driving at 28kmh
 [22:00:36] (INFO) Found 1 catchable Pokemon
 [22:00:37] (Wild Success) | Zubat 117 V |   10 Cp | 50.73% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:00:39] (INFO) Found 1 pokemon to transfer...
+[22:00:40] (TRANSFER) Zubat 117 V |   10 Cp | 50.73% | Lvl 01 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 1034
+[22:00:42] (POKESTOP) West Coast Community Centre in 96.68 m distance
+[22:00:42] (NAVIGATION) Distance to target location: 96.68 meters. Will take 12 seconds driving at 29kmh
+[22:00:54] (POKESTOP) Clementi Bible Center in 69.63 m distance
+[22:00:54] (NAVIGATION) Distance to target location: 69.63 meters. Will take 8.09 seconds driving at 31kmh
+[22:01:01] (POKESTOP) West Coast Park Connector in 47.61 m distance
+[22:01:01] (NAVIGATION) Distance to target location: 47.61 meters. Will take 5.36 seconds driving at 32kmh
+[22:01:07] (POKESTOP) Clementi Woods Park in 60.15 m distance
+[22:01:07] (NAVIGATION) Distance to target location: 60.15 meters. Will take 6.77 seconds driving at 32kmh
+[22:01:13] (POKESTOP) Clementi Woods Fitness Corner in 107.52 m distance
+[22:01:13] (NAVIGATION) Distance to target location: 107.52 meters. Will take 13.35 seconds driving at 29kmh
+[22:01:26] (POKESTOP) Clementi Woods Playground in 162.51 m distance
+[22:01:26] (NAVIGATION) Distance to target location: 162.51 meters. Will take 18.28 seconds driving at 32kmh
+[22:01:44] (POKESTOP) Masjid Tentera Di Raja in 410.53 m distance
+[22:01:44] (NAVIGATION) Distance to target location: 410.53 meters. Will take 21.11 seconds driving at 70kmh
+[22:02:07] (POKESTOP) Abstact Sculptures At NUS in 126.37 m distance
+[22:02:07] (NAVIGATION) Distance to target location: 126.37 meters. Will take 15.16 seconds driving at 30kmh
+[22:02:21] (POKESTOP) Metal Robot Structure in 127.83 m distance
+[22:02:21] (NAVIGATION) Distance to target location: 127.83 meters. Will take 15.87 seconds driving at 29kmh
+[22:02:38] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[22:02:38] (ATTENTION) Restarting the application due to error...
+[22:02:38] (INFO) Logging in via: Google
+[22:02:39] (INFO) Client logged in
+[22:02:39] (INFO) Found 94 Pokestops
+[22:02:40] (POKESTOP) Abstact Sculptures At NUS in 44.29 m distance
+[22:02:40] (NAVIGATION) Distance to target location: 44.29 meters. Will take 5.5 seconds driving at 29kmh
+[22:02:45] (INFO) Found 1 catchable Pokemon
+[22:02:47] (Wild Success) | Pidgey 99 V |   60 Cp | 42.66% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
