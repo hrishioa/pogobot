@@ -30896,3 +30896,4 @@
 [13:48:42] (BERRY) ItemRazzBerry used, remaining: 47
 [13:48:43] (Wild Success) | Rattata 161 V |  358 Cp | 65.13% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
 [13:48:45] (Wild Success) | Staryu 109 V |  134 Cp | 46.22% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[13:48:46] (Wild Success) | Pidgey 132 V |  304 Cp | 52.06% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
