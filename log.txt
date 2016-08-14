@@ -30201,3 +30201,9 @@
 [13:24:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
 [13:24:31] (INFO) Found 1 catchable Pokemon
 [13:24:33] (Wild Success) | Zubat 109 V |  109 Cp | 53.01% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[13:24:35] (INFO) Found 1 pokemon to transfer...
+[13:24:36] (TRANSFER) Zubat 109 V |  109 Cp | 53.01% | Lvl 07 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 890
+[13:24:37] (POKESTOP) Eusoff Freshies Corner in 241.54 m distance
+[13:24:37] (NAVIGATION) Distance to target location: 241.54 meters. Will take 19.76 seconds driving at 44kmh
+[13:24:38] (INFO) Found 1 catchable Pokemon
+[13:24:40] (Wild Success) | Venonat 158 V |  451 Cp | 55.76% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
