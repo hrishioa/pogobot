@@ -45659,3 +45659,14 @@
 [03:15:17] (NAVIGATION) Distance to target location: 332.92 meters. Will take 19.98 seconds driving at 60kmh
 [03:15:36] (INFO) Found 1 catchable Pokemon
 [03:15:37] (Wild Success) | Ekans 73 V |  173 Cp | 28.95% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[03:15:39] (INFO) Found 1 pokemon to transfer...
+[03:15:41] (TRANSFER) Ekans 73 V |  173 Cp | 28.95% | Lvl 09 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 146
+[03:15:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[03:15:43] (INFO) Found 3 Recyclable Items:
+[03:15:43] (RECYCLING) PokeBall x 9
+[03:15:45] (RECYCLING) Potion x 4
+[03:15:45] (RECYCLING) Revive x 2
+[03:15:48] (POKESTOP) Direction Sign  Halfway Along Creek in 272.27 m distance
+[03:15:48] (NAVIGATION) Distance to target location: 272.27 meters. Will take 19.6 seconds driving at 50kmh
+[03:16:01] (INFO) Found 1 catchable Pokemon
+[03:16:02] (Wild Success) | Magikarp 84 V |   10 Cp | 58.14% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
