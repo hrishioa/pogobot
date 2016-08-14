@@ -30554,3 +30554,18 @@
 [13:37:30] (TRANSFER) Spearow 75 V |   10 Cp | 24.35% | Lvl 01 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 329
 [13:37:31] (INFO) Found 1 catchable Pokemon
 [13:37:33] (Wild Success) | Bellsprout 77 V |   43 Cp | 44.00% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[13:37:35] (INFO) Found 1 pokemon to transfer...
+[13:37:36] (TRANSFER) Bellsprout 77 V |   43 Cp | 44.00% | Lvl 02 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 340
+[13:37:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemGreatBall
+[13:37:41] (POKESTOP) Pendulum White Shelter in 87.85 m distance
+[13:37:41] (NAVIGATION) Distance to target location: 87.85 meters. Will take 9.88 seconds driving at 32kmh
+[13:37:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[13:37:51] (POKESTOP) Safety English Chess Table in 85.58 m distance
+[13:37:51] (NAVIGATION) Distance to target location: 85.58 meters. Will take 9.94 seconds driving at 31kmh
+[13:37:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[13:38:00] (INFO) Found 3 Recyclable Items:
+[13:38:01] (RECYCLING) PokeBall x 4
+[13:38:02] (RECYCLING) Potion x 3
+[13:38:02] (RECYCLING) Revive x 3
+[13:38:05] (INFO) Found 1 catchable Pokemon
+[13:38:06] (Wild Success) | Bellsprout 116 V |  318 Cp | 56.97% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
