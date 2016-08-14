@@ -37530,3 +37530,10 @@
 [22:57:55] (NAVIGATION) Distance to target location: 83.65 meters. Will take 10.04 seconds driving at 30kmh
 [22:58:01] (INFO) Found 1 catchable Pokemon
 [22:58:02] (Wild Success) | Rattata 120 V |  304 Cp | 30.01% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
+[22:58:04] (INFO) Found 1 pokemon to transfer...
+[22:58:05] (TRANSFER) Rattata 120 V |  304 Cp | 30.01% | Lvl 23 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 320
+[22:58:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:58:10] (POKESTOP) Cove Arrival Plaza in 384.7 m distance
+[22:58:10] (NAVIGATION) Distance to target location: 384.7 meters. Will take 19.78 seconds driving at 70kmh
+[22:58:27] (INFO) Found 2 catchable Pokemon
+[22:58:29] (Wild Success) | Horsea 140 V |  278 Cp | 51.95% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
