@@ -37330,3 +37330,4 @@
 [22:52:40] (NAVIGATION) Distance to target location: 152.06 meters. Will take 17.66 seconds driving at 31kmh
 [22:52:48] (INFO) Found 2 catchable Pokemon
 [22:52:50] (Wild Success) | Caterpie 93 V |   58 Cp | 36.57% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[22:52:51] (Wild Success) | Voltorb 156 V |  223 Cp | 71.97% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
