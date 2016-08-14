@@ -44438,3 +44438,4 @@
 [02:35:20] (INFO) Found 2 catchable Pokemon
 [02:35:22] (BERRY) ItemRazzBerry used, remaining: 47
 [02:35:22] (Wild Success) | Horsea 149 V |  412 Cp | 47.81% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[02:35:24] (Wild Success) | Magikarp 102 V |  145 Cp | 62.63% | Lvl 23 | Chance: 0.43 | with a GreatBall and received XP 210
