@@ -37842,3 +37842,20 @@
 [23:08:38] (TRANSFER) Magikarp 96 V |  106 Cp | 60.31% | Lvl 17 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 233
 [23:08:39] (INFO) Found 1 catchable Pokemon
 [23:08:41] (Wild Success) | Tentacool 107 V |  254 Cp | 55.07% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[23:08:43] (INFO) Found 1 pokemon to transfer...
+[23:08:44] (TRANSFER) Tentacool 107 V |  254 Cp | 55.07% | Lvl 11 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 29
+[23:08:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemUltraBall
+[23:08:48] (POKESTOP) Giant Painted Art in 65.55 m distance
+[23:08:48] (NAVIGATION) Distance to target location: 65.55 meters. Will take 8.14 seconds driving at 29kmh
+[23:08:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[23:08:55] (ATTENTION) No locations in your area...
+[23:09:00] (INFO) Found 4 Pokestops
+[23:09:01] (POKESTOP) Jars of Clay in 200.17 m distance
+[23:09:01] (NAVIGATION) Distance to target location: 200.17 meters. Will take 19.48 seconds driving at 37kmh
+[23:09:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
+[23:09:20] (INFO) Found 3 Recyclable Items:
+[23:09:21] (RECYCLING) PokeBall x 6
+[23:09:22] (RECYCLING) Potion x 2
+[23:09:23] (RECYCLING) Revive x 2
+[23:09:25] (INFO) Found 2 catchable Pokemon
+[23:09:27] (Wild Success) | Magikarp 101 V |   10 Cp | 75.24% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
