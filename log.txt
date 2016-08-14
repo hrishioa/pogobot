@@ -45790,3 +45790,13 @@
 [03:21:46] (NAVIGATION) Distance to target location: 186.74 meters. Will take 19.77 seconds driving at 34kmh
 [03:22:01] (INFO) Found 1 catchable Pokemon
 [03:22:03] (Wild Success) | Zubat 112 V |  197 Cp | 36.50% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[03:22:05] (INFO) Found 1 pokemon to transfer...
+[03:22:06] (TRANSFER) Zubat 112 V |  197 Cp | 36.50% | Lvl 13 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 772
+[03:22:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:22:11] (POKESTOP) Our Shared Stories of Telok Blangah in 81.95 m distance
+[03:22:11] (NAVIGATION) Distance to target location: 81.95 meters. Will take 9.22 seconds driving at 32kmh
+[03:22:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[03:22:20] (POKESTOP) Sum Kee Guardian Lions in 197.93 m distance
+[03:22:20] (NAVIGATION) Distance to target location: 197.93 meters. Will take 19.79 seconds driving at 36kmh
+[03:22:22] (INFO) Found 1 catchable Pokemon
+[03:22:23] (Wild Success) | Spearow 117 V |  180 Cp | 38.74% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
