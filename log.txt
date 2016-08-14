@@ -34983,3 +34983,12 @@
 [21:26:01] (INFO) Found 2 catchable Pokemon
 [21:26:02] (Wild Success) | Zubat 103 V |   57 Cp | 46.55% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 420
 [21:26:04] (Wild Success) | Venonat 142 V |  414 Cp | 45.95% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
+[21:26:06] (INFO) Found 2 pokemon to transfer...
+[21:26:07] (TRANSFER) Zubat 103 V |   57 Cp | 46.55% | Lvl 04 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 966
+[21:26:10] (TRANSFER) Venonat 142 V |  414 Cp | 45.95% | Lvl 16 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 190
+[21:26:14] (POKESTOP) Tree Mural in 33.39 m distance
+[21:26:14] (NAVIGATION) Distance to target location: 33.39 meters. Will take 3.76 seconds driving at 32kmh
+[21:26:17] (POKESTOP) Happy Doctor Nurse and Patient in 83.44 m distance
+[21:26:17] (NAVIGATION) Distance to target location: 83.44 meters. Will take 9.69 seconds driving at 31kmh
+[21:26:26] (INFO) Found 1 catchable Pokemon
+[21:26:27] (Wild Success) | Spearow 113 V |  137 Cp | 59.09% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
