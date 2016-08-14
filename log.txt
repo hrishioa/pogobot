@@ -32146,3 +32146,17 @@
 [14:37:06] (NAVIGATION) Distance to target location: 98.38 meters. Will take 12.65 seconds driving at 28kmh
 [14:37:11] (INFO) Found 1 catchable Pokemon
 [14:37:13] (Wild Success) | Venonat 157 V |  190 Cp | 75.96% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[14:37:14] (INFO) Found 1 pokemon to transfer...
+[14:37:16] (TRANSFER) Venonat 157 V |  190 Cp | 75.96% | Lvl 07 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 186
+[14:37:18] (INFO) Found 1 catchable Pokemon
+[14:37:19] (BERRY) ItemRazzBerry used, remaining: 42
+[14:37:19] (Wild Escape) | Pidgey 124 V |  399 Cp | 33.64% | Lvl 25 | Chance: 0.29 | with a GreatBall 
+[14:37:20] (BERRY) ItemRazzBerry used, remaining: 41
+[14:37:21] (Wild Success Attempt #2) | Pidgey 124 V |  399 Cp | 33.64% | Lvl 25 | Chance: 0.29 | with a GreatBall 
+[14:37:23] (INFO) Found 1 pokemon to transfer...
+[14:37:24] (TRANSFER) Pidgey 124 V |  399 Cp | 33.64% | Lvl 25 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1326
+[14:37:27] (POKESTOP) Retro Chess Table  in 72.14 m distance
+[14:37:27] (NAVIGATION) Distance to target location: 72.14 meters. Will take 9.28 seconds driving at 28kmh
+[14:37:33] (INFO) Found 3 catchable Pokemon
+[14:37:33] (BERRY) ItemRazzBerry used, remaining: 40
+[14:37:35] (Wild Success) | Bellsprout 156 V |  621 Cp | 14.39% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
