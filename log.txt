@@ -34110,3 +34110,5 @@
 [21:00:16] (NAVIGATION) Distance to target location: 157.25 meters. Will take 18.26 seconds driving at 31kmh
 [21:00:19] (INFO) Found 1 catchable Pokemon
 [21:00:21] (Wild Success) | Koffing 154 V |  394 Cp | 63.14% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[21:00:26] (INFO) Found 2 catchable Pokemon
+[21:00:28] (Wild Success) | Bulbasaur 128 V |  260 Cp | 31.82% | Lvl 10 | Chance: 0.18 | with a UltraBall and received XP 210
