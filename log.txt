@@ -36880,3 +36880,22 @@
 [22:36:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [22:36:46] (INFO) Found 1 catchable Pokemon
 [22:36:47] (Wild Success) | Pikachu 102 V |  120 Cp | 25.01% | Lvl 06 | Chance: 0.24 | with a GreatBall and received XP 710
+[22:36:49] (POKESTOP) Dinosaur in 77 m distance
+[22:36:49] (NAVIGATION) Distance to target location: 77 meters. Will take 9.9 seconds driving at 28kmh
+[22:36:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 3 x ItemPokeBall
+[22:36:59] (POKESTOP) Egyptian Slaves in 42.26 m distance
+[22:36:59] (NAVIGATION) Distance to target location: 42.26 meters. Will take 5.07 seconds driving at 30kmh
+[22:37:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:37:05] (POKESTOP) Triple Flying Dino in 91.02 m distance
+[22:37:05] (NAVIGATION) Distance to target location: 91.02 meters. Will take 11.3 seconds driving at 29kmh
+[22:37:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:37:15] (POKESTOP) Hostile Raptor in 101.61 m distance
+[22:37:15] (NAVIGATION) Distance to target location: 101.61 meters. Will take 11.43 seconds driving at 32kmh
+[22:37:25] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[22:37:26] (INFO) Found 1 Recyclable Item:
+[22:37:27] (RECYCLING) PokeBall x 8
+[22:37:29] (POKESTOP) IOS Mural in 145.38 m distance
+[22:37:29] (NAVIGATION) Distance to target location: 145.38 meters. Will take 16.88 seconds driving at 31kmh
+[22:37:42] (INFO) Found 1 catchable Pokemon
+[22:37:43] (BERRY) ItemRazzBerry used, remaining: 39
+[22:37:44] (Wild Success) | Persian 205 V |  731 Cp | 56.63% | Lvl 17 | Chance: 0.14 | with a UltraBall and received XP 710
