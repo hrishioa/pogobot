@@ -45088,3 +45088,14 @@
 [02:56:47] (TRANSFER) Poliwag 131 V |  183 Cp | 60.56% | Lvl 09 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 192
 [02:56:49] (INFO) Found 1 catchable Pokemon
 [02:56:51] (Wild Success) | Pidgey 109 V |  207 Cp | 33.36% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[02:56:52] (INFO) Found 1 pokemon to transfer...
+[02:56:54] (TRANSFER) Pidgey 109 V |  207 Cp | 33.36% | Lvl 13 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 776
+[02:56:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:56:57] (INFO) Found 2 Recyclable Items:
+[02:56:57] (RECYCLING) PokeBall x 5
+[02:56:58] (RECYCLING) Potion x 2
+[02:57:00] (POKESTOP) Telok Blangah Drive Playground in 71.38 m distance
+[02:57:00] (NAVIGATION) Distance to target location: 71.38 meters. Will take 8.03 seconds driving at 32kmh
+[02:57:03] (INFO) Found 2 catchable Pokemon
+[02:57:04] (BERRY) ItemRazzBerry used, remaining: 45
+[02:57:05] (Wild Success) | Staryu 207 V |  560 Cp | 98.55% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
