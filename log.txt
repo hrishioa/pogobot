@@ -40032,3 +40032,7 @@
 [00:26:28] (INFO) Found 1 catchable Pokemon
 [00:26:29] (BERRY) ItemRazzBerry used, remaining: 49
 [00:26:30] (Wild Success) | Charmander 139 V |  403 Cp | 43.93% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
+[00:26:32] (POKESTOP) Adam & Eve in 76.08 m distance
+[00:26:32] (NAVIGATION) Distance to target location: 76.08 meters. Will take 9.13 seconds driving at 30kmh
+[00:26:34] (INFO) Found 1 catchable Pokemon
+[00:26:35] (Wild Success) | Magnemite 135 V |  334 Cp | 51.79% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
