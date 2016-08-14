@@ -35210,3 +35210,12 @@
 [21:33:09] (Wild Success) | Psyduck 155 V |  199 Cp | 62.91% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
 [21:33:10] (BERRY) ItemRazzBerry used, remaining: 44
 [21:33:12] (Wild Success) | Golbat 157 V |  641 Cp | 37.85% | Lvl 13 | Chance: 0.16 | with a UltraBall and received XP 210
+[21:33:13] (INFO) Found 2 pokemon to transfer...
+[21:33:15] (TRANSFER) Golbat 157 V |  641 Cp | 37.85% | Lvl 13 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 978
+[21:33:17] (TRANSFER) Psyduck 155 V |  199 Cp | 62.91% | Lvl 07 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 109
+[21:33:21] (POKESTOP) Centre For Development Of Teaching And Learning in 59.77 m distance
+[21:33:21] (NAVIGATION) Distance to target location: 59.77 meters. Will take 6.94 seconds driving at 31kmh
+[21:33:27] (POKESTOP) Chinese Women Painting in 92.96 m distance
+[21:33:27] (NAVIGATION) Distance to target location: 92.96 meters. Will take 11.54 seconds driving at 29kmh
+[21:33:31] (INFO) Found 1 catchable Pokemon
+[21:33:33] (Wild Success) | Weedle 65 V |   15 Cp | 31.40% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
