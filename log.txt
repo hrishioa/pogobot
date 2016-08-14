@@ -33727,3 +33727,13 @@
 [20:46:35] (NAVIGATION) Distance to target location: 82.68 meters. Will take 9.92 seconds driving at 30kmh
 [20:46:37] (INFO) Found 1 catchable Pokemon
 [20:46:39] (Wild Success) | Spearow 112 V |  102 Cp | 62.48% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 420
+[20:46:41] (INFO) Found 1 pokemon to transfer...
+[20:46:43] (TRANSFER) Spearow 112 V |  102 Cp | 62.48% | Lvl 06 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 211
+[20:46:46] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[20:46:47] (INFO) Found 1 Recyclable Item:
+[20:46:47] (RECYCLING) Revive x 1
+[20:46:50] (POKESTOP) ckNS–TaU—^ in 64.84 m distance
+[20:46:50] (NAVIGATION) Distance to target location: 64.84 meters. Will take 7.29 seconds driving at 32kmh
+[20:46:51] (INFO) Found 1 catchable Pokemon
+[20:46:52] (BERRY) ItemRazzBerry used, remaining: 43
+[20:46:53] (Wild Success) | Staryu 164 V |  531 Cp | 59.36% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
