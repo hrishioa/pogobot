@@ -37816,3 +37816,12 @@
 [23:07:19] (NAVIGATION) Distance to target location: 145.09 meters. Will take 18.65 seconds driving at 28kmh
 [23:07:29] (INFO) Found 1 catchable Pokemon
 [23:07:31] (Wild Success) | Squirtle 111 V |  341 Cp | 31.67% | Lvl 14 | Chance: 0.16 | with a UltraBall and received XP 210
+[23:07:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:07:36] (INFO) Found 4 Recyclable Items:
+[23:07:37] (RECYCLING) PokeBall x 6
+[23:07:37] (RECYCLING) Potion x 2
+[23:07:38] (RECYCLING) HyperPotion x 1
+[23:07:39] (RECYCLING) Revive x 1
+[23:07:41] (INFO) Found 1 catchable Pokemon
+[23:07:43] (BERRY) ItemRazzBerry used, remaining: 45
+[23:07:44] (Wild Success) | Ponyta 205 V |  814 Cp | 43.89% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
