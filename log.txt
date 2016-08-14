@@ -35548,3 +35548,30 @@
 [21:48:04] (TRANSFER) Poliwhirl 141 V |  310 Cp | 51.27% | Lvl 09 | Best: [Poliwhirl 161 V |  390 Cp | 62.06% | Lvl 11] | Candy: 219
 [21:48:05] (INFO) Found 1 catchable Pokemon
 [21:48:07] (Wild Success) | Poliwag 112 V |  174 Cp | 43.01% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[21:48:09] (INFO) Found 1 pokemon to transfer...
+[21:48:10] (TRANSFER) Poliwag 112 V |  174 Cp | 43.01% | Lvl 09 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 223
+[21:48:13] (POKESTOP) Clementi Woods Fitness Corner in 179.34 m distance
+[21:48:13] (NAVIGATION) Distance to target location: 179.34 meters. Will take 19.56 seconds driving at 33kmh
+[21:48:33] (POKESTOP) Ten Two Six in 291.59 m distance
+[21:48:33] (NAVIGATION) Distance to target location: 291.59 meters. Will take 19.81 seconds driving at 53kmh
+[21:48:51] (INFO) Found 1 catchable Pokemon
+[21:48:53] (Wild Escape) | Zubat 111 V |  217 Cp | 43.56% | Lvl 14 | Chance: 0.4 | with a PokeBall 
+[21:48:54] (Wild Success Attempt #2) | Zubat 111 V |  217 Cp | 43.56% | Lvl 14 | Chance: 0.4 | with a PokeBall 
+[21:48:56] (INFO) Found 1 pokemon to transfer...
+[21:48:58] (TRANSFER) Zubat 111 V |  217 Cp | 43.56% | Lvl 14 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 1030
+[21:49:01] (POKESTOP) Veranda Sculpture in 47.24 m distance
+[21:49:01] (NAVIGATION) Distance to target location: 47.24 meters. Will take 6.07 seconds driving at 28kmh
+[21:49:07] (POKESTOP) West Coast Fan in 251.6 m distance
+[21:49:07] (NAVIGATION) Distance to target location: 251.6 meters. Will take 19.69 seconds driving at 46kmh
+[21:49:27] (POKESTOP) ERC UTown Benefactors in 306.87 m distance
+[21:49:27] (NAVIGATION) Distance to target location: 306.87 meters. Will take 19.73 seconds driving at 56kmh
+[21:49:47] (POKESTOP) Swimming Pool @ Utown in 38.58 m distance
+[21:49:47] (NAVIGATION) Distance to target location: 38.58 meters. Will take 4.79 seconds driving at 29kmh
+[21:49:52] (POKESTOP) Education Resource Centre in 79.24 m distance
+[21:49:52] (NAVIGATION) Distance to target location: 79.24 meters. Will take 8.91 seconds driving at 32kmh
+[21:50:00] (POKESTOP) Central Park at SRC in 82.25 m distance
+[21:50:00] (NAVIGATION) Distance to target location: 82.25 meters. Will take 9.87 seconds driving at 30kmh
+[21:50:10] (POKESTOP) Create in 94.06 m distance
+[21:50:10] (NAVIGATION) Distance to target location: 94.06 meters. Will take 12.09 seconds driving at 28kmh
+[21:50:13] (INFO) Found 1 catchable Pokemon
+[21:50:16] (Wild Success) | Magikarp 61 V |   83 Cp | 27.51% | Lvl 16 | Chance: 0.52 | with a PokeBall and received XP 210
