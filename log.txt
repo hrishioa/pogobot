@@ -42731,3 +42731,22 @@
 [01:43:53] (INFO) Found 1 catchable Pokemon
 [01:43:54] (BERRY) ItemRazzBerry used, remaining: 49
 [01:43:54] (Wild Success) | Ekans 84 V |  441 Cp | 25.92% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[01:43:56] (INFO) Found 1 pokemon to transfer...
+[01:43:58] (TRANSFER) Ekans 84 V |  441 Cp | 25.92% | Lvl 23 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 110
+[01:44:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[01:44:42] (INFO) Found 3 Recyclable Items:
+[01:44:43] (RECYCLING) PokeBall x 9
+[01:44:44] (RECYCLING) SuperPotion x 1
+[01:44:45] (RECYCLING) Revive x 2
+[01:44:46] (INFO) Found 81 Pokestops
+[01:44:48] (POKESTOP) Giant Crab Anatomy in 71.33 m distance
+[01:44:48] (NAVIGATION) Distance to target location: 71.33 meters. Will take 8.03 seconds driving at 32kmh
+[01:44:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:44:54] (POKESTOP) Dolphins Lagoon Suite in 96.24 m distance
+[01:44:54] (NAVIGATION) Distance to target location: 96.24 meters. Will take 10.83 seconds driving at 32kmh
+[01:45:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
+[01:45:06] (POKESTOP) The Great White Shark in 112.99 m distance
+[01:45:06] (NAVIGATION) Distance to target location: 112.99 meters. Will take 13.56 seconds driving at 30kmh
+[01:45:14] (INFO) Found 2 catchable Pokemon
+[01:45:14] (BERRY) ItemRazzBerry used, remaining: 48
+[01:45:16] (Wild Success) | Paras 163 V |  416 Cp | 50.71% | Lvl 18 | Chance: 0.28 | with a GreatBall and received XP 210
