@@ -33377,3 +33377,10 @@
 [20:32:55] (NAVIGATION) Distance to target location: 92.54 meters. Will take 10.75 seconds driving at 31kmh
 [20:33:02] (INFO) Found 1 catchable Pokemon
 [20:33:04] (Wild Success) | Horsea 149 V |   56 Cp | 81.06% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
+[20:33:06] (INFO) Found 1 pokemon to transfer...
+[20:33:07] (TRANSFER) Horsea 130 V |  177 Cp | 50.50% | Lvl 09 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 29
+[20:33:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:33:12] (POKESTOP) Refugees (Flight II) in 140 m distance
+[20:33:12] (NAVIGATION) Distance to target location: 140 meters. Will take 16.26 seconds driving at 31kmh
+[20:33:23] (INFO) Found 1 catchable Pokemon
+[20:33:24] (Wild Success) | Meowth 143 V |   72 Cp | 66.23% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 420
