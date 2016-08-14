@@ -31911,3 +31911,11 @@
 [14:25:54] (TRANSFER) Pidgey 100 V |  262 Cp | 23.69% | Lvl 17 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1302
 [14:26:02] (INFO) Found 1 catchable Pokemon
 [14:26:04] (Wild Success) | Pidgey 79 V |   25 Cp | 36.51% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[14:26:06] (INFO) Found 1 pokemon to transfer...
+[14:26:08] (TRANSFER) Pidgey 79 V |   25 Cp | 36.51% | Lvl 02 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1306
+[14:26:08] (POKESTOP) Playground Between Block 709&712 in 54.89 m distance
+[14:26:08] (NAVIGATION) Distance to target location: 54.89 meters. Will take 6.17 seconds driving at 32kmh
+[14:26:14] (POKESTOP) Herbs Garden in 75.86 m distance
+[14:26:14] (NAVIGATION) Distance to target location: 75.86 meters. Will take 9.75 seconds driving at 28kmh
+[14:26:16] (INFO) Found 1 catchable Pokemon
+[14:26:18] (Wild Success) | Pidgey 83 V |   42 Cp | 38.65% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
