@@ -45124,3 +45124,4 @@
 [02:57:49] (TRANSFER) Sandshrew 134 V |  181 Cp | 56.29% | Lvl 09 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 78
 [02:57:50] (INFO) Found 2 catchable Pokemon
 [02:57:52] (Wild Success) | Zubat 116 V |  126 Cp | 53.16% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[02:57:53] (Wild Success) | Pidgey 103 V |   25 Cp | 46.43% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 310
