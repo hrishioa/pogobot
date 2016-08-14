@@ -44873,3 +44873,11 @@
 [02:49:25] (TRANSFER) Magikarp 70 V |   71 Cp | 37.64% | Lvl 13 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 453
 [02:49:27] (INFO) Found 1 catchable Pokemon
 [02:49:28] (Wild Success) | Magikarp 100 V |   65 Cp | 68.89% | Lvl 10 | Chance: 0.66 | with a PokeBall and received XP 210
+[02:49:30] (INFO) Found 1 pokemon to transfer...
+[02:49:31] (TRANSFER) Magikarp 100 V |   65 Cp | 68.89% | Lvl 10 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 457
+[02:49:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[02:49:35] (POKESTOP) Commemorative Plague for Opening of Upgraded Facilities in 151.48 m distance
+[02:49:35] (NAVIGATION) Distance to target location: 151.48 meters. Will take 19.48 seconds driving at 28kmh
+[02:49:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[02:49:54] (INFO) Found 1 catchable Pokemon
+[02:49:55] (Wild Success) | Rattata 116 V |   65 Cp | 44.70% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
