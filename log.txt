@@ -23119,3 +23119,9 @@
 [08:56:54] (Wild Success) | Zubat 110 V |   24 Cp | 47.67% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [08:56:55] (BERRY) ItemRazzBerry used, remaining: 50
 [08:56:56] (Wild Success) | Pidgey 139 V |  387 Cp | 50.15% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
+[08:56:57] (INFO) Found 3 pokemon to transfer...
+[08:56:59] (TRANSFER) Zubat 149 V |  327 Cp | 61.09% | Lvl 20 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 765
+[08:57:01] (TRANSFER) Zubat 110 V |   24 Cp | 47.67% | Lvl 02 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 766
+[08:57:04] (TRANSFER) Pidgey 139 V |  387 Cp | 50.15% | Lvl 23 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1059
+[08:57:05] (INFO) Found 1 catchable Pokemon
+[08:57:06] (Wild Success) | Zubat 153 V |   79 Cp | 70.47% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
