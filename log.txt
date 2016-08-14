@@ -45489,3 +45489,33 @@
 [03:11:12] (INFO) Found 1 catchable Pokemon
 [03:11:13] (BERRY) ItemRazzBerry used, remaining: 41
 [03:11:15] (Wild Success) | Ekans 121 V |  429 Cp | 64.21% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[03:11:16] (INFO) Found 1 pokemon to transfer...
+[03:11:18] (TRANSFER) Ekans 121 V |  429 Cp | 64.21% | Lvl 20 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 142
+[03:11:19] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 4 x ItemPokeBall
+[03:11:20] (POKESTOP) Sum Kee Guardian Lions in 199.37 m distance
+[03:11:20] (NAVIGATION) Distance to target location: 199.37 meters. Will take 19.94 seconds driving at 36kmh
+[03:11:32] (INFO) Found 1 catchable Pokemon
+[03:11:33] (BERRY) ItemRazzBerry used, remaining: 41
+[03:11:34] (Wild Escape) | Golbat 213 V |  968 Cp | 56.17% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[03:11:34] (BERRY) ItemRazzBerry used, remaining: 40
+[03:11:35] (Wild Success Attempt #2) | Golbat 213 V |  968 Cp | 56.17% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[03:11:37] (INFO) Found 1 pokemon to transfer...
+[03:11:39] (TRANSFER) Golbat 213 V |  968 Cp | 56.17% | Lvl 19 | Best: [Golbat 242 V | 1208 Cp | 61.50% | Lvl 24] | Candy: 756
+[03:11:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[03:11:43] (POKESTOP) Berlayer Creek in 362.93 m distance
+[03:11:43] (NAVIGATION) Distance to target location: 362.93 meters. Will take 19.8 seconds driving at 66kmh
+[03:12:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[03:12:04] (POKESTOP) CC27 Labrador Park MRT in 86.19 m distance
+[03:12:04] (NAVIGATION) Distance to target location: 86.19 meters. Will take 10.01 seconds driving at 31kmh
+[03:12:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[03:12:15] (POKESTOP) Alexandra Garden Trail in 92.09 m distance
+[03:12:15] (NAVIGATION) Distance to target location: 92.09 meters. Will take 10.69 seconds driving at 31kmh
+[03:12:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[03:12:25] (INFO) Found 3 Recyclable Items:
+[03:12:26] (RECYCLING) PokeBall x 11
+[03:12:26] (RECYCLING) Potion x 3
+[03:12:28] (RECYCLING) Revive x 1
+[03:12:30] (POKESTOP) Dolphin Water Feature in 90.07 m distance
+[03:12:30] (NAVIGATION) Distance to target location: 90.07 meters. Will take 10.81 seconds driving at 30kmh
+[03:12:36] (INFO) Found 1 catchable Pokemon
+[03:12:38] (Wild Success) | Zubat 134 V |  162 Cp | 57.73% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
