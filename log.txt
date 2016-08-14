@@ -37185,3 +37185,8 @@
 [22:46:37] (NAVIGATION) Distance to target location: 61.51 meters. Will take 7.14 seconds driving at 31kmh
 [22:46:40] (INFO) Found 1 catchable Pokemon
 [22:46:42] (Wild Success) | Drowzee 148 V |  104 Cp | 68.24% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 710
+[22:46:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[22:46:46] (POKESTOP) Beacon of Enlightenment  in 85.28 m distance
+[22:46:46] (NAVIGATION) Distance to target location: 85.28 meters. Will take 9.9 seconds driving at 31kmh
+[22:46:48] (INFO) Found 1 catchable Pokemon
+[22:46:49] (Wild Success) | Sandshrew 116 V |  112 Cp | 40.79% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
