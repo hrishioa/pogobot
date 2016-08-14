@@ -44410,3 +44410,4 @@
 [02:34:09] (Wild Success) | Voltorb 173 V |  452 Cp | 58.31% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
 [02:34:10] (Wild Success) | Rattata 117 V |  110 Cp | 45.80% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [02:34:12] (Wild Success) | Pidgey 112 V |  302 Cp | 32.35% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[02:34:14] (Wild Success) | Magnemite 153 V |  319 Cp | 59.04% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
