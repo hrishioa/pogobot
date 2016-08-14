@@ -31045,3 +31045,15 @@
 [13:55:23] (NAVIGATION) Distance to target location: 98.69 meters. Will take 12.69 seconds driving at 28kmh
 [13:55:25] (INFO) Found 1 catchable Pokemon
 [13:55:27] (Wild Success) | Bellsprout 85 V |   44 Cp | 52.02% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[13:55:29] (INFO) Found 1 pokemon to transfer...
+[13:55:31] (TRANSFER) Bellsprout 85 V |   44 Cp | 52.02% | Lvl 02 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 352
+[13:55:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[13:55:35] (POKESTOP) 4 Mega Zip Lines in 163.89 m distance
+[13:55:35] (NAVIGATION) Distance to target location: 163.89 meters. Will take 19.67 seconds driving at 30kmh
+[13:55:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[13:55:54] (ATTENTION) No locations in your area...
+[13:55:59] (INFO) Found 16 Pokestops
+[13:56:00] (POKESTOP) Focusing Coils in 457.79 m distance
+[13:56:00] (NAVIGATION) Distance to target location: 457.79 meters. Will take 23.54 seconds driving at 70kmh
+[13:56:13] (INFO) Found 1 catchable Pokemon
+[13:56:14] (Wild Success) | Rattata 119 V |   36 Cp | 48.28% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
