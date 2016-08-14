@@ -41759,3 +41759,8 @@
 [01:16:59] (INFO) Found 2 catchable Pokemon
 [01:17:01] (Wild Success) | Shellder 122 V |  123 Cp | 63.21% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [01:17:02] (Wild Success) | Mankey 95 V |   32 Cp | 34.51% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[01:17:04] (INFO) Found 2 pokemon to transfer...
+[01:17:06] (TRANSFER) Shellder 122 V |  123 Cp | 63.21% | Lvl 06 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 58
+[01:17:08] (TRANSFER) Mankey 95 V |   32 Cp | 34.51% | Lvl 02 | Best: [Mankey 141 V |  158 Cp | 67.79% | Lvl 07] | Candy: 29
+[01:17:09] (INFO) Found 1 catchable Pokemon
+[01:17:11] (Wild Success) | Rhyhorn 138 V |  314 Cp | 67.05% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
