@@ -34056,3 +34056,14 @@
 [20:57:34] (INFO) Found 2 catchable Pokemon
 [20:57:36] (Wild Success) | Pidgey 85 V |   41 Cp | 30.86% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
 [20:57:37] (Wild Success) | Weedle 84 V |   55 Cp | 23.31% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[20:57:39] (INFO) Found 2 pokemon to transfer...
+[20:57:40] (TRANSFER) Pidgey 85 V |   41 Cp | 30.86% | Lvl 03 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 641
+[20:57:43] (TRANSFER) Weedle 84 V |   55 Cp | 23.31% | Lvl 06 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 224
+[20:57:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:57:51] (POKESTOP) University Cultural Centre in 291.95 m distance
+[20:57:51] (NAVIGATION) Distance to target location: 291.95 meters. Will take 19.83 seconds driving at 53kmh
+[20:58:11] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:58:12] (POKESTOP) West Coast Fan in 372.24 m distance
+[20:58:12] (NAVIGATION) Distance to target location: 372.24 meters. Will take 19.71 seconds driving at 68kmh
+[20:58:31] (INFO) Found 1 catchable Pokemon
+[20:58:32] (Wild Success) | Psyduck 117 V |   71 Cp | 37.64% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
