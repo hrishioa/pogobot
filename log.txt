@@ -41441,3 +41441,29 @@
 [01:07:08] (INFO) Found 1 catchable Pokemon
 [01:07:09] (BERRY) ItemRazzBerry used, remaining: 49
 [01:07:11] (Wild Success) | Pidgeotto 140 V |  542 Cp | 31.49% | Lvl 18 | Chance: 0.17 | with a GreatBall and received XP 210
+[01:07:13] (INFO) Found 1 pokemon to transfer...
+[01:07:14] (TRANSFER) Pidgeotto 140 V |  542 Cp | 31.49% | Lvl 18 | Best: [Pidgeotto 203 V |  752 Cp | 68.00% | Lvl 23] | Candy: 704
+[01:07:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[01:07:17] (POKESTOP) IOS Mural in 37.93 m distance
+[01:07:17] (NAVIGATION) Distance to target location: 37.93 meters. Will take 4.88 seconds driving at 28kmh
+[01:07:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:07:22] (POKESTOP) Jurassic Waterfall in 133.65 m distance
+[01:07:22] (NAVIGATION) Distance to target location: 133.65 meters. Will take 15.52 seconds driving at 31kmh
+[01:07:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:07:37] (POKESTOP) Hostile Raptor in 60.24 m distance
+[01:07:37] (NAVIGATION) Distance to target location: 60.24 meters. Will take 7.23 seconds driving at 30kmh
+[01:07:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:07:44] (INFO) Found 3 Recyclable Items:
+[01:07:44] (RECYCLING) PokeBall x 4
+[01:07:45] (RECYCLING) Potion x 2
+[01:07:46] (RECYCLING) HyperPotion x 1
+[01:07:50] (POKESTOP) USS WaterWorld Toy Fuel Tank in 112.2 m distance
+[01:07:50] (NAVIGATION) Distance to target location: 112.2 meters. Will take 13.03 seconds driving at 31kmh
+[01:08:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:08:02] (POKESTOP) Sentosa Gantry in 140.56 m distance
+[01:08:02] (NAVIGATION) Distance to target location: 140.56 meters. Will take 16.32 seconds driving at 31kmh
+[01:08:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[01:08:18] (POKESTOP) Palawan Beach Map in 666.35 m distance
+[01:08:18] (NAVIGATION) Distance to target location: 666.35 meters. Will take 34.27 seconds driving at 70kmh
+[01:08:49] (INFO) Found 1 catchable Pokemon
+[01:08:52] (Wild Success) | NidoranFemale 165 V |  397 Cp | 50.44% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
