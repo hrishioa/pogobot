@@ -36652,3 +36652,14 @@
 [22:31:48] (INFO) Found 1 catchable Pokemon
 [22:31:49] (BERRY) ItemRazzBerry used, remaining: 41
 [22:31:50] (Wild Success) | Dratini 195 V |  426 Cp | 77.33% | Lvl 16 | Chance: 0.29 | with a GreatBall and received XP 210
+[22:31:50] (EGG) Hatched egg! NidoranFemale       119 True Value |   86 Cp | 78.29% Perfect | Lvl 04 | PoisonSting/PoisonFang
+[22:31:50] (EGG) Hatched egg! Snorlax             348 True Value | 1755 Cp | 90.39% Perfect | Lvl 20 | ZenHeadbutt/BodySlam
+[22:31:50] (EGG) Hatched egg! Tangela             232 True Value |  717 Cp | 78.48% Perfect | Lvl 15 | VineWhip/SolarBeam
+[22:31:52] (EGG) Added 5km egg to incubator
+[22:31:52] (EGG) Added 5km egg to incubator
+[22:31:53] (INFO) Found 3 pokemon to transfer...
+[22:31:55] (TRANSFER) Tangela 174 V |  125 Cp | 80.20% | Lvl 03 | Best: [Tangela 232 V |  717 Cp | 78.48% | Lvl 15] | Candy: 49
+[22:31:57] (TRANSFER) NidoranFemale 119 V |   86 Cp | 78.29% | Lvl 04 | Best: [NidoranFemale 131 V |   57 Cp | 49.76% | Lvl 03] | Candy: 49
+[22:31:59] (TRANSFER) Dratini 137 V |  230 Cp | 63.83% | Lvl 09 | Best: [Dratini 195 V |  426 Cp | 77.33% | Lvl 16] | Candy: 14
+[22:32:00] (INFO) Found 2 catchable Pokemon
+[22:32:02] (Wild Success) | Krabby 99 V |  129 Cp | 36.35% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
