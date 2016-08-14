@@ -30387,3 +30387,9 @@
 [13:33:07] (Wild Success) | Golduck 144 V |  415 Cp | 27.17% | Lvl 07 | Chance: 0.22 | with a GreatBall and received XP 210
 [13:33:08] (Wild Success) | Magikarp 65 V |  110 Cp | 29.19% | Lvl 21 | Chance: 0.45 | with a GreatBall and received XP 210
 [13:33:10] (Wild Success) | Pidgey 104 V |  222 Cp | 32.41% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[13:33:12] (INFO) Found 3 pokemon to transfer...
+[13:33:14] (TRANSFER) Magikarp 65 V |  110 Cp | 29.19% | Lvl 21 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 182
+[13:33:16] (TRANSFER) Dratini 135 V |  236 Cp | 74.11% | Lvl 09 | Best: [Dratini 185 V |  295 Cp | 80.42% | Lvl 11] | Candy: 14
+[13:33:18] (TRANSFER) Pidgey 104 V |  222 Cp | 32.41% | Lvl 14 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1198
+[13:33:19] (INFO) Found 3 catchable Pokemon
+[13:33:21] (Wild Success) | Zubat 149 V |  162 Cp | 58.45% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
