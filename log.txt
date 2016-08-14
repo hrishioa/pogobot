@@ -42394,3 +42394,5 @@
 [01:33:26] (NAVIGATION) Distance to target location: 154.77 meters. Will take 19.21 seconds driving at 29kmh
 [01:33:35] (INFO) Found 2 catchable Pokemon
 [01:33:37] (Wild Success) | Magikarp 112 V |  133 Cp | 74.15% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
+[01:33:38] (BERRY) ItemRazzBerry used, remaining: 46
+[01:33:40] (Wild Success) | Horsea 159 V |  387 Cp | 60.01% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
