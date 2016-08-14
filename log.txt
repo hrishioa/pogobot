@@ -39978,3 +39978,13 @@
 [00:24:51] (INFO) Found 1 catchable Pokemon
 [00:24:52] (BERRY) ItemRazzBerry used, remaining: 49
 [00:24:53] (Wild Success) | Vulpix 167 V |  446 Cp | 57.30% | Lvl 21 | Chance: 0.19 | with a GreatBall and received XP 210
+[00:24:55] (INFO) Found 1 pokemon to transfer...
+[00:24:56] (TRANSFER) Vulpix 106 V |  182 Cp | 42.87% | Lvl 09 | Best: [Vulpix 171 V |   86 Cp | 96.64% | Lvl 04] | Candy: 28
+[00:24:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[00:24:58] (POKESTOP) Water Walls in 84.34 m distance
+[00:24:58] (NAVIGATION) Distance to target location: 84.34 meters. Will take 10.84 seconds driving at 28kmh
+[00:25:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:25:09] (POKESTOP) Big Apple in 103.37 m distance
+[00:25:09] (NAVIGATION) Distance to target location: 103.37 meters. Will take 11.63 seconds driving at 32kmh
+[00:25:18] (INFO) Found 1 catchable Pokemon
+[00:25:19] (Wild Success) | Magnemite 150 V |  297 Cp | 60.46% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
