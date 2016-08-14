@@ -37359,3 +37359,17 @@
 [22:53:54] (TRANSFER) Growlithe 149 V |  200 Cp | 53.97% | Lvl 06 | Best: [Growlithe 186 V |  696 Cp | 55.88% | Lvl 20] | Candy: 25
 [22:53:55] (INFO) Found 1 catchable Pokemon
 [22:53:57] (Wild Success) | Pidgey 104 V |  350 Cp | 19.49% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[22:53:59] (INFO) Found 1 pokemon to transfer...
+[22:54:00] (TRANSFER) Pidgey 104 V |  350 Cp | 19.49% | Lvl 23 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 657
+[22:54:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:54:03] (POKESTOP) Sentosa Golf Course in 39.21 m distance
+[22:54:03] (NAVIGATION) Distance to target location: 39.21 meters. Will take 4.41 seconds driving at 32kmh
+[22:54:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[22:54:08] (INFO) Found 2 Recyclable Items:
+[22:54:08] (RECYCLING) PokeBall x 9
+[22:54:09] (RECYCLING) Potion x 1
+[22:54:12] (POKESTOP) Sgc Entrance in 80.62 m distance
+[22:54:12] (NAVIGATION) Distance to target location: 80.62 meters. Will take 10.01 seconds driving at 29kmh
+[22:54:18] (INFO) Found 1 catchable Pokemon
+[22:54:19] (BERRY) ItemRazzBerry used, remaining: 46
+[22:54:21] (Wild Success) | Sandshrew 138 V |  414 Cp | 29.96% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
