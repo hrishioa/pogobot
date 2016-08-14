@@ -30737,3 +30737,8 @@
 [13:44:14] (INFO) Found 1 catchable Pokemon
 [13:44:15] (BERRY) ItemRazzBerry used, remaining: 47
 [13:44:16] (Wild Success) | Poliwag 141 V |  471 Cp | 31.62% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
+[13:44:18] (INFO) Found 1 pokemon to transfer...
+[13:44:19] (TRANSFER) Poliwag 141 V |  471 Cp | 31.62% | Lvl 25 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 204
+[13:44:21] (INFO) Found 2 catchable Pokemon
+[13:44:22] (BERRY) ItemRazzBerry used, remaining: 46
+[13:44:23] (Wild Success) | Krabby 139 V |  392 Cp | 48.38% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
