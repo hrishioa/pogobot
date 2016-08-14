@@ -29749,3 +29749,8 @@
 [13:06:45] (BERRY) ItemRazzBerry used, remaining: 49
 [13:06:46] (Wild Success) | Eevee 192 V |  678 Cp | 62.40% | Lvl 24 | Chance: 0.24 | with a GreatBall and received XP 210
 [13:06:47] (Wild Success) | Horsea 135 V |  180 Cp | 57.29% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[13:06:49] (INFO) Found 2 pokemon to transfer...
+[13:06:51] (TRANSFER) Eevee 192 V |  678 Cp | 62.40% | Lvl 24 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 92
+[13:06:53] (TRANSFER) Horsea 135 V |  180 Cp | 57.29% | Lvl 09 | Best: [Horsea 163 V |  473 Cp | 63.63% | Lvl 23] | Candy: 78
+[13:06:54] (INFO) Found 1 catchable Pokemon
+[13:06:56] (Wild Success) | Bellsprout 154 V |  447 Cp | 43.65% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
