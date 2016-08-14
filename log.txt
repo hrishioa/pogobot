@@ -21889,3 +21889,4 @@
 [08:16:32] (TRANSFER) Zubat 120 V |  167 Cp | 38.45% | Lvl 11 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 690
 [08:16:33] (INFO) Found 2 catchable Pokemon
 [08:16:35] (Wild Success) | Zubat 143 V |   10 Cp | 66.92% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[08:16:36] (Wild Success) | NidoranMale 132 V |  250 Cp | 44.97% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
