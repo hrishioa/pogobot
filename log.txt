@@ -28374,3 +28374,16 @@
 [12:11:40] (INFO) Found 2 catchable Pokemon
 [12:11:42] (Wild Success) | Zubat 130 V |  182 Cp | 36.82% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [12:11:44] (Wild Success) | Pidgey 119 V |  201 Cp | 48.59% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[12:11:45] (INFO) Found 2 pokemon to transfer...
+[12:11:47] (TRANSFER) Zubat 130 V |  182 Cp | 36.82% | Lvl 12 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 826
+[12:11:49] (TRANSFER) Pidgey 119 V |  201 Cp | 48.59% | Lvl 12 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1142
+[12:11:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:11:54] (POKESTOP) West Coast Park Sign in 87.59 m distance
+[12:11:54] (NAVIGATION) Distance to target location: 87.59 meters. Will take 9.85 seconds driving at 32kmh
+[12:12:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:12:04] (INFO) Found 3 Recyclable Items:
+[12:12:04] (RECYCLING) PokeBall x 5
+[12:12:05] (RECYCLING) Potion x 1
+[12:12:06] (RECYCLING) SuperPotion x 1
+[12:12:08] (INFO) Found 1 catchable Pokemon
+[12:12:10] (Wild Success) | Pidgey 119 V |   99 Cp | 58.87% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
