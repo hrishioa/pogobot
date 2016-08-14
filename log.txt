@@ -30048,3 +30048,11 @@
 [13:20:19] (NAVIGATION) Distance to target location: 84.72 meters. Will take 10.52 seconds driving at 29kmh
 [13:20:25] (INFO) Found 1 catchable Pokemon
 [13:20:27] (Wild Success) | Bellsprout 122 V |  260 Cp | 16.24% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[13:20:28] (INFO) Found 1 pokemon to transfer...
+[13:20:31] (TRANSFER) Bellsprout 122 V |  260 Cp | 16.24% | Lvl 10 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 324
+[13:20:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[13:20:35] (POKESTOP) RSYC Childrens Playground in 696.54 m distance
+[13:20:35] (NAVIGATION) Distance to target location: 696.54 meters. Will take 35.82 seconds driving at 70kmh
+[13:20:52] (INFO) Found 1 catchable Pokemon
+[13:20:53] (BERRY) ItemRazzBerry used, remaining: 49
+[13:20:55] (Wild Success) | Eevee 182 V |  542 Cp | 66.48% | Lvl 19 | Chance: 0.27 | with a UltraBall and received XP 210
