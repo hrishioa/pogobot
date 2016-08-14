@@ -22578,3 +22578,4 @@
 [08:38:27] (NAVIGATION) Distance to target location: 456.02 meters. Will take 23.45 seconds driving at 70kmh
 [08:38:50] (INFO) Found 2 catchable Pokemon
 [08:38:51] (Wild Success) | Goldeen 147 V |  296 Cp | 54.88% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[08:38:53] (Wild Success) | Jigglypuff 139 V |  183 Cp | 55.79% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
