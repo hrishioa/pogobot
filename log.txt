@@ -31708,3 +31708,9 @@
 [14:18:53] (NAVIGATION) Distance to target location: 103.99 meters. Will take 12.08 seconds driving at 31kmh
 [14:19:04] (INFO) Found 1 catchable Pokemon
 [14:19:06] (Wild Success) | Bellsprout 156 V |  500 Cp | 41.50% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[14:19:08] (INFO) Found 1 pokemon to transfer...
+[14:19:09] (TRANSFER) Bellsprout 156 V |  500 Cp | 41.50% | Lvl 18 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 372
+[14:19:11] (POKESTOP) Safety English Chess Table in 87.11 m distance
+[14:19:11] (NAVIGATION) Distance to target location: 87.11 meters. Will take 10.45 seconds driving at 30kmh
+[14:19:17] (INFO) Found 1 catchable Pokemon
+[14:19:19] (Wild Success) | Zubat 132 V |   63 Cp | 80.96% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
