@@ -40611,3 +40611,4 @@
 [00:41:28] (INFO) Found 3 catchable Pokemon
 [00:41:30] (Wild Success) | Voltorb 149 V |   83 Cp | 78.60% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [00:41:31] (Wild Success) | Magnemite 156 V |  353 Cp | 70.66% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[00:41:33] (Wild Success) | Magnemite 117 V |  169 Cp | 38.44% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
