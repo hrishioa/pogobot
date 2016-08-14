@@ -24087,3 +24087,14 @@
 [09:27:57] (INFO) Found 3 catchable Pokemon
 [09:27:59] (Wild Success) | Eevee 179 V |  236 Cp | 87.71% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 210
 [09:28:01] (Wild Success) | Spearow 121 V |  116 Cp | 52.07% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[09:28:02] (BERRY) ItemRazzBerry used, remaining: 44
+[09:28:02] (Wild Escape) | Pidgeotto 137 V |  452 Cp | 32.00% | Lvl 15 | Chance: 0.19 | with a UltraBall 
+[09:28:03] (BERRY) ItemRazzBerry used, remaining: 43
+[09:28:04] (Wild Success Attempt #2) | Pidgeotto 137 V |  452 Cp | 32.00% | Lvl 15 | Chance: 0.19 | with a UltraBall 
+[09:28:06] (INFO) Found 3 pokemon to transfer...
+[09:28:08] (TRANSFER) Pidgeotto 137 V |  452 Cp | 32.00% | Lvl 15 | Best: [Pidgeotto 162 V |  526 Cp | 43.52% | Lvl 17] | Candy: 1118
+[09:28:10] (TRANSFER) Spearow 121 V |  116 Cp | 52.07% | Lvl 07 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 317
+[09:28:12] (TRANSFER) Eevee 178 V |  539 Cp | 64.34% | Lvl 19 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 68
+[09:28:13] (INFO) Found 2 catchable Pokemon
+[09:28:14] (BERRY) ItemRazzBerry used, remaining: 42
+[09:28:15] (Wild Success) | Venonat 151 V |  515 Cp | 44.22% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
