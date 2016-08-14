@@ -31585,3 +31585,28 @@
 [14:13:51] (Wild Success) | Pidgey 116 V |   10 Cp | 59.54% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [14:13:52] (BERRY) ItemRazzBerry used, remaining: 48
 [14:13:52] (Wild Success) | Paras 154 V |  478 Cp | 45.72% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
+[14:13:54] (INFO) Found 2 pokemon to transfer...
+[14:13:56] (TRANSFER) Paras 154 V |  478 Cp | 45.72% | Lvl 21 | Best: [Paras 200 V |  431 Cp | 86.95% | Lvl 17] | Candy: 142
+[14:13:58] (TRANSFER) Pidgey 116 V |   10 Cp | 59.54% | Lvl 01 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1274
+[14:14:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[14:14:02] (POKESTOP) Gantry Entrance in 82.88 m distance
+[14:14:02] (NAVIGATION) Distance to target location: 82.88 meters. Will take 9.63 seconds driving at 31kmh
+[14:14:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[14:14:11] (INFO) Found 3 Recyclable Items:
+[14:14:11] (RECYCLING) PokeBall x 11
+[14:14:13] (RECYCLING) Potion x 3
+[14:14:13] (RECYCLING) SuperPotion x 1
+[14:14:16] (POKESTOP) Marsh Garden in 87.82 m distance
+[14:14:16] (NAVIGATION) Distance to target location: 87.82 meters. Will take 10.54 seconds driving at 30kmh
+[14:14:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemRevive
+[14:14:26] (POKESTOP) Chilling Area in 129.28 m distance
+[14:14:26] (NAVIGATION) Distance to target location: 129.28 meters. Will take 16.05 seconds driving at 29kmh
+[14:14:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:14:42] (POKESTOP) Jungle Walkpath in 47.15 m distance
+[14:14:42] (NAVIGATION) Distance to target location: 47.15 meters. Will take 5.3 seconds driving at 32kmh
+[14:14:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[14:14:48] (POKESTOP) Volleyball Arena in 149.52 m distance
+[14:14:48] (NAVIGATION) Distance to target location: 149.52 meters. Will take 16.82 seconds driving at 32kmh
+[14:15:02] (INFO) Found 2 catchable Pokemon
+[14:15:03] (BERRY) ItemRazzBerry used, remaining: 47
+[14:15:04] (Wild Success) | Pidgeotto 161 V |  744 Cp | 27.09% | Lvl 25 | Chance: 0.14 | with a UltraBall and received XP 210
