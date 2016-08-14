@@ -33951,3 +33951,24 @@
 [20:52:52] (NAVIGATION) Distance to target location: 378.79 meters. Will take 19.76 seconds driving at 69kmh
 [20:53:07] (INFO) Found 1 catchable Pokemon
 [20:53:08] (Wild Success) | Weedle 105 V |  216 Cp | 27.98% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[20:53:10] (INFO) Found 1 pokemon to transfer...
+[20:53:12] (TRANSFER) Weedle 105 V |  216 Cp | 27.98% | Lvl 22 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 220
+[20:53:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:53:15] (INFO) Found 1 Recyclable Item:
+[20:53:15] (RECYCLING) Potion x 1
+[20:53:19] (POKESTOP) Bronze Sculpture "Contentment" in 58.34 m distance
+[20:53:19] (NAVIGATION) Distance to target location: 58.34 meters. Will take 6.56 seconds driving at 32kmh
+[20:53:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:53:26] (POKESTOP) Frustration of a Loner on a Rock in 84.85 m distance
+[20:53:26] (NAVIGATION) Distance to target location: 84.85 meters. Will take 9.85 seconds driving at 31kmh
+[20:53:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:53:35] (POKESTOP) Inverted Torsos in 62.94 m distance
+[20:53:35] (NAVIGATION) Distance to target location: 62.94 meters. Will take 7.08 seconds driving at 32kmh
+[20:53:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:53:43] (POKESTOP) Earth Mural in 57.06 m distance
+[20:53:43] (NAVIGATION) Distance to target location: 57.06 meters. Will take 6.63 seconds driving at 31kmh
+[20:53:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[20:53:49] (POKESTOP) Alice Lee Plaza in 172.99 m distance
+[20:53:49] (NAVIGATION) Distance to target location: 172.99 meters. Will take 19.46 seconds driving at 32kmh
+[20:54:01] (INFO) Found 1 catchable Pokemon
+[20:54:03] (Wild Success) | Pidgey 110 V |  233 Cp | 47.05% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
