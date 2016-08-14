@@ -42879,3 +42879,19 @@
 [01:50:24] (INFO) Found 2 catchable Pokemon
 [01:50:24] (Wild Success) | Voltorb 144 V |  354 Cp | 46.67% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
 [01:50:26] (Wild Success) | Growlithe 134 V |  302 Cp | 41.94% | Lvl 09 | Chance: 0.3 | with a UltraBall and received XP 210
+[01:50:28] (INFO) Found 2 pokemon to transfer...
+[01:50:30] (TRANSFER) Growlithe 134 V |  302 Cp | 41.94% | Lvl 09 | Best: [Growlithe 231 V |  740 Cp | 85.12% | Lvl 20] | Candy: 53
+[01:50:32] (TRANSFER) Voltorb 144 V |  354 Cp | 46.67% | Lvl 17 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 192
+[01:50:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:50:36] (Lure Escape) | Venonat 141 V |  210 Cp | 57.70% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[01:50:38] (Lure Success Attempt #2) | Venonat 141 V |  210 Cp | 57.70% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[01:50:38] (INFO) Found 2 Recyclable Items:
+[01:50:39] (RECYCLING) PokeBall x 11
+[01:50:40] (RECYCLING) SuperPotion x 1
+[01:50:43] (POKESTOP) Silso Dream Sculpture in 42.14 m distance
+[01:50:43] (NAVIGATION) Distance to target location: 42.14 meters. Will take 4.89 seconds driving at 31kmh
+[01:50:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:50:48] (POKESTOP) Siloso Resort Fountain in 50.29 m distance
+[01:50:48] (NAVIGATION) Distance to target location: 50.29 meters. Will take 6.24 seconds driving at 29kmh
+[01:50:50] (INFO) Found 1 catchable Pokemon
+[01:50:52] (Wild Success) | Dratini 138 V |  327 Cp | 55.06% | Lvl 13 | Chance: 0.33 | with a UltraBall and received XP 210
