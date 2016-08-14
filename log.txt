@@ -39439,3 +39439,4 @@
 [00:08:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [00:08:10] (INFO) Found 2 catchable Pokemon
 [00:08:11] (Wild Success) | NidoranMale 76 V |   10 Cp | 36.35% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[00:08:14] (Wild Success) | Pidgey 102 V |  315 Cp | 30.14% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
