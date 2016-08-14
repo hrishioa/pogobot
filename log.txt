@@ -37580,3 +37580,19 @@
 [22:59:58] (Wild Success Attempt #2) | Magikarp 92 V |   92 Cp | 57.61% | Lvl 15 | Chance: 0.54 | with a PokeBall 
 [23:00:00] (BERRY) ItemRazzBerry used, remaining: 44
 [23:00:00] (Wild Success) | Goldeen 173 V |  479 Cp | 63.23% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[23:00:02] (INFO) Found 4 pokemon to transfer...
+[23:00:04] (TRANSFER) Goldeen 173 V |  479 Cp | 63.23% | Lvl 19 | Best: [Goldeen 185 V |  240 Cp | 89.32% | Lvl 09] | Candy: 166
+[23:00:06] (TRANSFER) Magikarp 108 V |  131 Cp | 70.34% | Lvl 20 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 220
+[23:00:08] (TRANSFER) Magikarp 92 V |   92 Cp | 57.61% | Lvl 15 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 221
+[23:00:10] (TRANSFER) Seel 99 V |  129 Cp | 39.46% | Lvl 05 | Best: [Seel 151 V |  273 Cp | 83.59% | Lvl 09] | Candy: 10
+[23:00:14] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 5 x ItemPokeBall
+[23:00:14] (INFO) Found 2 Recyclable Items:
+[23:00:15] (RECYCLING) PokeBall x 10
+[23:00:16] (RECYCLING) Revive x 2
+[23:00:18] (POKESTOP) Corda Mauro in 158.58 m distance
+[23:00:18] (NAVIGATION) Distance to target location: 158.58 meters. Will take 19.69 seconds driving at 29kmh
+[23:00:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry
+[23:00:38] (POKESTOP) Golden Pineapple in 138.84 m distance
+[23:00:38] (NAVIGATION) Distance to target location: 138.84 meters. Will take 17.85 seconds driving at 28kmh
+[23:00:52] (INFO) Found 3 catchable Pokemon
+[23:00:54] (Wild Success) | Machop 127 V |  323 Cp | 38.07% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
