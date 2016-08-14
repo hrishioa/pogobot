@@ -35789,3 +35789,9 @@
 [21:58:48] (NAVIGATION) Distance to target location: 252.17 meters. Will take 19.73 seconds driving at 46kmh
 [21:59:04] (INFO) Found 1 catchable Pokemon
 [21:59:07] (Wild Success) | Magikarp 77 V |  113 Cp | 41.32% | Lvl 20 | Chance: 0.46 | with a PokeBall and received XP 210
+[21:59:09] (INFO) Found 1 pokemon to transfer...
+[21:59:10] (TRANSFER) Magikarp 77 V |  113 Cp | 41.32% | Lvl 20 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 222
+[21:59:15] (POKESTOP) Clementi West Street 1 Circle in 147.85 m distance
+[21:59:15] (NAVIGATION) Distance to target location: 147.85 meters. Will take 18.35 seconds driving at 29kmh
+[21:59:31] (INFO) Found 1 catchable Pokemon
+[21:59:33] (Wild Success) | Psyduck 138 V |  100 Cp | 38.18% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
