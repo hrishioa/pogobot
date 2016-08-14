@@ -44439,3 +44439,10 @@
 [02:35:22] (BERRY) ItemRazzBerry used, remaining: 47
 [02:35:22] (Wild Success) | Horsea 149 V |  412 Cp | 47.81% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
 [02:35:24] (Wild Success) | Magikarp 102 V |  145 Cp | 62.63% | Lvl 23 | Chance: 0.43 | with a GreatBall and received XP 210
+[02:35:26] (INFO) Found 2 pokemon to transfer...
+[02:35:27] (TRANSFER) Magikarp 102 V |  145 Cp | 62.63% | Lvl 23 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 429
+[02:35:30] (TRANSFER) Horsea 149 V |  412 Cp | 47.81% | Lvl 21 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 88
+[02:35:30] (POKESTOP) Spaghetti Space Chase in 249.29 m distance
+[02:35:30] (NAVIGATION) Distance to target location: 249.29 meters. Will take 19.94 seconds driving at 45kmh
+[02:35:38] (INFO) Found 2 catchable Pokemon
+[02:35:40] (Wild Success) | Magnemite 169 V |  234 Cp | 68.91% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
