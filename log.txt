@@ -28418,3 +28418,10 @@
 [12:12:58] (NAVIGATION) Distance to target location: 103.51 meters. Will take 11.65 seconds driving at 32kmh
 [12:13:01] (INFO) Found 1 catchable Pokemon
 [12:13:03] (Wild Success) | Weedle 116 V |  138 Cp | 47.20% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[12:13:04] (INFO) Found 1 pokemon to transfer...
+[12:13:06] (TRANSFER) Weedle 116 V |  138 Cp | 47.20% | Lvl 13 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 500
+[12:13:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemPokeBall
+[12:13:10] (POKESTOP) Blue Dragon Boat  in 49.9 m distance
+[12:13:10] (NAVIGATION) Distance to target location: 49.9 meters. Will take 5.79 seconds driving at 31kmh
+[12:13:15] (INFO) Found 1 catchable Pokemon
+[12:13:16] (Wild Success) | Pidgey 104 V |   61 Cp | 48.37% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
