@@ -33802,3 +33802,11 @@
 [20:49:39] (NAVIGATION) Distance to target location: 101.39 meters. Will take 11.77 seconds driving at 31kmh
 [20:49:42] (INFO) Found 1 catchable Pokemon
 [20:49:44] (Wild Success) | Pidgey 111 V |  325 Cp | 24.47% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
+[20:49:45] (INFO) Found 1 pokemon to transfer...
+[20:49:47] (TRANSFER) Pidgey 111 V |  325 Cp | 24.47% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 617
+[20:49:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:49:51] (POKESTOP) College of Alice & Peter Tan in 389.4 m distance
+[20:49:51] (NAVIGATION) Distance to target location: 389.4 meters. Will take 20.03 seconds driving at 70kmh
+[20:50:09] (INFO) Found 2 catchable Pokemon
+[20:50:10] (BERRY) ItemRazzBerry used, remaining: 39
+[20:50:11] (Wild Success) | Raticate 183 V |  601 Cp | 53.12% | Lvl 16 | Chance: 0.14 | with a GreatBall and received XP 420
