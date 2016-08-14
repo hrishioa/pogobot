@@ -35319,3 +35319,5 @@
 [21:40:13] (NAVIGATION) Distance to target location: 107.21 meters. Will take 13.31 seconds driving at 29kmh
 [21:40:17] (INFO) Found 2 catchable Pokemon
 [21:40:19] (Wild Success) | Ekans 120 V |  298 Cp | 38.13% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[21:40:21] (BERRY) ItemRazzBerry used, remaining: 43
+[21:40:21] (Wild Success) | Arbok 181 V |  373 Cp | 63.51% | Lvl 08 | Chance: 0.21 | with a UltraBall and received XP 210
