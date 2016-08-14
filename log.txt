@@ -37512,3 +37512,4 @@
 [22:57:08] (INFO) Found 4 catchable Pokemon
 [22:57:10] (Wild Success) | Goldeen 148 V |  446 Cp | 56.16% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
 [22:57:11] (Wild Success) | Krabby 109 V |   52 Cp | 53.78% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[22:57:13] (Wild Success) | Goldeen 149 V |  437 Cp | 47.75% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
