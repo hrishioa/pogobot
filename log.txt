@@ -30646,3 +30646,23 @@
 [13:41:06] (INFO) Found 2 catchable Pokemon
 [13:41:07] (Wild Success) | Pidgey 97 V |  249 Cp | 26.74% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
 [13:41:09] (Wild Success) | Pidgey 131 V |  329 Cp | 42.97% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[13:41:11] (INFO) Found 2 pokemon to transfer...
+[13:41:12] (TRANSFER) Pidgey 131 V |  329 Cp | 42.97% | Lvl 20 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1213
+[13:41:14] (TRANSFER) Pidgey 97 V |  249 Cp | 26.74% | Lvl 16 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1214
+[13:41:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[13:41:18] (INFO) Found 5 Recyclable Items:
+[13:41:18] (RECYCLING) RazzBerry x 1
+[13:41:19] (RECYCLING) PokeBall x 6
+[13:41:19] (RECYCLING) Potion x 2
+[13:41:20] (RECYCLING) SuperPotion x 1
+[13:41:21] (RECYCLING) Revive x 1
+[13:41:24] (POKESTOP) West Coast Playground in 51.45 m distance
+[13:41:24] (NAVIGATION) Distance to target location: 51.45 meters. Will take 5.79 seconds driving at 32kmh
+[13:41:29] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 2 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[13:41:30] (POKESTOP) West Coast Fitness Corner in 81.31 m distance
+[13:41:30] (NAVIGATION) Distance to target location: 81.31 meters. Will take 10.45 seconds driving at 28kmh
+[13:41:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:41:41] (POKESTOP) Flag Gathering Area in 95.86 m distance
+[13:41:41] (NAVIGATION) Distance to target location: 95.86 meters. Will take 11.5 seconds driving at 30kmh
+[13:41:49] (INFO) Found 2 catchable Pokemon
+[13:41:51] (Wild Success) | Oddish 122 V |   45 Cp | 50.77% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
