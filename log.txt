@@ -40470,3 +40470,14 @@
 [00:39:20] (BERRY) ItemRazzBerry used, remaining: 45
 [00:39:21] (Wild Success) | Squirtle 128 V |  404 Cp | 22.69% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
 [00:39:22] (Wild Success) | Goldeen 107 V |   86 Cp | 36.16% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[00:39:24] (INFO) Found 2 pokemon to transfer...
+[00:39:25] (TRANSFER) Squirtle 128 V |  404 Cp | 22.69% | Lvl 17 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 37
+[00:39:28] (TRANSFER) Goldeen 107 V |   86 Cp | 36.16% | Lvl 04 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 209
+[00:39:29] (POKESTOP) Metal Stix Art in 47.54 m distance
+[00:39:29] (NAVIGATION) Distance to target location: 47.54 meters. Will take 5.9 seconds driving at 29kmh
+[00:39:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:39:35] (POKESTOP) Crane Dance Laser Show in 77.18 m distance
+[00:39:35] (NAVIGATION) Distance to target location: 77.18 meters. Will take 9.26 seconds driving at 30kmh
+[00:39:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRazzBerry
+[00:39:43] (INFO) Found 1 catchable Pokemon
+[00:39:45] (Wild Success) | Caterpie 90 V |  123 Cp | 22.54% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
