@@ -28146,3 +28146,10 @@
 [12:04:04] (TRANSFER) Venonat 140 V |  126 Cp | 60.28% | Lvl 05 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 154
 [12:04:06] (INFO) Found 1 catchable Pokemon
 [12:04:07] (Wild Success) | Pidgey 94 V |  236 Cp | 29.98% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[12:04:09] (INFO) Found 1 pokemon to transfer...
+[12:04:10] (TRANSFER) Pidgey 94 V |  236 Cp | 29.98% | Lvl 15 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1122
+[12:04:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[12:04:14] (POKESTOP) Sailing Mural in 417.66 m distance
+[12:04:14] (NAVIGATION) Distance to target location: 417.66 meters. Will take 21.48 seconds driving at 70kmh
+[12:04:25] (INFO) Found 1 catchable Pokemon
+[12:04:27] (Wild Success) | Eevee 149 V |  166 Cp | 71.73% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
