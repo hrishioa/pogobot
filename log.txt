@@ -42750,3 +42750,4 @@
 [01:45:14] (INFO) Found 2 catchable Pokemon
 [01:45:14] (BERRY) ItemRazzBerry used, remaining: 48
 [01:45:16] (Wild Success) | Paras 163 V |  416 Cp | 50.71% | Lvl 18 | Chance: 0.28 | with a GreatBall and received XP 210
+[01:45:17] (Wild Success) | Magikarp 107 V |  117 Cp | 69.76% | Lvl 18 | Chance: 0.49 | with a GreatBall and received XP 210
