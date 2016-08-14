@@ -42507,3 +42507,4 @@
 [01:38:11] (INFO) Found 2 catchable Pokemon
 [01:38:13] (BERRY) ItemRazzBerry used, remaining: 46
 [01:38:13] (Wild Success) | Voltorb 166 V |  430 Cp | 57.62% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
+[01:38:16] (Wild Success) | NidoranMale 116 V |  228 Cp | 43.78% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
