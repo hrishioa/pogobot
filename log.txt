@@ -37649,3 +37649,4 @@
 [23:03:00] (TRANSFER) Dratini 158 V |  367 Cp | 71.10% | Lvl 14 | Best: [Dratini 195 V |  426 Cp | 77.33% | Lvl 16] | Candy: 18
 [23:03:02] (INFO) Found 2 catchable Pokemon
 [23:03:03] (Wild Success) | Pidgey 113 V |  297 Cp | 27.93% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[23:03:05] (Wild Success) | Voltorb 172 V |  182 Cp | 84.65% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
