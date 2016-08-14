@@ -29993,3 +29993,11 @@
 [13:18:15] (INFO) Found 2 catchable Pokemon
 [13:18:16] (Wild Success) | Bellsprout 181 V |  432 Cp | 56.11% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [13:18:18] (Wild Success) | Rattata 160 V |  285 Cp | 66.75% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[13:18:19] (INFO) Found 2 pokemon to transfer...
+[13:18:21] (TRANSFER) Bellsprout 181 V |  432 Cp | 56.11% | Lvl 15 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 308
+[13:18:23] (TRANSFER) Rattata 160 V |  285 Cp | 66.75% | Lvl 19 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 673
+[13:18:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[13:18:27] (POKESTOP) Campsite Area in 43.79 m distance
+[13:18:27] (NAVIGATION) Distance to target location: 43.79 meters. Will take 5.26 seconds driving at 30kmh
+[13:18:31] (INFO) Found 1 catchable Pokemon
+[13:18:32] (Wild Success) | Bellsprout 101 V |  120 Cp | 8.55% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
