@@ -22152,3 +22152,20 @@
 [08:23:39] (NAVIGATION) Distance to target location: 65.1 meters. Will take 8.37 seconds driving at 28kmh
 [08:23:41] (INFO) Found 1 catchable Pokemon
 [08:23:43] (Wild Success) | Zubat 116 V |   75 Cp | 53.18% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[08:23:44] (INFO) Found 1 pokemon to transfer...
+[08:23:46] (TRANSFER) Zubat 116 V |   75 Cp | 53.18% | Lvl 05 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 702
+[08:23:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[08:23:50] (POKESTOP) NUS Central Library in 42.34 m distance
+[08:23:50] (NAVIGATION) Distance to target location: 42.34 meters. Will take 5.26 seconds driving at 29kmh
+[08:23:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:23:55] (INFO) Found 3 Recyclable Items:
+[08:23:56] (RECYCLING) RazzBerry x 2
+[08:23:57] (RECYCLING) PokeBall x 8
+[08:23:58] (RECYCLING) Potion x 2
+[08:24:00] (POKESTOP) The Seagull Nebula in 606.34 m distance
+[08:24:00] (NAVIGATION) Distance to target location: 606.34 meters. Will take 31.18 seconds driving at 70kmh
+[08:24:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[08:24:33] (POKESTOP) Tree of the Elements in 272.21 m distance
+[08:24:33] (NAVIGATION) Distance to target location: 272.21 meters. Will take 20 seconds driving at 49kmh
+[08:24:40] (INFO) Found 1 catchable Pokemon
+[08:24:41] (Wild Success) | Zubat 104 V |   40 Cp | 44.92% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
