@@ -36943,3 +36943,13 @@
 [22:39:49] (NAVIGATION) Distance to target location: 58.27 meters. Will take 6.56 seconds driving at 32kmh
 [22:39:50] (INFO) Found 1 catchable Pokemon
 [22:39:53] (Wild Success) | Zubat 110 V |  133 Cp | 31.71% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[22:39:55] (INFO) Found 1 pokemon to transfer...
+[22:39:56] (TRANSFER) Zubat 110 V |  133 Cp | 31.71% | Lvl 09 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 668
+[22:39:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:40:01] (POKESTOP) Sgc Entrance in 75.16 m distance
+[22:40:01] (NAVIGATION) Distance to target location: 75.16 meters. Will take 9.33 seconds driving at 29kmh
+[22:40:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[22:40:10] (POKESTOP) Tanjong Beach Club in 149.91 m distance
+[22:40:10] (NAVIGATION) Distance to target location: 149.91 meters. Will take 17.41 seconds driving at 31kmh
+[22:40:24] (INFO) Found 2 catchable Pokemon
+[22:40:26] (Wild Success) | Magnemite 119 V |   10 Cp | 45.71% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
