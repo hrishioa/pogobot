@@ -23800,3 +23800,18 @@
 [09:19:27] (INFO) Found 1 catchable Pokemon
 [09:19:29] (BERRY) ItemRazzBerry used, remaining: 48
 [09:19:29] (Wild Success) | Staryu 177 V |  572 Cp | 70.47% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
+[09:19:31] (INFO) Found 1 pokemon to transfer...
+[09:19:32] (TRANSFER) Staryu 177 V |  572 Cp | 70.47% | Lvl 23 | Best: [Staryu 184 V |  598 Cp | 71.51% | Lvl 24] | Candy: 116
+[09:19:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemRevive, 5 x ItemPokeBall
+[09:19:35] (POKESTOP) West Coast Park Connector in 85.35 m distance
+[09:19:35] (NAVIGATION) Distance to target location: 85.35 meters. Will take 10.97 seconds driving at 28kmh
+[09:19:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:19:46] (INFO) Found 4 Recyclable Items:
+[09:19:46] (RECYCLING) PokeBall x 9
+[09:19:47] (RECYCLING) Potion x 1
+[09:19:48] (RECYCLING) SuperPotion x 1
+[09:19:49] (RECYCLING) Revive x 1
+[09:19:51] (POKESTOP) Arch at West Coast in 120.36 m distance
+[09:19:51] (NAVIGATION) Distance to target location: 120.36 meters. Will take 14.44 seconds driving at 30kmh
+[09:19:57] (INFO) Found 2 catchable Pokemon
+[09:20:00] (Wild Success) | Rattata 126 V |   53 Cp | 60.56% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
