@@ -45099,3 +45099,4 @@
 [02:57:03] (INFO) Found 2 catchable Pokemon
 [02:57:04] (BERRY) ItemRazzBerry used, remaining: 45
 [02:57:05] (Wild Success) | Staryu 207 V |  560 Cp | 98.55% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[02:57:06] (Wild Success) | Weedle 77 V |   27 Cp | 41.87% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
