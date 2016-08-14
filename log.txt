@@ -41758,3 +41758,4 @@
 [01:16:48] (NAVIGATION) Distance to target location: 114.89 meters. Will take 14.77 seconds driving at 28kmh
 [01:16:59] (INFO) Found 2 catchable Pokemon
 [01:17:01] (Wild Success) | Shellder 122 V |  123 Cp | 63.21% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[01:17:02] (Wild Success) | Mankey 95 V |   32 Cp | 34.51% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
