@@ -44509,3 +44509,11 @@
 [02:38:01] (Wild Escape) | Rattata 116 V |  260 Cp | 25.36% | Lvl 20 | Chance: 0.33 | with a GreatBall 
 [02:38:02] (Wild Success Attempt #2) | Rattata 116 V |  260 Cp | 25.36% | Lvl 20 | Chance: 0.33 | with a GreatBall 
 [02:38:04] (Wild Success) | Pidgey 74 V |   23 Cp | 16.82% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[02:38:05] (INFO) Found 2 pokemon to transfer...
+[02:38:07] (TRANSFER) Pidgey 74 V |   23 Cp | 16.82% | Lvl 02 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 760
+[02:38:09] (TRANSFER) Rattata 116 V |  260 Cp | 25.36% | Lvl 20 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 428
+[02:38:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion
+[02:38:13] (POKESTOP) Art World Mural in 56.83 m distance
+[02:38:13] (NAVIGATION) Distance to target location: 56.83 meters. Will take 7.05 seconds driving at 29kmh
+[02:38:17] (INFO) Found 1 catchable Pokemon
+[02:38:18] (Wild Success) | Oddish 167 V |  629 Cp | 39.31% | Lvl 22 | Chance: 0.38 | with a GreatBall and received XP 210
