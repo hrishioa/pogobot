@@ -43247,3 +43247,8 @@
 [02:00:45] (NAVIGATION) Distance to target location: 59.91 meters. Will take 6.96 seconds driving at 31kmh
 [02:00:49] (INFO) Found 1 catchable Pokemon
 [02:00:51] (Wild Success) | Voltorb 175 V |  313 Cp | 72.26% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:00:52] (INFO) Found 1 pokemon to transfer...
+[02:00:54] (TRANSFER) Voltorb 175 V |  313 Cp | 72.26% | Lvl 14 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 220
+[02:00:56] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 3 x ItemPokeBall
+[02:00:57] (INFO) Found 1 catchable Pokemon
+[02:00:59] (Wild Success) | Magnemite 169 V |  416 Cp | 64.58% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
