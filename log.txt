@@ -39084,3 +39084,11 @@
 [23:55:55] (INFO) Found 2 catchable Pokemon
 [23:55:57] (Wild Success) | Oddish 160 V |  439 Cp | 49.07% | Lvl 15 | Chance: 0.46 | with a GreatBall and received XP 210
 [23:55:58] (Wild Success) | Goldeen 147 V |  225 Cp | 62.85% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[23:56:00] (INFO) Found 2 pokemon to transfer...
+[23:56:01] (TRANSFER) Oddish 153 V |  268 Cp | 59.10% | Lvl 09 | Best: [Oddish 193 V |  609 Cp | 66.69% | Lvl 20] | Candy: 25
+[23:56:04] (TRANSFER) Goldeen 147 V |  225 Cp | 62.85% | Lvl 09 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 201
+[23:56:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[23:56:08] (POKESTOP) Egyptian Art Gallery  in 342.07 m distance
+[23:56:08] (NAVIGATION) Distance to target location: 342.07 meters. Will take 19.86 seconds driving at 62kmh
+[23:56:18] (INFO) Found 1 catchable Pokemon
+[23:56:19] (Wild Success) | Krabby 81 V |   84 Cp | 18.83% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
