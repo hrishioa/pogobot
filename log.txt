@@ -43097,3 +43097,8 @@
 [01:55:19] (Wild Success) | Magnemite 156 V |  354 Cp | 49.35% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
 [01:55:20] (BERRY) ItemRazzBerry used, remaining: 47
 [01:55:21] (Wild Success) | Magnemite 136 V |  473 Cp | 39.22% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[01:55:23] (INFO) Found 2 pokemon to transfer...
+[01:55:24] (TRANSFER) Magnemite 156 V |  354 Cp | 49.35% | Lvl 16 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 176
+[01:55:27] (TRANSFER) Magnemite 136 V |  473 Cp | 39.22% | Lvl 22 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 177
+[01:55:28] (INFO) Found 2 catchable Pokemon
+[01:55:29] (Wild Success) | Voltorb 156 V |  129 Cp | 73.25% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
