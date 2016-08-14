@@ -36841,3 +36841,24 @@
 [22:35:25] (NAVIGATION) Distance to target location: 244.22 meters. Will take 19.98 seconds driving at 44kmh
 [22:35:39] (INFO) Found 2 catchable Pokemon
 [22:35:40] (Wild Success) | Rattata 129 V |  221 Cp | 42.44% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[22:35:42] (BERRY) ItemRazzBerry used, remaining: 40
+[22:35:42] (Wild Escape) | Magnemite 147 V |  435 Cp | 42.99% | Lvl 20 | Chance: 0.33 | with a GreatBall 
+[22:35:43] (BERRY) ItemRazzBerry used, remaining: 39
+[22:35:43] (Wild Success Attempt #2) | Magnemite 147 V |  435 Cp | 42.99% | Lvl 20 | Chance: 0.33 | with a GreatBall 
+[22:35:45] (INFO) Found 2 pokemon to transfer...
+[22:35:46] (TRANSFER) Rattata 129 V |  221 Cp | 42.44% | Lvl 16 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 296
+[22:35:49] (TRANSFER) Magnemite 118 V |  338 Cp | 33.55% | Lvl 16 | Best: [Magnemite 148 V |  459 Cp | 29.70% | Lvl 22] | Candy: 14
+[22:35:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:35:55] (POKESTOP) Sci Fi Auditorium in 35.8 m distance
+[22:35:55] (NAVIGATION) Distance to target location: 35.8 meters. Will take 4.3 seconds driving at 30kmh
+[22:35:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPotion
+[22:35:59] (POKESTOP) Star Dots in 47.77 m distance
+[22:35:59] (NAVIGATION) Distance to target location: 47.77 meters. Will take 5.37 seconds driving at 32kmh
+[22:36:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[22:36:04] (POKESTOP) Giant Egypt Statue in 103.44 m distance
+[22:36:04] (NAVIGATION) Distance to target location: 103.44 meters. Will take 13.3 seconds driving at 28kmh
+[22:36:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:36:16] (POKESTOP) Trapped Humanoid in 72.6 m distance
+[22:36:16] (NAVIGATION) Distance to target location: 72.6 meters. Will take 9.01 seconds driving at 29kmh
+[22:36:18] (INFO) Found 1 catchable Pokemon
+[22:36:20] (Wild Success) | Pidgey 124 V |  297 Cp | 44.08% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
