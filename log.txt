@@ -41109,3 +41109,14 @@
 [00:56:53] (BERRY) ItemRazzBerry used, remaining: 48
 [00:56:54] (Wild Success) | Abra 171 V |  360 Cp | 57.73% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
 [00:56:56] (Wild Success) | Voltorb 142 V |  211 Cp | 51.21% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[00:56:58] (INFO) Found 2 pokemon to transfer...
+[00:56:59] (TRANSFER) Abra 169 V |  287 Cp | 60.16% | Lvl 19 | Best: [Abra 173 V |  127 Cp | 79.52% | Lvl 08] | Candy: 22
+[00:57:01] (TRANSFER) Voltorb 142 V |  211 Cp | 51.21% | Lvl 10 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 136
+[00:57:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:57:04] (INFO) Found 2 Recyclable Items:
+[00:57:05] (RECYCLING) PokeBall x 9
+[00:57:05] (RECYCLING) Revive x 1
+[00:57:08] (POKESTOP) Fountain of Dreams at RWS in 101.5 m distance
+[00:57:08] (NAVIGATION) Distance to target location: 101.5 meters. Will take 12.6 seconds driving at 29kmh
+[00:57:16] (INFO) Found 1 catchable Pokemon
+[00:57:18] (Wild Success) | Koffing 172 V |  480 Cp | 58.95% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
