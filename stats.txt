@@ -19,23 +19,23 @@ Stats:
 [20:20:18] LuckyEgg x 1
 [20:20:18] TroyDisk x 5
 
-[20:40:35] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
-[20:40:35] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
-[20:40:35] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
-[20:40:35] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
-[20:40:35] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
-[20:40:35] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
-[20:40:35] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
-[20:40:35] Pinsir              222 True Value |  874 Cp | 75.46% Perfect | Lvl 15 | FuryCutter/Submission
-[20:40:35] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
-[20:40:35] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
-[20:40:35] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
-[20:40:35] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
-[20:40:35] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
-[20:40:35] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
-[20:40:35] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
-[20:40:35] Oddish              193 True Value |  609 Cp | 66.69% Perfect | Lvl 20 | Acid/SludgeBomb
-[20:40:35] Clefairy            166 True Value |  600 Cp | 19.05% Perfect | Lvl 21 | ZenHeadbutt/Moonblast
-[20:40:35] Pidgeotto           142 True Value |  595 Cp | 26.99% Perfect | Lvl 20 | SteelWing/Twister
-[20:40:35] Venonat             171 True Value |  593 Cp | 62.48% Perfect | Lvl 22 | Confusion/PoisonFang
-[20:40:35] Venonat             189 True Value |  582 Cp | 74.06% Perfect | Lvl 21 | Confusion/Psybeam
+[20:50:39] Jolteon             249 True Value | 1335 Cp | 55.15% Perfect | Lvl 24 | ThunderShock/Discharge
+[20:50:39] Pidgeot             255 True Value | 1313 Cp | 58.97% Perfect | Lvl 24 | SteelWing/AirCutter
+[20:50:40] Golbat              242 True Value | 1208 Cp | 61.50% Perfect | Lvl 24 | WingAttack/AirCutter
+[20:50:40] Dodrio              235 True Value | 1149 Cp | 60.00% Perfect | Lvl 24 | FeintAttack/AirCutter
+[20:50:40] Pinsir              259 True Value | 1146 Cp | 96.84% Perfect | Lvl 19 | RockSmash/ViceGrip
+[20:50:40] Scyther             213 True Value |  927 Cp | 49.72% Perfect | Lvl 17 | SteelWing/NightSlash
+[20:50:40] Electabuzz          241 True Value |  903 Cp | 76.11% Perfect | Lvl 16 | ThunderShock/Thunder
+[20:50:40] Pinsir              228 True Value |  880 Cp | 79.76% Perfect | Lvl 15 | FuryCutter/Submission
+[20:50:40] Golbat              223 True Value |  800 Cp | 83.02% Perfect | Lvl 15 | WingAttack/OminousWind
+[20:50:40] Magmar              240 True Value |  768 Cp | 93.26% Perfect | Lvl 12 | KarateChop/Flamethrower
+[20:50:40] Raticate            242 True Value |  764 Cp | 61.33% Perfect | Lvl 20 | Bite/HyperBeam
+[20:50:40] Aerodactyl          249 True Value |  758 Cp | 63.19% Perfect | Lvl 13 | SteelWing/HyperBeam
+[20:50:40] Dodrio              215 True Value |  742 Cp | 66.22% Perfect | Lvl 15 | SteelWing/DrillPeck
+[20:50:40] Fearow              184 True Value |  705 Cp | 66.57% Perfect | Lvl 15 | Peck/AerialAce
+[20:50:40] Scyther             205 True Value |  618 Cp | 67.71% Perfect | Lvl 11 | SteelWing/XScissor
+[20:50:40] Oddish              193 True Value |  609 Cp | 66.69% Perfect | Lvl 20 | Acid/SludgeBomb
+[20:50:40] Clefairy            166 True Value |  600 Cp | 19.05% Perfect | Lvl 21 | ZenHeadbutt/Moonblast
+[20:50:40] Pidgeotto           142 True Value |  595 Cp | 26.99% Perfect | Lvl 20 | SteelWing/Twister
+[20:50:40] Venonat             171 True Value |  593 Cp | 62.48% Perfect | Lvl 22 | Confusion/PoisonFang
+[20:50:40] Venonat             189 True Value |  582 Cp | 74.06% Perfect | Lvl 21 | Confusion/Psybeam
