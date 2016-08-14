@@ -33473,3 +33473,21 @@
 [20:37:42] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
 [20:37:43] (INFO) Found 1 catchable Pokemon
 [20:37:45] (Wild Success) | Zubat 121 V |   10 Cp | 54.68% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
+[20:37:47] (INFO) Found 1 pokemon to transfer...
+[20:37:48] (TRANSFER) Zubat 121 V |   10 Cp | 54.68% | Lvl 01 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 644
+[20:37:49] (POKESTOP) Yong Siew Toh Conservatory of Music in 87.57 m distance
+[20:37:49] (NAVIGATION) Distance to target location: 87.57 meters. Will take 11.26 seconds driving at 28kmh
+[20:37:58] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:38:01] (POKESTOP) Proverb in a Corner in 74.01 m distance
+[20:38:01] (NAVIGATION) Distance to target location: 74.01 meters. Will take 8.33 seconds driving at 32kmh
+[20:38:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:38:09] (POKESTOP) Together Again in 76.55 m distance
+[20:38:09] (NAVIGATION) Distance to target location: 76.55 meters. Will take 8.89 seconds driving at 31kmh
+[20:38:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:38:17] (POKESTOP) Writings on the Wall in 111.34 m distance
+[20:38:17] (NAVIGATION) Distance to target location: 111.34 meters. Will take 12.93 seconds driving at 31kmh
+[20:38:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:38:29] (POKESTOP) Raffles Hall Art Piece (1984/85) in 196.65 m distance
+[20:38:29] (NAVIGATION) Distance to target location: 196.65 meters. Will take 19.66 seconds driving at 36kmh
+[20:38:45] (INFO) Found 1 catchable Pokemon
+[20:38:46] (Wild Success) | Caterpie 71 V |   79 Cp | 8.48% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
