@@ -31035,3 +31035,13 @@
 [13:54:59] (NAVIGATION) Distance to target location: 73.61 meters. Will take 8.28 seconds driving at 32kmh
 [13:55:05] (INFO) Found 1 catchable Pokemon
 [13:55:07] (Wild Success) | Venonat 152 V |  416 Cp | 47.99% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
+[13:55:09] (INFO) Found 1 pokemon to transfer...
+[13:55:10] (TRANSFER) Venonat 152 V |  416 Cp | 47.99% | Lvl 16 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 182
+[13:55:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[13:55:12] (POKESTOP) West Coast Park Sign in 85.28 m distance
+[13:55:12] (NAVIGATION) Distance to target location: 85.28 meters. Will take 10.59 seconds driving at 29kmh
+[13:55:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall
+[13:55:23] (POKESTOP) West Coast Park Connector in 98.69 m distance
+[13:55:23] (NAVIGATION) Distance to target location: 98.69 meters. Will take 12.69 seconds driving at 28kmh
+[13:55:25] (INFO) Found 1 catchable Pokemon
+[13:55:27] (Wild Success) | Bellsprout 85 V |   44 Cp | 52.02% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
