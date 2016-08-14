@@ -23860,3 +23860,13 @@
 [09:21:41] (INFO) Found 1 catchable Pokemon
 [09:21:41] (BERRY) ItemRazzBerry used, remaining: 47
 [09:21:43] (Wild Success) | Ekans 90 V |  378 Cp | 38.42% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[09:21:45] (INFO) Found 1 pokemon to transfer...
+[09:21:46] (TRANSFER) Ekans 90 V |  378 Cp | 38.42% | Lvl 19 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 197
+[09:21:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[09:21:51] (POKESTOP) Ayer Rajah Food Centre &  Market in 184.19 m distance
+[09:21:51] (NAVIGATION) Distance to target location: 184.19 meters. Will take 19.5 seconds driving at 34kmh
+[09:22:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[09:22:10] (POKESTOP) The Fishman in 252.09 m distance
+[09:22:10] (NAVIGATION) Distance to target location: 252.09 meters. Will take 19.73 seconds driving at 46kmh
+[09:22:27] (INFO) Found 2 catchable Pokemon
+[09:22:29] (Wild Success) | Pidgey 100 V |   59 Cp | 39.16% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
