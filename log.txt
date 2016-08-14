@@ -38718,3 +38718,7 @@
 [23:42:00] (Wild Success Attempt #2) | Psyduck 145 V |  356 Cp | 36.67% | Lvl 13 | Chance: 0.41 | with a GreatBall 
 [23:42:01] (BERRY) ItemRazzBerry used, remaining: 42
 [23:42:02] (Wild Success) | Eevee 182 V |  523 Cp | 74.76% | Lvl 18 | Chance: 0.28 | with a UltraBall and received XP 210
+[23:42:03] (INFO) Found 1 pokemon to transfer...
+[23:42:05] (TRANSFER) Psyduck 145 V |  356 Cp | 36.67% | Lvl 13 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 137
+[23:42:07] (INFO) Found 1 catchable Pokemon
+[23:42:08] (Wild Success) | Seel 110 V |  372 Cp | 26.12% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
