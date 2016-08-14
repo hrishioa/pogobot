@@ -40663,3 +40663,11 @@
 [00:43:00] (NAVIGATION) Distance to target location: 69.98 meters. Will take 9 seconds driving at 28kmh
 [00:43:06] (INFO) Found 1 catchable Pokemon
 [00:43:08] (Wild Success) | Magnemite 166 V |  369 Cp | 63.58% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:43:10] (INFO) Found 1 pokemon to transfer...
+[00:43:11] (TRANSFER) Magnemite 156 V |  353 Cp | 70.66% | Lvl 15 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 114
+[00:43:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:43:14] (POKESTOP) Water Walls in 106.04 m distance
+[00:43:14] (NAVIGATION) Distance to target location: 106.04 meters. Will take 13.63 seconds driving at 28kmh
+[00:43:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[00:43:27] (INFO) Found 1 catchable Pokemon
+[00:43:28] (Wild Success) | NidoranMale 101 V |   73 Cp | 31.54% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
