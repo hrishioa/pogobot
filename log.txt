@@ -43909,3 +43909,13 @@
 [02:20:47] (NAVIGATION) Distance to target location: 70.25 meters. Will take 7.9 seconds driving at 32kmh
 [02:20:53] (INFO) Found 1 catchable Pokemon
 [02:20:55] (Wild Success) | Magikarp 129 V |  170 Cp | 86.88% | Lvl 24 | Chance: 0.42 | with a GreatBall and received XP 310
+[02:20:56] (INFO) Found 1 pokemon to transfer...
+[02:20:58] (TRANSFER) Magikarp 116 V |  154 Cp | 75.51% | Lvl 23 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 409
+[02:20:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 2 x ItemPotion
+[02:21:00] (POKESTOP) Pirate Queen in 70.25 m distance
+[02:21:00] (NAVIGATION) Distance to target location: 70.25 meters. Will take 8.43 seconds driving at 30kmh
+[02:21:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemUltraBall
+[02:21:08] (POKESTOP) Sapphire Pavillion  in 113.71 m distance
+[02:21:08] (NAVIGATION) Distance to target location: 113.71 meters. Will take 14.12 seconds driving at 29kmh
+[02:21:12] (INFO) Found 1 catchable Pokemon
+[02:21:14] (Wild Success) | NidoranFemale 123 V |  130 Cp | 58.50% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
