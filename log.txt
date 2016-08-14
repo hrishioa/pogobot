@@ -36571,3 +36571,8 @@
 [22:27:10] (NAVIGATION) Distance to target location: 146.28 meters. Will take 16.99 seconds driving at 31kmh
 [22:27:14] (INFO) Found 1 catchable Pokemon
 [22:27:15] (Wild Success) | Seel 151 V |  273 Cp | 83.59% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 710
+[22:27:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:27:26] (POKESTOP) Resident Wildfire Area in 704.64 m distance
+[22:27:26] (NAVIGATION) Distance to target location: 704.64 meters. Will take 36.24 seconds driving at 70kmh
+[22:27:34] (INFO) Found 1 catchable Pokemon
+[22:27:36] (Wild Success) | NidoranMale 94 V |   32 Cp | 41.94% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
