@@ -42379,3 +42379,11 @@
 [01:32:59] (INFO) Found 2 catchable Pokemon
 [01:33:00] (Wild Success) | Voltorb 146 V |   11 Cp | 79.56% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [01:33:02] (Wild Success) | Magnemite 105 V |  121 Cp | 31.16% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[01:33:04] (INFO) Found 2 pokemon to transfer...
+[01:33:05] (TRANSFER) Magnemite 105 V |  121 Cp | 31.16% | Lvl 06 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 161
+[01:33:08] (TRANSFER) Voltorb 146 V |   11 Cp | 79.56% | Lvl 01 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 184
+[01:33:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[01:33:12] (POKESTOP) Boy with Flute Balancing on Unicycle in 67.02 m distance
+[01:33:12] (NAVIGATION) Distance to target location: 67.02 meters. Will take 8.62 seconds driving at 28kmh
+[01:33:16] (INFO) Found 1 catchable Pokemon
+[01:33:18] (Wild Success) | Shellder 137 V |  253 Cp | 60.40% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
