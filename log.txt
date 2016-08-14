@@ -28899,3 +28899,61 @@
 [12:28:29] (TRANSFER) Sandshrew 121 V |  363 Cp | 17.78% | Lvl 20 | Best: [Sandshrew 149 V |  268 Cp | 62.28% | Lvl 13] | Candy: 76
 [12:28:37] (INFO) Found 1 catchable Pokemon
 [12:28:39] (Wild Success) | Kakuna 62 V |   93 Cp | 20.63% | Lvl 09 | Chance: 0.25 | with a GreatBall and received XP 210
+[12:28:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:28:45] (INFO) Found 3 Recyclable Items:
+[12:28:45] (RECYCLING) PokeBall x 8
+[12:28:46] (RECYCLING) Potion x 1
+[12:28:47] (RECYCLING) Revive x 2
+[12:28:49] (POKESTOP) NUS Model in 30.11 m distance
+[12:28:49] (NAVIGATION) Distance to target location: 30.11 meters. Will take 3.5 seconds driving at 31kmh
+[12:28:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:28:53] (POKESTOP) The Deck at Arts Faculty in 112 m distance
+[12:28:53] (NAVIGATION) Distance to target location: 112 meters. Will take 13.9 seconds driving at 29kmh
+[12:29:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[12:29:07] (POKESTOP) Fragrant Plant Garden in 91.32 m distance
+[12:29:07] (NAVIGATION) Distance to target location: 91.32 meters. Will take 10.27 seconds driving at 32kmh
+[12:29:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[12:29:17] (POKESTOP) Park Gazebos in 53.88 m distance
+[12:29:17] (NAVIGATION) Distance to target location: 53.88 meters. Will take 6.06 seconds driving at 32kmh
+[12:29:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[12:29:23] (POKESTOP) Footprint Bench in 164.13 m distance
+[12:29:23] (NAVIGATION) Distance to target location: 164.13 meters. Will take 18.46 seconds driving at 32kmh
+[12:29:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:29:42] (INFO) Found 3 Recyclable Items:
+[12:29:42] (RECYCLING) PokeBall x 7
+[12:29:43] (RECYCLING) Potion x 2
+[12:29:44] (RECYCLING) SuperPotion x 1
+[12:29:47] (POKESTOP) Ventus in 97.02 m distance
+[12:29:47] (NAVIGATION) Distance to target location: 97.02 meters. Will take 11.27 seconds driving at 31kmh
+[12:29:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemHyperPotion, 3 x ItemPokeBall
+[12:29:57] (POKESTOP) Heritage Time Arc in 69.43 m distance
+[12:29:57] (NAVIGATION) Distance to target location: 69.43 meters. Will take 8.33 seconds driving at 30kmh
+[12:30:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemMaxPotion, 1 x ItemUltraBall, 1 x ItemPokeBall
+[12:30:06] (POKESTOP) Corridor of Love Mural in 99.81 m distance
+[12:30:06] (NAVIGATION) Distance to target location: 99.81 meters. Will take 12.83 seconds driving at 28kmh
+[12:30:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:30:18] (POKESTOP) NUS monolith in 201.71 m distance
+[12:30:18] (NAVIGATION) Distance to target location: 201.71 meters. Will take 19.63 seconds driving at 37kmh
+[12:30:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:30:38] (POKESTOP) Metal Robot Structure in 155.43 m distance
+[12:30:38] (NAVIGATION) Distance to target location: 155.43 meters. Will take 17.49 seconds driving at 32kmh
+[12:30:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:30:54] (INFO) Found 2 Recyclable Items:
+[12:30:55] (RECYCLING) PokeBall x 4
+[12:30:56] (RECYCLING) Potion x 1
+[12:30:59] (POKESTOP) Abstact Sculptures At NUS in 123.47 m distance
+[12:30:59] (NAVIGATION) Distance to target location: 123.47 meters. Will take 14.82 seconds driving at 30kmh
+[12:31:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[12:31:13] (POKESTOP) SDE Mural in 111.92 m distance
+[12:31:13] (NAVIGATION) Distance to target location: 111.92 meters. Will take 13.43 seconds driving at 30kmh
+[12:31:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[12:31:26] (POKESTOP) Center for English Language Communication in 110.31 m distance
+[12:31:26] (NAVIGATION) Distance to target location: 110.31 meters. Will take 12.41 seconds driving at 32kmh
+[12:31:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:31:38] (POKESTOP) NUS Central Library in 162.58 m distance
+[12:31:38] (NAVIGATION) Distance to target location: 162.58 meters. Will take 19.51 seconds driving at 30kmh
+[12:31:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:31:58] (POKESTOP) Survival Mask in 62.38 m distance
+[12:31:58] (NAVIGATION) Distance to target location: 62.38 meters. Will take 7.02 seconds driving at 32kmh
+[12:31:59] (INFO) Found 1 catchable Pokemon
+[12:32:01] (Wild Success) | Weedle 82 V |  180 Cp | 8.71% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
