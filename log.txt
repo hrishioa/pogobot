@@ -23256,3 +23256,10 @@
 [09:02:32] (TRANSFER) Magikarp 105 V |   79 Cp | 72.00% | Lvl 12 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 166
 [09:02:33] (INFO) Found 1 catchable Pokemon
 [09:02:35] (Wild Success) | Magikarp 65 V |   10 Cp | 38.66% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[09:02:37] (INFO) Found 1 pokemon to transfer...
+[09:02:38] (TRANSFER) Magikarp 65 V |   10 Cp | 38.66% | Lvl 02 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 170
+[09:02:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[09:02:40] (POKESTOP) Clementi West Street 1 Circle in 147.84 m distance
+[09:02:40] (NAVIGATION) Distance to target location: 147.84 meters. Will take 18.35 seconds driving at 29kmh
+[09:02:55] (INFO) Found 2 catchable Pokemon
+[09:02:57] (Wild Success) | Pidgey 105 V |  112 Cp | 44.21% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
