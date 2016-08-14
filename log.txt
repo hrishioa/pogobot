@@ -38426,3 +38426,9 @@
 [23:31:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemRevive, 2 x ItemPokeBall
 [23:31:26] (INFO) Found 1 catchable Pokemon
 [23:31:27] (Wild Success) | Shellder 119 V |  292 Cp | 33.12% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[23:31:29] (INFO) Found 1 pokemon to transfer...
+[23:31:31] (TRANSFER) Shellder 119 V |  292 Cp | 33.12% | Lvl 15 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 38
+[23:31:31] (POKESTOP) Porcelain Egg Statue in 305.04 m distance
+[23:31:31] (NAVIGATION) Distance to target location: 305.04 meters. Will take 19.97 seconds driving at 55kmh
+[23:31:39] (INFO) Found 1 catchable Pokemon
+[23:31:42] (Wild Success) | Golduck 139 V |  295 Cp | 43.75% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 710
