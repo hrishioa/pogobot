@@ -42342,3 +42342,13 @@
 [01:32:06] (INFO) Found 3 catchable Pokemon
 [01:32:08] (Wild Success) | Voltorb 139 V |  102 Cp | 59.37% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
 [01:32:09] (Wild Success) | Shellder 111 V |  272 Cp | 32.29% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[01:32:11] (BERRY) ItemRazzBerry used, remaining: 48
+[01:32:11] (Wild Escape) | Magneton 123 V |  424 Cp | 31.47% | Lvl 09 | Chance: 0.2 | with a UltraBall 
+[01:32:12] (BERRY) ItemRazzBerry used, remaining: 47
+[01:32:13] (Wild Success Attempt #2) | Magneton 123 V |  424 Cp | 31.47% | Lvl 09 | Chance: 0.2 | with a UltraBall 
+[01:32:14] (INFO) Found 2 pokemon to transfer...
+[01:32:16] (TRANSFER) Shellder 111 V |  272 Cp | 32.29% | Lvl 14 | Best: [Shellder 164 V |  486 Cp | 60.24% | Lvl 23] | Candy: 62
+[01:32:18] (TRANSFER) Voltorb 139 V |  102 Cp | 59.37% | Lvl 05 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 180
+[01:32:20] (INFO) Found 1 catchable Pokemon
+[01:32:20] (BERRY) ItemRazzBerry used, remaining: 46
+[01:32:22] (Wild Success) | Meowth 139 V |  433 Cp | 35.96% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
