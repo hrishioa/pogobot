@@ -35505,3 +35505,26 @@
 [21:46:02] (NAVIGATION) Distance to target location: 77.36 meters. Will take 8.7 seconds driving at 32kmh
 [21:46:06] (INFO) Found 1 catchable Pokemon
 [21:46:08] (Wild Success) | Zubat 158 V |  132 Cp | 69.55% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[21:46:10] (INFO) Found 1 pokemon to transfer...
+[21:46:11] (TRANSFER) Zubat 158 V |  132 Cp | 69.55% | Lvl 08 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 1014
+[21:46:15] (POKESTOP) Bronze Sculpture "Contentment" in 58.34 m distance
+[21:46:15] (NAVIGATION) Distance to target location: 58.34 meters. Will take 6.77 seconds driving at 31kmh
+[21:46:22] (POKESTOP) Frustration of a Loner on a Rock in 81.76 m distance
+[21:46:22] (NAVIGATION) Distance to target location: 81.76 meters. Will take 9.49 seconds driving at 31kmh
+[21:46:31] (POKESTOP) University Cultural Centre in 100.25 m distance
+[21:46:31] (NAVIGATION) Distance to target location: 100.25 meters. Will take 11.28 seconds driving at 32kmh
+[21:46:42] (POKESTOP) FOE Singapore in 118.48 m distance
+[21:46:42] (NAVIGATION) Distance to target location: 118.48 meters. Will take 13.33 seconds driving at 32kmh
+[21:46:53] (INFO) Found 1 catchable Pokemon
+[21:46:54] (BERRY) ItemRazzBerry used, remaining: 40
+[21:46:54] (Wild Escape) | Golbat 235 V | 1007 Cp | 78.95% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[21:46:55] (BERRY) ItemRazzBerry used, remaining: 39
+[21:46:56] (Wild Success Attempt #2) | Golbat 235 V | 1007 Cp | 78.95% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[21:46:58] (INFO) Found 1 pokemon to transfer...
+[21:47:00] (TRANSFER) Golbat 218 V | 1062 Cp | 52.40% | Lvl 21 | Best: [Golbat 235 V | 1007 Cp | 78.95% | Lvl 19] | Candy: 1018
+[21:47:02] (POKESTOP) Race to the Future Car at FOE in 29.47 m distance
+[21:47:02] (NAVIGATION) Distance to target location: 29.47 meters. Will take 3.42 seconds driving at 31kmh
+[21:47:06] (POKESTOP) Pavilion at Engineering in 66.69 m distance
+[21:47:06] (NAVIGATION) Distance to target location: 66.69 meters. Will take 7.5 seconds driving at 32kmh
+[21:47:08] (INFO) Found 1 catchable Pokemon
+[21:47:09] (Wild Success) | Zubat 131 V |   96 Cp | 66.18% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
