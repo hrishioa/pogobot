@@ -40612,3 +40612,9 @@
 [00:41:30] (Wild Success) | Voltorb 149 V |   83 Cp | 78.60% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [00:41:31] (Wild Success) | Magnemite 156 V |  353 Cp | 70.66% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [00:41:33] (Wild Success) | Magnemite 117 V |  169 Cp | 38.44% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[00:41:34] (INFO) Found 3 pokemon to transfer...
+[00:41:37] (TRANSFER) Magnemite 155 V |  445 Cp | 51.32% | Lvl 20 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 105
+[00:41:38] (TRANSFER) Magnemite 117 V |  169 Cp | 38.44% | Lvl 08 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 106
+[00:41:41] (TRANSFER) Voltorb 149 V |   83 Cp | 78.60% | Lvl 04 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 116
+[00:41:42] (INFO) Found 1 catchable Pokemon
+[00:41:43] (Wild Success) | Magnemite 139 V |  289 Cp | 50.29% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
