@@ -42217,3 +42217,16 @@
 [01:30:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemUltraBall
 [01:30:18] (INFO) Found 1 catchable Pokemon
 [01:30:20] (Wild Success) | Voltorb 151 V |  198 Cp | 68.79% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[01:30:21] (INFO) Found 1 pokemon to transfer...
+[01:30:23] (TRANSFER) Voltorb 151 V |  198 Cp | 68.79% | Lvl 09 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 172
+[01:30:23] (POKESTOP) Images of Singapore in 62.77 m distance
+[01:30:23] (NAVIGATION) Distance to target location: 62.77 meters. Will take 8.07 seconds driving at 28kmh
+[01:30:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:30:31] (POKESTOP) Heritage Tree Leban Malayan Teak in 43.86 m distance
+[01:30:31] (NAVIGATION) Distance to target location: 43.86 meters. Will take 5.44 seconds driving at 29kmh
+[01:30:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[01:30:36] (POKESTOP) Pavillion at Sentosa in 117.32 m distance
+[01:30:36] (NAVIGATION) Distance to target location: 117.32 meters. Will take 15.08 seconds driving at 28kmh
+[01:30:45] (INFO) Found 1 catchable Pokemon
+[01:30:46] (BERRY) ItemRazzBerry used, remaining: 49
+[01:30:47] (Wild Success) | NidoranMale 121 V |  437 Cp | 28.14% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
