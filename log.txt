@@ -35772,3 +35772,20 @@
 [21:57:42] (BERRY) ItemRazzBerry used, remaining: 37
 [21:57:43] (Wild Success) | Poliwag 176 V |  434 Cp | 63.83% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
 [21:57:44] (Wild Success) | Weedle 73 V |   48 Cp | 36.25% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[21:57:46] (INFO) Found 2 pokemon to transfer...
+[21:57:47] (TRANSFER) Weedle 73 V |   48 Cp | 36.25% | Lvl 05 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 615
+[21:57:50] (TRANSFER) Poliwag 169 V |  396 Cp | 66.69% | Lvl 19 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 227
+[21:57:53] (POKESTOP) FOE Singapore in 86.48 m distance
+[21:57:53] (NAVIGATION) Distance to target location: 86.48 meters. Will take 10.74 seconds driving at 29kmh
+[21:58:03] (POKESTOP) Race to the Future Car at FOE in 38.29 m distance
+[21:58:03] (NAVIGATION) Distance to target location: 38.29 meters. Will take 4.75 seconds driving at 29kmh
+[21:58:07] (POKESTOP) University Cultural Centre in 116.19 m distance
+[21:58:07] (NAVIGATION) Distance to target location: 116.19 meters. Will take 14.94 seconds driving at 28kmh
+[21:58:22] (POKESTOP) Ten Two Six in 199.64 m distance
+[21:58:22] (NAVIGATION) Distance to target location: 199.64 meters. Will take 19.96 seconds driving at 36kmh
+[21:58:42] (POKESTOP) Veranda Sculpture in 57.11 m distance
+[21:58:42] (NAVIGATION) Distance to target location: 57.11 meters. Will take 6.63 seconds driving at 31kmh
+[21:58:48] (POKESTOP) West Coast Fan in 252.17 m distance
+[21:58:48] (NAVIGATION) Distance to target location: 252.17 meters. Will take 19.73 seconds driving at 46kmh
+[21:59:04] (INFO) Found 1 catchable Pokemon
+[21:59:07] (Wild Success) | Magikarp 77 V |  113 Cp | 41.32% | Lvl 20 | Chance: 0.46 | with a PokeBall and received XP 210
