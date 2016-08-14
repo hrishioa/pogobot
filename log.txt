@@ -29968,3 +29968,7 @@
 [13:17:28] (NAVIGATION) Distance to target location: 67.09 meters. Will take 7.79 seconds driving at 31kmh
 [13:17:31] (INFO) Found 1 catchable Pokemon
 [13:17:33] (Wild Success) | Venomoth 159 V |  288 Cp | 55.33% | Lvl 06 | Chance: 0.24 | with a UltraBall and received XP 210
+[13:17:34] (INFO) Found 1 pokemon to transfer...
+[13:17:36] (TRANSFER) Venomoth 150 V |  133 Cp | 66.92% | Lvl 03 | Best: [Venomoth 234 V |  784 Cp | 81.20% | Lvl 15] | Candy: 170
+[13:17:37] (INFO) Found 2 catchable Pokemon
+[13:17:39] (Wild Success) | Bellsprout 73 V |   43 Cp | 41.90% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
