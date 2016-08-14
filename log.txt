@@ -22569,3 +22569,12 @@
 [08:38:11] (Wild Success) | Sandshrew 149 V |  268 Cp | 62.28% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [08:38:13] (Wild Success) | Pidgey 81 V |  251 Cp | 10.69% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
 [08:38:15] (Wild Success) | Pidgey 89 V |   25 Cp | 47.39% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[08:38:17] (INFO) Found 3 pokemon to transfer...
+[08:38:18] (TRANSFER) Pidgey 89 V |   25 Cp | 47.39% | Lvl 02 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 1038
+[08:38:20] (TRANSFER) Pidgey 81 V |  251 Cp | 10.69% | Lvl 17 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 1039
+[08:38:23] (TRANSFER) Sandshrew 104 V |   71 Cp | 39.88% | Lvl 04 | Best: [Sandshrew 149 V |  268 Cp | 62.28% | Lvl 13] | Candy: 68
+[08:38:26] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemUltraBall, 3 x ItemPokeBall
+[08:38:27] (POKESTOP) KE7 Hall in 456.02 m distance
+[08:38:27] (NAVIGATION) Distance to target location: 456.02 meters. Will take 23.45 seconds driving at 70kmh
+[08:38:50] (INFO) Found 2 catchable Pokemon
+[08:38:51] (Wild Success) | Goldeen 147 V |  296 Cp | 54.88% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
