@@ -23709,3 +23709,7 @@
 [09:15:45] (NAVIGATION) Distance to target location: 114.57 meters. Will take 14.22 seconds driving at 29kmh
 [09:15:53] (INFO) Found 1 catchable Pokemon
 [09:15:54] (Wild Success) | Oddish 188 V |  408 Cp | 79.76% | Lvl 13 | Chance: 0.49 | with a GreatBall and received XP 210
+[09:15:56] (INFO) Found 1 pokemon to transfer...
+[09:15:57] (TRANSFER) Oddish 188 V |  408 Cp | 79.76% | Lvl 13 | Best: [Oddish 215 V |  600 Cp | 83.01% | Lvl 19] | Candy: 63
+[09:15:59] (INFO) Found 1 catchable Pokemon
+[09:16:00] (Wild Success) | Rattata 98 V |   20 Cp | 31.49% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
