@@ -21779,3 +21779,43 @@
 [08:11:19] (NAVIGATION) Distance to target location: 148.87 meters. Will take 19.14 seconds driving at 28kmh
 [08:11:32] (INFO) Found 1 catchable Pokemon
 [08:11:33] (Wild Success) | Pidgey 102 V |  225 Cp | 35.47% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[08:11:35] (INFO) Found 1 pokemon to transfer...
+[08:11:36] (TRANSFER) Pidgey 102 V |  225 Cp | 35.47% | Lvl 14 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 987
+[08:11:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:11:41] (POKESTOP) Fragrant Plant Garden in 98.08 m distance
+[08:11:41] (NAVIGATION) Distance to target location: 98.08 meters. Will take 11.77 seconds driving at 30kmh
+[08:11:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[08:11:53] (POKESTOP) Park Gazebos in 55.63 m distance
+[08:11:53] (NAVIGATION) Distance to target location: 55.63 meters. Will take 7.15 seconds driving at 28kmh
+[08:11:58] (INFO) Found 1 catchable Pokemon
+[08:11:59] (BERRY) ItemRazzBerry used, remaining: 50
+[08:12:00] (Wild Escape) | Zubat 176 V |  365 Cp | 65.33% | Lvl 22 | Chance: 0.31 | with a GreatBall 
+[08:12:00] (BERRY) ItemRazzBerry used, remaining: 49
+[08:12:01] (Wild Success Attempt #2) | Zubat 176 V |  365 Cp | 65.33% | Lvl 22 | Chance: 0.31 | with a GreatBall 
+[08:12:03] (INFO) Found 1 pokemon to transfer...
+[08:12:05] (TRANSFER) Zubat 163 V |  335 Cp | 68.65% | Lvl 20 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 682
+[08:12:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemSuperPotion
+[08:12:07] (POKESTOP) Footprint Bench in 161.61 m distance
+[08:12:07] (NAVIGATION) Distance to target location: 161.61 meters. Will take 18.77 seconds driving at 31kmh
+[08:12:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemGreatBall, 1 x ItemPokeBall
+[08:12:26] (POKESTOP) Ventus in 101.7 m distance
+[08:12:26] (NAVIGATION) Distance to target location: 101.7 meters. Will take 11.44 seconds driving at 32kmh
+[08:12:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[08:12:37] (INFO) Found 4 Recyclable Items:
+[08:12:37] (RECYCLING) RazzBerry x 1
+[08:12:39] (RECYCLING) PokeBall x 6
+[08:12:40] (RECYCLING) Potion x 1
+[08:12:41] (RECYCLING) SuperPotion x 1
+[08:12:43] (POKESTOP) Heritage Time Arc in 68.54 m distance
+[08:12:43] (NAVIGATION) Distance to target location: 68.54 meters. Will take 8.51 seconds driving at 29kmh
+[08:12:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[08:12:51] (POKESTOP) NUS monolith in 134.81 m distance
+[08:12:51] (NAVIGATION) Distance to target location: 134.81 meters. Will take 17.33 seconds driving at 28kmh
+[08:13:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[08:13:08] (POKESTOP) Kent Ridge Heritage Trail in 361.81 m distance
+[08:13:08] (NAVIGATION) Distance to target location: 361.81 meters. Will take 19.74 seconds driving at 66kmh
+[08:13:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRevive, 1 x ItemPokeBall
+[08:13:29] (POKESTOP) Chinese Scholar Painting in 91.13 m distance
+[08:13:29] (NAVIGATION) Distance to target location: 91.13 meters. Will take 10.25 seconds driving at 32kmh
+[08:13:31] (INFO) Found 1 catchable Pokemon
+[08:13:33] (Wild Success) | Spearow 124 V |  338 Cp | 33.46% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
