@@ -38748,3 +38748,20 @@
 [23:43:16] (NAVIGATION) Distance to target location: 63.14 meters. Will take 7.84 seconds driving at 29kmh
 [23:43:20] (INFO) Found 1 catchable Pokemon
 [23:43:22] (Wild Success) | Venonat 115 V |   67 Cp | 46.34% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[23:43:23] (INFO) Found 1 pokemon to transfer...
+[23:43:25] (TRANSFER) Venonat 115 V |   67 Cp | 46.34% | Lvl 03 | Best: [Venonat 189 V |  582 Cp | 74.06% | Lvl 21] | Candy: 74
+[23:43:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:43:28] (INFO) Found 3 Recyclable Items:
+[23:43:29] (RECYCLING) PokeBall x 11
+[23:43:29] (RECYCLING) Potion x 1
+[23:43:30] (RECYCLING) SuperPotion x 1
+[23:43:33] (POKESTOP) Malay Wall Lady in 585.82 m distance
+[23:43:33] (NAVIGATION) Distance to target location: 585.82 meters. Will take 30.13 seconds driving at 70kmh
+[23:44:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[23:44:06] (POKESTOP) Animal Statue in 95.38 m distance
+[23:44:06] (NAVIGATION) Distance to target location: 95.38 meters. Will take 12.26 seconds driving at 28kmh
+[23:44:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 3 x ItemPokeBall, 1 x ItemUltraBall
+[23:44:18] (POKESTOP) Children Playground in 176.61 m distance
+[23:44:18] (NAVIGATION) Distance to target location: 176.61 meters. Will take 19.87 seconds driving at 32kmh
+[23:44:29] (INFO) Found 1 catchable Pokemon
+[23:44:30] (Wild Success) | Psyduck 77 V |   68 Cp | 17.72% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
