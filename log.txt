@@ -33524,3 +33524,10 @@
 [20:40:13] (TRANSFER) Weedle 55 V |  118 Cp | 11.22% | Lvl 13 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 216
 [20:40:15] (INFO) Found 1 catchable Pokemon
 [20:40:16] (Wild Success) | Pidgey 133 V |  258 Cp | 57.49% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 420
+[20:40:18] (INFO) Found 1 pokemon to transfer...
+[20:40:19] (TRANSFER) Pidgey 133 V |  258 Cp | 57.49% | Lvl 15 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 609
+[20:40:21] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:40:22] (POKESTOP) Chinese Scholar Painting in 59.77 m distance
+[20:40:22] (NAVIGATION) Distance to target location: 59.77 meters. Will take 7.68 seconds driving at 28kmh
+[20:40:28] (INFO) Found 1 catchable Pokemon
+[20:40:30] (Wild Success) | Poliwag 144 V |  265 Cp | 59.46% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
