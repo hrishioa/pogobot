@@ -36509,3 +36509,4 @@
 [22:24:46] (INFO) Found 4 catchable Pokemon
 [22:24:47] (Wild Success) | Exeggcute 156 V |   47 Cp | 86.21% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [22:24:49] (Wild Success) | Zubat 85 V |   70 Cp | 33.32% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[22:24:51] (Wild Success) | Caterpie 90 V |  166 Cp | 17.71% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
