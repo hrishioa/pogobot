@@ -39158,3 +39158,10 @@
 [23:59:00] (TRANSFER) Voltorb 146 V |  194 Cp | 62.14% | Lvl 09 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 76
 [23:59:08] (INFO) Found 1 catchable Pokemon
 [23:59:10] (Wild Success) | Krabby 120 V |  114 Cp | 52.04% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[23:59:11] (INFO) Found 1 pokemon to transfer...
+[23:59:13] (TRANSFER) Krabby 120 V |  114 Cp | 52.04% | Lvl 06 | Best: [Krabby 166 V |  322 Cp | 80.04% | Lvl 15] | Candy: 142
+[23:59:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[23:59:17] (POKESTOP) Ficus Point in 134.42 m distance
+[23:59:17] (NAVIGATION) Distance to target location: 134.42 meters. Will take 16.13 seconds driving at 30kmh
+[23:59:23] (INFO) Found 2 catchable Pokemon
+[23:59:25] (Wild Success) | Zubat 124 V |  318 Cp | 36.87% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
