@@ -23816,3 +23816,9 @@
 [09:19:57] (INFO) Found 2 catchable Pokemon
 [09:20:00] (Wild Success) | Rattata 126 V |   53 Cp | 60.56% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [09:20:01] (Wild Success) | Bellsprout 117 V |   79 Cp | 80.01% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[09:20:03] (INFO) Found 2 pokemon to transfer...
+[09:20:04] (TRANSFER) Bellsprout 117 V |   79 Cp | 80.01% | Lvl 03 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 245
+[09:20:06] (TRANSFER) Rattata 126 V |   53 Cp | 60.56% | Lvl 04 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 641
+[09:20:08] (INFO) Found 1 catchable Pokemon
+[09:20:09] (BERRY) ItemRazzBerry used, remaining: 47
+[09:20:10] (Wild Success) | Pidgey 117 V |  359 Cp | 40.54% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
