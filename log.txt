@@ -23460,3 +23460,35 @@
 [09:08:03] (NAVIGATION) Distance to target location: 52.78 meters. Will take 6.55 seconds driving at 29kmh
 [09:08:04] (INFO) Found 1 catchable Pokemon
 [09:08:06] (Wild Success) | Zubat 125 V |  142 Cp | 51.43% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[09:08:07] (INFO) Found 1 pokemon to transfer...
+[09:08:09] (TRANSFER) Zubat 125 V |  142 Cp | 51.43% | Lvl 09 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 786
+[09:08:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[09:08:14] (POKESTOP) Writings on the Wall in 67.19 m distance
+[09:08:14] (NAVIGATION) Distance to target location: 67.19 meters. Will take 8.34 seconds driving at 29kmh
+[09:08:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[09:08:22] (POKESTOP) Sayings by the Stairs in 82.78 m distance
+[09:08:22] (NAVIGATION) Distance to target location: 82.78 meters. Will take 10.64 seconds driving at 28kmh
+[09:08:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:08:32] (POKESTOP) Alice Lee Plaza in 43.29 m distance
+[09:08:32] (NAVIGATION) Distance to target location: 43.29 meters. Will take 4.87 seconds driving at 32kmh
+[09:08:36] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[09:08:37] (POKESTOP) Feeding Chickens in 109.63 m distance
+[09:08:37] (NAVIGATION) Distance to target location: 109.63 meters. Will take 14.1 seconds driving at 28kmh
+[09:08:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:08:50] (INFO) Found 3 Recyclable Items:
+[09:08:51] (RECYCLING) PokeBall x 2
+[09:08:51] (RECYCLING) SuperPotion x 1
+[09:08:53] (RECYCLING) Revive x 2
+[09:08:55] (POKESTOP) Raffles Hall Art Piece (1984/85) in 81.69 m distance
+[09:08:55] (NAVIGATION) Distance to target location: 81.69 meters. Will take 9.8 seconds driving at 30kmh
+[09:09:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[09:09:05] (POKESTOP) Raffles Hall in 96.17 m distance
+[09:09:05] (NAVIGATION) Distance to target location: 96.17 meters. Will take 12.37 seconds driving at 28kmh
+[09:09:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:09:17] (POKESTOP) NUS Sports and Recreation Centre in 140.81 m distance
+[09:09:17] (NAVIGATION) Distance to target location: 140.81 meters. Will take 16.35 seconds driving at 31kmh
+[09:09:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:09:33] (POKESTOP) Tree of Light Bulbs in 85.88 m distance
+[09:09:33] (NAVIGATION) Distance to target location: 85.88 meters. Will take 9.66 seconds driving at 32kmh
+[09:09:41] (INFO) Found 1 catchable Pokemon
+[09:09:43] (Wild Success) | Zubat 103 V |   89 Cp | 43.97% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
