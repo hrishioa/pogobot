@@ -45216,3 +45216,25 @@
 [03:02:04] (Wild Success) | Psyduck 164 V |  361 Cp | 42.66% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [03:02:06] (Wild Success) | Magikarp 80 V |   81 Cp | 47.01% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
 [03:02:08] (Wild Success) | Caterpie 88 V |   65 Cp | 26.81% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[03:02:10] (INFO) Found 4 pokemon to transfer...
+[03:02:11] (TRANSFER) Psyduck 164 V |  361 Cp | 42.66% | Lvl 13 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 201
+[03:02:14] (TRANSFER) Caterpie 88 V |   65 Cp | 26.81% | Lvl 07 | Best: [Caterpie 163 V |  244 Cp | 88.98% | Lvl 20] | Candy: 219
+[03:02:15] (TRANSFER) Weedle 99 V |  110 Cp | 33.11% | Lvl 11 | Best: [Weedle 166 V |  245 Cp | 86.87% | Lvl 20] | Candy: 323
+[03:02:18] (TRANSFER) Magikarp 80 V |   81 Cp | 47.01% | Lvl 14 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 469
+[03:02:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:02:22] (POKESTOP) Gazebo At Keppel Island in 78.63 m distance
+[03:02:22] (NAVIGATION) Distance to target location: 78.63 meters. Will take 8.85 seconds driving at 32kmh
+[03:02:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[03:02:30] (POKESTOP) Yellow Beacon in 163.07 m distance
+[03:02:30] (NAVIGATION) Distance to target location: 163.07 meters. Will take 18.94 seconds driving at 31kmh
+[03:02:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[03:02:49] (POKESTOP) History of King's Dock in 88.37 m distance
+[03:02:49] (NAVIGATION) Distance to target location: 88.37 meters. Will take 10.6 seconds driving at 30kmh
+[03:02:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[03:02:59] (INFO) Found 2 Recyclable Items:
+[03:02:59] (RECYCLING) PokeBall x 7
+[03:03:00] (RECYCLING) Potion x 1
+[03:03:03] (POKESTOP) History of Keppel Harbor    in 129.44 m distance
+[03:03:03] (NAVIGATION) Distance to target location: 129.44 meters. Will take 14.56 seconds driving at 32kmh
+[03:03:09] (INFO) Found 1 catchable Pokemon
+[03:03:11] (Wild Success) | Magikarp 80 V |   81 Cp | 47.16% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
