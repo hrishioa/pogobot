@@ -43373,3 +43373,10 @@
 [02:02:10] (NAVIGATION) Distance to target location: 107.02 meters. Will take 12.84 seconds driving at 30kmh
 [02:02:12] (INFO) Found 1 catchable Pokemon
 [02:02:13] (Wild Success) | Weedle 143 V |  118 Cp | 76.30% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:02:15] (INFO) Found 1 pokemon to transfer...
+[02:02:17] (TRANSFER) Weedle 120 V |  130 Cp | 52.13% | Lvl 12 | Best: [Weedle 143 V |  118 Cp | 76.30% | Lvl 10] | Candy: 300
+[02:02:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:02:22] (POKESTOP) Happy Colours in 383.43 m distance
+[02:02:22] (NAVIGATION) Distance to target location: 383.43 meters. Will take 19.72 seconds driving at 70kmh
+[02:02:24] (INFO) Found 1 catchable Pokemon
+[02:02:26] (Wild Success) | Pikachu 114 V |  267 Cp | 22.17% | Lvl 13 | Chance: 0.16 | with a UltraBall and received XP 210
