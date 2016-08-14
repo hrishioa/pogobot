@@ -43730,3 +43730,16 @@
 [02:13:18] (Wild Success) | Krabby 137 V |   78 Cp | 77.16% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [02:13:19] (Wild Success) | Psyduck 171 V |  311 Cp | 50.39% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
 [02:13:21] (Wild Success) | Magikarp 116 V |  154 Cp | 75.51% | Lvl 23 | Chance: 0.43 | with a GreatBall and received XP 210
+[02:13:22] (INFO) Found 3 pokemon to transfer...
+[02:13:24] (TRANSFER) Magikarp 114 V |   75 Cp | 80.54% | Lvl 11 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 405
+[02:13:26] (TRANSFER) Psyduck 171 V |  311 Cp | 50.39% | Lvl 11 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 181
+[02:13:29] (TRANSFER) Krabby 137 V |   78 Cp | 77.16% | Lvl 04 | Best: [Krabby 176 V |  499 Cp | 68.90% | Lvl 24] | Candy: 170
+[02:13:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemHyperPotion, 1 x ItemPotion
+[02:13:32] (INFO) Found 3 Recyclable Items:
+[02:13:33] (RECYCLING) PokeBall x 10
+[02:13:34] (RECYCLING) Potion x 3
+[02:13:35] (RECYCLING) HyperPotion x 1
+[02:13:38] (POKESTOP) Siloso trapizza Children's castle in 79.63 m distance
+[02:13:38] (NAVIGATION) Distance to target location: 79.63 meters. Will take 9.89 seconds driving at 29kmh
+[02:13:44] (INFO) Found 1 catchable Pokemon
+[02:13:45] (Wild Success) | Goldeen 137 V |   66 Cp | 67.54% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
