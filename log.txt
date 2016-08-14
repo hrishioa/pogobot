@@ -38662,3 +38662,8 @@
 [23:38:54] (TRANSFER) Tentacool 116 V |  404 Cp | 25.64% | Lvl 19 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 44
 [23:38:56] (INFO) Found 1 catchable Pokemon
 [23:38:57] (Wild Success) | Ekans 53 V |  275 Cp | 10.86% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[23:38:59] (INFO) Found 1 pokemon to transfer...
+[23:39:01] (TRANSFER) Ekans 53 V |  275 Cp | 10.86% | Lvl 15 | Best: [Ekans 160 V |  250 Cp | 54.56% | Lvl 12] | Candy: 86
+[23:39:02] (INFO) Found 1 catchable Pokemon
+[23:39:03] (BERRY) ItemRazzBerry used, remaining: 43
+[23:39:04] (Wild Success) | Tentacool 94 V |  457 Cp | 33.51% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
