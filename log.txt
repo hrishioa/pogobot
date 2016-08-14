@@ -28425,3 +28425,15 @@
 [12:13:10] (NAVIGATION) Distance to target location: 49.9 meters. Will take 5.79 seconds driving at 31kmh
 [12:13:15] (INFO) Found 1 catchable Pokemon
 [12:13:16] (Wild Success) | Pidgey 104 V |   61 Cp | 48.37% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[12:13:18] (INFO) Found 1 pokemon to transfer...
+[12:13:19] (TRANSFER) Pidgey 104 V |   61 Cp | 48.37% | Lvl 04 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1154
+[12:13:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:13:22] (INFO) Found 2 Recyclable Items:
+[12:13:22] (RECYCLING) PokeBall x 3
+[12:13:23] (RECYCLING) Potion x 1
+[12:13:25] (POKESTOP) Campsite Area in 61.42 m distance
+[12:13:25] (NAVIGATION) Distance to target location: 61.42 meters. Will take 7.13 seconds driving at 31kmh
+[12:13:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[12:13:32] (INFO) Found 2 catchable Pokemon
+[12:13:33] (BERRY) ItemRazzBerry used, remaining: 49
+[12:13:34] (Wild Success) | Bellsprout 111 V |  606 Cp | 20.96% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
