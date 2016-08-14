@@ -46053,3 +46053,12 @@
 [03:25:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemUltraBall, 1 x ItemPokeBall
 [03:25:49] (INFO) Found 1 catchable Pokemon
 [03:25:51] (Wild Success) | Pidgey 120 V |  188 Cp | 56.20% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[03:25:53] (INFO) Found 1 pokemon to transfer...
+[03:25:55] (TRANSFER) Pidgey 120 V |  188 Cp | 56.20% | Lvl 11 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1390
+[03:25:55] (POKESTOP) Terrace Garden Park in 93.84 m distance
+[03:25:55] (NAVIGATION) Distance to target location: 93.84 meters. Will take 11.65 seconds driving at 29kmh
+[03:26:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:26:07] (POKESTOP) Alkaff Pavilion in 65.53 m distance
+[03:26:07] (NAVIGATION) Distance to target location: 65.53 meters. Will take 7.37 seconds driving at 32kmh
+[03:26:09] (INFO) Found 1 catchable Pokemon
+[03:26:11] (Wild Success) | Pidgey 94 V |  183 Cp | 20.60% | Lvl 12 | Chance: 0.43 | with a UltraBall and received XP 210
