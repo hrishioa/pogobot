@@ -45348,3 +45348,44 @@
 [03:04:25] (INFO) Found 1 catchable Pokemon
 [03:04:26] (BERRY) ItemRazzBerry used, remaining: 41
 [03:04:27] (Wild Success) | Eevee 199 V |  529 Cp | 79.37% | Lvl 18 | Chance: 0.28 | with a UltraBall and received XP 210
+[03:04:28] (INFO) Found 1 pokemon to transfer...
+[03:04:30] (TRANSFER) Eevee 182 V |  523 Cp | 74.76% | Lvl 18 | Best: [Eevee 199 V |  529 Cp | 79.37% | Lvl 18] | Candy: 54
+[03:04:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[03:04:33] (ATTENTION) No locations in your area...
+[03:04:39] (INFO) Found 47 Pokestops
+[03:04:39] (POKESTOP) Tian Gong Temple in 123.85 m distance
+[03:04:39] (NAVIGATION) Distance to target location: 123.85 meters. Will take 15.92 seconds driving at 28kmh
+[03:04:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[03:04:56] (POKESTOP) Telok Blangah Play Court in 113.19 m distance
+[03:04:56] (NAVIGATION) Distance to target location: 113.19 meters. Will take 13.14 seconds driving at 31kmh
+[03:05:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[03:05:09] (POKESTOP) Telok Blangah Drive Playground in 86.65 m distance
+[03:05:09] (NAVIGATION) Distance to target location: 86.65 meters. Will take 10.4 seconds driving at 30kmh
+[03:05:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPotion, 1 x ItemUltraBall
+[03:05:19] (INFO) Found 3 Recyclable Items:
+[03:05:20] (RECYCLING) PokeBall x 6
+[03:05:21] (RECYCLING) Potion x 1
+[03:05:22] (RECYCLING) Revive x 3
+[03:05:24] (POKESTOP) Blangah Court Sign in 178.26 m distance
+[03:05:24] (NAVIGATION) Distance to target location: 178.26 meters. Will take 19.45 seconds driving at 33kmh
+[03:05:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall, 1 x ItemPotion
+[03:05:44] (POKESTOP) Transportation Development Mural    in 162.46 m distance
+[03:05:44] (NAVIGATION) Distance to target location: 162.46 meters. Will take 19.5 seconds driving at 30kmh
+[03:06:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[03:06:03] (POKESTOP) Development of the Arts Mural  in 95.79 m distance
+[03:06:03] (NAVIGATION) Distance to target location: 95.79 meters. Will take 11.89 seconds driving at 29kmh
+[03:06:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[03:06:15] (POKESTOP) Butterflies in 107.92 m distance
+[03:06:15] (NAVIGATION) Distance to target location: 107.92 meters. Will take 12.14 seconds driving at 32kmh
+[03:06:26] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 2 x ItemPotion, 1 x ItemUltraBall
+[03:06:27] (POKESTOP) Danish Seamen's Church in 115.53 m distance
+[03:06:27] (NAVIGATION) Distance to target location: 115.53 meters. Will take 14.85 seconds driving at 28kmh
+[03:06:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[03:06:41] (INFO) Found 3 Recyclable Items:
+[03:06:41] (RECYCLING) PokeBall x 14
+[03:06:42] (RECYCLING) Potion x 3
+[03:06:43] (RECYCLING) Revive x 1
+[03:06:46] (POKESTOP) Foresta Water Feature  in 327.52 m distance
+[03:06:46] (NAVIGATION) Distance to target location: 327.52 meters. Will take 19.98 seconds driving at 59kmh
+[03:06:58] (INFO) Found 1 catchable Pokemon
+[03:07:00] (Wild Success) | Spearow 66 V |  105 Cp | 19.01% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
