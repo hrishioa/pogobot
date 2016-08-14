@@ -29644,3 +29644,11 @@
 [13:02:25] (BERRY) ItemRazzBerry used, remaining: 45
 [13:02:26] (Wild Success) | Krabby 148 V |  388 Cp | 61.98% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
 [13:02:28] (Wild Success) | Poliwag 155 V |  285 Cp | 57.99% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[13:02:30] (INFO) Found 2 pokemon to transfer...
+[13:02:31] (TRANSFER) Krabby 148 V |  388 Cp | 61.98% | Lvl 19 | Best: [Krabby 178 V |  430 Cp | 80.74% | Lvl 20] | Candy: 185
+[13:02:34] (TRANSFER) Poliwag 155 V |  285 Cp | 57.99% | Lvl 14 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 200
+[13:02:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:02:38] (POKESTOP) NUS Model in 97.7 m distance
+[13:02:38] (NAVIGATION) Distance to target location: 97.7 meters. Will take 12.56 seconds driving at 28kmh
+[13:02:42] (INFO) Found 1 catchable Pokemon
+[13:02:44] (Wild Success) | Golbat 124 V |  131 Cp | 51.27% | Lvl 03 | Chance: 0.37 | with a GreatBall and received XP 210
