@@ -23263,3 +23263,5 @@
 [09:02:40] (NAVIGATION) Distance to target location: 147.84 meters. Will take 18.35 seconds driving at 29kmh
 [09:02:55] (INFO) Found 2 catchable Pokemon
 [09:02:57] (Wild Success) | Pidgey 105 V |  112 Cp | 44.21% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[09:02:58] (BERRY) ItemRazzBerry used, remaining: 47
+[09:02:59] (Wild Success) | Dodrio 162 V |  381 Cp | 53.72% | Lvl 08 | Chance: 0.21 | with a GreatBall and received XP 210
