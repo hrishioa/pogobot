@@ -32187,3 +32187,9 @@
 [14:38:29] (INFO) Found 1 catchable Pokemon
 [14:38:29] (BERRY) ItemRazzBerry used, remaining: 37
 [14:38:31] (Wild Success) | Bellsprout 100 V |  549 Cp | 18.13% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[14:38:32] (INFO) Found 1 pokemon to transfer...
+[14:38:34] (TRANSFER) Bellsprout 100 V |  549 Cp | 18.13% | Lvl 21 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 396
+[14:38:37] (POKESTOP) Campsite Area in 43.79 m distance
+[14:38:37] (NAVIGATION) Distance to target location: 43.79 meters. Will take 4.93 seconds driving at 32kmh
+[14:38:42] (INFO) Found 1 catchable Pokemon
+[14:38:44] (Wild Success) | Bellsprout 117 V |   42 Cp | 31.24% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
