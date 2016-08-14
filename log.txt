@@ -28115,3 +28115,11 @@
 [12:02:54] (INFO) Found 1 catchable Pokemon
 [12:02:56] (BERRY) ItemRazzBerry used, remaining: 48
 [12:02:56] (Wild Success) | Bellsprout 208 V |  639 Cp | 78.84% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[12:02:58] (INFO) Found 1 pokemon to transfer...
+[12:03:00] (TRANSFER) Bellsprout 200 V |  628 Cp | 71.65% | Lvl 21 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 249
+[12:03:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 2 x ItemPokeBall
+[12:03:04] (POKESTOP) Runme Shaw CFA Studios in 127.34 m distance
+[12:03:04] (NAVIGATION) Distance to target location: 127.34 meters. Will take 14.79 seconds driving at 31kmh
+[12:03:14] (INFO) Found 1 catchable Pokemon
+[12:03:16] (BERRY) ItemRazzBerry used, remaining: 47
+[12:03:16] (Wild Success) | Poliwag 143 V |  374 Cp | 46.55% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
