@@ -40656,3 +40656,10 @@
 [00:42:46] (NAVIGATION) Distance to target location: 66.81 meters. Will take 7.52 seconds driving at 32kmh
 [00:42:52] (INFO) Found 1 catchable Pokemon
 [00:42:54] (Wild Success) | Meowth 169 V |  184 Cp | 81.42% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[00:42:56] (INFO) Found 1 pokemon to transfer...
+[00:42:57] (TRANSFER) Meowth 155 V |   74 Cp | 75.53% | Lvl 04 | Best: [Meowth 169 V |  184 Cp | 81.42% | Lvl 09] | Candy: 61
+[00:42:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:43:00] (POKESTOP) Adam & Eve in 69.98 m distance
+[00:43:00] (NAVIGATION) Distance to target location: 69.98 meters. Will take 9 seconds driving at 28kmh
+[00:43:06] (INFO) Found 1 catchable Pokemon
+[00:43:08] (Wild Success) | Magnemite 166 V |  369 Cp | 63.58% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
