@@ -43551,3 +43551,20 @@
 [02:08:50] (NAVIGATION) Distance to target location: 137.16 meters. Will take 16.46 seconds driving at 30kmh
 [02:09:01] (INFO) Found 1 catchable Pokemon
 [02:09:03] (Wild Success) | Goldeen 106 V |  114 Cp | 47.56% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[02:09:05] (INFO) Found 1 pokemon to transfer...
+[02:09:06] (TRANSFER) Goldeen 106 V |  114 Cp | 47.56% | Lvl 05 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 249
+[02:09:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:09:10] (INFO) Found 2 Recyclable Items:
+[02:09:11] (RECYCLING) PokeBall x 10
+[02:09:12] (RECYCLING) Potion x 1
+[02:09:14] (POKESTOP) Giant Crab Anatomy in 85.6 m distance
+[02:09:14] (NAVIGATION) Distance to target location: 85.6 meters. Will take 10.63 seconds driving at 29kmh
+[02:09:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[02:09:25] (POKESTOP) Pyramid Totem in 77.29 m distance
+[02:09:25] (NAVIGATION) Distance to target location: 77.29 meters. Will take 9.94 seconds driving at 28kmh
+[02:09:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemSuperPotion, 4 x ItemPokeBall
+[02:09:34] (INFO) Found 42 Pokestops
+[02:09:36] (POKESTOP) The Great White Shark in 191.81 m distance
+[02:09:36] (NAVIGATION) Distance to target location: 191.81 meters. Will take 19.73 seconds driving at 35kmh
+[02:09:53] (INFO) Found 2 catchable Pokemon
+[02:09:56] (Wild Success) | Caterpie 100 V |  140 Cp | 36.21% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
