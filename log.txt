@@ -45068,3 +45068,10 @@
 [02:55:16] (NAVIGATION) Distance to target location: 971.85 meters. Will take 49.98 seconds driving at 70kmh
 [02:55:18] (INFO) Found 1 catchable Pokemon
 [02:55:20] (Wild Success) | Ekans 65 V |  150 Cp | 22.64% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[02:55:21] (INFO) Found 1 pokemon to transfer...
+[02:55:23] (TRANSFER) Ekans 65 V |  150 Cp | 22.64% | Lvl 08 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 134
+[02:56:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:56:09] (POKESTOP) Tian Gong Temple in 333.73 m distance
+[02:56:09] (NAVIGATION) Distance to target location: 333.73 meters. Will take 19.7 seconds driving at 61kmh
+[02:56:18] (INFO) Found 1 catchable Pokemon
+[02:56:20] (Wild Success) | Zubat 141 V |  280 Cp | 63.10% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
