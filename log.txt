@@ -33211,3 +33211,11 @@
 [20:29:29] (Wild Success) | Pidgey 93 V |  171 Cp | 25.55% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 420
 [20:29:31] (Wild Success) | Zubat 155 V |   26 Cp | 76.98% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
 [20:29:32] (Wild Success) | Zubat 156 V |  345 Cp | 47.22% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
+[20:29:34] (INFO) Found 3 pokemon to transfer...
+[20:29:36] (TRANSFER) Zubat 156 V |  345 Cp | 47.22% | Lvl 22 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 631
+[20:29:38] (TRANSFER) Zubat 155 V |   26 Cp | 76.98% | Lvl 02 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 632
+[20:29:40] (TRANSFER) Pidgey 93 V |  171 Cp | 25.55% | Lvl 11 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 577
+[20:29:41] (POKESTOP) Portrait of Yong Loo Lin in 80.06 m distance
+[20:29:41] (NAVIGATION) Distance to target location: 80.06 meters. Will take 9.94 seconds driving at 29kmh
+[20:29:42] (INFO) Found 1 catchable Pokemon
+[20:29:44] (Wild Success) | Staryu 153 V |   68 Cp | 94.34% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
