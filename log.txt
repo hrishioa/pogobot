@@ -33091,3 +33091,19 @@
 [20:23:47] (TRANSFER) Weedle 56 V |   83 Cp | 16.23% | Lvl 09 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 212
 [20:23:48] (INFO) Found 1 catchable Pokemon
 [20:23:50] (Wild Success) | Horsea 104 V |   71 Cp | 44.63% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 420
+[20:23:51] (INFO) Found 1 pokemon to transfer...
+[20:23:52] (TRANSFER) Horsea 104 V |   71 Cp | 44.63% | Lvl 04 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 25
+[20:23:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:23:56] (POKESTOP) ckNS–TaU—^ in 64.42 m distance
+[20:23:56] (NAVIGATION) Distance to target location: 64.42 meters. Will take 7.73 seconds driving at 30kmh
+[20:24:03] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:24:06] (POKESTOP) Golden Penda 2010 in 66.17 m distance
+[20:24:06] (NAVIGATION) Distance to target location: 66.17 meters. Will take 7.44 seconds driving at 32kmh
+[20:24:11] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:24:13] (POKESTOP) Sheltered Court in 76.76 m distance
+[20:24:13] (NAVIGATION) Distance to target location: 76.76 meters. Will take 8.64 seconds driving at 32kmh
+[20:24:20] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:24:21] (POKESTOP) Dover Playground at Block 3 and 4 in 63.36 m distance
+[20:24:21] (NAVIGATION) Distance to target location: 63.36 meters. Will take 8.15 seconds driving at 28kmh
+[20:24:23] (INFO) Found 1 catchable Pokemon
+[20:24:24] (Wild Success) | Rattata 144 V |  192 Cp | 62.86% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
