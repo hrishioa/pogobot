@@ -33506,3 +33506,14 @@
 [20:39:25] (INFO) Found 2 catchable Pokemon
 [20:39:27] (Wild Success) | Pidgey 100 V |  318 Cp | 17.94% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
 [20:39:29] (Wild Success) | Oddish 193 V |  609 Cp | 66.69% | Lvl 20 | Chance: 0.4 | with a GreatBall and received XP 420
+[20:39:30] (INFO) Found 2 pokemon to transfer...
+[20:39:32] (TRANSFER) Pidgey 100 V |  318 Cp | 17.94% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 605
+[20:39:34] (TRANSFER) Oddish 149 V |  351 Cp | 49.07% | Lvl 12 | Best: [Oddish 193 V |  609 Cp | 66.69% | Lvl 20] | Candy: 21
+[20:39:37] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:39:38] (POKESTOP) CRISP & TMSI in 175.41 m distance
+[20:39:38] (NAVIGATION) Distance to target location: 175.41 meters. Will take 19.73 seconds driving at 32kmh
+[20:39:56] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:39:57] (POKESTOP) Centre For Development Of Teaching And Learning in 125.29 m distance
+[20:39:57] (NAVIGATION) Distance to target location: 125.29 meters. Will take 16.11 seconds driving at 28kmh
+[20:40:03] (INFO) Found 2 catchable Pokemon
+[20:40:05] (Wild Success) | Weedle 55 V |  118 Cp | 11.22% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
