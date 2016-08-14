@@ -22319,3 +22319,7 @@
 [08:30:25] (INFO) Found 1 catchable Pokemon
 [08:30:26] (BERRY) ItemRazzBerry used, remaining: 46
 [08:30:27] (Wild Success) | Golbat 208 V |  828 Cp | 65.15% | Lvl 16 | Chance: 0.14 | with a GreatBall and received XP 210
+[08:30:29] (INFO) Found 1 pokemon to transfer...
+[08:30:30] (TRANSFER) Golbat 208 V |  828 Cp | 65.15% | Lvl 16 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 718
+[08:30:32] (INFO) Found 1 catchable Pokemon
+[08:30:33] (Wild Success) | Caterpie 92 V |   68 Cp | 34.80% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
