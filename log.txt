@@ -33769,3 +33769,17 @@
 [20:47:58] (BERRY) ItemRazzBerry used, remaining: 41
 [20:47:58] (Wild Success) | Staryu 142 V |  434 Cp | 39.26% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 420
 [20:48:00] (Wild Success) | Caterpie 86 V |  176 Cp | 17.94% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 420
+[20:48:02] (INFO) Found 2 pokemon to transfer...
+[20:48:04] (TRANSFER) Staryu 142 V |  434 Cp | 39.26% | Lvl 19 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 130
+[20:48:06] (TRANSFER) Caterpie 86 V |  176 Cp | 17.94% | Lvl 19 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 138
+[20:48:09] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[20:48:10] (POKESTOP) Dover Crescent in 36.54 m distance
+[20:48:10] (NAVIGATION) Distance to target location: 36.54 meters. Will take 4.24 seconds driving at 31kmh
+[20:48:13] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:48:14] (POKESTOP) SP School of Design in 219.09 m distance
+[20:48:14] (NAVIGATION) Distance to target location: 219.09 meters. Will take 19.72 seconds driving at 40kmh
+[20:48:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:48:35] (POKESTOP) Space Plus U @ SP in 96.77 m distance
+[20:48:35] (NAVIGATION) Distance to target location: 96.77 meters. Will take 11.61 seconds driving at 30kmh
+[20:48:41] (INFO) Found 1 catchable Pokemon
+[20:48:43] (Wild Success) | Metapod 79 V |  220 Cp | 7.24% | Lvl 23 | Chance: 0.15 | with a UltraBall and received XP 420
