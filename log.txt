@@ -45720,3 +45720,7 @@
 [03:18:00] (NAVIGATION) Distance to target location: 1163.87 meters. Will take 59.86 seconds driving at 70kmh
 [03:18:31] (INFO) Found 1 catchable Pokemon
 [03:18:34] (Wild Success) | Paras 128 V |  252 Cp | 48.43% | Lvl 11 | Chance: 0.36 | with a GreatBall and received XP 210
+[03:18:36] (INFO) Found 1 pokemon to transfer...
+[03:18:37] (TRANSFER) Paras 128 V |  252 Cp | 48.43% | Lvl 11 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 140
+[03:18:38] (INFO) Found 1 catchable Pokemon
+[03:19:01] (Wild Success) | Raticate 163 V |  209 Cp | 36.66% | Lvl 06 | Chance: 0.24 | with a GreatBall and received XP 210
