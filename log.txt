@@ -21944,3 +21944,26 @@
 [08:18:31] (INFO) Found 1 catchable Pokemon
 [08:18:32] (BERRY) ItemRazzBerry used, remaining: 46
 [08:18:33] (Wild Success) | Pidgey 102 V |  355 Cp | 11.18% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[08:18:35] (INFO) Found 1 pokemon to transfer...
+[08:18:36] (TRANSFER) Pidgey 102 V |  355 Cp | 11.18% | Lvl 24 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 995
+[08:18:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemUltraBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[08:18:40] (POKESTOP) Reaching Out in 34.12 m distance
+[08:18:40] (NAVIGATION) Distance to target location: 34.12 meters. Will take 4.09 seconds driving at 30kmh
+[08:18:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:18:43] (INFO) Found 4 Recyclable Items:
+[08:18:43] (RECYCLING) PokeBall x 9
+[08:18:45] (RECYCLING) Potion x 1
+[08:18:46] (RECYCLING) SuperPotion x 1
+[08:18:47] (RECYCLING) Revive x 1
+[08:18:48] (EGG) Hatched egg! Mankey              196 True Value |  485 Cp | 86.20% Perfect | Lvl 20 | KarateChop/BrickBreak
+[08:18:49] (EGG) Added 5km egg to incubator
+[08:18:50] (POKESTOP) Refugees (Flight II) in 41.84 m distance
+[08:18:50] (NAVIGATION) Distance to target location: 41.84 meters. Will take 5.38 seconds driving at 28kmh
+[08:18:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[08:18:56] (POKESTOP) Waves and Particles - NUS Science Faculty in 104.35 m distance
+[08:18:56] (NAVIGATION) Distance to target location: 104.35 meters. Will take 13.42 seconds driving at 28kmh
+[08:19:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:19:09] (POKESTOP) CMMAC in 116.02 m distance
+[08:19:09] (NAVIGATION) Distance to target location: 116.02 meters. Will take 13.05 seconds driving at 32kmh
+[08:19:17] (INFO) Found 1 catchable Pokemon
+[08:19:19] (Wild Success) | Pidgey 68 V |   38 Cp | 9.31% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
