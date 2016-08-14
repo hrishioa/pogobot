@@ -45198,3 +45198,18 @@
 [03:01:16] (INFO) Found 1 catchable Pokemon
 [03:01:17] (BERRY) ItemRazzBerry used, remaining: 44
 [03:01:18] (Wild Success) | Tentacool 173 V |  546 Cp | 66.03% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[03:01:20] (INFO) Found 1 pokemon to transfer...
+[03:01:21] (TRANSFER) Tentacool 142 V |  505 Cp | 52.65% | Lvl 22 | Best: [Tentacool 173 V |  546 Cp | 66.03% | Lvl 23] | Candy: 96
+[03:01:27] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall, 1 x ItemPotion
+[03:01:28] (INFO) Found 4 Recyclable Items:
+[03:01:28] (RECYCLING) PokeBall x 14
+[03:01:29] (RECYCLING) Potion x 1
+[03:01:30] (RECYCLING) HyperPotion x 1
+[03:01:30] (RECYCLING) Revive x 1
+[03:01:34] (POKESTOP) Teardrop in 187.79 m distance
+[03:01:34] (NAVIGATION) Distance to target location: 187.79 meters. Will take 19.88 seconds driving at 34kmh
+[03:01:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[03:01:55] (POKESTOP) Giant Metal Rain Drop in 81.15 m distance
+[03:01:55] (NAVIGATION) Distance to target location: 81.15 meters. Will take 10.43 seconds driving at 28kmh
+[03:02:01] (INFO) Found 4 catchable Pokemon
+[03:02:03] (Wild Success) | Weedle 99 V |  110 Cp | 33.11% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
