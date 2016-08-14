@@ -31818,3 +31818,25 @@
 [14:21:48] (INFO) Found 2 catchable Pokemon
 [14:21:49] (Wild Success) | Zubat 143 V |  312 Cp | 61.69% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
 [14:21:51] (Wild Success) | Zubat 147 V |  149 Cp | 67.10% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[14:21:52] (INFO) Found 2 pokemon to transfer...
+[14:21:54] (TRANSFER) Zubat 147 V |  149 Cp | 67.10% | Lvl 09 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 921
+[14:21:57] (TRANSFER) Zubat 143 V |  312 Cp | 61.69% | Lvl 19 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 922
+[14:22:13] (POKESTOP) Clementi Woods Park in 123 m distance
+[14:22:13] (NAVIGATION) Distance to target location: 123 meters. Will take 15.81 seconds driving at 28kmh
+[14:22:38] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[14:22:38] (ATTENTION) Restarting the application due to error...
+[14:22:38] (INFO) Logging in via: Google
+[14:22:39] (INFO) Client logged in
+[14:22:39] (INFO) Found 74 Pokestops
+[14:22:40] (POKESTOP) Clementi Woods Park in 17.78 m distance
+[14:22:40] (NAVIGATION) Distance to target location: 17.78 meters. Will take 2.29 seconds driving at 28kmh
+[14:22:43] (POKESTOP) West Coast Park Connector in 60.76 m distance
+[14:22:43] (NAVIGATION) Distance to target location: 60.76 meters. Will take 7.54 seconds driving at 29kmh
+[14:22:49] (POKESTOP) Clementi Bible Center in 53.4 m distance
+[14:22:49] (NAVIGATION) Distance to target location: 53.4 meters. Will take 6.87 seconds driving at 28kmh
+[14:22:55] (POKESTOP) West Coast Community Centre in 72.88 m distance
+[14:22:55] (NAVIGATION) Distance to target location: 72.88 meters. Will take 9.05 seconds driving at 29kmh
+[14:23:04] (POKESTOP) Wu Tai Shan  in 98.03 m distance
+[14:23:04] (NAVIGATION) Distance to target location: 98.03 meters. Will take 11.38 seconds driving at 31kmh
+[14:23:05] (INFO) Found 1 catchable Pokemon
+[14:23:08] (Wild Success) | Psyduck 152 V |  362 Cp | 43.88% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
