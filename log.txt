@@ -28593,3 +28593,11 @@
 [12:18:02] (NAVIGATION) Distance to target location: 108.81 meters. Will take 12.64 seconds driving at 31kmh
 [12:18:08] (INFO) Found 1 catchable Pokemon
 [12:18:09] (Wild Success) | Venonat 138 V |  353 Cp | 35.90% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[12:18:11] (INFO) Found 1 pokemon to transfer...
+[12:18:12] (TRANSFER) Venonat 138 V |  353 Cp | 35.90% | Lvl 14 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 162
+[12:18:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[12:18:17] (POKESTOP) Safety English Chess Table in 74.01 m distance
+[12:18:17] (NAVIGATION) Distance to target location: 74.01 meters. Will take 8.88 seconds driving at 30kmh
+[12:18:22] (INFO) Found 1 catchable Pokemon
+[12:18:23] (BERRY) ItemRazzBerry used, remaining: 49
+[12:18:24] (Wild Success) | Zubat 151 V |  392 Cp | 47.41% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
