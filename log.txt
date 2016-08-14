@@ -38738,3 +38738,13 @@
 [23:42:59] (TRANSFER) Paras 136 V |  399 Cp | 36.22% | Lvl 18 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 100
 [23:43:01] (INFO) Found 1 catchable Pokemon
 [23:43:02] (Wild Success) | Poliwag 124 V |  322 Cp | 33.22% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[23:43:04] (INFO) Found 1 pokemon to transfer...
+[23:43:05] (TRANSFER) Poliwag 124 V |  322 Cp | 33.22% | Lvl 17 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 140
+[23:43:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[23:43:10] (POKESTOP) Giant Plate And Bowls in 55.44 m distance
+[23:43:10] (NAVIGATION) Distance to target location: 55.44 meters. Will take 6.65 seconds driving at 30kmh
+[23:43:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[23:43:16] (POKESTOP) Sentosa Cove Arrival Hall in 63.14 m distance
+[23:43:16] (NAVIGATION) Distance to target location: 63.14 meters. Will take 7.84 seconds driving at 29kmh
+[23:43:20] (INFO) Found 1 catchable Pokemon
+[23:43:22] (Wild Success) | Venonat 115 V |   67 Cp | 46.34% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
