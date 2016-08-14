@@ -43543,3 +43543,4 @@
 [02:07:46] (NAVIGATION) Distance to target location: 1114.04 meters. Will take 57.29 seconds driving at 70kmh
 [02:08:39] (INFO) Found 2 catchable Pokemon
 [02:08:41] (Wild Success) | Rhyhorn 149 V |  408 Cp | 66.04% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[02:08:43] (Wild Success) | Caterpie 89 V |  122 Cp | 21.82% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
