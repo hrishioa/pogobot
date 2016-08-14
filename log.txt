@@ -36701,3 +36701,13 @@
 [22:33:17] (NAVIGATION) Distance to target location: 90.58 meters. Will take 10.19 seconds driving at 32kmh
 [22:33:25] (INFO) Found 1 catchable Pokemon
 [22:33:27] (Wild Success) | Poliwag 117 V |   53 Cp | 59.60% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[22:33:28] (INFO) Found 1 pokemon to transfer...
+[22:33:30] (TRANSFER) Poliwag 117 V |   53 Cp | 59.60% | Lvl 03 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 113
+[22:33:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:33:33] (POKESTOP) Skyline Luge Sentosa in 101.16 m distance
+[22:33:33] (NAVIGATION) Distance to target location: 101.16 meters. Will take 11.38 seconds driving at 32kmh
+[22:33:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:33:44] (POKESTOP) Musical Eggs in 141.04 m distance
+[22:33:44] (NAVIGATION) Distance to target location: 141.04 meters. Will take 16.93 seconds driving at 30kmh
+[22:33:59] (INFO) Found 2 catchable Pokemon
+[22:34:01] (Wild Success) | Magnemite 102 V |  120 Cp | 27.77% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
