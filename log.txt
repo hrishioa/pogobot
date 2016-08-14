@@ -31964,3 +31964,11 @@
 [14:27:58] (NAVIGATION) Distance to target location: 189.7 meters. Will take 19.51 seconds driving at 35kmh
 [14:28:05] (INFO) Found 1 catchable Pokemon
 [14:28:06] (Wild Success) | Caterpie 103 V |  166 Cp | 30.95% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[14:28:08] (INFO) Found 1 pokemon to transfer...
+[14:28:09] (TRANSFER) Caterpie 103 V |  166 Cp | 30.95% | Lvl 17 | Best: [Caterpie 120 V |  201 Cp | 50.39% | Lvl 19] | Candy: 191
+[14:28:17] (POKESTOP) West Coast Green Zone in 55.67 m distance
+[14:28:17] (NAVIGATION) Distance to target location: 55.67 meters. Will take 6.26 seconds driving at 32kmh
+[14:28:22] (POKESTOP) West Coast Road Sculpture in 61.35 m distance
+[14:28:22] (NAVIGATION) Distance to target location: 61.35 meters. Will take 6.9 seconds driving at 32kmh
+[14:28:25] (INFO) Found 1 catchable Pokemon
+[14:28:26] (Wild Success) | Weedle 78 V |   10 Cp | 21.98% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
