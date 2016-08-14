@@ -44056,3 +44056,16 @@
 [02:23:09] (TRANSFER) Magikarp 112 V |  139 Cp | 73.28% | Lvl 21 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 413
 [02:23:11] (INFO) Found 1 catchable Pokemon
 [02:23:12] (Wild Success) | Magikarp 93 V |  145 Cp | 54.39% | Lvl 24 | Chance: 0.42 | with a GreatBall and received XP 210
+[02:23:14] (INFO) Found 1 pokemon to transfer...
+[02:23:15] (TRANSFER) Magikarp 93 V |  145 Cp | 54.39% | Lvl 24 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 417
+[02:23:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:23:20] (POKESTOP) Giant Crab Anatomy in 85.6 m distance
+[02:23:20] (NAVIGATION) Distance to target location: 85.6 meters. Will take 11.01 seconds driving at 28kmh
+[02:23:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[02:23:30] (POKESTOP) Pyramid Totem in 78.18 m distance
+[02:23:30] (NAVIGATION) Distance to target location: 78.18 meters. Will take 10.05 seconds driving at 28kmh
+[02:23:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemRazzBerry, 1 x ItemPokeBall
+[02:23:39] (POKESTOP) Pavillion at Sentosa in 789.42 m distance
+[02:23:39] (NAVIGATION) Distance to target location: 789.42 meters. Will take 40.6 seconds driving at 70kmh
+[02:24:18] (INFO) Found 1 catchable Pokemon
+[02:24:21] (Wild Success) | NidoranFemale 100 V |  218 Cp | 45.77% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
