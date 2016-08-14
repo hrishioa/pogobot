@@ -41631,3 +41631,52 @@
 [01:12:05] (INFO) Found 1 catchable Pokemon
 [01:12:06] (BERRY) ItemRazzBerry used, remaining: 49
 [01:12:07] (Wild Success) | Poliwag 160 V |  469 Cp | 43.86% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
+[01:12:09] (INFO) Found 1 pokemon to transfer...
+[01:12:10] (TRANSFER) Poliwag 160 V |  469 Cp | 43.86% | Lvl 24 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 164
+[01:12:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:12:15] (POKESTOP) Dancing Boy by Romeo Britto in 92.05 m distance
+[01:12:15] (NAVIGATION) Distance to target location: 92.05 meters. Will take 11.83 seconds driving at 28kmh
+[01:12:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:12:26] (POKESTOP) Big Temptation in 108.44 m distance
+[01:12:26] (NAVIGATION) Distance to target location: 108.44 meters. Will take 13.46 seconds driving at 29kmh
+[01:12:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:12:39] (INFO) Found 2 Recyclable Items:
+[01:12:40] (RECYCLING) PokeBall x 4
+[01:12:40] (RECYCLING) Revive x 2
+[01:12:43] (POKESTOP) Big Apple in 59.98 m distance
+[01:12:43] (NAVIGATION) Distance to target location: 59.98 meters. Will take 6.97 seconds driving at 31kmh
+[01:12:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:12:51] (POKESTOP) Casino in 81.57 m distance
+[01:12:51] (NAVIGATION) Distance to target location: 81.57 meters. Will take 9.47 seconds driving at 31kmh
+[01:12:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[01:13:00] (POKESTOP) Aladin Fountain in 67.39 m distance
+[01:13:00] (NAVIGATION) Distance to target location: 67.39 meters. Will take 7.83 seconds driving at 31kmh
+[01:13:02] (INFO) Found 1 catchable Pokemon
+[01:13:03] (Wild Escape) | Spearow 90 V |  129 Cp | 39.90% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[01:13:04] (Wild Success Attempt #2) | Spearow 90 V |  129 Cp | 39.90% | Lvl 08 | Chance: 0.53 | with a PokeBall 
+[01:13:05] (INFO) Found 1 pokemon to transfer...
+[01:13:07] (TRANSFER) Spearow 90 V |  129 Cp | 39.90% | Lvl 08 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 243
+[01:13:11] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[01:13:12] (POKESTOP) Fountain Of Everlasting Life in 43.8 m distance
+[01:13:12] (NAVIGATION) Distance to target location: 43.8 meters. Will take 4.93 seconds driving at 32kmh
+[01:13:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:13:17] (POKESTOP) Wine Art in 65.57 m distance
+[01:13:17] (NAVIGATION) Distance to target location: 65.57 meters. Will take 7.38 seconds driving at 32kmh
+[01:13:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:13:23] (INFO) Found 1 Recyclable Item:
+[01:13:24] (RECYCLING) PokeBall x 4
+[01:13:27] (POKESTOP) Adam & Eve in 67.75 m distance
+[01:13:27] (NAVIGATION) Distance to target location: 67.75 meters. Will take 8.71 seconds driving at 28kmh
+[01:13:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[01:13:34] (POKESTOP) Water Walls in 118.71 m distance
+[01:13:34] (NAVIGATION) Distance to target location: 118.71 meters. Will take 14.25 seconds driving at 30kmh
+[01:13:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:13:47] (POKESTOP) Pavillion at Sentosa in 73.15 m distance
+[01:13:47] (NAVIGATION) Distance to target location: 73.15 meters. Will take 8.78 seconds driving at 30kmh
+[01:13:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:13:54] (POKESTOP) Sentosa in 81.78 m distance
+[01:13:54] (NAVIGATION) Distance to target location: 81.78 meters. Will take 9.5 seconds driving at 31kmh
+[01:14:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:14:04] (INFO) Found 1 catchable Pokemon
+[01:14:05] (BERRY) ItemRazzBerry used, remaining: 50
+[01:14:06] (Wild Success) | Sandshrew 125 V |  356 Cp | 28.92% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
