@@ -22878,3 +22878,13 @@
 [08:48:27] (NAVIGATION) Distance to target location: 230.69 meters. Will take 19.77 seconds driving at 42kmh
 [08:48:32] (INFO) Found 1 catchable Pokemon
 [08:48:34] (Wild Success) | Venonat 130 V |   41 Cp | 59.17% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[08:48:36] (INFO) Found 1 pokemon to transfer...
+[08:48:37] (TRANSFER) Venonat 130 V |   41 Cp | 59.17% | Lvl 02 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 146
+[08:48:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[08:48:49] (POKESTOP) Abstact Sculptures At NUS in 133.97 m distance
+[08:48:49] (NAVIGATION) Distance to target location: 133.97 meters. Will take 15.56 seconds driving at 31kmh
+[08:49:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[08:49:05] (POKESTOP) Metal Robot Structure in 122.88 m distance
+[08:49:05] (NAVIGATION) Distance to target location: 122.88 meters. Will take 13.82 seconds driving at 32kmh
+[08:49:13] (INFO) Found 1 catchable Pokemon
+[08:49:15] (Wild Success) | Pidgey 108 V |  292 Cp | 38.82% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
