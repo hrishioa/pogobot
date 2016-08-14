@@ -29754,3 +29754,13 @@
 [13:06:53] (TRANSFER) Horsea 135 V |  180 Cp | 57.29% | Lvl 09 | Best: [Horsea 163 V |  473 Cp | 63.63% | Lvl 23] | Candy: 78
 [13:06:54] (INFO) Found 1 catchable Pokemon
 [13:06:56] (Wild Success) | Bellsprout 154 V |  447 Cp | 43.65% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[13:06:58] (INFO) Found 1 pokemon to transfer...
+[13:06:59] (TRANSFER) Bellsprout 154 V |  447 Cp | 43.65% | Lvl 16 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 292
+[13:07:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[13:07:03] (INFO) Found 2 Recyclable Items:
+[13:07:04] (RECYCLING) PokeBall x 12
+[13:07:05] (RECYCLING) Potion x 3
+[13:07:07] (POKESTOP) Pavilion In the Park in 587.64 m distance
+[13:07:07] (NAVIGATION) Distance to target location: 587.64 meters. Will take 30.22 seconds driving at 70kmh
+[13:07:15] (INFO) Found 1 catchable Pokemon
+[13:07:17] (Wild Success) | Goldeen 150 V |  261 Cp | 77.25% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
