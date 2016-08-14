@@ -44034,3 +44034,4 @@
 [02:22:40] (TRANSFER) Weedle 65 V |  141 Cp | 18.76% | Lvl 15 | Best: [Weedle 166 V |  245 Cp | 86.87% | Lvl 20] | Candy: 315
 [02:22:41] (INFO) Found 2 catchable Pokemon
 [02:22:43] (Wild Success) | Venonat 165 V |  304 Cp | 72.58% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:22:44] (Wild Success) | Caterpie 84 V |   64 Cp | 22.98% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
