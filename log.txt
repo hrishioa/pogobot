@@ -43743,3 +43743,60 @@
 [02:13:38] (NAVIGATION) Distance to target location: 79.63 meters. Will take 9.89 seconds driving at 29kmh
 [02:13:44] (INFO) Found 1 catchable Pokemon
 [02:13:45] (Wild Success) | Goldeen 137 V |   66 Cp | 67.54% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[02:13:47] (INFO) Found 1 pokemon to transfer...
+[02:13:48] (TRANSFER) Goldeen 137 V |   66 Cp | 67.54% | Lvl 03 | Best: [Goldeen 197 V |  540 Cp | 70.59% | Lvl 21] | Candy: 257
+[02:13:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemUltraBall
+[02:13:52] (POKESTOP) Siloso West Washroom in 96.53 m distance
+[02:13:52] (NAVIGATION) Distance to target location: 96.53 meters. Will take 11.98 seconds driving at 29kmh
+[02:14:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:14:03] (POKESTOP) Sapphire Pavillion  in 85.4 m distance
+[02:14:03] (NAVIGATION) Distance to target location: 85.4 meters. Will take 10.6 seconds driving at 29kmh
+[02:14:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[02:14:13] (INFO) Found 1 catchable Pokemon
+[02:14:14] (Wild Escape) | Squirtle 100 V |  274 Cp | 8.29% | Lvl 12 | Chance: 0.17 | with a UltraBall 
+[02:14:15] (Wild Success Attempt #2) | Squirtle 100 V |  274 Cp | 8.29% | Lvl 12 | Chance: 0.17 | with a UltraBall 
+[02:14:16] (INFO) Found 1 pokemon to transfer...
+[02:14:18] (TRANSFER) Squirtle 100 V |  274 Cp | 8.29% | Lvl 12 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 45
+[02:14:19] (POKESTOP) Pirate Queen in 117.21 m distance
+[02:14:19] (NAVIGATION) Distance to target location: 117.21 meters. Will take 13.61 seconds driving at 31kmh
+[02:14:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:14:33] (POKESTOP) Wave Check In  in 84.75 m distance
+[02:14:33] (NAVIGATION) Distance to target location: 84.75 meters. Will take 10.52 seconds driving at 29kmh
+[02:14:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemPotion
+[02:14:42] (INFO) Found 4 Recyclable Items:
+[02:14:42] (RECYCLING) RazzBerry x 4
+[02:14:44] (RECYCLING) PokeBall x 6
+[02:14:44] (RECYCLING) Potion x 1
+[02:14:46] (RECYCLING) Revive x 1
+[02:14:49] (POKESTOP) Pillbox in 56.77 m distance
+[02:14:49] (NAVIGATION) Distance to target location: 56.77 meters. Will take 6.39 seconds driving at 32kmh
+[02:14:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:14:56] (POKESTOP) Silso Dream Sculpture in 61.9 m distance
+[02:14:56] (NAVIGATION) Distance to target location: 61.9 meters. Will take 7.96 seconds driving at 28kmh
+[02:15:03] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemSuperPotion, 3 x ItemPokeBall, 1 x ItemPotion
+[02:15:04] (POKESTOP) Siloso Resort Fountain in 54.97 m distance
+[02:15:04] (NAVIGATION) Distance to target location: 54.97 meters. Will take 6.82 seconds driving at 29kmh
+[02:15:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemHyperPotion, 1 x ItemPotion
+[02:15:10] (POKESTOP) Lady Statue in 47.33 m distance
+[02:15:10] (NAVIGATION) Distance to target location: 47.33 meters. Will take 6.08 seconds driving at 28kmh
+[02:15:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:15:16] (POKESTOP) Coastal Fortifications In Singapore in 148.8 m distance
+[02:15:16] (NAVIGATION) Distance to target location: 148.8 meters. Will take 17.28 seconds driving at 31kmh
+[02:15:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[02:15:33] (INFO) Found 6 Recyclable Items:
+[02:15:33] (RECYCLING) RazzBerry x 1
+[02:15:35] (RECYCLING) PokeBall x 9
+[02:15:36] (RECYCLING) Potion x 5
+[02:15:37] (RECYCLING) SuperPotion x 1
+[02:15:38] (RECYCLING) HyperPotion x 1
+[02:15:39] (RECYCLING) Revive x 1
+[02:15:41] (POKESTOP) Battery Steps in 85.72 m distance
+[02:15:41] (NAVIGATION) Distance to target location: 85.72 meters. Will take 11.02 seconds driving at 28kmh
+[02:15:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPotion
+[02:15:52] (POKESTOP) Megazipline Gate Dragon in 73.87 m distance
+[02:15:52] (NAVIGATION) Distance to target location: 73.87 meters. Will take 9.5 seconds driving at 28kmh
+[02:15:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[02:16:00] (POKESTOP) In the Mood for Intimacy in 223.46 m distance
+[02:16:00] (NAVIGATION) Distance to target location: 223.46 meters. Will take 19.62 seconds driving at 41kmh
+[02:16:15] (INFO) Found 1 catchable Pokemon
+[02:16:16] (Wild Success) | Voltorb 155 V |  104 Cp | 67.93% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
