@@ -35809,3 +35809,4 @@
 [22:00:01] (NAVIGATION) Distance to target location: 310.58 meters. Will take 19.97 seconds driving at 56kmh
 [22:00:13] (INFO) Found 2 catchable Pokemon
 [22:00:14] (Wild Success) | Weedle 56 V |  101 Cp | 14.09% | Lvl 11 | Chance: 0.45 | with a PokeBall and received XP 210
+[22:00:16] (Wild Success) | Weedle 100 V |   91 Cp | 35.99% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
