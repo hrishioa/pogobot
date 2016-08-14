@@ -43010,3 +43010,26 @@
 [01:52:19] (NAVIGATION) Distance to target location: 141.56 meters. Will take 17.57 seconds driving at 29kmh
 [01:52:26] (INFO) Found 1 catchable Pokemon
 [01:52:27] (Wild Success) | Magnemite 135 V |  241 Cp | 46.50% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:52:29] (INFO) Found 1 pokemon to transfer...
+[01:52:31] (TRANSFER) Magnemite 135 V |  241 Cp | 46.50% | Lvl 11 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 169
+[01:52:35] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemRevive, 1 x ItemPokeBall, 3 x ItemPotion
+[01:52:36] (POKESTOP) Water World in 43.48 m distance
+[01:52:36] (NAVIGATION) Distance to target location: 43.48 meters. Will take 4.89 seconds driving at 32kmh
+[01:52:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:52:42] (POKESTOP) Bats Sculpture in 82.02 m distance
+[01:52:42] (NAVIGATION) Distance to target location: 82.02 meters. Will take 10.18 seconds driving at 29kmh
+[01:52:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:52:50] (INFO) Found 3 Recyclable Items:
+[01:52:51] (RECYCLING) PokeBall x 9
+[01:52:52] (RECYCLING) Potion x 5
+[01:52:54] (RECYCLING) Revive x 5
+[01:52:55] (POKESTOP) Hard Rock Hotel Singapore in 81.75 m distance
+[01:52:55] (NAVIGATION) Distance to target location: 81.75 meters. Will take 9.81 seconds driving at 30kmh
+[01:53:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[01:53:05] (POKESTOP) Orchid Waterfall in 40.52 m distance
+[01:53:05] (NAVIGATION) Distance to target location: 40.52 meters. Will take 4.56 seconds driving at 32kmh
+[01:53:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[01:53:10] (POKESTOP) Adventure Cove in 79.45 m distance
+[01:53:10] (NAVIGATION) Distance to target location: 79.45 meters. Will take 9.23 seconds driving at 31kmh
+[01:53:15] (INFO) Found 1 catchable Pokemon
+[01:53:17] (Wild Success) | Voltorb 148 V |  235 Cp | 55.36% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
