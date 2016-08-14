@@ -30376,3 +30376,10 @@
 [13:32:29] (INFO) Found 1 catchable Pokemon
 [13:32:30] (BERRY) ItemRazzBerry used, remaining: 49
 [13:32:31] (Wild Success) | Bulbasaur 145 V |  577 Cp | 17.19% | Lvl 23 | Chance: 0.12 | with a GreatBall and received XP 210
+[13:32:33] (INFO) Found 1 pokemon to transfer...
+[13:32:34] (TRANSFER) Bulbasaur 145 V |  577 Cp | 17.19% | Lvl 23 | Best: [Bulbasaur 229 V |  609 Cp | 97.81% | Lvl 20] | Candy: 85
+[13:32:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[13:32:48] (POKESTOP) Butterfly Mural in 353.65 m distance
+[13:32:48] (NAVIGATION) Distance to target location: 353.65 meters. Will take 19.89 seconds driving at 64kmh
+[13:33:03] (INFO) Found 4 catchable Pokemon
+[13:33:05] (Wild Success) | Dratini 185 V |  295 Cp | 80.42% | Lvl 11 | Chance: 0.36 | with a GreatBall and received XP 210
