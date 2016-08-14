@@ -24086,3 +24086,4 @@
 [09:27:56] (TRANSFER) Ekans 132 V |  277 Cp | 36.66% | Lvl 14 | Best: [Ekans 158 V |  344 Cp | 44.07% | Lvl 17] | Candy: 201
 [09:27:57] (INFO) Found 3 catchable Pokemon
 [09:27:59] (Wild Success) | Eevee 179 V |  236 Cp | 87.71% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 210
+[09:28:01] (Wild Success) | Spearow 121 V |  116 Cp | 52.07% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
