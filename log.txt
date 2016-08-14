@@ -44498,3 +44498,4 @@
 [02:37:43] (INFO) Found 4 catchable Pokemon
 [02:37:45] (Wild Success) | Poliwag 112 V |  188 Cp | 31.19% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [02:37:47] (Wild Success) | Zubat 128 V |  145 Cp | 58.73% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[02:37:49] (Wild Success) | Poliwag 148 V |  305 Cp | 58.72% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
