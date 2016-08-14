@@ -31174,3 +31174,10 @@
 [13:58:30] (NAVIGATION) Distance to target location: 352.79 meters. Will take 19.84 seconds driving at 64kmh
 [13:58:33] (INFO) Found 1 catchable Pokemon
 [13:58:35] (Wild Success) | Staryu 125 V |   90 Cp | 66.24% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[13:58:36] (INFO) Found 1 pokemon to transfer...
+[13:58:38] (TRANSFER) Staryu 125 V |   90 Cp | 66.24% | Lvl 04 | Best: [Staryu 184 V |  598 Cp | 71.51% | Lvl 24] | Candy: 124
+[13:58:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[13:58:52] (POKESTOP) RSYC Childrens Playground in 111.95 m distance
+[13:58:52] (NAVIGATION) Distance to target location: 111.95 meters. Will take 13.9 seconds driving at 29kmh
+[13:58:53] (INFO) Found 2 catchable Pokemon
+[13:58:55] (Wild Success) | Eevee 165 V |  345 Cp | 69.41% | Lvl 12 | Chance: 0.34 | with a GreatBall and received XP 210
