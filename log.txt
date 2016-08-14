@@ -31337,3 +31337,14 @@
 [14:05:02] (TRANSFER) Goldeen 162 V |  448 Cp | 58.00% | Lvl 18 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 206
 [14:05:04] (INFO) Found 1 catchable Pokemon
 [14:05:06] (Wild Success) | Staryu 159 V |  416 Cp | 64.73% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[14:05:08] (INFO) Found 1 pokemon to transfer...
+[14:05:10] (TRANSFER) Staryu 159 V |  416 Cp | 64.73% | Lvl 17 | Best: [Staryu 184 V |  598 Cp | 71.51% | Lvl 24] | Candy: 128
+[14:05:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[14:05:11] (INFO) Found 2 Recyclable Items:
+[14:05:12] (RECYCLING) RazzBerry x 1
+[14:05:13] (RECYCLING) PokeBall x 10
+[14:05:15] (POKESTOP) Clementi West White Orchid Mural in 87.42 m distance
+[14:05:15] (NAVIGATION) Distance to target location: 87.42 meters. Will take 10.15 seconds driving at 31kmh
+[14:05:21] (INFO) Found 1 catchable Pokemon
+[14:05:21] (BERRY) ItemRazzBerry used, remaining: 49
+[14:05:23] (Wild Success) | Goldeen 177 V |  510 Cp | 67.12% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
