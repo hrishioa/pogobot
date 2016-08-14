@@ -42130,3 +42130,16 @@
 [01:26:36] (NAVIGATION) Distance to target location: 210.91 meters. Will take 19.98 seconds driving at 38kmh
 [01:26:42] (INFO) Found 1 catchable Pokemon
 [01:26:44] (Wild Success) | Venonat 172 V |  435 Cp | 65.73% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[01:26:45] (INFO) Found 1 pokemon to transfer...
+[01:26:47] (TRANSFER) Venonat 172 V |  435 Cp | 65.73% | Lvl 16 | Best: [Venonat 222 V |  583 Cp | 96.62% | Lvl 20] | Candy: 95
+[01:26:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:26:56] (POKESTOP) Coastal Fortifications In Singapore in 86.05 m distance
+[01:26:56] (NAVIGATION) Distance to target location: 86.05 meters. Will take 10.68 seconds driving at 29kmh
+[01:27:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[01:27:06] (POKESTOP) Megazipline Gate Dragon in 68.76 m distance
+[01:27:06] (NAVIGATION) Distance to target location: 68.76 meters. Will take 8.25 seconds driving at 30kmh
+[01:27:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 6 x ItemPokeBall
+[01:27:14] (POKESTOP) Lady Statue in 190.16 m distance
+[01:27:14] (NAVIGATION) Distance to target location: 190.16 meters. Will take 19.56 seconds driving at 35kmh
+[01:27:16] (INFO) Found 1 catchable Pokemon
+[01:27:17] (Wild Success) | Goldeen 113 V |   91 Cp | 56.56% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
