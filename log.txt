@@ -40328,3 +40328,69 @@
 [00:34:12] (INFO) Found 1 catchable Pokemon
 [00:34:14] (BERRY) ItemRazzBerry used, remaining: 43
 [00:34:14] (Wild Success) | Pikachu 119 V |  370 Cp | 21.57% | Lvl 18 | Chance: 0.14 | with a GreatBall and received XP 210
+[00:34:16] (INFO) Found 1 pokemon to transfer...
+[00:34:17] (TRANSFER) Pikachu 119 V |  370 Cp | 21.57% | Lvl 18 | Best: [Pikachu 154 V |  466 Cp | 32.31% | Lvl 22] | Candy: 38
+[00:34:18] (POKESTOP) Dinosaur in 53.19 m distance
+[00:34:18] (NAVIGATION) Distance to target location: 53.19 meters. Will take 6.6 seconds driving at 29kmh
+[00:34:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 4 x ItemPokeBall
+[00:34:24] (POKESTOP) Triple Flying Dino in 73.01 m distance
+[00:34:24] (NAVIGATION) Distance to target location: 73.01 meters. Will take 9.39 seconds driving at 28kmh
+[00:34:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[00:34:33] (INFO) Found 3 Recyclable Items:
+[00:34:34] (RECYCLING) PokeBall x 11
+[00:34:35] (RECYCLING) Potion x 2
+[00:34:36] (RECYCLING) Revive x 2
+[00:34:39] (POKESTOP) Hostile Raptor in 97.23 m distance
+[00:34:39] (NAVIGATION) Distance to target location: 97.23 meters. Will take 11.67 seconds driving at 30kmh
+[00:34:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[00:34:49] (ATTENTION) No locations in your area...
+[00:34:55] (INFO) Found 94 Pokestops
+[00:34:55] (POKESTOP) Spitalamosaurus in 55.1 m distance
+[00:34:55] (NAVIGATION) Distance to target location: 55.1 meters. Will take 6.61 seconds driving at 30kmh
+[00:35:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemUltraBall
+[00:35:02] (POKESTOP) Stone Gargoyle in 65.04 m distance
+[00:35:02] (NAVIGATION) Distance to target location: 65.04 meters. Will take 7.32 seconds driving at 32kmh
+[00:35:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:35:11] (POKESTOP) Mummy Mural in 48.95 m distance
+[00:35:11] (NAVIGATION) Distance to target location: 48.95 meters. Will take 6.29 seconds driving at 28kmh
+[00:35:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemPotion
+[00:35:17] (POKESTOP) Water World in 57.34 m distance
+[00:35:17] (NAVIGATION) Distance to target location: 57.34 meters. Will take 6.66 seconds driving at 31kmh
+[00:35:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[00:35:23] (INFO) Found 3 Recyclable Items:
+[00:35:24] (RECYCLING) PokeBall x 7
+[00:35:25] (RECYCLING) Potion x 1
+[00:35:26] (RECYCLING) Revive x 3
+[00:35:29] (POKESTOP) Obelisk of Ra in 193.62 m distance
+[00:35:29] (NAVIGATION) Distance to target location: 193.62 meters. Will take 19.91 seconds driving at 35kmh
+[00:35:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:35:49] (POKESTOP) The Brown Derby in 158.04 m distance
+[00:35:49] (NAVIGATION) Distance to target location: 158.04 meters. Will take 18.96 seconds driving at 30kmh
+[00:36:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 6 x ItemPokeBall
+[00:36:08] (POKESTOP) Monster Rock in 42.38 m distance
+[00:36:08] (NAVIGATION) Distance to target location: 42.38 meters. Will take 5.26 seconds driving at 29kmh
+[00:36:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[00:36:14] (POKESTOP) USS Hollywood Directors in 47.62 m distance
+[00:36:14] (NAVIGATION) Distance to target location: 47.62 meters. Will take 5.71 seconds driving at 30kmh
+[00:36:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:36:20] (POKESTOP) Casa De Wild Food Court in 97.55 m distance
+[00:36:20] (NAVIGATION) Distance to target location: 97.55 meters. Will take 12.54 seconds driving at 28kmh
+[00:36:28] (INFO) Found 1 catchable Pokemon
+[00:36:29] (Wild Escape) | Pikachu 102 V |  157 Cp | 11.03% | Lvl 08 | Chance: 0.21 | with a GreatBall 
+[00:36:30] (Wild Success Attempt #2) | Pikachu 102 V |  157 Cp | 11.03% | Lvl 08 | Chance: 0.21 | with a GreatBall 
+[00:36:32] (INFO) Found 1 pokemon to transfer...
+[00:36:34] (TRANSFER) Pikachu 102 V |  157 Cp | 11.03% | Lvl 08 | Best: [Pikachu 154 V |  466 Cp | 32.31% | Lvl 22] | Candy: 42
+[00:36:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:36:37] (INFO) Found 3 Recyclable Items:
+[00:36:37] (RECYCLING) PokeBall x 13
+[00:36:38] (RECYCLING) Potion x 1
+[00:36:40] (RECYCLING) HyperPotion x 1
+[00:36:42] (POKESTOP) The Frog Prince in 61.1 m distance
+[00:36:42] (NAVIGATION) Distance to target location: 61.1 meters. Will take 6.87 seconds driving at 32kmh
+[00:36:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemHyperPotion, 2 x ItemUltraBall
+[00:36:49] (POKESTOP) Royal Fountain in 54.49 m distance
+[00:36:49] (NAVIGATION) Distance to target location: 54.49 meters. Will take 6.76 seconds driving at 29kmh
+[00:36:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[00:36:55] (INFO) Found 1 catchable Pokemon
+[00:36:56] (BERRY) ItemRazzBerry used, remaining: 48
+[00:36:57] (Wild Success) | Pikachu 156 V |  480 Cp | 42.82% | Lvl 22 | Chance: 0.12 | with a UltraBall and received XP 210
