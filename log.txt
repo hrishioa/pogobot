@@ -33795,3 +33795,10 @@
 [20:49:22] (INFO) Found 1 catchable Pokemon
 [20:49:23] (BERRY) ItemRazzBerry used, remaining: 40
 [20:49:24] (Wild Success) | Spearow 148 V |  376 Cp | 52.55% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
+[20:49:26] (INFO) Found 1 pokemon to transfer...
+[20:49:28] (TRANSFER) Spearow 148 V |  376 Cp | 52.55% | Lvl 22 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 215
+[20:49:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[20:49:39] (POKESTOP) SingTel Tower in 101.39 m distance
+[20:49:39] (NAVIGATION) Distance to target location: 101.39 meters. Will take 11.77 seconds driving at 31kmh
+[20:49:42] (INFO) Found 1 catchable Pokemon
+[20:49:44] (Wild Success) | Pidgey 111 V |  325 Cp | 24.47% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
