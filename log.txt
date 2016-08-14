@@ -37136,3 +37136,13 @@
 [22:45:01] (TRANSFER) Magikarp 103 V |   31 Cp | 75.24% | Lvl 05 | Best: [Magikarp 121 V |  138 Cp | 82.05% | Lvl 20] | Candy: 205
 [22:45:03] (INFO) Found 1 catchable Pokemon
 [22:45:04] (Wild Success) | Psyduck 147 V |  319 Cp | 25.27% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[22:45:06] (INFO) Found 1 pokemon to transfer...
+[22:45:07] (TRANSFER) Psyduck 147 V |  319 Cp | 25.27% | Lvl 12 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 94
+[22:45:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:45:11] (POKESTOP) Fruit Lady Totem in 46.33 m distance
+[22:45:11] (NAVIGATION) Distance to target location: 46.33 meters. Will take 5.75 seconds driving at 29kmh
+[22:45:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[22:45:17] (POKESTOP) Keg Shelter at Port of Lost Wonder in 103.75 m distance
+[22:45:17] (NAVIGATION) Distance to target location: 103.75 meters. Will take 12.88 seconds driving at 29kmh
+[22:45:23] (INFO) Found 2 catchable Pokemon
+[22:45:25] (Wild Success) | Bellsprout 174 V |  304 Cp | 79.12% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
