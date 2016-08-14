@@ -32163,3 +32163,12 @@
 [14:37:36] (Wild Success) | Bellsprout 109 V |  234 Cp | 18.61% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [14:37:38] (BERRY) ItemRazzBerry used, remaining: 39
 [14:37:39] (Wild Success) | Bellsprout 153 V |  568 Cp | 30.95% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[14:37:40] (INFO) Found 3 pokemon to transfer...
+[14:37:41] (TRANSFER) Bellsprout 156 V |  621 Cp | 14.39% | Lvl 24 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 386
+[14:37:44] (TRANSFER) Bellsprout 153 V |  568 Cp | 30.95% | Lvl 21 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 387
+[14:37:46] (TRANSFER) Bellsprout 109 V |  234 Cp | 18.61% | Lvl 09 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 388
+[14:37:50] (POKESTOP) Pyramid Web with Slider in 59.93 m distance
+[14:37:50] (NAVIGATION) Distance to target location: 59.93 meters. Will take 7.19 seconds driving at 30kmh
+[14:37:54] (INFO) Found 1 catchable Pokemon
+[14:37:55] (BERRY) ItemRazzBerry used, remaining: 38
+[14:37:56] (Wild Success) | Bellsprout 136 V |  620 Cp | 47.22% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
