@@ -42374,3 +42374,7 @@
 [01:32:52] (INFO) Found 2 catchable Pokemon
 [01:32:52] (Wild Flee) | Voltorb 148 V |  371 Cp | 42.44% | Lvl 18 | Chance: 0.35 | with a GreatBall 
 [01:32:54] (Wild Success) | Rattata 87 V |   32 Cp | 16.76% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[01:32:56] (INFO) Found 1 pokemon to transfer...
+[01:32:58] (TRANSFER) Rattata 87 V |   32 Cp | 16.76% | Lvl 03 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 380
+[01:32:59] (INFO) Found 2 catchable Pokemon
+[01:33:00] (Wild Success) | Voltorb 146 V |   11 Cp | 79.56% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
