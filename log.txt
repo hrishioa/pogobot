@@ -43800,3 +43800,50 @@
 [02:16:00] (NAVIGATION) Distance to target location: 223.46 meters. Will take 19.62 seconds driving at 41kmh
 [02:16:15] (INFO) Found 1 catchable Pokemon
 [02:16:16] (Wild Success) | Voltorb 155 V |  104 Cp | 67.93% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[02:16:18] (INFO) Found 1 pokemon to transfer...
+[02:16:20] (TRANSFER) Voltorb 155 V |  104 Cp | 67.93% | Lvl 05 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 228
+[02:16:21] (INFO) Found 1 catchable Pokemon
+[02:16:23] (BERRY) ItemRazzBerry used, remaining: 49
+[02:16:23] (Wild Escape) | Electrode 280 V | 1124 Cp | 97.91% | Lvl 24 | Chance: 0.12 | with a GreatBall 
+[02:16:24] (BERRY) ItemRazzBerry used, remaining: 48
+[02:16:24] (Wild Escape Attempt #2) | Electrode 280 V | 1124 Cp | 97.91% | Lvl 24 | Chance: 0.12 | with a GreatBall 
+[02:16:25] (BERRY) ItemRazzBerry used, remaining: 47
+[02:16:25] (Wild Success Attempt #3) | Electrode 280 V | 1124 Cp | 97.91% | Lvl 24 | Chance: 0.12 | with a GreatBall 
+[02:16:27] (INFO) Found 1 pokemon to transfer...
+[02:16:29] (TRANSFER) Electrode 254 V | 1038 Cp | 77.66% | Lvl 23 | Best: [Electrode 280 V | 1124 Cp | 97.91% | Lvl 24] | Candy: 232
+[02:16:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[02:16:33] (POKESTOP) Seahorse Hideaway  in 133.98 m distance
+[02:16:33] (NAVIGATION) Distance to target location: 133.98 meters. Will take 17.23 seconds driving at 28kmh
+[02:16:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPotion
+[02:16:49] (POKESTOP) Water World in 39.43 m distance
+[02:16:49] (NAVIGATION) Distance to target location: 39.43 meters. Will take 4.73 seconds driving at 30kmh
+[02:16:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry
+[02:16:55] (INFO) Found 3 Recyclable Items:
+[02:16:55] (RECYCLING) PokeBall x 2
+[02:16:56] (RECYCLING) Potion x 3
+[02:16:57] (RECYCLING) Revive x 1
+[02:16:59] (POKESTOP) Bats Sculpture in 79.06 m distance
+[02:16:59] (NAVIGATION) Distance to target location: 79.06 meters. Will take 9.49 seconds driving at 30kmh
+[02:17:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[02:17:07] (POKESTOP) Orchid Waterfall in 85.76 m distance
+[02:17:07] (NAVIGATION) Distance to target location: 85.76 meters. Will take 10.29 seconds driving at 30kmh
+[02:17:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall, 2 x ItemUltraBall
+[02:17:18] (POKESTOP) Main Viewing Tank at S.E.A Aquarium  in 69.31 m distance
+[02:17:18] (NAVIGATION) Distance to target location: 69.31 meters. Will take 8.91 seconds driving at 28kmh
+[02:17:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemUltraBall
+[02:17:26] (POKESTOP) Dancing Boy by Romeo Britto in 273.6 m distance
+[02:17:26] (NAVIGATION) Distance to target location: 273.6 meters. Will take 19.7 seconds driving at 50kmh
+[02:17:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[02:17:47] (POKESTOP) Sentosa Nature Discovery Centre in 104.53 m distance
+[02:17:47] (NAVIGATION) Distance to target location: 104.53 meters. Will take 12.98 seconds driving at 29kmh
+[02:17:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion
+[02:17:59] (INFO) Found 4 Recyclable Items:
+[02:18:00] (RECYCLING) RazzBerry x 1
+[02:18:01] (RECYCLING) PokeBall x 8
+[02:18:01] (RECYCLING) Potion x 3
+[02:18:03] (RECYCLING) Revive x 2
+[02:18:05] (POKESTOP) Tiger Sky Tower in 107.17 m distance
+[02:18:05] (NAVIGATION) Distance to target location: 107.17 meters. Will take 13.78 seconds driving at 28kmh
+[02:18:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:18:18] (INFO) Found 1 catchable Pokemon
+[02:18:19] (Wild Success) | Geodude 148 V |  308 Cp | 61.62% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
