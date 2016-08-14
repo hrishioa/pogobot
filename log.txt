@@ -30569,3 +30569,9 @@
 [13:38:02] (RECYCLING) Revive x 3
 [13:38:05] (INFO) Found 1 catchable Pokemon
 [13:38:06] (Wild Success) | Bellsprout 116 V |  318 Cp | 56.97% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[13:38:08] (INFO) Found 1 pokemon to transfer...
+[13:38:09] (TRANSFER) Bellsprout 116 V |  318 Cp | 56.97% | Lvl 11 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 344
+[13:38:10] (POKESTOP) Republic of Singapore Yacht Club Entrance in 351.3 m distance
+[13:38:10] (NAVIGATION) Distance to target location: 351.3 meters. Will take 19.76 seconds driving at 64kmh
+[13:38:12] (INFO) Found 2 catchable Pokemon
+[13:38:14] (Wild Success) | Oddish 184 V |  352 Cp | 89.31% | Lvl 11 | Chance: 0.54 | with a GreatBall and received XP 210
