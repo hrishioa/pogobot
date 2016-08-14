@@ -35542,3 +35542,4 @@
 [21:47:47] (NAVIGATION) Distance to target location: 400.78 meters. Will take 20.61 seconds driving at 70kmh
 [21:47:55] (INFO) Found 2 catchable Pokemon
 [21:47:57] (Wild Success) | Poliwhirl 147 V |  170 Cp | 70.55% | Lvl 05 | Chance: 0.34 | with a UltraBall and received XP 210
+[21:47:58] (Wild Success) | Zubat 120 V |  144 Cp | 55.65% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
