@@ -30743,3 +30743,15 @@
 [13:44:22] (BERRY) ItemRazzBerry used, remaining: 46
 [13:44:23] (Wild Success) | Krabby 139 V |  392 Cp | 48.38% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
 [13:44:24] (Wild Success) | Weedle 89 V |  116 Cp | 45.35% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[13:44:26] (INFO) Found 2 pokemon to transfer...
+[13:44:28] (TRANSFER) Krabby 139 V |  392 Cp | 48.38% | Lvl 20 | Best: [Krabby 178 V |  430 Cp | 80.74% | Lvl 20] | Candy: 193
+[13:44:30] (TRANSFER) Weedle 89 V |  116 Cp | 45.35% | Lvl 11 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 543
+[13:44:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 1 x ItemPokeBall
+[13:44:34] (POKESTOP) Clementi West Green Alien Mural in 40.77 m distance
+[13:44:34] (NAVIGATION) Distance to target location: 40.77 meters. Will take 4.73 seconds driving at 31kmh
+[13:44:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[13:44:39] (POKESTOP) The Right Horn Sculpture in 110.91 m distance
+[13:44:39] (NAVIGATION) Distance to target location: 110.91 meters. Will take 13.31 seconds driving at 30kmh
+[13:44:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall, 1 x ItemSuperPotion
+[13:44:52] (INFO) Found 1 catchable Pokemon
+[13:44:54] (Wild Success) | Rattata 92 V |   10 Cp | 31.29% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
