@@ -29652,3 +29652,7 @@
 [13:02:38] (NAVIGATION) Distance to target location: 97.7 meters. Will take 12.56 seconds driving at 28kmh
 [13:02:42] (INFO) Found 1 catchable Pokemon
 [13:02:44] (Wild Success) | Golbat 124 V |  131 Cp | 51.27% | Lvl 03 | Chance: 0.37 | with a GreatBall and received XP 210
+[13:02:46] (INFO) Found 1 pokemon to transfer...
+[13:02:47] (TRANSFER) Golbat 124 V |  131 Cp | 51.27% | Lvl 03 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 870
+[13:02:49] (INFO) Found 1 catchable Pokemon
+[13:02:50] (Wild Success) | Paras 147 V |  238 Cp | 62.65% | Lvl 10 | Chance: 0.37 | with a GreatBall and received XP 210
