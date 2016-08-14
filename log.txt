@@ -28601,3 +28601,10 @@
 [12:18:22] (INFO) Found 1 catchable Pokemon
 [12:18:23] (BERRY) ItemRazzBerry used, remaining: 49
 [12:18:24] (Wild Success) | Zubat 151 V |  392 Cp | 47.41% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
+[12:18:26] (INFO) Found 1 pokemon to transfer...
+[12:18:27] (TRANSFER) Zubat 151 V |  392 Cp | 47.41% | Lvl 25 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 830
+[12:18:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[12:18:31] (POKESTOP) Sailing Mural in 267.6 m distance
+[12:18:31] (NAVIGATION) Distance to target location: 267.6 meters. Will take 19.66 seconds driving at 49kmh
+[12:18:50] (INFO) Found 1 catchable Pokemon
+[12:18:51] (Wild Success) | Weedle 102 V |  102 Cp | 36.93% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
