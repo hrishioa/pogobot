@@ -31057,3 +31057,15 @@
 [13:56:00] (NAVIGATION) Distance to target location: 457.79 meters. Will take 23.54 seconds driving at 70kmh
 [13:56:13] (INFO) Found 1 catchable Pokemon
 [13:56:14] (Wild Success) | Rattata 119 V |   36 Cp | 48.28% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[13:56:16] (INFO) Found 1 pokemon to transfer...
+[13:56:17] (TRANSFER) Rattata 119 V |   36 Cp | 48.28% | Lvl 03 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 705
+[13:56:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemPokeBall
+[13:56:25] (INFO) Found 3 Recyclable Items:
+[13:56:25] (RECYCLING) RazzBerry x 4
+[13:56:27] (RECYCLING) PokeBall x 2
+[13:56:28] (RECYCLING) Revive x 2
+[13:56:30] (POKESTOP) West Coast Park in 224.85 m distance
+[13:56:30] (NAVIGATION) Distance to target location: 224.85 meters. Will take 19.74 seconds driving at 41kmh
+[13:56:35] (INFO) Found 1 catchable Pokemon
+[13:56:36] (BERRY) ItemRazzBerry used, remaining: 49
+[13:56:37] (Wild Success) | Bellsprout 163 V |  533 Cp | 45.24% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
