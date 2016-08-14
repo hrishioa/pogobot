@@ -39690,3 +39690,32 @@
 [00:16:33] (TRANSFER) Magnemite 111 V |  127 Cp | 47.96% | Lvl 06 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 62
 [00:16:34] (INFO) Found 1 catchable Pokemon
 [00:16:36] (Wild Success) | Sandshrew 104 V |   29 Cp | 33.51% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[00:16:38] (INFO) Found 1 pokemon to transfer...
+[00:16:39] (TRANSFER) Sandshrew 104 V |   29 Cp | 33.51% | Lvl 02 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 54
+[00:16:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:16:41] (POKESTOP) Arid Garden in 60.7 m distance
+[00:16:41] (NAVIGATION) Distance to target location: 60.7 meters. Will take 7.8 seconds driving at 28kmh
+[00:16:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemUltraBall
+[00:16:48] (ATTENTION) No locations in your area...
+[00:16:53] (INFO) Found 39 Pokestops
+[00:16:54] (POKESTOP) Palawan Beach Map in 76.68 m distance
+[00:16:54] (NAVIGATION) Distance to target location: 76.68 meters. Will take 8.9 seconds driving at 31kmh
+[00:17:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemUltraBall
+[00:17:03] (INFO) Found 4 Recyclable Items:
+[00:17:03] (RECYCLING) RazzBerry x 1
+[00:17:04] (RECYCLING) PokeBall x 6
+[00:17:05] (RECYCLING) Potion x 1
+[00:17:06] (RECYCLING) Revive x 1
+[00:17:09] (POKESTOP) Ice Cream  in 28.09 m distance
+[00:17:09] (NAVIGATION) Distance to target location: 28.09 meters. Will take 3.49 seconds driving at 29kmh
+[00:17:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:17:13] (POKESTOP) Fruit Lady Totem in 104.13 m distance
+[00:17:13] (NAVIGATION) Distance to target location: 104.13 meters. Will take 13.39 seconds driving at 28kmh
+[00:17:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 3 x ItemPokeBall
+[00:17:26] (POKESTOP) Bikini Lady with Hat in 43.29 m distance
+[00:17:26] (NAVIGATION) Distance to target location: 43.29 meters. Will take 5.57 seconds driving at 28kmh
+[00:17:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemPotion
+[00:17:32] (POKESTOP) Cap'n Wheel By The River in 107.67 m distance
+[00:17:32] (NAVIGATION) Distance to target location: 107.67 meters. Will take 12.92 seconds driving at 30kmh
+[00:17:35] (INFO) Found 1 catchable Pokemon
+[00:17:37] (Wild Success) | Poliwag 91 V |  126 Cp | 26.41% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
