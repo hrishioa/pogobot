@@ -31304,3 +31304,25 @@
 [14:03:46] (TRANSFER) Caterpie 98 V |  129 Cp | 35.06% | Lvl 13 | Best: [Caterpie 119 V |  190 Cp | 49.77% | Lvl 18] | Candy: 183
 [14:03:48] (INFO) Found 1 catchable Pokemon
 [14:03:49] (Wild Success) | Rattata 136 V |  228 Cp | 51.22% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
+[14:03:51] (INFO) Found 1 pokemon to transfer...
+[14:03:53] (TRANSFER) Rattata 136 V |  228 Cp | 51.22% | Lvl 16 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 717
+[14:03:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[14:03:56] (INFO) Found 5 Recyclable Items:
+[14:03:56] (RECYCLING) RazzBerry x 1
+[14:03:56] (RECYCLING) PokeBall x 6
+[14:03:59] (RECYCLING) Potion x 2
+[14:03:59] (RECYCLING) SuperPotion x 1
+[14:04:01] (RECYCLING) Revive x 2
+[14:04:03] (POKESTOP) Happy Sunshine Mural in 138.79 m distance
+[14:04:03] (NAVIGATION) Distance to target location: 138.79 meters. Will take 16.12 seconds driving at 31kmh
+[14:04:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[14:04:19] (POKESTOP) West Coast Market in 80.28 m distance
+[14:04:19] (NAVIGATION) Distance to target location: 80.28 meters. Will take 9.32 seconds driving at 31kmh
+[14:04:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[14:04:28] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 135.73 m distance
+[14:04:28] (NAVIGATION) Distance to target location: 135.73 meters. Will take 15.27 seconds driving at 32kmh
+[14:04:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[14:04:44] (POKESTOP) Wall Water Fountain in 61.79 m distance
+[14:04:44] (NAVIGATION) Distance to target location: 61.79 meters. Will take 7.67 seconds driving at 29kmh
+[14:04:45] (INFO) Found 1 catchable Pokemon
+[14:04:47] (Wild Success) | Pidgey 85 V |   90 Cp | 26.24% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
