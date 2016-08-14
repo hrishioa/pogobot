@@ -40723,3 +40723,14 @@
 [00:45:09] (NAVIGATION) Distance to target location: 60.6 meters. Will take 7.04 seconds driving at 31kmh
 [00:45:13] (INFO) Found 1 catchable Pokemon
 [00:45:15] (Wild Success) | Rattata 102 V |  179 Cp | 21.62% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[00:45:17] (INFO) Found 1 pokemon to transfer...
+[00:45:18] (TRANSFER) Rattata 102 V |  179 Cp | 21.62% | Lvl 14 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 356
+[00:45:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[00:45:20] (POKESTOP) Lady In Wood in 127.81 m distance
+[00:45:20] (NAVIGATION) Distance to target location: 127.81 meters. Will take 14.38 seconds driving at 32kmh
+[00:45:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 3 x ItemPokeBall
+[00:45:35] (POKESTOP) Images of Singapore in 98.76 m distance
+[00:45:35] (NAVIGATION) Distance to target location: 98.76 meters. Will take 11.85 seconds driving at 30kmh
+[00:45:43] (INFO) Found 2 catchable Pokemon
+[00:45:44] (BERRY) ItemRazzBerry used, remaining: 48
+[00:45:45] (Wild Success) | Machop 151 V |  574 Cp | 43.54% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
