@@ -38394,3 +38394,11 @@
 [23:29:25] (Wild Flee) | Krabby 124 V |  406 Cp | 28.93% | Lvl 22 | Chance: 0.31 | with a PokeBall 
 [23:29:30] (INFO) Found 1 catchable Pokemon
 [23:29:31] (Wild Success) | Horsea 141 V |  386 Cp | 42.25% | Lvl 20 | Chance: 0.33 | with a PokeBall and received XP 210
+[23:29:33] (INFO) Found 1 pokemon to transfer...
+[23:29:34] (TRANSFER) Horsea 141 V |  386 Cp | 42.25% | Lvl 20 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 44
+[23:29:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry, 3 x ItemPokeBall, 1 x ItemUltraBall
+[23:29:42] (POKESTOP) Corda Mauro in 1111.37 m distance
+[23:29:42] (NAVIGATION) Distance to target location: 1111.37 meters. Will take 57.16 seconds driving at 70kmh
+[23:30:24] (INFO) Found 2 catchable Pokemon
+[23:30:26] (BERRY) ItemRazzBerry used, remaining: 43
+[23:30:27] (Wild Success) | Tentacruel 248 V | 1339 Cp | 46.62% | Lvl 23 | Chance: 0.12 | with a UltraBall and received XP 210
