@@ -22614,3 +22614,23 @@
 [08:40:21] (INFO) Found 1 catchable Pokemon
 [08:40:22] (BERRY) ItemRazzBerry used, remaining: 50
 [08:40:23] (Wild Success) | Spearow 155 V |  424 Cp | 63.26% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[08:40:24] (INFO) Found 1 pokemon to transfer...
+[08:40:26] (TRANSFER) Spearow 143 V |  319 Cp | 64.15% | Lvl 18 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 293
+[08:40:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[08:40:29] (POKESTOP) SUTD Building in 96.24 m distance
+[08:40:29] (NAVIGATION) Distance to target location: 96.24 meters. Will take 11.95 seconds driving at 29kmh
+[08:40:35] (INFO) Found 1 catchable Pokemon
+[08:40:36] (Wild Escape) | Zubat 145 V |  252 Cp | 69.54% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[08:40:37] (Wild Success Attempt #2) | Zubat 145 V |  252 Cp | 69.54% | Lvl 15 | Chance: 0.38 | with a GreatBall 
+[08:40:39] (INFO) Found 1 pokemon to transfer...
+[08:40:40] (TRANSFER) Zubat 145 V |  252 Cp | 69.54% | Lvl 15 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 742
+[08:40:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:40:44] (INFO) Found 4 Recyclable Items:
+[08:40:45] (RECYCLING) PokeBall x 7
+[08:40:45] (RECYCLING) Potion x 1
+[08:40:46] (RECYCLING) SuperPotion x 1
+[08:40:47] (RECYCLING) Revive x 1
+[08:40:50] (POKESTOP) Raffles Hall Art Piece (1984/85) in 1000.83 m distance
+[08:40:50] (NAVIGATION) Distance to target location: 1000.83 meters. Will take 51.47 seconds driving at 70kmh
+[08:40:56] (INFO) Found 1 catchable Pokemon
+[08:40:58] (Wild Success) | Parasect 153 V |   71 Cp | 56.40% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
