@@ -40313,3 +40313,10 @@
 [00:33:21] (INFO) Found 1 catchable Pokemon
 [00:33:22] (BERRY) ItemRazzBerry used, remaining: 43
 [00:33:23] (Wild Success) | Meowth 126 V |  402 Cp | 25.82% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[00:33:24] (INFO) Found 1 pokemon to transfer...
+[00:33:26] (TRANSFER) Meowth 126 V |  402 Cp | 25.82% | Lvl 23 | Best: [Meowth 164 V |  356 Cp | 67.55% | Lvl 18] | Candy: 57
+[00:33:37] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemRazzBerry, 3 x ItemPokeBall
+[00:33:39] (POKESTOP) Egyptian Slaves in 613.25 m distance
+[00:33:39] (NAVIGATION) Distance to target location: 613.25 meters. Will take 31.54 seconds driving at 70kmh
+[00:33:41] (INFO) Found 2 catchable Pokemon
+[00:33:43] (Wild Success) | Voltorb 117 V |   10 Cp | 47.31% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
