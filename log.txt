@@ -21562,3 +21562,10 @@
 [08:05:14] (NAVIGATION) Distance to target location: 101 meters. Will take 11.73 seconds driving at 31kmh
 [08:05:23] (INFO) Found 1 catchable Pokemon
 [08:05:24] (Wild Success) | Eevee 148 V |  221 Cp | 58.74% | Lvl 08 | Chance: 0.42 | with a GreatBall and received XP 210
+[08:05:26] (INFO) Found 1 pokemon to transfer...
+[08:05:27] (TRANSFER) Eevee 148 V |  221 Cp | 58.74% | Lvl 08 | Best: [Eevee 178 V |  539 Cp | 64.34% | Lvl 19] | Candy: 52
+[08:05:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[08:05:31] (POKESTOP) Runme Shaw CFA Studios in 130.03 m distance
+[08:05:31] (NAVIGATION) Distance to target location: 130.03 meters. Will take 15.6 seconds driving at 30kmh
+[08:05:43] (INFO) Found 1 catchable Pokemon
+[08:05:44] (Wild Success) | Weedle 72 V |   24 Cp | 15.24% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
