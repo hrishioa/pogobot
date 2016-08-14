@@ -43441,3 +43441,10 @@
 [02:04:32] (NAVIGATION) Distance to target location: 75.43 meters. Will take 9.05 seconds driving at 30kmh
 [02:04:35] (INFO) Found 1 catchable Pokemon
 [02:04:36] (Wild Success) | NidoranMale 108 V |  162 Cp | 40.40% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[02:04:38] (INFO) Found 1 pokemon to transfer...
+[02:04:39] (TRANSFER) NidoranMale 108 V |  162 Cp | 40.40% | Lvl 08 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 42
+[02:04:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemHyperPotion
+[02:04:44] (POKESTOP) Zebra Thrones in 103.98 m distance
+[02:04:44] (NAVIGATION) Distance to target location: 103.98 meters. Will take 12.91 seconds driving at 29kmh
+[02:04:48] (INFO) Found 2 catchable Pokemon
+[02:04:50] (Wild Success) | Poliwag 89 V |   68 Cp | 30.15% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
