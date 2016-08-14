@@ -45467,3 +45467,20 @@
 [03:10:24] (INFO) Found 1 catchable Pokemon
 [03:10:26] (BERRY) ItemRazzBerry used, remaining: 41
 [03:10:27] (Wild Success) | Golbat 174 V |  654 Cp | 48.91% | Lvl 13 | Chance: 0.16 | with a GreatBall and received XP 210
+[03:10:29] (INFO) Found 1 pokemon to transfer...
+[03:10:30] (TRANSFER) Golbat 174 V |  654 Cp | 48.91% | Lvl 13 | Best: [Golbat 242 V | 1208 Cp | 61.50% | Lvl 24] | Candy: 748
+[03:10:31] (INFO) Found 1 catchable Pokemon
+[03:10:33] (Wild Escape) | Pidgey 119 V |  332 Cp | 30.67% | Lvl 21 | Chance: 0.32 | with a UltraBall 
+[03:10:34] (Wild Success Attempt #2) | Pidgey 119 V |  332 Cp | 30.67% | Lvl 21 | Chance: 0.32 | with a UltraBall 
+[03:10:35] (INFO) Found 1 pokemon to transfer...
+[03:10:37] (TRANSFER) Pidgey 119 V |  332 Cp | 30.67% | Lvl 21 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 788
+[03:10:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRazzBerry
+[03:10:41] (POKESTOP) Kong Hock Keng Temple in 186.74 m distance
+[03:10:41] (NAVIGATION) Distance to target location: 186.74 meters. Will take 19.77 seconds driving at 34kmh
+[03:11:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[03:11:01] (INFO) Found 1 Recyclable Item:
+[03:11:01] (RECYCLING) PokeBall x 8
+[03:11:03] (POKESTOP) Our Shared Stories of Telok Blangah in 82.38 m distance
+[03:11:03] (NAVIGATION) Distance to target location: 82.38 meters. Will take 9.89 seconds driving at 30kmh
+[03:11:05] (INFO) Found 1 catchable Pokemon
+[03:11:07] (Wild Success) | Zubat 145 V |  343 Cp | 60.51% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
