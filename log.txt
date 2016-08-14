@@ -43492,3 +43492,4 @@
 [02:06:11] (BERRY) ItemRazzBerry used, remaining: 48
 [02:06:12] (Wild Success) | Growlithe 156 V |  412 Cp | 49.56% | Lvl 12 | Chance: 0.25 | with a GreatBall and received XP 210
 [02:06:14] (Wild Success) | Mankey 128 V |  200 Cp | 55.54% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[02:06:16] (Wild Success) | NidoranMale 130 V |  231 Cp | 47.61% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
