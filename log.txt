@@ -42019,3 +42019,13 @@
 [01:22:48] (TRANSFER) Squirtle 91 V |  110 Cp | 15.44% | Lvl 05 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 41
 [01:22:50] (INFO) Found 1 catchable Pokemon
 [01:22:51] (Wild Success) | Magikarp 114 V |  128 Cp | 76.25% | Lvl 19 | Chance: 0.48 | with a GreatBall and received XP 210
+[01:22:53] (INFO) Found 1 pokemon to transfer...
+[01:22:55] (TRANSFER) Magikarp 114 V |  128 Cp | 76.25% | Lvl 19 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 337
+[01:22:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[01:22:58] (POKESTOP) Coconut Tree in 44.32 m distance
+[01:22:58] (NAVIGATION) Distance to target location: 44.32 meters. Will take 4.99 seconds driving at 32kmh
+[01:23:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:23:05] (POKESTOP) Colorful Heart in 73.19 m distance
+[01:23:05] (NAVIGATION) Distance to target location: 73.19 meters. Will take 8.78 seconds driving at 30kmh
+[01:23:09] (INFO) Found 2 catchable Pokemon
+[01:23:10] (Wild Success) | Poliwag 87 V |   87 Cp | 25.68% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
