@@ -43073,3 +43073,8 @@
 [01:54:37] (INFO) Found 2 catchable Pokemon
 [01:54:38] (Wild Success) | Pidgey 67 V |   54 Cp | 11.92% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [01:54:40] (Wild Success) | Spearow 112 V |  269 Cp | 27.59% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[01:54:42] (INFO) Found 2 pokemon to transfer...
+[01:54:43] (TRANSFER) Spearow 112 V |  269 Cp | 27.59% | Lvl 17 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 247
+[01:54:45] (TRANSFER) Pidgey 67 V |   54 Cp | 11.92% | Lvl 04 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 724
+[01:54:47] (INFO) Found 1 catchable Pokemon
+[01:54:49] (Wild Success) | Pidgey 131 V |  344 Cp | 41.87% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
