@@ -42439,3 +42439,13 @@
 [01:35:31] (BERRY) ItemRazzBerry used, remaining: 46
 [01:35:32] (Wild Success) | Tentacool 168 V |  561 Cp | 59.98% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
 [01:35:34] (Wild Success) | Psyduck 136 V |  192 Cp | 47.25% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[01:35:35] (Wild Escape) | Psyduck 161 V |  498 Cp | 40.73% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[01:35:36] (Wild Success Attempt #2) | Psyduck 161 V |  498 Cp | 40.73% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[01:35:37] (INFO) Found 5 pokemon to transfer...
+[01:35:39] (TRANSFER) Slowpoke 136 V |  357 Cp | 29.98% | Lvl 12 | Best: [Slowpoke 164 V |  485 Cp | 66.23% | Lvl 15] | Candy: 50
+[01:35:41] (TRANSFER) Psyduck 161 V |  498 Cp | 40.73% | Lvl 18 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 168
+[01:35:43] (TRANSFER) Psyduck 136 V |  192 Cp | 47.25% | Lvl 07 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 169
+[01:35:46] (TRANSFER) Magikarp 118 V |  124 Cp | 80.94% | Lvl 18 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 353
+[01:35:48] (TRANSFER) Tentacool 133 V |  298 Cp | 53.12% | Lvl 13 | Best: [Tentacool 168 V |  561 Cp | 59.98% | Lvl 24] | Candy: 80
+[01:35:49] (INFO) Found 2 catchable Pokemon
+[01:35:51] (Wild Success) | Magikarp 101 V |   71 Cp | 68.77% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
