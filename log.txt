@@ -45343,3 +45343,8 @@
 [03:03:50] (TRANSFER) Psyduck 117 V |  158 Cp | 36.18% | Lvl 06 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 205
 [03:03:52] (INFO) Found 1 catchable Pokemon
 [03:03:53] (Wild Success) | Psyduck 132 V |  363 Cp | 44.23% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[03:03:55] (INFO) Found 1 pokemon to transfer...
+[03:03:56] (TRANSFER) Psyduck 132 V |  363 Cp | 44.23% | Lvl 13 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 209
+[03:04:25] (INFO) Found 1 catchable Pokemon
+[03:04:26] (BERRY) ItemRazzBerry used, remaining: 41
+[03:04:27] (Wild Success) | Eevee 199 V |  529 Cp | 79.37% | Lvl 18 | Chance: 0.28 | with a UltraBall and received XP 210
