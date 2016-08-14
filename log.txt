@@ -42464,3 +42464,9 @@
 [01:36:13] (Wild Success) | Magikarp 81 V |   47 Cp | 51.44% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
 [01:36:16] (Wild Success) | Magikarp 95 V |   94 Cp | 61.48% | Lvl 15 | Chance: 0.54 | with a PokeBall and received XP 210
 [01:36:17] (Wild Success) | Magikarp 71 V |   10 Cp | 45.38% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[01:36:19] (INFO) Found 3 pokemon to transfer...
+[01:36:20] (TRANSFER) Magikarp 95 V |   94 Cp | 61.48% | Lvl 15 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 371
+[01:36:23] (TRANSFER) Magikarp 81 V |   47 Cp | 51.44% | Lvl 08 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 372
+[01:36:25] (TRANSFER) Magikarp 71 V |   10 Cp | 45.38% | Lvl 01 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 373
+[01:36:26] (INFO) Found 1 catchable Pokemon
+[01:36:28] (Wild Success) | Magikarp 125 V |   34 Cp | 96.64% | Lvl 05 | Chance: 0.96 | with a PokeBall and received XP 210
