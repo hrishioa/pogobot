@@ -30212,3 +30212,17 @@
 [13:24:45] (INFO) Found 1 catchable Pokemon
 [13:24:46] (BERRY) ItemRazzBerry used, remaining: 45
 [13:24:47] (Wild Success) | Goldeen 186 V |  543 Cp | 73.05% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
+[13:24:49] (INFO) Found 1 pokemon to transfer...
+[13:24:51] (TRANSFER) Goldeen 180 V |  503 Cp | 83.05% | Lvl 19 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 198
+[13:24:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:24:57] (POKESTOP) Eusoff Hall in 103.03 m distance
+[13:24:57] (NAVIGATION) Distance to target location: 103.03 meters. Will take 12.36 seconds driving at 30kmh
+[13:25:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 2 x ItemPokeBall
+[13:25:09] (POKESTOP) Corridor of Love Mural in 73.86 m distance
+[13:25:09] (NAVIGATION) Distance to target location: 73.86 meters. Will take 8.86 seconds driving at 30kmh
+[13:25:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[13:25:17] (POKESTOP) Heritage Time Arc in 93.58 m distance
+[13:25:17] (NAVIGATION) Distance to target location: 93.58 meters. Will take 10.53 seconds driving at 32kmh
+[13:25:19] (INFO) Found 1 catchable Pokemon
+[13:25:20] (BERRY) ItemRazzBerry used, remaining: 44
+[13:25:21] (Wild Success) | Magmar 273 V | 1302 Cp | 73.04% | Lvl 21 | Chance: 0.19 | with a UltraBall and received XP 210
