@@ -29626,3 +29626,20 @@
 [13:01:26] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
 [13:01:29] (INFO) Found 1 catchable Pokemon
 [13:01:30] (Wild Success) | Weedle 100 V |  101 Cp | 35.26% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[13:01:31] (INFO) Found 1 pokemon to transfer...
+[13:01:33] (TRANSFER) Weedle 100 V |  101 Cp | 35.26% | Lvl 10 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 523
+[13:01:33] (POKESTOP) Kent Ridge Heritage Trail in 240.15 m distance
+[13:01:33] (NAVIGATION) Distance to target location: 240.15 meters. Will take 19.65 seconds driving at 44kmh
+[13:01:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[13:01:53] (INFO) Found 3 Recyclable Items:
+[13:01:54] (RECYCLING) PokeBall x 5
+[13:01:55] (RECYCLING) Potion x 2
+[13:01:56] (RECYCLING) Revive x 1
+[13:01:58] (POKESTOP) Chinese Women Painting in 89.93 m distance
+[13:01:58] (NAVIGATION) Distance to target location: 89.93 meters. Will take 11.16 seconds driving at 29kmh
+[13:02:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:02:09] (POKESTOP) The Deck at Arts Faculty in 219.5 m distance
+[13:02:09] (NAVIGATION) Distance to target location: 219.5 meters. Will take 19.76 seconds driving at 40kmh
+[13:02:24] (INFO) Found 2 catchable Pokemon
+[13:02:25] (BERRY) ItemRazzBerry used, remaining: 45
+[13:02:26] (Wild Success) | Krabby 148 V |  388 Cp | 61.98% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
