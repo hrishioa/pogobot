@@ -21890,3 +21890,39 @@
 [08:16:33] (INFO) Found 2 catchable Pokemon
 [08:16:35] (Wild Success) | Zubat 143 V |   10 Cp | 66.92% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
 [08:16:36] (Wild Success) | NidoranMale 132 V |  250 Cp | 44.97% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[08:16:38] (INFO) Found 2 pokemon to transfer...
+[08:16:40] (TRANSFER) NidoranMale 132 V |  446 Cp | 35.17% | Lvl 22 | Best: [NidoranMale 175 V |  499 Cp | 76.41% | Lvl 22] | Candy: 20
+[08:16:42] (TRANSFER) Zubat 143 V |   10 Cp | 66.92% | Lvl 01 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 694
+[08:16:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:16:46] (POKESTOP) Catherine's Healing Garden in 58.8 m distance
+[08:16:46] (NAVIGATION) Distance to target location: 58.8 meters. Will take 6.62 seconds driving at 32kmh
+[08:16:50] (INFO) Found 1 catchable Pokemon
+[08:16:50] (BERRY) ItemRazzBerry used, remaining: 49
+[08:16:51] (Wild Escape) | Golbat 146 V |  447 Cp | 46.00% | Lvl 09 | Chance: 0.2 | with a GreatBall 
+[08:16:51] (BERRY) ItemRazzBerry used, remaining: 48
+[08:16:53] (Wild Success Attempt #2) | Golbat 146 V |  447 Cp | 46.00% | Lvl 09 | Chance: 0.2 | with a GreatBall 
+[08:16:55] (INFO) Found 1 pokemon to transfer...
+[08:16:56] (TRANSFER) Golbat 146 V |  447 Cp | 46.00% | Lvl 09 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 698
+[08:16:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[08:16:59] (POKESTOP) A Spring Of Gratitude  in 54.7 m distance
+[08:16:59] (NAVIGATION) Distance to target location: 54.7 meters. Will take 6.56 seconds driving at 30kmh
+[08:17:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:17:06] (POKESTOP) Painted Glass Soccer Pane in 71.51 m distance
+[08:17:06] (NAVIGATION) Distance to target location: 71.51 meters. Will take 8.88 seconds driving at 29kmh
+[08:17:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[08:17:15] (INFO) Found 4 Recyclable Items:
+[08:17:15] (RECYCLING) PokeBall x 12
+[08:17:15] (RECYCLING) Potion x 1
+[08:17:16] (RECYCLING) SuperPotion x 1
+[08:17:18] (RECYCLING) Revive x 1
+[08:17:22] (POKESTOP) Spring of Gratitude in 53.83 m distance
+[08:17:22] (NAVIGATION) Distance to target location: 53.83 meters. Will take 6.92 seconds driving at 28kmh
+[08:17:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:17:29] (POKESTOP) Survival (Rocker) in 150.45 m distance
+[08:17:29] (NAVIGATION) Distance to target location: 150.45 meters. Will take 18.05 seconds driving at 30kmh
+[08:17:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:17:47] (POKESTOP) Saying By The Founder in 152.17 m distance
+[08:17:47] (NAVIGATION) Distance to target location: 152.17 meters. Will take 17.12 seconds driving at 32kmh
+[08:18:02] (INFO) Found 2 catchable Pokemon
+[08:18:03] (BERRY) ItemRazzBerry used, remaining: 47
+[08:18:04] (Wild Success) | Staryu 177 V |  504 Cp | 75.41% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
