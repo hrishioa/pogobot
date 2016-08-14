@@ -33517,3 +33517,5 @@
 [20:39:57] (NAVIGATION) Distance to target location: 125.29 meters. Will take 16.11 seconds driving at 28kmh
 [20:40:03] (INFO) Found 2 catchable Pokemon
 [20:40:05] (Wild Success) | Weedle 55 V |  118 Cp | 11.22% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
+[20:40:06] (BERRY) ItemRazzBerry used, remaining: 43
+[20:40:07] (Wild Success) | Golbat 183 V |  526 Cp | 75.26% | Lvl 10 | Chance: 0.18 | with a UltraBall and received XP 420
