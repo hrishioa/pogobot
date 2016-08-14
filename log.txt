@@ -41790,3 +41790,11 @@
 [01:17:52] (BERRY) ItemRazzBerry used, remaining: 49
 [01:17:53] (Wild Success) | Doduo 159 V |  526 Cp | 58.57% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
 [01:17:55] (Wild Success) | Weedle 88 V |  135 Cp | 42.09% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[01:17:57] (INFO) Found 2 pokemon to transfer...
+[01:17:58] (TRANSFER) Kakuna 66 V |  238 Cp | 10.02% | Lvl 24 | Best: [Kakuna 109 V |  124 Cp | 42.11% | Lvl 11] | Candy: 270
+[01:18:00] (TRANSFER) Weedle 88 V |  135 Cp | 42.09% | Lvl 13 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 271
+[01:18:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[01:18:05] (POKESTOP) USS Hollywood Directors in 44.29 m distance
+[01:18:05] (NAVIGATION) Distance to target location: 44.29 meters. Will take 5.14 seconds driving at 31kmh
+[01:18:08] (INFO) Found 1 catchable Pokemon
+[01:18:10] (Wild Success) | Krabby 115 V |   94 Cp | 54.40% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
