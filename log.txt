@@ -32172,3 +32172,13 @@
 [14:37:54] (INFO) Found 1 catchable Pokemon
 [14:37:55] (BERRY) ItemRazzBerry used, remaining: 38
 [14:37:56] (Wild Success) | Bellsprout 136 V |  620 Cp | 47.22% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[14:37:57] (INFO) Found 1 pokemon to transfer...
+[14:37:59] (TRANSFER) Bellsprout 136 V |  620 Cp | 47.22% | Lvl 22 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 392
+[14:38:02] (POKESTOP) 4 Mega Zip Lines in 64.42 m distance
+[14:38:02] (NAVIGATION) Distance to target location: 64.42 meters. Will take 7.48 seconds driving at 31kmh
+[14:38:10] (POKESTOP) Red Fire Truck in 104.37 m distance
+[14:38:10] (NAVIGATION) Distance to target location: 104.37 meters. Will take 11.74 seconds driving at 32kmh
+[14:38:21] (POKESTOP) Blue Dragon Boat  in 53.52 m distance
+[14:38:21] (NAVIGATION) Distance to target location: 53.52 meters. Will take 6.64 seconds driving at 29kmh
+[14:38:23] (INFO) Found 1 catchable Pokemon
+[14:38:24] (Wild Success) | Pidgey 105 V |  146 Cp | 40.42% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
