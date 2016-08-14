@@ -30973,3 +30973,19 @@
 [13:52:48] (Wild Success) | Rattata 127 V |  196 Cp | 46.89% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [13:52:50] (BERRY) ItemRazzBerry used, remaining: 48
 [13:52:51] (Wild Success) | Bellsprout 185 V |  683 Cp | 34.90% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
+[13:52:52] (INFO) Found 3 pokemon to transfer...
+[13:52:54] (TRANSFER) Bellsprout 185 V |  683 Cp | 34.90% | Lvl 25 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 348
+[13:52:56] (TRANSFER) Rattata 127 V |  196 Cp | 46.89% | Lvl 14 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 701
+[13:52:58] (TRANSFER) Pidgey 144 V |  330 Cp | 60.79% | Lvl 19 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1230
+[13:52:59] (POKESTOP) Marsh Garden in 85.71 m distance
+[13:52:59] (NAVIGATION) Distance to target location: 85.71 meters. Will take 9.95 seconds driving at 31kmh
+[13:53:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:53:08] (POKESTOP) Chilling Area in 127.46 m distance
+[13:53:08] (NAVIGATION) Distance to target location: 127.46 meters. Will take 14.34 seconds driving at 32kmh
+[13:53:15] (INFO) Found 1 catchable Pokemon
+[13:53:16] (Wild Escape) | Caterpie 119 V |  190 Cp | 49.77% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[13:53:17] (Wild Success Attempt #2) | Caterpie 119 V |  190 Cp | 49.77% | Lvl 18 | Chance: 0.35 | with a GreatBall 
+[13:53:19] (INFO) Found 1 pokemon to transfer...
+[13:53:20] (TRANSFER) Caterpie 102 V |  233 Cp | 28.76% | Lvl 24 | Best: [Caterpie 119 V |  190 Cp | 49.77% | Lvl 18] | Candy: 179
+[13:53:21] (INFO) Found 1 catchable Pokemon
+[13:53:23] (Wild Success) | Pidgey 88 V |  106 Cp | 26.93% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
