@@ -40255,3 +40255,18 @@
 [00:31:42] (INFO) Found 1 catchable Pokemon
 [00:31:43] (BERRY) ItemRazzBerry used, remaining: 44
 [00:31:45] (Wild Success) | Growlithe 162 V |  480 Cp | 49.21% | Lvl 14 | Chance: 0.24 | with a UltraBall and received XP 210
+[00:31:46] (INFO) Found 1 pokemon to transfer...
+[00:31:48] (TRANSFER) Growlithe 162 V |  480 Cp | 49.21% | Lvl 14 | Best: [Growlithe 186 V |  696 Cp | 55.88% | Lvl 20] | Candy: 29
+[00:31:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:31:51] (INFO) Found 4 Recyclable Items:
+[00:31:52] (RECYCLING) PokeBall x 10
+[00:31:53] (RECYCLING) Potion x 2
+[00:31:54] (RECYCLING) SuperPotion x 1
+[00:31:54] (RECYCLING) Revive x 1
+[00:31:58] (POKESTOP) Star Dots in 47.66 m distance
+[00:31:58] (NAVIGATION) Distance to target location: 47.66 meters. Will take 5.72 seconds driving at 30kmh
+[00:32:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:32:04] (POKESTOP) The Mighty Lion in 125.66 m distance
+[00:32:04] (NAVIGATION) Distance to target location: 125.66 meters. Will take 15.08 seconds driving at 30kmh
+[00:32:13] (INFO) Found 1 catchable Pokemon
+[00:32:14] (Wild Success) | Pikachu 140 V |  279 Cp | 36.81% | Lvl 13 | Chance: 0.16 | with a UltraBall and received XP 210
