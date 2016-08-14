@@ -41423,3 +41423,21 @@
 [01:06:24] (NAVIGATION) Distance to target location: 77.09 meters. Will take 8.67 seconds driving at 32kmh
 [01:06:30] (INFO) Found 1 catchable Pokemon
 [01:06:32] (Wild Success) | Slowpoke 135 V |  373 Cp | 47.98% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:06:34] (INFO) Found 1 pokemon to transfer...
+[01:06:35] (TRANSFER) Slowpoke 135 V |  373 Cp | 47.98% | Lvl 12 | Best: [Slowpoke 164 V |  485 Cp | 66.23% | Lvl 15] | Candy: 46
+[01:06:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:06:37] (POKESTOP) Giant Egypt Statue in 59.31 m distance
+[01:06:37] (NAVIGATION) Distance to target location: 59.31 meters. Will take 7.36 seconds driving at 29kmh
+[01:06:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:06:45] (INFO) Found 3 Recyclable Items:
+[01:06:45] (RECYCLING) PokeBall x 2
+[01:06:46] (RECYCLING) Potion x 2
+[01:06:47] (RECYCLING) SuperPotion x 2
+[01:06:49] (POKESTOP) Tu Tank Hamen Statue in 82 m distance
+[01:06:49] (NAVIGATION) Distance to target location: 82 meters. Will take 9.84 seconds driving at 30kmh
+[01:06:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPotion
+[01:06:59] (POKESTOP) Ranger Stn Wave Hse Mural in 105.95 m distance
+[01:06:59] (NAVIGATION) Distance to target location: 105.95 meters. Will take 12.71 seconds driving at 30kmh
+[01:07:08] (INFO) Found 1 catchable Pokemon
+[01:07:09] (BERRY) ItemRazzBerry used, remaining: 49
+[01:07:11] (Wild Success) | Pidgeotto 140 V |  542 Cp | 31.49% | Lvl 18 | Chance: 0.17 | with a GreatBall and received XP 210
