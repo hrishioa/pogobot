@@ -40975,3 +40975,44 @@
 [00:52:00] (INFO) Found 2 catchable Pokemon
 [00:52:02] (Wild Success) | Paras 146 V |  214 Cp | 65.06% | Lvl 09 | Chance: 0.4 | with a GreatBall and received XP 210
 [00:52:04] (Wild Success) | Pikachu 120 V |   58 Cp | 54.28% | Lvl 03 | Chance: 0.37 | with a GreatBall and received XP 210
+[00:52:06] (INFO) Found 2 pokemon to transfer...
+[00:52:07] (TRANSFER) Paras 146 V |  214 Cp | 65.06% | Lvl 09 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 104
+[00:52:10] (TRANSFER) Pikachu 120 V |   58 Cp | 54.28% | Lvl 03 | Best: [Pikachu 159 V |  385 Cp | 55.84% | Lvl 17] | Candy: 54
+[00:52:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:52:13] (INFO) Found 2 Recyclable Items:
+[00:52:14] (RECYCLING) PokeBall x 11
+[00:52:15] (RECYCLING) Potion x 1
+[00:52:18] (POKESTOP) Giant Egypt Statue in 50.58 m distance
+[00:52:18] (NAVIGATION) Distance to target location: 50.58 meters. Will take 6.5 seconds driving at 28kmh
+[00:52:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:52:24] (POKESTOP) Obelisk of Ra in 69.26 m distance
+[00:52:24] (NAVIGATION) Distance to target location: 69.26 meters. Will take 8.04 seconds driving at 31kmh
+[00:52:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPotion, 1 x ItemUltraBall
+[00:52:32] (POKESTOP) Sci Fi Auditorium in 93.01 m distance
+[00:52:32] (NAVIGATION) Distance to target location: 93.01 meters. Will take 11.96 seconds driving at 28kmh
+[00:52:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[00:52:43] (POKESTOP) Bumblebee Art in 60.51 m distance
+[00:52:43] (NAVIGATION) Distance to target location: 60.51 meters. Will take 7.26 seconds driving at 30kmh
+[00:52:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:52:50] (POKESTOP) Star Dots in 49.32 m distance
+[00:52:50] (NAVIGATION) Distance to target location: 49.32 meters. Will take 5.73 seconds driving at 31kmh
+[00:52:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[00:52:56] (INFO) Found 3 Recyclable Items:
+[00:52:56] (RECYCLING) PokeBall x 8
+[00:52:58] (RECYCLING) Potion x 2
+[00:52:58] (RECYCLING) HyperPotion x 1
+[00:53:01] (POKESTOP) The Mighty Lion in 133.74 m distance
+[00:53:01] (NAVIGATION) Distance to target location: 133.74 meters. Will take 17.2 seconds driving at 28kmh
+[00:53:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[00:53:18] (POKESTOP) Big Bird Emporium in 91.06 m distance
+[00:53:18] (NAVIGATION) Distance to target location: 91.06 meters. Will take 11.71 seconds driving at 28kmh
+[00:53:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:53:30] (POKESTOP) Spaghetti Space Chase in 53.44 m distance
+[00:53:30] (NAVIGATION) Distance to target location: 53.44 meters. Will take 6.41 seconds driving at 30kmh
+[00:53:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[00:53:36] (POKESTOP) The Brown Derby in 46.78 m distance
+[00:53:36] (NAVIGATION) Distance to target location: 46.78 meters. Will take 5.61 seconds driving at 30kmh
+[00:53:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[00:53:41] (INFO) Found 1 catchable Pokemon
+[00:53:43] (BERRY) ItemRazzBerry used, remaining: 49
+[00:53:43] (Wild Success) | Pikachu 117 V |  416 Cp | 9.89% | Lvl 21 | Chance: 0.13 | with a UltraBall and received XP 210
