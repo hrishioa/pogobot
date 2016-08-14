@@ -43209,3 +43209,25 @@
 [01:59:15] (NAVIGATION) Distance to target location: 112.92 meters. Will take 13.11 seconds driving at 31kmh
 [01:59:21] (INFO) Found 1 catchable Pokemon
 [01:59:22] (Wild Success) | Rattata 135 V |  306 Cp | 44.14% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 310
+[01:59:24] (INFO) Found 1 pokemon to transfer...
+[01:59:25] (TRANSFER) Rattata 135 V |  306 Cp | 44.14% | Lvl 22 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 396
+[01:59:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[01:59:31] (POKESTOP) Dancing Boy by Romeo Britto in 93.02 m distance
+[01:59:31] (NAVIGATION) Distance to target location: 93.02 meters. Will take 11.16 seconds driving at 30kmh
+[01:59:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[01:59:41] (POKESTOP) Big Temptation in 104.7 m distance
+[01:59:41] (NAVIGATION) Distance to target location: 104.7 meters. Will take 13.46 seconds driving at 28kmh
+[01:59:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[01:59:54] (POKESTOP) Big Apple in 60.85 m distance
+[01:59:54] (NAVIGATION) Distance to target location: 60.85 meters. Will take 7.82 seconds driving at 28kmh
+[02:00:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:00:02] (INFO) Found 5 Recyclable Items:
+[02:00:02] (RECYCLING) RazzBerry x 1
+[02:00:03] (RECYCLING) PokeBall x 7
+[02:00:05] (RECYCLING) Potion x 2
+[02:00:05] (RECYCLING) SuperPotion x 1
+[02:00:07] (RECYCLING) Revive x 1
+[02:00:09] (POKESTOP) Fountain of Dreams at RWS in 139.43 m distance
+[02:00:09] (NAVIGATION) Distance to target location: 139.43 meters. Will take 16.73 seconds driving at 30kmh
+[02:00:22] (INFO) Found 3 catchable Pokemon
+[02:00:23] (Wild Success) | Voltorb 153 V |  148 Cp | 61.08% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
