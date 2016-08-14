@@ -36713,3 +36713,15 @@
 [22:34:01] (Wild Success) | Magnemite 102 V |  120 Cp | 27.77% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [22:34:02] (BERRY) ItemRazzBerry used, remaining: 42
 [22:34:03] (Wild Success) | Magnemite 148 V |  459 Cp | 29.70% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
+[22:34:05] (INFO) Found 1 pokemon to transfer...
+[22:34:06] (TRANSFER) Magnemite 102 V |  120 Cp | 27.77% | Lvl 06 | Best: [Magnemite 148 V |  459 Cp | 29.70% | Lvl 22] | Candy: 10
+[22:34:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[22:34:08] (POKESTOP) Snakes and Ladders in 70.94 m distance
+[22:34:08] (NAVIGATION) Distance to target location: 70.94 meters. Will take 7.98 seconds driving at 32kmh
+[22:34:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[22:34:17] (INFO) Found 1 Recyclable Item:
+[22:34:17] (RECYCLING) Potion x 1
+[22:34:20] (POKESTOP) Coloured Roofs in 167.35 m distance
+[22:34:20] (NAVIGATION) Distance to target location: 167.35 meters. Will take 19.43 seconds driving at 31kmh
+[22:34:22] (INFO) Found 1 catchable Pokemon
+[22:34:23] (Wild Success) | Voltorb 165 V |  261 Cp | 61.74% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
