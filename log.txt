@@ -37490,3 +37490,13 @@
 [22:56:16] (NAVIGATION) Distance to target location: 363.07 meters. Will take 19.8 seconds driving at 66kmh
 [22:56:22] (INFO) Found 1 catchable Pokemon
 [22:56:23] (Wild Success) | Magikarp 101 V |   17 Cp | 74.42% | Lvl 03 | Chance: 1 | with a PokeBall and received XP 210
+[22:56:25] (INFO) Found 1 pokemon to transfer...
+[22:56:26] (TRANSFER) Magikarp 101 V |   17 Cp | 74.42% | Lvl 03 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 213
+[22:56:36] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 4 x ItemPokeBall, 1 x ItemPotion
+[22:56:37] (INFO) Found 2 Recyclable Items:
+[22:56:38] (RECYCLING) PokeBall x 12
+[22:56:39] (RECYCLING) Potion x 2
+[22:56:41] (POKESTOP) Jars of Clay in 447.55 m distance
+[22:56:41] (NAVIGATION) Distance to target location: 447.55 meters. Will take 23.02 seconds driving at 70kmh
+[22:56:49] (INFO) Found 2 catchable Pokemon
+[22:56:51] (Wild Success) | Slowpoke 94 V |   46 Cp | 33.91% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
