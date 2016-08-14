@@ -29748,3 +29748,4 @@
 [13:06:44] (INFO) Found 2 catchable Pokemon
 [13:06:45] (BERRY) ItemRazzBerry used, remaining: 49
 [13:06:46] (Wild Success) | Eevee 192 V |  678 Cp | 62.40% | Lvl 24 | Chance: 0.24 | with a GreatBall and received XP 210
+[13:06:47] (Wild Success) | Horsea 135 V |  180 Cp | 57.29% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
