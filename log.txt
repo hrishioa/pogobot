@@ -38786,3 +38786,4 @@
 [23:45:43] (NAVIGATION) Distance to target location: 723.72 meters. Will take 37.22 seconds driving at 70kmh
 [23:46:15] (INFO) Found 2 catchable Pokemon
 [23:46:18] (Wild Success) | Voltorb 176 V |  375 Cp | 67.94% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
+[23:46:20] (Wild Success) | Goldeen 134 V |  175 Cp | 68.75% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
