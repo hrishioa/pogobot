@@ -40586,3 +40586,7 @@
 [00:40:31] (INFO) Found 1 catchable Pokemon
 [00:40:32] (BERRY) ItemRazzBerry used, remaining: 45
 [00:40:33] (Wild Success) | Goldeen 156 V |  550 Cp | 42.10% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[00:40:35] (INFO) Found 1 pokemon to transfer...
+[00:40:36] (TRANSFER) Goldeen 156 V |  550 Cp | 42.10% | Lvl 23 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 213
+[00:40:37] (INFO) Found 1 catchable Pokemon
+[00:40:39] (Wild Success) | Seel 126 V |  245 Cp | 37.45% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
