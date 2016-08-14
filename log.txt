@@ -45083,3 +45083,8 @@
 [02:56:38] (INFO) Found 2 catchable Pokemon
 [02:56:40] (Wild Success) | Poliwag 131 V |  183 Cp | 60.56% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [02:56:42] (Wild Success) | Krabby 169 V |  304 Cp | 84.66% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:56:43] (INFO) Found 2 pokemon to transfer...
+[02:56:45] (TRANSFER) Krabby 169 V |  304 Cp | 84.66% | Lvl 14 | Best: [Krabby 176 V |  499 Cp | 68.90% | Lvl 24] | Candy: 190
+[02:56:47] (TRANSFER) Poliwag 131 V |  183 Cp | 60.56% | Lvl 09 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 192
+[02:56:49] (INFO) Found 1 catchable Pokemon
+[02:56:51] (Wild Success) | Pidgey 109 V |  207 Cp | 33.36% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
