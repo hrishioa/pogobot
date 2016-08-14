@@ -37009,3 +37009,14 @@
 [22:42:47] (NAVIGATION) Distance to target location: 78.06 meters. Will take 10.04 seconds driving at 28kmh
 [22:42:53] (INFO) Found 1 catchable Pokemon
 [22:42:55] (Wild Success) | Pikachu 118 V |   80 Cp | 45.01% | Lvl 04 | Chance: 0.31 | with a UltraBall and received XP 210
+[22:42:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:42:59] (POKESTOP) Stone Gargoyle in 52.11 m distance
+[22:42:59] (NAVIGATION) Distance to target location: 52.11 meters. Will take 5.86 seconds driving at 32kmh
+[22:43:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemRazzBerry
+[22:43:05] (POKESTOP) Sentosa Gantry in 183.31 m distance
+[22:43:05] (NAVIGATION) Distance to target location: 183.31 meters. Will take 20 seconds driving at 33kmh
+[22:43:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[22:43:25] (POKESTOP) Ice Cream  in 642.85 m distance
+[22:43:25] (NAVIGATION) Distance to target location: 642.85 meters. Will take 33.06 seconds driving at 70kmh
+[22:43:54] (INFO) Found 3 catchable Pokemon
+[22:43:56] (Wild Success) | Mankey 125 V |   10 Cp | 48.81% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
