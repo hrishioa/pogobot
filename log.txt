@@ -32160,3 +32160,4 @@
 [14:37:33] (INFO) Found 3 catchable Pokemon
 [14:37:33] (BERRY) ItemRazzBerry used, remaining: 40
 [14:37:35] (Wild Success) | Bellsprout 156 V |  621 Cp | 14.39% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[14:37:36] (Wild Success) | Bellsprout 109 V |  234 Cp | 18.61% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
