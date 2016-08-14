@@ -45918,3 +45918,7 @@
 [03:24:43] (NAVIGATION) Distance to target location: 102.04 meters. Will take 12.25 seconds driving at 30kmh
 [03:24:49] (INFO) Found 1 catchable Pokemon
 [03:24:50] (Wild Success) | Clefairy 100 V |   77 Cp | 32.43% | Lvl 03 | Chance: 0.55 | with a PokeBall and received XP 210
+[03:24:52] (INFO) Found 1 pokemon to transfer...
+[03:24:53] (TRANSFER) Clefairy 100 V |   77 Cp | 32.43% | Lvl 03 | Best: [Clefairy 205 V |  657 Cp | 79.46% | Lvl 20] | Candy: 77
+[03:24:56] (INFO) Found 1 catchable Pokemon
+[03:24:57] (Wild Success) | Pidgey 111 V |   99 Cp | 56.20% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
