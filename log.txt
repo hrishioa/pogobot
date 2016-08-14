@@ -28618,3 +28618,34 @@
 [12:19:03] (BERRY) ItemRazzBerry used, remaining: 48
 [12:19:04] (Wild Success) | Zubat 118 V |  372 Cp | 30.97% | Lvl 25 | Chance: 0.29 | with a GreatBall and received XP 210
 [12:19:06] (Wild Success) | Zubat 142 V |  330 Cp | 63.57% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[12:19:08] (INFO) Found 2 pokemon to transfer...
+[12:19:10] (TRANSFER) Zubat 142 V |  330 Cp | 63.57% | Lvl 20 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 837
+[12:19:12] (TRANSFER) Zubat 118 V |  372 Cp | 30.97% | Lvl 25 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 838
+[12:19:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[12:19:17] (INFO) Found 3 Recyclable Items:
+[12:19:17] (RECYCLING) PokeBall x 10
+[12:19:18] (RECYCLING) Potion x 2
+[12:19:19] (RECYCLING) Revive x 2
+[12:19:22] (POKESTOP) Eusoff Hall in 101.35 m distance
+[12:19:22] (NAVIGATION) Distance to target location: 101.35 meters. Will take 11.77 seconds driving at 31kmh
+[12:19:38] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[12:19:38] (ATTENTION) Restarting the application due to error...
+[12:19:38] (INFO) Logging in via: Google
+[12:19:39] (INFO) Client logged in
+[12:19:39] (INFO) Found 68 Pokestops
+[12:19:40] (POKESTOP) Eusoff Hall in 45.77 m distance
+[12:19:40] (NAVIGATION) Distance to target location: 45.77 meters. Will take 5.15 seconds driving at 32kmh
+[12:19:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[12:19:46] (POKESTOP) Temasek Hall in 166.19 m distance
+[12:19:46] (NAVIGATION) Distance to target location: 166.19 meters. Will take 19.94 seconds driving at 30kmh
+[12:20:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:20:05] (POKESTOP) Rhythm in Space in 41.28 m distance
+[12:20:05] (NAVIGATION) Distance to target location: 41.28 meters. Will take 4.95 seconds driving at 30kmh
+[12:20:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 3 x ItemPokeBall
+[12:20:10] (POKESTOP) NUS 1962-1980 in 91.19 m distance
+[12:20:10] (NAVIGATION) Distance to target location: 91.19 meters. Will take 11.32 seconds driving at 29kmh
+[12:20:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[12:20:21] (POKESTOP) NUS Graduate Pot in 75.34 m distance
+[12:20:21] (NAVIGATION) Distance to target location: 75.34 meters. Will take 9.04 seconds driving at 30kmh
+[12:20:27] (INFO) Found 1 catchable Pokemon
+[12:20:29] (Wild Success) | Paras 132 V |  136 Cp | 57.58% | Lvl 06 | Chance: 0.49 | with a GreatBall and received XP 210
