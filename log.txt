@@ -22645,3 +22645,11 @@
 [08:41:43] (TRANSFER) Pidgey 133 V |  390 Cp | 38.95% | Lvl 24 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1047
 [08:41:44] (INFO) Found 1 catchable Pokemon
 [08:41:46] (Wild Success) | Diglett 106 V |  144 Cp | 32.66% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[08:41:47] (INFO) Found 1 pokemon to transfer...
+[08:41:49] (TRANSFER) Diglett 106 V |  144 Cp | 32.66% | Lvl 15 | Best: [Diglett 141 V |  130 Cp | 75.81% | Lvl 11] | Candy: 34
+[08:41:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:41:52] (POKESTOP) Temasek Laboratories at NUS in 179.44 m distance
+[08:41:52] (NAVIGATION) Distance to target location: 179.44 meters. Will take 19.58 seconds driving at 33kmh
+[08:42:04] (INFO) Found 1 catchable Pokemon
+[08:42:05] (BERRY) ItemRazzBerry used, remaining: 48
+[08:42:06] (Wild Success) | Staryu 169 V |  474 Cp | 71.82% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
