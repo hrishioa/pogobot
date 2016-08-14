@@ -23748,3 +23748,28 @@
 [09:17:19] (INFO) Found 2 catchable Pokemon
 [09:17:21] (Wild Success) | Pidgeot 124 V |   85 Cp | 50.61% | Lvl 02 | Chance: 0.3 | with a UltraBall and received XP 210
 [09:17:23] (Wild Success) | Rattata 110 V |   36 Cp | 45.85% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[09:17:25] (INFO) Found 1 pokemon to transfer...
+[09:17:26] (TRANSFER) Rattata 110 V |   36 Cp | 45.85% | Lvl 03 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 637
+[09:17:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[09:17:31] (POKESTOP) Playground Between Block 709&712 in 49.34 m distance
+[09:17:31] (NAVIGATION) Distance to target location: 49.34 meters. Will take 5.55 seconds driving at 32kmh
+[09:17:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[09:17:37] (POKESTOP) Herbs Garden in 66.22 m distance
+[09:17:37] (NAVIGATION) Distance to target location: 66.22 meters. Will take 7.45 seconds driving at 32kmh
+[09:17:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[09:17:44] (POKESTOP) West Coast Mural Art in 81.22 m distance
+[09:17:44] (NAVIGATION) Distance to target location: 81.22 meters. Will take 10.08 seconds driving at 29kmh
+[09:17:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemSuperPotion
+[09:17:54] (POKESTOP) Mythical Creature Mural in 85.89 m distance
+[09:17:54] (NAVIGATION) Distance to target location: 85.89 meters. Will take 9.66 seconds driving at 32kmh
+[09:18:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[09:18:02] (INFO) Found 4 Recyclable Items:
+[09:18:03] (RECYCLING) PokeBall x 5
+[09:18:03] (RECYCLING) Potion x 2
+[09:18:04] (RECYCLING) SuperPotion x 1
+[09:18:05] (RECYCLING) Revive x 1
+[09:18:08] (POKESTOP) West Coast Playground in 73.86 m distance
+[09:18:09] (NAVIGATION) Distance to target location: 73.86 meters. Will take 9.5 seconds driving at 28kmh
+[09:18:15] (INFO) Found 1 catchable Pokemon
+[09:18:16] (BERRY) ItemRazzBerry used, remaining: 49
+[09:18:17] (Wild Success) | Goldeen 164 V |  530 Cp | 63.58% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
