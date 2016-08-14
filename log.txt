@@ -28453,3 +28453,4 @@
 [12:14:10] (INFO) Found 2 catchable Pokemon
 [12:14:11] (BERRY) ItemRazzBerry used, remaining: 50
 [12:14:12] (Wild Success) | Bellsprout 160 V |  602 Cp | 35.36% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
+[12:14:14] (Wild Success) | Rattata 151 V |  343 Cp | 52.10% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
