@@ -39960,3 +39960,21 @@
 [00:24:08] (NAVIGATION) Distance to target location: 54.42 meters. Will take 7 seconds driving at 28kmh
 [00:24:11] (INFO) Found 1 catchable Pokemon
 [00:24:12] (Wild Success) | Magnemite 97 V |  206 Cp | 26.22% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[00:24:14] (INFO) Found 1 pokemon to transfer...
+[00:24:16] (TRANSFER) Magnemite 97 V |  206 Cp | 26.22% | Lvl 10 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 66
+[00:24:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:24:19] (INFO) Found 3 Recyclable Items:
+[00:24:20] (RECYCLING) PokeBall x 4
+[00:24:21] (RECYCLING) SuperPotion x 1
+[00:24:21] (RECYCLING) Revive x 3
+[00:24:25] (POKESTOP) Images of Singapore in 64.83 m distance
+[00:24:25] (NAVIGATION) Distance to target location: 64.83 meters. Will take 7.29 seconds driving at 32kmh
+[00:24:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
+[00:24:33] (POKESTOP) Heritage Tree Leban Malayan Teak in 44.81 m distance
+[00:24:33] (NAVIGATION) Distance to target location: 44.81 meters. Will take 5.04 seconds driving at 32kmh
+[00:24:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:24:40] (POKESTOP) Pavillion at Sentosa in 109.51 m distance
+[00:24:40] (NAVIGATION) Distance to target location: 109.51 meters. Will take 14.08 seconds driving at 28kmh
+[00:24:51] (INFO) Found 1 catchable Pokemon
+[00:24:52] (BERRY) ItemRazzBerry used, remaining: 49
+[00:24:53] (Wild Success) | Vulpix 167 V |  446 Cp | 57.30% | Lvl 21 | Chance: 0.19 | with a GreatBall and received XP 210
