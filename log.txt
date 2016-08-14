@@ -32182,3 +32182,8 @@
 [14:38:21] (NAVIGATION) Distance to target location: 53.52 meters. Will take 6.64 seconds driving at 29kmh
 [14:38:23] (INFO) Found 1 catchable Pokemon
 [14:38:24] (Wild Success) | Pidgey 105 V |  146 Cp | 40.42% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[14:38:26] (INFO) Found 1 pokemon to transfer...
+[14:38:27] (TRANSFER) Pidgey 105 V |  146 Cp | 40.42% | Lvl 09 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1330
+[14:38:29] (INFO) Found 1 catchable Pokemon
+[14:38:29] (BERRY) ItemRazzBerry used, remaining: 37
+[14:38:31] (Wild Success) | Bellsprout 100 V |  549 Cp | 18.13% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
