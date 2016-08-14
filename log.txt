@@ -24042,3 +24042,10 @@
 [09:26:07] (NAVIGATION) Distance to target location: 205.14 meters. Will take 19.96 seconds driving at 37kmh
 [09:26:13] (INFO) Found 1 catchable Pokemon
 [09:26:14] (Wild Success) | Spearow 96 V |  128 Cp | 36.14% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[09:26:16] (INFO) Found 1 pokemon to transfer...
+[09:26:17] (TRANSFER) Spearow 96 V |  128 Cp | 36.14% | Lvl 08 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 313
+[09:26:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[09:26:28] (POKESTOP) Wu Tai Shan  in 63.27 m distance
+[09:26:28] (NAVIGATION) Distance to target location: 63.27 meters. Will take 7.12 seconds driving at 32kmh
+[09:26:33] (INFO) Found 1 catchable Pokemon
+[09:26:34] (Wild Success) | Zubat 91 V |   40 Cp | 41.80% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
