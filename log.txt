@@ -42487,3 +42487,10 @@
 [01:36:51] (INFO) Found 2 catchable Pokemon
 [01:36:53] (Wild Success) | Magikarp 88 V |   85 Cp | 55.31% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
 [01:36:55] (Wild Success) | Psyduck 103 V |   42 Cp | 33.54% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[01:36:56] (INFO) Found 1 pokemon to transfer...
+[01:36:57] (TRANSFER) Psyduck 103 V |   42 Cp | 33.54% | Lvl 02 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 173
+[01:37:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[01:37:01] (POKESTOP) Singapore Cruise Centre at Harbourfront in 234.16 m distance
+[01:37:01] (NAVIGATION) Distance to target location: 234.16 meters. Will take 19.6 seconds driving at 43kmh
+[01:37:05] (INFO) Found 1 catchable Pokemon
+[01:37:07] (Wild Success) | Magikarp 90 V |   97 Cp | 54.98% | Lvl 16 | Chance: 0.52 | with a PokeBall and received XP 210
