@@ -44253,3 +44253,12 @@
 [02:31:06] (INFO) Found 2 catchable Pokemon
 [02:31:08] (Wild Success) | Pidgey 85 V |  230 Cp | 21.91% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [02:31:10] (Wild Success) | Magikarp 99 V |  149 Cp | 58.98% | Lvl 24 | Chance: 0.42 | with a GreatBall and received XP 210
+[02:31:11] (INFO) Found 2 pokemon to transfer...
+[02:31:14] (TRANSFER) Pidgey 85 V |  230 Cp | 21.91% | Lvl 15 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 748
+[02:31:15] (TRANSFER) Magikarp 99 V |  149 Cp | 58.98% | Lvl 24 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 425
+[02:31:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemUltraBall
+[02:31:20] (POKESTOP) Hard Rock Hotel Singapore in 666.16 m distance
+[02:31:20] (NAVIGATION) Distance to target location: 666.16 meters. Will take 34.26 seconds driving at 70kmh
+[02:31:51] (INFO) Found 2 catchable Pokemon
+[02:31:52] (BERRY) ItemRazzBerry used, remaining: 51
+[02:31:53] (Wild Success) | Voltorb 182 V |  440 Cp | 66.45% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
