@@ -34561,3 +34561,20 @@
 [21:10:58] (INFO) Found 2 catchable Pokemon
 [21:10:59] (Wild Success) | Zubat 137 V |  341 Cp | 58.33% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
 [21:11:01] (Wild Success) | Goldeen 151 V |   40 Cp | 74.81% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
+[21:11:03] (INFO) Found 2 pokemon to transfer...
+[21:11:05] (TRANSFER) Zubat 137 V |  341 Cp | 58.33% | Lvl 21 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 950
+[21:11:06] (TRANSFER) Goldeen 151 V |   40 Cp | 74.81% | Lvl 02 | Best: [Goldeen 216 V |  597 Cp | 93.69% | Lvl 22] | Candy: 218
+[21:11:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:11:09] (POKESTOP) Survival (Rocker) in 69.91 m distance
+[21:11:09] (NAVIGATION) Distance to target location: 69.91 meters. Will take 8.99 seconds driving at 28kmh
+[21:11:16] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:11:17] (POKESTOP) Raffles Hall in 319.55 m distance
+[21:11:17] (NAVIGATION) Distance to target location: 319.55 meters. Will take 19.83 seconds driving at 58kmh
+[21:11:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:11:40] (POKESTOP) Runme Shaw CFA Studios in 127.27 m distance
+[21:11:40] (NAVIGATION) Distance to target location: 127.27 meters. Will take 15.27 seconds driving at 30kmh
+[21:11:54] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:11:55] (POKESTOP) Fire Painting  in 84.54 m distance
+[21:11:55] (NAVIGATION) Distance to target location: 84.54 meters. Will take 9.82 seconds driving at 31kmh
+[21:11:57] (INFO) Found 1 catchable Pokemon
+[21:11:59] (Wild Success) | Koffing 158 V |  147 Cp | 77.72% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 420
