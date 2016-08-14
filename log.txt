@@ -22568,3 +22568,4 @@
 [08:38:10] (INFO) Found 3 catchable Pokemon
 [08:38:11] (Wild Success) | Sandshrew 149 V |  268 Cp | 62.28% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
 [08:38:13] (Wild Success) | Pidgey 81 V |  251 Cp | 10.69% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[08:38:15] (Wild Success) | Pidgey 89 V |   25 Cp | 47.39% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
