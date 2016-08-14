@@ -42767,3 +42767,13 @@
 [01:45:50] (TRANSFER) Exeggcute 165 V |  265 Cp | 73.84% | Lvl 09 | Best: [Exeggcute 202 V |  663 Cp | 81.00% | Lvl 22] | Candy: 50
 [01:45:52] (INFO) Found 1 catchable Pokemon
 [01:45:53] (Wild Success) | Weedle 66 V |  106 Cp | 23.47% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:45:55] (INFO) Found 1 pokemon to transfer...
+[01:45:56] (TRANSFER) Weedle 66 V |  106 Cp | 23.47% | Lvl 11 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 284
+[01:45:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:45:58] (INFO) Found 2 Recyclable Items:
+[01:45:59] (RECYCLING) PokeBall x 9
+[01:45:59] (RECYCLING) Revive x 2
+[01:46:02] (POKESTOP) Art World Mural in 56.81 m distance
+[01:46:02] (NAVIGATION) Distance to target location: 56.81 meters. Will take 6.82 seconds driving at 30kmh
+[01:46:07] (INFO) Found 1 catchable Pokemon
+[01:46:09] (Wild Success) | Weedle 97 V |  174 Cp | 24.62% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
