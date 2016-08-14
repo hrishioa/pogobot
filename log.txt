@@ -45724,3 +45724,12 @@
 [03:18:37] (TRANSFER) Paras 128 V |  252 Cp | 48.43% | Lvl 11 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 140
 [03:18:38] (INFO) Found 1 catchable Pokemon
 [03:19:01] (Wild Success) | Raticate 163 V |  209 Cp | 36.66% | Lvl 06 | Chance: 0.24 | with a GreatBall and received XP 210
+[03:19:03] (INFO) Found 1 pokemon to transfer...
+[03:19:04] (TRANSFER) Raticate 163 V |  209 Cp | 36.66% | Lvl 06 | Best: [Raticate 242 V |  764 Cp | 61.33% | Lvl 20] | Candy: 448
+[03:19:05] (INFO) Found 2 catchable Pokemon
+[03:19:07] (Wild Flee) | Zubat 143 V |  307 Cp | 56.69% | Lvl 19 | Chance: 0.34 | with a GreatBall 
+[03:19:08] (Wild Flee) | Weedle 57 V |   14 Cp | 23.58% | Lvl 02 | Chance: 1 | with a PokeBall 
+[03:19:12] (POKESTOP) Telok Blangah Hill Park in 136.17 m distance
+[03:19:12] (NAVIGATION) Distance to target location: 136.17 meters. Will take 15.81 seconds driving at 31kmh
+[03:19:25] (INFO) Found 1 catchable Pokemon
+[03:19:27] (Wild Success) | Zubat 140 V |  282 Cp | 46.82% | Lvl 18 | Chance: 0.35 | with a PokeBall and received XP 210
