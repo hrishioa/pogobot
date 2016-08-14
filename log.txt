@@ -43449,3 +43449,16 @@
 [02:04:48] (INFO) Found 2 catchable Pokemon
 [02:04:50] (Wild Success) | Poliwag 89 V |   68 Cp | 30.15% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
 [02:04:51] (Wild Success) | Psyduck 152 V |  466 Cp | 14.80% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[02:04:53] (INFO) Found 2 pokemon to transfer...
+[02:04:55] (TRANSFER) Poliwag 89 V |   68 Cp | 30.15% | Lvl 04 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 176
+[02:04:57] (TRANSFER) Psyduck 152 V |  466 Cp | 14.80% | Lvl 18 | Best: [Psyduck 192 V |  660 Cp | 55.73% | Lvl 23] | Candy: 177
+[02:05:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[02:05:01] (INFO) Found 4 Recyclable Items:
+[02:05:02] (RECYCLING) PokeBall x 10
+[02:05:03] (RECYCLING) Potion x 2
+[02:05:03] (RECYCLING) HyperPotion x 1
+[02:05:04] (RECYCLING) Revive x 1
+[02:05:07] (POKESTOP) Rainbow Waves in 150.02 m distance
+[02:05:07] (NAVIGATION) Distance to target location: 150.02 meters. Will take 18 seconds driving at 30kmh
+[02:05:12] (INFO) Found 1 catchable Pokemon
+[02:05:13] (Wild Success) | Zubat 149 V |  337 Cp | 54.93% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 210
