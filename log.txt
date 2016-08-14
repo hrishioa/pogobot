@@ -44881,3 +44881,45 @@
 [02:49:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
 [02:49:54] (INFO) Found 1 catchable Pokemon
 [02:49:55] (Wild Success) | Rattata 116 V |   65 Cp | 44.70% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[02:49:57] (INFO) Found 1 pokemon to transfer...
+[02:49:59] (TRANSFER) Rattata 116 V |   65 Cp | 44.70% | Lvl 05 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 440
+[02:50:00] (POKESTOP) Keppel Club Tennis Hall in 133.99 m distance
+[02:50:00] (NAVIGATION) Distance to target location: 133.99 meters. Will take 15.56 seconds driving at 31kmh
+[02:50:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[02:50:16] (POKESTOP) Labrador Coastal Walk Signboard in 221.57 m distance
+[02:50:16] (NAVIGATION) Distance to target location: 221.57 meters. Will take 19.94 seconds driving at 40kmh
+[02:50:27] (FATAL ERROR) Unhandled exception encountered: Expected 5 responses, but got 0 responses.
+[02:50:27] (ATTENTION) Restarting the application due to error...
+[02:50:27] (INFO) Logging in via: Google
+[02:50:28] (INFO) Client logged in
+[02:50:28] (INFO) Found 44 Pokestops
+[02:50:29] (POKESTOP) The 1892 Storeroom at  Labrador in 505.47 m distance
+[02:50:29] (NAVIGATION) Distance to target location: 505.47 meters. Will take 26 seconds driving at 70kmh
+[02:50:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 5 x ItemPokeBall
+[02:50:57] (POKESTOP) 200m Mark in 54.3 m distance
+[02:50:57] (NAVIGATION) Distance to target location: 54.3 meters. Will take 6.52 seconds driving at 30kmh
+[02:51:02] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:51:03] (INFO) Found 1 Recyclable Item:
+[02:51:03] (RECYCLING) PokeBall x 9
+[02:51:06] (POKESTOP) Lookout Soldier in 51.33 m distance
+[02:51:06] (NAVIGATION) Distance to target location: 51.33 meters. Will take 5.77 seconds driving at 32kmh
+[02:51:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:51:12] (POKESTOP) Gun Emplacement IV in 53.43 m distance
+[02:51:12] (NAVIGATION) Distance to target location: 53.43 meters. Will take 6.87 seconds driving at 28kmh
+[02:51:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:51:18] (POKESTOP) Fort Pasir Panjang Gun Emplacement in 94.63 m distance
+[02:51:18] (NAVIGATION) Distance to target location: 94.63 meters. Will take 12.17 seconds driving at 28kmh
+[02:51:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:51:30] (POKESTOP) Cannon Tiles in 56.58 m distance
+[02:51:30] (NAVIGATION) Distance to target location: 56.58 meters. Will take 7.27 seconds driving at 28kmh
+[02:51:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:51:36] (POKESTOP) Labrador Battery Historical Marker in 85.43 m distance
+[02:51:36] (NAVIGATION) Distance to target location: 85.43 meters. Will take 10.98 seconds driving at 28kmh
+[02:51:45] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:51:46] (INFO) Found 2 Recyclable Items:
+[02:51:47] (RECYCLING) PokeBall x 5
+[02:51:48] (RECYCLING) Potion x 1
+[02:51:51] (POKESTOP) Golden Pot Fountain in 69.18 m distance
+[02:51:51] (NAVIGATION) Distance to target location: 69.18 meters. Will take 7.78 seconds driving at 32kmh
+[02:51:56] (INFO) Found 1 catchable Pokemon
+[02:51:58] (Wild Success) | Ekans 123 V |  199 Cp | 38.46% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
