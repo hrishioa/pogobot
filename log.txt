@@ -35481,3 +35481,11 @@
 [21:44:50] (NAVIGATION) Distance to target location: 96.42 meters. Will take 10.85 seconds driving at 32kmh
 [21:44:52] (INFO) Found 1 catchable Pokemon
 [21:44:54] (Wild Success) | Golbat 144 V |   82 Cp | 81.22% | Lvl 02 | Chance: 0.48 | with a PokeBall and received XP 210
+[21:44:56] (INFO) Found 1 pokemon to transfer...
+[21:44:57] (TRANSFER) Golbat 144 V |   82 Cp | 81.22% | Lvl 02 | Best: [Golbat 219 V | 1020 Cp | 57.00% | Lvl 20] | Candy: 1010
+[21:45:01] (POKESTOP) Sayings by the Stairs in 77.08 m distance
+[21:45:01] (NAVIGATION) Distance to target location: 77.08 meters. Will take 9.91 seconds driving at 28kmh
+[21:45:10] (POKESTOP) Alice Lee Plaza in 69.99 m distance
+[21:45:10] (NAVIGATION) Distance to target location: 69.99 meters. Will take 8.13 seconds driving at 31kmh
+[21:45:11] (INFO) Found 1 catchable Pokemon
+[21:45:13] (Wild Success) | Spearow 126 V |  317 Cp | 44.24% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
