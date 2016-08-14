@@ -34353,3 +34353,19 @@
 [21:02:36] (BERRY) ItemRazzBerry used, remaining: 49
 [21:02:37] (Wild Success) | Staryu 168 V |  516 Cp | 65.72% | Lvl 21 | Chance: 0.32 | with a UltraBall and received XP 420
 [21:02:38] (Wild Success) | Zubat 93 V |   24 Cp | 45.65% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
+[21:02:40] (INFO) Found 3 pokemon to transfer...
+[21:02:41] (TRANSFER) Krabby 120 V |  116 Cp | 57.65% | Lvl 06 | Best: [Krabby 178 V |  430 Cp | 80.74% | Lvl 20] | Candy: 201
+[21:02:43] (TRANSFER) Zubat 93 V |   24 Cp | 45.65% | Lvl 02 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 934
+[21:02:46] (TRANSFER) Staryu 168 V |  516 Cp | 65.72% | Lvl 21 | Best: [Staryu 184 V |  598 Cp | 71.51% | Lvl 24] | Candy: 136
+[21:02:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemRevive
+[21:02:48] (POKESTOP) Refugees (Flight II) in 40.52 m distance
+[21:02:48] (NAVIGATION) Distance to target location: 40.52 meters. Will take 5.03 seconds driving at 29kmh
+[21:02:53] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemGreatBall
+[21:02:54] (POKESTOP) Saying By The Founder in 84.7 m distance
+[21:02:54] (NAVIGATION) Distance to target location: 84.7 meters. Will take 10.51 seconds driving at 29kmh
+[21:03:04] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:03:05] (POKESTOP) The Seagull Nebula in 101.62 m distance
+[21:03:05] (NAVIGATION) Distance to target location: 101.62 meters. Will take 11.8 seconds driving at 31kmh
+[21:03:09] (INFO) Found 1 catchable Pokemon
+[21:03:10] (BERRY) ItemRazzBerry used, remaining: 48
+[21:03:11] (Wild Success) | Bulbasaur 144 V |  417 Cp | 31.82% | Lvl 16 | Chance: 0.14 | with a UltraBall and received XP 420
