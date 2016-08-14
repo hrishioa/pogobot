@@ -46078,3 +46078,199 @@
 [03:26:35] (TRANSFER) Zubat 153 V |  307 Cp | 56.82% | Lvl 19 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 1042
 [03:26:37] (INFO) Found 1 catchable Pokemon
 [03:26:38] (Wild Success) | Weedle 80 V |   93 Cp | 15.96% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210
+[03:26:40] (INFO) Found 1 pokemon to transfer...
+[03:26:42] (TRANSFER) Weedle 80 V |   93 Cp | 15.96% | Lvl 10 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 627
+[03:26:44] (POKESTOP) Alkaff Fountain  in 36.38 m distance
+[03:26:44] (NAVIGATION) Distance to target location: 36.38 meters. Will take 4.68 seconds driving at 28kmh
+[03:26:48] (POKESTOP) Telok Blangah Hill Park in 107.11 m distance
+[03:26:48] (NAVIGATION) Distance to target location: 107.11 meters. Will take 12.85 seconds driving at 30kmh
+[03:27:01] (POKESTOP) Alkaff Mansion in 44.56 m distance
+[03:27:01] (NAVIGATION) Distance to target location: 44.56 meters. Will take 5.53 seconds driving at 29kmh
+[03:27:06] (POKESTOP) Telok Blangah Hill Park in 125.91 m distance
+[03:27:06] (NAVIGATION) Distance to target location: 125.91 meters. Will take 15.63 seconds driving at 29kmh
+[03:27:21] (POKESTOP) Sembcorp Forest of Giants in 43.77 m distance
+[03:27:21] (NAVIGATION) Distance to target location: 43.77 meters. Will take 5.08 seconds driving at 31kmh
+[03:27:26] (POKESTOP) Henderson Outpost in 46.19 m distance
+[03:27:26] (NAVIGATION) Distance to target location: 46.19 meters. Will take 5.94 seconds driving at 28kmh
+[03:27:32] (POKESTOP) Snake and Butterflies Mural in 51.97 m distance
+[03:27:32] (NAVIGATION) Distance to target location: 51.97 meters. Will take 6.68 seconds driving at 28kmh
+[03:27:37] (POKESTOP) Henderson Waves Plaque in 234.79 m distance
+[03:27:37] (NAVIGATION) Distance to target location: 234.79 meters. Will take 19.66 seconds driving at 43kmh
+[03:27:57] (POKESTOP) Discovering the Southern Ridges in 50.85 m distance
+[03:27:57] (NAVIGATION) Distance to target location: 50.85 meters. Will take 5.9 seconds driving at 31kmh
+[03:27:59] (INFO) Found 1 catchable Pokemon
+[03:28:00] (Wild Error) | Zubat 161 V |  335 Cp | 52.34% | Lvl 21 | Chance: 0.32 | with a UltraBall 
+[03:28:05] (INFO) Found 1 catchable Pokemon
+[03:28:06] (Wild Error) | Zubat 161 V |  335 Cp | 52.34% | Lvl 21 | Chance: 0.32 | with a UltraBall 
+[03:28:08] (POKESTOP) Where the Fun Begins Mural in 240.99 m distance
+[03:28:08] (NAVIGATION) Distance to target location: 240.99 meters. Will take 19.72 seconds driving at 44kmh
+[03:28:28] (POKESTOP) Turtle Shell Pavillion in 106.81 m distance
+[03:28:28] (NAVIGATION) Distance to target location: 106.81 meters. Will take 13.73 seconds driving at 28kmh
+[03:28:38] (INFO) Found 1 catchable Pokemon
+[03:28:40] (Wild Escape) | Zubat 155 V |  286 Cp | 51.15% | Lvl 18 | Chance: 0.35 | with a PokeBall 
+[03:28:41] (Wild Success Attempt #2) | Zubat 155 V |  286 Cp | 51.15% | Lvl 18 | Chance: 0.35 | with a PokeBall 
+[03:28:43] (INFO) Found 1 pokemon to transfer...
+[03:28:44] (TRANSFER) Zubat 155 V |  286 Cp | 51.15% | Lvl 18 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 1046
+[03:28:47] (POKESTOP) Little Yellow Bumble Bee in 108.35 m distance
+[03:28:47] (NAVIGATION) Distance to target location: 108.35 meters. Will take 13 seconds driving at 30kmh
+[03:29:00] (POKESTOP) Mount Faber Green Sign in 235.7 m distance
+[03:29:00] (NAVIGATION) Distance to target location: 235.7 meters. Will take 19.73 seconds driving at 43kmh
+[03:29:19] (POKESTOP) Playground At One in 127.91 m distance
+[03:29:19] (NAVIGATION) Distance to target location: 127.91 meters. Will take 14.85 seconds driving at 31kmh
+[03:29:34] (POKESTOP) Telok Blangah Hill Park in 237.85 m distance
+[03:29:34] (NAVIGATION) Distance to target location: 237.85 meters. Will take 19.91 seconds driving at 43kmh
+[03:29:54] (POKESTOP) Alkaff Mansion Board in 89.03 m distance
+[03:29:54] (NAVIGATION) Distance to target location: 89.03 meters. Will take 11.45 seconds driving at 28kmh
+[03:30:05] (POKESTOP) Blangah Garden in 384.12 m distance
+[03:30:05] (NAVIGATION) Distance to target location: 384.12 meters. Will take 19.75 seconds driving at 70kmh
+[03:30:26] (POKESTOP) Telok Blangah Hill Park in 268.66 m distance
+[03:30:26] (NAVIGATION) Distance to target location: 268.66 meters. Will take 19.74 seconds driving at 49kmh
+[03:30:47] (POKESTOP) Araucaria Excelsa in 151.81 m distance
+[03:30:47] (NAVIGATION) Distance to target location: 151.81 meters. Will take 17.63 seconds driving at 31kmh
+[03:31:05] (POKESTOP) Pavillion of Serenity in 152.26 m distance
+[03:31:05] (NAVIGATION) Distance to target location: 152.26 meters. Will take 19.58 seconds driving at 28kmh
+[03:31:15] (INFO) Found 1 catchable Pokemon
+[03:31:15] (ATTENTION) No Pokeballs :( - We missed Zubat 132 V |  273 Cp | 55.35% | Lvl 17
+[03:31:21] (INFO) Found 1 catchable Pokemon
+[03:31:22] (ATTENTION) No Pokeballs :( - We missed Zubat 132 V |  273 Cp | 55.35% | Lvl 17
+[03:31:26] (POKESTOP) Telok Blangah Circular Bridge in 116.61 m distance
+[03:31:26] (NAVIGATION) Distance to target location: 116.61 meters. Will take 14.99 seconds driving at 28kmh
+[03:31:28] (INFO) Found 1 catchable Pokemon
+[03:31:28] (ATTENTION) No Pokeballs :( - We missed Zubat 132 V |  273 Cp | 55.35% | Lvl 17
+[03:31:40] (POKESTOP) Telok Blangah Community Club in 105.95 m distance
+[03:31:40] (NAVIGATION) Distance to target location: 105.95 meters. Will take 13.15 seconds driving at 29kmh
+[03:31:42] (INFO) Found 2 catchable Pokemon
+[03:31:42] (ATTENTION) No Pokeballs :( - We missed Pidgey 97 V |  250 Cp | 27.00% | Lvl 16
+[03:31:43] (ATTENTION) No Pokeballs :( - We missed Kingler 238 V | 1216 Cp | 61.61% | Lvl 25
+[03:31:48] (INFO) Found 4 catchable Pokemon
+[03:31:49] (ATTENTION) No Pokeballs :( - We missed Kingler 238 V | 1216 Cp | 61.61% | Lvl 25
+[03:31:49] (ATTENTION) No Pokeballs :( - We missed Pidgey 97 V |  250 Cp | 27.00% | Lvl 16
+[03:31:50] (ATTENTION) No Pokeballs :( - We missed Caterpie 91 V |  193 Cp | 17.09% | Lvl 21
+[03:31:51] (ATTENTION) No Pokeballs :( - We missed Weedle 107 V |  218 Cp | 30.18% | Lvl 22
+[04:37:25] (INFO) Logging in via: Google
+[04:37:28] (INFO) Logging in via: Google
+[04:37:29] (INFO) Client logged in
+[04:37:31] ====== User Info ======
+[04:37:31] Name: Toonistic
+[04:37:31] Team: Blue
+[04:37:31] Level: 25 (LvLUp in 0h 0m | 160618/190000 XP)
+[04:37:31] Pokemon: 163
+[04:37:31] Stardust: 19896
+[04:37:31] ====== Items (247) ======
+[04:37:31] RazzBerry x 36
+[04:37:31] PokeBall x 0
+[04:37:31] GreatBall x 0
+[04:37:31] UltraBall x 0
+[04:37:31] Potion x 30
+[04:37:31] SuperPotion x 50
+[04:37:31] HyperPotion x 75
+[04:37:31] MaxPotion x 22
+[04:37:31] IncubatorBasicUnlimited x 1
+[04:37:31] IncubatorBasic x 1
+[04:37:31] Revive x 23
+[04:37:31] IncenseOrdinary x 3
+[04:37:31] LuckyEgg x 0
+[04:37:31] TroyDisk x 6
+[04:37:31] ====== Transfer Settings ======
+[04:37:31] Keep Above CP:           0
+[04:37:31] Keep Above IV:           0
+[04:37:31] Keep Above V:            0
+[04:37:31] Transfer Below CP:       50
+[04:37:31] Transfer Below IV:       0
+[04:37:31] Transfer Below V:        0
+[04:37:31] Transfer Evolvable:      True
+[04:37:31] PokemonsNotToTransfer:    20
+[04:37:31] Aerodactyl
+[04:37:31] Alakazam
+[04:37:31] Arcanine
+[04:37:31] Charizard
+[04:37:31] Dragonite
+[04:37:31] Exeggutor
+[04:37:31] Farfetchd
+[04:37:31] Grimer
+[04:37:31] Gyarados
+[04:37:31] Kangaskhan
+[04:37:31] Magmar
+[04:37:31] Mew
+[04:37:31] Mewtwo
+[04:37:31] Moltres
+[04:37:31] MrMime
+[04:37:31] Raichu
+[04:37:31] Snorlax
+[04:37:31] Tauros
+[04:37:31] Victreebel
+[04:37:31] Zapdos
+[04:37:31] ====== Most Valuable ======
+[04:37:31] *Vaporeon           332 True Value | 2061 Cp | 75.82% Perfect | Lvl 27 | WaterGun/WaterPulse
+[04:37:31] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[04:37:31] Poliwrath           310 True Value | 1803 Cp | 65.99% Perfect | Lvl 27 | MudShot/IcePunch
+[04:37:31] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
+[04:37:31] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[04:37:31] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[04:37:31] Magmar              273 True Value | 1302 Cp | 73.04% Perfect | Lvl 21 | KarateChop/Flamethrower
+[04:37:31] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[04:37:31] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[04:37:31] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[04:37:31] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[04:37:31] Dodrio              247 True Value | 1006 Cp | 76.06% Perfect | Lvl 20 | FeintAttack/DrillPeck
+[04:37:31] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[04:37:31] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[04:37:31] Electrode           246 True Value |  786 Cp | 59.99% Perfect | Lvl 18 | Spark/HyperBeam
+[04:37:31] Seadra              243 True Value | 1052 Cp | 63.15% Perfect | Lvl 23 | WaterGun/HydroPump
+[04:37:31] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[04:37:31] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[04:37:31] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
+[04:37:31] Golbat              235 True Value | 1007 Cp | 78.95% Perfect | Lvl 19 | Bite/PoisonFang
+[04:37:31] ====== Highest CP ======
+[04:37:31] *Vaporeon           332 True Value | 2061 Cp | 75.82% Perfect | Lvl 27 | WaterGun/WaterPulse
+[04:37:31] Poliwrath           310 True Value | 1803 Cp | 65.99% Perfect | Lvl 27 | MudShot/IcePunch
+[04:37:31] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[04:37:31] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
+[04:37:31] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[04:37:31] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[04:37:31] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[04:37:31] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[04:37:31] Magmar              273 True Value | 1302 Cp | 73.04% Perfect | Lvl 21 | KarateChop/Flamethrower
+[04:37:31] Pidgeot             229 True Value | 1296 Cp | 38.79% Perfect | Lvl 24 | WingAttack/AerialAce
+[04:37:31] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[04:37:31] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[04:37:31] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[04:37:31] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[04:37:31] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[04:37:31] Seadra              243 True Value | 1052 Cp | 63.15% Perfect | Lvl 23 | WaterGun/HydroPump
+[04:37:31] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
+[04:37:31] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
+[04:37:31] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
+[04:37:31] Golbat              235 True Value | 1007 Cp | 78.95% Perfect | Lvl 19 | Bite/PoisonFang
+[04:37:31] ====== Most Perfect Genetics ======
+[04:37:31] Bulbasaur           229 True Value |  609 Cp | 97.81% Perfect | Lvl 20 | Tackle/SludgeBomb
+[04:37:31] Goldeen             216 True Value |  597 Cp | 93.69% Perfect | Lvl 22 | Peck/AquaTail
+[04:37:31] Exeggcute           231 True Value |  681 Cp | 93.48% Perfect | Lvl 22 | Confusion/Psychic
+[04:37:31] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[04:37:31] Eevee               217 True Value |  604 Cp | 91.55% Perfect | Lvl 20 | Tackle/Dig
+[04:37:31] Exeggcute           208 True Value |  616 Cp | 91.38% Perfect | Lvl 20 | Confusion/AncientPower
+[04:37:31] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[04:37:31] Persian             194 True Value |  503 Cp | 89.36% Perfect | Lvl 11 | Scratch/NightSlash
+[04:37:31] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[04:37:31] Staryu              203 True Value |  650 Cp | 88.24% Perfect | Lvl 25 | WaterGun/Swift
+[04:37:31] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
+[04:37:31] Poliwag             183 True Value |  440 Cp | 87.21% Perfect | Lvl 20 | Bubble/MudBomb
+[04:37:31] Paras               200 True Value |  431 Cp | 86.95% Perfect | Lvl 17 | BugBite/SeedBomb
+[04:37:31] Abra                200 True Value |  329 Cp | 86.76% Perfect | Lvl 20 | ZenHeadbutt/Psyshock
+[04:37:31] Seel                195 True Value |  614 Cp | 86.53% Perfect | Lvl 20 | WaterGun/IcyWind
+[04:37:31] Mankey              196 True Value |  485 Cp | 86.20% Perfect | Lvl 20 | KarateChop/BrickBreak
+[04:37:31] Aerodactyl          173 True Value |  221 Cp | 86.15% Perfect | Lvl 04 | SteelWing/AncientPower
+[04:37:31] Weepinbell          204 True Value |  379 Cp | 86.13% Perfect | Lvl 08 | Acid/PowerWhip
+[04:37:31] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[04:37:31] Voltorb             208 True Value |  462 Cp | 85.08% Perfect | Lvl 20 | Spark/Thunderbolt
+[04:37:34] (INFO) Found 64 Pokestops
+[04:37:35] (POKESTOP) Telok Blangah Community Club in 0.03 m distance
+[04:37:35] (NAVIGATION) Distance to target location: 0.03 meters. Will take 0 seconds driving at 32kmh
+[04:37:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 2 x ItemPotion
+[04:37:39] (POKESTOP) Telok Blangah Mall in 100.04 m distance
+[04:37:39] (NAVIGATION) Distance to target location: 100.04 meters. Will take 12 seconds driving at 30kmh
+[04:37:42] (INFO) Found 5 catchable Pokemon
+[04:37:43] (BERRY) ItemRazzBerry used, remaining: 35
+[04:37:44] (Wild Error) | Spearow 109 V |  362 Cp | 26.15% | Lvl 23 | Chance: 0.31 | with a UltraBall 
+[04:37:45] (Wild Error) | Zubat 117 V |  308 Cp | 41.34% | Lvl 20 | Chance: 0.33 | with a UltraBall 
+[04:37:47] (Wild Success) | Jigglypuff 121 V |  227 Cp | 47.65% | Lvl 10 | Chance: 0.47 | with a PokeBall and received XP 210

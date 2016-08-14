@@ -1,42 +1,42 @@
 Stats:
-[03:25:40] Name: Toonistic
-[03:25:40] Team: Blue
-[03:25:40] Level: 25 (LvLUp in 0h 0m | 159468/190000 XP)
-[03:25:40] Pokemon: 163
-[03:25:40] Stardust: 19396
-[03:25:40] ====== Items (248) ======
-[03:25:40] RazzBerry x 36
-[03:25:40] PokeBall x 0
-[03:25:40] GreatBall x 0
-[03:25:40] UltraBall x 0
-[03:25:40] Potion x 31
-[03:25:40] SuperPotion x 50
-[03:25:40] HyperPotion x 75
-[03:25:40] MaxPotion x 22
-[03:25:40] IncubatorBasicUnlimited x 1
-[03:25:40] IncubatorBasic x 1
-[03:25:40] Revive x 23
-[03:25:40] IncenseOrdinary x 3
-[03:25:40] LuckyEgg x 0
-[03:25:40] TroyDisk x 6
+[04:37:31] Name: Toonistic
+[04:37:31] Team: Blue
+[04:37:31] Level: 25 (LvLUp in 0h 0m | 160618/190000 XP)
+[04:37:31] Pokemon: 163
+[04:37:31] Stardust: 19896
+[04:37:31] ====== Items (247) ======
+[04:37:31] RazzBerry x 36
+[04:37:31] PokeBall x 0
+[04:37:31] GreatBall x 0
+[04:37:31] UltraBall x 0
+[04:37:31] Potion x 30
+[04:37:31] SuperPotion x 50
+[04:37:31] HyperPotion x 75
+[04:37:31] MaxPotion x 22
+[04:37:31] IncubatorBasicUnlimited x 1
+[04:37:31] IncubatorBasic x 1
+[04:37:31] Revive x 23
+[04:37:31] IncenseOrdinary x 3
+[04:37:31] LuckyEgg x 0
+[04:37:31] TroyDisk x 6
 
-[03:25:40] *Vaporeon           332 True Value | 2061 Cp | 75.82% Perfect | Lvl 27 | WaterGun/WaterPulse
-[03:25:40] Poliwrath           310 True Value | 1803 Cp | 65.99% Perfect | Lvl 27 | MudShot/IcePunch
-[03:25:40] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
-[03:25:40] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
-[03:25:40] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
-[03:25:40] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
-[03:25:40] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
-[03:25:40] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
-[03:25:40] Magmar              273 True Value | 1302 Cp | 73.04% Perfect | Lvl 21 | KarateChop/Flamethrower
-[03:25:40] Pidgeot             229 True Value | 1296 Cp | 38.79% Perfect | Lvl 24 | WingAttack/AerialAce
-[03:25:40] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
-[03:25:40] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
-[03:25:40] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
-[03:25:40] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
-[03:25:40] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
-[03:25:40] Seadra              243 True Value | 1052 Cp | 63.15% Perfect | Lvl 23 | WaterGun/HydroPump
-[03:25:40] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
-[03:25:40] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
-[03:25:40] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
-[03:25:40] Golbat              235 True Value | 1007 Cp | 78.95% Perfect | Lvl 19 | Bite/PoisonFang
+[04:37:31] *Vaporeon           332 True Value | 2061 Cp | 75.82% Perfect | Lvl 27 | WaterGun/WaterPulse
+[04:37:31] Poliwrath           310 True Value | 1803 Cp | 65.99% Perfect | Lvl 27 | MudShot/IcePunch
+[04:37:31] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[04:37:31] Jolteon             307 True Value | 1590 Cp | 88.12% Perfect | Lvl 27 | ThunderShock/Discharge
+[04:37:31] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[04:37:31] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[04:37:31] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[04:37:31] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[04:37:31] Magmar              273 True Value | 1302 Cp | 73.04% Perfect | Lvl 21 | KarateChop/Flamethrower
+[04:37:31] Pidgeot             229 True Value | 1296 Cp | 38.79% Perfect | Lvl 24 | WingAttack/AerialAce
+[04:37:31] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[04:37:31] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[04:37:31] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[04:37:31] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[04:37:31] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[04:37:31] Seadra              243 True Value | 1052 Cp | 63.15% Perfect | Lvl 23 | WaterGun/HydroPump
+[04:37:31] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
+[04:37:31] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
+[04:37:31] Weepinbell          235 True Value | 1011 Cp | 62.18% Perfect | Lvl 22 | RazorLeaf/SludgeBomb
+[04:37:31] Golbat              235 True Value | 1007 Cp | 78.95% Perfect | Lvl 19 | Bite/PoisonFang
