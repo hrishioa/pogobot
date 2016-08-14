@@ -40223,3 +40223,35 @@
 [00:30:49] (INFO) Found 4 catchable Pokemon
 [00:30:50] (Wild Flee) | Pikachu 90 V |   74 Cp | 18.11% | Lvl 04 | Chance: 0.31 | with a GreatBall 
 [00:30:52] (Wild Success) | Staryu 174 V |  543 Cp | 67.61% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[00:30:53] (BERRY) ItemRazzBerry used, remaining: 49
+[00:30:54] (Wild Escape) | Pikachu 144 V |  370 Cp | 42.07% | Lvl 17 | Chance: 0.14 | with a GreatBall 
+[00:30:54] (BERRY) ItemRazzBerry used, remaining: 48
+[00:30:55] (Wild Escape Attempt #2) | Pikachu 144 V |  370 Cp | 42.07% | Lvl 17 | Chance: 0.14 | with a GreatBall 
+[00:30:55] (BERRY) ItemRazzBerry used, remaining: 47
+[00:30:56] (Wild Escape Attempt #3) | Pikachu 144 V |  370 Cp | 42.07% | Lvl 17 | Chance: 0.14 | with a GreatBall 
+[00:30:56] (BERRY) ItemRazzBerry used, remaining: 46
+[00:30:57] (Wild Escape Attempt #4) | Pikachu 144 V |  370 Cp | 42.07% | Lvl 17 | Chance: 0.14 | with a GreatBall 
+[00:30:57] (BERRY) ItemRazzBerry used, remaining: 45
+[00:30:58] (Wild Success Attempt #5) | Pikachu 144 V |  370 Cp | 42.07% | Lvl 17 | Chance: 0.14 | with a GreatBall 
+[00:30:59] (BERRY) ItemRazzBerry used, remaining: 44
+[00:31:00] (Wild Escape) | Pikachu 112 V |  381 Cp | 13.65% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[00:31:01] (BERRY) ItemRazzBerry used, remaining: 43
+[00:31:01] (Wild Success Attempt #2) | Pikachu 112 V |  381 Cp | 13.65% | Lvl 19 | Chance: 0.13 | with a GreatBall 
+[00:31:04] (INFO) Found 3 pokemon to transfer...
+[00:31:05] (TRANSFER) Pikachu 118 V |   80 Cp | 45.01% | Lvl 04 | Best: [Pikachu 154 V |  466 Cp | 32.31% | Lvl 22] | Candy: 29
+[00:31:08] (TRANSFER) Pikachu 112 V |  381 Cp | 13.65% | Lvl 19 | Best: [Pikachu 154 V |  466 Cp | 32.31% | Lvl 22] | Candy: 30
+[00:31:09] (TRANSFER) Staryu 174 V |  543 Cp | 67.61% | Lvl 22 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 158
+[00:31:10] (POKESTOP) Trapped Humanoid in 77.14 m distance
+[00:31:10] (NAVIGATION) Distance to target location: 77.14 meters. Will take 9.92 seconds driving at 28kmh
+[00:31:19] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRevive, 2 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[00:31:20] (POKESTOP) Giant Egypt Statue in 58.32 m distance
+[00:31:20] (NAVIGATION) Distance to target location: 58.32 meters. Will take 7.5 seconds driving at 28kmh
+[00:31:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:31:27] (POKESTOP) Sci Fi Auditorium in 111.21 m distance
+[00:31:27] (NAVIGATION) Distance to target location: 111.21 meters. Will take 12.91 seconds driving at 31kmh
+[00:31:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:31:40] (POKESTOP) Bumblebee Art in 55.85 m distance
+[00:31:40] (NAVIGATION) Distance to target location: 55.85 meters. Will take 6.93 seconds driving at 29kmh
+[00:31:42] (INFO) Found 1 catchable Pokemon
+[00:31:43] (BERRY) ItemRazzBerry used, remaining: 44
+[00:31:45] (Wild Success) | Growlithe 162 V |  480 Cp | 49.21% | Lvl 14 | Chance: 0.24 | with a UltraBall and received XP 210
