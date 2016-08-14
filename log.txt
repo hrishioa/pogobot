@@ -43710,3 +43710,14 @@
 [02:12:41] (INFO) Found 1 catchable Pokemon
 [02:12:42] (BERRY) ItemRazzBerry used, remaining: 50
 [02:12:43] (Wild Success) | Goldeen 197 V |  540 Cp | 70.59% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[02:12:45] (INFO) Found 1 pokemon to transfer...
+[02:12:46] (TRANSFER) Goldeen 185 V |  240 Cp | 89.32% | Lvl 09 | Best: [Goldeen 197 V |  540 Cp | 70.59% | Lvl 21] | Candy: 253
+[02:12:47] (INFO) Found 1 catchable Pokemon
+[02:12:49] (BERRY) ItemRazzBerry used, remaining: 49
+[02:12:49] (Wild Escape) | Dodrio 165 V |  431 Cp | 52.04% | Lvl 09 | Chance: 0.2 | with a UltraBall 
+[02:12:50] (BERRY) ItemRazzBerry used, remaining: 48
+[02:12:51] (Wild Success Attempt #2) | Dodrio 165 V |  431 Cp | 52.04% | Lvl 09 | Chance: 0.2 | with a UltraBall 
+[02:12:52] (INFO) Found 1 pokemon to transfer...
+[02:12:54] (TRANSFER) Dodrio 165 V |  431 Cp | 52.04% | Lvl 09 | Best: [Dodrio 235 V | 1149 Cp | 60.00% | Lvl 24] | Candy: 25
+[02:12:56] (INFO) Found 1 catchable Pokemon
+[02:12:57] (Wild Success) | Poliwag 134 V |  318 Cp | 50.34% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
