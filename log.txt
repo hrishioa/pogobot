@@ -44552,3 +44552,4 @@
 [02:39:56] (INFO) Found 3 catchable Pokemon
 [02:39:57] (Wild Success) | Seaking 167 V |  258 Cp | 61.19% | Lvl 05 | Chance: 0.27 | with a UltraBall and received XP 210
 [02:39:59] (Wild Success) | Magikarp 89 V |   85 Cp | 55.95% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
+[02:40:00] (Wild Success) | Psyduck 161 V |  334 Cp | 43.44% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
