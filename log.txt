@@ -31698,3 +31698,13 @@
 [14:18:18] (Wild Success) | Rattata 165 V |  232 Cp | 76.54% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
 [14:18:20] (Wild Success) | Pidgey 146 V |  106 Cp | 79.76% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [14:18:21] (Wild Success) | Horsea 143 V |  325 Cp | 59.26% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
+[14:18:23] (INFO) Found 3 pokemon to transfer...
+[14:18:25] (TRANSFER) Pidgey 146 V |  106 Cp | 79.76% | Lvl 06 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1290
+[14:18:27] (TRANSFER) Rattata 162 V |  314 Cp | 65.79% | Lvl 21 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 729
+[14:18:29] (TRANSFER) Horsea 143 V |  325 Cp | 59.26% | Lvl 16 | Best: [Horsea 167 V |  376 Cp | 69.08% | Lvl 18] | Candy: 90
+[14:18:33] (POKESTOP) West Coast Park in 210.15 m distance
+[14:18:33] (NAVIGATION) Distance to target location: 210.15 meters. Will take 19.91 seconds driving at 38kmh
+[14:18:53] (POKESTOP) Pendulum White Shelter in 103.99 m distance
+[14:18:53] (NAVIGATION) Distance to target location: 103.99 meters. Will take 12.08 seconds driving at 31kmh
+[14:19:04] (INFO) Found 1 catchable Pokemon
+[14:19:06] (Wild Success) | Bellsprout 156 V |  500 Cp | 41.50% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
