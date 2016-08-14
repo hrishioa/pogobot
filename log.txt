@@ -40812,3 +40812,14 @@
 [00:48:32] (INFO) Found 2 catchable Pokemon
 [00:48:34] (Wild Success) | Magikarp 109 V |  144 Cp | 70.01% | Lvl 22 | Chance: 0.44 | with a GreatBall and received XP 210
 [00:48:36] (Wild Success) | Magikarp 103 V |   17 Cp | 75.66% | Lvl 03 | Chance: 1 | with a PokeBall and received XP 210
+[00:48:38] (INFO) Found 2 pokemon to transfer...
+[00:48:39] (TRANSFER) Magikarp 109 V |  144 Cp | 70.01% | Lvl 22 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 324
+[00:48:41] (TRANSFER) Magikarp 103 V |   17 Cp | 75.66% | Lvl 03 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 325
+[00:48:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:48:46] (POKESTOP) Big Map of Sentosa in 43.49 m distance
+[00:48:46] (NAVIGATION) Distance to target location: 43.49 meters. Will take 5.22 seconds driving at 30kmh
+[00:48:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:48:52] (POKESTOP) USS WaterWorld Toy Fuel Tank in 600.66 m distance
+[00:48:52] (NAVIGATION) Distance to target location: 600.66 meters. Will take 30.89 seconds driving at 70kmh
+[00:49:03] (INFO) Found 1 catchable Pokemon
+[00:49:04] (Wild Success) | Horsea 119 V |  321 Cp | 35.14% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
