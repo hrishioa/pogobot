@@ -33219,3 +33219,7 @@
 [20:29:41] (NAVIGATION) Distance to target location: 80.06 meters. Will take 9.94 seconds driving at 29kmh
 [20:29:42] (INFO) Found 1 catchable Pokemon
 [20:29:44] (Wild Success) | Staryu 153 V |   68 Cp | 94.34% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 420
+[20:29:45] (INFO) Found 1 pokemon to transfer...
+[20:29:48] (TRANSFER) Staryu 153 V |   68 Cp | 94.34% | Lvl 03 | Best: [Staryu 188 V |  515 Cp | 83.98% | Lvl 20] | Candy: 118
+[20:29:49] (INFO) Found 1 catchable Pokemon
+[20:29:51] (Wild Success) | Pidgey 74 V |   24 Cp | 31.84% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
