@@ -40403,3 +40403,26 @@
 [00:37:07] (NAVIGATION) Distance to target location: 56.72 meters. Will take 6.81 seconds driving at 30kmh
 [00:37:09] (INFO) Found 1 catchable Pokemon
 [00:37:10] (Wild Success) | Magnemite 189 V |  422 Cp | 69.57% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[00:37:12] (INFO) Found 1 pokemon to transfer...
+[00:37:14] (TRANSFER) Magnemite 154 V |  402 Cp | 52.27% | Lvl 18 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 98
+[00:37:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:37:18] (POKESTOP) Beware! Ogres in 100.12 m distance
+[00:37:18] (NAVIGATION) Distance to target location: 100.12 meters. Will take 12.43 seconds driving at 29kmh
+[00:37:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 1, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[00:37:30] (INFO) Found 4 Recyclable Items:
+[00:37:31] (RECYCLING) PokeBall x 11
+[00:37:32] (RECYCLING) Potion x 1
+[00:37:33] (RECYCLING) HyperPotion x 1
+[00:37:33] (RECYCLING) Revive x 1
+[00:37:36] (EGG) Hatched egg! Geodude             191 True Value |  462 Cp | 80.32% Perfect | Lvl 20 | Tackle/Dig
+[00:37:37] (EGG) Added 2km egg to incubator
+[00:37:38] (POKESTOP) Hyena Gourmet in 116.09 m distance
+[00:37:38] (NAVIGATION) Distance to target location: 116.09 meters. Will take 14.93 seconds driving at 28kmh
+[00:37:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
+[00:37:52] (POKESTOP) Sentosa Gateway in 66.06 m distance
+[00:37:52] (NAVIGATION) Distance to target location: 66.06 meters. Will take 7.93 seconds driving at 30kmh
+[00:37:59] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 5 x ItemPokeBall
+[00:38:00] (POKESTOP) Cerbera in 135.65 m distance
+[00:38:00] (NAVIGATION) Distance to target location: 135.65 meters. Will take 15.26 seconds driving at 32kmh
+[00:38:04] (INFO) Found 2 catchable Pokemon
+[00:38:06] (Wild Success) | Psyduck 137 V |  210 Cp | 25.84% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
