@@ -22634,3 +22634,5 @@
 [08:40:50] (NAVIGATION) Distance to target location: 1000.83 meters. Will take 51.47 seconds driving at 70kmh
 [08:40:56] (INFO) Found 1 catchable Pokemon
 [08:40:58] (Wild Success) | Parasect 153 V |   71 Cp | 56.40% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
+[08:41:30] (INFO) Found 1 catchable Pokemon
+[08:41:32] (Wild Success) | Pidgey 146 V |  343 Cp | 56.62% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
