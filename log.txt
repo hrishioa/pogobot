@@ -41787,3 +41787,5 @@
 [01:17:47] (NAVIGATION) Distance to target location: 42.53 meters. Will take 5.1 seconds driving at 30kmh
 [01:17:50] (INFO) Found 3 catchable Pokemon
 [01:17:51] (Wild Success) | Kakuna 109 V |  124 Cp | 42.11% | Lvl 11 | Chance: 0.22 | with a UltraBall and received XP 210
+[01:17:52] (BERRY) ItemRazzBerry used, remaining: 49
+[01:17:53] (Wild Success) | Doduo 159 V |  526 Cp | 58.57% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
