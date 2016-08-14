@@ -43103,3 +43103,15 @@
 [01:55:28] (INFO) Found 2 catchable Pokemon
 [01:55:29] (Wild Success) | Voltorb 156 V |  129 Cp | 73.25% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
 [01:55:32] (Wild Success) | Magnemite 130 V |  268 Cp | 52.78% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[01:55:33] (INFO) Found 2 pokemon to transfer...
+[01:55:35] (TRANSFER) Magnemite 130 V |  268 Cp | 52.78% | Lvl 12 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 181
+[01:55:37] (TRANSFER) Voltorb 156 V |  129 Cp | 73.25% | Lvl 06 | Best: [Voltorb 207 V |  551 Cp | 82.98% | Lvl 24] | Candy: 200
+[01:55:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemUltraBall
+[01:55:41] (POKESTOP) Aladin Fountain in 59.8 m distance
+[01:55:41] (NAVIGATION) Distance to target location: 59.8 meters. Will take 7.18 seconds driving at 30kmh
+[01:55:47] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:55:48] (POKESTOP) Fountain Of Everlasting Life in 52.8 m distance
+[01:55:48] (NAVIGATION) Distance to target location: 52.8 meters. Will take 5.94 seconds driving at 32kmh
+[01:55:51] (INFO) Found 1 catchable Pokemon
+[01:55:52] (BERRY) ItemRazzBerry used, remaining: 46
+[01:55:53] (Wild Success) | Magnemite 146 V |  473 Cp | 39.40% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
