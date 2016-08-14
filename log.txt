@@ -42450,3 +42450,15 @@
 [01:35:49] (INFO) Found 2 catchable Pokemon
 [01:35:51] (Wild Success) | Magikarp 101 V |   71 Cp | 68.77% | Lvl 11 | Chance: 0.63 | with a PokeBall and received XP 210
 [01:35:53] (Wild Success) | Magikarp 105 V |  104 Cp | 69.94% | Lvl 16 | Chance: 0.52 | with a PokeBall and received XP 210
+[01:35:54] (INFO) Found 2 pokemon to transfer...
+[01:35:56] (TRANSFER) Magikarp 105 V |  104 Cp | 69.94% | Lvl 16 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 360
+[01:35:58] (TRANSFER) Magikarp 101 V |   71 Cp | 68.77% | Lvl 11 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 361
+[01:36:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[01:36:00] (INFO) Found 3 Recyclable Items:
+[01:36:02] (RECYCLING) PokeBall x 12
+[01:36:03] (RECYCLING) Potion x 1
+[01:36:04] (RECYCLING) Revive x 1
+[01:36:06] (POKESTOP) Flower Globe in 139.72 m distance
+[01:36:06] (NAVIGATION) Distance to target location: 139.72 meters. Will take 17.96 seconds driving at 28kmh
+[01:36:12] (INFO) Found 3 catchable Pokemon
+[01:36:13] (Wild Success) | Magikarp 81 V |   47 Cp | 51.44% | Lvl 08 | Chance: 0.74 | with a PokeBall and received XP 210
