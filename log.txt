@@ -41039,3 +41039,29 @@
 [00:54:30] (INFO) Found 1 catchable Pokemon
 [00:54:31] (BERRY) ItemRazzBerry used, remaining: 51
 [00:54:33] (Wild Success) | Magnemite 157 V |  499 Cp | 42.12% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
+[00:54:35] (INFO) Found 1 pokemon to transfer...
+[00:54:36] (TRANSFER) Magnemite 157 V |  499 Cp | 42.12% | Lvl 23 | Best: [Magnemite 189 V |  422 Cp | 69.57% | Lvl 18] | Candy: 134
+[00:54:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[00:54:39] (POKESTOP) Lord Farquad Coat of Arms in 51.75 m distance
+[00:54:39] (NAVIGATION) Distance to target location: 51.75 meters. Will take 5.82 seconds driving at 32kmh
+[00:54:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:54:44] (INFO) Found 3 Recyclable Items:
+[00:54:44] (RECYCLING) RazzBerry x 1
+[00:54:45] (RECYCLING) PokeBall x 10
+[00:54:47] (RECYCLING) HyperPotion x 1
+[00:54:49] (POKESTOP) Ogre Adventure in 53.97 m distance
+[00:54:49] (NAVIGATION) Distance to target location: 53.97 meters. Will take 6.07 seconds driving at 32kmh
+[00:54:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemSuperPotion, 1 x ItemPokeBall
+[00:54:55] (POKESTOP) Beware! Ogres in 84.28 m distance
+[00:54:55] (NAVIGATION) Distance to target location: 84.28 meters. Will take 10.46 seconds driving at 29kmh
+[00:55:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 1 x ItemRazzBerry, 1 x ItemPotion
+[00:55:06] (POKESTOP) Hyena Gourmet in 117.09 m distance
+[00:55:06] (NAVIGATION) Distance to target location: 117.09 meters. Will take 13.6 seconds driving at 31kmh
+[00:55:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemPotion
+[00:55:18] (POKESTOP) Sentosa Gateway in 69.25 m distance
+[00:55:18] (NAVIGATION) Distance to target location: 69.25 meters. Will take 7.79 seconds driving at 32kmh
+[00:55:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[00:55:26] (POKESTOP) Cerbera in 137.69 m distance
+[00:55:26] (NAVIGATION) Distance to target location: 137.69 meters. Will take 17.09 seconds driving at 29kmh
+[00:55:35] (INFO) Found 1 catchable Pokemon
+[00:55:37] (Wild Success) | Horsea 155 V |  372 Cp | 65.57% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
