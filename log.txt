@@ -44400,3 +44400,4 @@
 [02:33:51] (NAVIGATION) Distance to target location: 105.87 meters. Will take 12.29 seconds driving at 31kmh
 [02:33:55] (INFO) Found 2 catchable Pokemon
 [02:33:57] (Wild Success) | Pidgey 104 V |  228 Cp | 40.75% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:33:58] (Wild Success) | Voltorb 165 V |  153 Cp | 73.17% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
