@@ -42013,3 +42013,9 @@
 [01:22:37] (Wild Success) | Squirtle 91 V |  110 Cp | 15.44% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 210
 [01:22:39] (Wild Success) | Seel 90 V |  207 Cp | 21.81% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [01:22:41] (Wild Success) | Magikarp 115 V |  141 Cp | 75.97% | Lvl 21 | Chance: 0.45 | with a GreatBall and received XP 210
+[01:22:42] (INFO) Found 3 pokemon to transfer...
+[01:22:43] (TRANSFER) Magikarp 115 V |  141 Cp | 75.97% | Lvl 21 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 333
+[01:22:46] (TRANSFER) Seel 90 V |  207 Cp | 21.81% | Lvl 08 | Best: [Seel 151 V |  273 Cp | 83.59% | Lvl 09] | Candy: 34
+[01:22:48] (TRANSFER) Squirtle 91 V |  110 Cp | 15.44% | Lvl 05 | Best: [Squirtle 151 V |  449 Cp | 40.54% | Lvl 18] | Candy: 41
+[01:22:50] (INFO) Found 1 catchable Pokemon
+[01:22:51] (Wild Success) | Magikarp 114 V |  128 Cp | 76.25% | Lvl 19 | Chance: 0.48 | with a GreatBall and received XP 210
