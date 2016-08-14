@@ -35326,3 +35326,15 @@
 [21:40:27] (TRANSFER) Ekans 120 V |  298 Cp | 38.13% | Lvl 15 | Best: [Ekans 164 V |  273 Cp | 57.27% | Lvl 13] | Candy: 236
 [21:40:28] (INFO) Found 1 catchable Pokemon
 [21:40:30] (Wild Success) | Pidgey 85 V |   24 Cp | 27.57% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[21:40:32] (INFO) Found 1 pokemon to transfer...
+[21:40:33] (TRANSFER) Pidgey 85 V |   24 Cp | 27.57% | Lvl 02 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1374
+[21:40:36] (POKESTOP) Tree of the Elements in 137.32 m distance
+[21:40:36] (NAVIGATION) Distance to target location: 137.32 meters. Will take 16.48 seconds driving at 30kmh
+[21:40:48] (INFO) Found 1 catchable Pokemon
+[21:40:49] (Wild Flee) | Squirtle 107 V |  338 Cp | 27.92% | Lvl 14 | Chance: 0.16 | with a UltraBall 
+[21:40:54] (POKESTOP) M7 In Scorpius in 57.71 m distance
+[21:40:54] (NAVIGATION) Distance to target location: 57.71 meters. Will take 7.42 seconds driving at 28kmh
+[21:41:00] (POKESTOP) Scientific Exhibit #1 at Level 6 in 126.02 m distance
+[21:41:00] (NAVIGATION) Distance to target location: 126.02 meters. Will take 16.2 seconds driving at 28kmh
+[21:41:02] (INFO) Found 2 catchable Pokemon
+[21:41:04] (Wild Success) | Ekans 174 V |  487 Cp | 59.82% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
