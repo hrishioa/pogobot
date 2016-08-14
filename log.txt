@@ -37556,3 +37556,9 @@
 [22:58:57] (INFO) Found 1 catchable Pokemon
 [22:58:59] (BERRY) ItemRazzBerry used, remaining: 44
 [22:58:59] (Wild Success) | Psyduck 172 V |  640 Cp | 42.79% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[22:59:01] (INFO) Found 1 pokemon to transfer...
+[22:59:03] (TRANSFER) Psyduck 172 V |  640 Cp | 42.79% | Lvl 23 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 110
+[22:59:03] (POKESTOP) Cardboard Couch in 146.75 m distance
+[22:59:03] (NAVIGATION) Distance to target location: 146.75 meters. Will take 18.22 seconds driving at 29kmh
+[22:59:19] (INFO) Found 1 catchable Pokemon
+[22:59:20] (Wild Success) | Goldeen 126 V |  115 Cp | 51.67% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
