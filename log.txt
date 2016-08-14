@@ -44160,3 +44160,33 @@
 [02:27:07] (INFO) Found 1 catchable Pokemon
 [02:27:08] (BERRY) ItemRazzBerry used, remaining: 50
 [02:27:09] (Wild Success) | Magnemite 180 V |  513 Cp | 67.23% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
+[02:27:11] (INFO) Found 1 pokemon to transfer...
+[02:27:12] (TRANSFER) Magnemite 180 V |  513 Cp | 67.23% | Lvl 22 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 237
+[02:27:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[02:27:14] (POKESTOP) Castle and the Knight in 27.23 m distance
+[02:27:14] (NAVIGATION) Distance to target location: 27.23 meters. Will take 3.5 seconds driving at 28kmh
+[02:27:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[02:27:18] (POKESTOP) Coloured Roofs in 114.75 m distance
+[02:27:18] (NAVIGATION) Distance to target location: 114.75 meters. Will take 14.75 seconds driving at 28kmh
+[02:27:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPotion
+[02:27:33] (POKESTOP) Metal Vines Gateway in 65.93 m distance
+[02:27:33] (NAVIGATION) Distance to target location: 65.93 meters. Will take 7.66 seconds driving at 31kmh
+[02:27:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[02:27:40] (INFO) Found 4 Recyclable Items:
+[02:27:40] (RECYCLING) PokeBall x 7
+[02:27:41] (RECYCLING) Potion x 3
+[02:27:42] (RECYCLING) SuperPotion x 1
+[02:27:43] (RECYCLING) Revive x 1
+[02:27:47] (POKESTOP) Sharity Lion Statue in 65.66 m distance
+[02:27:47] (NAVIGATION) Distance to target location: 65.66 meters. Will take 7.88 seconds driving at 30kmh
+[02:27:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
+[02:27:55] (POKESTOP) River God of Merlion in 56.23 m distance
+[02:27:55] (NAVIGATION) Distance to target location: 56.23 meters. Will take 6.75 seconds driving at 30kmh
+[02:28:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:28:02] (POKESTOP) Lady In Wood in 117.56 m distance
+[02:28:02] (NAVIGATION) Distance to target location: 117.56 meters. Will take 14.59 seconds driving at 29kmh
+[02:28:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[02:28:16] (POKESTOP) Rainbow Waves in 146.33 m distance
+[02:28:16] (NAVIGATION) Distance to target location: 146.33 meters. Will take 16.99 seconds driving at 31kmh
+[02:28:26] (INFO) Found 1 catchable Pokemon
+[02:28:28] (Wild Success) | Magikarp 83 V |   60 Cp | 52.38% | Lvl 10 | Chance: 0.66 | with a PokeBall and received XP 210
