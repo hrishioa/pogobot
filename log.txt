@@ -36817,3 +36817,11 @@
 [22:34:47] (TRANSFER) Goldeen 175 V |  367 Cp | 79.34% | Lvl 14 | Best: [Goldeen 185 V |  240 Cp | 89.32% | Lvl 09] | Candy: 146
 [22:34:48] (INFO) Found 1 catchable Pokemon
 [22:34:50] (Wild Success) | Magikarp 99 V |  114 Cp | 63.37% | Lvl 18 | Chance: 0.49 | with a GreatBall and received XP 210
+[22:34:52] (INFO) Found 1 pokemon to transfer...
+[22:34:53] (TRANSFER) Magikarp 99 V |  114 Cp | 63.37% | Lvl 18 | Best: [Magikarp 121 V |  138 Cp | 82.05% | Lvl 20] | Candy: 197
+[22:34:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemSuperPotion, 1 x ItemPokeBall
+[22:34:59] (POKESTOP) |œ>\îr in 49.15 m distance
+[22:34:59] (NAVIGATION) Distance to target location: 49.15 meters. Will take 6.1 seconds driving at 29kmh
+[22:35:02] (INFO) Found 1 catchable Pokemon
+[22:35:03] (BERRY) ItemRazzBerry used, remaining: 41
+[22:35:05] (Wild Success) | Psyduck 179 V |  598 Cp | 33.85% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
