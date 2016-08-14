@@ -30695,3 +30695,14 @@
 [13:42:55] (INFO) Found 1 catchable Pokemon
 [13:42:56] (BERRY) ItemRazzBerry used, remaining: 50
 [13:42:57] (Wild Success) | Pidgey 122 V |  369 Cp | 35.20% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[13:42:59] (INFO) Found 1 pokemon to transfer...
+[13:43:00] (TRANSFER) Pidgey 122 V |  369 Cp | 35.20% | Lvl 23 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1218
+[13:43:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPotion, 1 x ItemRevive, 1 x ItemMaxPotion, 1 x ItemGreatBall
+[13:43:05] (POKESTOP) Wu Tai Shan  in 88.49 m distance
+[13:43:05] (NAVIGATION) Distance to target location: 88.49 meters. Will take 9.96 seconds driving at 32kmh
+[13:43:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:43:14] (POKESTOP) Snoopy PlayHouse at West Coast Plaza in 88.01 m distance
+[13:43:14] (NAVIGATION) Distance to target location: 88.01 meters. Will take 10.93 seconds driving at 29kmh
+[13:43:23] (INFO) Found 1 catchable Pokemon
+[13:43:24] (BERRY) ItemRazzBerry used, remaining: 49
+[13:43:25] (Wild Success) | Paras 184 V |  529 Cp | 65.63% | Lvl 22 | Chance: 0.25 | with a GreatBall and received XP 210
