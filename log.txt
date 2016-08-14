@@ -31326,3 +31326,10 @@
 [14:04:44] (NAVIGATION) Distance to target location: 61.79 meters. Will take 7.67 seconds driving at 29kmh
 [14:04:45] (INFO) Found 1 catchable Pokemon
 [14:04:47] (Wild Success) | Pidgey 85 V |   90 Cp | 26.24% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[14:04:49] (INFO) Found 1 pokemon to transfer...
+[14:04:50] (TRANSFER) Pidgey 85 V |   90 Cp | 26.24% | Lvl 06 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1254
+[14:04:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[14:04:55] (POKESTOP) Health Mural in 74.97 m distance
+[14:04:55] (NAVIGATION) Distance to target location: 74.97 meters. Will take 9 seconds driving at 30kmh
+[14:04:58] (INFO) Found 1 catchable Pokemon
+[14:04:59] (Wild Success) | Goldeen 162 V |  448 Cp | 58.00% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
