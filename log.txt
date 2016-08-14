@@ -22311,3 +22311,11 @@
 [08:30:08] (NAVIGATION) Distance to target location: 83.42 meters. Will take 10.73 seconds driving at 28kmh
 [08:30:16] (INFO) Found 1 catchable Pokemon
 [08:30:18] (Wild Success) | Rattata 152 V |  307 Cp | 59.00% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[08:30:19] (INFO) Found 1 pokemon to transfer...
+[08:30:20] (TRANSFER) Rattata 152 V |  307 Cp | 59.00% | Lvl 21 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 605
+[08:30:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:30:23] (POKESTOP) Raffles Hall in 503.46 m distance
+[08:30:23] (NAVIGATION) Distance to target location: 503.46 meters. Will take 25.89 seconds driving at 70kmh
+[08:30:25] (INFO) Found 1 catchable Pokemon
+[08:30:26] (BERRY) ItemRazzBerry used, remaining: 46
+[08:30:27] (Wild Success) | Golbat 208 V |  828 Cp | 65.15% | Lvl 16 | Chance: 0.14 | with a GreatBall and received XP 210
