@@ -37202,3 +37202,4 @@
 [22:47:08] (INFO) Found 3 catchable Pokemon
 [22:47:09] (Wild Success) | Psyduck 172 V |  445 Cp | 43.12% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
 [22:47:11] (Wild Success) | Tentacool 122 V |  309 Cp | 38.72% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[22:47:13] (Wild Success) | Shellder 111 V |  119 Cp | 51.69% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
