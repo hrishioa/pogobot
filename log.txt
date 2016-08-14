@@ -38332,3 +38332,4 @@
 [23:26:28] (NAVIGATION) Distance to target location: 644.63 meters. Will take 33.15 seconds driving at 70kmh
 [23:26:40] (INFO) Found 2 catchable Pokemon
 [23:26:42] (Wild Success) | Squirtle 89 V |  116 Cp | 36.74% | Lvl 05 | Chance: 0.27 | with a GreatBall and received XP 210
+[23:26:43] (Wild Success) | Psyduck 112 V |  375 Cp | 1.84% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
