@@ -33436,3 +33436,32 @@
 [20:35:48] (INFO) Found 1 catchable Pokemon
 [20:35:49] (BERRY) ItemRazzBerry used, remaining: 44
 [20:35:51] (Wild Success) | Seadra 183 V |  501 Cp | 60.58% | Lvl 11 | Chance: 0.18 | with a UltraBall and received XP 420
+[20:35:55] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:35:57] (POKESTOP) NUSSU Sign in 40.5 m distance
+[20:35:57] (NAVIGATION) Distance to target location: 40.5 meters. Will take 4.56 seconds driving at 32kmh
+[20:36:00] (POKESTOP) XP: 200, Gems: 0, Eggs: 0, Items: 
+[20:36:04] (POKESTOP) Runme Shaw CFA Studios in 97.54 m distance
+[20:36:04] (NAVIGATION) Distance to target location: 97.54 meters. Will take 11.7 seconds driving at 30kmh
+[20:36:13] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:36:15] (POKESTOP) Fire Painting  in 69.55 m distance
+[20:36:15] (NAVIGATION) Distance to target location: 69.55 meters. Will take 8.63 seconds driving at 29kmh
+[20:36:23] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:36:24] (POKESTOP) Locked in Tricked Out in 93.21 m distance
+[20:36:24] (NAVIGATION) Distance to target location: 93.21 meters. Will take 10.49 seconds driving at 32kmh
+[20:36:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:36:35] (POKESTOP) NUS Engineering in 58.55 m distance
+[20:36:35] (NAVIGATION) Distance to target location: 58.55 meters. Will take 7.27 seconds driving at 29kmh
+[20:36:41] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:36:42] (POKESTOP) Through this Jungle in 87.45 m distance
+[20:36:42] (NAVIGATION) Distance to target location: 87.45 meters. Will take 11.24 seconds driving at 28kmh
+[20:36:51] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:36:54] (POKESTOP) National Oxygen in 96.45 m distance
+[20:36:55] (NAVIGATION) Distance to target location: 96.45 meters. Will take 11.57 seconds driving at 30kmh
+[20:37:04] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:37:06] (POKESTOP) Feeding Chickens in 107.27 m distance
+[20:37:06] (NAVIGATION) Distance to target location: 107.27 meters. Will take 12.87 seconds driving at 30kmh
+[20:37:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:37:18] (POKESTOP) Sayings by the Stairs in 96.32 m distance
+[20:37:18] (NAVIGATION) Distance to target location: 96.32 meters. Will take 11.19 seconds driving at 31kmh
+[20:37:27] (INFO) Found 1 catchable Pokemon
+[20:37:28] (Wild Success) | Zubat 138 V |  145 Cp | 59.09% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
