@@ -39680,3 +39680,9 @@
 [00:15:43] (NAVIGATION) Distance to target location: 892.62 meters. Will take 45.91 seconds driving at 70kmh
 [00:16:08] (INFO) Found 1 catchable Pokemon
 [00:16:10] (Wild Success) | Voltorb 138 V |   10 Cp | 67.08% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[00:16:12] (INFO) Found 1 pokemon to transfer...
+[00:16:14] (TRANSFER) Voltorb 138 V |   10 Cp | 67.08% | Lvl 01 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 92
+[00:16:22] (INFO) Found 1 catchable Pokemon
+[00:16:22] (Wild Flee) | Krabby 104 V |  253 Cp | 21.60% | Lvl 14 | Chance: 0.4 | with a GreatBall 
+[00:16:28] (INFO) Found 1 catchable Pokemon
+[00:16:30] (Wild Success) | Magnemite 111 V |  127 Cp | 47.96% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
