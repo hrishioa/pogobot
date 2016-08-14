@@ -39047,3 +39047,10 @@
 [23:54:21] (NAVIGATION) Distance to target location: 513.28 meters. Will take 26.4 seconds driving at 70kmh
 [23:54:34] (INFO) Found 1 catchable Pokemon
 [23:54:35] (Wild Success) | Weedle 95 V |   89 Cp | 31.00% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
+[23:54:37] (INFO) Found 1 pokemon to transfer...
+[23:54:38] (TRANSFER) Weedle 95 V |   89 Cp | 31.00% | Lvl 09 | Best: [Weedle 122 V |  120 Cp | 55.42% | Lvl 11] | Candy: 240
+[23:54:49] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemSuperPotion, 3 x ItemPokeBall, 1 x ItemPotion
+[23:54:51] (POKESTOP) Giant Painted Art in 76.35 m distance
+[23:54:51] (NAVIGATION) Distance to target location: 76.35 meters. Will take 9.48 seconds driving at 29kmh
+[23:54:54] (INFO) Found 1 catchable Pokemon
+[23:54:56] (Wild Success) | Meowth 104 V |  185 Cp | 13.99% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
