@@ -44263,3 +44263,19 @@
 [02:31:52] (BERRY) ItemRazzBerry used, remaining: 51
 [02:31:53] (Wild Success) | Voltorb 182 V |  440 Cp | 66.45% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
 [02:31:55] (Wild Success) | Rattata 94 V |  222 Cp | 11.74% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[02:31:56] (INFO) Found 2 pokemon to transfer...
+[02:31:58] (TRANSFER) Rattata 94 V |  222 Cp | 11.74% | Lvl 18 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 416
+[02:32:01] (TRANSFER) Voltorb 182 V |  440 Cp | 66.45% | Lvl 20 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 244
+[02:32:04] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:32:04] (POKESTOP) Adventure Cove in 78.6 m distance
+[02:32:04] (NAVIGATION) Distance to target location: 78.6 meters. Will take 9.13 seconds driving at 31kmh
+[02:32:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:32:13] (INFO) Found 4 Recyclable Items:
+[02:32:13] (RECYCLING) RazzBerry x 1
+[02:32:14] (RECYCLING) PokeBall x 3
+[02:32:15] (RECYCLING) Potion x 1
+[02:32:16] (RECYCLING) Revive x 1
+[02:32:19] (POKESTOP) The Entrance in 119.64 m distance
+[02:32:19] (NAVIGATION) Distance to target location: 119.64 meters. Will take 13.89 seconds driving at 31kmh
+[02:32:25] (INFO) Found 1 catchable Pokemon
+[02:32:27] (Wild Success) | Squirtle 56 V |   35 Cp | 6.81% | Lvl 02 | Chance: 0.48 | with a GreatBall and received XP 210
