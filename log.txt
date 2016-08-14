@@ -34976,3 +34976,9 @@
 [21:25:24] (NAVIGATION) Distance to target location: 111.68 meters. Will take 12.97 seconds driving at 31kmh
 [21:25:34] (INFO) Found 1 catchable Pokemon
 [21:25:35] (Wild Success) | Zubat 160 V |  275 Cp | 76.77% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
+[21:25:37] (INFO) Found 1 pokemon to transfer...
+[21:25:39] (TRANSFER) Zubat 160 V |  275 Cp | 76.77% | Lvl 16 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 962
+[21:25:43] (POKESTOP) Butterfly Mural in 338.11 m distance
+[21:25:43] (NAVIGATION) Distance to target location: 338.11 meters. Will take 19.95 seconds driving at 61kmh
+[21:26:01] (INFO) Found 2 catchable Pokemon
+[21:26:02] (Wild Success) | Zubat 103 V |   57 Cp | 46.55% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 420
