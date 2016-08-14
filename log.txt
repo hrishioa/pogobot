@@ -45125,3 +45125,11 @@
 [02:57:50] (INFO) Found 2 catchable Pokemon
 [02:57:52] (Wild Success) | Zubat 116 V |  126 Cp | 53.16% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [02:57:53] (Wild Success) | Pidgey 103 V |   25 Cp | 46.43% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 310
+[02:57:55] (INFO) Found 2 pokemon to transfer...
+[02:57:57] (TRANSFER) Zubat 116 V |  126 Cp | 53.16% | Lvl 08 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 728
+[02:57:59] (TRANSFER) Pidgey 103 V |   25 Cp | 46.43% | Lvl 02 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 780
+[02:58:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 2 x ItemPokeBall
+[02:58:03] (POKESTOP) Soka Peace Centre in 222.34 m distance
+[02:58:03] (NAVIGATION) Distance to target location: 222.34 meters. Will take 19.52 seconds driving at 41kmh
+[02:58:20] (INFO) Found 1 catchable Pokemon
+[02:58:22] (Wild Success) | Zubat 124 V |  112 Cp | 63.20% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
