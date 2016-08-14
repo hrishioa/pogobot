@@ -19,23 +19,23 @@ Stats:
 [05:17:16] LuckyEgg x 0
 [05:17:16] TroyDisk x 5
 
-[08:21:22] *Vaporeon           316 True Value | 1905 Cp | 75.82% Perfect | Lvl 25 | WaterGun/WaterPulse
-[08:21:22] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
-[08:21:22] Poliwrath           297 True Value | 1667 Cp | 65.99% Perfect | Lvl 25 | MudShot/IcePunch
-[08:21:23] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
-[08:21:23] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
-[08:21:23] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
-[08:21:23] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
-[08:21:23] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
-[08:21:23] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
-[08:21:24] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
-[08:21:24] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
-[08:21:24] Golbat              218 True Value | 1062 Cp | 52.40% Perfect | Lvl 21 | WingAttack/AirCutter
-[08:21:24] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
-[08:21:24] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
-[08:21:24] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
-[08:21:25] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
-[08:21:25] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
-[08:21:25] Primeape            197 True Value |  955 Cp | 66.48% Perfect | Lvl 19 | LowKick/NightSlash
-[08:21:25] Magneton            209 True Value |  942 Cp | 55.07% Perfect | Lvl 19 | ThunderShock/FlashCannon
-[08:21:25] Ponyta              212 True Value |  937 Cp | 68.22% Perfect | Lvl 23 | Tackle/FlameCharge
+[08:31:46] *Vaporeon           316 True Value | 1905 Cp | 75.82% Perfect | Lvl 25 | WaterGun/WaterPulse
+[08:31:47] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[08:31:47] Poliwrath           297 True Value | 1667 Cp | 65.99% Perfect | Lvl 25 | MudShot/IcePunch
+[08:31:47] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[08:31:47] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[08:31:47] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[08:31:48] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[08:31:48] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[08:31:48] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[08:31:48] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[08:31:48] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[08:31:49] Golbat              218 True Value | 1062 Cp | 52.40% Perfect | Lvl 21 | WingAttack/AirCutter
+[08:31:49] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[08:31:49] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[08:31:49] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
+[08:31:49] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
+[08:31:49] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[08:31:50] Primeape            197 True Value |  955 Cp | 66.48% Perfect | Lvl 19 | LowKick/NightSlash
+[08:31:50] Magneton            209 True Value |  942 Cp | 55.07% Perfect | Lvl 19 | ThunderShock/FlashCannon
+[08:31:50] Ponyta              212 True Value |  937 Cp | 68.22% Perfect | Lvl 23 | Tackle/FlameCharge
