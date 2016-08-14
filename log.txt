@@ -31840,3 +31840,7 @@
 [14:23:04] (NAVIGATION) Distance to target location: 98.03 meters. Will take 11.38 seconds driving at 31kmh
 [14:23:05] (INFO) Found 1 catchable Pokemon
 [14:23:08] (Wild Success) | Psyduck 152 V |  362 Cp | 43.88% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[14:23:10] (INFO) Found 1 pokemon to transfer...
+[14:23:11] (TRANSFER) Psyduck 152 V |  362 Cp | 43.88% | Lvl 13 | Best: [Psyduck 179 V |  476 Cp | 46.12% | Lvl 17] | Candy: 101
+[14:23:12] (INFO) Found 2 catchable Pokemon
+[14:23:14] (Wild Success) | Zubat 146 V |  170 Cp | 73.93% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
