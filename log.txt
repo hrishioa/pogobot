@@ -45693,3 +45693,7 @@
 [03:17:09] (INFO) Found 1 catchable Pokemon
 [03:17:11] (BERRY) ItemRazzBerry used, remaining: 40
 [03:17:12] (Wild Success) | Dodrio 193 V |  673 Cp | 50.85% | Lvl 14 | Chance: 0.16 | with a GreatBall and received XP 210
+[03:17:14] (INFO) Found 1 pokemon to transfer...
+[03:17:15] (TRANSFER) Dodrio 193 V |  673 Cp | 50.85% | Lvl 14 | Best: [Dodrio 270 V | 1213 Cp | 78.57% | Lvl 24] | Candy: 33
+[03:17:17] (INFO) Found 2 catchable Pokemon
+[03:17:18] (Wild Success) | Pidgey 116 V |  132 Cp | 48.13% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
