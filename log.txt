@@ -34459,3 +34459,28 @@
 [21:07:05] (INFO) Found 1 catchable Pokemon
 [21:07:06] (BERRY) ItemRazzBerry used, remaining: 48
 [21:07:08] (Wild Success) | Grimer 162 V |  723 Cp | 47.98% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
+[21:07:11] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:07:12] (POKESTOP) Biological Atom in 51.22 m distance
+[21:07:12] (NAVIGATION) Distance to target location: 51.22 meters. Will take 6.58 seconds driving at 28kmh
+[21:07:17] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:07:18] (POKESTOP) Compounds of Five Cubes in 139.47 m distance
+[21:07:18] (NAVIGATION) Distance to target location: 139.47 meters. Will take 16.74 seconds driving at 30kmh
+[21:07:34] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:07:38] (POKESTOP) First the Dream Then the Nightmare in 89.99 m distance
+[21:07:38] (NAVIGATION) Distance to target location: 89.99 meters. Will take 10.8 seconds driving at 30kmh
+[21:07:46] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:07:48] (POKESTOP) Lucy's Left Ear in 51.4 m distance
+[21:07:48] (NAVIGATION) Distance to target location: 51.4 meters. Will take 6.61 seconds driving at 28kmh
+[21:07:52] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:07:54] (POKESTOP) Survival Mask in 69.79 m distance
+[21:07:54] (NAVIGATION) Distance to target location: 69.79 meters. Will take 8.97 seconds driving at 28kmh
+[21:08:02] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[21:08:03] (POKESTOP) NUS Central Library in 58.34 m distance
+[21:08:03] (NAVIGATION) Distance to target location: 58.34 meters. Will take 7 seconds driving at 30kmh
+[21:08:05] (INFO) Found 1 catchable Pokemon
+[21:08:06] (Wild Escape) | Caterpie 96 V |  128 Cp | 32.72% | Lvl 13 | Chance: 0.41 | with a PokeBall 
+[21:08:07] (Wild Success Attempt #2) | Caterpie 96 V |  128 Cp | 32.72% | Lvl 13 | Chance: 0.41 | with a PokeBall 
+[21:08:09] (INFO) Found 1 pokemon to transfer...
+[21:08:10] (TRANSFER) Caterpie 96 V |  128 Cp | 32.72% | Lvl 13 | Best: [Caterpie 120 V |  201 Cp | 50.39% | Lvl 19] | Candy: 203
+[21:08:12] (INFO) Found 1 catchable Pokemon
+[21:08:13] (Wild Success) | Metapod 113 V |  271 Cp | 36.45% | Lvl 25 | Chance: 0.14 | with a UltraBall and received XP 420
