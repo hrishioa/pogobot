@@ -39305,3 +39305,27 @@
 [00:02:05] (NAVIGATION) Distance to target location: 90.59 meters. Will take 11.65 seconds driving at 28kmh
 [00:02:07] (INFO) Found 1 catchable Pokemon
 [00:02:09] (Wild Success) | Rattata 134 V |  287 Cp | 39.64% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[00:02:10] (INFO) Found 1 pokemon to transfer...
+[00:02:11] (TRANSFER) Rattata 134 V |  287 Cp | 39.64% | Lvl 21 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 348
+[00:02:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[00:02:16] (POKESTOP) Sentosa Gantry in 140.23 m distance
+[00:02:16] (NAVIGATION) Distance to target location: 140.23 meters. Will take 15.78 seconds driving at 32kmh
+[00:02:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall, 2 x ItemPotion
+[00:02:31] (POKESTOP) Dinosaur in 254.08 m distance
+[00:02:31] (NAVIGATION) Distance to target location: 254.08 meters. Will take 19.88 seconds driving at 46kmh
+[00:02:50] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall, 2 x ItemPotion
+[00:02:51] (POKESTOP) Egyptian Slaves in 69.77 m distance
+[00:02:52] (NAVIGATION) Distance to target location: 69.77 meters. Will take 8.97 seconds driving at 28kmh
+[00:02:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:03:00] (INFO) Found 4 Recyclable Items:
+[00:03:00] (RECYCLING) RazzBerry x 1
+[00:03:02] (RECYCLING) PokeBall x 7
+[00:03:02] (RECYCLING) Potion x 4
+[00:03:04] (RECYCLING) Revive x 2
+[00:03:06] (POKESTOP) Trapped Humanoid in 81.82 m distance
+[00:03:06] (NAVIGATION) Distance to target location: 81.82 meters. Will take 9.5 seconds driving at 31kmh
+[00:03:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:03:15] (POKESTOP) Giant Egypt Statue in 70.65 m distance
+[00:03:15] (NAVIGATION) Distance to target location: 70.65 meters. Will take 8.2 seconds driving at 31kmh
+[00:03:18] (INFO) Found 1 catchable Pokemon
+[00:03:20] (Wild Success) | Pikachu 117 V |  335 Cp | 8.35% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
