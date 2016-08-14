@@ -44086,3 +44086,12 @@
 [02:24:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [02:24:52] (INFO) Found 1 catchable Pokemon
 [02:24:54] (Wild Success) | Rattata 101 V |   48 Cp | 28.54% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[02:24:55] (INFO) Found 1 pokemon to transfer...
+[02:24:57] (TRANSFER) Rattata 101 V |   48 Cp | 28.54% | Lvl 04 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 408
+[02:24:57] (POKESTOP) Big Temptation in 71.01 m distance
+[02:24:57] (NAVIGATION) Distance to target location: 71.01 meters. Will take 8.25 seconds driving at 31kmh
+[02:25:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:25:06] (POKESTOP) Casino in 89.07 m distance
+[02:25:06] (NAVIGATION) Distance to target location: 89.07 meters. Will take 11.06 seconds driving at 29kmh
+[02:25:13] (INFO) Found 1 catchable Pokemon
+[02:25:14] (Wild Success) | Rattata 107 V |   35 Cp | 38.42% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
