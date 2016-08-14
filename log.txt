@@ -22844,3 +22844,7 @@
 [08:47:20] (NAVIGATION) Distance to target location: 229.3 meters. Will take 19.65 seconds driving at 42kmh
 [08:47:31] (INFO) Found 1 catchable Pokemon
 [08:47:33] (Wild Success) | Staryu 177 V |  412 Cp | 84.06% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
+[08:47:34] (INFO) Found 1 pokemon to transfer...
+[08:47:36] (TRANSFER) Staryu 176 V |  524 Cp | 72.08% | Lvl 21 | Best: [Staryu 177 V |  504 Cp | 75.41% | Lvl 20] | Candy: 104
+[08:47:38] (INFO) Found 1 catchable Pokemon
+[08:47:39] (Wild Success) | Zubat 123 V |  172 Cp | 46.04% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
