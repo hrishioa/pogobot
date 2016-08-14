@@ -37203,3 +37203,19 @@
 [22:47:09] (Wild Success) | Psyduck 172 V |  445 Cp | 43.12% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
 [22:47:11] (Wild Success) | Tentacool 122 V |  309 Cp | 38.72% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
 [22:47:13] (Wild Success) | Shellder 111 V |  119 Cp | 51.69% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[22:47:14] (INFO) Found 3 pokemon to transfer...
+[22:47:16] (TRANSFER) Psyduck 172 V |  445 Cp | 43.12% | Lvl 16 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 98
+[22:47:18] (TRANSFER) Shellder 111 V |  119 Cp | 51.69% | Lvl 06 | Best: [Shellder 124 V |  244 Cp | 47.76% | Lvl 12] | Candy: 14
+[22:47:20] (TRANSFER) Tentacool 99 V |  176 Cp | 43.51% | Lvl 08 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 22
+[22:47:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:47:24] (INFO) Found 3 Recyclable Items:
+[22:47:24] (RECYCLING) PokeBall x 5
+[22:47:47] (RECYCLING) HyperPotion x 1
+[22:47:47] (RECYCLING) Revive x 2
+[22:47:50] (POKESTOP) Musical Eggs in 160.99 m distance
+[22:47:50] (NAVIGATION) Distance to target location: 160.99 meters. Will take 18.7 seconds driving at 31kmh
+[22:47:56] (INFO) Found 1 catchable Pokemon
+[22:47:57] (BERRY) ItemRazzBerry used, remaining: 46
+[22:47:58] (Wild Flee) | Golbat 135 V |  387 Cp | 36.19% | Lvl 08 | Chance: 0.21 | with a GreatBall 
+[22:48:02] (INFO) Found 1 catchable Pokemon
+[22:48:03] (Wild Success) | Exeggcute 202 V |  663 Cp | 81.00% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
