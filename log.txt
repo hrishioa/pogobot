@@ -29682,3 +29682,19 @@
 [13:03:41] (TRANSFER) Gastly 130 V |  240 Cp | 51.05% | Lvl 12 | Best: [Gastly 165 V |  263 Cp | 54.34% | Lvl 13] | Candy: 22
 [13:03:43] (INFO) Found 1 catchable Pokemon
 [13:03:44] (Wild Success) | Zubat 162 V |  184 Cp | 68.81% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[13:03:46] (INFO) Found 1 pokemon to transfer...
+[13:03:47] (TRANSFER) Zubat 162 V |  184 Cp | 68.81% | Lvl 11 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 874
+[13:03:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemGreatBall, 1 x ItemPokeBall
+[13:03:51] (POKESTOP) The Baroque Scroll in 41.35 m distance
+[13:03:51] (NAVIGATION) Distance to target location: 41.35 meters. Will take 4.8 seconds driving at 31kmh
+[13:03:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemPokeBall
+[13:03:57] (POKESTOP) Fragrant Plant Garden in 214.85 m distance
+[13:03:57] (NAVIGATION) Distance to target location: 214.85 meters. Will take 19.83 seconds driving at 39kmh
+[13:04:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[13:04:17] (INFO) Found 3 Recyclable Items:
+[13:04:17] (RECYCLING) PokeBall x 11
+[13:04:18] (RECYCLING) Potion x 2
+[13:04:19] (RECYCLING) Revive x 2
+[13:04:22] (INFO) Found 1 catchable Pokemon
+[13:04:23] (BERRY) ItemRazzBerry used, remaining: 46
+[13:04:24] (Wild Success) | Eevee 199 V |  620 Cp | 81.57% | Lvl 21 | Chance: 0.26 | with a UltraBall and received XP 210
