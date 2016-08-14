@@ -34992,3 +34992,10 @@
 [21:26:17] (NAVIGATION) Distance to target location: 83.44 meters. Will take 9.69 seconds driving at 31kmh
 [21:26:26] (INFO) Found 1 catchable Pokemon
 [21:26:27] (Wild Success) | Spearow 113 V |  137 Cp | 59.09% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 420
+[21:26:29] (INFO) Found 1 pokemon to transfer...
+[21:26:30] (TRANSFER) Spearow 113 V |  137 Cp | 59.09% | Lvl 08 | Best: [Spearow 155 V |  424 Cp | 63.26% | Lvl 24] | Candy: 357
+[21:26:31] (POKESTOP) Raffles Hall Art Piece (1984/85) in 579.69 m distance
+[21:26:31] (NAVIGATION) Distance to target location: 579.69 meters. Will take 29.81 seconds driving at 70kmh
+[21:26:40] (INFO) Found 1 catchable Pokemon
+[21:26:41] (BERRY) ItemRazzBerry used, remaining: 46
+[21:26:41] (Wild Success) | Staryu 203 V |  650 Cp | 88.24% | Lvl 25 | Chance: 0.29 | with a UltraBall and received XP 420
