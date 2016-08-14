@@ -42698,3 +42698,23 @@
 [01:42:31] (INFO) Found 1 catchable Pokemon
 [01:42:32] (BERRY) ItemRazzBerry used, remaining: 50
 [01:42:33] (Wild Success) | Pikachu 163 V |  515 Cp | 36.29% | Lvl 24 | Chance: 0.12 | with a GreatBall and received XP 210
+[01:42:35] (INFO) Found 1 pokemon to transfer...
+[01:42:36] (TRANSFER) Pikachu 158 V |  522 Cp | 41.27% | Lvl 24 | Best: [Pikachu 163 V |  515 Cp | 36.29% | Lvl 24] | Candy: 82
+[01:42:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:42:39] (INFO) Found 3 Recyclable Items:
+[01:42:40] (RECYCLING) PokeBall x 7
+[01:42:40] (RECYCLING) SuperPotion x 1
+[01:42:42] (RECYCLING) Revive x 4
+[01:42:44] (POKESTOP) Hostile Raptor in 98.08 m distance
+[01:42:44] (NAVIGATION) Distance to target location: 98.08 meters. Will take 11.03 seconds driving at 32kmh
+[01:42:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[01:42:54] (POKESTOP) IOS Mural in 151.03 m distance
+[01:42:54] (NAVIGATION) Distance to target location: 151.03 meters. Will take 18.75 seconds driving at 29kmh
+[01:43:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[01:43:12] (POKESTOP) Ranger Stn Wave Hse Mural in 38.13 m distance
+[01:43:12] (NAVIGATION) Distance to target location: 38.13 meters. Will take 4.29 seconds driving at 32kmh
+[01:43:15] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemSuperPotion, 4 x ItemPokeBall
+[01:43:17] (POKESTOP) Obelisk of Ra in 225.22 m distance
+[01:43:17] (NAVIGATION) Distance to target location: 225.22 meters. Will take 19.78 seconds driving at 41kmh
+[01:43:19] (INFO) Found 1 catchable Pokemon
+[01:43:20] (Wild Success) | Staryu 164 V |  376 Cp | 74.21% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
