@@ -24049,3 +24049,13 @@
 [09:26:28] (NAVIGATION) Distance to target location: 63.27 meters. Will take 7.12 seconds driving at 32kmh
 [09:26:33] (INFO) Found 1 catchable Pokemon
 [09:26:34] (Wild Success) | Zubat 91 V |   40 Cp | 41.80% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[09:26:36] (INFO) Found 1 pokemon to transfer...
+[09:26:37] (TRANSFER) Zubat 91 V |   40 Cp | 41.80% | Lvl 03 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 802
+[09:26:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 3 x ItemPokeBall
+[09:26:40] (POKESTOP) West Coast Community Centre in 101.2 m distance
+[09:26:40] (NAVIGATION) Distance to target location: 101.2 meters. Will take 12.14 seconds driving at 30kmh
+[09:26:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemGreatBall, 1 x ItemPokeBall
+[09:26:51] (POKESTOP) Clementi Bible Center in 72.31 m distance
+[09:26:51] (NAVIGATION) Distance to target location: 72.31 meters. Will take 8.98 seconds driving at 29kmh
+[09:26:53] (INFO) Found 2 catchable Pokemon
+[09:26:55] (Wild Success) | Psyduck 119 V |  263 Cp | 20.77% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
