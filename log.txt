@@ -35473,3 +35473,11 @@
 [21:44:17] (NAVIGATION) Distance to target location: 301.88 meters. Will take 19.76 seconds driving at 55kmh
 [21:44:32] (INFO) Found 1 catchable Pokemon
 [21:44:34] (Wild Success) | Weedle 103 V |  122 Cp | 36.17% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[21:44:36] (INFO) Found 1 pokemon to transfer...
+[21:44:37] (TRANSFER) Weedle 103 V |  122 Cp | 36.17% | Lvl 12 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 607
+[21:44:42] (POKESTOP) Raffles Hall Art Piece (1984/85) in 81.91 m distance
+[21:44:42] (NAVIGATION) Distance to target location: 81.91 meters. Will take 9.22 seconds driving at 32kmh
+[21:44:50] (POKESTOP) Feeding Chickens in 96.42 m distance
+[21:44:50] (NAVIGATION) Distance to target location: 96.42 meters. Will take 10.85 seconds driving at 32kmh
+[21:44:52] (INFO) Found 1 catchable Pokemon
+[21:44:54] (Wild Success) | Golbat 144 V |   82 Cp | 81.22% | Lvl 02 | Chance: 0.48 | with a PokeBall and received XP 210
