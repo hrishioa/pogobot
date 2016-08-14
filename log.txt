@@ -31893,3 +31893,9 @@
 [14:25:10] (NAVIGATION) Distance to target location: 227.86 meters. Will take 19.53 seconds driving at 42kmh
 [14:25:21] (INFO) Found 1 catchable Pokemon
 [14:25:23] (Wild Success) | Pidgey 100 V |  234 Cp | 27.39% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
+[14:25:25] (INFO) Found 1 pokemon to transfer...
+[14:25:26] (TRANSFER) Pidgey 100 V |  234 Cp | 27.39% | Lvl 15 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1298
+[14:25:30] (POKESTOP) Playground at Block 714 in 58.22 m distance
+[14:25:30] (NAVIGATION) Distance to target location: 58.22 meters. Will take 6.55 seconds driving at 32kmh
+[14:25:35] (INFO) Found 1 catchable Pokemon
+[14:25:37] (Wild Success) | Rattata 131 V |   39 Cp | 66.66% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
