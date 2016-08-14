@@ -44719,3 +44719,7 @@
 [02:43:03] (NAVIGATION) Distance to target location: 66.12 meters. Will take 7.93 seconds driving at 30kmh
 [02:43:05] (INFO) Found 1 catchable Pokemon
 [02:43:06] (Wild Success) | Voltorb 103 V |   31 Cp | 38.43% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[02:43:08] (INFO) Found 1 pokemon to transfer...
+[02:43:10] (TRANSFER) Voltorb 103 V |   31 Cp | 38.43% | Lvl 02 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 280
+[02:43:11] (INFO) Found 1 catchable Pokemon
+[02:43:13] (Wild Success) | Sandshrew 105 V |   91 Cp | 38.56% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
