@@ -22174,3 +22174,11 @@
 [08:24:45] (INFO) Found 1 catchable Pokemon
 [08:24:47] (BERRY) ItemRazzBerry used, remaining: 49
 [08:24:48] (Wild Success) | Machop 167 V |  543 Cp | 62.57% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[08:24:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[08:24:54] (POKESTOP) M7 In Scorpius in 77.27 m distance
+[08:24:54] (NAVIGATION) Distance to target location: 77.27 meters. Will take 8.69 seconds driving at 32kmh
+[08:25:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 1 x ItemGreatBall, 1 x ItemPokeBall
+[08:25:02] (POKESTOP) The War And Peace Nebula in 53.43 m distance
+[08:25:02] (NAVIGATION) Distance to target location: 53.43 meters. Will take 6.87 seconds driving at 28kmh
+[08:25:07] (INFO) Found 1 catchable Pokemon
+[08:25:09] (Wild Success) | Rattata 127 V |   22 Cp | 59.52% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
