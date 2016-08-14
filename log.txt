@@ -42726,3 +42726,8 @@
 [01:43:46] (INFO) Found 1 catchable Pokemon
 [01:43:47] (BERRY) ItemRazzBerry used, remaining: 50
 [01:43:48] (Wild Success) | Pikachu 144 V |  473 Cp | 21.69% | Lvl 23 | Chance: 0.12 | with a GreatBall and received XP 210
+[01:43:49] (INFO) Found 1 pokemon to transfer...
+[01:43:51] (TRANSFER) Pikachu 144 V |  473 Cp | 21.69% | Lvl 23 | Best: [Pikachu 163 V |  515 Cp | 36.29% | Lvl 24] | Candy: 86
+[01:43:53] (INFO) Found 1 catchable Pokemon
+[01:43:54] (BERRY) ItemRazzBerry used, remaining: 49
+[01:43:54] (Wild Success) | Ekans 84 V |  441 Cp | 25.92% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
