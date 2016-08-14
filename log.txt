@@ -38679,3 +38679,7 @@
 [23:39:26] (NAVIGATION) Distance to target location: 196.72 meters. Will take 19.67 seconds driving at 36kmh
 [23:39:32] (INFO) Found 1 catchable Pokemon
 [23:39:33] (Wild Success) | Horsea 141 V |  140 Cp | 64.52% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[23:39:35] (INFO) Found 1 pokemon to transfer...
+[23:39:37] (TRANSFER) Horsea 141 V |  140 Cp | 64.52% | Lvl 07 | Best: [Horsea 162 V |  194 Cp | 83.45% | Lvl 09] | Candy: 52
+[23:39:45] (INFO) Found 2 catchable Pokemon
+[23:39:46] (Wild Success) | Poliwag 100 V |  239 Cp | 24.14% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
