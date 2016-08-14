@@ -33335,3 +33335,16 @@
 [20:31:02] (NAVIGATION) Distance to target location: 154.64 meters. Will take 17.96 seconds driving at 31kmh
 [20:31:18] (INFO) Found 1 catchable Pokemon
 [20:31:20] (Wild Success) | Caterpie 101 V |  186 Cp | 31.59% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 420
+[20:31:21] (INFO) Found 1 pokemon to transfer...
+[20:31:23] (TRANSFER) Caterpie 101 V |  186 Cp | 31.59% | Lvl 19 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 130
+[20:31:24] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:31:25] (POKESTOP) M7 In Scorpius in 65.94 m distance
+[20:31:25] (NAVIGATION) Distance to target location: 65.94 meters. Will take 7.66 seconds driving at 31kmh
+[20:31:32] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:31:33] (POKESTOP) Tree of the Elements in 59.9 m distance
+[20:31:33] (NAVIGATION) Distance to target location: 59.9 meters. Will take 7.44 seconds driving at 29kmh
+[20:31:39] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:31:41] (POKESTOP) Scientific Exhibit #1 at Level 6 in 127.19 m distance
+[20:31:41] (NAVIGATION) Distance to target location: 127.19 meters. Will take 14.31 seconds driving at 32kmh
+[20:31:44] (INFO) Found 2 catchable Pokemon
+[20:31:46] (Wild Success) | Pidgey 138 V |  335 Cp | 49.08% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 420
