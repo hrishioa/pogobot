@@ -29531,3 +29531,4 @@
 [13:00:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
 [13:00:08] (INFO) Found 3 catchable Pokemon
 [13:00:10] (Wild Success) | Eevee 175 V |  111 Cp | 96.75% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
+[13:00:11] (Wild Success) | Paras 134 V |  299 Cp | 49.27% | Lvl 13 | Chance: 0.33 | with a GreatBall and received XP 210
