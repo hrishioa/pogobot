@@ -38474,3 +38474,8 @@
 [23:33:44] (NAVIGATION) Distance to target location: 323.04 meters. Will take 19.71 seconds driving at 59kmh
 [23:33:46] (INFO) Found 1 catchable Pokemon
 [23:33:48] (Wild Success) | Voltorb 139 V |   10 Cp | 67.64% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[23:33:50] (INFO) Found 1 pokemon to transfer...
+[23:33:51] (TRANSFER) Voltorb 139 V |   10 Cp | 67.64% | Lvl 01 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 60
+[23:33:53] (INFO) Found 1 catchable Pokemon
+[23:33:54] (BERRY) ItemRazzBerry used, remaining: 42
+[23:33:54] (Wild Success) | Raticate 133 V |  452 Cp | 17.50% | Lvl 13 | Chance: 0.16 | with a UltraBall and received XP 210
