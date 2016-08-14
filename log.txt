@@ -21967,3 +21967,22 @@
 [08:19:09] (NAVIGATION) Distance to target location: 116.02 meters. Will take 13.05 seconds driving at 32kmh
 [08:19:17] (INFO) Found 1 catchable Pokemon
 [08:19:19] (Wild Success) | Pidgey 68 V |   38 Cp | 9.31% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[08:19:20] (INFO) Found 1 pokemon to transfer...
+[08:19:22] (TRANSFER) Pidgey 68 V |   38 Cp | 9.31% | Lvl 03 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 999
+[08:19:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[08:19:27] (POKESTOP) Central Lagoon in 84.4 m distance
+[08:19:27] (NAVIGATION) Distance to target location: 84.4 meters. Will take 9.5 seconds driving at 32kmh
+[08:19:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:19:36] (POKESTOP) S1A Garden in 95.04 m distance
+[08:19:36] (NAVIGATION) Distance to target location: 95.04 meters. Will take 12.22 seconds driving at 28kmh
+[08:19:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[08:19:47] (INFO) Found 2 Recyclable Items:
+[08:19:48] (RECYCLING) PokeBall x 11
+[08:19:49] (RECYCLING) Revive x 2
+[08:19:51] (POKESTOP) Water Tank in 171.24 m distance
+[08:19:51] (NAVIGATION) Distance to target location: 171.24 meters. Will take 19.89 seconds driving at 31kmh
+[08:20:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:20:11] (POKESTOP) Temasek Lifesciences Laboratory in 160.69 m distance
+[08:20:11] (NAVIGATION) Distance to target location: 160.69 meters. Will take 19.95 seconds driving at 29kmh
+[08:20:26] (INFO) Found 1 catchable Pokemon
+[08:20:28] (Wild Success) | Pidgeotto 111 V |  209 Cp | 40.20% | Lvl 07 | Chance: 0.28 | with a GreatBall and received XP 210
