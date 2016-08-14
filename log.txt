@@ -40671,3 +40671,12 @@
 [00:43:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
 [00:43:27] (INFO) Found 1 catchable Pokemon
 [00:43:28] (Wild Success) | NidoranMale 101 V |   73 Cp | 31.54% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[00:43:30] (INFO) Found 1 pokemon to transfer...
+[00:43:32] (TRANSFER) NidoranMale 101 V |   73 Cp | 31.54% | Lvl 04 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 30
+[00:43:33] (POKESTOP) Pavillion at Sentosa in 71.53 m distance
+[00:43:33] (NAVIGATION) Distance to target location: 71.53 meters. Will take 8.31 seconds driving at 31kmh
+[00:43:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[00:43:42] (POKESTOP) Sentosa in 75.47 m distance
+[00:43:42] (NAVIGATION) Distance to target location: 75.47 meters. Will take 8.76 seconds driving at 31kmh
+[00:43:47] (INFO) Found 2 catchable Pokemon
+[00:43:49] (Wild Success) | Zubat 136 V |  344 Cp | 46.77% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
