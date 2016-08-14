@@ -44447,3 +44447,21 @@
 [02:35:38] (INFO) Found 2 catchable Pokemon
 [02:35:40] (Wild Success) | Magnemite 169 V |  234 Cp | 68.91% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [02:35:42] (Wild Success) | Magnemite 104 V |   11 Cp | 53.02% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[02:35:43] (INFO) Found 2 pokemon to transfer...
+[02:35:45] (TRANSFER) Magnemite 169 V |  234 Cp | 68.91% | Lvl 10 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 256
+[02:35:48] (TRANSFER) Magnemite 104 V |   11 Cp | 53.02% | Lvl 01 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 257
+[02:35:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[02:35:52] (POKESTOP) Big Bird Emporium in 37.06 m distance
+[02:35:52] (NAVIGATION) Distance to target location: 37.06 meters. Will take 4.45 seconds driving at 30kmh
+[02:35:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:35:56] (POKESTOP) The Mighty Lion in 108.57 m distance
+[02:35:56] (NAVIGATION) Distance to target location: 108.57 meters. Will take 12.61 seconds driving at 31kmh
+[02:36:02] (INFO) Found 1 catchable Pokemon
+[02:36:04] (BERRY) ItemRazzBerry used, remaining: 46
+[02:36:04] (Wild Escape) | Pikachu 129 V |  401 Cp | 14.06% | Lvl 20 | Chance: 0.13 | with a GreatBall 
+[02:36:05] (BERRY) ItemRazzBerry used, remaining: 45
+[02:36:05] (Wild Success Attempt #2) | Pikachu 129 V |  401 Cp | 14.06% | Lvl 20 | Chance: 0.13 | with a GreatBall 
+[02:36:07] (INFO) Found 1 pokemon to transfer...
+[02:36:09] (TRANSFER) Pikachu 129 V |  401 Cp | 14.06% | Lvl 20 | Best: [Pikachu 163 V |  515 Cp | 36.29% | Lvl 24] | Candy: 94
+[02:36:10] (INFO) Found 2 catchable Pokemon
+[02:36:12] (Wild Success) | Magnemite 123 V |  295 Cp | 32.87% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
