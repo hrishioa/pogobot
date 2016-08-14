@@ -22848,3 +22848,33 @@
 [08:47:36] (TRANSFER) Staryu 176 V |  524 Cp | 72.08% | Lvl 21 | Best: [Staryu 177 V |  504 Cp | 75.41% | Lvl 20] | Candy: 104
 [08:47:38] (INFO) Found 1 catchable Pokemon
 [08:47:39] (Wild Success) | Zubat 123 V |  172 Cp | 46.04% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[08:47:41] (INFO) Found 1 pokemon to transfer...
+[08:47:42] (TRANSFER) Zubat 123 V |  172 Cp | 46.04% | Lvl 11 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 750
+[08:47:45] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:47:46] (POKESTOP) NUS GREM Display in 58.43 m distance
+[08:47:46] (NAVIGATION) Distance to target location: 58.43 meters. Will take 7.01 seconds driving at 30kmh
+[08:47:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[08:47:53] (POKESTOP) FOE Singapore in 76.4 m distance
+[08:47:53] (NAVIGATION) Distance to target location: 76.4 meters. Will take 8.6 seconds driving at 32kmh
+[08:47:58] (INFO) Found 1 catchable Pokemon
+[08:47:59] (Wild Flee) | Caterpie 96 V |  223 Cp | 19.35% | Lvl 24 | Chance: 0.3 | with a GreatBall 
+[08:48:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[08:48:03] (INFO) Found 4 Recyclable Items:
+[08:48:04] (RECYCLING) RazzBerry x 1
+[08:48:05] (RECYCLING) PokeBall x 11
+[08:48:06] (RECYCLING) Potion x 1
+[08:48:08] (RECYCLING) SuperPotion x 1
+[08:48:10] (POKESTOP) Race to the Future Car at FOE in 34.31 m distance
+[08:48:10] (NAVIGATION) Distance to target location: 34.31 meters. Will take 4.12 seconds driving at 30kmh
+[08:48:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[08:48:14] (POKESTOP) University Cultural Centre in 117.83 m distance
+[08:48:14] (NAVIGATION) Distance to target location: 117.83 meters. Will take 13.68 seconds driving at 31kmh
+[08:48:25] (FATAL ERROR) Unhandled exception encountered: Exception of type 'PokemonGo.RocketAPI.Exceptions.InvalidResponseException' was thrown..
+[08:48:25] (ATTENTION) Restarting the application due to error...
+[08:48:25] (INFO) Logging in via: Google
+[08:48:26] (INFO) Client logged in
+[08:48:26] (INFO) Found 66 Pokestops
+[08:48:27] (POKESTOP) Masjid Tentera Di Raja in 230.69 m distance
+[08:48:27] (NAVIGATION) Distance to target location: 230.69 meters. Will take 19.77 seconds driving at 42kmh
+[08:48:32] (INFO) Found 1 catchable Pokemon
+[08:48:34] (Wild Success) | Venonat 130 V |   41 Cp | 59.17% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
