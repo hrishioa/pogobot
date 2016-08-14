@@ -21857,3 +21857,10 @@
 [08:15:06] (NAVIGATION) Distance to target location: 257.03 meters. Will take 19.69 seconds driving at 47kmh
 [08:15:21] (INFO) Found 1 catchable Pokemon
 [08:15:22] (Wild Success) | Pidgey 129 V |  343 Cp | 40.48% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
+[08:15:24] (INFO) Found 1 pokemon to transfer...
+[08:15:25] (TRANSFER) Pidgey 129 V |  343 Cp | 40.48% | Lvl 21 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 991
+[08:15:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[08:15:31] (POKESTOP) Tree of Light Bulbs in 75.13 m distance
+[08:15:31] (NAVIGATION) Distance to target location: 75.13 meters. Will take 9.02 seconds driving at 30kmh
+[08:15:34] (INFO) Found 1 catchable Pokemon
+[08:15:36] (Wild Success) | Zubat 152 V |  254 Cp | 72.01% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
