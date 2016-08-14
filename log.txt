@@ -43847,3 +43847,32 @@
 [02:18:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
 [02:18:18] (INFO) Found 1 catchable Pokemon
 [02:18:19] (Wild Success) | Geodude 148 V |  308 Cp | 61.62% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:18:21] (INFO) Found 1 pokemon to transfer...
+[02:18:22] (TRANSFER) Geodude 148 V |  308 Cp | 61.62% | Lvl 14 | Best: [Geodude 197 V |  467 Cp | 84.88% | Lvl 20] | Candy: 51
+[02:18:24] (POKESTOP) Bengali Tigers in 70.15 m distance
+[02:18:24] (NAVIGATION) Distance to target location: 70.15 meters. Will take 8.71 seconds driving at 29kmh
+[02:18:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:18:33] (POKESTOP) Images of Singapore in 62.46 m distance
+[02:18:33] (NAVIGATION) Distance to target location: 62.46 meters. Will take 7.03 seconds driving at 32kmh
+[02:18:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:18:40] (POKESTOP) Heritage Tree Leban Malayan Teak in 41.94 m distance
+[02:18:40] (NAVIGATION) Distance to target location: 41.94 meters. Will take 4.87 seconds driving at 31kmh
+[02:18:43] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:18:45] (POKESTOP) Singapore. Park insects in 175.19 m distance
+[02:18:45] (NAVIGATION) Distance to target location: 175.19 meters. Will take 19.71 seconds driving at 32kmh
+[02:19:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:19:05] (INFO) Found 4 Recyclable Items:
+[02:19:05] (RECYCLING) RazzBerry x 1
+[02:19:06] (RECYCLING) PokeBall x 12
+[02:19:07] (RECYCLING) Potion x 1
+[02:19:09] (RECYCLING) Revive x 1
+[02:19:11] (POKESTOP) Guardian of the Grove in 62.11 m distance
+[02:19:11] (NAVIGATION) Distance to target location: 62.11 meters. Will take 6.99 seconds driving at 32kmh
+[02:19:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
+[02:19:18] (POKESTOP) The Dragon Hut in 93.22 m distance
+[02:19:18] (NAVIGATION) Distance to target location: 93.22 meters. Will take 11.19 seconds driving at 30kmh
+[02:19:28] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemRazzBerry, 1 x ItemPokeBall, 2 x ItemPotion
+[02:19:29] (POKESTOP) Siloso Light Source  in 187.52 m distance
+[02:19:29] (NAVIGATION) Distance to target location: 187.52 meters. Will take 19.86 seconds driving at 34kmh
+[02:19:45] (INFO) Found 2 catchable Pokemon
+[02:19:47] (Wild Success) | Abra 131 V |  154 Cp | 38.84% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
