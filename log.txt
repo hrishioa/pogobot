@@ -22139,3 +22139,16 @@
 [08:23:02] (NAVIGATION) Distance to target location: 140.54 meters. Will take 16.87 seconds driving at 30kmh
 [08:23:14] (INFO) Found 1 catchable Pokemon
 [08:23:16] (Wild Success) | Pidgey 115 V |  304 Cp | 34.83% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[08:23:18] (INFO) Found 1 pokemon to transfer...
+[08:23:19] (TRANSFER) Pidgey 115 V |  304 Cp | 34.83% | Lvl 19 | Best: [Pidgey 144 V |  330 Cp | 60.79% | Lvl 19] | Candy: 1011
+[08:23:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[08:23:23] (POKESTOP) First the Dream Then the Nightmare in 84 m distance
+[08:23:23] (NAVIGATION) Distance to target location: 84 meters. Will take 9.75 seconds driving at 31kmh
+[08:23:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:23:32] (POKESTOP) Lucy's Left Ear in 53.7 m distance
+[08:23:32] (NAVIGATION) Distance to target location: 53.7 meters. Will take 6.9 seconds driving at 28kmh
+[08:23:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:23:39] (POKESTOP) Survival Mask in 65.1 m distance
+[08:23:39] (NAVIGATION) Distance to target location: 65.1 meters. Will take 8.37 seconds driving at 28kmh
+[08:23:41] (INFO) Found 1 catchable Pokemon
+[08:23:43] (Wild Success) | Zubat 116 V |   75 Cp | 53.18% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
