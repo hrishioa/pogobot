@@ -39062,3 +39062,9 @@
 [23:55:15] (INFO) Found 2 catchable Pokemon
 [23:55:16] (Wild Success) | Magikarp 97 V |  112 Cp | 60.69% | Lvl 18 | Chance: 0.49 | with a GreatBall and received XP 210
 [23:55:18] (Wild Success) | Psyduck 97 V |  209 Cp | 24.18% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:55:20] (INFO) Found 2 pokemon to transfer...
+[23:55:21] (TRANSFER) Psyduck 97 V |  209 Cp | 24.18% | Lvl 08 | Best: [Psyduck 179 V |  598 Cp | 33.85% | Lvl 22] | Candy: 145
+[23:55:23] (TRANSFER) Magikarp 97 V |  112 Cp | 60.69% | Lvl 18 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 285
+[23:55:25] (INFO) Found 2 catchable Pokemon
+[23:55:25] (BERRY) ItemRazzBerry used, remaining: 51
+[23:55:27] (Wild Success) | Spearow 140 V |  381 Cp | 42.01% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
