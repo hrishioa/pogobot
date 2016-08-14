@@ -41966,3 +41966,15 @@
 [01:21:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
 [01:21:10] (INFO) Found 1 catchable Pokemon
 [01:21:12] (Wild Success) | Magikarp 107 V |   93 Cp | 72.81% | Lvl 14 | Chance: 0.56 | with a PokeBall and received XP 210
+[01:21:14] (INFO) Found 1 pokemon to transfer...
+[01:21:15] (TRANSFER) Magikarp 107 V |   93 Cp | 72.81% | Lvl 14 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 329
+[01:21:16] (POKESTOP) Royal Fountain in 60.76 m distance
+[01:21:16] (NAVIGATION) Distance to target location: 60.76 meters. Will take 7.06 seconds driving at 31kmh
+[01:21:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[01:21:22] (INFO) Found 4 Recyclable Items:
+[01:21:22] (RECYCLING) RazzBerry x 1
+[01:21:23] (RECYCLING) PokeBall x 4
+[01:21:24] (RECYCLING) Potion x 3
+[01:21:24] (RECYCLING) SuperPotion x 1
+[01:21:27] (INFO) Found 1 catchable Pokemon
+[01:21:29] (Wild Success) | Pikachu 113 V |  188 Cp | 29.31% | Lvl 09 | Chance: 0.2 | with a GreatBall and received XP 210
