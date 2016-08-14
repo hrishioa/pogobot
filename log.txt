@@ -35302,3 +35302,20 @@
 [21:39:14] (INFO) Found 2 catchable Pokemon
 [21:39:15] (Wild Success) | Krabby 128 V |   32 Cp | 67.93% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
 [21:39:17] (Wild Success) | Pidgey 118 V |  258 Cp | 37.19% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
+[21:39:19] (INFO) Found 2 pokemon to transfer...
+[21:39:20] (TRANSFER) Krabby 128 V |   32 Cp | 67.93% | Lvl 02 | Best: [Krabby 178 V |  430 Cp | 80.74% | Lvl 20] | Candy: 205
+[21:39:22] (TRANSFER) Pidgey 118 V |  258 Cp | 37.19% | Lvl 16 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1370
+[21:39:27] (POKESTOP) Survival (Rocker) in 72.92 m distance
+[21:39:27] (NAVIGATION) Distance to target location: 72.92 meters. Will take 8.2 seconds driving at 32kmh
+[21:39:35] (POKESTOP) Saying By The Founder in 147.45 m distance
+[21:39:35] (NAVIGATION) Distance to target location: 147.45 meters. Will take 18.3 seconds driving at 29kmh
+[21:39:53] (POKESTOP) The Odyssey in 76.6 m distance
+[21:39:53] (NAVIGATION) Distance to target location: 76.6 meters. Will take 9.85 seconds driving at 28kmh
+[21:40:02] (POKESTOP) Reaching Out in 57.65 m distance
+[21:40:02] (NAVIGATION) Distance to target location: 57.65 meters. Will take 7.16 seconds driving at 29kmh
+[21:40:09] (POKESTOP) Refugees (Flight II) in 42.81 m distance
+[21:40:09] (NAVIGATION) Distance to target location: 42.81 meters. Will take 5.5 seconds driving at 28kmh
+[21:40:13] (POKESTOP) Waves and Particles - NUS Science Faculty in 107.21 m distance
+[21:40:13] (NAVIGATION) Distance to target location: 107.21 meters. Will take 13.31 seconds driving at 29kmh
+[21:40:17] (INFO) Found 2 catchable Pokemon
+[21:40:19] (Wild Success) | Ekans 120 V |  298 Cp | 38.13% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
