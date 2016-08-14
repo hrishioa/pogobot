@@ -38126,3 +38126,10 @@
 [23:20:16] (TRANSFER) Voltorb 166 V |  399 Cp | 49.11% | Lvl 19 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 44
 [23:20:18] (INFO) Found 1 catchable Pokemon
 [23:20:19] (Wild Success) | Magikarp 111 V |   81 Cp | 78.19% | Lvl 12 | Chance: 0.6 | with a PokeBall and received XP 210
+[23:20:21] (INFO) Found 1 pokemon to transfer...
+[23:20:23] (TRANSFER) Magikarp 111 V |   81 Cp | 78.19% | Lvl 12 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 253
+[23:20:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[23:20:27] (POKESTOP) Cove Gazebo #3 in 234.64 m distance
+[23:20:27] (NAVIGATION) Distance to target location: 234.64 meters. Will take 19.64 seconds driving at 43kmh
+[23:20:39] (INFO) Found 1 catchable Pokemon
+[23:20:40] (Wild Success) | Tentacool 88 V |  353 Cp | 38.72% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 210
