@@ -35321,3 +35321,8 @@
 [21:40:19] (Wild Success) | Ekans 120 V |  298 Cp | 38.13% | Lvl 15 | Chance: 0.38 | with a UltraBall and received XP 210
 [21:40:21] (BERRY) ItemRazzBerry used, remaining: 43
 [21:40:21] (Wild Success) | Arbok 181 V |  373 Cp | 63.51% | Lvl 08 | Chance: 0.21 | with a UltraBall and received XP 210
+[21:40:23] (INFO) Found 2 pokemon to transfer...
+[21:40:25] (TRANSFER) Arbok 135 V |  120 Cp | 52.54% | Lvl 03 | Best: [Arbok 195 V |  834 Cp | 52.16% | Lvl 18] | Candy: 235
+[21:40:27] (TRANSFER) Ekans 120 V |  298 Cp | 38.13% | Lvl 15 | Best: [Ekans 164 V |  273 Cp | 57.27% | Lvl 13] | Candy: 236
+[21:40:28] (INFO) Found 1 catchable Pokemon
+[21:40:30] (Wild Success) | Pidgey 85 V |   24 Cp | 27.57% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
