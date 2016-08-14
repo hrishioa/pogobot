@@ -31865,3 +31865,9 @@
 [14:24:06] (NAVIGATION) Distance to target location: 60.52 meters. Will take 7.03 seconds driving at 31kmh
 [14:24:10] (INFO) Found 1 catchable Pokemon
 [14:24:12] (Wild Success) | Rattata 146 V |  271 Cp | 51.76% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[14:24:14] (INFO) Found 1 pokemon to transfer...
+[14:24:16] (TRANSFER) Rattata 146 V |  271 Cp | 51.76% | Lvl 19 | Best: [Rattata 165 V |  232 Cp | 76.54% | Lvl 15] | Candy: 733
+[14:24:17] (POKESTOP) West Coast Market in 98.37 m distance
+[14:24:17] (NAVIGATION) Distance to target location: 98.37 meters. Will take 11.8 seconds driving at 30kmh
+[14:24:23] (INFO) Found 1 catchable Pokemon
+[14:24:25] (Wild Success) | Rattata 140 V |  160 Cp | 57.32% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
