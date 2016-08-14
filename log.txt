@@ -24013,3 +24013,16 @@
 [09:25:16] (TRANSFER) Pidgey 125 V |  309 Cp | 39.22% | Lvl 19 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1110
 [09:25:18] (INFO) Found 1 catchable Pokemon
 [09:25:20] (Wild Success) | Pidgey 63 V |   10 Cp | 16.82% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[09:25:22] (INFO) Found 1 pokemon to transfer...
+[09:25:24] (TRANSFER) Pidgey 63 V |   10 Cp | 16.82% | Lvl 01 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1114
+[09:25:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[09:25:28] (POKESTOP) West Coast Green Zone in 39.57 m distance
+[09:25:28] (NAVIGATION) Distance to target location: 39.57 meters. Will take 4.75 seconds driving at 30kmh
+[09:25:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[09:25:33] (POKESTOP) Cempaka 2004 in 53.26 m distance
+[09:25:33] (NAVIGATION) Distance to target location: 53.26 meters. Will take 6.39 seconds driving at 30kmh
+[09:25:38] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemGreatBall, 4 x ItemPokeBall
+[09:25:39] (POKESTOP) The Right Horn Sculpture in 205.27 m distance
+[09:25:39] (NAVIGATION) Distance to target location: 205.27 meters. Will take 19.97 seconds driving at 37kmh
+[09:25:46] (INFO) Found 1 catchable Pokemon
+[09:25:47] (Wild Success) | Weedle 65 V |  176 Cp | 14.63% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
