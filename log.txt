@@ -29776,3 +29776,5 @@
 [13:07:48] (TRANSFER) Bellsprout 139 V |  625 Cp | 49.99% | Lvl 22 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 296
 [13:07:55] (INFO) Found 2 catchable Pokemon
 [13:07:57] (Wild Success) | Caterpie 81 V |   64 Cp | 20.42% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[13:07:58] (BERRY) ItemRazzBerry used, remaining: 48
+[13:08:00] (Wild Success) | Golbat 186 V |  806 Cp | 50.33% | Lvl 16 | Chance: 0.14 | with a GreatBall and received XP 210
