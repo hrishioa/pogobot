@@ -29532,3 +29532,4 @@
 [13:00:08] (INFO) Found 3 catchable Pokemon
 [13:00:10] (Wild Success) | Eevee 175 V |  111 Cp | 96.75% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
 [13:00:11] (Wild Success) | Paras 134 V |  299 Cp | 49.27% | Lvl 13 | Chance: 0.33 | with a GreatBall and received XP 210
+[13:00:14] (Wild Success) | Zubat 134 V |  252 Cp | 49.37% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
