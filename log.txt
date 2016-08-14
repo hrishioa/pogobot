@@ -44823,3 +44823,18 @@
 [02:47:46] (TRANSFER) Caterpie 120 V |  148 Cp | 49.77% | Lvl 14 | Best: [Caterpie 163 V |  244 Cp | 88.98% | Lvl 20] | Candy: 215
 [02:47:48] (INFO) Found 1 catchable Pokemon
 [02:47:49] (Wild Success) | Ekans 108 V |   30 Cp | 37.75% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 210
+[02:47:51] (INFO) Found 1 pokemon to transfer...
+[02:47:53] (TRANSFER) Ekans 108 V |   30 Cp | 37.75% | Lvl 02 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 118
+[02:47:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion
+[02:47:55] (POKESTOP) The Wall of The Brick Cutting in 37.84 m distance
+[02:47:55] (NAVIGATION) Distance to target location: 37.84 meters. Will take 4.7 seconds driving at 29kmh
+[02:47:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:47:59] (INFO) Found 3 Recyclable Items:
+[02:47:59] (RECYCLING) PokeBall x 8
+[02:48:00] (RECYCLING) Potion x 3
+[02:48:01] (RECYCLING) Revive x 1
+[02:48:03] (POKESTOP) Seascape Mural in 118.88 m distance
+[02:48:03] (NAVIGATION) Distance to target location: 118.88 meters. Will take 13.8 seconds driving at 31kmh
+[02:48:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
+[02:48:16] (INFO) Found 1 catchable Pokemon
+[02:48:17] (Wild Success) | Ekans 102 V |  272 Cp | 8.37% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
