@@ -40682,3 +40682,19 @@
 [00:43:49] (Wild Success) | Zubat 136 V |  344 Cp | 46.77% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
 [00:43:50] (BERRY) ItemRazzBerry used, remaining: 48
 [00:43:51] (Wild Success) | Meowth 160 V |  360 Cp | 52.46% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[00:43:53] (INFO) Found 2 pokemon to transfer...
+[00:43:54] (TRANSFER) Meowth 160 V |  360 Cp | 52.46% | Lvl 19 | Best: [Meowth 169 V |  184 Cp | 81.42% | Lvl 09] | Candy: 65
+[00:43:57] (TRANSFER) Zubat 136 V |  344 Cp | 46.77% | Lvl 22 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 688
+[00:43:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[00:43:59] (INFO) Found 2 Recyclable Items:
+[00:44:00] (RECYCLING) PokeBall x 8
+[00:44:01] (RECYCLING) Revive x 1
+[00:44:03] (POKESTOP) |œ>\îr in 64.13 m distance
+[00:44:03] (NAVIGATION) Distance to target location: 64.13 meters. Will take 7.22 seconds driving at 32kmh
+[00:44:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:44:10] (POKESTOP) Merlion - Sentosa Island in 69.43 m distance
+[00:44:10] (NAVIGATION) Distance to target location: 69.43 meters. Will take 8.93 seconds driving at 28kmh
+[00:44:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:44:19] (INFO) Found 1 catchable Pokemon
+[00:44:20] (BERRY) ItemRazzBerry used, remaining: 47
+[00:44:20] (Wild Success) | Dratini 177 V |  455 Cp | 56.33% | Lvl 18 | Chance: 0.28 | with a GreatBall and received XP 210
