@@ -28744,3 +28744,18 @@
 [12:24:07] (NAVIGATION) Distance to target location: 271.6 meters. Will take 19.95 seconds driving at 49kmh
 [12:24:22] (INFO) Found 1 catchable Pokemon
 [12:24:24] (Wild Success) | Eevee 151 V |  106 Cp | 75.17% | Lvl 04 | Chance: 0.62 | with a PokeBall and received XP 210
+[12:24:26] (INFO) Found 1 pokemon to transfer...
+[12:24:28] (TRANSFER) Eevee 151 V |  106 Cp | 75.17% | Lvl 04 | Best: [Eevee 200 V |  607 Cp | 71.93% | Lvl 21] | Candy: 76
+[12:24:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:24:32] (INFO) Found 3 Recyclable Items:
+[12:24:32] (RECYCLING) RazzBerry x 1
+[12:24:34] (RECYCLING) PokeBall x 7
+[12:24:34] (RECYCLING) Potion x 2
+[12:24:37] (POKESTOP) Gold Coast Fountain of Wealth in 140.67 m distance
+[12:24:38] (NAVIGATION) Distance to target location: 140.67 meters. Will take 18.09 seconds driving at 28kmh
+[12:24:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemPokeBall, 1 x ItemSuperPotion
+[12:24:55] (POKESTOP) Nazareth Bible-Presbyterian Church in 82.17 m distance
+[12:24:55] (NAVIGATION) Distance to target location: 82.17 meters. Will take 10.2 seconds driving at 29kmh
+[12:25:03] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemRazzBerry, 1 x ItemSuperPotion
+[12:25:04] (INFO) Found 1 catchable Pokemon
+[12:25:06] (Wild Success) | Oddish 122 V |  133 Cp | 35.21% | Lvl 05 | Chance: 0.82 | with a PokeBall and received XP 210
