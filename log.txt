@@ -39857,3 +39857,11 @@
 [00:19:55] (NAVIGATION) Distance to target location: 83.57 meters. Will take 10.03 seconds driving at 30kmh
 [00:19:56] (INFO) Found 1 catchable Pokemon
 [00:19:58] (Wild Success) | Caterpie 78 V |  162 Cp | 12.18% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[00:19:59] (INFO) Found 1 pokemon to transfer...
+[00:20:01] (TRANSFER) Caterpie 78 V |  162 Cp | 12.18% | Lvl 18 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 169
+[00:20:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:20:06] (POKESTOP) Beacon of Enlightenment  in 60.87 m distance
+[00:20:06] (NAVIGATION) Distance to target location: 60.87 meters. Will take 7.07 seconds driving at 31kmh
+[00:20:10] (INFO) Found 1 catchable Pokemon
+[00:20:10] (BERRY) ItemRazzBerry used, remaining: 49
+[00:20:12] (Wild Success) | Ponyta 207 V |  790 Cp | 53.00% | Lvl 20 | Chance: 0.26 | with a GreatBall and received XP 210
