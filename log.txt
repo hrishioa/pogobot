@@ -22466,3 +22466,7 @@
 [08:33:02] (NAVIGATION) Distance to target location: 137.14 meters. Will take 16.46 seconds driving at 30kmh
 [08:33:08] (INFO) Found 1 catchable Pokemon
 [08:33:09] (Wild Success) | Venonat 172 V |  355 Cp | 68.64% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[08:33:11] (INFO) Found 1 pokemon to transfer...
+[08:33:13] (TRANSFER) Venonat 172 V |  355 Cp | 68.64% | Lvl 13 | Best: [Venonat 188 V |  598 Cp | 65.68% | Lvl 22] | Candy: 142
+[08:33:14] (INFO) Found 1 catchable Pokemon
+[08:33:16] (Wild Success) | Zubat 122 V |  186 Cp | 43.25% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
