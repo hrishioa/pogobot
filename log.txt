@@ -23853,3 +23853,10 @@
 [09:21:32] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemSuperPotion
 [09:21:33] (INFO) Found 1 catchable Pokemon
 [09:21:35] (Wild Success) | Weedle 104 V |  142 Cp | 35.18% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[09:21:37] (INFO) Found 1 pokemon to transfer...
+[09:21:38] (TRANSFER) Weedle 104 V |  142 Cp | 35.18% | Lvl 14 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 479
+[09:21:39] (POKESTOP) Statue of Family in 84.4 m distance
+[09:21:39] (NAVIGATION) Distance to target location: 84.4 meters. Will take 10.13 seconds driving at 30kmh
+[09:21:41] (INFO) Found 1 catchable Pokemon
+[09:21:41] (BERRY) ItemRazzBerry used, remaining: 47
+[09:21:43] (Wild Success) | Ekans 90 V |  378 Cp | 38.42% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
