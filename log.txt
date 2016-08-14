@@ -44384,3 +44384,5 @@
 [02:33:21] (NAVIGATION) Distance to target location: 69.92 meters. Will take 8.39 seconds driving at 30kmh
 [02:33:27] (INFO) Found 5 catchable Pokemon
 [02:33:28] (Wild Success) | Voltorb 129 V |  228 Cp | 44.23% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:33:30] (BERRY) ItemRazzBerry used, remaining: 49
+[02:33:30] (Wild Success) | Magnemite 194 V |  537 Cp | 68.18% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
