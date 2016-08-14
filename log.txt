@@ -40068,3 +40068,44 @@
 [00:27:34] (NAVIGATION) Distance to target location: 28.7 meters. Will take 3.23 seconds driving at 32kmh
 [00:27:36] (INFO) Found 1 catchable Pokemon
 [00:27:37] (Wild Success) | Tentacool 111 V |  153 Cp | 44.33% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[00:27:39] (INFO) Found 1 pokemon to transfer...
+[00:27:41] (TRANSFER) Tentacool 111 V |  153 Cp | 44.33% | Lvl 07 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 68
+[00:27:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemHyperPotion
+[00:27:43] (INFO) Found 5 Recyclable Items:
+[00:27:43] (RECYCLING) PokeBall x 4
+[00:27:44] (RECYCLING) Potion x 1
+[00:27:45] (RECYCLING) SuperPotion x 1
+[00:27:46] (RECYCLING) HyperPotion x 2
+[00:27:47] (RECYCLING) Revive x 1
+[00:27:50] (POKESTOP) Coloured Roofs in 114.64 m distance
+[00:27:50] (NAVIGATION) Distance to target location: 114.64 meters. Will take 14.74 seconds driving at 28kmh
+[00:27:56] (INFO) Found 1 catchable Pokemon
+[00:27:57] (Wild Escape) | Voltorb 167 V |  198 Cp | 70.05% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[00:27:58] (Wild Success Attempt #2) | Voltorb 167 V |  198 Cp | 70.05% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[00:28:00] (INFO) Found 1 pokemon to transfer...
+[00:28:02] (TRANSFER) Voltorb 167 V |  198 Cp | 70.05% | Lvl 09 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 100
+[00:28:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:28:07] (POKESTOP) Metal Vines Gateway in 56.7 m distance
+[00:28:07] (NAVIGATION) Distance to target location: 56.7 meters. Will take 6.38 seconds driving at 32kmh
+[00:28:12] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 4 x ItemPokeBall
+[00:28:14] (POKESTOP) Sharity Lion Statue in 70.65 m distance
+[00:28:14] (NAVIGATION) Distance to target location: 70.65 meters. Will take 8.77 seconds driving at 29kmh
+[00:28:20] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall, 1 x ItemPotion
+[00:28:22] (POKESTOP) River God of Merlion in 58.2 m distance
+[00:28:22] (NAVIGATION) Distance to target location: 58.2 meters. Will take 7.23 seconds driving at 29kmh
+[00:28:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:28:28] (POKESTOP) Lady In Wood in 126.02 m distance
+[00:28:28] (NAVIGATION) Distance to target location: 126.02 meters. Will take 16.2 seconds driving at 28kmh
+[00:28:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:28:43] (INFO) Found 4 Recyclable Items:
+[00:28:44] (RECYCLING) PokeBall x 7
+[00:28:45] (RECYCLING) Potion x 1
+[00:28:47] (RECYCLING) SuperPotion x 1
+[00:28:48] (RECYCLING) Revive x 2
+[00:28:50] (POKESTOP) Jingle Bells Gateways in 191.01 m distance
+[00:28:50] (NAVIGATION) Distance to target location: 191.01 meters. Will take 19.65 seconds driving at 35kmh
+[00:29:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[00:29:09] (POKESTOP) Keg Shelter at Port of Lost Wonder in 330.64 m distance
+[00:29:09] (NAVIGATION) Distance to target location: 330.64 meters. Will take 19.84 seconds driving at 60kmh
+[00:29:11] (INFO) Found 1 catchable Pokemon
+[00:29:13] (Wild Success) | Voltorb 182 V |  386 Cp | 78.21% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
