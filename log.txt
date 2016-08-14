@@ -37279,3 +37279,5 @@
 [22:50:21] (INFO) Found 2 catchable Pokemon
 [22:50:22] (BERRY) ItemRazzBerry used, remaining: 46
 [22:50:24] (Wild Success) | Drowzee 179 V |  631 Cp | 51.09% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
+[22:50:25] (BERRY) ItemRazzBerry used, remaining: 45
+[22:50:26] (Wild Success) | Paras 152 V |  378 Cp | 59.32% | Lvl 16 | Chance: 0.29 | with a UltraBall and received XP 210
