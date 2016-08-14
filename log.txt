@@ -40778,3 +40778,4 @@
 [00:47:22] (Wild Success) | Magnemite 146 V |  280 Cp | 68.44% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
 [00:47:23] (BERRY) ItemRazzBerry used, remaining: 47
 [00:47:24] (Wild Success) | Voltorb 166 V |  425 Cp | 54.09% | Lvl 20 | Chance: 0.33 | with a GreatBall and received XP 210
+[00:47:26] (Wild Success) | Magnemite 112 V |  206 Cp | 25.63% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
