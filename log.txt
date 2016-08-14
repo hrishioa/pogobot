@@ -45116,3 +45116,11 @@
 [02:57:37] (BERRY) ItemRazzBerry used, remaining: 44
 [02:57:37] (Wild Success) | Ekans 130 V |  450 Cp | 32.54% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
 [02:57:39] (Wild Success) | Diglett 110 V |  105 Cp | 50.17% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
+[02:57:40] (Wild Escape) | Sandshrew 134 V |  181 Cp | 56.29% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[02:57:41] (Wild Success Attempt #2) | Sandshrew 134 V |  181 Cp | 56.29% | Lvl 09 | Chance: 0.5 | with a PokeBall 
+[02:57:43] (INFO) Found 3 pokemon to transfer...
+[02:57:44] (TRANSFER) Paras 161 V |  425 Cp | 58.67% | Lvl 18 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 136
+[02:57:47] (TRANSFER) Ekans 130 V |  450 Cp | 32.54% | Lvl 23 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 138
+[02:57:49] (TRANSFER) Sandshrew 134 V |  181 Cp | 56.29% | Lvl 09 | Best: [Sandshrew 150 V |   57 Cp | 86.77% | Lvl 03] | Candy: 78
+[02:57:50] (INFO) Found 2 catchable Pokemon
+[02:57:52] (Wild Success) | Zubat 116 V |  126 Cp | 53.16% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
