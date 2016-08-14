@@ -44838,3 +44838,10 @@
 [02:48:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemRevive, 1 x ItemPokeBall
 [02:48:16] (INFO) Found 1 catchable Pokemon
 [02:48:17] (Wild Success) | Ekans 102 V |  272 Cp | 8.37% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[02:48:19] (INFO) Found 1 pokemon to transfer...
+[02:48:21] (TRANSFER) Ekans 102 V |  272 Cp | 8.37% | Lvl 15 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 122
+[02:48:21] (POKESTOP) Labrador Seafood - Lobster in 99.47 m distance
+[02:48:21] (NAVIGATION) Distance to target location: 99.47 meters. Will take 12.35 seconds driving at 29kmh
+[02:48:23] (INFO) Found 1 catchable Pokemon
+[02:48:24] (BERRY) ItemRazzBerry used, remaining: 46
+[02:48:25] (Wild Success) | Goldeen 205 V |  618 Cp | 71.35% | Lvl 24 | Chance: 0.3 | with a GreatBall and received XP 210
