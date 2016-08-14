@@ -40023,3 +40023,12 @@
 [00:26:13] (TRANSFER) Magnemite 113 V |  315 Cp | 31.38% | Lvl 15 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 78
 [00:26:14] (INFO) Found 1 catchable Pokemon
 [00:26:16] (Wild Success) | Magnemite 154 V |  402 Cp | 52.27% | Lvl 18 | Chance: 0.35 | with a GreatBall and received XP 210
+[00:26:17] (INFO) Found 1 pokemon to transfer...
+[00:26:19] (TRANSFER) Magnemite 152 V |  439 Cp | 46.03% | Lvl 20 | Best: [Magnemite 155 V |  445 Cp | 51.32% | Lvl 20] | Candy: 82
+[00:26:21] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[00:26:22] (POKESTOP) Wine Art in 47.33 m distance
+[00:26:22] (NAVIGATION) Distance to target location: 47.33 meters. Will take 5.5 seconds driving at 31kmh
+[00:26:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall, 1 x ItemPotion
+[00:26:28] (INFO) Found 1 catchable Pokemon
+[00:26:29] (BERRY) ItemRazzBerry used, remaining: 49
+[00:26:30] (Wild Success) | Charmander 139 V |  403 Cp | 43.93% | Lvl 17 | Chance: 0.14 | with a GreatBall and received XP 210
