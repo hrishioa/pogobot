@@ -36564,3 +36564,10 @@
 [22:27:00] (TRANSFER) Spearow 100 V |  192 Cp | 31.17% | Lvl 12 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 223
 [22:27:02] (INFO) Found 1 catchable Pokemon
 [22:27:03] (Wild Success) | Eevee 128 V |   14 Cp | 67.32% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:27:05] (INFO) Found 1 pokemon to transfer...
+[22:27:06] (TRANSFER) Eevee 128 V |   14 Cp | 67.32% | Lvl 01 | Best: [Eevee 184 V |  408 Cp | 76.28% | Lvl 14] | Candy: 47
+[22:27:08] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[22:27:10] (POKESTOP) Butterfly Primer in 146.28 m distance
+[22:27:10] (NAVIGATION) Distance to target location: 146.28 meters. Will take 16.99 seconds driving at 31kmh
+[22:27:14] (INFO) Found 1 catchable Pokemon
+[22:27:15] (Wild Success) | Seel 151 V |  273 Cp | 83.59% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 710
