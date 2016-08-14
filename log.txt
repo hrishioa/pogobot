@@ -30321,3 +30321,12 @@
 [13:30:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
 [13:30:13] (INFO) Found 1 catchable Pokemon
 [13:30:15] (Wild Success) | Bellsprout 139 V |  394 Cp | 20.31% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
+[13:30:17] (INFO) Found 1 pokemon to transfer...
+[13:30:18] (TRANSFER) Bellsprout 139 V |  394 Cp | 20.31% | Lvl 15 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 336
+[13:30:19] (POKESTOP) Blue Dragon Boat  in 48.33 m distance
+[13:30:19] (NAVIGATION) Distance to target location: 48.33 meters. Will take 5.8 seconds driving at 30kmh
+[13:30:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[13:30:25] (POKESTOP) Campsite Area in 56.26 m distance
+[13:30:25] (NAVIGATION) Distance to target location: 56.26 meters. Will take 6.53 seconds driving at 31kmh
+[13:30:27] (INFO) Found 1 catchable Pokemon
+[13:30:28] (Wild Success) | Pidgey 100 V |  172 Cp | 27.82% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
