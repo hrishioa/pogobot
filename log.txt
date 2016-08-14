@@ -35350,3 +35350,13 @@
 [21:41:25] (TRANSFER) Zubat 156 V |  318 Cp | 68.70% | Lvl 19 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 998
 [21:41:33] (INFO) Found 1 catchable Pokemon
 [21:41:34] (Wild Success) | Zubat 115 V |   60 Cp | 63.76% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[21:41:36] (INFO) Found 1 pokemon to transfer...
+[21:41:37] (TRANSFER) Zubat 115 V |   60 Cp | 63.76% | Lvl 04 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 1002
+[21:41:40] (POKESTOP) Shark Mural in 47.69 m distance
+[21:41:40] (NAVIGATION) Distance to target location: 47.69 meters. Will take 6.13 seconds driving at 28kmh
+[21:41:46] (POKESTOP) Fab Lab 2 in 44.18 m distance
+[21:41:46] (NAVIGATION) Distance to target location: 44.18 meters. Will take 4.97 seconds driving at 32kmh
+[21:41:51] (POKESTOP) Shield Art in 106.8 m distance
+[21:41:51] (NAVIGATION) Distance to target location: 106.8 meters. Will take 13.73 seconds driving at 28kmh
+[21:42:01] (INFO) Found 1 catchable Pokemon
+[21:42:02] (Wild Success) | Zubat 115 V |  264 Cp | 44.07% | Lvl 17 | Chance: 0.36 | with a UltraBall and received XP 210
