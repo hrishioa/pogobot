@@ -33078,3 +33078,6 @@
 [20:23:27] (INFO) Found 1 catchable Pokemon
 [20:23:28] (BERRY) ItemRazzBerry used, remaining: 48
 [20:23:29] (Wild Success) | Scyther 213 V |  927 Cp | 49.72% | Lvl 17 | Chance: 0.21 | with a UltraBall and received XP 420
+[20:23:33] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:23:34] (INFO) Found 1 catchable Pokemon
+[20:23:36] (Wild Success) | Weedle 99 V |   98 Cp | 57.18% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
