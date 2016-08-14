@@ -28084,3 +28084,34 @@
 [12:00:24] (INFO) Found 1 catchable Pokemon
 [12:00:25] (BERRY) ItemRazzBerry used, remaining: 49
 [12:00:27] (Wild Success) | Zubat 175 V |  378 Cp | 62.40% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
+[12:00:29] (INFO) Found 1 pokemon to transfer...
+[12:00:30] (TRANSFER) Zubat 175 V |  378 Cp | 62.40% | Lvl 23 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 806
+[12:00:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemMaxPotion, 1 x ItemGreatBall, 1 x ItemPokeBall
+[12:00:38] (POKESTOP) Clementi Woods Playground in 494.93 m distance
+[12:00:38] (NAVIGATION) Distance to target location: 494.93 meters. Will take 25.45 seconds driving at 70kmh
+[12:01:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:01:05] (POKESTOP) Clementi Woods Fitness Corner in 172.51 m distance
+[12:01:05] (NAVIGATION) Distance to target location: 172.51 meters. Will take 19.41 seconds driving at 32kmh
+[12:01:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:01:25] (POKESTOP) Ten Two Six in 289.11 m distance
+[12:01:25] (NAVIGATION) Distance to target location: 289.11 meters. Will take 19.64 seconds driving at 53kmh
+[12:01:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:01:46] (POKESTOP) Veranda Sculpture in 50.35 m distance
+[12:01:46] (NAVIGATION) Distance to target location: 50.35 meters. Will take 5.66 seconds driving at 32kmh
+[12:01:51] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:01:52] (INFO) Found 1 Recyclable Item:
+[12:01:52] (RECYCLING) PokeBall x 1
+[12:01:54] (POKESTOP) Temasek Laboratories at NUS in 392.95 m distance
+[12:01:54] (NAVIGATION) Distance to target location: 392.95 meters. Will take 20.21 seconds driving at 70kmh
+[12:02:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:02:18] (POKESTOP) Wall Of Innovations And Enterprise in 65.32 m distance
+[12:02:18] (NAVIGATION) Distance to target location: 65.32 meters. Will take 7.59 seconds driving at 31kmh
+[12:02:25] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:02:26] (POKESTOP) Raffles Hall Art Piece (1984/85) in 188.68 m distance
+[12:02:26] (NAVIGATION) Distance to target location: 188.68 meters. Will take 19.98 seconds driving at 34kmh
+[12:02:45] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[12:02:46] (POKESTOP) Raffles Hall in 101.38 m distance
+[12:02:46] (NAVIGATION) Distance to target location: 101.38 meters. Will take 12.17 seconds driving at 30kmh
+[12:02:54] (INFO) Found 1 catchable Pokemon
+[12:02:56] (BERRY) ItemRazzBerry used, remaining: 48
+[12:02:56] (Wild Success) | Bellsprout 208 V |  639 Cp | 78.84% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
