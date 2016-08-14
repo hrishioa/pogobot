@@ -44781,3 +44781,25 @@
 [02:45:48] (INFO) Found 2 catchable Pokemon
 [02:45:50] (Wild Success) | NidoranMale 90 V |  180 Cp | 33.47% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
 [02:45:52] (Wild Success) | Grimer 112 V |   51 Cp | 52.11% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 710
+[02:45:53] (INFO) Found 1 pokemon to transfer...
+[02:45:55] (TRANSFER) NidoranMale 90 V |  180 Cp | 33.47% | Lvl 09 | Best: [NidoranMale 153 V |  345 Cp | 56.84% | Lvl 16] | Candy: 50
+[02:46:00] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[02:46:02] (POKESTOP) 7 Inch RML Gun in 76.38 m distance
+[02:46:02] (NAVIGATION) Distance to target location: 76.38 meters. Will take 8.59 seconds driving at 32kmh
+[02:46:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[02:46:11] (POKESTOP) 64 pounder RML Guns in 152.02 m distance
+[02:46:11] (NAVIGATION) Distance to target location: 152.02 meters. Will take 17.65 seconds driving at 31kmh
+[02:46:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 2 x ItemUltraBall
+[02:46:28] (INFO) Found 4 Recyclable Items:
+[02:46:29] (RECYCLING) PokeBall x 2
+[02:46:30] (RECYCLING) SuperPotion x 1
+[02:46:31] (RECYCLING) HyperPotion x 1
+[02:46:32] (RECYCLING) Revive x 1
+[02:46:35] (POKESTOP) Fort Pasir Panjang Information Panel in 126.51 m distance
+[02:46:35] (NAVIGATION) Distance to target location: 126.51 meters. Will take 16.27 seconds driving at 28kmh
+[02:46:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:46:51] (POKESTOP) Turtle Design Tile Art in 479.54 m distance
+[02:46:51] (NAVIGATION) Distance to target location: 479.54 meters. Will take 24.66 seconds driving at 70kmh
+[02:47:14] (INFO) Found 1 catchable Pokemon
+[02:47:16] (BERRY) ItemRazzBerry used, remaining: 47
+[02:47:16] (Wild Success) | Pinsir 145 V |  497 Cp | 47.87% | Lvl 09 | Chance: 0.3 | with a GreatBall and received XP 210
