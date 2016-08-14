@@ -28127,3 +28127,16 @@
 [12:03:20] (TRANSFER) Poliwag 143 V |  374 Cp | 46.55% | Lvl 19 | Best: [Poliwag 183 V |  440 Cp | 87.21% | Lvl 20] | Candy: 196
 [12:03:21] (INFO) Found 1 catchable Pokemon
 [12:03:23] (Wild Success) | Weedle 90 V |  125 Cp | 23.29% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 210
+[12:03:25] (INFO) Found 1 pokemon to transfer...
+[12:03:26] (TRANSFER) Weedle 90 V |  125 Cp | 23.29% | Lvl 13 | Best: [Weedle 138 V |  202 Cp | 62.54% | Lvl 18] | Candy: 487
+[12:03:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[12:03:29] (INFO) Found 2 Recyclable Items:
+[12:03:29] (RECYCLING) PokeBall x 2
+[12:03:30] (RECYCLING) Revive x 1
+[12:03:33] (POKESTOP) Fire Painting  in 62.98 m distance
+[12:03:33] (NAVIGATION) Distance to target location: 62.98 meters. Will take 7.56 seconds driving at 30kmh
+[12:03:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 3 x ItemPokeBall
+[12:03:40] (POKESTOP) Footprint Bench in 502.4 m distance
+[12:03:40] (NAVIGATION) Distance to target location: 502.4 meters. Will take 25.84 seconds driving at 70kmh
+[12:03:55] (INFO) Found 2 catchable Pokemon
+[12:03:57] (Wild Success) | Caterpie 66 V |  121 Cp | 4.25% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
