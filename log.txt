@@ -42171,3 +42171,10 @@
 [01:28:09] (TRANSFER) Oddish 117 V |  134 Cp | 37.29% | Lvl 05 | Best: [Oddish 193 V |  609 Cp | 66.69% | Lvl 20] | Candy: 37
 [01:28:11] (INFO) Found 1 catchable Pokemon
 [01:28:12] (Wild Success) | Goldeen 118 V |  167 Cp | 52.28% | Lvl 07 | Chance: 0.57 | with a PokeBall and received XP 210
+[01:28:14] (INFO) Found 1 pokemon to transfer...
+[01:28:15] (TRANSFER) Goldeen 118 V |  167 Cp | 52.28% | Lvl 07 | Best: [Goldeen 187 V |  569 Cp | 73.33% | Lvl 22] | Candy: 233
+[01:28:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPokeBall, 1 x ItemPotion, 1 x ItemUltraBall
+[01:28:19] (POKESTOP) Pirate Queen in 67.25 m distance
+[01:28:19] (NAVIGATION) Distance to target location: 67.25 meters. Will take 8.65 seconds driving at 28kmh
+[01:28:23] (INFO) Found 1 catchable Pokemon
+[01:28:25] (Wild Success) | Rattata 123 V |  270 Cp | 35.80% | Lvl 20 | Chance: 0.33 | with a UltraBall and received XP 210
