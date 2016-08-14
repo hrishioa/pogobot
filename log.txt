@@ -44411,3 +44411,30 @@
 [02:34:10] (Wild Success) | Rattata 117 V |  110 Cp | 45.80% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
 [02:34:12] (Wild Success) | Pidgey 112 V |  302 Cp | 32.35% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
 [02:34:14] (Wild Success) | Magnemite 153 V |  319 Cp | 59.04% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
+[02:34:16] (INFO) Found 5 pokemon to transfer...
+[02:34:17] (TRANSFER) Rattata 117 V |  110 Cp | 45.80% | Lvl 08 | Best: [Rattata 157 V |  307 Cp | 59.44% | Lvl 21] | Candy: 420
+[02:34:20] (TRANSFER) Voltorb 194 V |  356 Cp | 95.56% | Lvl 15 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 267
+[02:34:22] (TRANSFER) Voltorb 173 V |  452 Cp | 58.31% | Lvl 21 | Best: [Voltorb 207 V |  521 Cp | 77.60% | Lvl 23] | Candy: 268
+[02:34:24] (TRANSFER) Pidgey 112 V |  302 Cp | 32.35% | Lvl 19 | Best: [Pidgey 179 V |  339 Cp | 89.62% | Lvl 18] | Candy: 756
+[02:34:27] (TRANSFER) Magnemite 153 V |  319 Cp | 59.04% | Lvl 14 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 249
+[02:34:29] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:34:30] (POKESTOP) Fountain of Dreams at RWS in 59.91 m distance
+[02:34:30] (NAVIGATION) Distance to target location: 59.91 meters. Will take 7.44 seconds driving at 29kmh
+[02:34:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[02:34:37] (POKESTOP) Bronze Film Director Sculpture in 92.97 m distance
+[02:34:37] (NAVIGATION) Distance to target location: 92.97 meters. Will take 11.54 seconds driving at 29kmh
+[02:34:47] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 6 x ItemPokeBall
+[02:34:49] (POKESTOP) Happy Colours in 165.17 m distance
+[02:34:49] (NAVIGATION) Distance to target location: 165.17 meters. Will take 19.82 seconds driving at 30kmh
+[02:35:07] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemUltraBall
+[02:35:08] (INFO) Found 4 Recyclable Items:
+[02:35:09] (RECYCLING) PokeBall x 11
+[02:35:10] (RECYCLING) Potion x 1
+[02:35:10] (RECYCLING) SuperPotion x 1
+[02:35:11] (RECYCLING) Revive x 1
+[02:35:14] (POKESTOP) One Ocean One Love in 56.78 m distance
+[02:35:14] (NAVIGATION) Distance to target location: 56.78 meters. Will take 6.39 seconds driving at 32kmh
+[02:35:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[02:35:20] (INFO) Found 2 catchable Pokemon
+[02:35:22] (BERRY) ItemRazzBerry used, remaining: 47
+[02:35:22] (Wild Success) | Horsea 149 V |  412 Cp | 47.81% | Lvl 21 | Chance: 0.32 | with a GreatBall and received XP 210
