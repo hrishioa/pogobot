@@ -28770,3 +28770,13 @@
 [12:25:29] (TRANSFER) Rattata 145 V |  352 Cp | 47.54% | Lvl 25 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 657
 [12:25:30] (INFO) Found 1 catchable Pokemon
 [12:25:32] (Wild Success) | Rattata 121 V |  154 Cp | 46.18% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[12:25:33] (INFO) Found 1 pokemon to transfer...
+[12:25:35] (TRANSFER) Rattata 121 V |  154 Cp | 46.18% | Lvl 11 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 661
+[12:25:37] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[12:25:39] (POKESTOP) Pavillion Area 1  in 280.94 m distance
+[12:25:39] (NAVIGATION) Distance to target location: 280.94 meters. Will take 19.83 seconds driving at 51kmh
+[12:25:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[12:26:00] (POKESTOP) Pavillion Fountain in 109.98 m distance
+[12:26:00] (NAVIGATION) Distance to target location: 109.98 meters. Will take 12.37 seconds driving at 32kmh
+[12:26:11] (INFO) Found 1 catchable Pokemon
+[12:26:12] (Wild Success) | Scyther 145 V |   86 Cp | 60.74% | Lvl 02 | Chance: 0.72 | with a PokeBall and received XP 710
