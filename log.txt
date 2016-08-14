@@ -33145,3 +33145,4 @@
 [20:25:43] (NAVIGATION) Distance to target location: 361 meters. Will take 19.99 seconds driving at 65kmh
 [20:25:59] (INFO) Found 2 catchable Pokemon
 [20:26:01] (Wild Success) | Bellsprout 147 V |  441 Cp | 38.10% | Lvl 16 | Chance: 0.37 | with a UltraBall and received XP 420
+[20:26:02] (Wild Success) | Oddish 136 V |   46 Cp | 63.56% | Lvl 02 | Chance: 1 | with a PokeBall and received XP 420
