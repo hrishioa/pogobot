@@ -45041,3 +45041,30 @@
 [02:53:41] (INFO) Found 1 catchable Pokemon
 [02:53:42] (BERRY) ItemRazzBerry used, remaining: 46
 [02:53:43] (Wild Success) | Dodrio 270 V | 1213 Cp | 78.57% | Lvl 24 | Chance: 0.12 | with a UltraBall and received XP 210
+[02:53:44] (INFO) Found 1 pokemon to transfer...
+[02:53:46] (TRANSFER) Dodrio 215 V |  742 Cp | 66.22% | Lvl 15 | Best: [Dodrio 270 V | 1213 Cp | 78.57% | Lvl 24] | Candy: 29
+[02:53:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[02:53:49] (POKESTOP) Podocarpus Polystachyas in 63.94 m distance
+[02:53:49] (NAVIGATION) Distance to target location: 63.94 meters. Will take 7.42 seconds driving at 31kmh
+[02:53:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemGreatBall, 1 x ItemPokeBall
+[02:53:57] (POKESTOP) Graffiti Wall at Beach Resort in 147.56 m distance
+[02:53:57] (NAVIGATION) Distance to target location: 147.56 meters. Will take 17.71 seconds driving at 30kmh
+[02:54:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[02:54:15] (POKESTOP) The Evolution of Artillery in 177.09 m distance
+[02:54:15] (NAVIGATION) Distance to target location: 177.09 meters. Will take 19.92 seconds driving at 32kmh
+[02:54:33] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[02:54:35] (POKESTOP) Pasir Panjang Beach in 169.85 m distance
+[02:54:35] (NAVIGATION) Distance to target location: 169.85 meters. Will take 19.72 seconds driving at 31kmh
+[02:54:53] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[02:54:54] (INFO) Found 1 Recyclable Item:
+[02:54:54] (RECYCLING) PokeBall x 6
+[02:54:57] (POKESTOP) Labrador Park Maze Exit in 54.07 m distance
+[02:54:57] (NAVIGATION) Distance to target location: 54.07 meters. Will take 6.08 seconds driving at 32kmh
+[02:55:01] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:55:03] (POKESTOP) Octopus Mosaic in 127.16 m distance
+[02:55:03] (NAVIGATION) Distance to target location: 127.16 meters. Will take 14.31 seconds driving at 32kmh
+[02:55:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[02:55:16] (POKESTOP) Sum Kee Guardian Lions in 971.85 m distance
+[02:55:16] (NAVIGATION) Distance to target location: 971.85 meters. Will take 49.98 seconds driving at 70kmh
+[02:55:18] (INFO) Found 1 catchable Pokemon
+[02:55:20] (Wild Success) | Ekans 65 V |  150 Cp | 22.64% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
