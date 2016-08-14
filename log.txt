@@ -41991,3 +41991,9 @@
 [01:21:54] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemGreatBall, 1 x ItemPokeBall
 [01:21:55] (INFO) Found 1 catchable Pokemon
 [01:21:57] (Wild Success) | Pikachu 89 V |   10 Cp | 28.22% | Lvl 01 | Chance: 0.85 | with a PokeBall and received XP 210
+[01:21:59] (INFO) Found 1 pokemon to transfer...
+[01:22:00] (TRANSFER) Pikachu 89 V |   10 Cp | 28.22% | Lvl 01 | Best: [Pikachu 159 V |  385 Cp | 55.84% | Lvl 17] | Candy: 74
+[01:22:01] (POKESTOP) Hyena Gourmet in 118.72 m distance
+[01:22:01] (NAVIGATION) Distance to target location: 118.72 meters. Will take 14.74 seconds driving at 29kmh
+[01:22:09] (INFO) Found 1 catchable Pokemon
+[01:22:11] (Wild Success) | Rattata 124 V |  306 Cp | 31.49% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
