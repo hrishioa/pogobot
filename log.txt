@@ -28438,3 +28438,13 @@
 [12:13:33] (BERRY) ItemRazzBerry used, remaining: 49
 [12:13:34] (Wild Success) | Bellsprout 111 V |  606 Cp | 20.96% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
 [12:13:36] (Wild Success) | Bellsprout 83 V |   14 Cp | 52.61% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[12:13:37] (INFO) Found 2 pokemon to transfer...
+[12:13:39] (TRANSFER) Bellsprout 111 V |  606 Cp | 20.96% | Lvl 23 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 272
+[12:13:41] (TRANSFER) Bellsprout 83 V |   14 Cp | 52.61% | Lvl 01 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 273
+[12:13:42] (POKESTOP) West Coast Park Amphitheatre in 103.61 m distance
+[12:13:42] (NAVIGATION) Distance to target location: 103.61 meters. Will take 12.86 seconds driving at 29kmh
+[12:13:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[12:13:55] (POKESTOP) Volleyball Arena in 188.55 m distance
+[12:13:55] (NAVIGATION) Distance to target location: 188.55 meters. Will take 19.96 seconds driving at 34kmh
+[12:13:56] (INFO) Found 1 catchable Pokemon
+[12:13:58] (Wild Success) | Rattata 136 V |  306 Cp | 44.74% | Lvl 22 | Chance: 0.31 | with a GreatBall and received XP 210
