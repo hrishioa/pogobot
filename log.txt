@@ -42751,3 +42751,14 @@
 [01:45:14] (BERRY) ItemRazzBerry used, remaining: 48
 [01:45:16] (Wild Success) | Paras 163 V |  416 Cp | 50.71% | Lvl 18 | Chance: 0.28 | with a GreatBall and received XP 210
 [01:45:17] (Wild Success) | Magikarp 107 V |  117 Cp | 69.76% | Lvl 18 | Chance: 0.49 | with a GreatBall and received XP 210
+[01:45:19] (INFO) Found 2 pokemon to transfer...
+[01:45:20] (TRANSFER) Paras 163 V |  416 Cp | 50.71% | Lvl 18 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 132
+[01:45:23] (TRANSFER) Magikarp 107 V |  117 Cp | 69.76% | Lvl 18 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 393
+[01:45:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[01:45:27] (POKESTOP) Underwater World  in 35.34 m distance
+[01:45:27] (NAVIGATION) Distance to target location: 35.34 meters. Will take 3.98 seconds driving at 32kmh
+[01:45:30] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[01:45:31] (POKESTOP) Wall Of Frogs in 123.8 m distance
+[01:45:31] (NAVIGATION) Distance to target location: 123.8 meters. Will take 15.92 seconds driving at 28kmh
+[01:45:44] (INFO) Found 2 catchable Pokemon
+[01:45:46] (Wild Success) | Exeggcute 165 V |  265 Cp | 73.84% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
