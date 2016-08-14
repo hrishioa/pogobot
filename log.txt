@@ -36711,3 +36711,5 @@
 [22:33:44] (NAVIGATION) Distance to target location: 141.04 meters. Will take 16.93 seconds driving at 30kmh
 [22:33:59] (INFO) Found 2 catchable Pokemon
 [22:34:01] (Wild Success) | Magnemite 102 V |  120 Cp | 27.77% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
+[22:34:02] (BERRY) ItemRazzBerry used, remaining: 42
+[22:34:03] (Wild Success) | Magnemite 148 V |  459 Cp | 29.70% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 210
