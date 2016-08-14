@@ -42422,3 +42422,4 @@
 [01:34:59] (INFO) Found 3 catchable Pokemon
 [01:35:01] (Wild Success) | Rattata 120 V |  139 Cp | 44.11% | Lvl 10 | Chance: 0.47 | with a GreatBall and received XP 210
 [01:35:02] (Wild Success) | Magikarp 102 V |  127 Cp | 63.66% | Lvl 20 | Chance: 0.46 | with a GreatBall and received XP 210
+[01:35:04] (Wild Success) | Weedle 120 V |  238 Cp | 41.16% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
