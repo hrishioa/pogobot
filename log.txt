@@ -22653,3 +22653,175 @@
 [08:42:04] (INFO) Found 1 catchable Pokemon
 [08:42:05] (BERRY) ItemRazzBerry used, remaining: 48
 [08:42:06] (Wild Success) | Staryu 169 V |  474 Cp | 71.82% | Lvl 19 | Chance: 0.34 | with a UltraBall and received XP 210
+[08:42:08] (INFO) Found 1 pokemon to transfer...
+[08:42:10] (TRANSFER) Staryu 169 V |  474 Cp | 71.82% | Lvl 19 | Best: [Staryu 177 V |  504 Cp | 75.41% | Lvl 20] | Candy: 100
+[08:42:13] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:42:14] ====== User Info ======
+[08:42:14] Name: Toonistic
+[08:42:14] Team: Blue
+[08:42:14] Level: 24 (LvLUp in 1h 4m | 108213/150000 XP)
+[08:42:14] Pokemon: 144
+[08:42:14] Stardust: 54916
+[08:42:14] ====== Items (339) ======
+[08:42:14] RazzBerry x 48
+[08:42:14] PokeBall x 56
+[08:42:14] GreatBall x 66
+[08:42:14] UltraBall x 21
+[08:42:14] Potion x 30
+[08:42:14] SuperPotion x 50
+[08:42:14] HyperPotion x 35
+[08:42:14] IncubatorBasicUnlimited x 1
+[08:42:14] IncubatorBasic x 0
+[08:42:14] Revive x 25
+[08:42:14] IncenseOrdinary x 2
+[08:42:14] LuckyEgg x 0
+[08:42:14] TroyDisk x 5
+[08:42:14] ====== Most Valuable ======
+[08:42:14] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[08:42:14] *Vaporeon           316 True Value | 1905 Cp | 75.82% Perfect | Lvl 25 | WaterGun/WaterPulse
+[08:42:14] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[08:42:14] Poliwrath           297 True Value | 1667 Cp | 65.99% Perfect | Lvl 25 | MudShot/IcePunch
+[08:42:14] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[08:42:14] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[08:42:14] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[08:42:14] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[08:42:14] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[08:42:14] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[08:42:14] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[08:42:14] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[08:42:14] Electrode           246 True Value |  786 Cp | 59.99% Perfect | Lvl 18 | Spark/HyperBeam
+[08:42:14] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[08:42:14] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[08:42:15] Venomoth            234 True Value |  784 Cp | 81.20% Perfect | Lvl 15 | BugBite/BugBuzz
+[08:42:15] Exeggcute           231 True Value |  681 Cp | 93.48% Perfect | Lvl 22 | Confusion/Psychic
+[08:42:16] Bulbasaur           229 True Value |  609 Cp | 97.81% Perfect | Lvl 20 | Tackle/SludgeBomb
+[08:42:17] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[08:42:18] Weezing             226 True Value |  865 Cp | 74.90% Perfect | Lvl 14 | Tackle/ShadowBall
+[08:42:18] ====== Highest CP ======
+[08:42:18] *Vaporeon           316 True Value | 1905 Cp | 75.82% Perfect | Lvl 25 | WaterGun/WaterPulse
+[08:42:18] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[08:42:19] Poliwrath           297 True Value | 1667 Cp | 65.99% Perfect | Lvl 25 | MudShot/IcePunch
+[08:42:19] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[08:42:19] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[08:42:19] Pidgeot             253 True Value | 1365 Cp | 57.24% Perfect | Lvl 25 | WingAttack/AerialAce
+[08:42:19] Vaporeon            288 True Value | 1330 Cp | 80.39% Perfect | Lvl 17 | WaterGun/HydroPump
+[08:42:20] Golduck             228 True Value | 1190 Cp | 29.42% Perfect | Lvl 20 | Confusion/HydroPump
+[08:42:20] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[08:42:20] Rapidash            238 True Value | 1149 Cp | 76.00% Perfect | Lvl 19 | LowKick/HeatWave
+[08:42:20] Rhydon              248 True Value | 1113 Cp | 77.17% Perfect | Lvl 18 | MudSlap/Earthquake
+[08:42:21] Golbat              218 True Value | 1062 Cp | 52.40% Perfect | Lvl 21 | WingAttack/AirCutter
+[08:42:21] Lapras              247 True Value | 1060 Cp | 68.61% Perfect | Lvl 13 | FrostBreath/DragonPulse
+[08:42:21] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[08:42:21] Golbat              219 True Value | 1020 Cp | 57.00% Perfect | Lvl 20 | Bite/AirCutter
+[08:42:21] Exeggutor           209 True Value | 1014 Cp | 43.42% Perfect | Lvl 13 | Confusion/SeedBomb
+[08:42:22] Flareon             246 True Value |  957 Cp | 83.10% Perfect | Lvl 13 | Ember/HeatWave
+[08:42:22] Primeape            197 True Value |  955 Cp | 66.48% Perfect | Lvl 19 | LowKick/NightSlash
+[08:42:22] Magneton            209 True Value |  942 Cp | 55.07% Perfect | Lvl 19 | ThunderShock/FlashCannon
+[08:42:22] Ponyta              212 True Value |  937 Cp | 68.22% Perfect | Lvl 23 | Tackle/FlameCharge
+[08:42:23] ====== Most Perfect Genetics ======
+[08:42:23] Bulbasaur           229 True Value |  609 Cp | 97.81% Perfect | Lvl 20 | Tackle/SludgeBomb
+[08:42:23] Goldeen             216 True Value |  597 Cp | 93.69% Perfect | Lvl 22 | Peck/AquaTail
+[08:42:23] Exeggcute           231 True Value |  681 Cp | 93.48% Perfect | Lvl 22 | Confusion/Psychic
+[08:42:23] *Magmar             303 True Value | 1406 Cp | 92.14% Perfect | Lvl 22 | KarateChop/Flamethrower
+[08:42:23] Exeggcute           208 True Value |  616 Cp | 91.38% Perfect | Lvl 20 | Confusion/AncientPower
+[08:42:24] Graveler            236 True Value |  805 Cp | 91.19% Perfect | Lvl 20 | RockThrow/Dig
+[08:42:24] Meowth              172 True Value |  231 Cp | 89.05% Perfect | Lvl 11 | Scratch/DarkPulse
+[08:42:24] Pinsir              273 True Value | 1370 Cp | 88.98% Perfect | Lvl 23 | RockSmash/ViceGrip
+[08:42:24] Jolteon             250 True Value | 1020 Cp | 88.12% Perfect | Lvl 17 | ThunderShock/Discharge
+[08:42:24] Poliwag             183 True Value |  440 Cp | 87.21% Perfect | Lvl 20 | Bubble/MudBomb
+[08:42:25] Paras               200 True Value |  431 Cp | 86.95% Perfect | Lvl 17 | BugBite/SeedBomb
+[08:42:25] Abra                200 True Value |  329 Cp | 86.76% Perfect | Lvl 20 | ZenHeadbutt/Psyshock
+[08:42:25] Mankey              196 True Value |  485 Cp | 86.20% Perfect | Lvl 20 | KarateChop/BrickBreak
+[08:42:25] Aerodactyl          173 True Value |  221 Cp | 86.15% Perfect | Lvl 04 | SteelWing/AncientPower
+[08:42:26] Weepinbell          204 True Value |  379 Cp | 86.13% Perfect | Lvl 08 | Acid/PowerWhip
+[08:42:26] Pinsir              264 True Value | 1184 Cp | 85.65% Perfect | Lvl 20 | FuryCutter/XScissor
+[08:42:26] Voltorb             208 True Value |  462 Cp | 85.08% Perfect | Lvl 20 | Spark/Thunderbolt
+[08:42:26] Electrode           169 True Value |  119 Cp | 84.90% Perfect | Lvl 03 | Spark/Discharge
+[08:42:26] Arcanine            323 True Value | 1794 Cp | 84.33% Perfect | Lvl 22 | Bite/Bulldoze
+[08:42:27] Mankey              180 True Value |  265 Cp | 84.33% Perfect | Lvl 11 | Scratch/CrossChop
+[08:42:27] (POKESTOP) Wall Of Innovations And Enterprise in 65.31 m distance
+[08:42:27] (NAVIGATION) Distance to target location: 65.31 meters. Will take 7.58 seconds driving at 31kmh
+[08:42:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:42:35] (ATTENTION) No locations in your area...
+[08:42:40] (INFO) Found 88 Pokestops
+[08:42:41] (POKESTOP) Fingerprint Like Wood Art in 144.96 m distance
+[08:42:41] (NAVIGATION) Distance to target location: 144.96 meters. Will take 17.39 seconds driving at 30kmh
+[08:42:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:42:59] (POKESTOP) University Cultural Center in 84.76 m distance
+[08:42:59] (NAVIGATION) Distance to target location: 84.76 meters. Will take 10.17 seconds driving at 30kmh
+[08:43:06] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemHyperPotion, 2 x ItemRevive, 2 x ItemPokeBall, 1 x ItemSuperPotion
+[08:43:07] (INFO) Found 4 Recyclable Items:
+[08:43:08] (RECYCLING) PokeBall x 13
+[08:43:09] (RECYCLING) Potion x 1
+[08:43:10] (RECYCLING) SuperPotion x 1
+[08:43:11] (RECYCLING) Revive x 2
+[08:43:14] (POKESTOP) Bronze Sculpture "Contentment" in 65.01 m distance
+[08:43:14] (NAVIGATION) Distance to target location: 65.01 meters. Will take 7.8 seconds driving at 30kmh
+[08:43:19] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemSuperPotion
+[08:43:21] (POKESTOP) Frustration of a Loner on a Rock in 93.53 m distance
+[08:43:21] (NAVIGATION) Distance to target location: 93.53 meters. Will take 12.03 seconds driving at 28kmh
+[08:43:31] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:43:33] (POKESTOP) Inverted Torsos in 63.37 m distance
+[08:43:33] (NAVIGATION) Distance to target location: 63.37 meters. Will take 8.15 seconds driving at 28kmh
+[08:43:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 2 x ItemPokeBall
+[08:43:41] (POKESTOP) Earth Mural in 57.31 m distance
+[08:43:41] (NAVIGATION) Distance to target location: 57.31 meters. Will take 6.66 seconds driving at 31kmh
+[08:43:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:43:47] (POKESTOP) Together Again in 78.64 m distance
+[08:43:48] (NAVIGATION) Distance to target location: 78.64 meters. Will take 9.13 seconds driving at 31kmh
+[08:43:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[08:43:56] (INFO) Found 3 Recyclable Items:
+[08:43:57] (RECYCLING) PokeBall x 9
+[08:43:57] (RECYCLING) Potion x 2
+[08:43:58] (RECYCLING) SuperPotion x 1
+[08:44:01] (POKESTOP) Proverb in a Corner in 80.94 m distance
+[08:44:01] (NAVIGATION) Distance to target location: 80.94 meters. Will take 9.71 seconds driving at 30kmh
+[08:44:09] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[08:44:11] (POKESTOP) Yong Siew Toh Conservatory of Music in 52.08 m distance
+[08:44:11] (NAVIGATION) Distance to target location: 52.08 meters. Will take 6.05 seconds driving at 31kmh
+[08:44:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:44:17] (POKESTOP) Writings on the Wall in 87.21 m distance
+[08:44:17] (NAVIGATION) Distance to target location: 87.21 meters. Will take 11.21 seconds driving at 28kmh
+[08:44:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:44:27] (POKESTOP) Sayings by the Stairs in 86.3 m distance
+[08:44:27] (NAVIGATION) Distance to target location: 86.3 meters. Will take 9.71 seconds driving at 32kmh
+[08:44:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 3 x ItemPokeBall
+[08:44:37] (POKESTOP) Alice Lee Plaza in 44.13 m distance
+[08:44:37] (NAVIGATION) Distance to target location: 44.13 meters. Will take 5.67 seconds driving at 28kmh
+[08:44:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:44:43] (INFO) Found 2 Recyclable Items:
+[08:44:43] (RECYCLING) PokeBall x 12
+[08:44:44] (RECYCLING) Revive x 1
+[08:44:46] (POKESTOP) Feeding Chickens in 113.07 m distance
+[08:44:46] (NAVIGATION) Distance to target location: 113.07 meters. Will take 12.72 seconds driving at 32kmh
+[08:44:57] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemGreatBall, 2 x ItemPokeBall
+[08:44:59] (POKESTOP) Raffles Hall in 142.06 m distance
+[08:44:59] (NAVIGATION) Distance to target location: 142.06 meters. Will take 17.05 seconds driving at 30kmh
+[08:45:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:45:16] (POKESTOP) NUS Sports and Recreation Centre in 142.19 m distance
+[08:45:16] (NAVIGATION) Distance to target location: 142.19 meters. Will take 17.06 seconds driving at 30kmh
+[08:45:48] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[08:45:50] (POKESTOP) Tree of Light Bulbs in 75.13 m distance
+[08:45:50] (NAVIGATION) Distance to target location: 75.13 meters. Will take 8.45 seconds driving at 32kmh
+[08:45:56] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[08:45:58] (POKESTOP) Student Service Centre in 68.88 m distance
+[08:45:58] (NAVIGATION) Distance to target location: 68.88 meters. Will take 8 seconds driving at 31kmh
+[08:46:05] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:46:06] (INFO) Found 3 Recyclable Items:
+[08:46:06] (RECYCLING) RazzBerry x 2
+[08:46:07] (RECYCLING) PokeBall x 10
+[08:46:08] (RECYCLING) Revive x 1
+[08:46:11] (POKESTOP) NUSSU Sign in 43.84 m distance
+[08:46:11] (NAVIGATION) Distance to target location: 43.84 meters. Will take 5.64 seconds driving at 28kmh
+[08:46:16] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:46:17] (POKESTOP) Runme Shaw CFA Studios in 91.46 m distance
+[08:46:17] (NAVIGATION) Distance to target location: 91.46 meters. Will take 11.35 seconds driving at 29kmh
+[08:46:28] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[08:46:29] (POKESTOP) Fire Painting  in 70.02 m distance
+[08:46:29] (NAVIGATION) Distance to target location: 70.02 meters. Will take 7.88 seconds driving at 32kmh
+[08:46:35] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[08:46:36] (POKESTOP) Locked in Tricked Out in 105.96 m distance
+[08:46:36] (NAVIGATION) Distance to target location: 105.96 meters. Will take 13.62 seconds driving at 28kmh
+[08:46:37] (INFO) Found 1 catchable Pokemon
+[08:46:39] (BERRY) ItemRazzBerry used, remaining: 49
+[08:46:40] (Wild Success) | Golbat 189 V |  721 Cp | 62.46% | Lvl 14 | Chance: 0.16 | with a GreatBall and received XP 210
