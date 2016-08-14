@@ -39581,3 +39581,36 @@
 [00:10:29] (NAVIGATION) Distance to target location: 242.7 meters. Will take 19.86 seconds driving at 44kmh
 [00:10:30] (INFO) Found 1 catchable Pokemon
 [00:10:33] (Wild Success) | Voltorb 135 V |  249 Cp | 45.29% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[00:10:34] (INFO) Found 1 pokemon to transfer...
+[00:10:36] (TRANSFER) Voltorb 135 V |  249 Cp | 45.29% | Lvl 12 | Best: [Voltorb 199 V |  439 Cp | 84.92% | Lvl 19] | Candy: 84
+[00:10:49] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[00:10:51] (POKESTOP) Triple Flying Dino in 336.23 m distance
+[00:10:51] (NAVIGATION) Distance to target location: 336.23 meters. Will take 19.84 seconds driving at 61kmh
+[00:11:11] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemHyperPotion
+[00:11:11] (POKESTOP) Spitalamosaurus in 57.67 m distance
+[00:11:11] (NAVIGATION) Distance to target location: 57.67 meters. Will take 6.7 seconds driving at 31kmh
+[00:11:17] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:11:18] (POKESTOP) Hostile Raptor in 81.09 m distance
+[00:11:18] (NAVIGATION) Distance to target location: 81.09 meters. Will take 10.43 seconds driving at 28kmh
+[00:11:27] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:11:28] (INFO) Found 4 Recyclable Items:
+[00:11:29] (RECYCLING) RazzBerry x 1
+[00:11:30] (RECYCLING) PokeBall x 6
+[00:11:31] (RECYCLING) SuperPotion x 1
+[00:11:31] (RECYCLING) HyperPotion x 1
+[00:11:35] (POKESTOP) Jurassic Waterfall in 79.97 m distance
+[00:11:35] (NAVIGATION) Distance to target location: 79.97 meters. Will take 9 seconds driving at 32kmh
+[00:11:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 1 x ItemRazzBerry, 1 x ItemPokeBall
+[00:11:44] (POKESTOP) Horseshoe Sculpture at Capella  in 265.69 m distance
+[00:11:44] (NAVIGATION) Distance to target location: 265.69 meters. Will take 19.93 seconds driving at 48kmh
+[00:12:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemPotion
+[00:12:05] (POKESTOP) Spa Botania in 271.26 m distance
+[00:12:05] (NAVIGATION) Distance to target location: 271.26 meters. Will take 19.93 seconds driving at 49kmh
+[00:12:26] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 3 x ItemPokeBall
+[00:12:27] (POKESTOP) The 4 Pines in 118.15 m distance
+[00:12:27] (NAVIGATION) Distance to target location: 118.15 meters. Will take 14.67 seconds driving at 29kmh
+[00:12:39] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:12:41] (POKESTOP) Ficus Point in 152.57 m distance
+[00:12:41] (NAVIGATION) Distance to target location: 152.57 meters. Will take 17.72 seconds driving at 31kmh
+[00:12:54] (INFO) Found 1 catchable Pokemon
+[00:12:55] (Wild Success) | Magikarp 104 V |   85 Cp | 71.21% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
