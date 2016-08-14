@@ -35005,3 +35005,10 @@
 [21:27:03] (NAVIGATION) Distance to target location: 181.64 meters. Will take 19.82 seconds driving at 33kmh
 [21:27:06] (INFO) Found 1 catchable Pokemon
 [21:27:08] (Wild Success) | Ekans 164 V |  273 Cp | 57.27% | Lvl 13 | Chance: 0.41 | with a GreatBall and received XP 420
+[21:27:10] (INFO) Found 1 pokemon to transfer...
+[21:27:12] (TRANSFER) Ekans 155 V |  247 Cp | 49.79% | Lvl 12 | Best: [Ekans 164 V |  273 Cp | 57.27% | Lvl 13] | Candy: 228
+[21:27:22] (POKESTOP) Wall Of Innovations And Enterprise in 71.1 m distance
+[21:27:22] (NAVIGATION) Distance to target location: 71.1 meters. Will take 8 seconds driving at 32kmh
+[21:27:26] (INFO) Found 1 catchable Pokemon
+[21:27:27] (BERRY) ItemRazzBerry used, remaining: 45
+[21:27:28] (Wild Success) | Bulbasaur 108 V |  368 Cp | 9.34% | Lvl 15 | Chance: 0.15 | with a UltraBall and received XP 420
