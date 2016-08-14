@@ -46062,3 +46062,15 @@
 [03:26:07] (NAVIGATION) Distance to target location: 65.53 meters. Will take 7.37 seconds driving at 32kmh
 [03:26:09] (INFO) Found 1 catchable Pokemon
 [03:26:11] (Wild Success) | Pidgey 94 V |  183 Cp | 20.60% | Lvl 12 | Chance: 0.43 | with a UltraBall and received XP 210
+[03:26:13] (INFO) Found 1 pokemon to transfer...
+[03:26:15] (TRANSFER) Pidgey 94 V |  183 Cp | 20.60% | Lvl 12 | Best: [Pidgey 164 V |  376 Cp | 70.91% | Lvl 21] | Candy: 1394
+[03:26:17] (INFO) Found 1 catchable Pokemon
+[03:26:18] (Wild Error) | Zubat 153 V |  307 Cp | 56.82% | Lvl 19 | Chance: 0.34 | with a UltraBall 
+[03:26:21] (POKESTOP) Alkaff Pavillion  in 43.52 m distance
+[03:26:21] (NAVIGATION) Distance to target location: 43.52 meters. Will take 5.05 seconds driving at 31kmh
+[03:26:23] (INFO) Found 1 catchable Pokemon
+[03:26:24] (Wild Error) | Zubat 153 V |  307 Cp | 56.82% | Lvl 19 | Chance: 0.34 | with a UltraBall 
+[03:26:29] (POKESTOP) Alkaff Mansion in 96.32 m distance
+[03:26:29] (NAVIGATION) Distance to target location: 96.32 meters. Will take 11.19 seconds driving at 31kmh
+[03:26:31] (INFO) Found 1 catchable Pokemon
+[03:26:32] (Wild Success) | Zubat 153 V |  307 Cp | 56.82% | Lvl 19 | Chance: 0.34 | with a PokeBall and received XP 210
