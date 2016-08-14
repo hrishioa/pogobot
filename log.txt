@@ -38734,3 +38734,7 @@
 [23:42:54] (INFO) Found 1 catchable Pokemon
 [23:42:55] (BERRY) ItemRazzBerry used, remaining: 41
 [23:42:56] (Wild Success) | Paras 136 V |  399 Cp | 36.22% | Lvl 18 | Chance: 0.28 | with a UltraBall and received XP 210
+[23:42:58] (INFO) Found 1 pokemon to transfer...
+[23:42:59] (TRANSFER) Paras 136 V |  399 Cp | 36.22% | Lvl 18 | Best: [Paras 177 V |  343 Cp | 72.89% | Lvl 14] | Candy: 100
+[23:43:01] (INFO) Found 1 catchable Pokemon
+[23:43:02] (Wild Success) | Poliwag 124 V |  322 Cp | 33.22% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
