@@ -39069,3 +39069,13 @@
 [23:55:25] (BERRY) ItemRazzBerry used, remaining: 51
 [23:55:27] (Wild Success) | Spearow 140 V |  381 Cp | 42.01% | Lvl 23 | Chance: 0.31 | with a GreatBall and received XP 210
 [23:55:28] (Wild Success) | Tentacool 104 V |  172 Cp | 35.49% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
+[23:55:30] (INFO) Found 2 pokemon to transfer...
+[23:55:31] (TRANSFER) Spearow 140 V |  381 Cp | 42.01% | Lvl 23 | Best: [Spearow 171 V |  368 Cp | 76.85% | Lvl 20] | Candy: 227
+[23:55:34] (TRANSFER) Tentacool 104 V |  172 Cp | 35.49% | Lvl 08 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 64
+[23:55:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[23:55:37] (ATTENTION) No locations in your area...
+[23:55:42] (INFO) Found 2 Pokestops
+[23:55:43] (POKESTOP) Lock Control Tower  in 436.63 m distance
+[23:55:43] (NAVIGATION) Distance to target location: 436.63 meters. Will take 22.46 seconds driving at 70kmh
+[23:55:48] (INFO) Found 1 catchable Pokemon
+[23:55:50] (Wild Success) | Krabby 113 V |   10 Cp | 54.79% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
