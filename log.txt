@@ -23674,3 +23674,10 @@
 [09:14:42] (INFO) Found 1 catchable Pokemon
 [09:14:43] (BERRY) ItemRazzBerry used, remaining: 48
 [09:14:44] (Wild Success) | Bellsprout 178 V |  530 Cp | 42.89% | Lvl 19 | Chance: 0.34 | with a GreatBall and received XP 210
+[09:14:46] (INFO) Found 1 pokemon to transfer...
+[09:14:47] (TRANSFER) Bellsprout 178 V |  530 Cp | 42.89% | Lvl 19 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 241
+[09:14:50] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[09:14:52] (POKESTOP) Clementi West White Orchid Mural in 87.42 m distance
+[09:14:52] (NAVIGATION) Distance to target location: 87.42 meters. Will take 11.24 seconds driving at 28kmh
+[09:14:56] (INFO) Found 1 catchable Pokemon
+[09:14:57] (Wild Success) | Kakuna 79 V |   76 Cp | 38.61% | Lvl 07 | Chance: 0.28 | with a UltraBall and received XP 210
