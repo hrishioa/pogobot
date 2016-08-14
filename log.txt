@@ -37890,3 +37890,7 @@
 [23:10:34] (TRANSFER) Tentacool 98 V |  310 Cp | 39.70% | Lvl 14 | Best: [Tentacool 142 V |  505 Cp | 52.65% | Lvl 22] | Candy: 33
 [23:10:36] (INFO) Found 1 catchable Pokemon
 [23:10:38] (Wild Success) | Magikarp 96 V |   63 Cp | 64.77% | Lvl 10 | Chance: 0.66 | with a PokeBall and received XP 210
+[23:10:40] (INFO) Found 1 pokemon to transfer...
+[23:10:42] (TRANSFER) Magikarp 96 V |   63 Cp | 64.77% | Lvl 10 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 245
+[23:10:43] (INFO) Found 1 catchable Pokemon
+[23:10:44] (Wild Success) | Magikarp 120 V |  157 Cp | 78.83% | Lvl 23 | Chance: 0.43 | with a GreatBall and received XP 210
