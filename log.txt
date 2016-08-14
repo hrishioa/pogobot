@@ -30600,3 +30600,7 @@
 [13:39:00] (TRANSFER) Magikarp 99 V |  102 Cp | 64.49% | Lvl 16 | Best: [Magikarp 123 V |  146 Cp | 82.57% | Lvl 21] | Candy: 190
 [13:39:15] (INFO) Found 1 catchable Pokemon
 [13:39:16] (Wild Success) | Horsea 167 V |  376 Cp | 69.08% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 210
+[13:39:18] (INFO) Found 1 pokemon to transfer...
+[13:39:19] (TRANSFER) Horsea 160 V |  440 Cp | 54.39% | Lvl 22 | Best: [Horsea 167 V |  376 Cp | 69.08% | Lvl 18] | Candy: 86
+[13:39:35] (INFO) Found 2 catchable Pokemon
+[13:39:37] (Wild Success) | Psyduck 145 V |  438 Cp | 36.18% | Lvl 16 | Chance: 0.37 | with a GreatBall and received XP 210
