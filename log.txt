@@ -34379,3 +34379,4 @@
 [21:03:22] (NAVIGATION) Distance to target location: 143.43 meters. Will take 16.14 seconds driving at 32kmh
 [21:03:30] (INFO) Found 2 catchable Pokemon
 [21:03:31] (Wild Success) | Jigglypuff 141 V |  411 Cp | 50.50% | Lvl 18 | Chance: 0.35 | with a UltraBall and received XP 420
+[21:03:33] (Wild Success) | Poliwag 140 V |   10 Cp | 70.20% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 420
