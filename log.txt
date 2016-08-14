@@ -30398,3 +30398,14 @@
 [13:33:23] (BERRY) ItemRazzBerry used, remaining: 46
 [13:33:24] (Wild Success Attempt #2) | Clefairy 158 V |  704 Cp | 47.95% | Lvl 23 | Chance: 0.18 | with a GreatBall 
 [13:33:25] (Wild Success) | Rattata 102 V |   35 Cp | 37.60% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[13:33:27] (INFO) Found 2 pokemon to transfer...
+[13:33:29] (TRANSFER) Zubat 149 V |  162 Cp | 58.45% | Lvl 10 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 898
+[13:33:32] (TRANSFER) Rattata 102 V |   35 Cp | 37.60% | Lvl 03 | Best: [Rattata 162 V |  314 Cp | 65.79% | Lvl 21] | Candy: 685
+[13:33:34] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:33:34] (POKESTOP) Tower Playground in 67.22 m distance
+[13:33:34] (NAVIGATION) Distance to target location: 67.22 meters. Will take 8.34 seconds driving at 29kmh
+[13:33:42] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:33:43] (POKESTOP) Wu Tai Shan  in 158.02 m distance
+[13:33:43] (NAVIGATION) Distance to target location: 158.02 meters. Will take 19.62 seconds driving at 29kmh
+[13:33:47] (INFO) Found 1 catchable Pokemon
+[13:33:49] (Wild Success) | Horsea 139 V |  284 Cp | 58.82% | Lvl 14 | Chance: 0.4 | with a GreatBall and received XP 210
