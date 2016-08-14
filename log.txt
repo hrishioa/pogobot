@@ -35950,3 +35950,19 @@
 [22:03:29] (NAVIGATION) Distance to target location: 137.88 meters. Will take 17.73 seconds driving at 28kmh
 [22:03:33] (INFO) Found 1 catchable Pokemon
 [22:03:35] (Wild Success) | Krabby 148 V |  348 Cp | 63.38% | Lvl 17 | Chance: 0.36 | with a GreatBall and received XP 210
+[22:03:36] (INFO) Found 1 pokemon to transfer...
+[22:03:38] (TRANSFER) Krabby 148 V |  348 Cp | 63.38% | Lvl 17 | Best: [Krabby 178 V |  430 Cp | 80.74% | Lvl 20] | Candy: 209
+[22:03:45] (POKESTOP) Survival Mask in 64.42 m distance
+[22:03:45] (NAVIGATION) Distance to target location: 64.42 meters. Will take 7.25 seconds driving at 32kmh
+[22:03:52] (POKESTOP) Lucy's Left Ear in 69.59 m distance
+[22:03:52] (NAVIGATION) Distance to target location: 69.59 meters. Will take 8.64 seconds driving at 29kmh
+[22:04:00] (POKESTOP) First the Dream Then the Nightmare in 57.67 m distance
+[22:04:00] (NAVIGATION) Distance to target location: 57.67 meters. Will take 6.7 seconds driving at 31kmh
+[22:04:05] (POKESTOP) Compounds of Five Cubes in 94.9 m distance
+[22:04:05] (NAVIGATION) Distance to target location: 94.9 meters. Will take 12.2 seconds driving at 28kmh
+[22:04:18] (POKESTOP) Synergy in Motion in 142.7 m distance
+[22:04:18] (NAVIGATION) Distance to target location: 142.7 meters. Will take 16.05 seconds driving at 32kmh
+[22:04:32] (POKESTOP) Sage In Shaw in 46.31 m distance
+[22:04:32] (NAVIGATION) Distance to target location: 46.31 meters. Will take 5.95 seconds driving at 28kmh
+[22:04:34] (INFO) Found 1 catchable Pokemon
+[22:04:36] (Wild Success) | Caterpie 78 V |   81 Cp | 14.52% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
