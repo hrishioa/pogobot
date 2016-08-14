@@ -30299,3 +30299,25 @@
 [13:29:22] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemRevive, 1 x ItemSuperPotion
 [13:29:23] (INFO) Found 1 catchable Pokemon
 [13:29:24] (Wild Success) | Pidgey 103 V |   60 Cp | 41.85% | Lvl 04 | Chance: 0.78 | with a PokeBall and received XP 210
+[13:29:26] (INFO) Found 1 pokemon to transfer...
+[13:29:28] (TRANSFER) Pidgey 103 V |   60 Cp | 41.85% | Lvl 04 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1190
+[13:29:28] (POKESTOP) West Coast Park Sign in 72.14 m distance
+[13:29:28] (NAVIGATION) Distance to target location: 72.14 meters. Will take 8.38 seconds driving at 31kmh
+[13:29:36] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:29:36] (INFO) Found 29 Pokestops
+[13:29:38] (POKESTOP) Pyramid Web with Slider in 84.56 m distance
+[13:29:38] (NAVIGATION) Distance to target location: 84.56 meters. Will take 10.5 seconds driving at 29kmh
+[13:29:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[13:29:47] (INFO) Found 4 Recyclable Items:
+[13:29:48] (RECYCLING) PokeBall x 6
+[13:29:48] (RECYCLING) Potion x 1
+[13:29:50] (RECYCLING) SuperPotion x 1
+[13:29:51] (RECYCLING) Revive x 3
+[13:29:54] (POKESTOP) 4 Mega Zip Lines in 60.14 m distance
+[13:29:54] (NAVIGATION) Distance to target location: 60.14 meters. Will take 7.22 seconds driving at 30kmh
+[13:29:59] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemUltraBall, 2 x ItemPokeBall
+[13:30:01] (POKESTOP) Red Fire Truck in 107.69 m distance
+[13:30:01] (NAVIGATION) Distance to target location: 107.69 meters. Will take 12.12 seconds driving at 32kmh
+[13:30:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[13:30:13] (INFO) Found 1 catchable Pokemon
+[13:30:15] (Wild Success) | Bellsprout 139 V |  394 Cp | 20.31% | Lvl 15 | Chance: 0.38 | with a GreatBall and received XP 210
