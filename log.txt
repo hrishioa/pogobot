@@ -44123,3 +44123,15 @@
 [02:25:53] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 1 x ItemPokeBall, 1 x ItemUltraBall
 [02:25:54] (INFO) Found 1 catchable Pokemon
 [02:25:55] (Wild Success) | Magnemite 95 V |   52 Cp | 18.00% | Lvl 03 | Chance: 0.92 | with a PokeBall and received XP 210
+[02:25:57] (INFO) Found 1 pokemon to transfer...
+[02:25:58] (TRANSFER) Magnemite 95 V |   52 Cp | 18.00% | Lvl 03 | Best: [Magnemite 208 V |  492 Cp | 87.41% | Lvl 20] | Candy: 229
+[02:25:59] (POKESTOP) Wine Art in 71.47 m distance
+[02:25:59] (NAVIGATION) Distance to target location: 71.47 meters. Will take 8.58 seconds driving at 30kmh
+[02:26:06] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRevive, 2 x ItemPokeBall
+[02:26:08] (POKESTOP) Adam & Eve in 71.03 m distance
+[02:26:08] (NAVIGATION) Distance to target location: 71.03 meters. Will take 8.52 seconds driving at 30kmh
+[02:26:14] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall
+[02:26:16] (POKESTOP) Sentosa in 129.68 m distance
+[02:26:16] (NAVIGATION) Distance to target location: 129.68 meters. Will take 15.56 seconds driving at 30kmh
+[02:26:21] (INFO) Found 2 catchable Pokemon
+[02:26:23] (Wild Success) | Magnemite 136 V |  171 Cp | 41.80% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
