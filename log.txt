@@ -44855,3 +44855,17 @@
 [02:48:42] (NAVIGATION) Distance to target location: 127.22 meters. Will take 15.79 seconds driving at 29kmh
 [02:48:49] (INFO) Found 1 catchable Pokemon
 [02:48:51] (Wild Success) | Ekans 119 V |  206 Cp | 17.89% | Lvl 11 | Chance: 0.45 | with a GreatBall and received XP 210
+[02:48:53] (INFO) Found 1 pokemon to transfer...
+[02:48:55] (TRANSFER) Ekans 119 V |  206 Cp | 17.89% | Lvl 11 | Best: [Ekans 185 V |  439 Cp | 73.51% | Lvl 20] | Candy: 126
+[02:48:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemPokeBall, 1 x ItemUltraBall
+[02:48:59] (POKESTOP) Calophyllum Inophyllum in 94.53 m distance
+[02:48:59] (NAVIGATION) Distance to target location: 94.53 meters. Will take 10.63 seconds driving at 32kmh
+[02:49:08] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemGreatBall, 2 x ItemPokeBall, 1 x ItemPotion
+[02:49:09] (INFO) Found 3 Recyclable Items:
+[02:49:10] (RECYCLING) PokeBall x 9
+[02:49:11] (RECYCLING) Potion x 1
+[02:49:12] (RECYCLING) Revive x 1
+[02:49:14] (POKESTOP) Bukit Chermin Boardwalk in 107.89 m distance
+[02:49:14] (NAVIGATION) Distance to target location: 107.89 meters. Will take 13.39 seconds driving at 29kmh
+[02:49:21] (INFO) Found 1 catchable Pokemon
+[02:49:22] (Wild Success) | Magikarp 70 V |   71 Cp | 37.64% | Lvl 13 | Chance: 0.58 | with a PokeBall and received XP 210
