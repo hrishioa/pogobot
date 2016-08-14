@@ -31583,3 +31583,5 @@
 [14:13:48] (TRANSFER) Bellsprout 115 V |  638 Cp | 24.32% | Lvl 24 | Best: [Bellsprout 222 V |  713 Cp | 68.53% | Lvl 24] | Candy: 364
 [14:13:49] (INFO) Found 2 catchable Pokemon
 [14:13:51] (Wild Success) | Pidgey 116 V |   10 Cp | 59.54% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[14:13:52] (BERRY) ItemRazzBerry used, remaining: 48
+[14:13:52] (Wild Success) | Paras 154 V |  478 Cp | 45.72% | Lvl 21 | Chance: 0.26 | with a GreatBall and received XP 210
