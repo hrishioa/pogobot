@@ -45407,3 +45407,26 @@
 [03:07:31] (TRANSFER) Zubat 147 V |  315 Cp | 64.73% | Lvl 19 | Best: [Zubat 182 V |  349 Cp | 82.29% | Lvl 20] | Candy: 736
 [03:07:33] (INFO) Found 1 catchable Pokemon
 [03:07:34] (Wild Success) | Tentacool 81 V |  105 Cp | 43.96% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[03:07:36] (INFO) Found 1 pokemon to transfer...
+[03:07:38] (TRANSFER) Tentacool 81 V |  105 Cp | 43.96% | Lvl 05 | Best: [Tentacool 173 V |  546 Cp | 66.03% | Lvl 23] | Candy: 100
+[03:07:40] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[03:07:41] (POKESTOP) Telok Ayer Chinese Methodist Church  in 52 m distance
+[03:07:41] (NAVIGATION) Distance to target location: 52 meters. Will take 6.04 seconds driving at 31kmh
+[03:07:46] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemSuperPotion, 2 x ItemPokeBall
+[03:07:47] (INFO) Found 3 Recyclable Items:
+[03:07:47] (RECYCLING) PokeBall x 10
+[03:07:48] (RECYCLING) SuperPotion x 2
+[03:07:49] (RECYCLING) Revive x 1
+[03:07:52] (POKESTOP) Dalmations Mural in 65.47 m distance
+[03:07:52] (NAVIGATION) Distance to target location: 65.47 meters. Will take 8.13 seconds driving at 29kmh
+[03:07:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemUltraBall
+[03:07:59] (POKESTOP) Soka Peace Centre in 253.07 m distance
+[03:07:59] (NAVIGATION) Distance to target location: 253.07 meters. Will take 19.81 seconds driving at 46kmh
+[03:08:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRevive, 1 x ItemGreatBall, 1 x ItemPokeBall
+[03:08:19] (POKESTOP) Blangah View in 412.19 m distance
+[03:08:19] (NAVIGATION) Distance to target location: 412.19 meters. Will take 21.2 seconds driving at 70kmh
+[03:08:41] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall, 1 x ItemPotion
+[03:08:43] (POKESTOP) Telok Blangah Circular Bridge in 156.93 m distance
+[03:08:43] (NAVIGATION) Distance to target location: 156.93 meters. Will take 19.48 seconds driving at 29kmh
+[03:08:48] (INFO) Found 1 catchable Pokemon
+[03:08:49] (Wild Success) | Zubat 119 V |  121 Cp | 41.98% | Lvl 08 | Chance: 0.53 | with a PokeBall and received XP 210
