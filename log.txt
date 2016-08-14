@@ -36953,3 +36953,4 @@
 [22:40:10] (NAVIGATION) Distance to target location: 149.91 meters. Will take 17.41 seconds driving at 31kmh
 [22:40:24] (INFO) Found 2 catchable Pokemon
 [22:40:26] (Wild Success) | Magnemite 119 V |   10 Cp | 45.71% | Lvl 01 | Chance: 1 | with a PokeBall and received XP 210
+[22:40:28] (Wild Success) | Rattata 127 V |  166 Cp | 42.62% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
