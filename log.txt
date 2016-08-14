@@ -38708,3 +38708,13 @@
 [23:41:21] (INFO) Found 2 catchable Pokemon
 [23:41:23] (Wild Success) | Magikarp 89 V |   42 Cp | 59.71% | Lvl 07 | Chance: 0.8 | with a PokeBall and received XP 210
 [23:41:24] (Wild Success) | Poliwag 132 V |  231 Cp | 39.85% | Lvl 12 | Chance: 0.43 | with a GreatBall and received XP 210
+[23:41:26] (INFO) Found 2 pokemon to transfer...
+[23:41:28] (TRANSFER) Poliwag 132 V |  231 Cp | 39.85% | Lvl 12 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 136
+[23:41:30] (TRANSFER) Magikarp 89 V |   42 Cp | 59.71% | Lvl 07 | Best: [Magikarp 131 V |  145 Cp | 92.08% | Lvl 20] | Candy: 273
+[23:41:38] (INFO) Found 1 catchable Pokemon
+[23:41:38] (Wild Flee) | Voltorb 158 V |  225 Cp | 74.49% | Lvl 10 | Chance: 0.47 | with a GreatBall 
+[23:41:58] (INFO) Found 2 catchable Pokemon
+[23:41:59] (Wild Escape) | Psyduck 145 V |  356 Cp | 36.67% | Lvl 13 | Chance: 0.41 | with a GreatBall 
+[23:42:00] (Wild Success Attempt #2) | Psyduck 145 V |  356 Cp | 36.67% | Lvl 13 | Chance: 0.41 | with a GreatBall 
+[23:42:01] (BERRY) ItemRazzBerry used, remaining: 42
+[23:42:02] (Wild Success) | Eevee 182 V |  523 Cp | 74.76% | Lvl 18 | Chance: 0.28 | with a UltraBall and received XP 210
