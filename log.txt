@@ -34386,3 +34386,8 @@
 [21:03:40] (INFO) Found 1 catchable Pokemon
 [21:03:41] (BERRY) ItemRazzBerry used, remaining: 47
 [21:03:42] (Wild Success) | Voltorb 175 V |  526 Cp | 50.02% | Lvl 25 | Chance: 0.29 | with a UltraBall and received XP 420
+[21:03:46] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[21:03:47] (POKESTOP) CMMAC in 103.62 m distance
+[21:03:47] (NAVIGATION) Distance to target location: 103.62 meters. Will take 12.03 seconds driving at 31kmh
+[21:03:53] (INFO) Found 1 catchable Pokemon
+[21:03:54] (Wild Success) | Spearow 124 V |  217 Cp | 44.59% | Lvl 13 | Chance: 0.41 | with a UltraBall and received XP 420
