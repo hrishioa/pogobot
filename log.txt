@@ -45442,3 +45442,20 @@
 [03:09:16] (INFO) Found 1 catchable Pokemon
 [03:09:17] (BERRY) ItemRazzBerry used, remaining: 41
 [03:09:18] (Wild Success) | Poliwag 168 V |  499 Cp | 65.97% | Lvl 24 | Chance: 0.3 | with a UltraBall and received XP 210
+[03:09:20] (INFO) Found 1 pokemon to transfer...
+[03:09:21] (TRANSFER) Poliwag 163 V |  255 Cp | 74.72% | Lvl 12 | Best: [Poliwag 175 V |  357 Cp | 69.98% | Lvl 17] | Candy: 196
+[03:09:23] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 4 x ItemPokeBall
+[03:09:24] (INFO) Found 3 Recyclable Items:
+[03:09:25] (RECYCLING) PokeBall x 12
+[03:09:26] (RECYCLING) Potion x 1
+[03:09:27] (RECYCLING) Revive x 2
+[03:09:29] (POKESTOP) Telok Blangah Community Club in 142.51 m distance
+[03:09:29] (NAVIGATION) Distance to target location: 142.51 meters. Will take 16.03 seconds driving at 32kmh
+[03:09:44] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemGreatBall, 2 x ItemPokeBall
+[03:09:46] (POKESTOP) Telok Blangah Mall in 111.3 m distance
+[03:09:46] (NAVIGATION) Distance to target location: 111.3 meters. Will take 12.93 seconds driving at 31kmh
+[03:09:58] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 3 x ItemPokeBall
+[03:09:59] (POKESTOP) Telok Blangah Community Club in 152.89 m distance
+[03:09:59] (NAVIGATION) Distance to target location: 152.89 meters. Will take 18.35 seconds driving at 30kmh
+[03:10:11] (INFO) Found 1 catchable Pokemon
+[03:10:13] (Wild Success) | Zubat 113 V |   91 Cp | 49.39% | Lvl 06 | Chance: 0.62 | with a PokeBall and received XP 210
