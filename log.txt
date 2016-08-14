@@ -23125,3 +23125,26 @@
 [08:57:04] (TRANSFER) Pidgey 139 V |  387 Cp | 50.15% | Lvl 23 | Best: [Pidgey 146 V |  343 Cp | 56.62% | Lvl 20] | Candy: 1059
 [08:57:05] (INFO) Found 1 catchable Pokemon
 [08:57:06] (Wild Success) | Zubat 153 V |   79 Cp | 70.47% | Lvl 05 | Chance: 0.68 | with a PokeBall and received XP 210
+[08:57:08] (INFO) Found 1 pokemon to transfer...
+[08:57:10] (TRANSFER) Zubat 153 V |   79 Cp | 70.47% | Lvl 05 | Best: [Zubat 177 V |  349 Cp | 82.14% | Lvl 20] | Candy: 770
+[08:57:12] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemPotion, 1 x ItemUltraBall, 1 x ItemGreatBall
+[08:57:13] (POKESTOP) A Spring Of Gratitude  in 52.62 m distance
+[08:57:13] (NAVIGATION) Distance to target location: 52.62 meters. Will take 6.31 seconds driving at 30kmh
+[08:57:18] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemPokeBall, 1 x ItemSuperPotion
+[08:57:18] (INFO) Found 3 Recyclable Items:
+[08:57:19] (RECYCLING) PokeBall x 5
+[08:57:20] (RECYCLING) Potion x 3
+[08:57:21] (RECYCLING) SuperPotion x 1
+[08:57:23] (POKESTOP) Painted Glass Soccer Pane in 70.83 m distance
+[08:57:23] (NAVIGATION) Distance to target location: 70.83 meters. Will take 7.97 seconds driving at 32kmh
+[08:57:31] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 1 x ItemUltraBall, 5 x ItemPokeBall
+[08:57:32] (POKESTOP) Spring of Gratitude in 55.3 m distance
+[08:57:32] (NAVIGATION) Distance to target location: 55.3 meters. Will take 7.11 seconds driving at 28kmh
+[08:57:38] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:57:39] (POKESTOP) Survival (Rocker) in 150.32 m distance
+[08:57:39] (NAVIGATION) Distance to target location: 150.32 meters. Will take 18.04 seconds driving at 30kmh
+[08:57:55] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[08:57:57] (POKESTOP) Saying By The Founder in 155.18 m distance
+[08:57:57] (NAVIGATION) Distance to target location: 155.18 meters. Will take 18.02 seconds driving at 31kmh
+[08:58:05] (INFO) Found 2 catchable Pokemon
+[08:58:06] (Wild Success) | Zubat 106 V |  140 Cp | 47.28% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 210
