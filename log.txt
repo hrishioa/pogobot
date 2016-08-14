@@ -41016,3 +41016,26 @@
 [00:53:41] (INFO) Found 1 catchable Pokemon
 [00:53:43] (BERRY) ItemRazzBerry used, remaining: 49
 [00:53:43] (Wild Success) | Pikachu 117 V |  416 Cp | 9.89% | Lvl 21 | Chance: 0.13 | with a UltraBall and received XP 210
+[00:53:45] (INFO) Found 1 pokemon to transfer...
+[00:53:47] (TRANSFER) Pikachu 117 V |  416 Cp | 9.89% | Lvl 21 | Best: [Pikachu 159 V |  385 Cp | 55.84% | Lvl 17] | Candy: 58
+[00:53:48] (POKESTOP) Monster Rock in 45.37 m distance
+[00:53:48] (NAVIGATION) Distance to target location: 45.37 meters. Will take 5.83 seconds driving at 28kmh
+[00:53:52] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 
+[00:53:53] (INFO) Found 3 Recyclable Items:
+[00:53:53] (RECYCLING) PokeBall x 8
+[00:53:54] (RECYCLING) SuperPotion x 1
+[00:53:55] (RECYCLING) Revive x 1
+[00:53:58] (POKESTOP) USS Hollywood Directors in 60.79 m distance
+[00:53:58] (NAVIGATION) Distance to target location: 60.79 meters. Will take 7.55 seconds driving at 29kmh
+[00:54:04] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 2 x ItemRazzBerry, 1 x ItemPokeBall
+[00:54:05] (POKESTOP) Casa De Wild Food Court in 100.71 m distance
+[00:54:05] (NAVIGATION) Distance to target location: 100.71 meters. Will take 11.7 seconds driving at 31kmh
+[00:54:15] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 3 x ItemPokeBall
+[00:54:16] (POKESTOP) The Frog Prince in 81.32 m distance
+[00:54:16] (NAVIGATION) Distance to target location: 81.32 meters. Will take 9.44 seconds driving at 31kmh
+[00:54:24] (POKESTOP) XP: 50, Gems: 0, Eggs: 0, Items: 1 x ItemRazzBerry, 2 x ItemPokeBall, 1 x ItemHyperPotion
+[00:54:25] (POKESTOP) Royal Fountain in 58.39 m distance
+[00:54:25] (NAVIGATION) Distance to target location: 58.39 meters. Will take 6.78 seconds driving at 31kmh
+[00:54:30] (INFO) Found 1 catchable Pokemon
+[00:54:31] (BERRY) ItemRazzBerry used, remaining: 51
+[00:54:33] (Wild Success) | Magnemite 157 V |  499 Cp | 42.12% | Lvl 23 | Chance: 0.31 | with a UltraBall and received XP 210
