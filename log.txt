@@ -33491,3 +33491,10 @@
 [20:38:29] (NAVIGATION) Distance to target location: 196.65 meters. Will take 19.66 seconds driving at 36kmh
 [20:38:45] (INFO) Found 1 catchable Pokemon
 [20:38:46] (Wild Success) | Caterpie 71 V |   79 Cp | 8.48% | Lvl 09 | Chance: 0.5 | with a PokeBall and received XP 420
+[20:38:48] (INFO) Found 1 pokemon to transfer...
+[20:38:50] (TRANSFER) Caterpie 71 V |   79 Cp | 8.48% | Lvl 09 | Best: [Caterpie 107 V |  182 Cp | 38.62% | Lvl 18] | Candy: 134
+[20:38:53] (POKESTOP) XP: 100, Gems: 0, Eggs: 0, Items: 
+[20:38:54] (POKESTOP) Raffles Hall in 81.91 m distance
+[20:38:54] (NAVIGATION) Distance to target location: 81.91 meters. Will take 9.22 seconds driving at 32kmh
+[20:38:57] (INFO) Found 1 catchable Pokemon
+[20:38:59] (Wild Success) | Pidgey 117 V |  350 Cp | 32.41% | Lvl 22 | Chance: 0.31 | with a UltraBall and received XP 420
